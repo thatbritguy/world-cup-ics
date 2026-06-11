@@ -12,8 +12,18 @@ ROOT = Path(__file__).resolve().parents[1]
 UPDATE_END_DATE = date(2026, 7, 31)
 
 
-def run(*arguments: str) -> None:
-    subprocess.run([sys.executable, *arguments], cwd=ROOT, check=True)
+def run(*arguments: str, required: bool = True) -> bool:
+    result = subprocess.run([sys.executable, *arguments], cwd=ROOT, check=False)
+    if result.returncode == 0:
+        return True
+    if required:
+        raise subprocess.CalledProcessError(result.returncode, result.args)
+    print(
+        f"Warning: optional step {' '.join(arguments)} failed; "
+        "continuing with cached enrichment data",
+        file=sys.stderr,
+    )
+    return False
 
 
 def main() -> None:
@@ -28,11 +38,10 @@ def main() -> None:
 
     force = ("--force",) if args.force else ()
     run("scripts/fetch_worldcup.py", *force)
-    run("scripts/scrape_broadcasters.py", *force)
+    run("scripts/scrape_broadcasters.py", *force, required=False)
     run("scripts/generate_calendar.py")
     run("scripts/validate_calendar.py")
 
 
 if __name__ == "__main__":
     main()
-

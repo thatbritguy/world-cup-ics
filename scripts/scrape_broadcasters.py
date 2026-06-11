@@ -147,8 +147,13 @@ def main() -> None:
     fixture_parser = FixtureParser()
     fixture_parser.feed(read_page(args.input))
     page_fixtures = fixture_parser.fixtures
-    if len(page_fixtures) != 104:
-        raise ValueError(f"Expected 104 broadcast fixtures, found {len(page_fixtures)}")
+    if not page_fixtures:
+        raise ValueError("Broadcast page contained no fixtures")
+    if len(previous) != 104 and len(page_fixtures) != 104:
+        raise ValueError(
+            "A partial broadcast page cannot initialize the broadcaster cache: "
+            f"found {len(page_fixtures)} fixtures"
+        )
 
     source = load_json(DATA_DIR / "worldcup.json")
     validate_worldcup(source)
@@ -214,13 +219,15 @@ def main() -> None:
             "matched_by": matched_by,
         }
 
-    if len(output) != 104 or len(used) != 104:
+    if len(output) != 104 or len(used) != len(page_fixtures):
         raise ValueError("Broadcaster mapping is incomplete")
     write_json(target, dict(sorted(output.items())))
     populated = sum(value.get("channel") in ALLOWED_CHANNELS for value in output.values())
-    print(f"Mapped 104 broadcast slots; {populated} channels populated")
+    print(
+        f"Refreshed {len(page_fixtures)} broadcast fixtures; "
+        f"cache retains 104 slots with {populated} channels populated"
+    )
 
 
 if __name__ == "__main__":
     main()
-
