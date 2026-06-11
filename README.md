@@ -9,18 +9,19 @@ Use this calendar URL in Apple Calendar, Google Calendar, Outlook, or another
 calendar application that supports subscribed `.ics` calendars:
 
 ```text
-https://raw.githubusercontent.com/thatbritguy/world-cup-ics/main/ics/world-cup-2026.ics
+https://raw.githubusercontent.com/thatbritguy/world-cup-ics/master/ics/world-cup-2026.ics
 ```
 
 Apple Calendar also accepts the `webcal` form:
 
 ```text
-webcal://raw.githubusercontent.com/thatbritguy/world-cup-ics/main/ics/world-cup-2026.ics
+webcal://raw.githubusercontent.com/thatbritguy/world-cup-ics/master/ics/world-cup-2026.ics
 ```
 
-Each event includes the kickoff time, stadium, UK broadcaster, a Forza Football
-match link, and alerts 15 minutes before kickoff and at kickoff. Results and
-goalscorers are added when they appear in the upstream fixture data.
+Each event includes the kickoff time, stadium, geographic coordinates for map
+integration, UK broadcaster, a Forza Football match link, and alerts 15 minutes
+before kickoff and at kickoff. Results and goalscorers are added when they
+appear in the upstream fixture data.
 
 ## Event format
 
@@ -78,4 +79,3 @@ data/2026/worldcup.broadcasters.json   UK channel enrichment
 data/2026/overrides.json               Manual per-match corrections
 ics/world-cup-2026.ics                 Published calendar feed
 ```
-

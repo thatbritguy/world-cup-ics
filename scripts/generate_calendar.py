@@ -12,6 +12,7 @@ from common import (
     country_index,
     display_city,
     event_uid,
+    format_geo,
     fold_ics_line,
     ics_escape,
     load_json,
@@ -129,6 +130,13 @@ def location(match: dict[str, Any], stadiums: dict[str, dict[str, Any]]) -> str:
     return f"{stadium['name']}, {display_city(stadium['city'])}"
 
 
+def geo(match: dict[str, Any], stadiums: dict[str, dict[str, Any]]) -> str:
+    stadium = stadiums.get(match["ground"])
+    if not stadium:
+        raise ValueError(f"No stadium coordinates for {match['ground']}")
+    return format_geo(stadium["coords"])
+
+
 def event_lines(properties: dict[str, Any]) -> list[str]:
     lines = [
         "BEGIN:VEVENT",
@@ -140,6 +148,7 @@ def event_lines(properties: dict[str, Any]) -> list[str]:
         f"DTEND:{properties['dtend']}",
         f"SUMMARY:{ics_escape(properties['summary'])}",
         f"LOCATION:{ics_escape(properties['location'])}",
+        f"GEO:{properties['geo']}",
         f"DESCRIPTION:{ics_escape(properties['description'])}",
         f"URL:{properties['url']}",
         "STATUS:CONFIRMED",
@@ -206,6 +215,7 @@ def main() -> None:
                 f"{score_summary(match, home, away)} [{sequence:03d}]"
             ),
             "location": location(match, stadiums),
+            "geo": geo(match, stadiums),
             "description": description(match, home, away, channel),
             "url": FORZA_URL_TEMPLATE.format(forza_match_id=forza_id),
         }
@@ -236,4 +246,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

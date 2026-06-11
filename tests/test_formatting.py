@@ -8,7 +8,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / "scripts"))
 
-from common import country_index, load_json  # noqa: E402
+from common import country_index, format_geo, load_json  # noqa: E402
 from generate_calendar import description, score_summary, team_details  # noqa: E402
 
 
@@ -78,7 +78,18 @@ class ResultFormattingTests(unittest.TestCase):
         self.assertEqual(team_details("Korea Republic", self.countries)["code"], "KOR")
         self.assertEqual(team_details("Czechia", self.countries)["code"], "CZE")
 
+    def test_dms_coordinates(self) -> None:
+        self.assertEqual(
+            format_geo('19°18\'11"N 99°09\'02"W'),
+            "19.303056;-99.150556",
+        )
+
+    def test_decimal_coordinates(self) -> None:
+        self.assertEqual(
+            format_geo("37.403°N 121.970°W"),
+            "37.403000;-121.970000",
+        )
+
 
 if __name__ == "__main__":
     unittest.main()
-

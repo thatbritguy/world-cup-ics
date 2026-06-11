@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
 from __future__ import annotations
 
+import re
+
 from common import CALENDAR_PATH, DATA_DIR, event_uid, load_json
 
 
@@ -31,6 +33,17 @@ def main() -> None:
     if lines.count("BEGIN:VALARM") != 208 or lines.count("END:VALARM") != 208:
         raise ValueError("Each event must contain two alerts")
 
+    geo_lines = [line for line in lines if line.startswith("GEO:")]
+    if len(geo_lines) != 104:
+        raise ValueError("Each event must contain a GEO property")
+    for line in geo_lines:
+        matched = re.fullmatch(r"GEO:(-?\d+(?:\.\d+)?);(-?\d+(?:\.\d+)?)", line)
+        if not matched:
+            raise ValueError(f"Invalid GEO property: {line}")
+        latitude, longitude = map(float, matched.groups())
+        if not -90 <= latitude <= 90 or not -180 <= longitude <= 180:
+            raise ValueError(f"GEO property is out of range: {line}")
+
     uids = [line.removeprefix("UID:") for line in lines if line.startswith("UID:")]
     expected = [event_uid(sequence) for sequence in range(1, 105)]
     if uids != expected or len(set(uids)) != 104:
@@ -56,9 +69,11 @@ def main() -> None:
     if codepoints != expected_codepoints:
         raise ValueError("England flag is not the full subdivision tag sequence")
 
-    print("Calendar validation passed: 104 events, 104 unique UIDs, 208 alerts")
+    print(
+        "Calendar validation passed: 104 events, 104 unique UIDs, "
+        "104 GEO properties, 208 alerts"
+    )
 
 
 if __name__ == "__main__":
     main()
-

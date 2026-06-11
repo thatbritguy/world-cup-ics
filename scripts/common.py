@@ -172,3 +172,27 @@ def display_city(city: str) -> str:
     parenthetical = re.search(r"\(([^()]*)\)$", city)
     return parenthetical.group(1) if parenthetical else city
 
+
+def parse_geo(coords: str) -> tuple[float, float]:
+    pattern = re.compile(
+        r"(?P<degrees>\d+(?:\.\d+)?)°"
+        r"(?:(?P<minutes>\d+(?:\.\d+)?)')?"
+        r'(?:(?P<seconds>\d+(?:\.\d+)?)")?'
+        r"(?P<direction>[NSEW])"
+    )
+    values: list[float] = []
+    for match in pattern.finditer(coords):
+        decimal = float(match.group("degrees"))
+        decimal += float(match.group("minutes") or 0) / 60
+        decimal += float(match.group("seconds") or 0) / 3600
+        if match.group("direction") in {"S", "W"}:
+            decimal *= -1
+        values.append(decimal)
+    if len(values) != 2:
+        raise ValueError(f"Unsupported stadium coordinates: {coords}")
+    return values[0], values[1]
+
+
+def format_geo(coords: str) -> str:
+    latitude, longitude = parse_geo(coords)
+    return f"{latitude:.6f};{longitude:.6f}"
