@@ -21,6 +21,7 @@ concurrency:
 jobs:
   update:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
       - uses: actions/checkout@v4
 
@@ -29,8 +30,10 @@ jobs:
           python-version: "3.12"
 
       - name: Update and validate calendar
+        env:
+          FORCE_UPDATE: ${{ inputs.force }}
         run: |
-          if [[ "${{ inputs.force || false }}" == "true" ]]; then
+          if [[ "$FORCE_UPDATE" == "true" ]]; then
             python scripts/update_calendar.py --force
           else
             python scripts/update_calendar.py
@@ -50,4 +53,3 @@ jobs:
           fi
           git commit -m "Update World Cup calendar"
           git push
-
