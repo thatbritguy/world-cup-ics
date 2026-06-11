@@ -1,0 +1,418 @@
+{
+  "wc2026-match-001": {
+    "forza_match_id": 1219435446,
+    "matched_by": "teams_local_kickoff"
+  },
+  "wc2026-match-002": {
+    "forza_match_id": 1219437888,
+    "matched_by": "teams_local_kickoff"
+  },
+  "wc2026-match-003": {
+    "forza_match_id": 1219437889,
+    "matched_by": "teams_local_kickoff"
+  },
+  "wc2026-match-004": {
+    "forza_match_id": 1219435447,
+    "matched_by": "teams_local_kickoff"
+  },
+  "wc2026-match-005": {
+    "forza_match_id": 1219437890,
+    "matched_by": "teams_local_kickoff"
+  },
+  "wc2026-match-006": {
+    "forza_match_id": 1219435448,
+    "matched_by": "teams_local_kickoff"
+  },
+  "wc2026-match-007": {
+    "forza_match_id": 1219437891,
+    "matched_by": "teams_local_kickoff"
+  },
+  "wc2026-match-008": {
+    "forza_match_id": 1219435449,
+    "matched_by": "teams_local_kickoff"
+  },
+  "wc2026-match-009": {
+    "forza_match_id": 1219437892,
+    "matched_by": "teams_local_kickoff"
+  },
+  "wc2026-match-010": {
+    "forza_match_id": 1219435450,
+    "matched_by": "teams_local_kickoff"
+  },
+  "wc2026-match-011": {
+    "forza_match_id": 1219435451,
+    "matched_by": "teams_local_kickoff"
+  },
+  "wc2026-match-012": {
+    "forza_match_id": 1219437893,
+    "matched_by": "teams_local_kickoff"
+  },
+  "wc2026-match-013": {
+    "forza_match_id": 1219435455,
+    "matched_by": "teams_local_kickoff"
+  },
+  "wc2026-match-014": {
+    "forza_match_id": 1219435456,
+    "matched_by": "teams_local_kickoff"
+  },
+  "wc2026-match-015": {
+    "forza_match_id": 1219435459,
+    "matched_by": "teams_local_kickoff"
+  },
+  "wc2026-match-016": {
+    "forza_match_id": 1219435457,
+    "matched_by": "teams_local_kickoff"
+  },
+  "wc2026-match-017": {
+    "forza_match_id": 1219435458,
+    "matched_by": "teams_local_kickoff"
+  },
+  "wc2026-match-018": {
+    "forza_match_id": 1219435460,
+    "matched_by": "teams_local_kickoff"
+  },
+  "wc2026-match-019": {
+    "forza_match_id": 1219435452,
+    "matched_by": "teams_local_kickoff"
+  },
+  "wc2026-match-020": {
+    "forza_match_id": 1219437894,
+    "matched_by": "teams_local_kickoff"
+  },
+  "wc2026-match-021": {
+    "forza_match_id": 1219435453,
+    "matched_by": "teams_local_kickoff"
+  },
+  "wc2026-match-022": {
+    "forza_match_id": 1219437896,
+    "matched_by": "teams_local_kickoff"
+  },
+  "wc2026-match-023": {
+    "forza_match_id": 1219437895,
+    "matched_by": "teams_local_kickoff"
+  },
+  "wc2026-match-024": {
+    "forza_match_id": 1219435454,
+    "matched_by": "teams_local_kickoff"
+  },
+  "wc2026-match-025": {
+    "forza_match_id": 1219435591,
+    "matched_by": "teams_local_kickoff"
+  },
+  "wc2026-match-026": {
+    "forza_match_id": 1219435592,
+    "matched_by": "teams_local_kickoff"
+  },
+  "wc2026-match-027": {
+    "forza_match_id": 1219435593,
+    "matched_by": "teams_local_kickoff"
+  },
+  "wc2026-match-028": {
+    "forza_match_id": 1219435594,
+    "matched_by": "teams_local_kickoff"
+  },
+  "wc2026-match-029": {
+    "forza_match_id": 1219435596,
+    "matched_by": "teams_local_kickoff"
+  },
+  "wc2026-match-030": {
+    "forza_match_id": 1219435595,
+    "matched_by": "teams_local_kickoff"
+  },
+  "wc2026-match-031": {
+    "forza_match_id": 1219435461,
+    "matched_by": "teams_local_kickoff"
+  },
+  "wc2026-match-032": {
+    "forza_match_id": 1219437897,
+    "matched_by": "teams_local_kickoff"
+  },
+  "wc2026-match-033": {
+    "forza_match_id": 1219437898,
+    "matched_by": "teams_local_kickoff"
+  },
+  "wc2026-match-034": {
+    "forza_match_id": 1219435462,
+    "matched_by": "teams_local_kickoff"
+  },
+  "wc2026-match-035": {
+    "forza_match_id": 1219437899,
+    "matched_by": "teams_local_kickoff"
+  },
+  "wc2026-match-036": {
+    "forza_match_id": 1219435463,
+    "matched_by": "teams_local_kickoff"
+  },
+  "wc2026-match-037": {
+    "forza_match_id": 1219435597,
+    "matched_by": "teams_local_kickoff"
+  },
+  "wc2026-match-038": {
+    "forza_match_id": 1219435599,
+    "matched_by": "teams_local_kickoff"
+  },
+  "wc2026-match-039": {
+    "forza_match_id": 1219435598,
+    "matched_by": "teams_local_kickoff"
+  },
+  "wc2026-match-040": {
+    "forza_match_id": 1219435600,
+    "matched_by": "teams_local_kickoff"
+  },
+  "wc2026-match-041": {
+    "forza_match_id": 1219435602,
+    "matched_by": "teams_local_kickoff"
+  },
+  "wc2026-match-042": {
+    "forza_match_id": 1219435601,
+    "matched_by": "teams_local_kickoff"
+  },
+  "wc2026-match-043": {
+    "forza_match_id": 1219435603,
+    "matched_by": "teams_local_kickoff"
+  },
+  "wc2026-match-044": {
+    "forza_match_id": 1219435604,
+    "matched_by": "teams_local_kickoff"
+  },
+  "wc2026-match-045": {
+    "forza_match_id": 1219435605,
+    "matched_by": "teams_local_kickoff"
+  },
+  "wc2026-match-046": {
+    "forza_match_id": 1219435607,
+    "matched_by": "teams_local_kickoff"
+  },
+  "wc2026-match-047": {
+    "forza_match_id": 1219435609,
+    "matched_by": "teams_local_kickoff"
+  },
+  "wc2026-match-048": {
+    "forza_match_id": 1219435606,
+    "matched_by": "teams_local_kickoff"
+  },
+  "wc2026-match-049": {
+    "forza_match_id": 1219435608,
+    "matched_by": "teams_local_kickoff"
+  },
+  "wc2026-match-050": {
+    "forza_match_id": 1219437900,
+    "matched_by": "teams_local_kickoff"
+  },
+  "wc2026-match-051": {
+    "forza_match_id": 1219437901,
+    "matched_by": "teams_local_kickoff"
+  },
+  "wc2026-match-052": {
+    "forza_match_id": 1219435610,
+    "matched_by": "teams_local_kickoff"
+  },
+  "wc2026-match-053": {
+    "forza_match_id": 1219435611,
+    "matched_by": "teams_local_kickoff"
+  },
+  "wc2026-match-054": {
+    "forza_match_id": 1219437902,
+    "matched_by": "teams_local_kickoff"
+  },
+  "wc2026-match-055": {
+    "forza_match_id": 1219435612,
+    "matched_by": "teams_local_kickoff"
+  },
+  "wc2026-match-056": {
+    "forza_match_id": 1219435613,
+    "matched_by": "teams_local_kickoff"
+  },
+  "wc2026-match-057": {
+    "forza_match_id": 1219435615,
+    "matched_by": "teams_local_kickoff"
+  },
+  "wc2026-match-058": {
+    "forza_match_id": 1219435614,
+    "matched_by": "teams_local_kickoff"
+  },
+  "wc2026-match-059": {
+    "forza_match_id": 1219435617,
+    "matched_by": "teams_local_kickoff"
+  },
+  "wc2026-match-060": {
+    "forza_match_id": 1219435616,
+    "matched_by": "teams_local_kickoff"
+  },
+  "wc2026-match-061": {
+    "forza_match_id": 1219437903,
+    "matched_by": "teams_local_kickoff"
+  },
+  "wc2026-match-062": {
+    "forza_match_id": 1219435618,
+    "matched_by": "teams_local_kickoff"
+  },
+  "wc2026-match-063": {
+    "forza_match_id": 1219435619,
+    "matched_by": "teams_local_kickoff"
+  },
+  "wc2026-match-064": {
+    "forza_match_id": 1219437904,
+    "matched_by": "teams_local_kickoff"
+  },
+  "wc2026-match-065": {
+    "forza_match_id": 1219435620,
+    "matched_by": "teams_local_kickoff"
+  },
+  "wc2026-match-066": {
+    "forza_match_id": 1219437905,
+    "matched_by": "teams_local_kickoff"
+  },
+  "wc2026-match-067": {
+    "forza_match_id": 1219435621,
+    "matched_by": "teams_local_kickoff"
+  },
+  "wc2026-match-068": {
+    "forza_match_id": 1219435622,
+    "matched_by": "teams_local_kickoff"
+  },
+  "wc2026-match-069": {
+    "forza_match_id": 1219435623,
+    "matched_by": "teams_local_kickoff"
+  },
+  "wc2026-match-070": {
+    "forza_match_id": 1219435624,
+    "matched_by": "teams_local_kickoff"
+  },
+  "wc2026-match-071": {
+    "forza_match_id": 1219435625,
+    "matched_by": "teams_local_kickoff"
+  },
+  "wc2026-match-072": {
+    "forza_match_id": 1219435626,
+    "matched_by": "teams_local_kickoff"
+  },
+  "wc2026-match-073": {
+    "forza_match_id": 1217857989,
+    "matched_by": "teams_local_kickoff"
+  },
+  "wc2026-match-074": {
+    "forza_match_id": 1217858416,
+    "matched_by": "local_kickoff"
+  },
+  "wc2026-match-075": {
+    "forza_match_id": 1217857990,
+    "matched_by": "teams_local_kickoff"
+  },
+  "wc2026-match-076": {
+    "forza_match_id": 1217857991,
+    "matched_by": "teams_local_kickoff"
+  },
+  "wc2026-match-077": {
+    "forza_match_id": 1217858417,
+    "matched_by": "local_kickoff"
+  },
+  "wc2026-match-078": {
+    "forza_match_id": 1217858418,
+    "matched_by": "teams_local_kickoff"
+  },
+  "wc2026-match-079": {
+    "forza_match_id": 1217858419,
+    "matched_by": "local_kickoff"
+  },
+  "wc2026-match-080": {
+    "forza_match_id": 1217858422,
+    "matched_by": "local_kickoff"
+  },
+  "wc2026-match-081": {
+    "forza_match_id": 1217858420,
+    "matched_by": "local_kickoff"
+  },
+  "wc2026-match-082": {
+    "forza_match_id": 1217858421,
+    "matched_by": "local_kickoff"
+  },
+  "wc2026-match-083": {
+    "forza_match_id": 1217858424,
+    "matched_by": "teams_local_kickoff"
+  },
+  "wc2026-match-084": {
+    "forza_match_id": 1217858425,
+    "matched_by": "teams_local_kickoff"
+  },
+  "wc2026-match-085": {
+    "forza_match_id": 1217858423,
+    "matched_by": "local_kickoff"
+  },
+  "wc2026-match-086": {
+    "forza_match_id": 1217858427,
+    "matched_by": "teams_local_kickoff"
+  },
+  "wc2026-match-087": {
+    "forza_match_id": 1217858426,
+    "matched_by": "local_kickoff"
+  },
+  "wc2026-match-088": {
+    "forza_match_id": 1217857992,
+    "matched_by": "teams_local_kickoff"
+  },
+  "wc2026-match-089": {
+    "forza_match_id": 1217858428,
+    "matched_by": "teams_local_kickoff"
+  },
+  "wc2026-match-090": {
+    "forza_match_id": 1217858429,
+    "matched_by": "teams_local_kickoff"
+  },
+  "wc2026-match-091": {
+    "forza_match_id": 1217858430,
+    "matched_by": "teams_local_kickoff"
+  },
+  "wc2026-match-092": {
+    "forza_match_id": 1217858431,
+    "matched_by": "teams_local_kickoff"
+  },
+  "wc2026-match-093": {
+    "forza_match_id": 1217858432,
+    "matched_by": "teams_local_kickoff"
+  },
+  "wc2026-match-094": {
+    "forza_match_id": 1217858433,
+    "matched_by": "teams_local_kickoff"
+  },
+  "wc2026-match-095": {
+    "forza_match_id": 1217858434,
+    "matched_by": "teams_local_kickoff"
+  },
+  "wc2026-match-096": {
+    "forza_match_id": 1217858435,
+    "matched_by": "teams_local_kickoff"
+  },
+  "wc2026-match-097": {
+    "forza_match_id": 1217858436,
+    "matched_by": "teams_local_kickoff"
+  },
+  "wc2026-match-098": {
+    "forza_match_id": 1217858437,
+    "matched_by": "teams_local_kickoff"
+  },
+  "wc2026-match-099": {
+    "forza_match_id": 1217858438,
+    "matched_by": "teams_local_kickoff"
+  },
+  "wc2026-match-100": {
+    "forza_match_id": 1217858439,
+    "matched_by": "teams_local_kickoff"
+  },
+  "wc2026-match-101": {
+    "forza_match_id": 1217858440,
+    "matched_by": "teams_local_kickoff"
+  },
+  "wc2026-match-102": {
+    "forza_match_id": 1217858441,
+    "matched_by": "teams_local_kickoff"
+  },
+  "wc2026-match-103": {
+    "forza_match_id": 1217858442,
+    "matched_by": "local_kickoff"
+  },
+  "wc2026-match-104": {
+    "forza_match_id": 1217858443,
+    "matched_by": "teams_local_kickoff"
+  }
+}

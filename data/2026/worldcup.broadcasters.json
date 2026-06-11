@@ -1,0 +1,522 @@
+{
+  "wc2026-match-001": {
+    "channel": "ITV1",
+    "source": "live-footballontv",
+    "matched_by": "teams"
+  },
+  "wc2026-match-002": {
+    "channel": "ITV1",
+    "source": "live-footballontv",
+    "matched_by": "teams"
+  },
+  "wc2026-match-003": {
+    "channel": "BBC One",
+    "source": "live-footballontv",
+    "matched_by": "teams"
+  },
+  "wc2026-match-004": {
+    "channel": "BBC Two",
+    "source": "live-footballontv",
+    "matched_by": "teams"
+  },
+  "wc2026-match-005": {
+    "channel": "BBC One",
+    "source": "live-footballontv",
+    "matched_by": "teams"
+  },
+  "wc2026-match-006": {
+    "channel": "BBC Two",
+    "source": "live-footballontv",
+    "matched_by": "teams"
+  },
+  "wc2026-match-007": {
+    "channel": "BBC One",
+    "source": "live-footballontv",
+    "matched_by": "teams"
+  },
+  "wc2026-match-008": {
+    "channel": "ITV1",
+    "source": "live-footballontv",
+    "matched_by": "teams"
+  },
+  "wc2026-match-009": {
+    "channel": "ITV1",
+    "source": "live-footballontv",
+    "matched_by": "teams"
+  },
+  "wc2026-match-010": {
+    "channel": "ITV1",
+    "source": "live-footballontv",
+    "matched_by": "teams"
+  },
+  "wc2026-match-011": {
+    "channel": "ITV1",
+    "source": "live-footballontv",
+    "matched_by": "teams"
+  },
+  "wc2026-match-012": {
+    "channel": "ITV4",
+    "source": "live-footballontv",
+    "matched_by": "teams"
+  },
+  "wc2026-match-013": {
+    "channel": "BBC One",
+    "source": "live-footballontv",
+    "matched_by": "teams"
+  },
+  "wc2026-match-014": {
+    "channel": "BBC One",
+    "source": "live-footballontv",
+    "matched_by": "teams"
+  },
+  "wc2026-match-015": {
+    "channel": "ITV1",
+    "source": "live-footballontv",
+    "matched_by": "teams"
+  },
+  "wc2026-match-016": {
+    "channel": "ITV1",
+    "source": "live-footballontv",
+    "matched_by": "teams"
+  },
+  "wc2026-match-017": {
+    "channel": "BBC One",
+    "source": "live-footballontv",
+    "matched_by": "teams"
+  },
+  "wc2026-match-018": {
+    "channel": "BBC Two",
+    "source": "live-footballontv",
+    "matched_by": "teams"
+  },
+  "wc2026-match-019": {
+    "channel": "BBC One",
+    "source": "live-footballontv",
+    "matched_by": "teams"
+  },
+  "wc2026-match-020": {
+    "channel": "ITV1",
+    "source": "live-footballontv",
+    "matched_by": "teams"
+  },
+  "wc2026-match-021": {
+    "channel": "BBC One",
+    "source": "live-footballontv",
+    "matched_by": "teams"
+  },
+  "wc2026-match-022": {
+    "channel": "ITV1",
+    "source": "live-footballontv",
+    "matched_by": "teams"
+  },
+  "wc2026-match-023": {
+    "channel": "ITV1",
+    "source": "live-footballontv",
+    "matched_by": "teams"
+  },
+  "wc2026-match-024": {
+    "channel": "ITV4",
+    "source": "live-footballontv",
+    "matched_by": "teams"
+  },
+  "wc2026-match-025": {
+    "channel": "ITV1",
+    "source": "live-footballontv",
+    "matched_by": "teams"
+  },
+  "wc2026-match-026": {
+    "channel": "BBC One",
+    "source": "live-footballontv",
+    "matched_by": "teams"
+  },
+  "wc2026-match-027": {
+    "channel": "ITV1",
+    "source": "live-footballontv",
+    "matched_by": "teams"
+  },
+  "wc2026-match-028": {
+    "channel": "BBC One",
+    "source": "live-footballontv",
+    "matched_by": "teams"
+  },
+  "wc2026-match-029": {
+    "channel": "BBC Two",
+    "source": "live-footballontv",
+    "matched_by": "teams"
+  },
+  "wc2026-match-030": {
+    "channel": "BBC One",
+    "source": "live-footballontv",
+    "matched_by": "teams"
+  },
+  "wc2026-match-031": {
+    "channel": "ITV1",
+    "source": "live-footballontv",
+    "matched_by": "teams"
+  },
+  "wc2026-match-032": {
+    "channel": "ITV1",
+    "source": "live-footballontv",
+    "matched_by": "teams"
+  },
+  "wc2026-match-033": {
+    "channel": "BBC One",
+    "source": "live-footballontv",
+    "matched_by": "teams"
+  },
+  "wc2026-match-034": {
+    "channel": "BBC One",
+    "source": "live-footballontv",
+    "matched_by": "teams"
+  },
+  "wc2026-match-035": {
+    "channel": "BBC Two",
+    "source": "live-footballontv",
+    "matched_by": "teams"
+  },
+  "wc2026-match-036": {
+    "channel": "BBC One",
+    "source": "live-footballontv",
+    "matched_by": "teams"
+  },
+  "wc2026-match-037": {
+    "channel": "BBC One",
+    "source": "live-footballontv",
+    "matched_by": "teams"
+  },
+  "wc2026-match-038": {
+    "channel": "BBC One",
+    "source": "live-footballontv",
+    "matched_by": "teams"
+  },
+  "wc2026-match-039": {
+    "channel": "ITV1",
+    "source": "live-footballontv",
+    "matched_by": "teams"
+  },
+  "wc2026-match-040": {
+    "channel": "ITV1",
+    "source": "live-footballontv",
+    "matched_by": "teams"
+  },
+  "wc2026-match-041": {
+    "channel": "BBC Two",
+    "source": "live-footballontv",
+    "matched_by": "teams"
+  },
+  "wc2026-match-042": {
+    "channel": "BBC One",
+    "source": "live-footballontv",
+    "matched_by": "teams"
+  },
+  "wc2026-match-043": {
+    "channel": "ITV1",
+    "source": "live-footballontv",
+    "matched_by": "teams"
+  },
+  "wc2026-match-044": {
+    "channel": "ITV1",
+    "source": "live-footballontv",
+    "matched_by": "teams"
+  },
+  "wc2026-match-045": {
+    "channel": "BBC One",
+    "source": "live-footballontv",
+    "matched_by": "teams"
+  },
+  "wc2026-match-046": {
+    "channel": "BBC One",
+    "source": "live-footballontv",
+    "matched_by": "teams"
+  },
+  "wc2026-match-047": {
+    "channel": "ITV4",
+    "source": "live-footballontv",
+    "matched_by": "teams"
+  },
+  "wc2026-match-048": {
+    "channel": "ITV1",
+    "source": "live-footballontv",
+    "matched_by": "teams"
+  },
+  "wc2026-match-049": {
+    "channel": "BBC One",
+    "source": "live-footballontv",
+    "matched_by": "teams"
+  },
+  "wc2026-match-050": {
+    "channel": "BBC One",
+    "source": "live-footballontv",
+    "matched_by": "teams"
+  },
+  "wc2026-match-051": {
+    "channel": "BBC One",
+    "source": "live-footballontv",
+    "matched_by": "teams"
+  },
+  "wc2026-match-052": {
+    "channel": "ITV1",
+    "source": "live-footballontv",
+    "matched_by": "teams"
+  },
+  "wc2026-match-053": {
+    "channel": "ITV1",
+    "source": "live-footballontv",
+    "matched_by": "teams"
+  },
+  "wc2026-match-054": {
+    "channel": "ITV4",
+    "source": "live-footballontv",
+    "matched_by": "teams"
+  },
+  "wc2026-match-055": {
+    "channel": "ITV1",
+    "source": "live-footballontv",
+    "matched_by": "teams"
+  },
+  "wc2026-match-056": {
+    "channel": "BBC One",
+    "source": "live-footballontv",
+    "matched_by": "teams"
+  },
+  "wc2026-match-057": {
+    "channel": "BBC One",
+    "source": "live-footballontv",
+    "matched_by": "teams"
+  },
+  "wc2026-match-058": {
+    "channel": "ITV1",
+    "source": "live-footballontv",
+    "matched_by": "teams"
+  },
+  "wc2026-match-059": {
+    "channel": "BBC Two",
+    "source": "live-footballontv",
+    "matched_by": "teams"
+  },
+  "wc2026-match-060": {
+    "channel": "BBC One",
+    "source": "live-footballontv",
+    "matched_by": "teams"
+  },
+  "wc2026-match-061": {
+    "channel": "BBC One",
+    "source": "live-footballontv",
+    "matched_by": "teams"
+  },
+  "wc2026-match-062": {
+    "channel": "BBC One",
+    "source": "live-footballontv",
+    "matched_by": "teams"
+  },
+  "wc2026-match-063": {
+    "channel": "ITV1",
+    "source": "live-footballontv",
+    "matched_by": "teams"
+  },
+  "wc2026-match-064": {
+    "channel": "ITV1",
+    "source": "live-footballontv",
+    "matched_by": "teams"
+  },
+  "wc2026-match-065": {
+    "channel": "BBC One",
+    "source": "live-footballontv",
+    "matched_by": "teams"
+  },
+  "wc2026-match-066": {
+    "channel": "BBC Two",
+    "source": "live-footballontv",
+    "matched_by": "teams"
+  },
+  "wc2026-match-067": {
+    "channel": "ITV1",
+    "source": "live-footballontv",
+    "matched_by": "teams"
+  },
+  "wc2026-match-068": {
+    "channel": "ITV1",
+    "source": "live-footballontv",
+    "matched_by": "teams"
+  },
+  "wc2026-match-069": {
+    "channel": "BBC One",
+    "source": "live-footballontv",
+    "matched_by": "teams"
+  },
+  "wc2026-match-070": {
+    "channel": "BBC One",
+    "source": "live-footballontv",
+    "matched_by": "teams"
+  },
+  "wc2026-match-071": {
+    "channel": "ITV1",
+    "source": "live-footballontv",
+    "matched_by": "teams"
+  },
+  "wc2026-match-072": {
+    "channel": "ITV4",
+    "source": "live-footballontv",
+    "matched_by": "teams"
+  },
+  "wc2026-match-073": {
+    "channel": null,
+    "source": "live-footballontv",
+    "matched_by": "stage_uk_kickoff"
+  },
+  "wc2026-match-074": {
+    "channel": null,
+    "source": "live-footballontv",
+    "matched_by": "stage_uk_kickoff"
+  },
+  "wc2026-match-075": {
+    "channel": null,
+    "source": "live-footballontv",
+    "matched_by": "stage_uk_kickoff"
+  },
+  "wc2026-match-076": {
+    "channel": null,
+    "source": "live-footballontv",
+    "matched_by": "stage_uk_kickoff"
+  },
+  "wc2026-match-077": {
+    "channel": null,
+    "source": "live-footballontv",
+    "matched_by": "stage_uk_kickoff"
+  },
+  "wc2026-match-078": {
+    "channel": null,
+    "source": "live-footballontv",
+    "matched_by": "stage_uk_kickoff"
+  },
+  "wc2026-match-079": {
+    "channel": null,
+    "source": "live-footballontv",
+    "matched_by": "stage_uk_kickoff"
+  },
+  "wc2026-match-080": {
+    "channel": null,
+    "source": "live-footballontv",
+    "matched_by": "stage_uk_kickoff"
+  },
+  "wc2026-match-081": {
+    "channel": null,
+    "source": "live-footballontv",
+    "matched_by": "stage_uk_kickoff"
+  },
+  "wc2026-match-082": {
+    "channel": null,
+    "source": "live-footballontv",
+    "matched_by": "stage_uk_kickoff"
+  },
+  "wc2026-match-083": {
+    "channel": null,
+    "source": "live-footballontv",
+    "matched_by": "stage_uk_kickoff"
+  },
+  "wc2026-match-084": {
+    "channel": null,
+    "source": "live-footballontv",
+    "matched_by": "stage_uk_kickoff"
+  },
+  "wc2026-match-085": {
+    "channel": null,
+    "source": "live-footballontv",
+    "matched_by": "stage_uk_kickoff"
+  },
+  "wc2026-match-086": {
+    "channel": null,
+    "source": "live-footballontv",
+    "matched_by": "stage_uk_kickoff"
+  },
+  "wc2026-match-087": {
+    "channel": null,
+    "source": "live-footballontv",
+    "matched_by": "stage_uk_kickoff"
+  },
+  "wc2026-match-088": {
+    "channel": null,
+    "source": "live-footballontv",
+    "matched_by": "stage_uk_kickoff"
+  },
+  "wc2026-match-089": {
+    "channel": null,
+    "source": "live-footballontv",
+    "matched_by": "stage_uk_kickoff"
+  },
+  "wc2026-match-090": {
+    "channel": null,
+    "source": "live-footballontv",
+    "matched_by": "stage_uk_kickoff"
+  },
+  "wc2026-match-091": {
+    "channel": null,
+    "source": "live-footballontv",
+    "matched_by": "stage_uk_kickoff"
+  },
+  "wc2026-match-092": {
+    "channel": null,
+    "source": "live-footballontv",
+    "matched_by": "stage_uk_kickoff"
+  },
+  "wc2026-match-093": {
+    "channel": null,
+    "source": "live-footballontv",
+    "matched_by": "stage_uk_kickoff"
+  },
+  "wc2026-match-094": {
+    "channel": null,
+    "source": "live-footballontv",
+    "matched_by": "stage_uk_kickoff"
+  },
+  "wc2026-match-095": {
+    "channel": null,
+    "source": "live-footballontv",
+    "matched_by": "stage_uk_kickoff"
+  },
+  "wc2026-match-096": {
+    "channel": null,
+    "source": "live-footballontv",
+    "matched_by": "stage_uk_kickoff"
+  },
+  "wc2026-match-097": {
+    "channel": null,
+    "source": "live-footballontv",
+    "matched_by": "stage_uk_kickoff"
+  },
+  "wc2026-match-098": {
+    "channel": null,
+    "source": "live-footballontv",
+    "matched_by": "stage_uk_kickoff"
+  },
+  "wc2026-match-099": {
+    "channel": null,
+    "source": "live-footballontv",
+    "matched_by": "stage_uk_kickoff"
+  },
+  "wc2026-match-100": {
+    "channel": null,
+    "source": "live-footballontv",
+    "matched_by": "stage_uk_kickoff"
+  },
+  "wc2026-match-101": {
+    "channel": null,
+    "source": "live-footballontv",
+    "matched_by": "stage_uk_kickoff"
+  },
+  "wc2026-match-102": {
+    "channel": null,
+    "source": "live-footballontv",
+    "matched_by": "stage_uk_kickoff"
+  },
+  "wc2026-match-103": {
+    "channel": null,
+    "source": "live-footballontv",
+    "matched_by": "stage_uk_kickoff"
+  },
+  "wc2026-match-104": {
+    "channel": null,
+    "source": "live-footballontv",
+    "matched_by": "stage_uk_kickoff"
+  }
+}
