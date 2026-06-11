@@ -94,7 +94,11 @@ def description(
     away: dict[str, str],
     channel: str | None,
 ) -> str:
-    lines: list[str] = []
+    if match["round"].startswith("Matchday"):
+        header = f"{match['round']} | {channel or 'TBC'}"
+    else:
+        header = f"{match['round']} | {channel or 'TBC'}"
+    lines: list[str] = [header]
     score = match.get("score")
     if score:
         final_score = score.get("et") or score.get("ft")
@@ -115,11 +119,15 @@ def description(
         if goals1 or goals2:
             lines.append("Goals:")
             if goals1:
-                lines.append(f"{home['code']}: " + ", ".join(map(goal_text, goals1)))
+                home_label = " ".join(
+                    part for part in (home["code"], home["flag"]) if part
+                )
+                lines.append(f"{home_label}: " + ", ".join(map(goal_text, goals1)))
             if goals2:
-                lines.append(f"{away['code']}: " + ", ".join(map(goal_text, goals2)))
-
-    lines.append(f"TV: {channel or 'TBC'}")
+                away_label = " ".join(
+                    part for part in (away["code"], away["flag"]) if part
+                )
+                lines.append(f"{away_label}: " + ", ".join(map(goal_text, goals2)))
     return "\n".join(lines)
 
 

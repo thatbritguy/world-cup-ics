@@ -84,7 +84,12 @@ def stage_label(matches: list[dict[str, Any]], index: int) -> str:
     match = matches[index]
     round_name = match["round"]
     if round_name.startswith("Matchday"):
-        return match["group"].removeprefix("Group ")
+        group = match["group"]
+        group_fixture = sum(
+            item.get("group") == group for item in matches[: index + 1]
+        )
+        group_round = ((group_fixture - 1) // 2) + 1
+        return f"{group.removeprefix('Group ')}{group_round}"
     if round_name == "Round of 32":
         return "R32"
     if round_name == "Round of 16":

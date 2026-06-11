@@ -28,7 +28,7 @@ appear in the upstream fixture data.
 Examples:
 
 ```text
-[A] 🇲🇽 MEX vs RSA 🇿🇦 [001]
+[A1] 🇲🇽 MEX vs RSA 🇿🇦 [001]
 [QF1] 🇲🇽 MEX 1-0 (aet) RSA 🇿🇦 [097]
 [SF2] 🇲🇽 MEX (p) 1-1 RSA 🇿🇦 [102]
 ```
