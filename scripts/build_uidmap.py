@@ -7,9 +7,12 @@ from common import DATA_DIR, load_json, match_key, stage_category, validate_worl
 def main() -> None:
     source = load_json(DATA_DIR / "worldcup.json")
     validate_worldcup(source)
+    target = DATA_DIR / "worldcup.uidmap.json"
+    existing = load_json(target) if target.exists() else {}
     uidmap = {}
     for sequence, match in enumerate(source["matches"], start=1):
-        uidmap[match_key(sequence)] = {
+        key = match_key(sequence)
+        uidmap[key] = {
             "sequence": sequence,
             "source_index": sequence - 1,
             "stage_category": stage_category(match),
@@ -19,10 +22,13 @@ def main() -> None:
             "initial_team2": match["team2"],
             "initial_ground": match["ground"],
         }
-    write_json(DATA_DIR / "worldcup.uidmap.json", uidmap)
+        if existing.get(key, {}).get("official_match_number") is not None:
+            uidmap[key]["official_match_number"] = existing[key][
+                "official_match_number"
+            ]
+    write_json(target, uidmap)
     print(f"Wrote {len(uidmap)} stable match identifiers")
 
 
 if __name__ == "__main__":
     main()
-

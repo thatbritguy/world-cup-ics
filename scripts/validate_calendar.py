@@ -44,10 +44,29 @@ def main() -> None:
         if not -90 <= latitude <= 90 or not -180 <= longitude <= 180:
             raise ValueError(f"GEO property is out of range: {line}")
 
+    structured_lines = [
+        line for line in lines if line.startswith("X-APPLE-STRUCTURED-LOCATION;")
+    ]
+    if len(structured_lines) != 104:
+        raise ValueError("Each event must contain an Apple structured location")
+    for line in structured_lines:
+        if not re.search(r":geo:-?\d+(?:\.\d+)?,-?\d+(?:\.\d+)?$", line):
+            raise ValueError(f"Invalid structured location: {line}")
+
     uids = [line.removeprefix("UID:") for line in lines if line.startswith("UID:")]
     expected = [event_uid(sequence) for sequence in range(1, 105)]
     if uids != expected or len(set(uids)) != 104:
         raise ValueError("Calendar UIDs are missing, duplicated, or out of order")
+
+    summaries = [line for line in lines if line.startswith("SUMMARY:")]
+    visible_numbers = []
+    for summary in summaries:
+        matched = re.search(r"\[(\d{3})\]$", summary)
+        if not matched:
+            raise ValueError(f"Summary has no official match number: {summary}")
+        visible_numbers.append(int(matched.group(1)))
+    if sorted(visible_numbers) != list(range(1, 105)):
+        raise ValueError("Visible match numbers must contain 1-104 exactly once")
 
     required_files = {
         "uidmap": DATA_DIR / "worldcup.uidmap.json",
@@ -60,6 +79,13 @@ def main() -> None:
         if len(value) != 104:
             raise ValueError(f"{label} must contain 104 entries")
 
+    uidmap = load_json(DATA_DIR / "worldcup.uidmap.json")
+    official_numbers = sorted(
+        value.get("official_match_number") for value in uidmap.values()
+    )
+    if official_numbers != list(range(1, 105)):
+        raise ValueError("UID map must contain official match numbers 1-104")
+
     countries = load_json(DATA_DIR.parent / "countries.json")
     if len(countries) != 48:
         raise ValueError("countries.json must contain all 48 teams")
@@ -71,7 +97,7 @@ def main() -> None:
 
     print(
         "Calendar validation passed: 104 events, 104 unique UIDs, "
-        "104 GEO properties, 208 alerts"
+        "104 GEO properties, 104 structured locations, 208 alerts"
     )
 
 

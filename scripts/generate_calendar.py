@@ -137,6 +137,20 @@ def geo(match: dict[str, Any], stadiums: dict[str, dict[str, Any]]) -> str:
     return format_geo(stadium["coords"])
 
 
+def structured_location(
+    match: dict[str, Any], stadiums: dict[str, dict[str, Any]], location_text: str
+) -> str:
+    stadium = stadiums[match["ground"]]
+    latitude, longitude = geo(match, stadiums).split(";", 1)
+    title = stadium["name"].replace('"', "'")
+    address = location_text.replace('"', "'")
+    return (
+        'X-APPLE-STRUCTURED-LOCATION;VALUE=URI;'
+        f'X-ADDRESS="{address}";X-APPLE-RADIUS=100;X-TITLE="{title}":'
+        f"geo:{latitude},{longitude}"
+    )
+
+
 def event_lines(properties: dict[str, Any]) -> list[str]:
     lines = [
         "BEGIN:VEVENT",
@@ -149,6 +163,7 @@ def event_lines(properties: dict[str, Any]) -> list[str]:
         f"SUMMARY:{ics_escape(properties['summary'])}",
         f"LOCATION:{ics_escape(properties['location'])}",
         f"GEO:{properties['geo']}",
+        properties["structured_location"],
         f"DESCRIPTION:{ics_escape(properties['description'])}",
         f"URL:{properties['url']}",
         "STATUS:CONFIRMED",
@@ -206,16 +221,20 @@ def main() -> None:
         forza_id = override.get("forza_match_id", forza[key]["forza_match_id"])
         kickoff = parse_kickoff(match)
         duration = timedelta(hours=2) if match["round"].startswith("Matchday") else timedelta(hours=3)
+        location_text = location(match, stadiums)
+        geo_text = geo(match, stadiums)
+        official_number = uidmap[key]["official_match_number"]
         semantic = {
             "uid": event_uid(sequence),
             "dtstart": utc_stamp(kickoff),
             "dtend": utc_stamp(kickoff + duration),
             "summary": (
                 f"[{stage_label(matches, index)}] "
-                f"{score_summary(match, home, away)} [{sequence:03d}]"
+                f"{score_summary(match, home, away)} [{official_number:03d}]"
             ),
-            "location": location(match, stadiums),
-            "geo": geo(match, stadiums),
+            "location": location_text,
+            "geo": geo_text,
+            "structured_location": structured_location(match, stadiums, location_text),
             "description": description(match, home, away, channel),
             "url": FORZA_URL_TEMPLATE.format(forza_match_id=forza_id),
         }

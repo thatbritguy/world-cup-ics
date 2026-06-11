@@ -7,7 +7,8 @@
     "initial_time": "13:00 UTC-6",
     "initial_team1": "Mexico",
     "initial_team2": "South Africa",
-    "initial_ground": "Mexico City"
+    "initial_ground": "Mexico City",
+    "official_match_number": 1
   },
   "wc2026-match-002": {
     "sequence": 2,
@@ -17,7 +18,8 @@
     "initial_time": "20:00 UTC-6",
     "initial_team1": "South Korea",
     "initial_team2": "Czech Republic",
-    "initial_ground": "Guadalajara (Zapopan)"
+    "initial_ground": "Guadalajara (Zapopan)",
+    "official_match_number": 2
   },
   "wc2026-match-003": {
     "sequence": 3,
@@ -27,7 +29,8 @@
     "initial_time": "12:00 UTC-4",
     "initial_team1": "Czech Republic",
     "initial_team2": "South Africa",
-    "initial_ground": "Atlanta"
+    "initial_ground": "Atlanta",
+    "official_match_number": 25
   },
   "wc2026-match-004": {
     "sequence": 4,
@@ -37,7 +40,8 @@
     "initial_time": "19:00 UTC-6",
     "initial_team1": "Mexico",
     "initial_team2": "South Korea",
-    "initial_ground": "Guadalajara (Zapopan)"
+    "initial_ground": "Guadalajara (Zapopan)",
+    "official_match_number": 28
   },
   "wc2026-match-005": {
     "sequence": 5,
@@ -47,7 +51,8 @@
     "initial_time": "19:00 UTC-6",
     "initial_team1": "Czech Republic",
     "initial_team2": "Mexico",
-    "initial_ground": "Mexico City"
+    "initial_ground": "Mexico City",
+    "official_match_number": 53
   },
   "wc2026-match-006": {
     "sequence": 6,
@@ -57,7 +62,8 @@
     "initial_time": "19:00 UTC-6",
     "initial_team1": "South Africa",
     "initial_team2": "South Korea",
-    "initial_ground": "Monterrey (Guadalupe)"
+    "initial_ground": "Monterrey (Guadalupe)",
+    "official_match_number": 54
   },
   "wc2026-match-007": {
     "sequence": 7,
@@ -67,7 +73,8 @@
     "initial_time": "15:00 UTC-4",
     "initial_team1": "Canada",
     "initial_team2": "Bosnia & Herzegovina",
-    "initial_ground": "Toronto"
+    "initial_ground": "Toronto",
+    "official_match_number": 3
   },
   "wc2026-match-008": {
     "sequence": 8,
@@ -77,7 +84,8 @@
     "initial_time": "12:00 UTC-7",
     "initial_team1": "Qatar",
     "initial_team2": "Switzerland",
-    "initial_ground": "San Francisco Bay Area (Santa Clara)"
+    "initial_ground": "San Francisco Bay Area (Santa Clara)",
+    "official_match_number": 8
   },
   "wc2026-match-009": {
     "sequence": 9,
@@ -87,7 +95,8 @@
     "initial_time": "12:00 UTC-7",
     "initial_team1": "Switzerland",
     "initial_team2": "Bosnia & Herzegovina",
-    "initial_ground": "Los Angeles (Inglewood)"
+    "initial_ground": "Los Angeles (Inglewood)",
+    "official_match_number": 26
   },
   "wc2026-match-010": {
     "sequence": 10,
@@ -97,7 +106,8 @@
     "initial_time": "15:00 UTC-7",
     "initial_team1": "Canada",
     "initial_team2": "Qatar",
-    "initial_ground": "Vancouver"
+    "initial_ground": "Vancouver",
+    "official_match_number": 27
   },
   "wc2026-match-011": {
     "sequence": 11,
@@ -107,7 +117,8 @@
     "initial_time": "12:00 UTC-7",
     "initial_team1": "Switzerland",
     "initial_team2": "Canada",
-    "initial_ground": "Vancouver"
+    "initial_ground": "Vancouver",
+    "official_match_number": 51
   },
   "wc2026-match-012": {
     "sequence": 12,
@@ -117,7 +128,8 @@
     "initial_time": "12:00 UTC-7",
     "initial_team1": "Bosnia & Herzegovina",
     "initial_team2": "Qatar",
-    "initial_ground": "Seattle"
+    "initial_ground": "Seattle",
+    "official_match_number": 52
   },
   "wc2026-match-013": {
     "sequence": 13,
@@ -127,7 +139,8 @@
     "initial_time": "18:00 UTC-4",
     "initial_team1": "Brazil",
     "initial_team2": "Morocco",
-    "initial_ground": "New York/New Jersey (East Rutherford)"
+    "initial_ground": "New York/New Jersey (East Rutherford)",
+    "official_match_number": 7
   },
   "wc2026-match-014": {
     "sequence": 14,
@@ -137,7 +150,8 @@
     "initial_time": "21:00 UTC-4",
     "initial_team1": "Haiti",
     "initial_team2": "Scotland",
-    "initial_ground": "Boston (Foxborough)"
+    "initial_ground": "Boston (Foxborough)",
+    "official_match_number": 5
   },
   "wc2026-match-015": {
     "sequence": 15,
@@ -147,7 +161,8 @@
     "initial_time": "18:00 UTC-4",
     "initial_team1": "Scotland",
     "initial_team2": "Morocco",
-    "initial_ground": "Boston (Foxborough)"
+    "initial_ground": "Boston (Foxborough)",
+    "official_match_number": 30
   },
   "wc2026-match-016": {
     "sequence": 16,
@@ -157,7 +172,8 @@
     "initial_time": "20:30 UTC-4",
     "initial_team1": "Brazil",
     "initial_team2": "Haiti",
-    "initial_ground": "Philadelphia"
+    "initial_ground": "Philadelphia",
+    "official_match_number": 29
   },
   "wc2026-match-017": {
     "sequence": 17,
@@ -167,7 +183,8 @@
     "initial_time": "18:00 UTC-4",
     "initial_team1": "Scotland",
     "initial_team2": "Brazil",
-    "initial_ground": "Miami (Miami Gardens)"
+    "initial_ground": "Miami (Miami Gardens)",
+    "official_match_number": 49
   },
   "wc2026-match-018": {
     "sequence": 18,
@@ -177,7 +194,8 @@
     "initial_time": "18:00 UTC-4",
     "initial_team1": "Morocco",
     "initial_team2": "Haiti",
-    "initial_ground": "Atlanta"
+    "initial_ground": "Atlanta",
+    "official_match_number": 50
   },
   "wc2026-match-019": {
     "sequence": 19,
@@ -187,7 +205,8 @@
     "initial_time": "18:00 UTC-7",
     "initial_team1": "USA",
     "initial_team2": "Paraguay",
-    "initial_ground": "Los Angeles (Inglewood)"
+    "initial_ground": "Los Angeles (Inglewood)",
+    "official_match_number": 4
   },
   "wc2026-match-020": {
     "sequence": 20,
@@ -197,7 +216,8 @@
     "initial_time": "21:00 UTC-7",
     "initial_team1": "Australia",
     "initial_team2": "Turkey",
-    "initial_ground": "Vancouver"
+    "initial_ground": "Vancouver",
+    "official_match_number": 6
   },
   "wc2026-match-021": {
     "sequence": 21,
@@ -207,7 +227,8 @@
     "initial_time": "12:00 UTC-7",
     "initial_team1": "USA",
     "initial_team2": "Australia",
-    "initial_ground": "Seattle"
+    "initial_ground": "Seattle",
+    "official_match_number": 32
   },
   "wc2026-match-022": {
     "sequence": 22,
@@ -217,7 +238,8 @@
     "initial_time": "20:00 UTC-7",
     "initial_team1": "Turkey",
     "initial_team2": "Paraguay",
-    "initial_ground": "San Francisco Bay Area (Santa Clara)"
+    "initial_ground": "San Francisco Bay Area (Santa Clara)",
+    "official_match_number": 31
   },
   "wc2026-match-023": {
     "sequence": 23,
@@ -227,7 +249,8 @@
     "initial_time": "19:00 UTC-7",
     "initial_team1": "Turkey",
     "initial_team2": "USA",
-    "initial_ground": "Los Angeles (Inglewood)"
+    "initial_ground": "Los Angeles (Inglewood)",
+    "official_match_number": 59
   },
   "wc2026-match-024": {
     "sequence": 24,
@@ -237,7 +260,8 @@
     "initial_time": "19:00 UTC-7",
     "initial_team1": "Paraguay",
     "initial_team2": "Australia",
-    "initial_ground": "San Francisco Bay Area (Santa Clara)"
+    "initial_ground": "San Francisco Bay Area (Santa Clara)",
+    "official_match_number": 60
   },
   "wc2026-match-025": {
     "sequence": 25,
@@ -247,7 +271,8 @@
     "initial_time": "12:00 UTC-5",
     "initial_team1": "Germany",
     "initial_team2": "Curaçao",
-    "initial_ground": "Houston"
+    "initial_ground": "Houston",
+    "official_match_number": 10
   },
   "wc2026-match-026": {
     "sequence": 26,
@@ -257,7 +282,8 @@
     "initial_time": "19:00 UTC-4",
     "initial_team1": "Ivory Coast",
     "initial_team2": "Ecuador",
-    "initial_ground": "Philadelphia"
+    "initial_ground": "Philadelphia",
+    "official_match_number": 9
   },
   "wc2026-match-027": {
     "sequence": 27,
@@ -267,7 +293,8 @@
     "initial_time": "16:00 UTC-4",
     "initial_team1": "Germany",
     "initial_team2": "Ivory Coast",
-    "initial_ground": "Toronto"
+    "initial_ground": "Toronto",
+    "official_match_number": 33
   },
   "wc2026-match-028": {
     "sequence": 28,
@@ -277,7 +304,8 @@
     "initial_time": "19:00 UTC-5",
     "initial_team1": "Ecuador",
     "initial_team2": "Curaçao",
-    "initial_ground": "Kansas City"
+    "initial_ground": "Kansas City",
+    "official_match_number": 34
   },
   "wc2026-match-029": {
     "sequence": 29,
@@ -287,7 +315,8 @@
     "initial_time": "16:00 UTC-4",
     "initial_team1": "Curaçao",
     "initial_team2": "Ivory Coast",
-    "initial_ground": "Philadelphia"
+    "initial_ground": "Philadelphia",
+    "official_match_number": 55
   },
   "wc2026-match-030": {
     "sequence": 30,
@@ -297,7 +326,8 @@
     "initial_time": "16:00 UTC-4",
     "initial_team1": "Ecuador",
     "initial_team2": "Germany",
-    "initial_ground": "New York/New Jersey (East Rutherford)"
+    "initial_ground": "New York/New Jersey (East Rutherford)",
+    "official_match_number": 56
   },
   "wc2026-match-031": {
     "sequence": 31,
@@ -307,7 +337,8 @@
     "initial_time": "15:00 UTC-5",
     "initial_team1": "Netherlands",
     "initial_team2": "Japan",
-    "initial_ground": "Dallas (Arlington)"
+    "initial_ground": "Dallas (Arlington)",
+    "official_match_number": 11
   },
   "wc2026-match-032": {
     "sequence": 32,
@@ -317,7 +348,8 @@
     "initial_time": "20:00 UTC-6",
     "initial_team1": "Sweden",
     "initial_team2": "Tunisia",
-    "initial_ground": "Monterrey (Guadalupe)"
+    "initial_ground": "Monterrey (Guadalupe)",
+    "official_match_number": 12
   },
   "wc2026-match-033": {
     "sequence": 33,
@@ -327,7 +359,8 @@
     "initial_time": "12:00 UTC-5",
     "initial_team1": "Netherlands",
     "initial_team2": "Sweden",
-    "initial_ground": "Houston"
+    "initial_ground": "Houston",
+    "official_match_number": 35
   },
   "wc2026-match-034": {
     "sequence": 34,
@@ -337,7 +370,8 @@
     "initial_time": "22:00 UTC-6",
     "initial_team1": "Tunisia",
     "initial_team2": "Japan",
-    "initial_ground": "Monterrey (Guadalupe)"
+    "initial_ground": "Monterrey (Guadalupe)",
+    "official_match_number": 36
   },
   "wc2026-match-035": {
     "sequence": 35,
@@ -347,7 +381,8 @@
     "initial_time": "18:00 UTC-5",
     "initial_team1": "Japan",
     "initial_team2": "Sweden",
-    "initial_ground": "Dallas (Arlington)"
+    "initial_ground": "Dallas (Arlington)",
+    "official_match_number": 57
   },
   "wc2026-match-036": {
     "sequence": 36,
@@ -357,7 +392,8 @@
     "initial_time": "18:00 UTC-5",
     "initial_team1": "Tunisia",
     "initial_team2": "Netherlands",
-    "initial_ground": "Kansas City"
+    "initial_ground": "Kansas City",
+    "official_match_number": 58
   },
   "wc2026-match-037": {
     "sequence": 37,
@@ -367,7 +403,8 @@
     "initial_time": "12:00 UTC-7",
     "initial_team1": "Belgium",
     "initial_team2": "Egypt",
-    "initial_ground": "Seattle"
+    "initial_ground": "Seattle",
+    "official_match_number": 16
   },
   "wc2026-match-038": {
     "sequence": 38,
@@ -377,7 +414,8 @@
     "initial_time": "18:00 UTC-7",
     "initial_team1": "Iran",
     "initial_team2": "New Zealand",
-    "initial_ground": "Los Angeles (Inglewood)"
+    "initial_ground": "Los Angeles (Inglewood)",
+    "official_match_number": 15
   },
   "wc2026-match-039": {
     "sequence": 39,
@@ -387,7 +425,8 @@
     "initial_time": "12:00 UTC-7",
     "initial_team1": "Belgium",
     "initial_team2": "Iran",
-    "initial_ground": "Los Angeles (Inglewood)"
+    "initial_ground": "Los Angeles (Inglewood)",
+    "official_match_number": 39
   },
   "wc2026-match-040": {
     "sequence": 40,
@@ -397,7 +436,8 @@
     "initial_time": "18:00 UTC-7",
     "initial_team1": "New Zealand",
     "initial_team2": "Egypt",
-    "initial_ground": "Vancouver"
+    "initial_ground": "Vancouver",
+    "official_match_number": 40
   },
   "wc2026-match-041": {
     "sequence": 41,
@@ -407,7 +447,8 @@
     "initial_time": "20:00 UTC-7",
     "initial_team1": "Egypt",
     "initial_team2": "Iran",
-    "initial_ground": "Seattle"
+    "initial_ground": "Seattle",
+    "official_match_number": 63
   },
   "wc2026-match-042": {
     "sequence": 42,
@@ -417,7 +458,8 @@
     "initial_time": "20:00 UTC-7",
     "initial_team1": "New Zealand",
     "initial_team2": "Belgium",
-    "initial_ground": "Vancouver"
+    "initial_ground": "Vancouver",
+    "official_match_number": 64
   },
   "wc2026-match-043": {
     "sequence": 43,
@@ -427,7 +469,8 @@
     "initial_time": "12:00 UTC-4",
     "initial_team1": "Spain",
     "initial_team2": "Cape Verde",
-    "initial_ground": "Atlanta"
+    "initial_ground": "Atlanta",
+    "official_match_number": 14
   },
   "wc2026-match-044": {
     "sequence": 44,
@@ -437,7 +480,8 @@
     "initial_time": "18:00 UTC-4",
     "initial_team1": "Saudi Arabia",
     "initial_team2": "Uruguay",
-    "initial_ground": "Miami (Miami Gardens)"
+    "initial_ground": "Miami (Miami Gardens)",
+    "official_match_number": 13
   },
   "wc2026-match-045": {
     "sequence": 45,
@@ -447,7 +491,8 @@
     "initial_time": "12:00 UTC-4",
     "initial_team1": "Spain",
     "initial_team2": "Saudi Arabia",
-    "initial_ground": "Atlanta"
+    "initial_ground": "Atlanta",
+    "official_match_number": 38
   },
   "wc2026-match-046": {
     "sequence": 46,
@@ -457,7 +502,8 @@
     "initial_time": "18:00 UTC-4",
     "initial_team1": "Uruguay",
     "initial_team2": "Cape Verde",
-    "initial_ground": "Miami (Miami Gardens)"
+    "initial_ground": "Miami (Miami Gardens)",
+    "official_match_number": 37
   },
   "wc2026-match-047": {
     "sequence": 47,
@@ -467,7 +513,8 @@
     "initial_time": "19:00 UTC-5",
     "initial_team1": "Cape Verde",
     "initial_team2": "Saudi Arabia",
-    "initial_ground": "Houston"
+    "initial_ground": "Houston",
+    "official_match_number": 65
   },
   "wc2026-match-048": {
     "sequence": 48,
@@ -477,7 +524,8 @@
     "initial_time": "18:00 UTC-6",
     "initial_team1": "Uruguay",
     "initial_team2": "Spain",
-    "initial_ground": "Guadalajara (Zapopan)"
+    "initial_ground": "Guadalajara (Zapopan)",
+    "official_match_number": 66
   },
   "wc2026-match-049": {
     "sequence": 49,
@@ -487,7 +535,8 @@
     "initial_time": "15:00 UTC-4",
     "initial_team1": "France",
     "initial_team2": "Senegal",
-    "initial_ground": "New York/New Jersey (East Rutherford)"
+    "initial_ground": "New York/New Jersey (East Rutherford)",
+    "official_match_number": 17
   },
   "wc2026-match-050": {
     "sequence": 50,
@@ -497,7 +546,8 @@
     "initial_time": "18:00 UTC-4",
     "initial_team1": "Iraq",
     "initial_team2": "Norway",
-    "initial_ground": "Boston (Foxborough)"
+    "initial_ground": "Boston (Foxborough)",
+    "official_match_number": 18
   },
   "wc2026-match-051": {
     "sequence": 51,
@@ -507,7 +557,8 @@
     "initial_time": "17:00 UTC-4",
     "initial_team1": "France",
     "initial_team2": "Iraq",
-    "initial_ground": "Philadelphia"
+    "initial_ground": "Philadelphia",
+    "official_match_number": 42
   },
   "wc2026-match-052": {
     "sequence": 52,
@@ -517,7 +568,8 @@
     "initial_time": "20:00 UTC-4",
     "initial_team1": "Norway",
     "initial_team2": "Senegal",
-    "initial_ground": "New York/New Jersey (East Rutherford)"
+    "initial_ground": "New York/New Jersey (East Rutherford)",
+    "official_match_number": 41
   },
   "wc2026-match-053": {
     "sequence": 53,
@@ -527,7 +579,8 @@
     "initial_time": "15:00 UTC-4",
     "initial_team1": "Norway",
     "initial_team2": "France",
-    "initial_ground": "Boston (Foxborough)"
+    "initial_ground": "Boston (Foxborough)",
+    "official_match_number": 61
   },
   "wc2026-match-054": {
     "sequence": 54,
@@ -537,7 +590,8 @@
     "initial_time": "15:00 UTC-4",
     "initial_team1": "Senegal",
     "initial_team2": "Iraq",
-    "initial_ground": "Toronto"
+    "initial_ground": "Toronto",
+    "official_match_number": 62
   },
   "wc2026-match-055": {
     "sequence": 55,
@@ -547,7 +601,8 @@
     "initial_time": "20:00 UTC-5",
     "initial_team1": "Argentina",
     "initial_team2": "Algeria",
-    "initial_ground": "Kansas City"
+    "initial_ground": "Kansas City",
+    "official_match_number": 19
   },
   "wc2026-match-056": {
     "sequence": 56,
@@ -557,7 +612,8 @@
     "initial_time": "21:00 UTC-7",
     "initial_team1": "Austria",
     "initial_team2": "Jordan",
-    "initial_ground": "San Francisco Bay Area (Santa Clara)"
+    "initial_ground": "San Francisco Bay Area (Santa Clara)",
+    "official_match_number": 20
   },
   "wc2026-match-057": {
     "sequence": 57,
@@ -567,7 +623,8 @@
     "initial_time": "12:00 UTC-5",
     "initial_team1": "Argentina",
     "initial_team2": "Austria",
-    "initial_ground": "Dallas (Arlington)"
+    "initial_ground": "Dallas (Arlington)",
+    "official_match_number": 43
   },
   "wc2026-match-058": {
     "sequence": 58,
@@ -577,7 +634,8 @@
     "initial_time": "20:00 UTC-7",
     "initial_team1": "Jordan",
     "initial_team2": "Algeria",
-    "initial_ground": "San Francisco Bay Area (Santa Clara)"
+    "initial_ground": "San Francisco Bay Area (Santa Clara)",
+    "official_match_number": 44
   },
   "wc2026-match-059": {
     "sequence": 59,
@@ -587,7 +645,8 @@
     "initial_time": "21:00 UTC-5",
     "initial_team1": "Algeria",
     "initial_team2": "Austria",
-    "initial_ground": "Kansas City"
+    "initial_ground": "Kansas City",
+    "official_match_number": 69
   },
   "wc2026-match-060": {
     "sequence": 60,
@@ -597,7 +656,8 @@
     "initial_time": "21:00 UTC-5",
     "initial_team1": "Jordan",
     "initial_team2": "Argentina",
-    "initial_ground": "Dallas (Arlington)"
+    "initial_ground": "Dallas (Arlington)",
+    "official_match_number": 70
   },
   "wc2026-match-061": {
     "sequence": 61,
@@ -607,7 +667,8 @@
     "initial_time": "12:00 UTC-5",
     "initial_team1": "Portugal",
     "initial_team2": "DR Congo",
-    "initial_ground": "Houston"
+    "initial_ground": "Houston",
+    "official_match_number": 23
   },
   "wc2026-match-062": {
     "sequence": 62,
@@ -617,7 +678,8 @@
     "initial_time": "20:00 UTC-6",
     "initial_team1": "Uzbekistan",
     "initial_team2": "Colombia",
-    "initial_ground": "Mexico City"
+    "initial_ground": "Mexico City",
+    "official_match_number": 24
   },
   "wc2026-match-063": {
     "sequence": 63,
@@ -627,7 +689,8 @@
     "initial_time": "12:00 UTC-5",
     "initial_team1": "Portugal",
     "initial_team2": "Uzbekistan",
-    "initial_ground": "Houston"
+    "initial_ground": "Houston",
+    "official_match_number": 47
   },
   "wc2026-match-064": {
     "sequence": 64,
@@ -637,7 +700,8 @@
     "initial_time": "20:00 UTC-6",
     "initial_team1": "Colombia",
     "initial_team2": "DR Congo",
-    "initial_ground": "Guadalajara (Zapopan)"
+    "initial_ground": "Guadalajara (Zapopan)",
+    "official_match_number": 48
   },
   "wc2026-match-065": {
     "sequence": 65,
@@ -647,7 +711,8 @@
     "initial_time": "19:30 UTC-4",
     "initial_team1": "Colombia",
     "initial_team2": "Portugal",
-    "initial_ground": "Miami (Miami Gardens)"
+    "initial_ground": "Miami (Miami Gardens)",
+    "official_match_number": 71
   },
   "wc2026-match-066": {
     "sequence": 66,
@@ -657,7 +722,8 @@
     "initial_time": "19:30 UTC-4",
     "initial_team1": "DR Congo",
     "initial_team2": "Uzbekistan",
-    "initial_ground": "Atlanta"
+    "initial_ground": "Atlanta",
+    "official_match_number": 72
   },
   "wc2026-match-067": {
     "sequence": 67,
@@ -667,7 +733,8 @@
     "initial_time": "15:00 UTC-5",
     "initial_team1": "England",
     "initial_team2": "Croatia",
-    "initial_ground": "Dallas (Arlington)"
+    "initial_ground": "Dallas (Arlington)",
+    "official_match_number": 22
   },
   "wc2026-match-068": {
     "sequence": 68,
@@ -677,7 +744,8 @@
     "initial_time": "19:00 UTC-4",
     "initial_team1": "Ghana",
     "initial_team2": "Panama",
-    "initial_ground": "Toronto"
+    "initial_ground": "Toronto",
+    "official_match_number": 21
   },
   "wc2026-match-069": {
     "sequence": 69,
@@ -687,7 +755,8 @@
     "initial_time": "16:00 UTC-4",
     "initial_team1": "England",
     "initial_team2": "Ghana",
-    "initial_ground": "Boston (Foxborough)"
+    "initial_ground": "Boston (Foxborough)",
+    "official_match_number": 45
   },
   "wc2026-match-070": {
     "sequence": 70,
@@ -697,7 +766,8 @@
     "initial_time": "19:00 UTC-4",
     "initial_team1": "Panama",
     "initial_team2": "Croatia",
-    "initial_ground": "Toronto"
+    "initial_ground": "Toronto",
+    "official_match_number": 46
   },
   "wc2026-match-071": {
     "sequence": 71,
@@ -707,7 +777,8 @@
     "initial_time": "17:00 UTC-4",
     "initial_team1": "Panama",
     "initial_team2": "England",
-    "initial_ground": "New York/New Jersey (East Rutherford)"
+    "initial_ground": "New York/New Jersey (East Rutherford)",
+    "official_match_number": 67
   },
   "wc2026-match-072": {
     "sequence": 72,
@@ -717,7 +788,8 @@
     "initial_time": "17:00 UTC-4",
     "initial_team1": "Croatia",
     "initial_team2": "Ghana",
-    "initial_ground": "Philadelphia"
+    "initial_ground": "Philadelphia",
+    "official_match_number": 68
   },
   "wc2026-match-073": {
     "sequence": 73,
@@ -727,7 +799,8 @@
     "initial_time": "12:00 UTC-7",
     "initial_team1": "2A",
     "initial_team2": "2B",
-    "initial_ground": "Los Angeles (Inglewood)"
+    "initial_ground": "Los Angeles (Inglewood)",
+    "official_match_number": 73
   },
   "wc2026-match-074": {
     "sequence": 74,
@@ -737,7 +810,8 @@
     "initial_time": "16:30 UTC-4",
     "initial_team1": "1E",
     "initial_team2": "3A/B/C/D/F",
-    "initial_ground": "Boston (Foxborough)"
+    "initial_ground": "Boston (Foxborough)",
+    "official_match_number": 74
   },
   "wc2026-match-075": {
     "sequence": 75,
@@ -747,7 +821,8 @@
     "initial_time": "19:00 UTC-6",
     "initial_team1": "1F",
     "initial_team2": "2C",
-    "initial_ground": "Monterrey (Guadalupe)"
+    "initial_ground": "Monterrey (Guadalupe)",
+    "official_match_number": 75
   },
   "wc2026-match-076": {
     "sequence": 76,
@@ -757,7 +832,8 @@
     "initial_time": "12:00 UTC-5",
     "initial_team1": "1C",
     "initial_team2": "2F",
-    "initial_ground": "Houston"
+    "initial_ground": "Houston",
+    "official_match_number": 76
   },
   "wc2026-match-077": {
     "sequence": 77,
@@ -767,7 +843,8 @@
     "initial_time": "17:00 UTC-4",
     "initial_team1": "1I",
     "initial_team2": "3C/D/F/G/H",
-    "initial_ground": "New York/New Jersey (East Rutherford)"
+    "initial_ground": "New York/New Jersey (East Rutherford)",
+    "official_match_number": 77
   },
   "wc2026-match-078": {
     "sequence": 78,
@@ -777,7 +854,8 @@
     "initial_time": "12:00 UTC-5",
     "initial_team1": "2E",
     "initial_team2": "2I",
-    "initial_ground": "Dallas (Arlington)"
+    "initial_ground": "Dallas (Arlington)",
+    "official_match_number": 78
   },
   "wc2026-match-079": {
     "sequence": 79,
@@ -787,7 +865,8 @@
     "initial_time": "19:00 UTC-6",
     "initial_team1": "1A",
     "initial_team2": "3C/E/F/H/I",
-    "initial_ground": "Mexico City"
+    "initial_ground": "Mexico City",
+    "official_match_number": 79
   },
   "wc2026-match-080": {
     "sequence": 80,
@@ -797,7 +876,8 @@
     "initial_time": "12:00 UTC-4",
     "initial_team1": "1L",
     "initial_team2": "3E/H/I/J/K",
-    "initial_ground": "Atlanta"
+    "initial_ground": "Atlanta",
+    "official_match_number": 80
   },
   "wc2026-match-081": {
     "sequence": 81,
@@ -807,7 +887,8 @@
     "initial_time": "17:00 UTC-7",
     "initial_team1": "1D",
     "initial_team2": "3B/E/F/I/J",
-    "initial_ground": "San Francisco Bay Area (Santa Clara)"
+    "initial_ground": "San Francisco Bay Area (Santa Clara)",
+    "official_match_number": 81
   },
   "wc2026-match-082": {
     "sequence": 82,
@@ -817,7 +898,8 @@
     "initial_time": "13:00 UTC-7",
     "initial_team1": "1G",
     "initial_team2": "3A/E/H/I/J",
-    "initial_ground": "Seattle"
+    "initial_ground": "Seattle",
+    "official_match_number": 82
   },
   "wc2026-match-083": {
     "sequence": 83,
@@ -827,7 +909,8 @@
     "initial_time": "19:00 UTC-4",
     "initial_team1": "2K",
     "initial_team2": "2L",
-    "initial_ground": "Toronto"
+    "initial_ground": "Toronto",
+    "official_match_number": 83
   },
   "wc2026-match-084": {
     "sequence": 84,
@@ -837,7 +920,8 @@
     "initial_time": "12:00 UTC-7",
     "initial_team1": "1H",
     "initial_team2": "2J",
-    "initial_ground": "Los Angeles (Inglewood)"
+    "initial_ground": "Los Angeles (Inglewood)",
+    "official_match_number": 84
   },
   "wc2026-match-085": {
     "sequence": 85,
@@ -847,7 +931,8 @@
     "initial_time": "20:00 UTC-7",
     "initial_team1": "1B",
     "initial_team2": "3E/F/G/I/J",
-    "initial_ground": "Vancouver"
+    "initial_ground": "Vancouver",
+    "official_match_number": 85
   },
   "wc2026-match-086": {
     "sequence": 86,
@@ -857,7 +942,8 @@
     "initial_time": "18:00 UTC-4",
     "initial_team1": "1J",
     "initial_team2": "2H",
-    "initial_ground": "Miami (Miami Gardens)"
+    "initial_ground": "Miami (Miami Gardens)",
+    "official_match_number": 86
   },
   "wc2026-match-087": {
     "sequence": 87,
@@ -867,7 +953,8 @@
     "initial_time": "20:30 UTC-5",
     "initial_team1": "1K",
     "initial_team2": "3D/E/I/J/L",
-    "initial_ground": "Kansas City"
+    "initial_ground": "Kansas City",
+    "official_match_number": 87
   },
   "wc2026-match-088": {
     "sequence": 88,
@@ -877,7 +964,8 @@
     "initial_time": "13:00 UTC-5",
     "initial_team1": "2D",
     "initial_team2": "2G",
-    "initial_ground": "Dallas (Arlington)"
+    "initial_ground": "Dallas (Arlington)",
+    "official_match_number": 88
   },
   "wc2026-match-089": {
     "sequence": 89,
@@ -887,7 +975,8 @@
     "initial_time": "17:00 UTC-4",
     "initial_team1": "W74",
     "initial_team2": "W77",
-    "initial_ground": "Philadelphia"
+    "initial_ground": "Philadelphia",
+    "official_match_number": 89
   },
   "wc2026-match-090": {
     "sequence": 90,
@@ -897,7 +986,8 @@
     "initial_time": "12:00 UTC-5",
     "initial_team1": "W73",
     "initial_team2": "W75",
-    "initial_ground": "Houston"
+    "initial_ground": "Houston",
+    "official_match_number": 90
   },
   "wc2026-match-091": {
     "sequence": 91,
@@ -907,7 +997,8 @@
     "initial_time": "16:00 UTC-4",
     "initial_team1": "W76",
     "initial_team2": "W78",
-    "initial_ground": "New York/New Jersey (East Rutherford)"
+    "initial_ground": "New York/New Jersey (East Rutherford)",
+    "official_match_number": 91
   },
   "wc2026-match-092": {
     "sequence": 92,
@@ -917,7 +1008,8 @@
     "initial_time": "18:00 UTC-6",
     "initial_team1": "W79",
     "initial_team2": "W80",
-    "initial_ground": "Mexico City"
+    "initial_ground": "Mexico City",
+    "official_match_number": 92
   },
   "wc2026-match-093": {
     "sequence": 93,
@@ -927,7 +1019,8 @@
     "initial_time": "14:00 UTC-5",
     "initial_team1": "W83",
     "initial_team2": "W84",
-    "initial_ground": "Dallas (Arlington)"
+    "initial_ground": "Dallas (Arlington)",
+    "official_match_number": 93
   },
   "wc2026-match-094": {
     "sequence": 94,
@@ -937,7 +1030,8 @@
     "initial_time": "17:00 UTC-7",
     "initial_team1": "W81",
     "initial_team2": "W82",
-    "initial_ground": "Seattle"
+    "initial_ground": "Seattle",
+    "official_match_number": 94
   },
   "wc2026-match-095": {
     "sequence": 95,
@@ -947,7 +1041,8 @@
     "initial_time": "12:00 UTC-4",
     "initial_team1": "W86",
     "initial_team2": "W88",
-    "initial_ground": "Atlanta"
+    "initial_ground": "Atlanta",
+    "official_match_number": 95
   },
   "wc2026-match-096": {
     "sequence": 96,
@@ -957,7 +1052,8 @@
     "initial_time": "13:00 UTC-7",
     "initial_team1": "W85",
     "initial_team2": "W87",
-    "initial_ground": "Vancouver"
+    "initial_ground": "Vancouver",
+    "official_match_number": 96
   },
   "wc2026-match-097": {
     "sequence": 97,
@@ -967,7 +1063,8 @@
     "initial_time": "16:00 UTC-4",
     "initial_team1": "W89",
     "initial_team2": "W90",
-    "initial_ground": "Boston (Foxborough)"
+    "initial_ground": "Boston (Foxborough)",
+    "official_match_number": 97
   },
   "wc2026-match-098": {
     "sequence": 98,
@@ -977,7 +1074,8 @@
     "initial_time": "12:00 UTC-7",
     "initial_team1": "W93",
     "initial_team2": "W94",
-    "initial_ground": "Los Angeles (Inglewood)"
+    "initial_ground": "Los Angeles (Inglewood)",
+    "official_match_number": 98
   },
   "wc2026-match-099": {
     "sequence": 99,
@@ -987,7 +1085,8 @@
     "initial_time": "17:00 UTC-4",
     "initial_team1": "W91",
     "initial_team2": "W92",
-    "initial_ground": "Miami (Miami Gardens)"
+    "initial_ground": "Miami (Miami Gardens)",
+    "official_match_number": 99
   },
   "wc2026-match-100": {
     "sequence": 100,
@@ -997,7 +1096,8 @@
     "initial_time": "20:00 UTC-5",
     "initial_team1": "W95",
     "initial_team2": "W96",
-    "initial_ground": "Kansas City"
+    "initial_ground": "Kansas City",
+    "official_match_number": 100
   },
   "wc2026-match-101": {
     "sequence": 101,
@@ -1007,7 +1107,8 @@
     "initial_time": "14:00 UTC-5",
     "initial_team1": "W97",
     "initial_team2": "W98",
-    "initial_ground": "Dallas (Arlington)"
+    "initial_ground": "Dallas (Arlington)",
+    "official_match_number": 101
   },
   "wc2026-match-102": {
     "sequence": 102,
@@ -1017,7 +1118,8 @@
     "initial_time": "15:00 UTC-4",
     "initial_team1": "W99",
     "initial_team2": "W100",
-    "initial_ground": "Atlanta"
+    "initial_ground": "Atlanta",
+    "official_match_number": 102
   },
   "wc2026-match-103": {
     "sequence": 103,
@@ -1027,7 +1129,8 @@
     "initial_time": "17:00 UTC-4",
     "initial_team1": "L101",
     "initial_team2": "L102",
-    "initial_ground": "Miami (Miami Gardens)"
+    "initial_ground": "Miami (Miami Gardens)",
+    "official_match_number": 103
   },
   "wc2026-match-104": {
     "sequence": 104,
@@ -1037,6 +1140,7 @@
     "initial_time": "15:00 UTC-4",
     "initial_team1": "W101",
     "initial_team2": "W102",
-    "initial_ground": "New York/New Jersey (East Rutherford)"
+    "initial_ground": "New York/New Jersey (East Rutherford)",
+    "official_match_number": 104
   }
 }

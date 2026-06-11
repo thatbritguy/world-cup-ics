@@ -35,7 +35,8 @@ Examples:
 
 Stable UIDs such as `wc2026-match-001@world-cup-ics` allow subscribed calendar
 applications to update an existing event as teams, scores, and goals become
-known.
+known. Visible match numbers follow the published tournament numbering rather
+than openfootball's group-organized JSON array order.
 
 ## Data pipeline
 
