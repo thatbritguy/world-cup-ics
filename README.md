@@ -1,7 +1,7 @@
 # World Cup ICS
 
 An automatically updated iCalendar feed for all 104 matches at the 2026 FIFA
-World Cup.
+World Cup, plus a static historical calendar proof of concept for 1930.
 
 ## Subscribe
 
@@ -16,6 +16,12 @@ Apple Calendar also accepts the `webcal` form:
 
 ```text
 webcal://raw.githubusercontent.com/thatbritguy/world-cup-ics/master/ics/world-cup-2026.ics
+```
+
+The static 1930 calendar is available at:
+
+```text
+https://raw.githubusercontent.com/thatbritguy/world-cup-ics/master/ics/world-cup-1930.ics
 ```
 
 Each event includes the kickoff time, stadium, geographic coordinates for map
@@ -54,12 +60,25 @@ Broadcast and Forza data are deliberately stored separately from the upstream
 fixture snapshot. A failure in either optional source cannot alter match
 identity or kickoff data.
 
+The 1930 calendar is generated separately and has no scheduled workflow. Match
+results and goals come from the fixed openfootball snapshot; local kickoff
+times and FIFA report links are imported once from Wikipedia match boxes and
+stored in `data/1930/enrichment.json`. Historical events contain no alerts.
+
 ## Local commands
 
 ```bash
 python3 scripts/generate_calendar.py
 python3 scripts/validate_calendar.py
+python3 scripts/generate_historical_calendar.py 1930
+python3 scripts/validate_historical_calendar.py 1930
 python3 -m unittest discover -s tests
+```
+
+The one-time 1930 time import can be reproduced with:
+
+```bash
+python3 scripts/import_historical_times.py 1930
 ```
 
 To run the full live update pipeline:
@@ -78,5 +97,10 @@ data/2026/worldcup.stadiums.json       Static 2026 stadium mapping
 data/2026/worldcup.forza.json          Stable Forza match IDs
 data/2026/worldcup.broadcasters.json   UK channel enrichment
 data/2026/overrides.json               Manual per-match corrections
+data/1930/worldcup.json                Fixed historical results snapshot
+data/1930/enrichment.json              Kickoff times and source links
+data/1930/manifest.json                Stable chronological match identities
+data/1930/venues.json                  Historical venue coordinates
 ics/world-cup-2026.ics                 Published calendar feed
+ics/world-cup-1930.ics                 Static historical calendar proof
 ```

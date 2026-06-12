@@ -513,5 +513,58 @@
     "confed": "CONCACAF",
     "iso": "PA",
     "aliases": []
+  },
+  {
+    "name": "Bolivia",
+    "continent": "South America",
+    "flag_icon": "🇧🇴",
+    "flag_unicode": "\\u{1F1E7}\\u{1F1F4}",
+    "fifa_code": "BOL",
+    "confed": "CONMEBOL",
+    "iso": "BO",
+    "aliases": []
+  },
+  {
+    "name": "Chile",
+    "continent": "South America",
+    "flag_icon": "🇨🇱",
+    "flag_unicode": "\\u{1F1E8}\\u{1F1F1}",
+    "fifa_code": "CHI",
+    "confed": "CONMEBOL",
+    "iso": "CL",
+    "aliases": []
+  },
+  {
+    "name": "Peru",
+    "continent": "South America",
+    "flag_icon": "🇵🇪",
+    "flag_unicode": "\\u{1F1F5}\\u{1F1EA}",
+    "fifa_code": "PER",
+    "confed": "CONMEBOL",
+    "iso": "PE",
+    "aliases": []
+  },
+  {
+    "name": "Romania",
+    "continent": "Europe",
+    "flag_icon": "🇷🇴",
+    "flag_unicode": "\\u{1F1F7}\\u{1F1F4}",
+    "fifa_code": "ROU",
+    "confed": "UEFA",
+    "iso": "RO",
+    "aliases": []
+  },
+  {
+    "name": "Yugoslavia",
+    "name_normalised": "Kingdom of Yugoslavia",
+    "continent": "Europe",
+    "flag_icon": "",
+    "flag_unicode": "",
+    "fifa_code": "YUG",
+    "confed": "UEFA",
+    "iso": null,
+    "aliases": [
+      "Kingdom of Yugoslavia"
+    ]
   }
 ]

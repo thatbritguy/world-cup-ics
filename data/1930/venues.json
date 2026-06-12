@@ -1,0 +1,35 @@
+{
+  "venues": [
+    {
+      "name": "Estadio Pocitos",
+      "city": "Montevideo",
+      "ground_aliases": [
+        "Estadio Pocitos, Montevideo"
+      ],
+      "latitude": -34.905,
+      "longitude": -56.156111,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Estadio_Pocitos"
+    },
+    {
+      "name": "Estadio Parque Central",
+      "modern_name": "Estadio Gran Parque Central",
+      "city": "Montevideo",
+      "ground_aliases": [
+        "Estadio Parque Central, Montevideo"
+      ],
+      "latitude": -34.884373,
+      "longitude": -56.1588,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Estadio_Gran_Parque_Central"
+    },
+    {
+      "name": "Estadio Centenario",
+      "city": "Montevideo",
+      "ground_aliases": [
+        "Estadio Centenario, Montevideo"
+      ],
+      "latitude": -34.89455,
+      "longitude": -56.1528,
+      "coordinate_source": "https://fr.wikipedia.org/wiki/Stade_Centenario"
+    }
+  ]
+}

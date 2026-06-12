@@ -1,0 +1,340 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//world-cup-ics//FIFA World Cup 1930//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:FIFA World Cup 1930
+X-WR-CALDESC:Complete fixtures and results for the FIFA World Cup 1930
+BEGIN:VEVENT
+UID:wc1930-match-001@world-cup-ics
+DTSTAMP:19300730T161500Z
+DTSTART:19300713T183000Z
+DTEND:19300713T203000Z
+SUMMARY:[G1] 🇫🇷 FRA 4-1 MEX 🇲🇽 [001]
+LOCATION:Estadio Pocitos\, Montevideo
+GEO:-34.905000;-56.156111
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Pocitos, Montevide
+ o";X-APPLE-RADIUS=100;X-TITLE="Estadio Pocitos, Montevideo":geo:-34.905000
+ ,-56.156111
+DESCRIPTION:Group 1 | Matchday 1\nFrance 4-1 Mexico\nHT: 3-0\nGoals:\nFRA 
+ 🇫🇷: L. Laurent 19'\, Langiller 40'\, Maschinot 43'\, Maschinot 87'\n
+ MEX 🇲🇽: Carreño 70'
+URL:https://www.fifa.com/en/match-centre/match/17/1/201/1096
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:FIFA World Cup 1930
+END:VEVENT
+BEGIN:VEVENT
+UID:wc1930-match-002@world-cup-ics
+DTSTAMP:19300730T161500Z
+DTSTART:19300713T183000Z
+DTEND:19300713T203000Z
+SUMMARY:[G4] 🇺🇸 USA 3-0 BEL 🇧🇪 [002]
+LOCATION:Estadio Parque Central\, Montevideo
+GEO:-34.884373;-56.158800
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Parque Central, Mo
+ ntevideo";X-APPLE-RADIUS=100;X-TITLE="Estadio Parque Central, Montevideo":
+ geo:-34.884373,-56.158800
+DESCRIPTION:Group 4 | Matchday 1\nUSA 3-0 Belgium\nHT: 2-0\nGoals:\nUSA 
+ 🇺🇸: McGhee 23'\, Florie 45'\, Patenaude 69'
+URL:https://www.fifa.com/en/match-centre/match/17/1/201/1090
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:FIFA World Cup 1930
+END:VEVENT
+BEGIN:VEVENT
+UID:wc1930-match-003@world-cup-ics
+DTSTAMP:19300730T161500Z
+DTSTART:19300714T161500Z
+DTEND:19300714T181500Z
+SUMMARY:[G2] YUG 2-1 BRA 🇧🇷 [003]
+LOCATION:Estadio Parque Central\, Montevideo
+GEO:-34.884373;-56.158800
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Parque Central, Mo
+ ntevideo";X-APPLE-RADIUS=100;X-TITLE="Estadio Parque Central, Montevideo":
+ geo:-34.884373,-56.158800
+DESCRIPTION:Group 2 | Matchday 2\nYugoslavia 2-1 Brazil\nHT: 2-0\nGoals:\nY
+ UG: Tirnanić 21'\, Bek 30'\nBRA 🇧🇷: Preguinho 62'
+URL:https://www.fifa.com/en/match-centre/match/17/1/201/1093
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:FIFA World Cup 1930
+END:VEVENT
+BEGIN:VEVENT
+UID:wc1930-match-004@world-cup-ics
+DTSTAMP:19300730T161500Z
+DTSTART:19300714T182000Z
+DTEND:19300714T202000Z
+SUMMARY:[G3] 🇷🇴 ROU 3-1 PER 🇵🇪 [004]
+LOCATION:Estadio Pocitos\, Montevideo
+GEO:-34.905000;-56.156111
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Pocitos, Montevide
+ o";X-APPLE-RADIUS=100;X-TITLE="Estadio Pocitos, Montevideo":geo:-34.905000
+ ,-56.156111
+DESCRIPTION:Group 3 | Matchday 2\nRomania 3-1 Peru\nHT: 1-0\nGoals:\nROU 
+ 🇷🇴: Deşu 1'\, Stanciu 79'\, Kovács 89'\nPER 🇵🇪: Souza Ferrei
+ ra 75'
+URL:https://www.fifa.com/en/match-centre/match/17/1/201/1098
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:FIFA World Cup 1930
+END:VEVENT
+BEGIN:VEVENT
+UID:wc1930-match-005@world-cup-ics
+DTSTAMP:19300730T161500Z
+DTSTART:19300715T193000Z
+DTEND:19300715T213000Z
+SUMMARY:[G1] 🇦🇷 ARG 1-0 FRA 🇫🇷 [005]
+LOCATION:Estadio Parque Central\, Montevideo
+GEO:-34.884373;-56.158800
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Parque Central, Mo
+ ntevideo";X-APPLE-RADIUS=100;X-TITLE="Estadio Parque Central, Montevideo":
+ geo:-34.884373,-56.158800
+DESCRIPTION:Group 1 | Matchday 3\nArgentina 1-0 France\nHT: 0-0\nGoals:\nAR
+ G 🇦🇷: Monti 81'
+URL:https://www.fifa.com/en/match-centre/match/17/1/201/1085
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:FIFA World Cup 1930
+END:VEVENT
+BEGIN:VEVENT
+UID:wc1930-match-006@world-cup-ics
+DTSTAMP:19300730T161500Z
+DTSTART:19300716T181500Z
+DTEND:19300716T201500Z
+SUMMARY:[G1] 🇨🇱 CHI 3-0 MEX 🇲🇽 [006]
+LOCATION:Estadio Parque Central\, Montevideo
+GEO:-34.884373;-56.158800
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Parque Central, Mo
+ ntevideo";X-APPLE-RADIUS=100;X-TITLE="Estadio Parque Central, Montevideo":
+ geo:-34.884373,-56.158800
+DESCRIPTION:Group 1 | Matchday 4\nChile 3-0 Mexico\nHT: 1-0\nGoals:\nCHI 
+ 🇨🇱: Vidal 3'\, Vidal 65'\, M. Rosas 51' og
+URL:https://www.fifa.com/en/match-centre/match/17/1/201/1095
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:FIFA World Cup 1930
+END:VEVENT
+BEGIN:VEVENT
+UID:wc1930-match-007@world-cup-ics
+DTSTAMP:19300730T161500Z
+DTSTART:19300717T161500Z
+DTEND:19300717T181500Z
+SUMMARY:[G2] YUG 4-0 BOL 🇧🇴 [007]
+LOCATION:Estadio Parque Central\, Montevideo
+GEO:-34.884373;-56.158800
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Parque Central, Mo
+ ntevideo";X-APPLE-RADIUS=100;X-TITLE="Estadio Parque Central, Montevideo":
+ geo:-34.884373,-56.158800
+DESCRIPTION:Group 2 | Matchday 5\nYugoslavia 4-0 Bolivia\nHT: 0-0\nGoals:\n
+ YUG: Bek 60'\, Bek 67'\, Marjanović 65'\, Vujadinović 85'
+URL:https://www.fifa.com/en/match-centre/match/17/1/201/1092
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:FIFA World Cup 1930
+END:VEVENT
+BEGIN:VEVENT
+UID:wc1930-match-008@world-cup-ics
+DTSTAMP:19300730T161500Z
+DTSTART:19300717T181500Z
+DTEND:19300717T201500Z
+SUMMARY:[G4] 🇺🇸 USA 3-0 PAR 🇵🇾 [008]
+LOCATION:Estadio Parque Central\, Montevideo
+GEO:-34.884373;-56.158800
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Parque Central, Mo
+ ntevideo";X-APPLE-RADIUS=100;X-TITLE="Estadio Parque Central, Montevideo":
+ geo:-34.884373,-56.158800
+DESCRIPTION:Group 4 | Matchday 5\nUSA 3-0 Paraguay\nHT: 2-0\nGoals:\nUSA 
+ 🇺🇸: Patenaude 10'\, Patenaude 15'\, Patenaude 50'
+URL:https://www.fifa.com/en/match-centre/match/17/1/201/1097
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:FIFA World Cup 1930
+END:VEVENT
+BEGIN:VEVENT
+UID:wc1930-match-009@world-cup-ics
+DTSTAMP:19300730T161500Z
+DTSTART:19300718T180000Z
+DTEND:19300718T200000Z
+SUMMARY:[G3] 🇺🇾 URU 1-0 PER 🇵🇪 [009]
+LOCATION:Estadio Centenario\, Montevideo
+GEO:-34.894550;-56.152800
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Centenario, Montev
+ ideo";X-APPLE-RADIUS=100;X-TITLE="Estadio Centenario, Montevideo":geo:-34.
+ 894550,-56.152800
+DESCRIPTION:Group 3 | Matchday 6\nUruguay 1-0 Peru\nHT: 0-0\nGoals:\nURU 
+ 🇺🇾: Castro 60'
+URL:https://www.fifa.com/en/match-centre/match/17/1/201/1099
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:FIFA World Cup 1930
+END:VEVENT
+BEGIN:VEVENT
+UID:wc1930-match-010@world-cup-ics
+DTSTAMP:19300730T161500Z
+DTSTART:19300719T162000Z
+DTEND:19300719T182000Z
+SUMMARY:[G1] 🇨🇱 CHI 1-0 FRA 🇫🇷 [010]
+LOCATION:Estadio Centenario\, Montevideo
+GEO:-34.894550;-56.152800
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Centenario, Montev
+ ideo";X-APPLE-RADIUS=100;X-TITLE="Estadio Centenario, Montevideo":geo:-34.
+ 894550,-56.152800
+DESCRIPTION:Group 1 | Matchday 7\nChile 1-0 France\nHT: 0-0\nGoals:\nCHI 
+ 🇨🇱: Subiabre 65'
+URL:https://www.fifa.com/en/match-centre/match/17/1/201/1094
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:FIFA World Cup 1930
+END:VEVENT
+BEGIN:VEVENT
+UID:wc1930-match-011@world-cup-ics
+DTSTAMP:19300730T161500Z
+DTSTART:19300719T183000Z
+DTEND:19300719T203000Z
+SUMMARY:[G1] 🇦🇷 ARG 6-3 MEX 🇲🇽 [011]
+LOCATION:Estadio Centenario\, Montevideo
+GEO:-34.894550;-56.152800
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Centenario, Montev
+ ideo";X-APPLE-RADIUS=100;X-TITLE="Estadio Centenario, Montevideo":geo:-34.
+ 894550,-56.152800
+DESCRIPTION:Group 1 | Matchday 7\nArgentina 6-3 Mexico\nHT: 3-1\nGoals:\nAR
+ G 🇦🇷: Stábile 8'\, Stábile 17'\, Stábile 80'\, Zumelzú 12'\, Zum
+ elzú 55'\, Varallo 53'\nMEX 🇲🇽: M. Rosas 42' pen\, M. Rosas 65'\, G
+ ayón 75'
+URL:https://www.fifa.com/en/match-centre/match/17/1/201/1086
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:FIFA World Cup 1930
+END:VEVENT
+BEGIN:VEVENT
+UID:wc1930-match-012@world-cup-ics
+DTSTAMP:19300730T161500Z
+DTSTART:19300720T163000Z
+DTEND:19300720T183000Z
+SUMMARY:[G2] 🇧🇷 BRA 4-0 BOL 🇧🇴 [012]
+LOCATION:Estadio Centenario\, Montevideo
+GEO:-34.894550;-56.152800
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Centenario, Montev
+ ideo";X-APPLE-RADIUS=100;X-TITLE="Estadio Centenario, Montevideo":geo:-34.
+ 894550,-56.152800
+DESCRIPTION:Group 2 | Matchday 8\nBrazil 4-0 Bolivia\nHT: 1-0\nGoals:\nBRA 
+ 🇧🇷: Moderato 37'\, Moderato 73'\, Preguinho 57'\, Preguinho 83'
+URL:https://www.fifa.com/en/match-centre/match/17/1/201/1091
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:FIFA World Cup 1930
+END:VEVENT
+BEGIN:VEVENT
+UID:wc1930-match-013@world-cup-ics
+DTSTAMP:19300730T161500Z
+DTSTART:19300720T183000Z
+DTEND:19300720T203000Z
+SUMMARY:[G4] 🇵🇾 PAR 1-0 BEL 🇧🇪 [013]
+LOCATION:Estadio Centenario\, Montevideo
+GEO:-34.894550;-56.152800
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Centenario, Montev
+ ideo";X-APPLE-RADIUS=100;X-TITLE="Estadio Centenario, Montevideo":geo:-34.
+ 894550,-56.152800
+DESCRIPTION:Group 4 | Matchday 8\nParaguay 1-0 Belgium\nHT: 1-0\nGoals:\nPA
+ R 🇵🇾: Vargas Peña 40'
+URL:https://www.fifa.com/en/match-centre/match/17/1/201/1089
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:FIFA World Cup 1930
+END:VEVENT
+BEGIN:VEVENT
+UID:wc1930-match-014@world-cup-ics
+DTSTAMP:19300730T161500Z
+DTSTART:19300721T182000Z
+DTEND:19300721T202000Z
+SUMMARY:[G3] 🇺🇾 URU 4-0 ROU 🇷🇴 [014]
+LOCATION:Estadio Centenario\, Montevideo
+GEO:-34.894550;-56.152800
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Centenario, Montev
+ ideo";X-APPLE-RADIUS=100;X-TITLE="Estadio Centenario, Montevideo":geo:-34.
+ 894550,-56.152800
+DESCRIPTION:Group 3 | Matchday 9\nUruguay 4-0 Romania\nHT: 4-0\nGoals:\nURU
+  🇺🇾: Dorado 7'\, Scarone 24'\, Anselmo 30'\, Cea 35'
+URL:https://www.fifa.com/en/match-centre/match/17/1/201/1100
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:FIFA World Cup 1930
+END:VEVENT
+BEGIN:VEVENT
+UID:wc1930-match-015@world-cup-ics
+DTSTAMP:19300730T161500Z
+DTSTART:19300722T181500Z
+DTEND:19300722T201500Z
+SUMMARY:[G1] 🇦🇷 ARG 3-1 CHI 🇨🇱 [015]
+LOCATION:Estadio Centenario\, Montevideo
+GEO:-34.894550;-56.152800
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Centenario, Montev
+ ideo";X-APPLE-RADIUS=100;X-TITLE="Estadio Centenario, Montevideo":geo:-34.
+ 894550,-56.152800
+DESCRIPTION:Group 1 | Matchday 10\nArgentina 3-1 Chile\nHT: 2-1\nGoals:\nAR
+ G 🇦🇷: Stábile 12'\, Stábile 13'\, M. Evaristo 81'\nCHI 🇨🇱: S
+ ubiabre 15'
+URL:https://www.fifa.com/en/match-centre/match/17/1/201/1084
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:FIFA World Cup 1930
+END:VEVENT
+BEGIN:VEVENT
+UID:wc1930-match-016@world-cup-ics
+DTSTAMP:19300730T161500Z
+DTSTART:19300726T181500Z
+DTEND:19300726T211500Z
+SUMMARY:[SF1] 🇦🇷 ARG 6-1 USA 🇺🇸 [016]
+LOCATION:Estadio Centenario\, Montevideo
+GEO:-34.894550;-56.152800
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Centenario, Montev
+ ideo";X-APPLE-RADIUS=100;X-TITLE="Estadio Centenario, Montevideo":geo:-34.
+ 894550,-56.152800
+DESCRIPTION:Semi-finals\nArgentina 6-1 USA\nHT: 1-0\nGoals:\nARG 🇦🇷: 
+ Monti 20'\, Scopelli 56'\, Stábile 69'\, Stábile 87'\, Peucelle 80'\, Pe
+ ucelle 85'\nUSA 🇺🇸: Brown 89'
+URL:https://www.fifa.com/en/match-centre/match/17/1/202/1088
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:FIFA World Cup 1930
+END:VEVENT
+BEGIN:VEVENT
+UID:wc1930-match-017@world-cup-ics
+DTSTAMP:19300730T161500Z
+DTSTART:19300727T181500Z
+DTEND:19300727T211500Z
+SUMMARY:[SF2] 🇺🇾 URU 6-1 YUG [017]
+LOCATION:Estadio Centenario\, Montevideo
+GEO:-34.894550;-56.152800
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Centenario, Montev
+ ideo";X-APPLE-RADIUS=100;X-TITLE="Estadio Centenario, Montevideo":geo:-34.
+ 894550,-56.152800
+DESCRIPTION:Semi-finals\nUruguay 6-1 Yugoslavia\nHT: 3-1\nGoals:\nURU 🇺
+ 🇾: Cea 18'\, Cea 67'\, Cea 72'\, Anselmo 20'\, Anselmo 31'\, Iriarte 61
+ '\nYUG: Vujadinović 4'
+URL:https://www.fifa.com/en/match-centre/match/17/1/202/1101
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:FIFA World Cup 1930
+END:VEVENT
+BEGIN:VEVENT
+UID:wc1930-match-018@world-cup-ics
+DTSTAMP:19300730T161500Z
+DTSTART:19300730T161500Z
+DTEND:19300730T191500Z
+SUMMARY:[FINAL] 🇺🇾 URU 4-2 ARG 🇦🇷 [018]
+LOCATION:Estadio Centenario\, Montevideo
+GEO:-34.894550;-56.152800
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Centenario, Montev
+ ideo";X-APPLE-RADIUS=100;X-TITLE="Estadio Centenario, Montevideo":geo:-34.
+ 894550,-56.152800
+DESCRIPTION:Final\nUruguay 4-2 Argentina\nHT: 1-2\nGoals:\nURU 🇺🇾: Do
+ rado 12'\, Cea 57'\, Iriarte 68'\, Castro 89'\nARG 🇦🇷: Peucelle 20'\
+ , Stábile 37'
+URL:https://www.fifa.com/en/match-centre/match/17/1/405/1087
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:FIFA World Cup 1930
+END:VEVENT
+END:VCALENDAR

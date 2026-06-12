@@ -1,0 +1,150 @@
+{
+  "year": 1930,
+  "numbering": "chronological kickoff order; source order breaks identical kickoff ties",
+  "matches": [
+    {
+      "sequence": 1,
+      "key": "wc1930-match-001",
+      "uid": "wc1930-match-001@world-cup-ics",
+      "date": "1930-07-13",
+      "team1": "France",
+      "team2": "Mexico"
+    },
+    {
+      "sequence": 2,
+      "key": "wc1930-match-002",
+      "uid": "wc1930-match-002@world-cup-ics",
+      "date": "1930-07-13",
+      "team1": "United States",
+      "team2": "Belgium"
+    },
+    {
+      "sequence": 3,
+      "key": "wc1930-match-003",
+      "uid": "wc1930-match-003@world-cup-ics",
+      "date": "1930-07-14",
+      "team1": "Yugoslavia",
+      "team2": "Brazil"
+    },
+    {
+      "sequence": 4,
+      "key": "wc1930-match-004",
+      "uid": "wc1930-match-004@world-cup-ics",
+      "date": "1930-07-14",
+      "team1": "Romania",
+      "team2": "Peru"
+    },
+    {
+      "sequence": 5,
+      "key": "wc1930-match-005",
+      "uid": "wc1930-match-005@world-cup-ics",
+      "date": "1930-07-15",
+      "team1": "Argentina",
+      "team2": "France"
+    },
+    {
+      "sequence": 6,
+      "key": "wc1930-match-006",
+      "uid": "wc1930-match-006@world-cup-ics",
+      "date": "1930-07-16",
+      "team1": "Chile",
+      "team2": "Mexico"
+    },
+    {
+      "sequence": 7,
+      "key": "wc1930-match-007",
+      "uid": "wc1930-match-007@world-cup-ics",
+      "date": "1930-07-17",
+      "team1": "Yugoslavia",
+      "team2": "Bolivia"
+    },
+    {
+      "sequence": 8,
+      "key": "wc1930-match-008",
+      "uid": "wc1930-match-008@world-cup-ics",
+      "date": "1930-07-17",
+      "team1": "United States",
+      "team2": "Paraguay"
+    },
+    {
+      "sequence": 9,
+      "key": "wc1930-match-009",
+      "uid": "wc1930-match-009@world-cup-ics",
+      "date": "1930-07-18",
+      "team1": "Uruguay",
+      "team2": "Peru"
+    },
+    {
+      "sequence": 10,
+      "key": "wc1930-match-010",
+      "uid": "wc1930-match-010@world-cup-ics",
+      "date": "1930-07-19",
+      "team1": "Chile",
+      "team2": "France"
+    },
+    {
+      "sequence": 11,
+      "key": "wc1930-match-011",
+      "uid": "wc1930-match-011@world-cup-ics",
+      "date": "1930-07-19",
+      "team1": "Argentina",
+      "team2": "Mexico"
+    },
+    {
+      "sequence": 12,
+      "key": "wc1930-match-012",
+      "uid": "wc1930-match-012@world-cup-ics",
+      "date": "1930-07-20",
+      "team1": "Brazil",
+      "team2": "Bolivia"
+    },
+    {
+      "sequence": 13,
+      "key": "wc1930-match-013",
+      "uid": "wc1930-match-013@world-cup-ics",
+      "date": "1930-07-20",
+      "team1": "Paraguay",
+      "team2": "Belgium"
+    },
+    {
+      "sequence": 14,
+      "key": "wc1930-match-014",
+      "uid": "wc1930-match-014@world-cup-ics",
+      "date": "1930-07-21",
+      "team1": "Uruguay",
+      "team2": "Romania"
+    },
+    {
+      "sequence": 15,
+      "key": "wc1930-match-015",
+      "uid": "wc1930-match-015@world-cup-ics",
+      "date": "1930-07-22",
+      "team1": "Argentina",
+      "team2": "Chile"
+    },
+    {
+      "sequence": 16,
+      "key": "wc1930-match-016",
+      "uid": "wc1930-match-016@world-cup-ics",
+      "date": "1930-07-26",
+      "team1": "Argentina",
+      "team2": "United States"
+    },
+    {
+      "sequence": 17,
+      "key": "wc1930-match-017",
+      "uid": "wc1930-match-017@world-cup-ics",
+      "date": "1930-07-27",
+      "team1": "Uruguay",
+      "team2": "Yugoslavia"
+    },
+    {
+      "sequence": 18,
+      "key": "wc1930-match-018",
+      "uid": "wc1930-match-018@world-cup-ics",
+      "date": "1930-07-30",
+      "team1": "Uruguay",
+      "team2": "Argentina"
+    }
+  ]
+}

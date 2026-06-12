@@ -3,7 +3,14 @@ from __future__ import annotations
 
 import re
 
-from common import CALENDAR_PATH, DATA_DIR, event_uid, load_json
+from common import (
+    CALENDAR_PATH,
+    DATA_DIR,
+    country_index,
+    event_uid,
+    load_json,
+    normalize_name,
+)
 
 
 def unfold(lines: list[str]) -> list[str]:
@@ -87,8 +94,19 @@ def main() -> None:
         raise ValueError("UID map must contain official match numbers 1-104")
 
     countries = load_json(DATA_DIR.parent / "countries.json")
-    if len(countries) != 48:
-        raise ValueError("countries.json must contain all 48 teams")
+    indexed_countries = country_index(countries)
+    source = load_json(DATA_DIR / "worldcup.json")
+    missing = sorted(
+        {
+            team
+            for match in source["matches"]
+            for team in (match["team1"], match["team2"])
+            if not re.fullmatch(r"(?:[123][A-L](?:/[A-L])*|[WL]\d+)", team)
+            if normalize_name(team) not in indexed_countries
+        }
+    )
+    if missing:
+        raise ValueError(f"countries.json is missing 2026 teams: {missing}")
     england = next(item for item in countries if item["fifa_code"] == "ENG")
     codepoints = [f"{ord(char):X}" for char in england["flag_icon"]]
     expected_codepoints = ["1F3F4", "E0067", "E0062", "E0065", "E006E", "E0067", "E007F"]
