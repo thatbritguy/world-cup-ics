@@ -413,19 +413,19 @@
       "fifa_match_id": "1134",
       "wikipedia_url": "https://en.wikipedia.org/wiki/1934_FIFA_World_Cup_final",
       "source_order": 16,
-      "local_time": "15:30",
+      "local_time": "17:00",
       "local_time_sources": {
-        "selected": "English Wikipedia, corroborated by a contemporary Radiocorriere account",
+        "selected": "Contemporary Radiocorriere EIAR broadcast schedule, corroborated by RSSSF",
         "wikipedia": "15:30",
         "fifa_archive": "17:30",
-        "evidence_url": "https://www.worldradiohistory.com/INTERNATIONAL/Radiocorriere/30s/1934/RC-1934-25.pdf",
+        "evidence_url": "https://www.worldradiohistory.com/INTERNATIONAL/Radiocorriere/30s/1934/RC-1934-24.pdf",
         "rsssf": "17:00",
-        "resolution_note": "Selected Wikipedia's 15:30 CET value. A contemporary Radiocorriere account places one hour of regulation remaining at 16:00, the teams entering for the second half at 16:30, and play continuing at 17:03. This sequence supports a 15:30 kickoff and rejects FIFA's archived 17:30 value; RSSSF reports 17:00."
+        "resolution_note": "Selected 17:00 CET from the contemporary Radiocorriere EIAR schedule for 10 June 1934, which lists the live final broadcast from Stadio del Littorio at 17:00; RSSSF independently reports 17:00. The following week's Radiocorriere poem places the teams' entrance at 16:30 and listeners absorbed in the commentary at 17:03. Wikipedia reports 15:30 and FIFA's archive reports 17:30."
       },
       "timezone": "Europe/Rome",
       "utc_offset": "+01:00",
       "timezone_source": "IANA Time Zone Database",
-      "kickoff_utc": "1934-06-10T14:30:00Z",
+      "kickoff_utc": "1934-06-10T16:00:00Z",
       "fifa_derived_utc": "1934-06-10T15:30:00Z",
       "official_match_number": 17,
       "fifa_archive_url": "https://web.archive.org/web/20220819172410https://www.fifa.com/en/tournaments/mens/worldcup/1934italy/match-center"

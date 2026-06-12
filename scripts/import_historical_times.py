@@ -50,16 +50,17 @@ TOURNAMENTS = {
         "expected_matches": 17,
         "local_time_overrides": {
             "1134": {
-                "time": "15:30",
+                "time": "17:00",
                 "selected_source": (
-                    "English Wikipedia, corroborated by a contemporary "
-                    "Radiocorriere account"
+                    "Contemporary Radiocorriere EIAR broadcast schedule, "
+                    "corroborated by RSSSF"
                 ),
                 "evidence_url": (
                     "https://www.worldradiohistory.com/INTERNATIONAL/"
-                    "Radiocorriere/30s/1934/RC-1934-25.pdf"
+                    "Radiocorriere/30s/1934/RC-1934-24.pdf"
                 ),
                 "reported_alternatives": {
+                    "wikipedia": "15:30",
                     "rsssf": "17:00",
                 },
             }
@@ -85,11 +86,12 @@ TOURNAMENTS = {
                 "Selected FIFA and Wikipedia's 18:00 local time over RSSSF's 17:30."
             ),
             "1134": (
-                "Selected Wikipedia's 15:30 CET value. A contemporary "
-                "Radiocorriere account places one hour of regulation remaining "
-                "at 16:00, the teams entering for the second half at 16:30, and "
-                "play continuing at 17:03. This sequence supports a 15:30 kickoff "
-                "and rejects FIFA's archived 17:30 value; RSSSF reports 17:00."
+                "Selected 17:00 CET from the contemporary Radiocorriere EIAR "
+                "schedule for 10 June 1934, which lists the live final broadcast "
+                "from Stadio del Littorio at 17:00; RSSSF independently reports "
+                "17:00. The following week's Radiocorriere poem places the teams' "
+                "entrance at 16:30 and listeners absorbed in the commentary at "
+                "17:03. Wikipedia reports 15:30 and FIFA's archive reports 17:30."
             ),
         },
     },

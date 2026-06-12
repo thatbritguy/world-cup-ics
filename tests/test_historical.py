@@ -59,11 +59,12 @@ class HistoricalCalendarTests(unittest.TestCase):
             list(range(1, 18)),
         )
         final = next(item for item in enrichment if item["official_match_number"] == 17)
-        self.assertEqual(final["local_time"], "15:30")
+        self.assertEqual(final["local_time"], "17:00")
         self.assertEqual(final["timezone"], "Europe/Rome")
         self.assertEqual(final["utc_offset"], "+01:00")
-        self.assertEqual(final["kickoff_utc"], "1934-06-10T14:30:00Z")
+        self.assertEqual(final["kickoff_utc"], "1934-06-10T16:00:00Z")
         self.assertEqual(final["local_time_sources"]["fifa_archive"], "17:30")
+        self.assertEqual(final["local_time_sources"]["wikipedia"], "15:30")
         self.assertEqual(final["local_time_sources"]["rsssf"], "17:00")
         self.assertNotEqual(final["kickoff_utc"], final["fifa_derived_utc"])
 
