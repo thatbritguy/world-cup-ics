@@ -443,8 +443,7 @@
     "aliases": [
       "Côte d'Ivoire",
       "Cote d'Ivoire"
-    ],
-    "name_normalised": "Cote d'Ivoire"
+    ]
   },
   {
     "name": "Cameroon",
@@ -469,8 +468,7 @@
     "aliases": [
       "Congo DR",
       "Democratic Republic of the Congo"
-    ],
-    "name_normalised": "Congo DR"
+    ]
   },
   {
     "name": "Cook Islands",
@@ -597,8 +595,7 @@
     "status": "current",
     "aliases": [
       "Czechia"
-    ],
-    "name_normalised": "Czechia"
+    ]
   },
   {
     "name": "Denmark",
@@ -1175,8 +1172,7 @@
     "aliases": [
       "Korea Republic",
       "Republic of Korea"
-    ],
-    "name_normalised": "Korea Republic"
+    ]
   },
   {
     "name": "Kosovo",
@@ -1752,8 +1748,7 @@
       "Korea DPR",
       "DPR Korea",
       "Democratic People's Republic of Korea"
-    ],
-    "name_normalised": "Korea DPR"
+    ]
   },
   {
     "name": "Puerto Rico",
@@ -2240,8 +2235,7 @@
     "aliases": [
       "Türkiye",
       "Turkiye"
-    ],
-    "name_normalised": "Türkiye"
+    ]
   },
   {
     "name": "United Arab Emirates",
@@ -2312,8 +2306,7 @@
     "aliases": [
       "United States",
       "United States of America"
-    ],
-    "name_normalised": "United States"
+    ]
   },
   {
     "name": "Uzbekistan",
@@ -2425,8 +2418,7 @@
     "status": "historical",
     "aliases": [
       "Kingdom of Yugoslavia"
-    ],
-    "name_normalised": "Kingdom of Yugoslavia"
+    ]
   },
   {
     "name": "Zaire",

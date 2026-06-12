@@ -45,8 +45,6 @@ def country_index(countries: list[dict[str, Any]]) -> dict[str, dict[str, Any]]:
     index: dict[str, dict[str, Any]] = {}
     for country in countries:
         names = [country["name"], *country.get("aliases", [])]
-        if country.get("name_normalised"):
-            names.append(country["name_normalised"])
         for name in names:
             index[normalize_name(name)] = country
     return index

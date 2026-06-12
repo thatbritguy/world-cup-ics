@@ -93,6 +93,9 @@ confederation, ISO and Unicode-flag sources with:
 python3 scripts/build_countries.py
 ```
 
+`name` is the stable English calendar display name. Official, localised and
+source-specific alternatives are retained in `aliases` for matching only.
+
 To run the full live update pipeline:
 
 ```bash

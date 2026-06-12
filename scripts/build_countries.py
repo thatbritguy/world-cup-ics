@@ -57,17 +57,14 @@ DISPLAY_OVERRIDES: dict[str, dict[str, Any]] = {
     "CPV": {"name": "Cape Verde", "aliases": ["Cabo Verde"]},
     "CIV": {
         "name": "Ivory Coast",
-        "name_normalised": "Cote d'Ivoire",
         "aliases": ["Côte d'Ivoire", "Cote d'Ivoire"],
     },
     "COD": {
         "name": "DR Congo",
-        "name_normalised": "Congo DR",
         "aliases": ["Congo DR", "Democratic Republic of the Congo"],
     },
     "CZE": {
         "name": "Czech Republic",
-        "name_normalised": "Czechia",
         "aliases": ["Czechia"],
     },
     "CUW": {"aliases": ["Curacao"]},
@@ -77,22 +74,18 @@ DISPLAY_OVERRIDES: dict[str, dict[str, Any]] = {
     },
     "KOR": {
         "name": "South Korea",
-        "name_normalised": "Korea Republic",
         "aliases": ["Korea Republic", "Republic of Korea"],
     },
     "PRK": {
         "name": "North Korea",
-        "name_normalised": "Korea DPR",
         "aliases": ["Korea DPR", "DPR Korea", "Democratic People's Republic of Korea"],
     },
     "TUR": {
         "name": "Turkey",
-        "name_normalised": "Türkiye",
         "aliases": ["Türkiye", "Turkiye"],
     },
     "USA": {
         "name": "USA",
-        "name_normalised": "United States",
         "aliases": ["United States", "United States of America"],
     },
 }
@@ -136,7 +129,6 @@ HISTORICAL_WORLD_CUP_TEAMS = [
     },
     {
         "name": "Yugoslavia",
-        "name_normalised": "Kingdom of Yugoslavia",
         "fifa_code": "YUG",
         "confed": "UEFA",
         "aliases": ["Kingdom of Yugoslavia"],
@@ -278,8 +270,6 @@ def current_country(
         "status": "current",
         "aliases": aliases,
     }
-    if override.get("name_normalised"):
-        country["name_normalised"] = override["name_normalised"]
     return country
 
 
@@ -295,8 +285,6 @@ def historical_country(value: dict[str, Any]) -> dict[str, Any]:
         "status": "historical",
         "aliases": value["aliases"],
     }
-    if value.get("name_normalised"):
-        country["name_normalised"] = value["name_normalised"]
     return country
 
 
@@ -313,7 +301,6 @@ def validate(countries: list[dict[str, Any]]) -> None:
     for country in countries:
         for name in [
             country["name"],
-            country.get("name_normalised", ""),
             *country["aliases"],
         ]:
             if not name:

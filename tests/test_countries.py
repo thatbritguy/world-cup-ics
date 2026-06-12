@@ -23,6 +23,7 @@ class CountryDatasetTests(unittest.TestCase):
         self.assertEqual(len(current), 211)
         self.assertEqual(len(historical), 8)
         self.assertEqual(len({item["fifa_code"] for item in self.countries}), 219)
+        self.assertFalse(any("name_normalised" in item for item in self.countries))
 
     def test_historical_world_cup_codes(self) -> None:
         expected = {"FRG", "GDR", "INH", "SCG", "TCH", "URS", "YUG", "ZAI"}
