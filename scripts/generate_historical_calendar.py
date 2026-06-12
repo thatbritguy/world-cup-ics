@@ -131,7 +131,7 @@ def main() -> None:
     data_dir = ROOT / "data" / str(args.year)
 
     source = load_json(data_dir / "worldcup.json")
-    enrichment = load_json(data_dir / "enrichment.json")["matches"]
+    enrichment = load_json(data_dir / "worldcup.enrichment.json")["matches"]
     enrichments = {match_identity(item): item for item in enrichment}
     combined: list[dict[str, Any]] = []
     for source_index, match in enumerate(source["matches"]):
@@ -141,9 +141,9 @@ def main() -> None:
         combined.append({**match, **enriched, "source_index": source_index})
     combined.sort(key=lambda item: (item["kickoff_utc"], item["source_order"]))
 
-    manifest = build_manifest(args.year, combined, data_dir / "manifest.json")
+    manifest = build_manifest(args.year, combined, data_dir / "worldcup.manifest.json")
     countries = country_index(load_json(ROOT / "data" / "countries.json"))
-    venue_data = load_json(data_dir / "venues.json")["venues"]
+    venue_data = load_json(data_dir / "worldcup.stadiums.json")["venues"]
     venues = {alias: venue for venue in venue_data for alias in venue["ground_aliases"]}
     stamp = max(item["kickoff_utc"] for item in combined).replace("-", "").replace(":", "")
 

@@ -22,7 +22,7 @@ def main() -> None:
     parser.add_argument("year", type=int)
     args = parser.parse_args()
     calendar = ROOT / "ics" / f"world-cup-{args.year}.ics"
-    manifest = load_json(ROOT / "data" / str(args.year) / "manifest.json")
+    manifest = load_json(ROOT / "data" / str(args.year) / "worldcup.manifest.json")
     expected = len(manifest["matches"])
 
     raw = calendar.read_bytes()

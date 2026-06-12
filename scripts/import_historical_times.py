@@ -29,6 +29,9 @@ NAME_ALIASES = {
     normalize_name("Kingdom of Yugoslavia"): "Yugoslavia",
     normalize_name("Yugoslavia"): "Yugoslavia",
 }
+FIFA_KICKOFF_OVERRIDES = {
+    (1930, "Uruguay", "Yugoslavia"): "1930-07-27T18:45:00Z",
+}
 
 
 def fetch_wikitext(title: str) -> str:
@@ -96,13 +99,21 @@ def parse_match(title: str, fields: dict[str, str], source_order: int) -> dict[s
     offset = timezone(-timedelta(hours=3, minutes=30))
     local = datetime(year, month, day, hour, minute, tzinfo=offset)
     page_url = f"https://en.wikipedia.org/wiki/{quote(title.replace(' ', '_'))}"
+    kickoff_utc = local.astimezone(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+    override = FIFA_KICKOFF_OVERRIDES.get((year, canonical_team(teams[0]), canonical_team(teams[1])))
+    if override:
+        kickoff_utc = override
+        local = datetime.strptime(override, "%Y-%m-%dT%H:%M:%SZ").replace(
+            tzinfo=timezone.utc
+        ).astimezone(offset)
     return {
         "date": local.date().isoformat(),
         "team1": canonical_team(teams[0]),
         "team2": canonical_team(teams[1]),
         "local_time": local.strftime("%H:%M"),
         "utc_offset": "-03:30",
-        "kickoff_utc": local.astimezone(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
+        "kickoff_utc": kickoff_utc,
+        "kickoff_source": "FIFA" if override else "Wikipedia",
         "stadium": clean_wikilinks(fields.get("stadium", "")),
         "fifa_url": fifa_url.group(0),
         "wikipedia_url": page_url,
@@ -124,7 +135,7 @@ def main() -> None:
     if len(records) != 18:
         raise ValueError(f"Expected 18 matches for 1930, found {len(records)}")
 
-    destination = ROOT / "data" / str(args.year) / "enrichment.json"
+    destination = ROOT / "data" / str(args.year) / "worldcup.enrichment.json"
     write_json(
         destination,
         {

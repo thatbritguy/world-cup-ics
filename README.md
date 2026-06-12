@@ -63,7 +63,8 @@ identity or kickoff data.
 The 1930 calendar is generated separately and has no scheduled workflow. Match
 results and goals come from the fixed openfootball snapshot; local kickoff
 times and FIFA report links are imported once from Wikipedia match boxes and
-stored in `data/1930/enrichment.json`. Historical events contain no alerts.
+stored in `data/1930/worldcup.enrichment.json`. FIFA times take precedence when
+the two sources conflict. Historical events contain no alerts.
 
 ## Local commands
 
@@ -98,9 +99,9 @@ data/2026/worldcup.forza.json          Stable Forza match IDs
 data/2026/worldcup.broadcasters.json   UK channel enrichment
 data/2026/overrides.json               Manual per-match corrections
 data/1930/worldcup.json                Fixed historical results snapshot
-data/1930/enrichment.json              Kickoff times and source links
-data/1930/manifest.json                Stable chronological match identities
-data/1930/venues.json                  Historical venue coordinates
+data/1930/worldcup.enrichment.json     Kickoff times and source links
+data/1930/worldcup.manifest.json       Stable chronological match identities
+data/1930/worldcup.stadiums.json       Historical venue coordinates
 ics/world-cup-2026.ics                 Published calendar feed
 ics/world-cup-1930.ics                 Static historical calendar proof
 ```
