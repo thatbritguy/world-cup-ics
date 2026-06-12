@@ -95,6 +95,8 @@ python3 scripts/build_countries.py
 
 `name` is the stable English calendar display name. Official, localised and
 source-specific alternatives are retained in `aliases` for matching only.
+Historical teams normally have no emoji; where a modern Unicode flag has the
+same historical design, `flag_representation` records that deliberate mapping.
 
 To run the full live update pipeline:
 

@@ -95,12 +95,14 @@ HISTORICAL_WORLD_CUP_TEAMS = [
         "name": "Czechoslovakia",
         "fifa_code": "TCH",
         "confed": "UEFA",
+        "flag_iso": "CZ",
         "aliases": [],
     },
     {
         "name": "Dutch East Indies",
         "fifa_code": "INH",
         "confed": "AFC",
+        "flag_iso": "NL",
         "aliases": ["Netherlands East Indies"],
     },
     {
@@ -125,6 +127,7 @@ HISTORICAL_WORLD_CUP_TEAMS = [
         "name": "West Germany",
         "fifa_code": "FRG",
         "confed": "UEFA",
+        "flag_iso": "DE",
         "aliases": ["Federal Republic of Germany", "Germany FR"],
     },
     {
@@ -273,18 +276,23 @@ def current_country(
     return country
 
 
-def historical_country(value: dict[str, Any]) -> dict[str, Any]:
+def historical_country(
+    value: dict[str, Any], flags_by_iso: dict[str, dict[str, str]]
+) -> dict[str, Any]:
+    flag = flags_by_iso.get(value.get("flag_iso", ""))
     country = {
         "name": value["name"],
         "continent": CONFEDERATION_CONTINENTS[value["confed"]],
-        "flag_icon": "",
-        "flag_unicode": "",
+        "flag_icon": flag["flag"] if flag else "",
+        "flag_unicode": unicode_format(flag["unicode"]) if flag else "",
         "fifa_code": value["fifa_code"],
         "confed": value["confed"],
         "iso": None,
         "status": "historical",
         "aliases": value["aliases"],
     }
+    if flag:
+        country["flag_representation"] = "historical-design-match"
     return country
 
 
@@ -322,7 +330,9 @@ def main() -> None:
         current_country(code, name, confederations, flags_by_name, flags_by_iso)
         for code, name in members
     ]
-    countries.extend(map(historical_country, HISTORICAL_WORLD_CUP_TEAMS))
+    countries.extend(
+        historical_country(item, flags_by_iso) for item in HISTORICAL_WORLD_CUP_TEAMS
+    )
     countries.sort(key=lambda item: item["fifa_code"])
     validate(countries)
     write_json(ROOT / "data" / "countries.json", countries)

@@ -765,8 +765,8 @@
   {
     "name": "West Germany",
     "continent": "Europe",
-    "flag_icon": "",
-    "flag_unicode": "",
+    "flag_icon": "🇩🇪",
+    "flag_unicode": "\\u{1F1E9}\\u{1F1EA}",
     "fifa_code": "FRG",
     "confed": "UEFA",
     "iso": null,
@@ -774,7 +774,8 @@
     "aliases": [
       "Federal Republic of Germany",
       "Germany FR"
-    ]
+    ],
+    "flag_representation": "historical-design-match"
   },
   {
     "name": "Faroe Islands",
@@ -1015,15 +1016,16 @@
   {
     "name": "Dutch East Indies",
     "continent": "Asia",
-    "flag_icon": "",
-    "flag_unicode": "",
+    "flag_icon": "🇳🇱",
+    "flag_unicode": "\\u{1F1F3}\\u{1F1F1}",
     "fifa_code": "INH",
     "confed": "AFC",
     "iso": null,
     "status": "historical",
     "aliases": [
       "Netherlands East Indies"
-    ]
+    ],
+    "flag_representation": "historical-design-match"
   },
   {
     "name": "Republic of Ireland",
@@ -2116,13 +2118,14 @@
   {
     "name": "Czechoslovakia",
     "continent": "Europe",
-    "flag_icon": "",
-    "flag_unicode": "",
+    "flag_icon": "🇨🇿",
+    "flag_unicode": "\\u{1F1E8}\\u{1F1FF}",
     "fifa_code": "TCH",
     "confed": "UEFA",
     "iso": null,
     "status": "historical",
-    "aliases": []
+    "aliases": [],
+    "flag_representation": "historical-design-match"
   },
   {
     "name": "Tonga",

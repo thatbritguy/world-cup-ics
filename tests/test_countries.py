@@ -56,11 +56,22 @@ class CountryDatasetTests(unittest.TestCase):
             self.assertTrue(country["flag_icon"].startswith("🏴"))
             self.assertTrue(country["iso"].startswith("GB-"))
 
-    def test_no_invented_historical_emoji(self) -> None:
-        for country in self.countries:
-            if country["status"] == "historical":
-                self.assertEqual(country["flag_icon"], "")
-                self.assertEqual(country["flag_unicode"], "")
+    def test_historical_design_matches_are_explicit(self) -> None:
+        expected = {"FRG": "🇩🇪", "INH": "🇳🇱", "TCH": "🇨🇿"}
+        historical = {
+            item["fifa_code"]: item
+            for item in self.countries
+            if item["status"] == "historical"
+        }
+        for code, flag in expected.items():
+            self.assertEqual(historical[code]["flag_icon"], flag)
+            self.assertEqual(
+                historical[code]["flag_representation"],
+                "historical-design-match",
+            )
+        for code in set(historical) - set(expected):
+            self.assertEqual(historical[code]["flag_icon"], "")
+            self.assertNotIn("flag_representation", historical[code])
 
 
 if __name__ == "__main__":
