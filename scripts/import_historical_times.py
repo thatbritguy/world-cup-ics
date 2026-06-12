@@ -4,10 +4,11 @@ from __future__ import annotations
 import argparse
 import json
 import re
-from datetime import datetime, timedelta, timezone
+from datetime import datetime, timezone
 from pathlib import Path
 from urllib.parse import quote, urlencode
 from urllib.request import Request, urlopen
+from zoneinfo import ZoneInfo
 
 from common import ROOT, normalize_name, write_json
 
@@ -29,8 +30,12 @@ NAME_ALIASES = {
     normalize_name("Kingdom of Yugoslavia"): "Yugoslavia",
     normalize_name("Yugoslavia"): "Yugoslavia",
 }
-FIFA_KICKOFF_OVERRIDES = {
-    (1930, "Uruguay", "Yugoslavia"): "1930-07-27T18:45:00Z",
+FIFA_ARCHIVE_URL = (
+    "https://web.archive.org/web/20220808074418/"
+    "https://www.fifa.com/en/tournaments/mens/worldcup/1930uruguay/match-center"
+)
+LOCAL_TIME_OVERRIDES = {
+    (1930, "Uruguay", "Argentina"): "14:15",
 }
 
 
@@ -95,27 +100,39 @@ def parse_match(title: str, fields: dict[str, str], source_order: int) -> dict[s
         raise ValueError(f"Could not parse teams from report title: {report_title.group(1)}")
 
     year, month, day = map(int, date_match.groups())
-    hour, minute = map(int, time_match.groups())
-    offset = timezone(-timedelta(hours=3, minutes=30))
-    local = datetime(year, month, day, hour, minute, tzinfo=offset)
+    team1 = canonical_team(teams[0])
+    team2 = canonical_team(teams[1])
+    wikipedia_time = f"{int(time_match.group(1)):02d}:{time_match.group(2)}"
+    local_time = LOCAL_TIME_OVERRIDES.get((year, team1, team2), wikipedia_time)
+    hour, minute = map(int, local_time.split(":"))
+    local = datetime(
+        year,
+        month,
+        day,
+        hour,
+        minute,
+        tzinfo=ZoneInfo("America/Montevideo"),
+    )
     page_url = f"https://en.wikipedia.org/wiki/{quote(title.replace(' ', '_'))}"
     kickoff_utc = local.astimezone(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
-    override = FIFA_KICKOFF_OVERRIDES.get((year, canonical_team(teams[0]), canonical_team(teams[1])))
-    if override:
-        kickoff_utc = override
-        local = datetime.strptime(override, "%Y-%m-%dT%H:%M:%SZ").replace(
-            tzinfo=timezone.utc
-        ).astimezone(offset)
+    override = local_time != wikipedia_time
     return {
         "date": local.date().isoformat(),
-        "team1": canonical_team(teams[0]),
-        "team2": canonical_team(teams[1]),
+        "team1": team1,
+        "team2": team2,
         "local_time": local.strftime("%H:%M"),
-        "utc_offset": "-03:30",
+        "local_time_source": (
+            "Archived FIFA tournament match centre; Wikipedia match box conflicts"
+            if override
+            else "Wikipedia match box; corroborated by archived FIFA tournament match centre"
+        ),
+        "timezone": "America/Montevideo",
+        "utc_offset": local.strftime("%z")[:3] + ":" + local.strftime("%z")[3:],
+        "timezone_source": "IANA Time Zone Database",
         "kickoff_utc": kickoff_utc,
-        "kickoff_source": "FIFA" if override else "Wikipedia",
         "stadium": clean_wikilinks(fields.get("stadium", "")),
         "fifa_url": fifa_url.group(0),
+        "fifa_archive_url": FIFA_ARCHIVE_URL,
         "wikipedia_url": page_url,
         "source_order": source_order,
     }
@@ -140,7 +157,15 @@ def main() -> None:
         destination,
         {
             "year": args.year,
-            "source": "English Wikipedia match boxes, with linked FIFA reports",
+            "source": (
+                "Local kickoff times reconciled between English Wikipedia match boxes "
+                "and FIFA's archived tournament match centre; UTC conversion uses "
+                "historical IANA timezone rules"
+            ),
+            "timezone_note": (
+                "FIFA's archived UTC date fields use modern Uruguay UTC-03:00. "
+                "They are not used because Montevideo observed UTC-03:30 in July 1930."
+            ),
             "matches": records,
         },
     )

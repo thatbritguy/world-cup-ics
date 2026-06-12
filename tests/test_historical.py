@@ -20,7 +20,7 @@ class HistoricalCalendarTests(unittest.TestCase):
         self.assertEqual(manifest["matches"][-1]["uid"], "wc1930-match-018@world-cup-ics")
         self.assertEqual(manifest["matches"][-1]["team1"], "Uruguay")
 
-    def test_fifa_kickoff_override_is_preserved(self) -> None:
+    def test_disputed_kickoffs_use_local_time_and_historical_timezone(self) -> None:
         enrichment = load_json(
             ROOT / "data" / "1930" / "worldcup.enrichment.json"
         )["matches"]
@@ -29,8 +29,17 @@ class HistoricalCalendarTests(unittest.TestCase):
             for match in enrichment
             if match["team1"] == "Uruguay" and match["team2"] == "Yugoslavia"
         )
-        self.assertEqual(semi_final["kickoff_utc"], "1930-07-27T18:45:00Z")
-        self.assertEqual(semi_final["kickoff_source"], "FIFA")
+        final = next(
+            match
+            for match in enrichment
+            if match["team1"] == "Uruguay" and match["team2"] == "Argentina"
+        )
+        self.assertEqual(semi_final["local_time"], "14:45")
+        self.assertEqual(semi_final["kickoff_utc"], "1930-07-27T18:15:00Z")
+        self.assertEqual(final["local_time"], "14:15")
+        self.assertEqual(final["kickoff_utc"], "1930-07-30T17:45:00Z")
+        self.assertEqual(final["timezone"], "America/Montevideo")
+        self.assertEqual(final["utc_offset"], "-03:30")
 
     def test_master_countries_cover_1930(self) -> None:
         countries = country_index(load_json(ROOT / "data" / "countries.json"))

@@ -63,8 +63,11 @@ identity or kickoff data.
 The 1930 calendar is generated separately and has no scheduled workflow. Match
 results and goals come from the fixed openfootball snapshot; local kickoff
 times and FIFA report links are imported once from Wikipedia match boxes and
-stored in `data/1930/worldcup.enrichment.json`. FIFA times take precedence when
-the two sources conflict. Historical events contain no alerts.
+stored in `data/1930/worldcup.enrichment.json`. Local clock times are reconciled
+against FIFA's archived tournament match centre, then converted using the IANA
+historical timezone for the host city. FIFA's archive incorrectly applies
+modern Uruguay's UTC-03:00 offset to its 1930 UTC fields, so those derived UTC
+values are not used. Historical events contain no alerts.
 
 ## Local commands
 
