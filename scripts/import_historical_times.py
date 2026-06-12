@@ -48,6 +48,22 @@ TOURNAMENTS = {
         ),
         "timezone": "Europe/Rome",
         "expected_matches": 17,
+        "local_time_overrides": {
+            "1134": {
+                "time": "15:30",
+                "selected_source": (
+                    "English Wikipedia, corroborated by a contemporary "
+                    "Radiocorriere account"
+                ),
+                "evidence_url": (
+                    "https://www.worldradiohistory.com/INTERNATIONAL/"
+                    "Radiocorriere/30s/1934/RC-1934-25.pdf"
+                ),
+                "reported_alternatives": {
+                    "rsssf": "17:00",
+                },
+            }
+        },
         "conflict_notes": {
             **{
                 match_id: (
@@ -69,9 +85,11 @@ TOURNAMENTS = {
                 "Selected FIFA and Wikipedia's 18:00 local time over RSSSF's 17:30."
             ),
             "1134": (
-                "Selected FIFA's archived 17:30 local time, corroborated by the "
-                "Spanish tournament history, over conflicting English Wikipedia "
-                "and RSSSF values."
+                "Selected Wikipedia's 15:30 CET value. A contemporary "
+                "Radiocorriere account places one hour of regulation remaining "
+                "at 16:00, the teams entering for the second half at 16:30, and "
+                "play continuing at 17:03. This sequence supports a 15:30 kickoff "
+                "and rejects FIFA's archived 17:30 value; RSSSF reports 17:00."
             ),
         },
     },
@@ -212,13 +230,17 @@ def reconcile(year: int) -> dict[str, object]:
         fifa_item = fifa.get(str(item["fifa_match_id"]))
         if not fifa_item:
             raise ValueError(f"No archived FIFA match for {item['fifa_match_id']}")
-        local_time = str(fifa_item["fifa_local_time"])
+        match_id = str(item["fifa_match_id"])
+        override = config.get("local_time_overrides", {}).get(match_id)
+        local_time = str(
+            override["time"] if override else fifa_item["fifa_local_time"]
+        )
         hour, minute = map(int, local_time.split(":"))
         date = datetime.strptime(str(item["date"]), "%Y-%m-%d")
         local = date.replace(hour=hour, minute=minute, tzinfo=timezone_info)
         wikipedia_time = str(item["wikipedia_local_time"])
         conflict = wikipedia_time != local_time
-        note = config["conflict_notes"].get(str(item["fifa_match_id"]))
+        note = config["conflict_notes"].get(match_id)
         if conflict and not note:
             raise ValueError(
                 f"Unresolved local-time conflict for {item['fifa_match_id']}: "
@@ -229,9 +251,21 @@ def reconcile(year: int) -> dict[str, object]:
                 **item,
                 "local_time": local_time,
                 "local_time_sources": {
-                    "selected": "Archived FIFA tournament match centre",
+                    "selected": (
+                        override["selected_source"]
+                        if override
+                        else "Archived FIFA tournament match centre"
+                    ),
                     "wikipedia": wikipedia_time,
-                    "fifa_archive": local_time,
+                    "fifa_archive": str(fifa_item["fifa_local_time"]),
+                    **(
+                        {
+                            "evidence_url": override["evidence_url"],
+                            **override["reported_alternatives"],
+                        }
+                        if override
+                        else {}
+                    ),
                     "resolution_note": note,
                 },
                 "timezone": timezone_name,
@@ -249,9 +283,10 @@ def reconcile(year: int) -> dict[str, object]:
     return {
         "year": year,
         "source": (
-            "Local clock times and official match numbers from FIFA's archived "
-            "tournament match centre, reconciled against English Wikipedia match "
-            "boxes; UTC conversion uses historical IANA timezone rules"
+            "Local clock times from FIFA's archived tournament match centre or "
+            "documented match-specific overrides, reconciled against English "
+            "Wikipedia match boxes; official match numbers come from FIFA and "
+            "UTC conversion uses historical IANA timezone rules"
         ),
         "timezone_note": (
             "FIFA's derived UTC fields are retained for audit but are not used. "

@@ -1,6 +1,6 @@
 {
   "year": 1934,
-  "source": "Local clock times and official match numbers from FIFA's archived tournament match centre, reconciled against English Wikipedia match boxes; UTC conversion uses historical IANA timezone rules",
+  "source": "Local clock times from FIFA's archived tournament match centre or documented match-specific overrides, reconciled against English Wikipedia match boxes; official match numbers come from FIFA and UTC conversion uses historical IANA timezone rules",
   "timezone_note": "FIFA's derived UTC fields are retained for audit but are not used. Historical local clock time is converted with the IANA host timezone.",
   "matches": [
     {
@@ -413,17 +413,19 @@
       "fifa_match_id": "1134",
       "wikipedia_url": "https://en.wikipedia.org/wiki/1934_FIFA_World_Cup_final",
       "source_order": 16,
-      "local_time": "17:30",
+      "local_time": "15:30",
       "local_time_sources": {
-        "selected": "Archived FIFA tournament match centre",
+        "selected": "English Wikipedia, corroborated by a contemporary Radiocorriere account",
         "wikipedia": "15:30",
         "fifa_archive": "17:30",
-        "resolution_note": "Selected FIFA's archived 17:30 local time, corroborated by the Spanish tournament history, over conflicting English Wikipedia and RSSSF values."
+        "evidence_url": "https://www.worldradiohistory.com/INTERNATIONAL/Radiocorriere/30s/1934/RC-1934-25.pdf",
+        "rsssf": "17:00",
+        "resolution_note": "Selected Wikipedia's 15:30 CET value. A contemporary Radiocorriere account places one hour of regulation remaining at 16:00, the teams entering for the second half at 16:30, and play continuing at 17:03. This sequence supports a 15:30 kickoff and rejects FIFA's archived 17:30 value; RSSSF reports 17:00."
       },
       "timezone": "Europe/Rome",
       "utc_offset": "+01:00",
       "timezone_source": "IANA Time Zone Database",
-      "kickoff_utc": "1934-06-10T16:30:00Z",
+      "kickoff_utc": "1934-06-10T14:30:00Z",
       "fifa_derived_utc": "1934-06-10T15:30:00Z",
       "official_match_number": 17,
       "fifa_archive_url": "https://web.archive.org/web/20220819172410https://www.fifa.com/en/tournaments/mens/worldcup/1934italy/match-center"
