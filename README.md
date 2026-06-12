@@ -1,7 +1,7 @@
 # World Cup ICS
 
 An automatically updated iCalendar feed for all 104 matches at the 2026 FIFA
-World Cup, plus a static historical calendar proof of concept for 1930.
+World Cup, plus validated static historical calendars.
 
 ## Subscribe
 
@@ -18,10 +18,12 @@ Apple Calendar also accepts the `webcal` form:
 webcal://raw.githubusercontent.com/thatbritguy/world-cup-ics/master/ics/world-cup-2026.ics
 ```
 
-The static 1930 calendar is available at:
+Static historical calendars are available at:
 
 ```text
 https://raw.githubusercontent.com/thatbritguy/world-cup-ics/master/ics/world-cup-1930.ics
+https://raw.githubusercontent.com/thatbritguy/world-cup-ics/master/ics/world-cup-1934.ics
+https://raw.githubusercontent.com/thatbritguy/world-cup-ics/master/ics/world-cup.ics
 ```
 
 Each event includes the kickoff time, stadium, geographic coordinates for map
@@ -60,14 +62,16 @@ Broadcast and Forza data are deliberately stored separately from the upstream
 fixture snapshot. A failure in either optional source cannot alter match
 identity or kickoff data.
 
-The 1930 calendar is generated separately and has no scheduled workflow. Match
-results and goals come from the fixed openfootball snapshot; local kickoff
-times and FIFA report links are imported once from Wikipedia match boxes and
-stored in `data/1930/worldcup.enrichment.json`. Local clock times are reconciled
-against FIFA's archived tournament match centre, then converted using the IANA
-historical timezone for the host city. FIFA's archive incorrectly applies
-modern Uruguay's UTC-03:00 offset to its 1930 UTC fields, so those derived UTC
-values are not used. Historical events contain no alerts.
+Historical calendars are generated separately and have no scheduled source
+polling. Match results and goals come from fixed openfootball snapshots. Local
+clock times, FIFA report links and official match numbers are reconciled from
+Wikipedia and FIFA's archived tournament match centres, then converted using
+historical IANA host timezones. FIFA's derived UTC fields are retained for
+audit but are not trusted. Historical events contain no alerts.
+
+Only tournament manifests marked `validated` with the `archive` profile are
+included in `world-cup.ics`. Source import is supervised; rebuilding standalone
+and master calendars from validated data is deterministic.
 
 ## Local commands
 
@@ -76,13 +80,18 @@ python3 scripts/generate_calendar.py
 python3 scripts/validate_calendar.py
 python3 scripts/generate_historical_calendar.py 1930
 python3 scripts/validate_historical_calendar.py 1930
+python3 scripts/generate_historical_calendar.py 1934
+python3 scripts/validate_historical_calendar.py 1934
+python3 scripts/generate_master_calendar.py
+python3 scripts/validate_master_calendar.py
 python3 -m unittest discover -s tests
 ```
 
-The one-time 1930 time import can be reproduced with:
+Historical source imports are manually supervised and can be reproduced with:
 
 ```bash
 python3 scripts/import_historical_times.py 1930
+python3 scripts/import_historical_times.py 1934
 ```
 
 The shared country dataset contains all 211 current FIFA members plus defunct
@@ -114,10 +123,12 @@ data/2026/worldcup.stadiums.json       Static 2026 stadium mapping
 data/2026/worldcup.forza.json          Stable Forza match IDs
 data/2026/worldcup.broadcasters.json   UK channel enrichment
 data/2026/overrides.json               Manual per-match corrections
-data/1930/worldcup.json                Fixed historical results snapshot
-data/1930/worldcup.enrichment.json     Kickoff times and source links
-data/1930/worldcup.manifest.json       Stable chronological match identities
-data/1930/worldcup.stadiums.json       Historical venue coordinates
+data/{YEAR}/worldcup.json              Fixed historical results snapshot
+data/{YEAR}/worldcup.enrichment.json   Times, FIFA links and official numbers
+data/{YEAR}/worldcup.manifest.json     Stable identities and archive status
+data/{YEAR}/worldcup.stadiums.json     Historical venue coordinates
 ics/world-cup-2026.ics                 Published calendar feed
 ics/world-cup-1930.ics                 Static historical calendar proof
+ics/world-cup-1934.ics                 Static 1934 historical calendar
+ics/world-cup.ics                      Validated historical master calendar
 ```

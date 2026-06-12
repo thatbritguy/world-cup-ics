@@ -1,0 +1,321 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//world-cup-ics//FIFA World Cup 1934//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:FIFA World Cup 1934
+X-WR-CALDESC:Complete fixtures and results for the FIFA World Cup 1934
+BEGIN:VEVENT
+UID:wc1934-match-001@world-cup-ics
+DTSTAMP:19340610T163000Z
+DTSTART:19340527T153000Z
+DTEND:19340527T183000Z
+SUMMARY:[R16] 🇸🇪 SWE 3-2 ARG 🇦🇷 [001]
+LOCATION:Stadio Littoriale\, Bologna
+GEO:44.492222;11.309722
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadio Littoriale, Bologna
+ ";X-APPLE-RADIUS=100;X-TITLE="Stadio Littoriale, Bologna":geo:44.492222,11
+ .309722
+DESCRIPTION:Preliminary round\nSweden 3-2 Argentina\nHT: 1-1\nGoals:\nSWE 
+ 🇸🇪: Jonasson 9'\, Jonasson 67'\, Kroon 79'\nARG 🇦🇷: Belis 4'\,
+  Galateo 48'
+URL:https://www.fifa.com/en/match-centre/match/17/3/204/1102
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:FIFA World Cup 1934
+END:VEVENT
+BEGIN:VEVENT
+UID:wc1934-match-002@world-cup-ics
+DTSTAMP:19340610T163000Z
+DTSTART:19340527T153000Z
+DTEND:19340527T183000Z
+SUMMARY:[R16] 🇦🇹 AUT 3-2 (aet) FRA 🇫🇷 [002]
+LOCATION:Stadio Benito Mussolini\, Turin
+GEO:45.041667;7.650000
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadio Benito Mussolini, T
+ urin";X-APPLE-RADIUS=100;X-TITLE="Stadio Benito Mussolini, Turin":geo:45.0
+ 41667,7.650000
+DESCRIPTION:Preliminary round\nAustria 3-2 France\nHT: 1-1\nFT: 1-1\nAET: 3
+ -2\nGoals:\nAUT 🇦🇹: Sindelar 44'\, Schall 93'\, Bican 109'\nFRA 🇫
+ 🇷: Nicolas 18'\, Verriest 116' pen
+URL:https://www.fifa.com/en/match-centre/match/17/3/204/1104
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:FIFA World Cup 1934
+END:VEVENT
+BEGIN:VEVENT
+UID:wc1934-match-003@world-cup-ics
+DTSTAMP:19340610T163000Z
+DTSTART:19340527T153000Z
+DTEND:19340527T183000Z
+SUMMARY:[R16] 🇩🇪 GER 5-2 BEL 🇧🇪 [003]
+LOCATION:Stadio Giovanni Berta\, Florence
+GEO:43.780833;11.282222
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadio Giovanni Berta, Flo
+ rence";X-APPLE-RADIUS=100;X-TITLE="Stadio Giovanni Berta, Florence":geo:43
+ .780833,11.282222
+DESCRIPTION:Preliminary round\nGermany 5-2 Belgium\nHT: 1-2\nGoals:\nGER 
+ 🇩🇪: Kobierski 25'\, Siffling 49'\, Conen 66'\, Conen 70'\, Conen 87'
+ \nBEL 🇧🇪: Voorhoof 29'\, Voorhoof 43'
+URL:https://www.fifa.com/en/match-centre/match/17/3/204/1108
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:FIFA World Cup 1934
+END:VEVENT
+BEGIN:VEVENT
+UID:wc1934-match-004@world-cup-ics
+DTSTAMP:19340610T163000Z
+DTSTART:19340527T153000Z
+DTEND:19340527T183000Z
+SUMMARY:[R16] 🇪🇸 ESP 3-1 BRA 🇧🇷 [004]
+LOCATION:Stadio Luigi Ferraris\, Genoa
+GEO:44.416389;8.952500
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadio Luigi Ferraris, Gen
+ oa";X-APPLE-RADIUS=100;X-TITLE="Stadio Luigi Ferraris, Genoa":geo:44.41638
+ 9,8.952500
+DESCRIPTION:Preliminary round\nSpain 3-1 Brazil\nHT: 3-0\nGoals:\nESP 🇪
+ 🇸: Iraragorri 18' pen\, Iraragorri 25'\, Lángara 29'\nBRA 🇧🇷: Le
+ ônidas 55'
+URL:https://www.fifa.com/en/match-centre/match/17/3/204/1111
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:FIFA World Cup 1934
+END:VEVENT
+BEGIN:VEVENT
+UID:wc1934-match-005@world-cup-ics
+DTSTAMP:19340610T163000Z
+DTSTART:19340527T153000Z
+DTEND:19340527T183000Z
+SUMMARY:[R16] 🇭🇺 HUN 4-2 EGY 🇪🇬 [005]
+LOCATION:Stadio Giorgio Ascarelli\, Naples
+GEO:40.859722;14.293333
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadio Giorgio Ascarelli, 
+ Naples";X-APPLE-RADIUS=100;X-TITLE="Stadio Giorgio Ascarelli, Naples":geo:
+ 40.859722,14.293333
+DESCRIPTION:Preliminary round\nHungary 4-2 Egypt\nHT: 2-2\nGoals:\nHUN 🇭
+ 🇺: Teleki 11'\, Toldi 27'\, Toldi 61'\, Vincze 53'\nEGY 🇪🇬: Fawzi
+  31'\, Fawzi 39'
+URL:https://www.fifa.com/en/match-centre/match/17/3/204/1119
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:FIFA World Cup 1934
+END:VEVENT
+BEGIN:VEVENT
+UID:wc1934-match-006@world-cup-ics
+DTSTAMP:19340610T163000Z
+DTSTART:19340527T153000Z
+DTEND:19340527T183000Z
+SUMMARY:[R16] 🇨🇭 SUI 3-2 NED 🇳🇱 [006]
+LOCATION:Stadio San Siro\, Milan
+GEO:45.478056;9.123889
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadio San Siro, Milan";X-
+ APPLE-RADIUS=100;X-TITLE="Stadio San Siro, Milan":geo:45.478056,9.123889
+DESCRIPTION:Preliminary round\nSwitzerland 3-2 Netherlands\nHT: 2-1\nGoals:
+ \nSUI 🇨🇭: Kielholz 7'\, Kielholz 43'\, Abegglen 69'\nNED 🇳🇱: S
+ mit 19'\, Vente 84'
+URL:https://www.fifa.com/en/match-centre/match/17/3/204/1133
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:FIFA World Cup 1934
+END:VEVENT
+BEGIN:VEVENT
+UID:wc1934-match-007@world-cup-ics
+DTSTAMP:19340610T163000Z
+DTSTART:19340527T153000Z
+DTEND:19340527T183000Z
+SUMMARY:[R16] 🇮🇹 ITA 7-1 USA 🇺🇸 [007]
+LOCATION:Stadio Nazionale PNF\, Rome
+GEO:41.927222;12.472222
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadio Nazionale PNF, Rome
+ ";X-APPLE-RADIUS=100;X-TITLE="Stadio Nazionale PNF, Rome":geo:41.927222,12
+ .472222
+DESCRIPTION:Preliminary round\nItaly 7-1 USA\nHT: 3-0\nGoals:\nITA 🇮🇹
+ : Schiavio 18'\, Schiavio 29'\, Schiavio 64'\, Orsi 20'\, Orsi 69'\, Ferra
+ ri 63'\, Meazza 90'\nUSA 🇺🇸: Donelli 57'
+URL:https://www.fifa.com/en/match-centre/match/17/3/204/1135
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:FIFA World Cup 1934
+END:VEVENT
+BEGIN:VEVENT
+UID:wc1934-match-008@world-cup-ics
+DTSTAMP:19340610T163000Z
+DTSTART:19340527T153000Z
+DTEND:19340527T183000Z
+SUMMARY:[R16] 🇨🇿 TCH 2-1 ROU 🇷🇴 [008]
+LOCATION:Stadio Littorio\, Trieste
+GEO:45.623889;13.794167
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadio Littorio, Trieste";
+ X-APPLE-RADIUS=100;X-TITLE="Stadio Littorio, Trieste":geo:45.623889,13.794
+ 167
+DESCRIPTION:Preliminary round\nCzechoslovakia 2-1 Romania\nHT: 0-1\nGoals:\
+ nTCH 🇨🇿: Puč 50'\, Nejedlý 67'\nROU 🇷🇴: Dobay 11'
+URL:https://www.fifa.com/en/match-centre/match/17/3/204/1141
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:FIFA World Cup 1934
+END:VEVENT
+BEGIN:VEVENT
+UID:wc1934-match-009@world-cup-ics
+DTSTAMP:19340610T163000Z
+DTSTART:19340531T153000Z
+DTEND:19340531T183000Z
+SUMMARY:[QF1] 🇨🇿 TCH 3-2 SUI 🇨🇭 [009]
+LOCATION:Stadio Benito Mussolini\, Turin
+GEO:45.041667;7.650000
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadio Benito Mussolini, T
+ urin";X-APPLE-RADIUS=100;X-TITLE="Stadio Benito Mussolini, Turin":geo:45.0
+ 41667,7.650000
+DESCRIPTION:Quarter-finals\nCzechoslovakia 3-2 Switzerland\nHT: 1-1\nGoals:
+ \nTCH 🇨🇿: Svoboda 24'\, Sobotka 49'\, Nejedlý 82'\nSUI 🇨🇭: Ki
+ elholz 18'\, Jäggi 78'
+URL:https://www.fifa.com/en/match-centre/match/17/3/418/1143
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:FIFA World Cup 1934
+END:VEVENT
+BEGIN:VEVENT
+UID:wc1934-match-010@world-cup-ics
+DTSTAMP:19340610T163000Z
+DTSTART:19340531T153000Z
+DTEND:19340531T183000Z
+SUMMARY:[QF2] 🇩🇪 GER 2-1 SWE 🇸🇪 [010]
+LOCATION:Stadio San Siro\, Milan
+GEO:45.478056;9.123889
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadio San Siro, Milan";X-
+ APPLE-RADIUS=100;X-TITLE="Stadio San Siro, Milan":geo:45.478056,9.123889
+DESCRIPTION:Quarter-finals\nGermany 2-1 Sweden\nHT: 0-0\nGoals:\nGER 🇩
+ 🇪: Hohmann 60'\, Hohmann 63'\nSWE 🇸🇪: Dunker 82'
+URL:https://www.fifa.com/en/match-centre/match/17/3/418/1129
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:FIFA World Cup 1934
+END:VEVENT
+BEGIN:VEVENT
+UID:wc1934-match-011@world-cup-ics
+DTSTAMP:19340610T163000Z
+DTSTART:19340531T153000Z
+DTEND:19340531T183000Z
+SUMMARY:[QF3] 🇮🇹 ITA 1-1 (aet) ESP 🇪🇸 [011]
+LOCATION:Stadio Giovanni Berta\, Florence
+GEO:43.780833;11.282222
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadio Giovanni Berta, Flo
+ rence";X-APPLE-RADIUS=100;X-TITLE="Stadio Giovanni Berta, Florence":geo:43
+ .780833,11.282222
+DESCRIPTION:Quarter-finals\nItaly 1-1 Spain\nHT: 1-1\nFT: 1-1\nAET: 1-1\nGo
+ als:\nITA 🇮🇹: Ferrari 44'\nESP 🇪🇸: Regueiro 30'
+URL:https://www.fifa.com/en/match-centre/match/17/3/418/1122
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:FIFA World Cup 1934
+END:VEVENT
+BEGIN:VEVENT
+UID:wc1934-match-012@world-cup-ics
+DTSTAMP:19340610T163000Z
+DTSTART:19340531T153000Z
+DTEND:19340531T183000Z
+SUMMARY:[QF4] 🇦🇹 AUT 2-1 HUN 🇭🇺 [012]
+LOCATION:Stadio Littoriale\, Bologna
+GEO:44.492222;11.309722
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadio Littoriale, Bologna
+ ";X-APPLE-RADIUS=100;X-TITLE="Stadio Littoriale, Bologna":geo:44.492222,11
+ .309722
+DESCRIPTION:Quarter-finals\nAustria 2-1 Hungary\nHT: 1-0\nGoals:\nAUT 🇦
+ 🇹: Horvath 8'\, Zischek 51'\nHUN 🇭🇺: Sárosi 60' pen
+URL:https://www.fifa.com/en/match-centre/match/17/3/418/1106
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:FIFA World Cup 1934
+END:VEVENT
+BEGIN:VEVENT
+UID:wc1934-match-013@world-cup-ics
+DTSTAMP:19340610T163000Z
+DTSTART:19340601T153000Z
+DTEND:19340601T183000Z
+SUMMARY:[QF-REPLAY] 🇮🇹 ITA 1-0 ESP 🇪🇸 [013]
+LOCATION:Stadio Giovanni Berta\, Florence
+GEO:43.780833;11.282222
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadio Giovanni Berta, Flo
+ rence";X-APPLE-RADIUS=100;X-TITLE="Stadio Giovanni Berta, Florence":geo:43
+ .780833,11.282222
+DESCRIPTION:Quarter-finals\, Replays\nItaly 1-0 Spain\nHT: 1-0\nGoals:\nITA
+  🇮🇹: Meazza 11'
+URL:https://www.fifa.com/en/match-centre/match/17/3/418/1123
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:FIFA World Cup 1934
+END:VEVENT
+BEGIN:VEVENT
+UID:wc1934-match-014@world-cup-ics
+DTSTAMP:19340610T163000Z
+DTSTART:19340603T153000Z
+DTEND:19340603T183000Z
+SUMMARY:[SF1] 🇮🇹 ITA 1-0 AUT 🇦🇹 [014]
+LOCATION:Stadio San Siro\, Milan
+GEO:45.478056;9.123889
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadio San Siro, Milan";X-
+ APPLE-RADIUS=100;X-TITLE="Stadio San Siro, Milan":geo:45.478056,9.123889
+DESCRIPTION:Semi-finals\nItaly 1-0 Austria\nHT: 1-0\nGoals:\nITA 🇮🇹: 
+ Guaita 19'
+URL:https://www.fifa.com/en/match-centre/match/17/3/3492/1107
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:FIFA World Cup 1934
+END:VEVENT
+BEGIN:VEVENT
+UID:wc1934-match-015@world-cup-ics
+DTSTAMP:19340610T163000Z
+DTSTART:19340603T153000Z
+DTEND:19340603T183000Z
+SUMMARY:[SF2] 🇨🇿 TCH 3-1 GER 🇩🇪 [015]
+LOCATION:Stadio Nazionale PNF\, Rome
+GEO:41.927222;12.472222
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadio Nazionale PNF, Rome
+ ";X-APPLE-RADIUS=100;X-TITLE="Stadio Nazionale PNF, Rome":geo:41.927222,12
+ .472222
+DESCRIPTION:Semi-finals\nCzechoslovakia 3-1 Germany\nHT: 1-0\nGoals:\nTCH 
+ 🇨🇿: Nejedlý 19'\, Nejedlý 71'\, Nejedlý 80'\nGER 🇩🇪: Noack 
+ 62'
+URL:https://www.fifa.com/en/match-centre/match/17/3/3492/1130
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:FIFA World Cup 1934
+END:VEVENT
+BEGIN:VEVENT
+UID:wc1934-match-016@world-cup-ics
+DTSTAMP:19340610T163000Z
+DTSTART:19340607T170000Z
+DTEND:19340607T200000Z
+SUMMARY:[3RD] 🇩🇪 GER 3-2 AUT 🇦🇹 [016]
+LOCATION:Stadio Giorgio Ascarelli\, Naples
+GEO:40.859722;14.293333
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadio Giorgio Ascarelli, 
+ Naples";X-APPLE-RADIUS=100;X-TITLE="Stadio Giorgio Ascarelli, Naples":geo:
+ 40.859722,14.293333
+DESCRIPTION:Third-place match\nGermany 3-2 Austria\nHT: 3-1\nGoals:\nGER 
+ 🇩🇪: Lehner 1'\, Lehner 42'\, Conen 27'\nAUT 🇦🇹: Horvath 28'\, 
+ Sesta 54'
+URL:https://www.fifa.com/en/match-centre/match/17/3/3491/1105
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:FIFA World Cup 1934
+END:VEVENT
+BEGIN:VEVENT
+UID:wc1934-match-017@world-cup-ics
+DTSTAMP:19340610T163000Z
+DTSTART:19340610T163000Z
+DTEND:19340610T193000Z
+SUMMARY:[FINAL] 🇮🇹 ITA 2-1 (aet) TCH 🇨🇿 [017]
+LOCATION:Stadio Nazionale PNF\, Rome
+GEO:41.927222;12.472222
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadio Nazionale PNF, Rome
+ ";X-APPLE-RADIUS=100;X-TITLE="Stadio Nazionale PNF, Rome":geo:41.927222,12
+ .472222
+DESCRIPTION:Final\nItaly 2-1 Czechoslovakia\nHT: 0-0\nFT: 1-1\nAET: 2-1\nGo
+ als:\nITA 🇮🇹: Orsi 81'\, Schiavio 95'\nTCH 🇨🇿: Puč 71'
+URL:https://www.fifa.com/en/match-centre/match/17/3/3490/1134
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:FIFA World Cup 1934
+END:VEVENT
+END:VCALENDAR

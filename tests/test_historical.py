@@ -9,6 +9,7 @@ ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / "scripts"))
 
 from common import country_index, load_json, normalize_name  # noqa: E402
+from generate_master_calendar import validated_years  # noqa: E402
 
 
 class HistoricalCalendarTests(unittest.TestCase):
@@ -19,6 +20,12 @@ class HistoricalCalendarTests(unittest.TestCase):
         self.assertEqual(manifest["matches"][0]["team1"], "France")
         self.assertEqual(manifest["matches"][-1]["uid"], "wc1930-match-018@world-cup-ics")
         self.assertEqual(manifest["matches"][-1]["team1"], "Uruguay")
+        self.assertEqual(manifest["status"], "validated")
+        self.assertEqual(manifest["calendar_profile"], "archive")
+        self.assertEqual(
+            [item["official_match_number"] for item in manifest["matches"]],
+            list(range(1, 19)),
+        )
 
     def test_disputed_kickoffs_use_local_time_and_historical_timezone(self) -> None:
         enrichment = load_json(
@@ -40,6 +47,31 @@ class HistoricalCalendarTests(unittest.TestCase):
         self.assertEqual(final["kickoff_utc"], "1930-07-30T17:45:00Z")
         self.assertEqual(final["timezone"], "America/Montevideo")
         self.assertEqual(final["utc_offset"], "-03:30")
+
+    def test_1934_uses_fifa_numbering_and_historical_rome_time(self) -> None:
+        manifest = load_json(ROOT / "data" / "1934" / "worldcup.manifest.json")
+        enrichment = load_json(
+            ROOT / "data" / "1934" / "worldcup.enrichment.json"
+        )["matches"]
+        self.assertEqual(len(manifest["matches"]), 17)
+        self.assertEqual(
+            [item["official_match_number"] for item in manifest["matches"]],
+            list(range(1, 18)),
+        )
+        final = next(item for item in enrichment if item["official_match_number"] == 17)
+        self.assertEqual(final["local_time"], "17:30")
+        self.assertEqual(final["timezone"], "Europe/Rome")
+        self.assertEqual(final["utc_offset"], "+01:00")
+        self.assertEqual(final["kickoff_utc"], "1934-06-10T16:30:00Z")
+        self.assertNotEqual(final["kickoff_utc"], final["fifa_derived_utc"])
+
+    def test_master_includes_only_validated_archive_tournaments(self) -> None:
+        self.assertEqual(validated_years(), [1930, 1934])
+        master = (ROOT / "ics" / "world-cup.ics").read_text(encoding="utf-8")
+        self.assertEqual(master.count("BEGIN:VEVENT"), 35)
+        self.assertIn("UID:wc1930-match-001@world-cup-ics", master)
+        self.assertIn("UID:wc1934-match-017@world-cup-ics", master)
+        self.assertNotIn("UID:wc2026-match-001@world-cup-ics", master)
 
     def test_master_countries_cover_1930(self) -> None:
         countries = country_index(load_json(ROOT / "data" / "countries.json"))

@@ -1,0 +1,178 @@
+{
+  "year": 1934,
+  "status": "validated",
+  "calendar_profile": "archive",
+  "numbering": "FIFA official match numbers",
+  "matches": [
+    {
+      "sequence": 1,
+      "key": "wc1934-match-001",
+      "uid": "wc1934-match-001@world-cup-ics",
+      "date": "1934-05-27",
+      "team1": "Sweden",
+      "team2": "Argentina",
+      "official_match_number": 1,
+      "fifa_match_id": "1102"
+    },
+    {
+      "sequence": 2,
+      "key": "wc1934-match-002",
+      "uid": "wc1934-match-002@world-cup-ics",
+      "date": "1934-05-27",
+      "team1": "Austria",
+      "team2": "France",
+      "official_match_number": 2,
+      "fifa_match_id": "1104"
+    },
+    {
+      "sequence": 3,
+      "key": "wc1934-match-003",
+      "uid": "wc1934-match-003@world-cup-ics",
+      "date": "1934-05-27",
+      "team1": "Germany",
+      "team2": "Belgium",
+      "official_match_number": 3,
+      "fifa_match_id": "1108"
+    },
+    {
+      "sequence": 4,
+      "key": "wc1934-match-004",
+      "uid": "wc1934-match-004@world-cup-ics",
+      "date": "1934-05-27",
+      "team1": "Spain",
+      "team2": "Brazil",
+      "official_match_number": 4,
+      "fifa_match_id": "1111"
+    },
+    {
+      "sequence": 5,
+      "key": "wc1934-match-005",
+      "uid": "wc1934-match-005@world-cup-ics",
+      "date": "1934-05-27",
+      "team1": "Hungary",
+      "team2": "Egypt",
+      "official_match_number": 5,
+      "fifa_match_id": "1119"
+    },
+    {
+      "sequence": 6,
+      "key": "wc1934-match-006",
+      "uid": "wc1934-match-006@world-cup-ics",
+      "date": "1934-05-27",
+      "team1": "Switzerland",
+      "team2": "Netherlands",
+      "official_match_number": 6,
+      "fifa_match_id": "1133"
+    },
+    {
+      "sequence": 7,
+      "key": "wc1934-match-007",
+      "uid": "wc1934-match-007@world-cup-ics",
+      "date": "1934-05-27",
+      "team1": "Italy",
+      "team2": "United States",
+      "official_match_number": 7,
+      "fifa_match_id": "1135"
+    },
+    {
+      "sequence": 8,
+      "key": "wc1934-match-008",
+      "uid": "wc1934-match-008@world-cup-ics",
+      "date": "1934-05-27",
+      "team1": "Czechoslovakia",
+      "team2": "Romania",
+      "official_match_number": 8,
+      "fifa_match_id": "1141"
+    },
+    {
+      "sequence": 9,
+      "key": "wc1934-match-009",
+      "uid": "wc1934-match-009@world-cup-ics",
+      "date": "1934-05-31",
+      "team1": "Czechoslovakia",
+      "team2": "Switzerland",
+      "official_match_number": 9,
+      "fifa_match_id": "1143"
+    },
+    {
+      "sequence": 10,
+      "key": "wc1934-match-010",
+      "uid": "wc1934-match-010@world-cup-ics",
+      "date": "1934-05-31",
+      "team1": "Germany",
+      "team2": "Sweden",
+      "official_match_number": 10,
+      "fifa_match_id": "1129"
+    },
+    {
+      "sequence": 11,
+      "key": "wc1934-match-011",
+      "uid": "wc1934-match-011@world-cup-ics",
+      "date": "1934-05-31",
+      "team1": "Italy",
+      "team2": "Spain",
+      "official_match_number": 11,
+      "fifa_match_id": "1122"
+    },
+    {
+      "sequence": 12,
+      "key": "wc1934-match-012",
+      "uid": "wc1934-match-012@world-cup-ics",
+      "date": "1934-05-31",
+      "team1": "Austria",
+      "team2": "Hungary",
+      "official_match_number": 12,
+      "fifa_match_id": "1106"
+    },
+    {
+      "sequence": 13,
+      "key": "wc1934-match-013",
+      "uid": "wc1934-match-013@world-cup-ics",
+      "date": "1934-06-01",
+      "team1": "Italy",
+      "team2": "Spain",
+      "official_match_number": 13,
+      "fifa_match_id": "1123"
+    },
+    {
+      "sequence": 14,
+      "key": "wc1934-match-014",
+      "uid": "wc1934-match-014@world-cup-ics",
+      "date": "1934-06-03",
+      "team1": "Italy",
+      "team2": "Austria",
+      "official_match_number": 14,
+      "fifa_match_id": "1107"
+    },
+    {
+      "sequence": 15,
+      "key": "wc1934-match-015",
+      "uid": "wc1934-match-015@world-cup-ics",
+      "date": "1934-06-03",
+      "team1": "Czechoslovakia",
+      "team2": "Germany",
+      "official_match_number": 15,
+      "fifa_match_id": "1130"
+    },
+    {
+      "sequence": 16,
+      "key": "wc1934-match-016",
+      "uid": "wc1934-match-016@world-cup-ics",
+      "date": "1934-06-07",
+      "team1": "Germany",
+      "team2": "Austria",
+      "official_match_number": 16,
+      "fifa_match_id": "1105"
+    },
+    {
+      "sequence": 17,
+      "key": "wc1934-match-017",
+      "uid": "wc1934-match-017@world-cup-ics",
+      "date": "1934-06-10",
+      "team1": "Italy",
+      "team2": "Czechoslovakia",
+      "official_match_number": 17,
+      "fifa_match_id": "1134"
+    }
+  ]
+}

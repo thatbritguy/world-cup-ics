@@ -1,0 +1,73 @@
+{
+  "venues": [
+    {
+      "name": "Stadio Littoriale",
+      "modern_name": "Stadio Renato Dall'Ara",
+      "city": "Bologna",
+      "ground_aliases": ["Stadio Littoriale, Bologna"],
+      "latitude": 44.492222,
+      "longitude": 11.309722,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Stadio_Renato_Dall%27Ara"
+    },
+    {
+      "name": "Stadio Benito Mussolini",
+      "modern_name": "Stadio Olimpico Grande Torino",
+      "city": "Turin",
+      "ground_aliases": ["Stadio Benito Mussolini, Turin"],
+      "latitude": 45.041667,
+      "longitude": 7.65,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Stadio_Olimpico_Grande_Torino"
+    },
+    {
+      "name": "Stadio Giovanni Berta",
+      "modern_name": "Stadio Artemio Franchi",
+      "city": "Florence",
+      "ground_aliases": ["Stadio Giovanni Berta, Florence"],
+      "latitude": 43.780833,
+      "longitude": 11.282222,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Stadio_Artemio_Franchi"
+    },
+    {
+      "name": "Stadio Luigi Ferraris",
+      "city": "Genoa",
+      "ground_aliases": ["Stadio Luigi Ferraris, Genoa"],
+      "latitude": 44.416389,
+      "longitude": 8.9525,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Stadio_Luigi_Ferraris"
+    },
+    {
+      "name": "Stadio San Siro",
+      "city": "Milan",
+      "ground_aliases": ["Stadio San Siro, Milan"],
+      "latitude": 45.478056,
+      "longitude": 9.123889,
+      "coordinate_source": "https://en.wikipedia.org/wiki/San_Siro"
+    },
+    {
+      "name": "Stadio Giorgio Ascarelli",
+      "modern_name": "Stadio Partenopeo",
+      "city": "Naples",
+      "ground_aliases": ["Stadio Giorgio Ascarelli, Naples"],
+      "latitude": 40.859722,
+      "longitude": 14.293333,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Stadio_Partenopeo"
+    },
+    {
+      "name": "Stadio Nazionale PNF",
+      "city": "Rome",
+      "ground_aliases": ["Stadio Nazionale PNF, Rome"],
+      "latitude": 41.927222,
+      "longitude": 12.472222,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Stadio_Nazionale_PNF"
+    },
+    {
+      "name": "Stadio Littorio",
+      "modern_name": "Stadio Giuseppe Grezar",
+      "city": "Trieste",
+      "ground_aliases": ["Stadio Littorio, Trieste"],
+      "latitude": 45.623889,
+      "longitude": 13.794167,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Stadio_Giuseppe_Grezar"
+    }
+  ]
+}

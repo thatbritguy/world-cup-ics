@@ -85,6 +85,14 @@ def stage_label(match: dict[str, Any], knockout_number: int | None = None) -> st
         return f"G{match['group'].removeprefix('Group ')}"
     if match["round"] == "Semi-finals":
         return f"SF{knockout_number}"
+    if match["round"] == "Preliminary round":
+        return "R16"
+    if match["round"] == "Quarter-finals":
+        return f"QF{knockout_number}"
+    if match["round"] == "Quarter-finals, Replays":
+        return "QF-REPLAY"
+    if match["round"] == "Third-place match":
+        return "3RD"
     if match["round"] == "Final":
         return "FINAL"
     return match["round"].upper().replace(" ", "-")
@@ -102,7 +110,9 @@ def structured_location(name: str, latitude: float, longitude: float) -> str:
 def build_manifest(year: int, matches: list[dict[str, Any]], path: Path) -> dict[str, Any]:
     proposed = {
         "year": year,
-        "numbering": "chronological kickoff order; source order breaks identical kickoff ties",
+        "status": "validated",
+        "calendar_profile": "archive",
+        "numbering": "FIFA official match numbers",
         "matches": [
             {
                 "sequence": index,
@@ -111,24 +121,32 @@ def build_manifest(year: int, matches: list[dict[str, Any]], path: Path) -> dict
                 "date": item["date"],
                 "team1": item["team1"],
                 "team2": item["team2"],
+                "official_match_number": item["official_match_number"],
+                "fifa_match_id": item["fifa_match_id"],
             }
             for index, item in enumerate(matches, start=1)
         ],
     }
     if path.exists():
         current = load_json(path)
-        if current != proposed:
+        current_identities = [
+            (item["uid"], item["date"], item["team1"], item["team2"])
+            for item in current["matches"]
+        ]
+        proposed_identities = [
+            (item["uid"], item["date"], item["team1"], item["team2"])
+            for item in proposed["matches"]
+        ]
+        if current_identities != proposed_identities:
             raise ValueError("Historical match identities changed; review manifest explicitly")
-        return current
+        write_json(path, proposed)
+        return proposed
     write_json(path, proposed)
     return proposed
 
 
-def main() -> None:
-    parser = argparse.ArgumentParser()
-    parser.add_argument("year", type=int)
-    args = parser.parse_args()
-    data_dir = ROOT / "data" / str(args.year)
+def build_event_lines(year: int) -> tuple[list[str], int]:
+    data_dir = ROOT / "data" / str(year)
 
     source = load_json(data_dir / "worldcup.json")
     enrichment = load_json(data_dir / "worldcup.enrichment.json")["matches"]
@@ -139,24 +157,17 @@ def main() -> None:
         if not enriched:
             raise ValueError(f"No kickoff enrichment for {match['date']} {match['team1']} v {match['team2']}")
         combined.append({**match, **enriched, "source_index": source_index})
-    combined.sort(key=lambda item: (item["kickoff_utc"], item["source_order"]))
+    combined.sort(key=lambda item: int(item["official_match_number"]))
 
-    manifest = build_manifest(args.year, combined, data_dir / "worldcup.manifest.json")
+    manifest = build_manifest(year, combined, data_dir / "worldcup.manifest.json")
     countries = country_index(load_json(ROOT / "data" / "countries.json"))
     venue_data = load_json(data_dir / "worldcup.stadiums.json")["venues"]
     venues = {alias: venue for venue in venue_data for alias in venue["ground_aliases"]}
     stamp = max(item["kickoff_utc"] for item in combined).replace("-", "").replace(":", "")
 
-    lines = [
-        "BEGIN:VCALENDAR",
-        "VERSION:2.0",
-        f"PRODID:-//world-cup-ics//FIFA World Cup {args.year}//EN",
-        "CALSCALE:GREGORIAN",
-        "METHOD:PUBLISH",
-        f"X-WR-CALNAME:FIFA World Cup {args.year}",
-        f"X-WR-CALDESC:Complete fixtures and results for the FIFA World Cup {args.year}",
-    ]
+    lines: list[str] = []
     semi_final = 0
+    quarter_final = 0
     for index, match in enumerate(combined):
         identity = manifest["matches"][index]
         home = team_details(match["team1"], countries)
@@ -164,6 +175,9 @@ def main() -> None:
         if match["round"] == "Semi-finals":
             semi_final += 1
             label = stage_label(match, semi_final)
+        elif match["round"] == "Quarter-finals":
+            quarter_final += 1
+            label = stage_label(match, quarter_final)
         else:
             label = stage_label(match)
         kickoff = datetime.strptime(match["kickoff_utc"], "%Y-%m-%dT%H:%M:%SZ").replace(tzinfo=timezone.utc)
@@ -174,30 +188,54 @@ def main() -> None:
         latitude = float(venue["latitude"])
         longitude = float(venue["longitude"])
         location = match["ground"]
-        properties = [
-            "BEGIN:VEVENT",
-            f"UID:{identity['uid']}",
-            f"DTSTAMP:{stamp}",
-            f"DTSTART:{kickoff.strftime('%Y%m%dT%H%M%SZ')}",
-            f"DTEND:{(kickoff + duration).strftime('%Y%m%dT%H%M%SZ')}",
-            f"SUMMARY:{ics_escape(f'[{label}] {score_summary(match, home, away)} [{identity['sequence']:03d}]')}",
-            f"LOCATION:{ics_escape(location)}",
-            f"GEO:{latitude:.6f};{longitude:.6f}",
-            structured_location(location, latitude, longitude),
-            f"DESCRIPTION:{ics_escape(description(match, home, away))}",
-            f"URL:{match['fifa_url']}",
-            "STATUS:CONFIRMED",
-            "TRANSP:TRANSPARENT",
-            f"CATEGORIES:FIFA World Cup {args.year}",
-            "END:VEVENT",
-        ]
-        lines.extend(properties)
-    lines.append("END:VCALENDAR")
+        lines.extend(
+            [
+                "BEGIN:VEVENT",
+                f"UID:{identity['uid']}",
+                f"DTSTAMP:{stamp}",
+                f"DTSTART:{kickoff.strftime('%Y%m%dT%H%M%SZ')}",
+                f"DTEND:{(kickoff + duration).strftime('%Y%m%dT%H%M%SZ')}",
+                f"SUMMARY:{ics_escape(f'[{label}] {score_summary(match, home, away)} [{identity['official_match_number']:03d}]')}",
+                f"LOCATION:{ics_escape(location)}",
+                f"GEO:{latitude:.6f};{longitude:.6f}",
+                structured_location(location, latitude, longitude),
+                f"DESCRIPTION:{ics_escape(description(match, home, away))}",
+                f"URL:{match['fifa_url']}",
+                "STATUS:CONFIRMED",
+                "TRANSP:TRANSPARENT",
+                f"CATEGORIES:FIFA World Cup {year}",
+                "END:VEVENT",
+            ]
+        )
+    return lines, len(combined)
+
+
+def calendar_lines(year: int) -> tuple[list[str], int]:
+    events, count = build_event_lines(year)
+    lines = [
+        "BEGIN:VCALENDAR",
+        "VERSION:2.0",
+        f"PRODID:-//world-cup-ics//FIFA World Cup {year}//EN",
+        "CALSCALE:GREGORIAN",
+        "METHOD:PUBLISH",
+        f"X-WR-CALNAME:FIFA World Cup {year}",
+        f"X-WR-CALDESC:Complete fixtures and results for the FIFA World Cup {year}",
+        *events,
+        "END:VCALENDAR",
+    ]
+    return lines, count
+
+
+def main() -> None:
+    parser = argparse.ArgumentParser()
+    parser.add_argument("year", type=int)
+    args = parser.parse_args()
+    lines, count = calendar_lines(args.year)
 
     output = ROOT / "ics" / f"world-cup-{args.year}.ics"
     folded = [part for line in lines for part in fold_ics_line(line)]
     output.write_bytes(("\r\n".join(folded) + "\r\n").encode("utf-8"))
-    print(f"Generated {output.relative_to(ROOT)} with {len(combined)} events")
+    print(f"Generated {output.relative_to(ROOT)} with {count} events")
 
 
 if __name__ == "__main__":
