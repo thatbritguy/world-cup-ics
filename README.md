@@ -85,6 +85,14 @@ The one-time 1930 time import can be reproduced with:
 python3 scripts/import_historical_times.py 1930
 ```
 
+The shared country dataset contains all 211 current FIFA members plus defunct
+teams that appeared at a World Cup. Rebuild it from the agreed FIFA-code,
+confederation, ISO and Unicode-flag sources with:
+
+```bash
+python3 scripts/build_countries.py
+```
+
 To run the full live update pipeline:
 
 ```bash
