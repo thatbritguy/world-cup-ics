@@ -1,0 +1,414 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//world-cup-ics//FIFA World Cup 1950//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:FIFA World Cup 1950
+X-WR-CALDESC:Complete fixtures and results for the FIFA World Cup 1950
+BEGIN:VEVENT
+UID:wc1950-match-001@world-cup-ics
+DTSTAMP:19500716T180000Z
+DTSTART:19500624T180000Z
+DTEND:19500624T200000Z
+SUMMARY:[G1] 🇧🇷 BRA 4-0 MEX 🇲🇽 [001]
+LOCATION:Estádio do Maracanã\, Rio de Janeiro
+GEO:-22.912167;-43.230164
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estádio do Maracanã, Rio
+  de Janeiro";X-APPLE-RADIUS=100;X-TITLE="Estádio do Maracanã, Rio de Jan
+ eiro":geo:-22.912167,-43.230164
+DESCRIPTION:Group 1 | First round\nBrazil 4-0 Mexico\nHT: 1-0\nGoals:\nBRA 
+ 🇧🇷: Ademir 30'\, Ademir 79'\, Jair 65'\, Baltazar 71'
+URL:https://www.fifa.com/en/match-centre/match/17/7/208/1187
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:FIFA World Cup 1950
+END:VEVENT
+BEGIN:VEVENT
+UID:wc1950-match-002@world-cup-ics
+DTSTAMP:19500716T180000Z
+DTSTART:19500625T180000Z
+DTEND:19500625T200000Z
+SUMMARY:[G2] 🏴󠁧󠁢󠁥󠁮󠁧󠁿 ENG 2-0 CHI 🇨🇱 [002]
+LOCATION:Estádio do Maracanã\, Rio de Janeiro
+GEO:-22.912167;-43.230164
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estádio do Maracanã, Rio
+  de Janeiro";X-APPLE-RADIUS=100;X-TITLE="Estádio do Maracanã, Rio de Jan
+ eiro":geo:-22.912167,-43.230164
+DESCRIPTION:Group 2 | First round\nEngland 2-0 Chile\nGoals:\nENG 🏴󠁧
+ 󠁢󠁥󠁮󠁧󠁿: Mortensen 27'\, Mannion 51'
+URL:https://www.fifa.com/en/match-centre/match/17/7/208/1192
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:FIFA World Cup 1950
+END:VEVENT
+BEGIN:VEVENT
+UID:wc1950-match-003@world-cup-ics
+DTSTAMP:19500716T180000Z
+DTSTART:19500625T183000Z
+DTEND:19500625T203000Z
+SUMMARY:[G2] 🇪🇸 ESP 3-1 USA 🇺🇸 [003]
+LOCATION:Estádio Durival de Britto\, Curitiba
+GEO:-25.439444;-49.255833
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estádio Durival de Britto
+ , Curitiba";X-APPLE-RADIUS=100;X-TITLE="Estádio Durival de Britto, Curiti
+ ba":geo:-25.439444,-49.255833
+DESCRIPTION:Group 2 | First round\nSpain 3-1 USA\nGoals:\nESP 🇪🇸: Igo
+ a 81'\, Basora 83'\, Zarra 89'\nUSA 🇺🇸: Pariani 17'
+URL:https://www.fifa.com/en/match-centre/match/17/7/208/1208
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:FIFA World Cup 1950
+END:VEVENT
+BEGIN:VEVENT
+UID:wc1950-match-004@world-cup-ics
+DTSTAMP:19500716T180000Z
+DTSTART:19500625T180000Z
+DTEND:19500625T200000Z
+SUMMARY:[G3] 🇸🇪 SWE 3-2 ITA 🇮🇹 [004]
+LOCATION:Estádio do Pacaembu\, São Paulo
+GEO:-23.548639;-46.665111
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estádio do Pacaembu, São
+  Paulo";X-APPLE-RADIUS=100;X-TITLE="Estádio do Pacaembu, São Paulo":geo:
+ -23.548639,-46.665111
+DESCRIPTION:Group 3 | First round\nSweden 3-2 Italy\nGoals:\nSWE 🇸🇪: 
+ Jeppson 25'\, Jeppson 68'\, Andersson 33'\nITA 🇮🇹: Carapellese 7'\, 
+ Muccinelli 75'
+URL:https://www.fifa.com/en/match-centre/match/17/7/208/1219
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:FIFA World Cup 1950
+END:VEVENT
+BEGIN:VEVENT
+UID:wc1950-match-005@world-cup-ics
+DTSTAMP:19500716T180000Z
+DTSTART:19500625T210000Z
+DTEND:19500625T230000Z
+SUMMARY:[G1] YUG 3-0 SUI 🇨🇭 [005]
+LOCATION:Estádio Independência\, Belo Horizonte
+GEO:-19.908585;-43.917881
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estádio Independência, B
+ elo Horizonte";X-APPLE-RADIUS=100;X-TITLE="Estádio Independência, Belo H
+ orizonte":geo:-19.908585,-43.917881
+DESCRIPTION:Group 1 | First round\nYugoslavia 3-0 Switzerland\nHT: 0-0\nGoa
+ ls:\nYUG: Mitić 59'\, Tomašević 70'\, Ognjanov 75'
+URL:https://www.fifa.com/en/match-centre/match/17/7/208/1230
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:FIFA World Cup 1950
+END:VEVENT
+BEGIN:VEVENT
+UID:wc1950-match-006@world-cup-ics
+DTSTAMP:19500716T180000Z
+DTSTART:19500628T180000Z
+DTEND:19500628T200000Z
+SUMMARY:[G1] 🇧🇷 BRA 2-2 SUI 🇨🇭 [006]
+LOCATION:Estádio do Pacaembu\, São Paulo
+GEO:-23.548639;-46.665111
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estádio do Pacaembu, São
+  Paulo";X-APPLE-RADIUS=100;X-TITLE="Estádio do Pacaembu, São Paulo":geo:
+ -23.548639,-46.665111
+DESCRIPTION:Group 1 | First round\nBrazil 2-2 Switzerland\nHT: 2-1\nGoals:\
+ nBRA 🇧🇷: Alfredo 3'\, Baltazar 32'\nSUI 🇨🇭: Fatton 17'\, Fatto
+ n 88'
+URL:https://www.fifa.com/en/match-centre/match/17/7/208/1188
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:FIFA World Cup 1950
+END:VEVENT
+BEGIN:VEVENT
+UID:wc1950-match-007@world-cup-ics
+DTSTAMP:19500716T180000Z
+DTSTART:19500628T211500Z
+DTEND:19500628T231500Z
+SUMMARY:[G1] YUG 4-1 MEX 🇲🇽 [007]
+LOCATION:Estádio dos Eucaliptos\, Porto Alegre
+GEO:-30.061667;-51.227222
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estádio dos Eucaliptos, P
+ orto Alegre";X-APPLE-RADIUS=100;X-TITLE="Estádio dos Eucaliptos, Porto Al
+ egre":geo:-30.061667,-51.227222
+DESCRIPTION:Group 1 | First round\nYugoslavia 4-1 Mexico\nHT: 2-0\nGoals:\n
+ YUG: Bobek 19'\, Ž. Čajkovski 22'\, Ž. Čajkovski 62'\, Tomašević 81'
+ \nMEX 🇲🇽: Ortiz 89' pen
+URL:https://www.fifa.com/en/match-centre/match/17/7/208/1225
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:FIFA World Cup 1950
+END:VEVENT
+BEGIN:VEVENT
+UID:wc1950-match-008@world-cup-ics
+DTSTAMP:19500716T180000Z
+DTSTART:19500629T180000Z
+DTEND:19500629T200000Z
+SUMMARY:[G2] 🇪🇸 ESP 2-0 CHI 🇨🇱 [008]
+LOCATION:Estádio do Maracanã\, Rio de Janeiro
+GEO:-22.912167;-43.230164
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estádio do Maracanã, Rio
+  de Janeiro";X-APPLE-RADIUS=100;X-TITLE="Estádio do Maracanã, Rio de Jan
+ eiro":geo:-22.912167,-43.230164
+DESCRIPTION:Group 2 | First round\nSpain 2-0 Chile\nGoals:\nESP 🇪🇸: B
+ asora 17'\, Zarra 30'
+URL:https://www.fifa.com/en/match-centre/match/17/7/208/1193
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:FIFA World Cup 1950
+END:VEVENT
+BEGIN:VEVENT
+UID:wc1950-match-009@world-cup-ics
+DTSTAMP:19500716T180000Z
+DTSTART:19500629T183000Z
+DTEND:19500629T203000Z
+SUMMARY:[G3] 🇸🇪 SWE 2-2 PAR 🇵🇾 [009]
+LOCATION:Estádio Durival Britto\, Curitiba
+GEO:-25.439444;-49.255833
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estádio Durival Britto, C
+ uritiba";X-APPLE-RADIUS=100;X-TITLE="Estádio Durival Britto, Curitiba":ge
+ o:-25.439444,-49.255833
+DESCRIPTION:Group 3 | First round\nSweden 2-2 Paraguay\nGoals:\nSWE 🇸
+ 🇪: Sundqvist 17'\, Palmér 26'\nPAR 🇵🇾: López 35'\, López Frete
+ s 74'
+URL:https://www.fifa.com/en/match-centre/match/17/7/208/1228
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:FIFA World Cup 1950
+END:VEVENT
+BEGIN:VEVENT
+UID:wc1950-match-010@world-cup-ics
+DTSTAMP:19500716T180000Z
+DTSTART:19500629T210000Z
+DTEND:19500629T230000Z
+SUMMARY:[G2] 🇺🇸 USA 1-0 ENG 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [010]
+LOCATION:Estádio Independência\, Belo Horizonte
+GEO:-19.908585;-43.917881
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estádio Independência, B
+ elo Horizonte";X-APPLE-RADIUS=100;X-TITLE="Estádio Independência, Belo H
+ orizonte":geo:-19.908585,-43.917881
+DESCRIPTION:Group 2 | First round\nUSA 1-0 England\nGoals:\nUSA 🇺🇸: G
+ aetjens 38'
+URL:https://www.fifa.com/en/match-centre/match/17/7/208/1202
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:FIFA World Cup 1950
+END:VEVENT
+BEGIN:VEVENT
+UID:wc1950-match-011@world-cup-ics
+DTSTAMP:19500716T180000Z
+DTSTART:19500701T180000Z
+DTEND:19500701T200000Z
+SUMMARY:[G1] 🇧🇷 BRA 2-0 YUG [011]
+LOCATION:Estádio do Maracanã\, Rio de Janeiro
+GEO:-22.912167;-43.230164
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estádio do Maracanã, Rio
+  de Janeiro";X-APPLE-RADIUS=100;X-TITLE="Estádio do Maracanã, Rio de Jan
+ eiro":geo:-22.912167,-43.230164
+DESCRIPTION:Group 1 | First round\nBrazil 2-0 Yugoslavia\nHT: 1-0\nGoals:\n
+ BRA 🇧🇷: Ademir 4'\, Zizinho 69'
+URL:https://www.fifa.com/en/match-centre/match/17/7/208/1191
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:FIFA World Cup 1950
+END:VEVENT
+BEGIN:VEVENT
+UID:wc1950-match-012@world-cup-ics
+DTSTAMP:19500716T180000Z
+DTSTART:19500702T180000Z
+DTEND:19500702T200000Z
+SUMMARY:[G2] 🇪🇸 ESP 1-0 ENG 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [012]
+LOCATION:Estádio do Maracanã\, Rio de Janeiro
+GEO:-22.912167;-43.230164
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estádio do Maracanã, Rio
+  de Janeiro";X-APPLE-RADIUS=100;X-TITLE="Estádio do Maracanã, Rio de Jan
+ eiro":geo:-22.912167,-43.230164
+DESCRIPTION:Group 2 | First round\nSpain 1-0 England\nGoals:\nESP 🇪🇸:
+  Zarra 48'
+URL:https://www.fifa.com/en/match-centre/match/17/7/208/1199
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:FIFA World Cup 1950
+END:VEVENT
+BEGIN:VEVENT
+UID:wc1950-match-013@world-cup-ics
+DTSTAMP:19500716T180000Z
+DTSTART:19500702T180000Z
+DTEND:19500702T200000Z
+SUMMARY:[G3] 🇮🇹 ITA 2-0 PAR 🇵🇾 [013]
+LOCATION:Estádio do Pacaembu\, São Paulo
+GEO:-23.548639;-46.665111
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estádio do Pacaembu, São
+  Paulo";X-APPLE-RADIUS=100;X-TITLE="Estádio do Pacaembu, São Paulo":geo:
+ -23.548639,-46.665111
+DESCRIPTION:Group 3 | First round\nItaly 2-0 Paraguay\nGoals:\nITA 🇮🇹
+ : Carapellese 12'\, Pandolfini 62'
+URL:https://www.fifa.com/en/match-centre/match/17/7/208/1218
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:FIFA World Cup 1950
+END:VEVENT
+BEGIN:VEVENT
+UID:wc1950-match-014@world-cup-ics
+DTSTAMP:19500716T180000Z
+DTSTART:19500702T184000Z
+DTEND:19500702T204000Z
+SUMMARY:[G1] 🇨🇭 SUI 2-1 MEX 🇲🇽 [014]
+LOCATION:Estádio dos Eucaliptos\, Porto Alegre
+GEO:-30.061667;-51.227222
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estádio dos Eucaliptos, P
+ orto Alegre";X-APPLE-RADIUS=100;X-TITLE="Estádio dos Eucaliptos, Porto Al
+ egre":geo:-30.061667,-51.227222
+DESCRIPTION:Group 1 | First round\nSwitzerland 2-1 Mexico\nHT: 2-0\nGoals:\
+ nSUI 🇨🇭: Bader 10'\, Antenen 44'\nMEX 🇲🇽: Casarín 89'
+URL:https://www.fifa.com/en/match-centre/match/17/7/208/1222
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:FIFA World Cup 1950
+END:VEVENT
+BEGIN:VEVENT
+UID:wc1950-match-015@world-cup-ics
+DTSTAMP:19500716T180000Z
+DTSTART:19500702T210000Z
+DTEND:19500702T230000Z
+SUMMARY:[G2] 🇨🇱 CHI 5-2 USA 🇺🇸 [015]
+LOCATION:Estádio Ilha do Retiro\, Recife
+GEO:-8.062778;-34.902778
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estádio Ilha do Retiro, R
+ ecife";X-APPLE-RADIUS=100;X-TITLE="Estádio Ilha do Retiro, Recife":geo:-8
+ .062778,-34.902778
+DESCRIPTION:Group 2 | First round\nChile 5-2 USA\nGoals:\nCHI 🇨🇱: Rob
+ ledo 16'\, Riera 32'\, Cremaschi 54'\, Cremaschi 82'\, Prieto 60'\nUSA 
+ 🇺🇸: Wallace 47'\, Maca 48' pen
+URL:https://www.fifa.com/en/match-centre/match/17/7/208/1194
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:FIFA World Cup 1950
+END:VEVENT
+BEGIN:VEVENT
+UID:wc1950-match-016@world-cup-ics
+DTSTAMP:19500716T180000Z
+DTSTART:19500702T180000Z
+DTEND:19500702T200000Z
+SUMMARY:[G4] 🇺🇾 URU 8-0 BOL 🇧🇴 [016]
+LOCATION:Estádio Independência\, Belo Horizonte
+GEO:-19.908585;-43.917881
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estádio Independência, B
+ elo Horizonte";X-APPLE-RADIUS=100;X-TITLE="Estádio Independência, Belo H
+ orizonte":geo:-19.908585,-43.917881
+DESCRIPTION:Group 4 | First round\nUruguay 8-0 Bolivia\nGoals:\nURU 🇺
+ 🇾: Míguez 14'\, Míguez 40'\, Míguez 51'\, Vidal 18'\, Schiaffino 23'
+ \, Schiaffino 54'\, Pérez 83'\, Ghiggia 87'
+URL:https://www.fifa.com/en/match-centre/match/17/7/208/1185
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:FIFA World Cup 1950
+END:VEVENT
+BEGIN:VEVENT
+UID:wc1950-match-017@world-cup-ics
+DTSTAMP:19500716T180000Z
+DTSTART:19500709T180000Z
+DTEND:19500709T200000Z
+SUMMARY:[FG1] 🇺🇾 URU 2-2 ESP 🇪🇸 [017]
+LOCATION:Estádio do Pacaembu\, São Paulo
+GEO:-23.548639;-46.665111
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estádio do Pacaembu, São
+  Paulo";X-APPLE-RADIUS=100;X-TITLE="Estádio do Pacaembu, São Paulo":geo:
+ -23.548639,-46.665111
+DESCRIPTION:Final group | Round 1\nUruguay 2-2 Spain\nGoals:\nURU 🇺🇾:
+  Ghiggia 29'\, Varela 73'\nESP 🇪🇸: Basora 37'\, Basora 39'
+URL:https://www.fifa.com/en/match-centre/match/17/7/209/1207
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:FIFA World Cup 1950
+END:VEVENT
+BEGIN:VEVENT
+UID:wc1950-match-018@world-cup-ics
+DTSTAMP:19500716T180000Z
+DTSTART:19500709T180000Z
+DTEND:19500709T200000Z
+SUMMARY:[FG1] 🇧🇷 BRA 7-1 SWE 🇸🇪 [018]
+LOCATION:Estádio do Maracanã\, Rio de Janeiro
+GEO:-22.912167;-43.230164
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estádio do Maracanã, Rio
+  de Janeiro";X-APPLE-RADIUS=100;X-TITLE="Estádio do Maracanã, Rio de Jan
+ eiro":geo:-22.912167,-43.230164
+DESCRIPTION:Final group | Round 1\nBrazil 7-1 Sweden\nGoals:\nBRA 🇧🇷:
+  Ademir 17'\, Ademir 36'\, Ademir 52'\, Ademir 58'\, Chico 39'\, Chico 88'
+ \, Maneca 85'\nSWE 🇸🇪: Andersson 67' pen
+URL:https://www.fifa.com/en/match-centre/match/17/7/209/1189
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:FIFA World Cup 1950
+END:VEVENT
+BEGIN:VEVENT
+UID:wc1950-match-019@world-cup-ics
+DTSTAMP:19500716T180000Z
+DTSTART:19500713T180000Z
+DTEND:19500713T200000Z
+SUMMARY:[FG2] 🇧🇷 BRA 6-1 ESP 🇪🇸 [019]
+LOCATION:Estádio do Maracanã\, Rio de Janeiro
+GEO:-22.912167;-43.230164
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estádio do Maracanã, Rio
+  de Janeiro";X-APPLE-RADIUS=100;X-TITLE="Estádio do Maracanã, Rio de Jan
+ eiro":geo:-22.912167,-43.230164
+DESCRIPTION:Final group | Round 2\nBrazil 6-1 Spain\nGoals:\nBRA 🇧🇷: 
+ Parra 15' og\, Jair 21'\, Chico 31'\, Chico 55'\, Ademir 57'\, Zizinho 67'
+ \nESP 🇪🇸: Igoa 71'
+URL:https://www.fifa.com/en/match-centre/match/17/7/209/1186
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:FIFA World Cup 1950
+END:VEVENT
+BEGIN:VEVENT
+UID:wc1950-match-020@world-cup-ics
+DTSTAMP:19500716T180000Z
+DTSTART:19500713T180000Z
+DTEND:19500713T200000Z
+SUMMARY:[FG2] 🇺🇾 URU 3-2 SWE 🇸🇪 [020]
+LOCATION:Estádio do Pacaembu\, São Paulo
+GEO:-23.548639;-46.665111
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estádio do Pacaembu, São
+  Paulo";X-APPLE-RADIUS=100;X-TITLE="Estádio do Pacaembu, São Paulo":geo:
+ -23.548639,-46.665111
+DESCRIPTION:Final group | Round 2\nUruguay 3-2 Sweden\nGoals:\nURU 🇺🇾
+ : Ghiggia 39'\, Míguez 77'\, Míguez 85'\nSWE 🇸🇪: Palmér 5'\, Sund
+ qvist 40'
+URL:https://www.fifa.com/en/match-centre/match/17/7/209/1231
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:FIFA World Cup 1950
+END:VEVENT
+BEGIN:VEVENT
+UID:wc1950-match-021@world-cup-ics
+DTSTAMP:19500716T180000Z
+DTSTART:19500716T180000Z
+DTEND:19500716T200000Z
+SUMMARY:[FG3] 🇸🇪 SWE 3-1 ESP 🇪🇸 [021]
+LOCATION:Estádio do Pacaembu\, São Paulo
+GEO:-23.548639;-46.665111
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estádio do Pacaembu, São
+  Paulo";X-APPLE-RADIUS=100;X-TITLE="Estádio do Pacaembu, São Paulo":geo:
+ -23.548639,-46.665111
+DESCRIPTION:Final group | Round 3\nSweden 3-1 Spain\nGoals:\nSWE 🇸🇪: 
+ Sundqvist 15'\, Mellberg 33'\, Palmér 80'\nESP 🇪🇸: Zarra 82'
+URL:https://www.fifa.com/en/match-centre/match/17/7/209/1206
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:FIFA World Cup 1950
+END:VEVENT
+BEGIN:VEVENT
+UID:wc1950-match-022@world-cup-ics
+DTSTAMP:19500716T180000Z
+DTSTART:19500716T180000Z
+DTEND:19500716T200000Z
+SUMMARY:[FG3] 🇺🇾 URU 2-1 BRA 🇧🇷 [022]
+LOCATION:Estádio do Maracanã\, Rio de Janeiro
+GEO:-22.912167;-43.230164
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estádio do Maracanã, Rio
+  de Janeiro";X-APPLE-RADIUS=100;X-TITLE="Estádio do Maracanã, Rio de Jan
+ eiro":geo:-22.912167,-43.230164
+DESCRIPTION:Final group | Round 3\nDecisive match of the final group\; Urug
+ uay won the World Cup.\nUruguay 2-1 Brazil\nGoals:\nURU 🇺🇾: Schiaffi
+ no 66'\, Ghiggia 79'\nBRA 🇧🇷: Friaça 47'
+URL:https://www.fifa.com/en/match-centre/match/17/7/209/1190
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:FIFA World Cup 1950
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,57 @@
+{
+  "venues": [
+    {
+      "name": "Estádio do Maracanã",
+      "city": "Rio de Janeiro",
+      "ground_aliases": ["Estádio do Maracanã, Rio de Janeiro"],
+      "latitude": -22.912167,
+      "longitude": -43.230164,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Maracan%C3%A3_Stadium"
+    },
+    {
+      "name": "Estádio Independência",
+      "formal_name": "Estádio Raimundo Sampaio",
+      "city": "Belo Horizonte",
+      "ground_aliases": ["Estádio Independência, Belo Horizonte"],
+      "latitude": -19.908585,
+      "longitude": -43.917881,
+      "coordinate_source": "https://de.wikipedia.org/wiki/Est%C3%A1dio_Independ%C3%AAncia"
+    },
+    {
+      "name": "Estádio do Pacaembu",
+      "city": "São Paulo",
+      "ground_aliases": ["Estádio do Pacaembu, São Paulo"],
+      "latitude": -23.548639,
+      "longitude": -46.665111,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Pacaembu_Stadium"
+    },
+    {
+      "name": "Estádio dos Eucaliptos",
+      "city": "Porto Alegre",
+      "ground_aliases": ["Estádio dos Eucaliptos, Porto Alegre"],
+      "latitude": -30.061667,
+      "longitude": -51.227222,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Est%C3%A1dio_dos_Eucaliptos"
+    },
+    {
+      "name": "Estádio Durival de Britto",
+      "formal_name": "Estádio Durival Britto e Silva",
+      "city": "Curitiba",
+      "ground_aliases": [
+        "Estádio Durival de Britto, Curitiba",
+        "Estádio Durival Britto, Curitiba"
+      ],
+      "latitude": -25.439444,
+      "longitude": -49.255833,
+      "coordinate_source": "https://fr.wikipedia.org/wiki/Stade_Vila-Capanema"
+    },
+    {
+      "name": "Estádio Ilha do Retiro",
+      "city": "Recife",
+      "ground_aliases": ["Estádio Ilha do Retiro, Recife"],
+      "latitude": -8.062778,
+      "longitude": -34.902778,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Est%C3%A1dio_Ilha_do_Retiro"
+    }
+  ]
+}

@@ -46,12 +46,18 @@ def goal_text(goal: dict[str, Any]) -> str:
 
 
 def description(match: dict[str, Any], home: dict[str, str], away: dict[str, str]) -> str:
-    header = match.get("group") or match["round"]
+    if match.get("final_group_round"):
+        header = f"Final group | Round {match['final_group_round']}"
+    else:
+        header = match.get("group") or match["round"]
     if match.get("group"):
         header += f" | {match['round']}"
     score = match["score"]
     result = score.get("et") or score["ft"]
-    lines = [header, f"{home['name']} {result[0]}-{result[1]} {away['name']}"]
+    lines = [header]
+    if match.get("event_note"):
+        lines.append(match["event_note"])
+    lines.append(f"{home['name']} {result[0]}-{result[1]} {away['name']}")
     if score.get("ht") is not None:
         lines.append(f"HT: {score['ht'][0]}-{score['ht'][1]}")
     if score.get("et") is not None:
@@ -82,6 +88,8 @@ def match_identity(match: dict[str, Any]) -> tuple[str, str, str]:
 
 
 def stage_label(match: dict[str, Any], knockout_number: int | None = None) -> str:
+    if match.get("final_group_round"):
+        return f"FG{match['final_group_round']}"
     if match.get("group"):
         return f"G{match['group'].removeprefix('Group ')}"
     if match["round"] == "Semi-finals":
@@ -162,6 +170,15 @@ def build_event_lines(year: int) -> tuple[list[str], int]:
             raise ValueError(f"No kickoff enrichment for {match['date']} {match['team1']} v {match['team2']}")
         combined.append({**enriched, **match, "source_index": source_index})
     combined.sort(key=lambda item: int(item["official_match_number"]))
+    final_group_dates = sorted(
+        {item["date"] for item in combined if item["round"] == "Final Round"}
+    )
+    final_group_rounds = {
+        date: index for index, date in enumerate(final_group_dates, start=1)
+    }
+    for match in combined:
+        if match["round"] == "Final Round":
+            match["final_group_round"] = final_group_rounds[match["date"]]
 
     manifest = build_manifest(year, combined, data_dir / "worldcup.manifest.json")
     countries = country_index(load_json(ROOT / "data" / "countries.json"))
@@ -185,7 +202,8 @@ def build_event_lines(year: int) -> tuple[list[str], int]:
         else:
             label = stage_label(match)
         kickoff = datetime.strptime(match["kickoff_utc"], "%Y-%m-%dT%H:%M:%SZ").replace(tzinfo=timezone.utc)
-        duration = timedelta(hours=3 if not match.get("group") else 2)
+        league_format = match.get("group") or match["round"] == "Final Round"
+        duration = timedelta(hours=2 if league_format else 3)
         venue = venues.get(match["ground"])
         if not venue:
             raise ValueError(f"No venue metadata for {match['ground']}")

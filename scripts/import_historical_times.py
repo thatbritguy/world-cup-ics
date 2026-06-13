@@ -151,6 +151,43 @@ TOURNAMENTS = {
             )
         },
     },
+    1950: {
+        "pages": [
+            "1950 FIFA World Cup Group 1",
+            "1950 FIFA World Cup Group 2",
+            "United States v England (1950 FIFA World Cup)",
+            "1950 FIFA World Cup Group 3",
+            "1950 FIFA World Cup Group 4",
+            "1950 FIFA World Cup final round",
+            "Uruguay v Brazil (1950 FIFA World Cup)",
+        ],
+        "archive_url": (
+            "https://web.archive.org/web/20221003182345id_/"
+            "https://www.fifa.com/en/tournaments/mens/worldcup/"
+            "1950brazil/match-center"
+        ),
+        "rsssf_url": (
+            "https://raw.githubusercontent.com/rsssf/worldcup/"
+            "master/pages/50full.txt"
+        ),
+        "rsssf_date_corrections": {
+            ("1950-06-29", frozenset(("Yugoslavia", "Mexico"))): "1950-06-28",
+            ("1950-07-03", frozenset(("Brazil", "Sweden"))): "1950-07-09",
+        },
+        "source_notes": [
+            "RSSSF dates Yugoslavia-Mexico as 29 June; FIFA, Wikipedia and the "
+            "openfootball result record place it on 28 June.",
+            "RSSSF dates Brazil-Sweden as 3 July; FIFA, Wikipedia and the "
+            "openfootball result record place it on 9 July.",
+        ],
+        "timezone": "America/Sao_Paulo",
+        "expected_matches": 22,
+        "local_time_overrides": {},
+        "conflict_notes": {},
+        "event_notes": {
+            "1190": "Decisive match of the final group; Uruguay won the World Cup."
+        },
+    },
 }
 NAME_ALIASES = {
     normalize_name("USA"): "United States",
@@ -170,6 +207,7 @@ RSSSF_CODES = {
     "CUB": "Cuba",
     "CZE": "Czechoslovakia",
     "EGY": "Egypt",
+    "ENG": "England",
     "ESP": "Spain",
     "FRA": "France",
     "GER": "Germany",
@@ -415,6 +453,13 @@ def reconcile(year: int) -> dict[str, object]:
         wikipedia.extend(parse_wikipedia_page(title, len(wikipedia)))
     fifa = parse_fifa_archive(fetch_text(config["archive_url"]))
     rsssf = parse_rsssf(fetch_text(config["rsssf_url"]), year)
+    for old_key, corrected_date in config.get("rsssf_date_corrections", {}).items():
+        if old_key not in rsssf:
+            raise ValueError(f"RSSSF correction source identity not found: {old_key}")
+        corrected_key = (corrected_date, old_key[1])
+        if corrected_key in rsssf:
+            raise ValueError(f"RSSSF correction would duplicate {corrected_key}")
+        rsssf[corrected_key] = rsssf.pop(old_key)
     expected = config["expected_matches"]
     if len(wikipedia) != expected or len(fifa) != expected or len(rsssf) != expected:
         raise ValueError(
@@ -456,6 +501,11 @@ def reconcile(year: int) -> dict[str, object]:
         records.append(
             {
                 **item,
+                **(
+                    {"event_note": config["event_notes"][match_id]}
+                    if match_id in config.get("event_notes", {})
+                    else {}
+                ),
                 "local_time": local_time,
                 "local_time_sources": {
                     "selected": selected_source,
@@ -501,6 +551,7 @@ def reconcile(year: int) -> dict[str, object]:
             "FIFA's derived UTC fields are retained for audit but are not used. "
             "The selected time is converted with the historical IANA host timezone."
         ),
+        **({"source_notes": config["source_notes"]} if config.get("source_notes") else {}),
         "matches": records,
     }
 

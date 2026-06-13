@@ -128,6 +128,32 @@ class HistoricalCalendarTests(unittest.TestCase):
         self.assertEqual(opening_match["local_time_sources"]["rsssf"], "18:00")
         self.assertEqual(opening_match["local_time_sources"]["confidence"], "confirmed")
 
+    def test_1950_final_group_is_not_rendered_as_a_knockout_final(self) -> None:
+        manifest = load_json(ROOT / "data" / "1950" / "worldcup.manifest.json")
+        enrichment = load_json(
+            ROOT / "data" / "1950" / "worldcup.enrichment.json"
+        )["matches"]
+        calendar = (ROOT / "ics" / "world-cup-1950.ics").read_text(
+            encoding="utf-8"
+        )
+        self.assertEqual(manifest["status"], "review")
+        self.assertEqual(len(manifest["matches"]), 22)
+        self.assertEqual(
+            [item["official_match_number"] for item in manifest["matches"]],
+            list(range(1, 23)),
+        )
+        self.assertEqual(calendar.count("BEGIN:VEVENT"), 22)
+        self.assertIn("SUMMARY:[FG3] 🇺🇾 URU 2-1 BRA 🇧🇷 [022]", calendar)
+        self.assertNotIn("SUMMARY:[FINAL]", calendar)
+        decisive = next(item for item in enrichment if item["fifa_match_id"] == "1190")
+        self.assertIn("Decisive match of the final group", decisive["event_note"])
+        provisional = [
+            item
+            for item in enrichment
+            if item["local_time_sources"]["confidence"] == "provisional"
+        ]
+        self.assertEqual(len(provisional), 5)
+
     def test_master_countries_cover_1930(self) -> None:
         countries = country_index(load_json(ROOT / "data" / "countries.json"))
         source = load_json(ROOT / "data" / "1930" / "worldcup.json")

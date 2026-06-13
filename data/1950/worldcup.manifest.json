@@ -1,0 +1,228 @@
+{
+  "year": 1950,
+  "status": "review",
+  "calendar_profile": "archive",
+  "numbering": "FIFA official match numbers",
+  "matches": [
+    {
+      "sequence": 1,
+      "key": "wc1950-match-001",
+      "uid": "wc1950-match-001@world-cup-ics",
+      "date": "1950-06-24",
+      "team1": "Brazil",
+      "team2": "Mexico",
+      "official_match_number": 1,
+      "fifa_match_id": "1187"
+    },
+    {
+      "sequence": 2,
+      "key": "wc1950-match-002",
+      "uid": "wc1950-match-002@world-cup-ics",
+      "date": "1950-06-25",
+      "team1": "England",
+      "team2": "Chile",
+      "official_match_number": 2,
+      "fifa_match_id": "1192"
+    },
+    {
+      "sequence": 3,
+      "key": "wc1950-match-003",
+      "uid": "wc1950-match-003@world-cup-ics",
+      "date": "1950-06-25",
+      "team1": "Spain",
+      "team2": "United States",
+      "official_match_number": 3,
+      "fifa_match_id": "1208"
+    },
+    {
+      "sequence": 4,
+      "key": "wc1950-match-004",
+      "uid": "wc1950-match-004@world-cup-ics",
+      "date": "1950-06-25",
+      "team1": "Sweden",
+      "team2": "Italy",
+      "official_match_number": 4,
+      "fifa_match_id": "1219"
+    },
+    {
+      "sequence": 5,
+      "key": "wc1950-match-005",
+      "uid": "wc1950-match-005@world-cup-ics",
+      "date": "1950-06-25",
+      "team1": "Yugoslavia",
+      "team2": "Switzerland",
+      "official_match_number": 5,
+      "fifa_match_id": "1230"
+    },
+    {
+      "sequence": 6,
+      "key": "wc1950-match-006",
+      "uid": "wc1950-match-006@world-cup-ics",
+      "date": "1950-06-28",
+      "team1": "Brazil",
+      "team2": "Switzerland",
+      "official_match_number": 6,
+      "fifa_match_id": "1188"
+    },
+    {
+      "sequence": 7,
+      "key": "wc1950-match-007",
+      "uid": "wc1950-match-007@world-cup-ics",
+      "date": "1950-06-28",
+      "team1": "Yugoslavia",
+      "team2": "Mexico",
+      "official_match_number": 7,
+      "fifa_match_id": "1225"
+    },
+    {
+      "sequence": 8,
+      "key": "wc1950-match-008",
+      "uid": "wc1950-match-008@world-cup-ics",
+      "date": "1950-06-29",
+      "team1": "Spain",
+      "team2": "Chile",
+      "official_match_number": 8,
+      "fifa_match_id": "1193"
+    },
+    {
+      "sequence": 9,
+      "key": "wc1950-match-009",
+      "uid": "wc1950-match-009@world-cup-ics",
+      "date": "1950-06-29",
+      "team1": "Sweden",
+      "team2": "Paraguay",
+      "official_match_number": 9,
+      "fifa_match_id": "1228"
+    },
+    {
+      "sequence": 10,
+      "key": "wc1950-match-010",
+      "uid": "wc1950-match-010@world-cup-ics",
+      "date": "1950-06-29",
+      "team1": "United States",
+      "team2": "England",
+      "official_match_number": 10,
+      "fifa_match_id": "1202"
+    },
+    {
+      "sequence": 11,
+      "key": "wc1950-match-011",
+      "uid": "wc1950-match-011@world-cup-ics",
+      "date": "1950-07-01",
+      "team1": "Brazil",
+      "team2": "Yugoslavia",
+      "official_match_number": 11,
+      "fifa_match_id": "1191"
+    },
+    {
+      "sequence": 12,
+      "key": "wc1950-match-012",
+      "uid": "wc1950-match-012@world-cup-ics",
+      "date": "1950-07-02",
+      "team1": "Spain",
+      "team2": "England",
+      "official_match_number": 12,
+      "fifa_match_id": "1199"
+    },
+    {
+      "sequence": 13,
+      "key": "wc1950-match-013",
+      "uid": "wc1950-match-013@world-cup-ics",
+      "date": "1950-07-02",
+      "team1": "Italy",
+      "team2": "Paraguay",
+      "official_match_number": 13,
+      "fifa_match_id": "1218"
+    },
+    {
+      "sequence": 14,
+      "key": "wc1950-match-014",
+      "uid": "wc1950-match-014@world-cup-ics",
+      "date": "1950-07-02",
+      "team1": "Switzerland",
+      "team2": "Mexico",
+      "official_match_number": 14,
+      "fifa_match_id": "1222"
+    },
+    {
+      "sequence": 15,
+      "key": "wc1950-match-015",
+      "uid": "wc1950-match-015@world-cup-ics",
+      "date": "1950-07-02",
+      "team1": "Chile",
+      "team2": "United States",
+      "official_match_number": 15,
+      "fifa_match_id": "1194"
+    },
+    {
+      "sequence": 16,
+      "key": "wc1950-match-016",
+      "uid": "wc1950-match-016@world-cup-ics",
+      "date": "1950-07-02",
+      "team1": "Uruguay",
+      "team2": "Bolivia",
+      "official_match_number": 16,
+      "fifa_match_id": "1185"
+    },
+    {
+      "sequence": 17,
+      "key": "wc1950-match-017",
+      "uid": "wc1950-match-017@world-cup-ics",
+      "date": "1950-07-09",
+      "team1": "Uruguay",
+      "team2": "Spain",
+      "official_match_number": 17,
+      "fifa_match_id": "1207"
+    },
+    {
+      "sequence": 18,
+      "key": "wc1950-match-018",
+      "uid": "wc1950-match-018@world-cup-ics",
+      "date": "1950-07-09",
+      "team1": "Brazil",
+      "team2": "Sweden",
+      "official_match_number": 18,
+      "fifa_match_id": "1189"
+    },
+    {
+      "sequence": 19,
+      "key": "wc1950-match-019",
+      "uid": "wc1950-match-019@world-cup-ics",
+      "date": "1950-07-13",
+      "team1": "Brazil",
+      "team2": "Spain",
+      "official_match_number": 19,
+      "fifa_match_id": "1186"
+    },
+    {
+      "sequence": 20,
+      "key": "wc1950-match-020",
+      "uid": "wc1950-match-020@world-cup-ics",
+      "date": "1950-07-13",
+      "team1": "Uruguay",
+      "team2": "Sweden",
+      "official_match_number": 20,
+      "fifa_match_id": "1231"
+    },
+    {
+      "sequence": 21,
+      "key": "wc1950-match-021",
+      "uid": "wc1950-match-021@world-cup-ics",
+      "date": "1950-07-16",
+      "team1": "Sweden",
+      "team2": "Spain",
+      "official_match_number": 21,
+      "fifa_match_id": "1206"
+    },
+    {
+      "sequence": 22,
+      "key": "wc1950-match-022",
+      "uid": "wc1950-match-022@world-cup-ics",
+      "date": "1950-07-16",
+      "team1": "Uruguay",
+      "team2": "Brazil",
+      "official_match_number": 22,
+      "fifa_match_id": "1190"
+    }
+  ]
+}

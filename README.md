@@ -24,6 +24,7 @@ Static historical calendars are available at:
 https://raw.githubusercontent.com/thatbritguy/world-cup-ics/master/ics/world-cup-1930.ics
 https://raw.githubusercontent.com/thatbritguy/world-cup-ics/master/ics/world-cup-1934.ics
 https://raw.githubusercontent.com/thatbritguy/world-cup-ics/master/ics/world-cup-1938.ics
+https://raw.githubusercontent.com/thatbritguy/world-cup-ics/master/ics/world-cup-1950.ics
 https://raw.githubusercontent.com/thatbritguy/world-cup-ics/master/ics/world-cup.ics
 ```
 
@@ -89,6 +90,8 @@ python3 scripts/generate_historical_calendar.py 1934
 python3 scripts/validate_historical_calendar.py 1934
 python3 scripts/generate_historical_calendar.py 1938
 python3 scripts/validate_historical_calendar.py 1938
+python3 scripts/generate_historical_calendar.py 1950
+python3 scripts/validate_historical_calendar.py 1950
 python3 scripts/generate_master_calendar.py
 python3 scripts/validate_master_calendar.py
 python3 -m unittest discover -s tests
@@ -100,6 +103,7 @@ Historical source imports are manually supervised and can be reproduced with:
 python3 scripts/import_historical_times.py 1930
 python3 scripts/import_historical_times.py 1934
 python3 scripts/import_historical_times.py 1938
+python3 scripts/import_historical_times.py 1950
 ```
 
 The shared country dataset contains all 211 current FIFA members plus defunct
@@ -139,5 +143,6 @@ ics/world-cup-2026.ics                 Published calendar feed
 ics/world-cup-1930.ics                 Static historical calendar proof
 ics/world-cup-1934.ics                 Static 1934 historical calendar
 ics/world-cup-1938.ics                 Static 1938 historical calendar
+ics/world-cup-1950.ics                 Static 1950 historical review calendar
 ics/world-cup.ics                      Validated historical master calendar
 ```
