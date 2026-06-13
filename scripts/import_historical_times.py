@@ -182,8 +182,70 @@ TOURNAMENTS = {
         ],
         "timezone": "America/Sao_Paulo",
         "expected_matches": 22,
-        "local_time_overrides": {},
-        "conflict_notes": {},
+        "local_time_overrides": {
+            "1208": {
+                "time": "15:00",
+                "selected_source": (
+                    "O Preço de uma Copa Curitiba venue history, corroborated "
+                    "by FIFA and Wikipedia"
+                ),
+                "confidence": "corroborated",
+                "evidence_url": "https://oprecodeumacopa.com/curitiba.html",
+                "reported_alternatives": {},
+            },
+            "1230": {
+                "time": "15:00",
+                "selected_source": (
+                    "O Preço de uma Copa Belo Horizonte venue history, "
+                    "corroborated by FIFA and Wikipedia"
+                ),
+                "confidence": "corroborated",
+                "evidence_url": "https://oprecodeumacopa.com/belohorizonte.html",
+                "reported_alternatives": {},
+            },
+            "1202": {
+                "time": "15:00",
+                "selected_source": (
+                    "O Preço de uma Copa Belo Horizonte venue history, "
+                    "corroborated by FIFA and Wikipedia"
+                ),
+                "confidence": "corroborated",
+                "evidence_url": "https://oprecodeumacopa.com/belohorizonte.html",
+                "reported_alternatives": {},
+            },
+            "1194": {
+                "time": "15:00",
+                "selected_source": (
+                    "O Preço de uma Copa Recife venue history, corroborated "
+                    "by FIFA and Wikipedia"
+                ),
+                "confidence": "corroborated",
+                "evidence_url": "https://oprecodeumacopa.com/recife.html",
+                "reported_alternatives": {},
+            },
+        },
+        "conflict_notes": {
+            "1208": (
+                "Selected 15:00 from the Curitiba venue history, which states "
+                "that both local World Cup matches began at 15:00. FIFA and "
+                "Wikipedia agree; RSSSF reports 15:30."
+            ),
+            "1230": (
+                "Selected 15:00 from the Belo Horizonte venue history, which "
+                "states that its World Cup matches began punctually at 15:00. "
+                "FIFA and Wikipedia agree; RSSSF reports 18:00."
+            ),
+            "1202": (
+                "Selected 15:00 from the Belo Horizonte venue history, which "
+                "states that its World Cup matches began punctually at 15:00. "
+                "FIFA and Wikipedia agree; RSSSF reports 18:00."
+            ),
+            "1194": (
+                "Selected 15:00 from the Recife venue history, which explicitly "
+                "states that Chile-United States began at 15:00. FIFA and "
+                "Wikipedia agree; RSSSF reports 18:00."
+            ),
+        },
         "event_notes": {
             "1190": "Decisive match of the final group; Uruguay won the World Cup."
         },

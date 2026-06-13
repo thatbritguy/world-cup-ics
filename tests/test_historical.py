@@ -152,7 +152,16 @@ class HistoricalCalendarTests(unittest.TestCase):
             for item in enrichment
             if item["local_time_sources"]["confidence"] == "provisional"
         ]
-        self.assertEqual(len(provisional), 5)
+        self.assertEqual(len(provisional), 1)
+        self.assertEqual(provisional[0]["fifa_match_id"], "1225")
+        corroborated_overrides = {
+            item["fifa_match_id"]: item
+            for item in enrichment
+            if item["fifa_match_id"] in {"1208", "1230", "1202", "1194"}
+        }
+        self.assertTrue(
+            all(item["local_time"] == "15:00" for item in corroborated_overrides.values())
+        )
 
     def test_master_countries_cover_1930(self) -> None:
         countries = country_index(load_json(ROOT / "data" / "countries.json"))

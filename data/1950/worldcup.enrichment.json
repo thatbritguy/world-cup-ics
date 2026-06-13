@@ -71,19 +71,20 @@
       "fifa_match_id": "1208",
       "wikipedia_url": "https://en.wikipedia.org/wiki/1950_FIFA_World_Cup_Group_2",
       "source_order": 7,
-      "local_time": "15:30",
+      "local_time": "15:00",
       "local_time_sources": {
-        "selected": "RSSSF full tournament record",
-        "confidence": "provisional",
+        "selected": "O Preço de uma Copa Curitiba venue history, corroborated by FIFA and Wikipedia",
+        "confidence": "corroborated",
         "rsssf": "15:30",
         "wikipedia": "15:00",
         "fifa_archive": "15:00",
-        "resolution_note": "Selected RSSSF 15:30 as the historical baseline; Wikipedia reports 15:00 and FIFA reports 15:00."
+        "evidence_url": "https://oprecodeumacopa.com/curitiba.html",
+        "resolution_note": "Selected 15:00 from the Curitiba venue history, which states that both local World Cup matches began at 15:00. FIFA and Wikipedia agree; RSSSF reports 15:30."
       },
       "timezone": "America/Sao_Paulo",
       "utc_offset": "-03:00",
       "timezone_source": "IANA Time Zone Database",
-      "kickoff_utc": "1950-06-25T18:30:00Z",
+      "kickoff_utc": "1950-06-25T18:00:00Z",
       "fifa_derived_utc": "1950-06-25T18:00:00Z",
       "official_match_number": 3,
       "fifa_archive_url": "https://web.archive.org/web/20221003182345https://www.fifa.com/en/tournaments/mens/worldcup/1950brazil/match-center"
@@ -125,19 +126,20 @@
       "fifa_match_id": "1230",
       "wikipedia_url": "https://en.wikipedia.org/wiki/1950_FIFA_World_Cup_Group_1",
       "source_order": 1,
-      "local_time": "18:00",
+      "local_time": "15:00",
       "local_time_sources": {
-        "selected": "RSSSF full tournament record",
-        "confidence": "provisional",
+        "selected": "O Preço de uma Copa Belo Horizonte venue history, corroborated by FIFA and Wikipedia",
+        "confidence": "corroborated",
         "rsssf": "18:00",
         "wikipedia": "15:00",
         "fifa_archive": "15:00",
-        "resolution_note": "Selected RSSSF 18:00 as the historical baseline; Wikipedia reports 15:00 and FIFA reports 15:00."
+        "evidence_url": "https://oprecodeumacopa.com/belohorizonte.html",
+        "resolution_note": "Selected 15:00 from the Belo Horizonte venue history, which states that its World Cup matches began punctually at 15:00. FIFA and Wikipedia agree; RSSSF reports 18:00."
       },
       "timezone": "America/Sao_Paulo",
       "utc_offset": "-03:00",
       "timezone_source": "IANA Time Zone Database",
-      "kickoff_utc": "1950-06-25T21:00:00Z",
+      "kickoff_utc": "1950-06-25T18:00:00Z",
       "fifa_derived_utc": "1950-06-25T18:00:00Z",
       "official_match_number": 5,
       "fifa_archive_url": "https://web.archive.org/web/20221003182345https://www.fifa.com/en/tournaments/mens/worldcup/1950brazil/match-center"
@@ -260,19 +262,20 @@
       "fifa_match_id": "1202",
       "wikipedia_url": "https://en.wikipedia.org/wiki/United_States_v_England_%281950_FIFA_World_Cup%29",
       "source_order": 11,
-      "local_time": "18:00",
+      "local_time": "15:00",
       "local_time_sources": {
-        "selected": "RSSSF full tournament record",
-        "confidence": "provisional",
+        "selected": "O Preço de uma Copa Belo Horizonte venue history, corroborated by FIFA and Wikipedia",
+        "confidence": "corroborated",
         "rsssf": "18:00",
         "wikipedia": "15:00",
         "fifa_archive": "15:00",
-        "resolution_note": "Selected RSSSF 18:00 as the historical baseline; Wikipedia reports 15:00 and FIFA reports 15:00."
+        "evidence_url": "https://oprecodeumacopa.com/belohorizonte.html",
+        "resolution_note": "Selected 15:00 from the Belo Horizonte venue history, which states that its World Cup matches began punctually at 15:00. FIFA and Wikipedia agree; RSSSF reports 18:00."
       },
       "timezone": "America/Sao_Paulo",
       "utc_offset": "-03:00",
       "timezone_source": "IANA Time Zone Database",
-      "kickoff_utc": "1950-06-29T21:00:00Z",
+      "kickoff_utc": "1950-06-29T18:00:00Z",
       "fifa_derived_utc": "1950-06-29T18:00:00Z",
       "official_match_number": 10,
       "fifa_archive_url": "https://web.archive.org/web/20221003182345https://www.fifa.com/en/tournaments/mens/worldcup/1950brazil/match-center"
@@ -395,19 +398,20 @@
       "fifa_match_id": "1194",
       "wikipedia_url": "https://en.wikipedia.org/wiki/1950_FIFA_World_Cup_Group_2",
       "source_order": 10,
-      "local_time": "18:00",
+      "local_time": "15:00",
       "local_time_sources": {
-        "selected": "RSSSF full tournament record",
-        "confidence": "provisional",
+        "selected": "O Preço de uma Copa Recife venue history, corroborated by FIFA and Wikipedia",
+        "confidence": "corroborated",
         "rsssf": "18:00",
         "wikipedia": "15:00",
         "fifa_archive": "15:00",
-        "resolution_note": "Selected RSSSF 18:00 as the historical baseline; Wikipedia reports 15:00 and FIFA reports 15:00."
+        "evidence_url": "https://oprecodeumacopa.com/recife.html",
+        "resolution_note": "Selected 15:00 from the Recife venue history, which explicitly states that Chile-United States began at 15:00. FIFA and Wikipedia agree; RSSSF reports 18:00."
       },
       "timezone": "America/Sao_Paulo",
       "utc_offset": "-03:00",
       "timezone_source": "IANA Time Zone Database",
-      "kickoff_utc": "1950-07-02T21:00:00Z",
+      "kickoff_utc": "1950-07-02T18:00:00Z",
       "fifa_derived_utc": "1950-07-02T18:00:00Z",
       "official_match_number": 15,
       "fifa_archive_url": "https://web.archive.org/web/20221003182345https://www.fifa.com/en/tournaments/mens/worldcup/1950brazil/match-center"
