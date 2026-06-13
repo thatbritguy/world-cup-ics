@@ -181,19 +181,21 @@
       "fifa_match_id": "1225",
       "wikipedia_url": "https://en.wikipedia.org/wiki/1950_FIFA_World_Cup_Group_1",
       "source_order": 3,
-      "local_time": "18:15",
+      "local_time": "15:00",
       "local_time_sources": {
-        "selected": "RSSSF full tournament record",
-        "confidence": "provisional",
+        "selected": "Contemporary Jornal do Dia fixture notice, corroborated by FIFA and Wikipedia",
+        "confidence": "confirmed",
         "rsssf": "18:15",
         "wikipedia": "15:00",
         "fifa_archive": "15:00",
-        "resolution_note": "Selected RSSSF 18:15 as the historical baseline; Wikipedia reports 15:00 and FIFA reports 15:00."
+        "evidence_url": "https://oprecodeumacopa.com/portoalegre.html",
+        "evidence_reference": "Jornal do Dia, Porto Alegre, 23 June 1950: notice for Yugoslavia-Mexico states that matches begin at 15:00, without delay",
+        "resolution_note": "Selected 15:00 from the contemporary Jornal do Dia notice of 23 June 1950 for Yugoslavia-Mexico, which states that matches begin at 15:00 without delay. FIFA and Wikipedia agree; RSSSF reports 18:15."
       },
       "timezone": "America/Sao_Paulo",
       "utc_offset": "-03:00",
       "timezone_source": "IANA Time Zone Database",
-      "kickoff_utc": "1950-06-28T21:15:00Z",
+      "kickoff_utc": "1950-06-28T18:00:00Z",
       "fifa_derived_utc": "1950-06-28T18:00:00Z",
       "official_match_number": 7,
       "fifa_archive_url": "https://web.archive.org/web/20221003182345https://www.fifa.com/en/tournaments/mens/worldcup/1950brazil/match-center"

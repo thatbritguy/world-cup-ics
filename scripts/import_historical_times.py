@@ -223,6 +223,21 @@ TOURNAMENTS = {
                 "evidence_url": "https://oprecodeumacopa.com/recife.html",
                 "reported_alternatives": {},
             },
+            "1225": {
+                "time": "15:00",
+                "selected_source": (
+                    "Contemporary Jornal do Dia fixture notice, corroborated "
+                    "by FIFA and Wikipedia"
+                ),
+                "confidence": "confirmed",
+                "evidence_url": "https://oprecodeumacopa.com/portoalegre.html",
+                "evidence_reference": (
+                    "Jornal do Dia, Porto Alegre, 23 June 1950: notice for "
+                    "Yugoslavia-Mexico states that matches begin at 15:00, "
+                    "without delay"
+                ),
+                "reported_alternatives": {},
+            },
         },
         "conflict_notes": {
             "1208": (
@@ -244,6 +259,12 @@ TOURNAMENTS = {
                 "Selected 15:00 from the Recife venue history, which explicitly "
                 "states that Chile-United States began at 15:00. FIFA and "
                 "Wikipedia agree; RSSSF reports 18:00."
+            ),
+            "1225": (
+                "Selected 15:00 from the contemporary Jornal do Dia notice of "
+                "23 June 1950 for Yugoslavia-Mexico, which states that matches "
+                "begin at 15:00 without delay. FIFA and Wikipedia agree; RSSSF "
+                "reports 18:15."
             ),
         },
         "event_notes": {

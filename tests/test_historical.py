@@ -103,12 +103,13 @@ class HistoricalCalendarTests(unittest.TestCase):
         self.assertEqual(third_place["kickoff_utc"], "1934-06-07T16:30:00Z")
 
     def test_master_includes_only_validated_archive_tournaments(self) -> None:
-        self.assertEqual(validated_years(), [1930, 1934, 1938])
+        self.assertEqual(validated_years(), [1930, 1934, 1938, 1950])
         master = (ROOT / "ics" / "world-cup.ics").read_text(encoding="utf-8")
-        self.assertEqual(master.count("BEGIN:VEVENT"), 53)
+        self.assertEqual(master.count("BEGIN:VEVENT"), 75)
         self.assertIn("UID:wc1930-match-001@world-cup-ics", master)
         self.assertIn("UID:wc1934-match-017@world-cup-ics", master)
         self.assertIn("UID:wc1938-match-018@world-cup-ics", master)
+        self.assertIn("UID:wc1950-match-022@world-cup-ics", master)
         self.assertNotIn("UID:wc2026-match-001@world-cup-ics", master)
 
     def test_1938_excludes_cancelled_fixture_and_confirms_opening_time(self) -> None:
@@ -136,7 +137,7 @@ class HistoricalCalendarTests(unittest.TestCase):
         calendar = (ROOT / "ics" / "world-cup-1950.ics").read_text(
             encoding="utf-8"
         )
-        self.assertEqual(manifest["status"], "review")
+        self.assertEqual(manifest["status"], "validated")
         self.assertEqual(len(manifest["matches"]), 22)
         self.assertEqual(
             [item["official_match_number"] for item in manifest["matches"]],
@@ -152,8 +153,7 @@ class HistoricalCalendarTests(unittest.TestCase):
             for item in enrichment
             if item["local_time_sources"]["confidence"] == "provisional"
         ]
-        self.assertEqual(len(provisional), 1)
-        self.assertEqual(provisional[0]["fifa_match_id"], "1225")
+        self.assertEqual(provisional, [])
         corroborated_overrides = {
             item["fifa_match_id"]: item
             for item in enrichment
@@ -162,6 +162,11 @@ class HistoricalCalendarTests(unittest.TestCase):
         self.assertTrue(
             all(item["local_time"] == "15:00" for item in corroborated_overrides.values())
         )
+        porto_alegre = next(
+            item for item in enrichment if item["fifa_match_id"] == "1225"
+        )
+        self.assertEqual(porto_alegre["local_time"], "15:00")
+        self.assertEqual(porto_alegre["local_time_sources"]["confidence"], "confirmed")
 
     def test_master_countries_cover_1930(self) -> None:
         countries = country_index(load_json(ROOT / "data" / "countries.json"))
