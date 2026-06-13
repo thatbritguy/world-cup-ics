@@ -70,6 +70,8 @@ full tournament records are the default source for local kickoff times.
 Contemporary primary evidence may override RSSSF, while agreeing Wikipedia and
 archived FIFA values provide a fallback where RSSSF omits a time. Every source
 value, confidence level and resolution note is retained in the enrichment data.
+For 2002 onward, contemporary FIFA/Wikipedia timing is accepted without an
+RSSSF full-file comparison; explicit source conflicts still require review.
 Selected local times are converted using historical IANA host timezones; FIFA's
 derived UTC fields remain audit data only. Historical events contain no alerts.
 
@@ -106,6 +108,19 @@ python3 scripts/import_historical_times.py 1938
 python3 scripts/import_historical_times.py 1950
 ```
 
+Audit every legitimate men's World Cup year without publishing calendars with:
+
+```bash
+python3 scripts/audit_historical_tournaments.py
+```
+
+The explicit tournament allowlist excludes openfootball's `2025` Club World
+Cup folder. Per-year comparisons and the consolidated review queue are written
+to `reports/historical/`; downloaded source caches are ignored by Git.
+RSSSF's private legacy abbreviations are translated only while parsing that
+source. All stored and published team codes remain the official FIFA codes from
+`data/countries.json`.
+
 The shared country dataset contains all 211 current FIFA members plus defunct
 teams that appeared at a World Cup. Rebuild it from the agreed FIFA-code,
 confederation, ISO and Unicode-flag sources with:
@@ -139,6 +154,8 @@ data/{YEAR}/worldcup.json              Fixed historical results snapshot
 data/{YEAR}/worldcup.enrichment.json   Times, FIFA links and official numbers
 data/{YEAR}/worldcup.manifest.json     Stable identities and archive status
 data/{YEAR}/worldcup.stadiums.json     Historical venue coordinates
+reports/historical/{YEAR}.json         Non-publishing source comparison report
+reports/historical/summary.json        Consolidated historical review queue
 ics/world-cup-2026.ics                 Published calendar feed
 ics/world-cup-1930.ics                 Static historical calendar proof
 ics/world-cup-1934.ics                 Static 1934 historical calendar

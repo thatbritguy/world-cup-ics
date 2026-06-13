@@ -1,0 +1,1009 @@
+{
+  "year": 1982,
+  "allowed_world_cup": true,
+  "host_timezone": "Europe/Madrid",
+  "source_availability": {
+    "openfootball": true,
+    "rsssf_full": true,
+    "fifa_archive": true
+  },
+  "match_count": 52,
+  "status_counts": {
+    "conflict": 1,
+    "corroborated": 45,
+    "single-source": 6
+  },
+  "existing_calendar_status": null,
+  "source_issues_resolved_in_enrichment": false,
+  "requires_review": true,
+  "matches": [
+    {
+      "date": "1982-06-14",
+      "team1": "Italy",
+      "team2": "Poland",
+      "ground": "Balaídos, Vigo",
+      "sources": {
+        "rsssf": "17:15",
+        "rsssf_date": "1982-06-14",
+        "fifa_archive": "17:15",
+        "fifa_archive_date": "1982-06-14",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "17:15",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "995",
+      "fifa_match_number": 2
+    },
+    {
+      "date": "1982-06-15",
+      "team1": "Peru",
+      "team2": "Cameroon",
+      "ground": "Estadio de Riazor, A Coruña",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "17:15",
+        "fifa_archive_date": "1982-06-15",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "17:15",
+      "status": "single-source",
+      "date_mismatch": false,
+      "fifa_match_id": "833",
+      "fifa_match_number": 4
+    },
+    {
+      "date": "1982-06-18",
+      "team1": "Italy",
+      "team2": "Peru",
+      "ground": "Balaídos, Vigo",
+      "sources": {
+        "rsssf": "17:15",
+        "rsssf_date": "1982-06-18",
+        "fifa_archive": "17:15",
+        "fifa_archive_date": "1982-06-18",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "17:15",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "994",
+      "fifa_match_number": 13
+    },
+    {
+      "date": "1982-06-19",
+      "team1": "Poland",
+      "team2": "Cameroon",
+      "ground": "Estadio de Riazor, A Coruña",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "19:15",
+        "fifa_archive_date": "1982-06-19",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "19:15",
+      "status": "single-source",
+      "date_mismatch": false,
+      "fifa_match_id": "834",
+      "fifa_match_number": 16
+    },
+    {
+      "date": "1982-06-22",
+      "team1": "Poland",
+      "team2": "Peru",
+      "ground": "Estadio de Riazor, A Coruña",
+      "sources": {
+        "rsssf": "17:15",
+        "rsssf_date": "1982-06-22",
+        "fifa_archive": "17:15",
+        "fifa_archive_date": "1982-06-22",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "17:15",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1055",
+      "fifa_match_number": 25
+    },
+    {
+      "date": "1982-06-23",
+      "team1": "Italy",
+      "team2": "Cameroon",
+      "ground": "Balaídos, Vigo",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "17:15",
+        "fifa_archive_date": "1982-06-23",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "17:15",
+      "status": "single-source",
+      "date_mismatch": false,
+      "fifa_match_id": "828",
+      "fifa_match_number": 28
+    },
+    {
+      "date": "1982-06-16",
+      "team1": "West Germany",
+      "team2": "Algeria",
+      "ground": "El Molinón, Gijón",
+      "sources": {
+        "rsssf": "17:15",
+        "rsssf_date": "1982-06-16",
+        "fifa_archive": "17:15",
+        "fifa_archive_date": "1982-06-16",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "17:15",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "741",
+      "fifa_match_number": 7
+    },
+    {
+      "date": "1982-06-17",
+      "team1": "Chile",
+      "team2": "Austria",
+      "ground": "Estadio Carlos Tartiere, Oviedo",
+      "sources": {
+        "rsssf": "17:15",
+        "rsssf_date": "1982-06-17",
+        "fifa_archive": "17:15",
+        "fifa_archive_date": "1982-06-17",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "17:15",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "764",
+      "fifa_match_number": 10
+    },
+    {
+      "date": "1982-06-20",
+      "team1": "West Germany",
+      "team2": "Chile",
+      "ground": "El Molinón, Gijón",
+      "sources": {
+        "rsssf": "17:15",
+        "rsssf_date": "1982-06-20",
+        "fifa_archive": "17:15",
+        "fifa_archive_date": "1982-06-20",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "17:15",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "813",
+      "fifa_match_number": 19
+    },
+    {
+      "date": "1982-06-21",
+      "team1": "Algeria",
+      "team2": "Austria",
+      "ground": "Estadio Carlos Tartiere, Oviedo",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": "1982-06-21",
+        "fifa_archive": "17:15",
+        "fifa_archive_date": "1982-06-21",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "17:15",
+      "status": "single-source",
+      "date_mismatch": false,
+      "fifa_match_id": "739",
+      "fifa_match_number": 22
+    },
+    {
+      "date": "1982-06-24",
+      "team1": "Algeria",
+      "team2": "Chile",
+      "ground": "Estadio Carlos Tartiere, Oviedo",
+      "sources": {
+        "rsssf": "17:15",
+        "rsssf_date": "1982-06-24",
+        "fifa_archive": "17:15",
+        "fifa_archive_date": "1982-06-24",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "17:15",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "740",
+      "fifa_match_number": 31
+    },
+    {
+      "date": "1982-06-25",
+      "team1": "West Germany",
+      "team2": "Austria",
+      "ground": "El Molinón, Gijón",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": "1982-06-25",
+        "fifa_archive": "17:15",
+        "fifa_archive_date": "1982-06-25",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "17:15",
+      "status": "single-source",
+      "date_mismatch": false,
+      "fifa_match_id": "770",
+      "fifa_match_number": 34
+    },
+    {
+      "date": "1982-06-13",
+      "team1": "Argentina",
+      "team2": "Belgium",
+      "ground": "Camp Nou, Barcelona",
+      "sources": {
+        "rsssf": "20:00",
+        "rsssf_date": "1982-06-13",
+        "fifa_archive": "20:00",
+        "fifa_archive_date": "1982-06-13",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "20:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "749",
+      "fifa_match_number": 1
+    },
+    {
+      "date": "1982-06-15",
+      "team1": "Hungary",
+      "team2": "El Salvador",
+      "ground": "Nuevo Estadio, Elche",
+      "sources": {
+        "rsssf": "21:00",
+        "rsssf_date": "1982-06-15",
+        "fifa_archive": "21:00",
+        "fifa_archive_date": "1982-06-15",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "21:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "896",
+      "fifa_match_number": 5
+    },
+    {
+      "date": "1982-06-18",
+      "team1": "Argentina",
+      "team2": "Hungary",
+      "ground": "Estadio José Rico Pérez, Alicante",
+      "sources": {
+        "rsssf": "21:00",
+        "rsssf_date": "1982-06-18",
+        "fifa_archive": "21:00",
+        "fifa_archive_date": "1982-06-18",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "21:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "752",
+      "fifa_match_number": 14
+    },
+    {
+      "date": "1982-06-19",
+      "team1": "Belgium",
+      "team2": "El Salvador",
+      "ground": "Nuevo Estadio, Elche",
+      "sources": {
+        "rsssf": "21:00",
+        "rsssf_date": "1982-06-19",
+        "fifa_archive": "21:00",
+        "fifa_archive_date": "1982-06-19",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "21:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "774",
+      "fifa_match_number": 17
+    },
+    {
+      "date": "1982-06-22",
+      "team1": "Belgium",
+      "team2": "Hungary",
+      "ground": "Nuevo Estadio, Elche",
+      "sources": {
+        "rsssf": "21:00",
+        "rsssf_date": "1982-06-22",
+        "fifa_archive": "21:00",
+        "fifa_archive_date": "1982-06-22",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "21:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "779",
+      "fifa_match_number": 26
+    },
+    {
+      "date": "1982-06-23",
+      "team1": "Argentina",
+      "team2": "El Salvador",
+      "ground": "Estadio José Rico Pérez, Alicante",
+      "sources": {
+        "rsssf": "21:00",
+        "rsssf_date": "1982-06-23",
+        "fifa_archive": "21:00",
+        "fifa_archive_date": "1982-06-23",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "21:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "751",
+      "fifa_match_number": 29
+    },
+    {
+      "date": "1982-06-16",
+      "team1": "England",
+      "team2": "France",
+      "ground": "Estadio San Mamés, Bilbao",
+      "sources": {
+        "rsssf": "17:15",
+        "rsssf_date": "1982-06-16",
+        "fifa_archive": "17:15",
+        "fifa_archive_date": "1982-06-16",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "17:15",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "878",
+      "fifa_match_number": 8
+    },
+    {
+      "date": "1982-06-17",
+      "team1": "Czechoslovakia",
+      "team2": "Kuwait",
+      "ground": "Estadio José Zorrilla, Valladolid",
+      "sources": {
+        "rsssf": "17:15",
+        "rsssf_date": "1982-06-17",
+        "fifa_archive": "17:45",
+        "fifa_archive_date": "1982-06-17",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "17:15",
+      "status": "conflict",
+      "date_mismatch": false,
+      "fifa_match_id": "1012",
+      "fifa_match_number": 11
+    },
+    {
+      "date": "1982-06-20",
+      "team1": "England",
+      "team2": "Czechoslovakia",
+      "ground": "Estadio San Mamés, Bilbao",
+      "sources": {
+        "rsssf": "17:15",
+        "rsssf_date": "1982-06-20",
+        "fifa_archive": "17:15",
+        "fifa_archive_date": "1982-06-20",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "17:15",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "889",
+      "fifa_match_number": 20
+    },
+    {
+      "date": "1982-06-21",
+      "team1": "France",
+      "team2": "Kuwait",
+      "ground": "Estadio José Zorrilla, Valladolid",
+      "sources": {
+        "rsssf": "17:15",
+        "rsssf_date": "1982-06-21",
+        "fifa_archive": "17:15",
+        "fifa_archive_date": "1982-06-21",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "17:15",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "919",
+      "fifa_match_number": 23
+    },
+    {
+      "date": "1982-06-24",
+      "team1": "France",
+      "team2": "Czechoslovakia",
+      "ground": "Estadio José Zorrilla, Valladolid",
+      "sources": {
+        "rsssf": "17:15",
+        "rsssf_date": "1982-06-24",
+        "fifa_archive": "17:15",
+        "fifa_archive_date": "1982-06-24",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "17:15",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "922",
+      "fifa_match_number": 32
+    },
+    {
+      "date": "1982-06-25",
+      "team1": "England",
+      "team2": "Kuwait",
+      "ground": "Estadio San Mamés, Bilbao",
+      "sources": {
+        "rsssf": "17:15",
+        "rsssf_date": "1982-06-25",
+        "fifa_archive": "17:15",
+        "fifa_archive_date": "1982-06-25",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "17:15",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "882",
+      "fifa_match_number": 35
+    },
+    {
+      "date": "1982-06-16",
+      "team1": "Spain",
+      "team2": "Honduras",
+      "ground": "Estadio Luis Casanova, Valencia",
+      "sources": {
+        "rsssf": "21:00",
+        "rsssf_date": "1982-06-16",
+        "fifa_archive": "21:00",
+        "fifa_archive_date": "1982-06-16",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "21:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "901",
+      "fifa_match_number": 9
+    },
+    {
+      "date": "1982-06-17",
+      "team1": "Yugoslavia",
+      "team2": "Northern Ireland",
+      "ground": "La Romareda, Zaragoza",
+      "sources": {
+        "rsssf": "21:00",
+        "rsssf_date": "1982-06-17",
+        "fifa_archive": "21:00",
+        "fifa_archive_date": "1982-06-17",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "21:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1044",
+      "fifa_match_number": 12
+    },
+    {
+      "date": "1982-06-20",
+      "team1": "Spain",
+      "team2": "Yugoslavia",
+      "ground": "Estadio Luis Casanova, Valencia",
+      "sources": {
+        "rsssf": "21:00",
+        "rsssf_date": "1982-06-20",
+        "fifa_archive": "21:00",
+        "fifa_archive_date": "1982-06-20",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "21:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "903",
+      "fifa_match_number": 21
+    },
+    {
+      "date": "1982-06-21",
+      "team1": "Honduras",
+      "team2": "Northern Ireland",
+      "ground": "La Romareda, Zaragoza",
+      "sources": {
+        "rsssf": "21:00",
+        "rsssf_date": "1982-06-21",
+        "fifa_archive": "21:00",
+        "fifa_archive_date": "1982-06-21",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "21:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "959",
+      "fifa_match_number": 24
+    },
+    {
+      "date": "1982-06-24",
+      "team1": "Honduras",
+      "team2": "Yugoslavia",
+      "ground": "La Romareda, Zaragoza",
+      "sources": {
+        "rsssf": "21:00",
+        "rsssf_date": "1982-06-24",
+        "fifa_archive": "21:00",
+        "fifa_archive_date": "1982-06-24",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "21:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "962",
+      "fifa_match_number": 33
+    },
+    {
+      "date": "1982-06-25",
+      "team1": "Spain",
+      "team2": "Northern Ireland",
+      "ground": "Estadio Luis Casanova, Valencia",
+      "sources": {
+        "rsssf": "21:00",
+        "rsssf_date": "1982-06-25",
+        "fifa_archive": "21:00",
+        "fifa_archive_date": "1982-06-25",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "21:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "902",
+      "fifa_match_number": 36
+    },
+    {
+      "date": "1982-06-14",
+      "team1": "Brazil",
+      "team2": "Soviet Union",
+      "ground": "Estadio Ramón Sánchez Pizjuán, Seville",
+      "sources": {
+        "rsssf": "21:00",
+        "rsssf_date": "1982-06-14",
+        "fifa_archive": "21:00",
+        "fifa_archive_date": "1982-06-14",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "21:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "791",
+      "fifa_match_number": 3
+    },
+    {
+      "date": "1982-06-15",
+      "team1": "Scotland",
+      "team2": "New Zealand",
+      "ground": "Estadio La Rosaleda, Málaga",
+      "sources": {
+        "rsssf": "21:00",
+        "rsssf_date": "1982-06-15",
+        "fifa_archive": "21:00",
+        "fifa_archive_date": "1982-06-15",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "21:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1051",
+      "fifa_match_number": 6
+    },
+    {
+      "date": "1982-06-18",
+      "team1": "Brazil",
+      "team2": "Scotland",
+      "ground": "Estadio Benito Villamarín, Seville",
+      "sources": {
+        "rsssf": "21:00",
+        "rsssf_date": "1982-06-18",
+        "fifa_archive": "21:00",
+        "fifa_archive_date": "1982-06-18",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "21:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "790",
+      "fifa_match_number": 15
+    },
+    {
+      "date": "1982-06-19",
+      "team1": "Soviet Union",
+      "team2": "New Zealand",
+      "ground": "Estadio La Rosaleda, Málaga",
+      "sources": {
+        "rsssf": "21:00",
+        "rsssf_date": "1982-06-19",
+        "fifa_archive": "21:00",
+        "fifa_archive_date": "1982-06-19",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "21:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1054",
+      "fifa_match_number": 18
+    },
+    {
+      "date": "1982-06-22",
+      "team1": "Soviet Union",
+      "team2": "Scotland",
+      "ground": "Estadio La Rosaleda, Málaga",
+      "sources": {
+        "rsssf": "21:00",
+        "rsssf_date": "1982-06-22",
+        "fifa_archive": "21:00",
+        "fifa_archive_date": "1982-06-22",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "21:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1071",
+      "fifa_match_number": 27
+    },
+    {
+      "date": "1982-06-23",
+      "team1": "Brazil",
+      "team2": "New Zealand",
+      "ground": "Estadio Benito Villamarín, Seville",
+      "sources": {
+        "rsssf": "21:00",
+        "rsssf_date": "1982-06-23",
+        "fifa_archive": "21:00",
+        "fifa_archive_date": "1982-06-23",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "21:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "789",
+      "fifa_match_number": 30
+    },
+    {
+      "date": "1982-06-28",
+      "team1": "Poland",
+      "team2": "Belgium",
+      "ground": "Camp Nou, Barcelona",
+      "sources": {
+        "rsssf": "21:00",
+        "rsssf_date": "1982-06-28",
+        "fifa_archive": "21:00",
+        "fifa_archive_date": "1982-06-28",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "21:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "782",
+      "fifa_match_number": 38
+    },
+    {
+      "date": "1982-07-01",
+      "team1": "Belgium",
+      "team2": "Soviet Union",
+      "ground": "Camp Nou, Barcelona",
+      "sources": {
+        "rsssf": "21:00",
+        "rsssf_date": "1982-07-01",
+        "fifa_archive": "21:00",
+        "fifa_archive_date": "1982-07-01",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "21:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "783",
+      "fifa_match_number": 42
+    },
+    {
+      "date": "1982-07-04",
+      "team1": "Soviet Union",
+      "team2": "Poland",
+      "ground": "Camp Nou, Barcelona",
+      "sources": {
+        "rsssf": "21:00",
+        "rsssf_date": "1982-07-04",
+        "fifa_archive": "21:00",
+        "fifa_archive_date": "1982-07-04",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "21:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1058",
+      "fifa_match_number": 46
+    },
+    {
+      "date": "1982-06-29",
+      "team1": "West Germany",
+      "team2": "England",
+      "ground": "Estadio Santiago Bernabéu, Madrid",
+      "sources": {
+        "rsssf": "21:00",
+        "rsssf_date": "1982-06-29",
+        "fifa_archive": "21:00",
+        "fifa_archive_date": "1982-06-29",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "21:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "879",
+      "fifa_match_number": 40
+    },
+    {
+      "date": "1982-07-02",
+      "team1": "West Germany",
+      "team2": "Spain",
+      "ground": "Estadio Santiago Bernabéu, Madrid",
+      "sources": {
+        "rsssf": "21:00",
+        "rsssf_date": "1982-07-02",
+        "fifa_archive": "21:00",
+        "fifa_archive_date": "1982-07-02",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "21:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "900",
+      "fifa_match_number": 44
+    },
+    {
+      "date": "1982-07-05",
+      "team1": "Spain",
+      "team2": "England",
+      "ground": "Estadio Santiago Bernabéu, Madrid",
+      "sources": {
+        "rsssf": "21:00",
+        "rsssf_date": "1982-07-05",
+        "fifa_archive": "21:00",
+        "fifa_archive_date": "1982-07-05",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "21:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "877",
+      "fifa_match_number": 48
+    },
+    {
+      "date": "1982-06-29",
+      "team1": "Italy",
+      "team2": "Argentina",
+      "ground": "Estadio Sarriá, Barcelona",
+      "sources": {
+        "rsssf": "17:15",
+        "rsssf_date": "1982-06-29",
+        "fifa_archive": "17:15",
+        "fifa_archive_date": "1982-06-29",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "17:15",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "753",
+      "fifa_match_number": 39
+    },
+    {
+      "date": "1982-07-02",
+      "team1": "Argentina",
+      "team2": "Brazil",
+      "ground": "Estadio Sarriá, Barcelona",
+      "sources": {
+        "rsssf": "17:15",
+        "rsssf_date": "1982-07-02",
+        "fifa_archive": "17:15",
+        "fifa_archive_date": "1982-07-02",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "17:15",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "750",
+      "fifa_match_number": 43
+    },
+    {
+      "date": "1982-07-05",
+      "team1": "Italy",
+      "team2": "Brazil",
+      "ground": "Estadio Sarriá, Barcelona",
+      "sources": {
+        "rsssf": "17:15",
+        "rsssf_date": "1982-07-05",
+        "fifa_archive": "17:15",
+        "fifa_archive_date": "1982-07-05",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "17:15",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "788",
+      "fifa_match_number": 47
+    },
+    {
+      "date": "1982-06-28",
+      "team1": "Austria",
+      "team2": "France",
+      "ground": "Estadio Vicente Calderón, Madrid",
+      "sources": {
+        "rsssf": "17:15",
+        "rsssf_date": "1982-06-28",
+        "fifa_archive": "17:15",
+        "fifa_archive_date": "1982-06-28",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "17:15",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "767",
+      "fifa_match_number": 37
+    },
+    {
+      "date": "1982-07-01",
+      "team1": "Austria",
+      "team2": "Northern Ireland",
+      "ground": "Estadio Vicente Calderón, Madrid",
+      "sources": {
+        "rsssf": "17:15",
+        "rsssf_date": "1982-07-01",
+        "fifa_archive": "17:15",
+        "fifa_archive_date": "1982-07-01",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "17:15",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "771",
+      "fifa_match_number": 41
+    },
+    {
+      "date": "1982-07-04",
+      "team1": "Northern Ireland",
+      "team2": "France",
+      "ground": "Estadio Vicente Calderón, Madrid",
+      "sources": {
+        "rsssf": "17:15",
+        "rsssf_date": "1982-07-04",
+        "fifa_archive": "17:15",
+        "fifa_archive_date": "1982-07-04",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "17:15",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "920",
+      "fifa_match_number": 45
+    },
+    {
+      "date": "1982-07-08",
+      "team1": "Poland",
+      "team2": "Italy",
+      "ground": "Camp Nou, Barcelona",
+      "sources": {
+        "rsssf": "17:15",
+        "rsssf_date": "1982-07-08",
+        "fifa_archive": "17:15",
+        "fifa_archive_date": "1982-07-08",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "17:15",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "996",
+      "fifa_match_number": 49
+    },
+    {
+      "date": "1982-07-08",
+      "team1": "West Germany",
+      "team2": "France",
+      "ground": "Estadio Ramón Sánchez Pizjuán, Seville",
+      "sources": {
+        "rsssf": "21:00",
+        "rsssf_date": "1982-07-08",
+        "fifa_archive": "21:00",
+        "fifa_archive_date": "1982-07-08",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "21:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "914",
+      "fifa_match_number": 50
+    },
+    {
+      "date": "1982-07-10",
+      "team1": "Poland",
+      "team2": "France",
+      "ground": "Estadio José Rico Pérez, Alicante",
+      "sources": {
+        "rsssf": "20:00",
+        "rsssf_date": "1982-07-10",
+        "fifa_archive": "20:00",
+        "fifa_archive_date": "1982-07-10",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "20:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "921",
+      "fifa_match_number": 51
+    },
+    {
+      "date": "1982-07-11",
+      "team1": "Italy",
+      "team2": "West Germany",
+      "ground": "Estadio Santiago Bernabéu",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": "1982-07-11",
+        "fifa_archive": "20:00",
+        "fifa_archive_date": "1982-07-11",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "20:00",
+      "status": "single-source",
+      "date_mismatch": false,
+      "fifa_match_id": "923",
+      "fifa_match_number": 52
+    }
+  ]
+}

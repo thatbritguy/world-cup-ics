@@ -1,0 +1,743 @@
+{
+  "year": 1974,
+  "allowed_world_cup": true,
+  "host_timezone": "Europe/Berlin",
+  "source_availability": {
+    "openfootball": true,
+    "rsssf_full": true,
+    "fifa_archive": true
+  },
+  "match_count": 38,
+  "status_counts": {
+    "conflict": 7,
+    "corroborated": 29,
+    "single-source": 2
+  },
+  "existing_calendar_status": null,
+  "source_issues_resolved_in_enrichment": false,
+  "requires_review": true,
+  "matches": [
+    {
+      "date": "1974-06-14",
+      "team1": "West Germany",
+      "team2": "Chile",
+      "ground": "Olympiastadion, West Berlin",
+      "sources": {
+        "rsssf": "16:30",
+        "rsssf_date": "1974-06-14",
+        "fifa_archive": "16:00",
+        "fifa_archive_date": "1974-06-14",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "16:30",
+      "status": "conflict",
+      "date_mismatch": false,
+      "fifa_match_id": "2003",
+      "fifa_match_number": 1
+    },
+    {
+      "date": "1974-06-14",
+      "team1": "East Germany",
+      "team2": "Australia",
+      "ground": "Volksparkstadion, Hamburg",
+      "sources": {
+        "rsssf": "19:30",
+        "rsssf_date": "1974-06-14",
+        "fifa_archive": "19:30",
+        "fifa_archive_date": "1974-06-14",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "19:30",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1955",
+      "fifa_match_number": 2
+    },
+    {
+      "date": "1974-06-18",
+      "team1": "Chile",
+      "team2": "East Germany",
+      "ground": "Olympiastadion, West Berlin",
+      "sources": {
+        "rsssf": "19:30",
+        "rsssf_date": "1974-06-18",
+        "fifa_archive": "19:30",
+        "fifa_archive_date": "1974-06-18",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "19:30",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "2004",
+      "fifa_match_number": 9
+    },
+    {
+      "date": "1974-06-18",
+      "team1": "Australia",
+      "team2": "West Germany",
+      "ground": "Volksparkstadion, Hamburg",
+      "sources": {
+        "rsssf": "16:00",
+        "rsssf_date": "1974-06-18",
+        "fifa_archive": "16:00",
+        "fifa_archive_date": "1974-06-18",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "16:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1954",
+      "fifa_match_number": 10
+    },
+    {
+      "date": "1974-06-22",
+      "team1": "Australia",
+      "team2": "Chile",
+      "ground": "Olympiastadion, West Berlin",
+      "sources": {
+        "rsssf": "16:00",
+        "rsssf_date": "1974-06-22",
+        "fifa_archive": "16:00",
+        "fifa_archive_date": "1974-06-22",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "16:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1953",
+      "fifa_match_number": 17
+    },
+    {
+      "date": "1974-06-22",
+      "team1": "East Germany",
+      "team2": "West Germany",
+      "ground": "Volksparkstadion, Hamburg",
+      "sources": {
+        "rsssf": "19:30",
+        "rsssf_date": "1974-06-22",
+        "fifa_archive": "19:30",
+        "fifa_archive_date": "1974-06-22",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "19:30",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "2062",
+      "fifa_match_number": 18
+    },
+    {
+      "date": "1974-06-13",
+      "team1": "Brazil",
+      "team2": "Yugoslavia",
+      "ground": "Waldstadion, Frankfurt",
+      "sources": {
+        "rsssf": "17:00",
+        "rsssf_date": "1974-06-13",
+        "fifa_archive": "17:00",
+        "fifa_archive_date": "1974-06-13",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "17:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1986",
+      "fifa_match_number": 3
+    },
+    {
+      "date": "1974-06-14",
+      "team1": "Zaire",
+      "team2": "Scotland",
+      "ground": "Westfalenstadion, Dortmund",
+      "sources": {
+        "rsssf": "19:30",
+        "rsssf_date": "1974-06-14",
+        "fifa_archive": "19:30",
+        "fifa_archive_date": "1974-06-14",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "19:30",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "2176",
+      "fifa_match_number": 4
+    },
+    {
+      "date": "1974-06-18",
+      "team1": "Yugoslavia",
+      "team2": "Zaire",
+      "ground": "Parkstadion, Gelsenkirchen",
+      "sources": {
+        "rsssf": "19:30",
+        "rsssf_date": "1974-06-18",
+        "fifa_archive": "19:30",
+        "fifa_archive_date": "1974-06-18",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "19:30",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "2186",
+      "fifa_match_number": 11
+    },
+    {
+      "date": "1974-06-18",
+      "team1": "Scotland",
+      "team2": "Brazil",
+      "ground": "Waldstadion, Frankfurt",
+      "sources": {
+        "rsssf": "19:30",
+        "rsssf_date": "1974-06-18",
+        "fifa_archive": "19:30",
+        "fifa_archive_date": "1974-06-18",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "19:30",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1985",
+      "fifa_match_number": 12
+    },
+    {
+      "date": "1974-06-22",
+      "team1": "Scotland",
+      "team2": "Yugoslavia",
+      "ground": "Waldstadion, Frankfurt",
+      "sources": {
+        "rsssf": "18:00",
+        "rsssf_date": "1974-06-22",
+        "fifa_archive": "16:00",
+        "fifa_archive_date": "1974-06-22",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "18:00",
+      "status": "conflict",
+      "date_mismatch": false,
+      "fifa_match_id": "2175",
+      "fifa_match_number": 19
+    },
+    {
+      "date": "1974-06-22",
+      "team1": "Zaire",
+      "team2": "Brazil",
+      "ground": "Parkstadion, Gelsenkirchen",
+      "sources": {
+        "rsssf": "18:00",
+        "rsssf_date": "1974-06-22",
+        "fifa_archive": "16:00",
+        "fifa_archive_date": "1974-06-22",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "18:00",
+      "status": "conflict",
+      "date_mismatch": false,
+      "fifa_match_id": "1987",
+      "fifa_match_number": 20
+    },
+    {
+      "date": "1974-06-15",
+      "team1": "Uruguay",
+      "team2": "Netherlands",
+      "ground": "Niedersachsenstadion, Hanover",
+      "sources": {
+        "rsssf": "18:00",
+        "rsssf_date": "1974-06-15",
+        "fifa_archive": "16:00",
+        "fifa_archive_date": "1974-06-15",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "18:00",
+      "status": "conflict",
+      "date_mismatch": false,
+      "fifa_match_id": "2098",
+      "fifa_match_number": 5
+    },
+    {
+      "date": "1974-06-15",
+      "team1": "Sweden",
+      "team2": "Bulgaria",
+      "ground": "Rheinstadion, Düsseldorf",
+      "sources": {
+        "rsssf": "16:00",
+        "rsssf_date": "1974-06-15",
+        "fifa_archive": "16:00",
+        "fifa_archive_date": "1974-06-15",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "16:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1995",
+      "fifa_match_number": 6
+    },
+    {
+      "date": "1974-06-19",
+      "team1": "Netherlands",
+      "team2": "Sweden",
+      "ground": "Westfalenstadion, Dortmund",
+      "sources": {
+        "rsssf": "19:30",
+        "rsssf_date": "1974-06-19",
+        "fifa_archive": "19:30",
+        "fifa_archive_date": "1974-06-19",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "19:30",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "2097",
+      "fifa_match_number": 13
+    },
+    {
+      "date": "1974-06-19",
+      "team1": "Uruguay",
+      "team2": "Bulgaria",
+      "ground": "Niedersachsenstadion, Hanover",
+      "sources": {
+        "rsssf": "19:30",
+        "rsssf_date": "1974-06-19",
+        "fifa_archive": "19:30",
+        "fifa_archive_date": "1974-06-19",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "19:30",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1996",
+      "fifa_match_number": 14
+    },
+    {
+      "date": "1974-06-23",
+      "team1": "Netherlands",
+      "team2": "Bulgaria",
+      "ground": "Westfalenstadion, Dortmund",
+      "sources": {
+        "rsssf": "16:00",
+        "rsssf_date": "1974-06-23",
+        "fifa_archive": "16:00",
+        "fifa_archive_date": "1974-06-23",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "16:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1990",
+      "fifa_match_number": 21
+    },
+    {
+      "date": "1974-06-23",
+      "team1": "Sweden",
+      "team2": "Uruguay",
+      "ground": "Rheinstadion, Düsseldorf",
+      "sources": {
+        "rsssf": "16:00",
+        "rsssf_date": "1974-06-23",
+        "fifa_archive": "16:00",
+        "fifa_archive_date": "1974-06-23",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "16:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "2181",
+      "fifa_match_number": 22
+    },
+    {
+      "date": "1974-06-15",
+      "team1": "Italy",
+      "team2": "Haiti",
+      "ground": "Olympiastadion, München",
+      "sources": {
+        "rsssf": "18:00",
+        "rsssf_date": "1974-06-15",
+        "fifa_archive": "18:00",
+        "fifa_archive_date": "1974-06-15",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "18:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "2083",
+      "fifa_match_number": 7
+    },
+    {
+      "date": "1974-06-15",
+      "team1": "Poland",
+      "team2": "Argentina",
+      "ground": "Neckarstadion, Stuttgart",
+      "sources": {
+        "rsssf": "18:00",
+        "rsssf_date": "1974-06-15",
+        "fifa_archive": "18:00",
+        "fifa_archive_date": "1974-06-15",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "18:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1952",
+      "fifa_match_number": 8
+    },
+    {
+      "date": "1974-06-19",
+      "team1": "Haiti",
+      "team2": "Poland",
+      "ground": "Olympiastadion, München",
+      "sources": {
+        "rsssf": "19:30",
+        "rsssf_date": "1974-06-19",
+        "fifa_archive": "19:30",
+        "fifa_archive_date": "1974-06-19",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "19:30",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "2085",
+      "fifa_match_number": 15
+    },
+    {
+      "date": "1974-06-19",
+      "team1": "Argentina",
+      "team2": "Italy",
+      "ground": "Neckarstadion, Stuttgart",
+      "sources": {
+        "rsssf": "19:30",
+        "rsssf_date": "1974-06-19",
+        "fifa_archive": "19:30",
+        "fifa_archive_date": "1974-06-19",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "19:30",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1949",
+      "fifa_match_number": 16
+    },
+    {
+      "date": "1974-06-23",
+      "team1": "Argentina",
+      "team2": "Haiti",
+      "ground": "Olympiastadion, München",
+      "sources": {
+        "rsssf": "16:00",
+        "rsssf_date": "1974-06-23",
+        "fifa_archive": "16:00",
+        "fifa_archive_date": "1974-06-23",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "16:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1947",
+      "fifa_match_number": 23
+    },
+    {
+      "date": "1974-06-23",
+      "team1": "Poland",
+      "team2": "Italy",
+      "ground": "Neckarstadion, Stuttgart",
+      "sources": {
+        "rsssf": "16:00",
+        "rsssf_date": "1974-06-23",
+        "fifa_archive": "16:00",
+        "fifa_archive_date": "1974-06-23",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "16:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "2129",
+      "fifa_match_number": 24
+    },
+    {
+      "date": "1974-06-26",
+      "team1": "Brazil",
+      "team2": "East Germany",
+      "ground": "Niedersachsenstadion, Hanover",
+      "sources": {
+        "rsssf": "19:30",
+        "rsssf_date": "1974-06-26",
+        "fifa_archive": "19:30",
+        "fifa_archive_date": "1974-06-26",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "19:30",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1982",
+      "fifa_match_number": 25
+    },
+    {
+      "date": "1974-06-26",
+      "team1": "Netherlands",
+      "team2": "Argentina",
+      "ground": "Parkstadion, Gelsenkirchen",
+      "sources": {
+        "rsssf": "19:30",
+        "rsssf_date": "1974-06-22",
+        "fifa_archive": "19:30",
+        "fifa_archive_date": "1974-06-26",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "19:30",
+      "status": "corroborated",
+      "date_mismatch": true,
+      "fifa_match_id": "1948",
+      "fifa_match_number": 26
+    },
+    {
+      "date": "1974-06-30",
+      "team1": "East Germany",
+      "team2": "Netherlands",
+      "ground": "Parkstadion, Gelsenkirchen",
+      "sources": {
+        "rsssf": "16:00",
+        "rsssf_date": "1974-06-30",
+        "fifa_archive": "16:00",
+        "fifa_archive_date": "1974-06-30",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "16:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "2067",
+      "fifa_match_number": 29
+    },
+    {
+      "date": "1974-06-30",
+      "team1": "Argentina",
+      "team2": "Brazil",
+      "ground": "Niedersachsenstadion, Hanover",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": "1974-06-30",
+        "fifa_archive": "16:00",
+        "fifa_archive_date": "1974-06-30",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "16:00",
+      "status": "single-source",
+      "date_mismatch": false,
+      "fifa_match_id": "1945",
+      "fifa_match_number": 30
+    },
+    {
+      "date": "1974-07-03",
+      "team1": "Argentina",
+      "team2": "East Germany",
+      "ground": "Parkstadion, Gelsenkirchen",
+      "sources": {
+        "rsssf": "19:30",
+        "rsssf_date": "1974-07-03",
+        "fifa_archive": "19:30",
+        "fifa_archive_date": "1974-07-03",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "19:30",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1946",
+      "fifa_match_number": 33
+    },
+    {
+      "date": "1974-07-03",
+      "team1": "Netherlands",
+      "team2": "Brazil",
+      "ground": "Westfalenstadion, Dortmund",
+      "sources": {
+        "rsssf": "19:30",
+        "rsssf_date": "1974-07-03",
+        "fifa_archive": "19:30",
+        "fifa_archive_date": "1974-07-03",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "19:30",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1983",
+      "fifa_match_number": 34
+    },
+    {
+      "date": "1974-06-26",
+      "team1": "Yugoslavia",
+      "team2": "West Germany",
+      "ground": "Rheinstadion, Düsseldorf",
+      "sources": {
+        "rsssf": "18:00",
+        "rsssf_date": "1974-06-26",
+        "fifa_archive": "16:00",
+        "fifa_archive_date": "1974-06-26",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "18:00",
+      "status": "conflict",
+      "date_mismatch": false,
+      "fifa_match_id": "2066",
+      "fifa_match_number": 27
+    },
+    {
+      "date": "1974-06-26",
+      "team1": "Sweden",
+      "team2": "Poland",
+      "ground": "Neckarstadion, Stuttgart",
+      "sources": {
+        "rsssf": "19:30",
+        "rsssf_date": "1974-06-26",
+        "fifa_archive": "19:30",
+        "fifa_archive_date": "1974-06-26",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "19:30",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "2167",
+      "fifa_match_number": 28
+    },
+    {
+      "date": "1974-06-30",
+      "team1": "West Germany",
+      "team2": "Sweden",
+      "ground": "Rheinstadion, Düsseldorf",
+      "sources": {
+        "rsssf": "19:30",
+        "rsssf_date": "1974-06-30",
+        "fifa_archive": "19:30",
+        "fifa_archive_date": "1974-06-30",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "19:30",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "2065",
+      "fifa_match_number": 31
+    },
+    {
+      "date": "1974-06-30",
+      "team1": "Poland",
+      "team2": "Yugoslavia",
+      "ground": "Waldstadion, Frankfurt",
+      "sources": {
+        "rsssf": "18:00",
+        "rsssf_date": "1974-06-30",
+        "fifa_archive": "16:00",
+        "fifa_archive_date": "1974-06-30",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "18:00",
+      "status": "conflict",
+      "date_mismatch": false,
+      "fifa_match_id": "2170",
+      "fifa_match_number": 32
+    },
+    {
+      "date": "1974-07-03",
+      "team1": "Poland",
+      "team2": "West Germany",
+      "ground": "Waldstadion, Frankfurt",
+      "sources": {
+        "rsssf": "16:30",
+        "rsssf_date": "1974-07-03",
+        "fifa_archive": "17:00",
+        "fifa_archive_date": "1974-07-03",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "16:30",
+      "status": "conflict",
+      "date_mismatch": false,
+      "fifa_match_id": "2064",
+      "fifa_match_number": 35
+    },
+    {
+      "date": "1974-07-03",
+      "team1": "Sweden",
+      "team2": "Yugoslavia",
+      "ground": "Rheinstadion, Düsseldorf",
+      "sources": {
+        "rsssf": "19:30",
+        "rsssf_date": "1974-07-03",
+        "fifa_archive": "19:30",
+        "fifa_archive_date": "1974-07-03",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "19:30",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "2182",
+      "fifa_match_number": 36
+    },
+    {
+      "date": "1974-07-06",
+      "team1": "Brazil",
+      "team2": "Poland",
+      "ground": "Olympiastadion, München",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "16:00",
+        "fifa_archive_date": "1974-07-06",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "16:00",
+      "status": "single-source",
+      "date_mismatch": false,
+      "fifa_match_id": "1984",
+      "fifa_match_number": 37
+    },
+    {
+      "date": "1974-07-07",
+      "team1": "Netherlands",
+      "team2": "West Germany",
+      "ground": "Olympiastadion, München",
+      "sources": {
+        "rsssf": "16:00",
+        "rsssf_date": "1974-07-07",
+        "fifa_archive": "16:00",
+        "fifa_archive_date": "1974-07-07",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "16:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "2063",
+      "fifa_match_number": 38
+    }
+  ]
+}

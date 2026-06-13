@@ -1,0 +1,628 @@
+{
+  "year": 1970,
+  "allowed_world_cup": true,
+  "host_timezone": "America/Mexico_City",
+  "source_availability": {
+    "openfootball": true,
+    "rsssf_full": true,
+    "fifa_archive": true
+  },
+  "match_count": 32,
+  "status_counts": {
+    "conflict": 1,
+    "corroborated": 31
+  },
+  "existing_calendar_status": null,
+  "source_issues_resolved_in_enrichment": false,
+  "requires_review": true,
+  "matches": [
+    {
+      "date": "1970-05-31",
+      "team1": "Mexico",
+      "team2": "Soviet Union",
+      "ground": "Estadio Azteca, Mexico City",
+      "sources": {
+        "rsssf": "12:00",
+        "rsssf_date": "1970-05-31",
+        "fifa_archive": "12:00",
+        "fifa_archive_date": "1970-05-31",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "12:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1902",
+      "fifa_match_number": 1
+    },
+    {
+      "date": "1970-06-03",
+      "team1": "Belgium",
+      "team2": "El Salvador",
+      "ground": "Estadio Azteca, Mexico City",
+      "sources": {
+        "rsssf": "16:00",
+        "rsssf_date": "1970-06-03",
+        "fifa_archive": "16:00",
+        "fifa_archive_date": "1970-06-03",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "16:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1747",
+      "fifa_match_number": 5
+    },
+    {
+      "date": "1970-06-06",
+      "team1": "Soviet Union",
+      "team2": "Belgium",
+      "ground": "Estadio Azteca, Mexico City",
+      "sources": {
+        "rsssf": "16:00",
+        "rsssf_date": "1970-06-06",
+        "fifa_archive": "16:00",
+        "fifa_archive_date": "1970-06-06",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "16:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1753",
+      "fifa_match_number": 9
+    },
+    {
+      "date": "1970-06-07",
+      "team1": "Mexico",
+      "team2": "El Salvador",
+      "ground": "Estadio Azteca, Mexico City",
+      "sources": {
+        "rsssf": "12:00",
+        "rsssf_date": "1970-06-07",
+        "fifa_archive": "12:00",
+        "fifa_archive_date": "1970-06-07",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "12:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1820",
+      "fifa_match_number": 13
+    },
+    {
+      "date": "1970-06-10",
+      "team1": "Soviet Union",
+      "team2": "El Salvador",
+      "ground": "Estadio Azteca, Mexico City",
+      "sources": {
+        "rsssf": "16:00",
+        "rsssf_date": "1970-06-10",
+        "fifa_archive": "16:00",
+        "fifa_archive_date": "1970-06-10",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "16:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1823",
+      "fifa_match_number": 17
+    },
+    {
+      "date": "1970-06-11",
+      "team1": "Mexico",
+      "team2": "Belgium",
+      "ground": "Estadio Azteca, Mexico City",
+      "sources": {
+        "rsssf": "16:00",
+        "rsssf_date": "1970-06-11",
+        "fifa_archive": "16:00",
+        "fifa_archive_date": "1970-06-11",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "16:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1752",
+      "fifa_match_number": 21
+    },
+    {
+      "date": "1970-06-02",
+      "team1": "Uruguay",
+      "team2": "Israel",
+      "ground": "Estadio Cuauhtémoc, Puebla",
+      "sources": {
+        "rsssf": "16:09",
+        "rsssf_date": "1970-06-02",
+        "fifa_archive": "16:00",
+        "fifa_archive_date": "1970-06-02",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "16:09",
+      "status": "conflict",
+      "date_mismatch": false,
+      "fifa_match_id": "1881",
+      "fifa_match_number": 2
+    },
+    {
+      "date": "1970-06-03",
+      "team1": "Italy",
+      "team2": "Sweden",
+      "ground": "Estadio Luis Dosal, Toluca",
+      "sources": {
+        "rsssf": "16:00",
+        "rsssf_date": "1970-06-03",
+        "fifa_archive": "16:00",
+        "fifa_archive_date": "1970-06-03",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "16:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1883",
+      "fifa_match_number": 6
+    },
+    {
+      "date": "1970-06-06",
+      "team1": "Uruguay",
+      "team2": "Italy",
+      "ground": "Estadio Cuauhtémoc, Puebla",
+      "sources": {
+        "rsssf": "16:00",
+        "rsssf_date": "1970-06-06",
+        "fifa_archive": "16:00",
+        "fifa_archive_date": "1970-06-06",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "16:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1884",
+      "fifa_match_number": 10
+    },
+    {
+      "date": "1970-06-07",
+      "team1": "Sweden",
+      "team2": "Israel",
+      "ground": "Estadio Luis Dosal, Toluca",
+      "sources": {
+        "rsssf": "12:00",
+        "rsssf_date": "1970-06-07",
+        "fifa_archive": "12:00",
+        "fifa_archive_date": "1970-06-07",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "12:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1880",
+      "fifa_match_number": 14
+    },
+    {
+      "date": "1970-06-10",
+      "team1": "Uruguay",
+      "team2": "Sweden",
+      "ground": "Estadio Cuauhtémoc, Puebla",
+      "sources": {
+        "rsssf": "16:00",
+        "rsssf_date": "1970-06-10",
+        "fifa_archive": "16:00",
+        "fifa_archive_date": "1970-06-10",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "16:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1922",
+      "fifa_match_number": 18
+    },
+    {
+      "date": "1970-06-11",
+      "team1": "Israel",
+      "team2": "Italy",
+      "ground": "Estadio Luis Dosal, Toluca",
+      "sources": {
+        "rsssf": "16:00",
+        "rsssf_date": "1970-06-11",
+        "fifa_archive": "16:00",
+        "fifa_archive_date": "1970-06-11",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "16:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1877",
+      "fifa_match_number": 22
+    },
+    {
+      "date": "1970-06-02",
+      "team1": "Romania",
+      "team2": "England",
+      "ground": "Estadio Jalisco, Guadalajara",
+      "sources": {
+        "rsssf": "16:00",
+        "rsssf_date": "1970-06-02",
+        "fifa_archive": "16:00",
+        "fifa_archive_date": "1970-06-02",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "16:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1812",
+      "fifa_match_number": 3
+    },
+    {
+      "date": "1970-06-03",
+      "team1": "Czechoslovakia",
+      "team2": "Brazil",
+      "ground": "Estadio Jalisco, Guadalajara",
+      "sources": {
+        "rsssf": "16:00",
+        "rsssf_date": "1970-06-03",
+        "fifa_archive": "16:00",
+        "fifa_archive_date": "1970-06-03",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "16:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1770",
+      "fifa_match_number": 7
+    },
+    {
+      "date": "1970-06-06",
+      "team1": "Romania",
+      "team2": "Czechoslovakia",
+      "ground": "Estadio Jalisco, Guadalajara",
+      "sources": {
+        "rsssf": "16:00",
+        "rsssf_date": "1970-06-06",
+        "fifa_archive": "16:00",
+        "fifa_archive_date": "1970-06-06",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "16:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1919",
+      "fifa_match_number": 11
+    },
+    {
+      "date": "1970-06-07",
+      "team1": "England",
+      "team2": "Brazil",
+      "ground": "Estadio Jalisco, Guadalajara",
+      "sources": {
+        "rsssf": "12:00",
+        "rsssf_date": "1970-06-07",
+        "fifa_archive": "12:00",
+        "fifa_archive_date": "1970-06-07",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "12:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1764",
+      "fifa_match_number": 15
+    },
+    {
+      "date": "1970-06-10",
+      "team1": "Romania",
+      "team2": "Brazil",
+      "ground": "Estadio Jalisco, Guadalajara",
+      "sources": {
+        "rsssf": "16:00",
+        "rsssf_date": "1970-06-10",
+        "fifa_archive": "16:00",
+        "fifa_archive_date": "1970-06-10",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "16:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1769",
+      "fifa_match_number": 19
+    },
+    {
+      "date": "1970-06-11",
+      "team1": "England",
+      "team2": "Czechoslovakia",
+      "ground": "Estadio Jalisco, Guadalajara",
+      "sources": {
+        "rsssf": "16:00",
+        "rsssf_date": "1970-06-11",
+        "fifa_archive": "16:00",
+        "fifa_archive_date": "1970-06-11",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "16:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1813",
+      "fifa_match_number": 23
+    },
+    {
+      "date": "1970-06-02",
+      "team1": "Peru",
+      "team2": "Bulgaria",
+      "ground": "Estadio Nou Camp, León",
+      "sources": {
+        "rsssf": "16:00",
+        "rsssf_date": "1970-06-02",
+        "fifa_archive": "16:00",
+        "fifa_archive_date": "1970-06-02",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "16:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1780",
+      "fifa_match_number": 4
+    },
+    {
+      "date": "1970-06-03",
+      "team1": "Morocco",
+      "team2": "West Germany",
+      "ground": "Estadio Nou Camp, León",
+      "sources": {
+        "rsssf": "16:00",
+        "rsssf_date": "1970-06-03",
+        "fifa_archive": "16:00",
+        "fifa_archive_date": "1970-06-03",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "16:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1839",
+      "fifa_match_number": 8
+    },
+    {
+      "date": "1970-06-06",
+      "team1": "Peru",
+      "team2": "Morocco",
+      "ground": "Estadio Nou Camp, León",
+      "sources": {
+        "rsssf": "16:00",
+        "rsssf_date": "1970-06-06",
+        "fifa_archive": "16:00",
+        "fifa_archive_date": "1970-06-06",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "16:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1893",
+      "fifa_match_number": 12
+    },
+    {
+      "date": "1970-06-07",
+      "team1": "Bulgaria",
+      "team2": "West Germany",
+      "ground": "Estadio Nou Camp, León",
+      "sources": {
+        "rsssf": "12:00",
+        "rsssf_date": "1970-06-07",
+        "fifa_archive": "12:00",
+        "fifa_archive_date": "1970-06-07",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "12:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1774",
+      "fifa_match_number": 16
+    },
+    {
+      "date": "1970-06-10",
+      "team1": "Peru",
+      "team2": "West Germany",
+      "ground": "Estadio Nou Camp, León",
+      "sources": {
+        "rsssf": "16:00",
+        "rsssf_date": "1970-06-10",
+        "fifa_archive": "16:00",
+        "fifa_archive_date": "1970-06-10",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "16:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1840",
+      "fifa_match_number": 20
+    },
+    {
+      "date": "1970-06-11",
+      "team1": "Bulgaria",
+      "team2": "Morocco",
+      "ground": "Estadio Nou Camp, León",
+      "sources": {
+        "rsssf": "16:00",
+        "rsssf_date": "1970-06-11",
+        "fifa_archive": "16:00",
+        "fifa_archive_date": "1970-06-11",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "16:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1779",
+      "fifa_match_number": 24
+    },
+    {
+      "date": "1970-06-14",
+      "team1": "Soviet Union",
+      "team2": "Uruguay",
+      "ground": "Estadio Azteca, Mexico City",
+      "sources": {
+        "rsssf": "12:00",
+        "rsssf_date": "1970-06-14",
+        "fifa_archive": "12:00",
+        "fifa_archive_date": "1970-06-14",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "12:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1925",
+      "fifa_match_number": 25
+    },
+    {
+      "date": "1970-06-14",
+      "team1": "Italy",
+      "team2": "Mexico",
+      "ground": "Estadio Luis Dosal, Toluca",
+      "sources": {
+        "rsssf": "12:00",
+        "rsssf_date": "1970-06-14",
+        "fifa_archive": "12:00",
+        "fifa_archive_date": "1970-06-14",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "12:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1882",
+      "fifa_match_number": 26
+    },
+    {
+      "date": "1970-06-14",
+      "team1": "Brazil",
+      "team2": "Peru",
+      "ground": "Estadio Jalisco, Guadalajara",
+      "sources": {
+        "rsssf": "12:00",
+        "rsssf_date": "1970-06-14",
+        "fifa_archive": "12:00",
+        "fifa_archive_date": "1970-06-14",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "12:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1768",
+      "fifa_match_number": 27
+    },
+    {
+      "date": "1970-06-14",
+      "team1": "West Germany",
+      "team2": "England",
+      "ground": "Estadio Nou Camp, León",
+      "sources": {
+        "rsssf": "12:00",
+        "rsssf_date": "1970-06-14",
+        "fifa_archive": "12:00",
+        "fifa_archive_date": "1970-06-14",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "12:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1811",
+      "fifa_match_number": 28
+    },
+    {
+      "date": "1970-06-17",
+      "team1": "Uruguay",
+      "team2": "Brazil",
+      "ground": "Estadio Jalisco, Guadalajara",
+      "sources": {
+        "rsssf": "16:00",
+        "rsssf_date": "1970-06-17",
+        "fifa_archive": "16:00",
+        "fifa_archive_date": "1970-06-17",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "16:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1771",
+      "fifa_match_number": 29
+    },
+    {
+      "date": "1970-06-17",
+      "team1": "Italy",
+      "team2": "West Germany",
+      "ground": "Estadio Azteca, Mexico City",
+      "sources": {
+        "rsssf": "16:00",
+        "rsssf_date": "1970-06-17",
+        "fifa_archive": "16:00",
+        "fifa_archive_date": "1970-06-17",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "16:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1838",
+      "fifa_match_number": 30
+    },
+    {
+      "date": "1970-06-20",
+      "team1": "Uruguay",
+      "team2": "West Germany",
+      "ground": "Estadio Azteca, Mexico City",
+      "sources": {
+        "rsssf": "16:00",
+        "rsssf_date": "1970-06-20",
+        "fifa_archive": "16:00",
+        "fifa_archive_date": "1970-06-20",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "16:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1843",
+      "fifa_match_number": 31
+    },
+    {
+      "date": "1970-06-21",
+      "team1": "Brazil",
+      "team2": "Italy",
+      "ground": "Estadio Azteca, Mexico City",
+      "sources": {
+        "rsssf": "12:00",
+        "rsssf_date": "1970-06-21",
+        "fifa_archive": "12:00",
+        "fifa_archive_date": "1970-06-21",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "12:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1765",
+      "fifa_match_number": 32
+    }
+  ]
+}

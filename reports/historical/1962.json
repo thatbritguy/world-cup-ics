@@ -1,0 +1,629 @@
+{
+  "year": 1962,
+  "allowed_world_cup": true,
+  "host_timezone": "America/Santiago",
+  "source_availability": {
+    "openfootball": true,
+    "rsssf_full": true,
+    "fifa_archive": true
+  },
+  "match_count": 32,
+  "status_counts": {
+    "conflict": 1,
+    "corroborated": 26,
+    "single-source": 5
+  },
+  "existing_calendar_status": null,
+  "source_issues_resolved_in_enrichment": false,
+  "requires_review": true,
+  "matches": [
+    {
+      "date": "1962-05-30",
+      "team1": "Uruguay",
+      "team2": "Colombia",
+      "ground": "Estadio Carlos Dittborn, Arica",
+      "sources": {
+        "rsssf": "15:00",
+        "rsssf_date": "1962-05-30",
+        "fifa_archive": "15:00",
+        "fifa_archive_date": "1962-05-30",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "15:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1479",
+      "fifa_match_number": 1
+    },
+    {
+      "date": "1962-05-31",
+      "team1": "Soviet Union",
+      "team2": "Yugoslavia",
+      "ground": "Estadio Carlos Dittborn, Arica",
+      "sources": {
+        "rsssf": "15:00",
+        "rsssf_date": "1962-05-31",
+        "fifa_archive": "15:00",
+        "fifa_archive_date": "1962-05-31",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "15:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1563",
+      "fifa_match_number": 5
+    },
+    {
+      "date": "1962-06-02",
+      "team1": "Yugoslavia",
+      "team2": "Uruguay",
+      "ground": "Estadio Carlos Dittborn, Arica",
+      "sources": {
+        "rsssf": "15:00",
+        "rsssf_date": "1962-06-02",
+        "fifa_archive": "15:00",
+        "fifa_archive_date": "1962-06-02",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "15:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1564",
+      "fifa_match_number": 9
+    },
+    {
+      "date": "1962-06-03",
+      "team1": "Soviet Union",
+      "team2": "Colombia",
+      "ground": "Estadio Carlos Dittborn, Arica",
+      "sources": {
+        "rsssf": "18:00",
+        "rsssf_date": "1962-06-03",
+        "fifa_archive": "15:00",
+        "fifa_archive_date": "1962-06-03",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "18:00",
+      "status": "conflict",
+      "date_mismatch": false,
+      "fifa_match_id": "1478",
+      "fifa_match_number": 13
+    },
+    {
+      "date": "1962-06-06",
+      "team1": "Soviet Union",
+      "team2": "Uruguay",
+      "ground": "Estadio Carlos Dittborn, Arica",
+      "sources": {
+        "rsssf": "15:00",
+        "rsssf_date": "1962-06-06",
+        "fifa_archive": "15:00",
+        "fifa_archive_date": "1962-06-06",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "15:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1562",
+      "fifa_match_number": 17
+    },
+    {
+      "date": "1962-06-07",
+      "team1": "Yugoslavia",
+      "team2": "Colombia",
+      "ground": "Estadio Carlos Dittborn, Arica",
+      "sources": {
+        "rsssf": "15:00",
+        "rsssf_date": "1962-06-07",
+        "fifa_archive": "15:00",
+        "fifa_archive_date": "1962-06-07",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "15:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1480",
+      "fifa_match_number": 21
+    },
+    {
+      "date": "1962-05-30",
+      "team1": "Chile",
+      "team2": "Switzerland",
+      "ground": "Estadio Nacional, Santiago",
+      "sources": {
+        "rsssf": "15:00",
+        "rsssf_date": "1962-05-30",
+        "fifa_archive": "15:00",
+        "fifa_archive_date": "1962-05-30",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "15:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1473",
+      "fifa_match_number": 2
+    },
+    {
+      "date": "1962-05-31",
+      "team1": "West Germany",
+      "team2": "Italy",
+      "ground": "Estadio Nacional, Santiago",
+      "sources": {
+        "rsssf": "15:00",
+        "rsssf_date": "1962-05-31",
+        "fifa_archive": "15:00",
+        "fifa_archive_date": "1962-05-31",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "15:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1507",
+      "fifa_match_number": 6
+    },
+    {
+      "date": "1962-06-02",
+      "team1": "Chile",
+      "team2": "Italy",
+      "ground": "Estadio Nacional, Santiago",
+      "sources": {
+        "rsssf": "15:00",
+        "rsssf_date": "1962-06-02",
+        "fifa_archive": "15:00",
+        "fifa_archive_date": "1962-06-02",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "15:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1472",
+      "fifa_match_number": 10
+    },
+    {
+      "date": "1962-06-03",
+      "team1": "West Germany",
+      "team2": "Switzerland",
+      "ground": "Estadio Nacional, Santiago",
+      "sources": {
+        "rsssf": "15:00",
+        "rsssf_date": "1962-06-03",
+        "fifa_archive": "15:00",
+        "fifa_archive_date": "1962-06-03",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "15:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1510",
+      "fifa_match_number": 14
+    },
+    {
+      "date": "1962-06-06",
+      "team1": "West Germany",
+      "team2": "Chile",
+      "ground": "Estadio Nacional, Santiago",
+      "sources": {
+        "rsssf": "15:00",
+        "rsssf_date": "1962-06-06",
+        "fifa_archive": "15:00",
+        "fifa_archive_date": "1962-06-06",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "15:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1471",
+      "fifa_match_number": 18
+    },
+    {
+      "date": "1962-06-07",
+      "team1": "Italy",
+      "team2": "Switzerland",
+      "ground": "Estadio Nacional, Santiago",
+      "sources": {
+        "rsssf": "15:00",
+        "rsssf_date": "1962-06-07",
+        "fifa_archive": "15:00",
+        "fifa_archive_date": "1962-06-07",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "15:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1532",
+      "fifa_match_number": 22
+    },
+    {
+      "date": "1962-05-30",
+      "team1": "Brazil",
+      "team2": "Mexico",
+      "ground": "Estadio Sausalito, Viña del Mar",
+      "sources": {
+        "rsssf": "15:00",
+        "rsssf_date": "1962-05-30",
+        "fifa_archive": "15:00",
+        "fifa_archive_date": "1962-05-30",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "15:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1461",
+      "fifa_match_number": 3
+    },
+    {
+      "date": "1962-05-31",
+      "team1": "Czechoslovakia",
+      "team2": "Spain",
+      "ground": "Estadio Sausalito, Viña del Mar",
+      "sources": {
+        "rsssf": "15:00",
+        "rsssf_date": "1962-05-31",
+        "fifa_archive": "15:00",
+        "fifa_archive_date": "1962-05-31",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "15:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1498",
+      "fifa_match_number": 7
+    },
+    {
+      "date": "1962-06-02",
+      "team1": "Brazil",
+      "team2": "Czechoslovakia",
+      "ground": "Estadio Sausalito, Viña del Mar",
+      "sources": {
+        "rsssf": "15:00",
+        "rsssf_date": "1962-06-02",
+        "fifa_archive": "15:00",
+        "fifa_archive_date": "1962-06-02",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "15:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1462",
+      "fifa_match_number": 11
+    },
+    {
+      "date": "1962-06-03",
+      "team1": "Spain",
+      "team2": "Mexico",
+      "ground": "Estadio Sausalito, Viña del Mar",
+      "sources": {
+        "rsssf": "15:00",
+        "rsssf_date": "1962-06-03",
+        "fifa_archive": "15:00",
+        "fifa_archive_date": "1962-06-03",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "15:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1497",
+      "fifa_match_number": 15
+    },
+    {
+      "date": "1962-06-06",
+      "team1": "Brazil",
+      "team2": "Spain",
+      "ground": "Estadio Sausalito, Viña del Mar",
+      "sources": {
+        "rsssf": "15:00",
+        "rsssf_date": "1962-06-06",
+        "fifa_archive": "15:00",
+        "fifa_archive_date": "1962-06-06",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "15:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1460",
+      "fifa_match_number": 19
+    },
+    {
+      "date": "1962-06-07",
+      "team1": "Mexico",
+      "team2": "Czechoslovakia",
+      "ground": "Estadio Sausalito, Viña del Mar",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": "1962-06-07",
+        "fifa_archive": "15:00",
+        "fifa_archive_date": "1962-06-07",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "15:00",
+      "status": "single-source",
+      "date_mismatch": false,
+      "fifa_match_id": "1544",
+      "fifa_match_number": 23
+    },
+    {
+      "date": "1962-05-30",
+      "team1": "Argentina",
+      "team2": "Bulgaria",
+      "ground": "Estadio El Teniente, Rancagua",
+      "sources": {
+        "rsssf": "15:00",
+        "rsssf_date": "1962-05-30",
+        "fifa_archive": "15:00",
+        "fifa_archive_date": "1962-05-30",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "15:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1447",
+      "fifa_match_number": 4
+    },
+    {
+      "date": "1962-05-31",
+      "team1": "Hungary",
+      "team2": "England",
+      "ground": "Estadio El Teniente, Rancagua",
+      "sources": {
+        "rsssf": "15:00",
+        "rsssf_date": "1962-06-31",
+        "fifa_archive": "15:00",
+        "fifa_archive_date": "1962-05-31",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "15:00",
+      "status": "corroborated",
+      "date_mismatch": true,
+      "fifa_match_id": "1490",
+      "fifa_match_number": 8
+    },
+    {
+      "date": "1962-06-02",
+      "team1": "England",
+      "team2": "Argentina",
+      "ground": "Estadio El Teniente, Rancagua",
+      "sources": {
+        "rsssf": "15:00",
+        "rsssf_date": "1962-06-02",
+        "fifa_archive": "15:00",
+        "fifa_archive_date": "1962-06-02",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "15:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1450",
+      "fifa_match_number": 12
+    },
+    {
+      "date": "1962-06-03",
+      "team1": "Hungary",
+      "team2": "Bulgaria",
+      "ground": "Estadio El Teniente, Rancagua",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": "1962-06-03",
+        "fifa_archive": "15:00",
+        "fifa_archive_date": "1962-06-03",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "15:00",
+      "status": "single-source",
+      "date_mismatch": false,
+      "fifa_match_id": "1470",
+      "fifa_match_number": 16
+    },
+    {
+      "date": "1962-06-06",
+      "team1": "Hungary",
+      "team2": "Argentina",
+      "ground": "Estadio El Teniente, Rancagua",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": "1962-06-06",
+        "fifa_archive": "15:00",
+        "fifa_archive_date": "1962-06-06",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "15:00",
+      "status": "single-source",
+      "date_mismatch": false,
+      "fifa_match_id": "1451",
+      "fifa_match_number": 20
+    },
+    {
+      "date": "1962-06-07",
+      "team1": "England",
+      "team2": "Bulgaria",
+      "ground": "Estadio El Teniente, Rancagua",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": "1962-06-07",
+        "fifa_archive": "15:00",
+        "fifa_archive_date": "1962-06-07",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "15:00",
+      "status": "single-source",
+      "date_mismatch": false,
+      "fifa_match_id": "1464",
+      "fifa_match_number": 24
+    },
+    {
+      "date": "1962-06-10",
+      "team1": "Chile",
+      "team2": "Soviet Union",
+      "ground": "Estadio Carlos Dittborn, Arica",
+      "sources": {
+        "rsssf": "14:30",
+        "rsssf_date": "1962-06-10",
+        "fifa_archive": "14:30",
+        "fifa_archive_date": "1962-06-10",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "14:30",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1474",
+      "fifa_match_number": 25
+    },
+    {
+      "date": "1962-06-10",
+      "team1": "Yugoslavia",
+      "team2": "West Germany",
+      "ground": "Estadio Nacional, Santiago",
+      "sources": {
+        "rsssf": "14:30",
+        "rsssf_date": "1962-06-10",
+        "fifa_archive": "14:30",
+        "fifa_archive_date": "1962-06-10",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "14:30",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1511",
+      "fifa_match_number": 26
+    },
+    {
+      "date": "1962-06-10",
+      "team1": "Brazil",
+      "team2": "England",
+      "ground": "Estadio Sausalito, Viña del Mar",
+      "sources": {
+        "rsssf": "14:30",
+        "rsssf_date": "1962-06-10",
+        "fifa_archive": "14:30",
+        "fifa_archive_date": "1962-06-10",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "14:30",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1459",
+      "fifa_match_number": 27
+    },
+    {
+      "date": "1962-06-10",
+      "team1": "Czechoslovakia",
+      "team2": "Hungary",
+      "ground": "Estadio El Teniente, Rancagua",
+      "sources": {
+        "rsssf": "14:30",
+        "rsssf_date": "1962-06-10",
+        "fifa_archive": "14:30",
+        "fifa_archive_date": "1962-06-10",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "14:30",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1525",
+      "fifa_match_number": 28
+    },
+    {
+      "date": "1962-06-13",
+      "team1": "Brazil",
+      "team2": "Chile",
+      "ground": "Estadio Nacional, Santiago",
+      "sources": {
+        "rsssf": "14:30",
+        "rsssf_date": "1962-06-13",
+        "fifa_archive": "14:30",
+        "fifa_archive_date": "1962-06-13",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "14:30",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1458",
+      "fifa_match_number": 29
+    },
+    {
+      "date": "1962-06-13",
+      "team1": "Czechoslovakia",
+      "team2": "Yugoslavia",
+      "ground": "Estadio Sausalito, Viña del Mar",
+      "sources": {
+        "rsssf": "14:30",
+        "rsssf_date": "1962-06-13",
+        "fifa_archive": "14:30",
+        "fifa_archive_date": "1962-06-13",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "14:30",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1559",
+      "fifa_match_number": 30
+    },
+    {
+      "date": "1962-06-16",
+      "team1": "Chile",
+      "team2": "Yugoslavia",
+      "ground": "Estadio Nacional, Santiago",
+      "sources": {
+        "rsssf": "14:30",
+        "rsssf_date": "1962-06-16",
+        "fifa_archive": "14:30",
+        "fifa_archive_date": "1962-06-16",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "14:30",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1475",
+      "fifa_match_number": 31
+    },
+    {
+      "date": "1962-06-17",
+      "team1": "Brazil",
+      "team2": "Czechoslovakia",
+      "ground": "Estadio Nacional, Santiago",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": "1962-06-17",
+        "fifa_archive": "14:30",
+        "fifa_archive_date": "1962-06-17",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "14:30",
+      "status": "single-source",
+      "date_mismatch": false,
+      "fifa_match_id": "1463",
+      "fifa_match_number": 32
+    }
+  ]
+}

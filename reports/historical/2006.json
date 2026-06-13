@@ -1,0 +1,1235 @@
+{
+  "year": 2006,
+  "allowed_world_cup": true,
+  "host_timezone": "Europe/Berlin",
+  "source_availability": {
+    "openfootball": true,
+    "rsssf_full": false,
+    "fifa_archive": true
+  },
+  "match_count": 64,
+  "status_counts": {
+    "accepted-modern-source": 64
+  },
+  "existing_calendar_status": null,
+  "source_issues_resolved_in_enrichment": false,
+  "requires_review": false,
+  "matches": [
+    {
+      "date": "2006-06-09",
+      "team1": "Germany",
+      "team2": "Costa Rica",
+      "ground": "Allianz Arena, München",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "18:00",
+        "fifa_archive_date": "2006-06-09",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "18:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": "97410001",
+      "fifa_match_number": 1
+    },
+    {
+      "date": "2006-06-09",
+      "team1": "Poland",
+      "team2": "Ecuador",
+      "ground": "Veltins-Arena, Gelsenkirchen",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "21:00",
+        "fifa_archive_date": "2006-06-09",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "21:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": "97410002",
+      "fifa_match_number": 2
+    },
+    {
+      "date": "2006-06-14",
+      "team1": "Germany",
+      "team2": "Poland",
+      "ground": "Signal Iduna Park, Dortmund",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "21:00",
+        "fifa_archive_date": "2006-06-14",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "21:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": "97410017",
+      "fifa_match_number": 17
+    },
+    {
+      "date": "2006-06-15",
+      "team1": "Ecuador",
+      "team2": "Costa Rica",
+      "ground": "AOL Arena, Hamburg",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "15:00",
+        "fifa_archive_date": "2006-06-15",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "15:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": "97410018",
+      "fifa_match_number": 18
+    },
+    {
+      "date": "2006-06-20",
+      "team1": "Ecuador",
+      "team2": "Germany",
+      "ground": "Olympiastadion, Berlin",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "16:00",
+        "fifa_archive_date": "2006-06-20",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "16:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": "97410033",
+      "fifa_match_number": 33
+    },
+    {
+      "date": "2006-06-20",
+      "team1": "Costa Rica",
+      "team2": "Poland",
+      "ground": "AWD-Arena, Hannover",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "16:00",
+        "fifa_archive_date": "2006-06-20",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "16:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": "97410034",
+      "fifa_match_number": 34
+    },
+    {
+      "date": "2006-06-10",
+      "team1": "England",
+      "team2": "Paraguay",
+      "ground": "Commerzbank-Arena, Frankfurt",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "15:00",
+        "fifa_archive_date": "2006-06-10",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "15:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": "97410003",
+      "fifa_match_number": 3
+    },
+    {
+      "date": "2006-06-10",
+      "team1": "Trinidad and Tobago",
+      "team2": "Sweden",
+      "ground": "Signal Iduna Park, Dortmund",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "18:00",
+        "fifa_archive_date": "2006-06-10",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "18:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": "97410004",
+      "fifa_match_number": 4
+    },
+    {
+      "date": "2006-06-15",
+      "team1": "England",
+      "team2": "Trinidad and Tobago",
+      "ground": "Frankenstadion, Nürnberg",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "18:00",
+        "fifa_archive_date": "2006-06-15",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "18:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": "97410019",
+      "fifa_match_number": 19
+    },
+    {
+      "date": "2006-06-15",
+      "team1": "Sweden",
+      "team2": "Paraguay",
+      "ground": "Olympiastadion, Berlin",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "21:00",
+        "fifa_archive_date": "2006-06-15",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "21:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": "97410020",
+      "fifa_match_number": 20
+    },
+    {
+      "date": "2006-06-20",
+      "team1": "Sweden",
+      "team2": "England",
+      "ground": "RheinEnergieStadion, Köln",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "21:00",
+        "fifa_archive_date": "2006-06-20",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "21:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": "97410035",
+      "fifa_match_number": 35
+    },
+    {
+      "date": "2006-06-20",
+      "team1": "Paraguay",
+      "team2": "Trinidad and Tobago",
+      "ground": "Fritz-Walter-Stadion, Kaiserslautern",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "21:00",
+        "fifa_archive_date": "2006-06-20",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "21:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": "97410036",
+      "fifa_match_number": 36
+    },
+    {
+      "date": "2006-06-10",
+      "team1": "Argentina",
+      "team2": "Côte d'Ivoire",
+      "ground": "AOL Arena, Hamburg",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "21:00",
+        "fifa_archive_date": "2006-06-10",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "21:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": "97410005",
+      "fifa_match_number": 5
+    },
+    {
+      "date": "2006-06-11",
+      "team1": "Serbia and Montenegro",
+      "team2": "Netherlands",
+      "ground": "Zentralstadion, Leipzig",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "15:00",
+        "fifa_archive_date": "2006-06-11",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "15:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": "97410006",
+      "fifa_match_number": 6
+    },
+    {
+      "date": "2006-06-16",
+      "team1": "Argentina",
+      "team2": "Serbia and Montenegro",
+      "ground": "Veltins-Arena, Gelsenkirchen",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "15:00",
+        "fifa_archive_date": "2006-06-16",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "15:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": "97410021",
+      "fifa_match_number": 21
+    },
+    {
+      "date": "2006-06-16",
+      "team1": "Netherlands",
+      "team2": "Côte d'Ivoire",
+      "ground": "Gottlieb-Daimler-Stadion, Stuttgart",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "18:00",
+        "fifa_archive_date": "2006-06-16",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "18:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": "97410022",
+      "fifa_match_number": 22
+    },
+    {
+      "date": "2006-06-21",
+      "team1": "Netherlands",
+      "team2": "Argentina",
+      "ground": "Commerzbank-Arena, Frankfurt",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "21:00",
+        "fifa_archive_date": "2006-06-21",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "21:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": "97410037",
+      "fifa_match_number": 37
+    },
+    {
+      "date": "2006-06-21",
+      "team1": "Côte d'Ivoire",
+      "team2": "Serbia and Montenegro",
+      "ground": "Allianz Arena, München",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "21:00",
+        "fifa_archive_date": "2006-06-21",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "21:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": "97410038",
+      "fifa_match_number": 38
+    },
+    {
+      "date": "2006-06-11",
+      "team1": "Mexico",
+      "team2": "Iran",
+      "ground": "Frankenstadion, Nürnberg",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "18:00",
+        "fifa_archive_date": "2006-06-11",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "18:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": "97410007",
+      "fifa_match_number": 7
+    },
+    {
+      "date": "2006-06-11",
+      "team1": "Angola",
+      "team2": "Portugal",
+      "ground": "RheinEnergieStadion, Köln",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "21:00",
+        "fifa_archive_date": "2006-06-11",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "21:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": "97410008",
+      "fifa_match_number": 8
+    },
+    {
+      "date": "2006-06-16",
+      "team1": "Mexico",
+      "team2": "Angola",
+      "ground": "AWD-Arena, Hannover",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "21:00",
+        "fifa_archive_date": "2006-06-16",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "21:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": "97410023",
+      "fifa_match_number": 23
+    },
+    {
+      "date": "2006-06-17",
+      "team1": "Portugal",
+      "team2": "Iran",
+      "ground": "Commerzbank-Arena, Frankfurt",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "15:00",
+        "fifa_archive_date": "2006-06-17",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "15:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": "97410024",
+      "fifa_match_number": 24
+    },
+    {
+      "date": "2006-06-21",
+      "team1": "Portugal",
+      "team2": "Mexico",
+      "ground": "Veltins-Arena, Gelsenkirchen",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "16:00",
+        "fifa_archive_date": "2006-06-21",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "16:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": "97410039",
+      "fifa_match_number": 39
+    },
+    {
+      "date": "2006-06-21",
+      "team1": "Iran",
+      "team2": "Angola",
+      "ground": "Zentralstadion, Leipzig",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "16:00",
+        "fifa_archive_date": "2006-06-21",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "16:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": "97410040",
+      "fifa_match_number": 40
+    },
+    {
+      "date": "2006-06-12",
+      "team1": "Italy",
+      "team2": "Ghana",
+      "ground": "AWD-Arena, Hannover",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "21:00",
+        "fifa_archive_date": "2006-06-12",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "21:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": "97410009",
+      "fifa_match_number": 9
+    },
+    {
+      "date": "2006-06-12",
+      "team1": "USA",
+      "team2": "Czech Republic",
+      "ground": "Veltins-Arena, Gelsenkirchen",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "18:00",
+        "fifa_archive_date": "2006-06-12",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "18:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": "97410010",
+      "fifa_match_number": 10
+    },
+    {
+      "date": "2006-06-17",
+      "team1": "Italy",
+      "team2": "USA",
+      "ground": "Fritz-Walter-Stadion, Kaiserslautern",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "21:00",
+        "fifa_archive_date": "2006-06-17",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "21:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": "97410025",
+      "fifa_match_number": 25
+    },
+    {
+      "date": "2006-06-17",
+      "team1": "Czech Republic",
+      "team2": "Ghana",
+      "ground": "RheinEnergieStadion, Köln",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "18:00",
+        "fifa_archive_date": "2006-06-17",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "18:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": "97410026",
+      "fifa_match_number": 26
+    },
+    {
+      "date": "2006-06-22",
+      "team1": "Czech Republic",
+      "team2": "Italy",
+      "ground": "AOL Arena, Hamburg",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "16:00",
+        "fifa_archive_date": "2006-06-22",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "16:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": "97410041",
+      "fifa_match_number": 41
+    },
+    {
+      "date": "2006-06-22",
+      "team1": "Ghana",
+      "team2": "USA",
+      "ground": "Frankenstadion, Nürnberg",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "16:00",
+        "fifa_archive_date": "2006-06-22",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "16:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": "97410042",
+      "fifa_match_number": 42
+    },
+    {
+      "date": "2006-06-13",
+      "team1": "Brazil",
+      "team2": "Croatia",
+      "ground": "Olympiastadion, Berlin",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "21:00",
+        "fifa_archive_date": "2006-06-13",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "21:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": "97410011",
+      "fifa_match_number": 11
+    },
+    {
+      "date": "2006-06-12",
+      "team1": "Australia",
+      "team2": "Japan",
+      "ground": "Fritz-Walter-Stadion, Kaiserslautern",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "15:00",
+        "fifa_archive_date": "2006-06-12",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "15:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": "97410012",
+      "fifa_match_number": 12
+    },
+    {
+      "date": "2006-06-18",
+      "team1": "Brazil",
+      "team2": "Australia",
+      "ground": "Allianz Arena, München",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "18:00",
+        "fifa_archive_date": "2006-06-18",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "18:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": "97410027",
+      "fifa_match_number": 27
+    },
+    {
+      "date": "2006-06-18",
+      "team1": "Japan",
+      "team2": "Croatia",
+      "ground": "Frankenstadion, Nürnberg",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "15:00",
+        "fifa_archive_date": "2006-06-18",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "15:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": "97410028",
+      "fifa_match_number": 28
+    },
+    {
+      "date": "2006-06-22",
+      "team1": "Japan",
+      "team2": "Brazil",
+      "ground": "Signal Iduna Park, Dortmund",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "21:00",
+        "fifa_archive_date": "2006-06-22",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "21:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": "97410043",
+      "fifa_match_number": 43
+    },
+    {
+      "date": "2006-06-22",
+      "team1": "Croatia",
+      "team2": "Australia",
+      "ground": "Gottlieb-Daimler-Stadion, Stuttgart",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "21:00",
+        "fifa_archive_date": "2006-06-22",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "21:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": "97410044",
+      "fifa_match_number": 44
+    },
+    {
+      "date": "2006-06-13",
+      "team1": "France",
+      "team2": "Switzerland",
+      "ground": "Gottlieb-Daimler-Stadion, Stuttgart",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "18:00",
+        "fifa_archive_date": "2006-06-13",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "18:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": "97410013",
+      "fifa_match_number": 13
+    },
+    {
+      "date": "2006-06-13",
+      "team1": "South Korea",
+      "team2": "Togo",
+      "ground": "Commerzbank-Arena, Frankfurt",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "15:00",
+        "fifa_archive_date": "2006-06-13",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "15:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": "97410014",
+      "fifa_match_number": 14
+    },
+    {
+      "date": "2006-06-18",
+      "team1": "France",
+      "team2": "South Korea",
+      "ground": "Zentralstadion, Leipzig",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "21:00",
+        "fifa_archive_date": "2006-06-18",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "21:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": "97410029",
+      "fifa_match_number": 29
+    },
+    {
+      "date": "2006-06-19",
+      "team1": "Togo",
+      "team2": "Switzerland",
+      "ground": "Signal Iduna Park, Dortmund",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "15:00",
+        "fifa_archive_date": "2006-06-19",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "15:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": "97410030",
+      "fifa_match_number": 30
+    },
+    {
+      "date": "2006-06-23",
+      "team1": "Togo",
+      "team2": "France",
+      "ground": "RheinEnergieStadion, Köln",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "21:00",
+        "fifa_archive_date": "2006-06-23",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "21:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": "97410045",
+      "fifa_match_number": 45
+    },
+    {
+      "date": "2006-06-23",
+      "team1": "Switzerland",
+      "team2": "South Korea",
+      "ground": "AWD-Arena, Hannover",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "21:00",
+        "fifa_archive_date": "2006-06-23",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "21:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": "97410046",
+      "fifa_match_number": 46
+    },
+    {
+      "date": "2006-06-14",
+      "team1": "Spain",
+      "team2": "Ukraine",
+      "ground": "Zentralstadion, Leipzig",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "15:00",
+        "fifa_archive_date": "2006-06-14",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "15:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": "97410015",
+      "fifa_match_number": 15
+    },
+    {
+      "date": "2006-06-14",
+      "team1": "Tunisia",
+      "team2": "Saudi Arabia",
+      "ground": "Allianz Arena, München",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "18:00",
+        "fifa_archive_date": "2006-06-14",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "18:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": "97410016",
+      "fifa_match_number": 16
+    },
+    {
+      "date": "2006-06-19",
+      "team1": "Spain",
+      "team2": "Tunisia",
+      "ground": "Gottlieb-Daimler-Stadion, Stuttgart",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "21:00",
+        "fifa_archive_date": "2006-06-19",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "21:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": "97410031",
+      "fifa_match_number": 31
+    },
+    {
+      "date": "2006-06-19",
+      "team1": "Saudi Arabia",
+      "team2": "Ukraine",
+      "ground": "AOL Arena, Hamburg",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "18:00",
+        "fifa_archive_date": "2006-06-19",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "18:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": "97410032",
+      "fifa_match_number": 32
+    },
+    {
+      "date": "2006-06-23",
+      "team1": "Saudi Arabia",
+      "team2": "Spain",
+      "ground": "Fritz-Walter-Stadion, Kaiserslautern",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "16:00",
+        "fifa_archive_date": "2006-06-23",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "16:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": "97410047",
+      "fifa_match_number": 47
+    },
+    {
+      "date": "2006-06-23",
+      "team1": "Ukraine",
+      "team2": "Tunisia",
+      "ground": "Olympiastadion, Berlin",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "16:00",
+        "fifa_archive_date": "2006-06-23",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "16:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": "97410048",
+      "fifa_match_number": 48
+    },
+    {
+      "date": "2006-06-24",
+      "team1": "Germany",
+      "team2": "Sweden",
+      "ground": "Allianz Arena, München",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "17:00",
+        "fifa_archive_date": "2006-06-24",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "17:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": "97410049",
+      "fifa_match_number": 49
+    },
+    {
+      "date": "2006-06-24",
+      "team1": "Argentina",
+      "team2": "Mexico",
+      "ground": "Zentralstadion, Leipzig",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "21:00",
+        "fifa_archive_date": "2006-06-24",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "21:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": "97410050",
+      "fifa_match_number": 50
+    },
+    {
+      "date": "2006-06-25",
+      "team1": "England",
+      "team2": "Ecuador",
+      "ground": "Gottlieb-Daimler-Stadion, Stuttgart",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "17:00",
+        "fifa_archive_date": "2006-06-25",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "17:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": "97410051",
+      "fifa_match_number": 51
+    },
+    {
+      "date": "2006-06-25",
+      "team1": "Portugal",
+      "team2": "Netherlands",
+      "ground": "Frankenstadion, Nürnberg",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "21:00",
+        "fifa_archive_date": "2006-06-25",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "21:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": "97410052",
+      "fifa_match_number": 52
+    },
+    {
+      "date": "2006-06-26",
+      "team1": "Italy",
+      "team2": "Australia",
+      "ground": "Fritz-Walter-Stadion, Kaiserslautern",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "17:00",
+        "fifa_archive_date": "2006-06-26",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "17:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": "97410053",
+      "fifa_match_number": 53
+    },
+    {
+      "date": "2006-06-26",
+      "team1": "Switzerland",
+      "team2": "Ukraine",
+      "ground": "RheinEnergieStadion, Köln",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "21:00",
+        "fifa_archive_date": "2006-06-26",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "21:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": "97410054",
+      "fifa_match_number": 54
+    },
+    {
+      "date": "2006-06-27",
+      "team1": "Brazil",
+      "team2": "Ghana",
+      "ground": "Signal Iduna Park, Dortmund",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "17:00",
+        "fifa_archive_date": "2006-06-27",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "17:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": "97410055",
+      "fifa_match_number": 55
+    },
+    {
+      "date": "2006-06-27",
+      "team1": "Spain",
+      "team2": "France",
+      "ground": "AWD-Arena, Hannover",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "21:00",
+        "fifa_archive_date": "2006-06-27",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "21:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": "97410056",
+      "fifa_match_number": 56
+    },
+    {
+      "date": "2006-06-30",
+      "team1": "Germany",
+      "team2": "Argentina",
+      "ground": "Olympiastadion, Berlin",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "17:00",
+        "fifa_archive_date": "2006-06-30",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "17:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": "97410057",
+      "fifa_match_number": 57
+    },
+    {
+      "date": "2006-06-30",
+      "team1": "Italy",
+      "team2": "Ukraine",
+      "ground": "AOL Arena, Hamburg",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "21:00",
+        "fifa_archive_date": "2006-06-30",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "21:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": "97410058",
+      "fifa_match_number": 58
+    },
+    {
+      "date": "2006-07-01",
+      "team1": "England",
+      "team2": "Portugal",
+      "ground": "Veltins-Arena, Gelsenkirchen",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "17:00",
+        "fifa_archive_date": "2006-07-01",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "17:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": "97410059",
+      "fifa_match_number": 59
+    },
+    {
+      "date": "2006-07-01",
+      "team1": "Brazil",
+      "team2": "France",
+      "ground": "Commerzbank-Arena, Frankfurt",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "21:00",
+        "fifa_archive_date": "2006-07-01",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "21:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": "97410060",
+      "fifa_match_number": 60
+    },
+    {
+      "date": "2006-07-04",
+      "team1": "Germany",
+      "team2": "Italy",
+      "ground": "Signal Iduna Park, Dortmund",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "21:00",
+        "fifa_archive_date": "2006-07-04",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "21:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": "97410061",
+      "fifa_match_number": 61
+    },
+    {
+      "date": "2006-07-05",
+      "team1": "Portugal",
+      "team2": "France",
+      "ground": "Allianz Arena, München",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "21:00",
+        "fifa_archive_date": "2006-07-05",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "21:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": "97410062",
+      "fifa_match_number": 62
+    },
+    {
+      "date": "2006-07-08",
+      "team1": "Germany",
+      "team2": "Portugal",
+      "ground": "Gottlieb-Daimler-Stadion, Stuttgart",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "21:00",
+        "fifa_archive_date": "2006-07-08",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "21:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": "97410063",
+      "fifa_match_number": 63
+    },
+    {
+      "date": "2006-07-09",
+      "team1": "Italy",
+      "team2": "France",
+      "ground": "Olympiastadion, Berlin",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "20:00",
+        "fifa_archive_date": "2006-07-09",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "20:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": "97410064",
+      "fifa_match_number": 64
+    }
+  ]
+}

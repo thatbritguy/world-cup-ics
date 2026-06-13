@@ -1,0 +1,1008 @@
+{
+  "year": 1990,
+  "allowed_world_cup": true,
+  "host_timezone": "Europe/Rome",
+  "source_availability": {
+    "openfootball": true,
+    "rsssf_full": true,
+    "fifa_archive": true
+  },
+  "match_count": 52,
+  "status_counts": {
+    "corroborated": 45,
+    "single-source": 7
+  },
+  "existing_calendar_status": null,
+  "source_issues_resolved_in_enrichment": false,
+  "requires_review": true,
+  "matches": [
+    {
+      "date": "1990-06-09",
+      "team1": "Italy",
+      "team2": "Austria",
+      "ground": "Stadio Olimpico, Rome",
+      "sources": {
+        "rsssf": "21:00",
+        "rsssf_date": "1990-06-09",
+        "fifa_archive": "21:00",
+        "fifa_archive_date": "1990-06-09",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "21:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "42",
+      "fifa_match_number": 3
+    },
+    {
+      "date": "1990-06-10",
+      "team1": "United States",
+      "team2": "Czechoslovakia",
+      "ground": "Stadio Comunale, Florence",
+      "sources": {
+        "rsssf": "17:00",
+        "rsssf_date": "1990-06-10",
+        "fifa_archive": "17:00",
+        "fifa_archive_date": "1990-06-10",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "17:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "355",
+      "fifa_match_number": 5
+    },
+    {
+      "date": "1990-06-14",
+      "team1": "Italy",
+      "team2": "United States",
+      "ground": "Stadio Olimpico, Rome",
+      "sources": {
+        "rsssf": "21:00",
+        "rsssf_date": "1990-06-14",
+        "fifa_archive": "21:00",
+        "fifa_archive_date": "1990-06-14",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "21:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "265",
+      "fifa_match_number": 15
+    },
+    {
+      "date": "1990-06-15",
+      "team1": "Austria",
+      "team2": "Czechoslovakia",
+      "ground": "Stadio Comunale, Florence",
+      "sources": {
+        "rsssf": "17:00",
+        "rsssf_date": "1990-06-15",
+        "fifa_archive": "17:00",
+        "fifa_archive_date": "1990-06-15",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "17:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "43",
+      "fifa_match_number": 17
+    },
+    {
+      "date": "1990-06-19",
+      "team1": "Italy",
+      "team2": "Czechoslovakia",
+      "ground": "Stadio Olimpico, Rome",
+      "sources": {
+        "rsssf": "21:00",
+        "rsssf_date": "1990-06-19",
+        "fifa_archive": "21:00",
+        "fifa_archive_date": "1990-06-19",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "21:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "263",
+      "fifa_match_number": 29
+    },
+    {
+      "date": "1990-06-19",
+      "team1": "Austria",
+      "team2": "United States",
+      "ground": "Stadio Comunale, Florence",
+      "sources": {
+        "rsssf": "21:00",
+        "rsssf_date": "1990-06-19",
+        "fifa_archive": "21:00",
+        "fifa_archive_date": "1990-06-19",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "21:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "48",
+      "fifa_match_number": 30
+    },
+    {
+      "date": "1990-06-08",
+      "team1": "Argentina",
+      "team2": "Cameroon",
+      "ground": "San Siro, Milan",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "18:00",
+        "fifa_archive_date": "1990-06-08",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "18:00",
+      "status": "single-source",
+      "date_mismatch": false,
+      "fifa_match_id": "26",
+      "fifa_match_number": 1
+    },
+    {
+      "date": "1990-06-09",
+      "team1": "Soviet Union",
+      "team2": "Romania",
+      "ground": "Stadio San Nicola, Bari",
+      "sources": {
+        "rsssf": "17:00",
+        "rsssf_date": "1990-06-09",
+        "fifa_archive": "17:00",
+        "fifa_archive_date": "1990-06-09",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "17:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "342",
+      "fifa_match_number": 2
+    },
+    {
+      "date": "1990-06-13",
+      "team1": "Argentina",
+      "team2": "Soviet Union",
+      "ground": "Stadio San Paolo, Naples",
+      "sources": {
+        "rsssf": "21:00",
+        "rsssf_date": "1990-06-13",
+        "fifa_archive": "21:00",
+        "fifa_archive_date": "1990-06-13",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "21:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "30",
+      "fifa_match_number": 13
+    },
+    {
+      "date": "1990-06-14",
+      "team1": "Cameroon",
+      "team2": "Romania",
+      "ground": "Stadio San Nicola, Bari",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "17:00",
+        "fifa_archive_date": "1990-06-14",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "17:00",
+      "status": "single-source",
+      "date_mismatch": false,
+      "fifa_match_id": "108",
+      "fifa_match_number": 16
+    },
+    {
+      "date": "1990-06-18",
+      "team1": "Argentina",
+      "team2": "Romania",
+      "ground": "Stadio San Paolo, Naples",
+      "sources": {
+        "rsssf": "21:00",
+        "rsssf_date": "1990-06-18",
+        "fifa_archive": "21:00",
+        "fifa_archive_date": "1990-06-18",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "21:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "29",
+      "fifa_match_number": 25
+    },
+    {
+      "date": "1990-06-18",
+      "team1": "Cameroon",
+      "team2": "Soviet Union",
+      "ground": "Stadio San Nicola, Bari",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "21:00",
+        "fifa_archive_date": "1990-06-18",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "21:00",
+      "status": "single-source",
+      "date_mismatch": false,
+      "fifa_match_id": "111",
+      "fifa_match_number": 26
+    },
+    {
+      "date": "1990-06-10",
+      "team1": "Brazil",
+      "team2": "Sweden",
+      "ground": "Stadio Delle Alpi, Turin",
+      "sources": {
+        "rsssf": "21:00",
+        "rsssf_date": "1990-06-10",
+        "fifa_archive": "21:00",
+        "fifa_archive_date": "1990-06-10",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "21:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "75",
+      "fifa_match_number": 6
+    },
+    {
+      "date": "1990-06-11",
+      "team1": "Costa Rica",
+      "team2": "Scotland",
+      "ground": "Stadio Luigi Ferraris, Genoa",
+      "sources": {
+        "rsssf": "17:00",
+        "rsssf_date": "1990-06-11",
+        "fifa_archive": "17:00",
+        "fifa_archive_date": "1990-06-11",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "17:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "127",
+      "fifa_match_number": 8
+    },
+    {
+      "date": "1990-06-16",
+      "team1": "Brazil",
+      "team2": "Costa Rica",
+      "ground": "Stadio Delle Alpi, Turin",
+      "sources": {
+        "rsssf": "17:00",
+        "rsssf_date": "1990-06-16",
+        "fifa_archive": "17:00",
+        "fifa_archive_date": "1990-06-16",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "17:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "73",
+      "fifa_match_number": 19
+    },
+    {
+      "date": "1990-06-16",
+      "team1": "Sweden",
+      "team2": "Scotland",
+      "ground": "Stadio Luigi Ferraris, Genoa",
+      "sources": {
+        "rsssf": "21:00",
+        "rsssf_date": "1990-06-16",
+        "fifa_archive": "21:00",
+        "fifa_archive_date": "1990-06-16",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "21:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "348",
+      "fifa_match_number": 20
+    },
+    {
+      "date": "1990-06-20",
+      "team1": "Brazil",
+      "team2": "Scotland",
+      "ground": "Stadio Delle Alpi, Turin",
+      "sources": {
+        "rsssf": "21:00",
+        "rsssf_date": "1990-06-20",
+        "fifa_archive": "21:00",
+        "fifa_archive_date": "1990-06-20",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "21:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "74",
+      "fifa_match_number": 31
+    },
+    {
+      "date": "1990-06-20",
+      "team1": "Sweden",
+      "team2": "Costa Rica",
+      "ground": "Stadio Luigi Ferraris, Genoa",
+      "sources": {
+        "rsssf": "21:00",
+        "rsssf_date": "1990-06-20",
+        "fifa_archive": "21:00",
+        "fifa_archive_date": "1990-06-20",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "21:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "128",
+      "fifa_match_number": 32
+    },
+    {
+      "date": "1990-06-09",
+      "team1": "United Arab Emirates",
+      "team2": "Colombia",
+      "ground": "Stadio Renato Dall'Ara, Bologna",
+      "sources": {
+        "rsssf": "17:00",
+        "rsssf_date": "1990-06-09",
+        "fifa_archive": "17:00",
+        "fifa_archive_date": "1990-06-09",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "17:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "119",
+      "fifa_match_number": 4
+    },
+    {
+      "date": "1990-06-10",
+      "team1": "West Germany",
+      "team2": "Yugoslavia",
+      "ground": "San Siro, Milan",
+      "sources": {
+        "rsssf": "21:00",
+        "rsssf_date": "1990-06-10",
+        "fifa_archive": "21:00",
+        "fifa_archive_date": "1990-06-10",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "21:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "201",
+      "fifa_match_number": 7
+    },
+    {
+      "date": "1990-06-14",
+      "team1": "Yugoslavia",
+      "team2": "Colombia",
+      "ground": "Stadio Renato Dall'Ara, Bologna",
+      "sources": {
+        "rsssf": "17:00",
+        "rsssf_date": "1990-06-14",
+        "fifa_archive": "17:00",
+        "fifa_archive_date": "1990-06-14",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "17:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "120",
+      "fifa_match_number": 14
+    },
+    {
+      "date": "1990-06-15",
+      "team1": "West Germany",
+      "team2": "United Arab Emirates",
+      "ground": "San Siro, Milan",
+      "sources": {
+        "rsssf": "21:00",
+        "rsssf_date": "1990-06-15",
+        "fifa_archive": "21:00",
+        "fifa_archive_date": "1990-06-15",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "21:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "198",
+      "fifa_match_number": 18
+    },
+    {
+      "date": "1990-06-19",
+      "team1": "West Germany",
+      "team2": "Colombia",
+      "ground": "San Siro, Milan",
+      "sources": {
+        "rsssf": "17:00",
+        "rsssf_date": "1990-06-19",
+        "fifa_archive": "17:00",
+        "fifa_archive_date": "1990-06-19",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "17:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "114",
+      "fifa_match_number": 27
+    },
+    {
+      "date": "1990-06-19",
+      "team1": "Yugoslavia",
+      "team2": "United Arab Emirates",
+      "ground": "Stadio Renato Dall'Ara, Bologna",
+      "sources": {
+        "rsssf": "17:00",
+        "rsssf_date": "1990-06-19",
+        "fifa_archive": "17:00",
+        "fifa_archive_date": "1990-06-19",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "17:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "364",
+      "fifa_match_number": 28
+    },
+    {
+      "date": "1990-06-12",
+      "team1": "Belgium",
+      "team2": "South Korea",
+      "ground": "Stadio Marc'Antonio Bentegodi, Verona",
+      "sources": {
+        "rsssf": "17:00",
+        "rsssf_date": "1990-06-12",
+        "fifa_archive": "17:00",
+        "fifa_archive_date": "1990-06-12",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "17:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "57",
+      "fifa_match_number": 10
+    },
+    {
+      "date": "1990-06-13",
+      "team1": "Uruguay",
+      "team2": "Spain",
+      "ground": "Stadio Friuli, Udine",
+      "sources": {
+        "rsssf": "17:00",
+        "rsssf_date": "1990-06-13",
+        "fifa_archive": "17:00",
+        "fifa_archive_date": "1990-06-13",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "17:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "180",
+      "fifa_match_number": 12
+    },
+    {
+      "date": "1990-06-17",
+      "team1": "Belgium",
+      "team2": "Uruguay",
+      "ground": "Stadio Marc'Antonio Bentegodi, Verona",
+      "sources": {
+        "rsssf": "21:00",
+        "rsssf_date": "1990-06-17",
+        "fifa_archive": "21:00",
+        "fifa_archive_date": "1990-06-17",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "21:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "66",
+      "fifa_match_number": 23
+    },
+    {
+      "date": "1990-06-17",
+      "team1": "South Korea",
+      "team2": "Spain",
+      "ground": "Stadio Friuli, Udine",
+      "sources": {
+        "rsssf": "21:00",
+        "rsssf_date": "1990-06-17",
+        "fifa_archive": "21:00",
+        "fifa_archive_date": "1990-06-17",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "21:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "175",
+      "fifa_match_number": 24
+    },
+    {
+      "date": "1990-06-21",
+      "team1": "Belgium",
+      "team2": "Spain",
+      "ground": "Stadio Marc'Antonio Bentegodi, Verona",
+      "sources": {
+        "rsssf": "17:00",
+        "rsssf_date": "1990-06-21",
+        "fifa_archive": "17:00",
+        "fifa_archive_date": "1990-06-21",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "17:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "56",
+      "fifa_match_number": 33
+    },
+    {
+      "date": "1990-06-21",
+      "team1": "South Korea",
+      "team2": "Uruguay",
+      "ground": "Stadio Friuli, Udine",
+      "sources": {
+        "rsssf": "17:00",
+        "rsssf_date": "1990-06-21",
+        "fifa_archive": "17:00",
+        "fifa_archive_date": "1990-06-21",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "17:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "290",
+      "fifa_match_number": 34
+    },
+    {
+      "date": "1990-06-11",
+      "team1": "England",
+      "team2": "Ireland",
+      "ground": "Stadio Sant'Elia, Cagliari",
+      "sources": {
+        "rsssf": "21:00",
+        "rsssf_date": "1990-06-11",
+        "fifa_archive": "21:00",
+        "fifa_archive_date": "1990-06-11",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "21:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "161",
+      "fifa_match_number": 9
+    },
+    {
+      "date": "1990-06-12",
+      "team1": "Netherlands",
+      "team2": "Egypt",
+      "ground": "Stadio La Favorita, Palermo",
+      "sources": {
+        "rsssf": "21:00",
+        "rsssf_date": "1990-06-12",
+        "fifa_archive": "21:00",
+        "fifa_archive_date": "1990-06-12",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "21:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "151",
+      "fifa_match_number": 11
+    },
+    {
+      "date": "1990-06-16",
+      "team1": "England",
+      "team2": "Netherlands",
+      "ground": "Stadio Sant'Elia, Cagliari",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": "1990-06-16",
+        "fifa_archive": "21:00",
+        "fifa_archive_date": "1990-06-16",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "21:00",
+      "status": "single-source",
+      "date_mismatch": false,
+      "fifa_match_id": "160",
+      "fifa_match_number": 21
+    },
+    {
+      "date": "1990-06-17",
+      "team1": "Ireland",
+      "team2": "Egypt",
+      "ground": "Stadio La Favorita, Palermo",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": "1990-06-17",
+        "fifa_archive": "17:00",
+        "fifa_archive_date": "1990-06-17",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "17:00",
+      "status": "single-source",
+      "date_mismatch": false,
+      "fifa_match_id": "152",
+      "fifa_match_number": 22
+    },
+    {
+      "date": "1990-06-21",
+      "team1": "England",
+      "team2": "Egypt",
+      "ground": "Stadio Sant'Elia, Cagliari",
+      "sources": {
+        "rsssf": "21:00",
+        "rsssf_date": "1990-06-21",
+        "fifa_archive": "21:00",
+        "fifa_archive_date": "1990-06-21",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "21:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "150",
+      "fifa_match_number": 35
+    },
+    {
+      "date": "1990-06-21",
+      "team1": "Ireland",
+      "team2": "Netherlands",
+      "ground": "Stadio La Favorita, Palermo",
+      "sources": {
+        "rsssf": "21:00",
+        "rsssf_date": "1990-06-21",
+        "fifa_archive": "21:00",
+        "fifa_archive_date": "1990-06-21",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "21:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "228",
+      "fifa_match_number": 36
+    },
+    {
+      "date": "1990-06-23",
+      "team1": "Cameroon",
+      "team2": "Colombia",
+      "ground": "Stadio San Paolo, Naples",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "17:00",
+        "fifa_archive_date": "1990-06-23",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "17:00",
+      "status": "single-source",
+      "date_mismatch": false,
+      "fifa_match_id": "102",
+      "fifa_match_number": 37
+    },
+    {
+      "date": "1990-06-23",
+      "team1": "Czechoslovakia",
+      "team2": "Costa Rica",
+      "ground": "Stadio San Nicola, Bari",
+      "sources": {
+        "rsssf": "21:00",
+        "rsssf_date": "1990-06-23",
+        "fifa_archive": "21:00",
+        "fifa_archive_date": "1990-06-23",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "21:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "129",
+      "fifa_match_number": 38
+    },
+    {
+      "date": "1990-06-24",
+      "team1": "Brazil",
+      "team2": "Argentina",
+      "ground": "Stadio Delle Alpi, Turin",
+      "sources": {
+        "rsssf": "17:00",
+        "rsssf_date": "1990-06-24",
+        "fifa_archive": "17:00",
+        "fifa_archive_date": "1990-06-24",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "17:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "25",
+      "fifa_match_number": 39
+    },
+    {
+      "date": "1990-06-24",
+      "team1": "West Germany",
+      "team2": "Netherlands",
+      "ground": "San Siro, Milan",
+      "sources": {
+        "rsssf": "21:00",
+        "rsssf_date": "1990-06-24",
+        "fifa_archive": "21:00",
+        "fifa_archive_date": "1990-06-24",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "21:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "196",
+      "fifa_match_number": 40
+    },
+    {
+      "date": "1990-06-25",
+      "team1": "Ireland",
+      "team2": "Romania",
+      "ground": "Stadio Luigi Ferraris, Genoa",
+      "sources": {
+        "rsssf": "17:00",
+        "rsssf_date": "1990-06-25",
+        "fifa_archive": "17:00",
+        "fifa_archive_date": "1990-06-25",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "17:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "248",
+      "fifa_match_number": 41
+    },
+    {
+      "date": "1990-06-25",
+      "team1": "Italy",
+      "team2": "Uruguay",
+      "ground": "Stadio Olimpico, Rome",
+      "sources": {
+        "rsssf": "21:00",
+        "rsssf_date": "1990-06-25",
+        "fifa_archive": "21:00",
+        "fifa_archive_date": "1990-06-25",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "21:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "264",
+      "fifa_match_number": 42
+    },
+    {
+      "date": "1990-06-26",
+      "team1": "Spain",
+      "team2": "Yugoslavia",
+      "ground": "Stadio Marc'Antonio Bentegodi, Verona",
+      "sources": {
+        "rsssf": "17:00",
+        "rsssf_date": "1990-06-26",
+        "fifa_archive": "17:00",
+        "fifa_archive_date": "1990-06-26",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "17:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "181",
+      "fifa_match_number": 43
+    },
+    {
+      "date": "1990-06-26",
+      "team1": "England",
+      "team2": "Belgium",
+      "ground": "Stadio Renato Dall'Ara, Bologna",
+      "sources": {
+        "rsssf": "21:00",
+        "rsssf_date": "1990-06-26",
+        "fifa_archive": "21:00",
+        "fifa_archive_date": "1990-06-26",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "21:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "55",
+      "fifa_match_number": 44
+    },
+    {
+      "date": "1990-06-30",
+      "team1": "Yugoslavia",
+      "team2": "Argentina",
+      "ground": "Stadio Artemio Franchi, Florence",
+      "sources": {
+        "rsssf": "17:00",
+        "rsssf_date": "1990-06-30",
+        "fifa_archive": "17:00",
+        "fifa_archive_date": "1990-06-30",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "17:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "31",
+      "fifa_match_number": 45
+    },
+    {
+      "date": "1990-06-30",
+      "team1": "Italy",
+      "team2": "Ireland",
+      "ground": "Stadio Olimpico, Rome",
+      "sources": {
+        "rsssf": "21:00",
+        "rsssf_date": "1990-06-30",
+        "fifa_archive": "21:00",
+        "fifa_archive_date": "1990-06-30",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "21:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "243",
+      "fifa_match_number": 46
+    },
+    {
+      "date": "1990-07-01",
+      "team1": "West Germany",
+      "team2": "Czechoslovakia",
+      "ground": "San Siro, Milan",
+      "sources": {
+        "rsssf": "17:00",
+        "rsssf_date": "1990-07-01",
+        "fifa_archive": "17:00",
+        "fifa_archive_date": "1990-07-01",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "17:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "197",
+      "fifa_match_number": 47
+    },
+    {
+      "date": "1990-07-01",
+      "team1": "England",
+      "team2": "Cameroon",
+      "ground": "Stadio San Paolo, Naples",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "21:00",
+        "fifa_archive_date": "1990-07-01",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "21:00",
+      "status": "single-source",
+      "date_mismatch": false,
+      "fifa_match_id": "103",
+      "fifa_match_number": 48
+    },
+    {
+      "date": "1990-07-03",
+      "team1": "Italy",
+      "team2": "Argentina",
+      "ground": "Stadio San Paolo, Naples",
+      "sources": {
+        "rsssf": "20:00",
+        "rsssf_date": "1990-07-03",
+        "fifa_archive": "20:00",
+        "fifa_archive_date": "1990-07-03",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "20:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "28",
+      "fifa_match_number": 49
+    },
+    {
+      "date": "1990-07-04",
+      "team1": "West Germany",
+      "team2": "England",
+      "ground": "Stadio delle Alpi, Turin",
+      "sources": {
+        "rsssf": "20:00",
+        "rsssf_date": "1990-07-04",
+        "fifa_archive": "20:00",
+        "fifa_archive_date": "1990-07-04",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "20:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "159",
+      "fifa_match_number": 50
+    },
+    {
+      "date": "1990-07-07",
+      "team1": "Italy",
+      "team2": "England",
+      "ground": "Stadio San Nicola, Bari",
+      "sources": {
+        "rsssf": "20:00",
+        "rsssf_date": "1990-06-07",
+        "fifa_archive": "20:00",
+        "fifa_archive_date": "1990-07-07",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "20:00",
+      "status": "corroborated",
+      "date_mismatch": true,
+      "fifa_match_id": "162",
+      "fifa_match_number": 51
+    },
+    {
+      "date": "1990-07-08",
+      "team1": "West Germany",
+      "team2": "Argentina",
+      "ground": "Stadio Olimpico, Rome",
+      "sources": {
+        "rsssf": "20:00",
+        "rsssf_date": "1990-07-08",
+        "fifa_archive": "20:00",
+        "fifa_archive_date": "1990-07-08",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "20:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "27",
+      "fifa_match_number": 52
+    }
+  ]
+}

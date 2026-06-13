@@ -1,0 +1,514 @@
+{
+  "year": 1954,
+  "allowed_world_cup": true,
+  "host_timezone": "Europe/Zurich",
+  "source_availability": {
+    "openfootball": true,
+    "rsssf_full": true,
+    "fifa_archive": true
+  },
+  "match_count": 26,
+  "status_counts": {
+    "corroborated": 23,
+    "single-source": 3
+  },
+  "existing_calendar_status": null,
+  "source_issues_resolved_in_enrichment": false,
+  "requires_review": true,
+  "matches": [
+    {
+      "date": "1954-06-16",
+      "team1": "Brazil",
+      "team2": "Mexico",
+      "ground": "Charmilles Stadium, Geneva",
+      "sources": {
+        "rsssf": "18:00",
+        "rsssf_date": "1954-06-16",
+        "fifa_archive": "18:00",
+        "fifa_archive_date": "1954-06-16",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "18:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1249",
+      "fifa_match_number": 3
+    },
+    {
+      "date": "1954-06-16",
+      "team1": "Yugoslavia",
+      "team2": "France",
+      "ground": "Stade Olympique de la Pontaise, Lausanne",
+      "sources": {
+        "rsssf": "18:00",
+        "rsssf_date": "1954-06-16",
+        "fifa_archive": "18:00",
+        "fifa_archive_date": "1954-06-16",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "18:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1276",
+      "fifa_match_number": 4
+    },
+    {
+      "date": "1954-06-19",
+      "team1": "Brazil",
+      "team2": "Yugoslavia",
+      "ground": "Stade Olympique de la Pontaise, Lausanne",
+      "sources": {
+        "rsssf": "17:00",
+        "rsssf_date": "1954-06-19",
+        "fifa_archive": "17:00",
+        "fifa_archive_date": "1954-06-19",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "17:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1252",
+      "fifa_match_number": 10
+    },
+    {
+      "date": "1954-06-19",
+      "team1": "France",
+      "team2": "Mexico",
+      "ground": "Charmilles Stadium, Geneva",
+      "sources": {
+        "rsssf": "17:10",
+        "rsssf_date": "1954-06-19",
+        "fifa_archive": "17:10",
+        "fifa_archive_date": "1954-06-19",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "17:10",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1275",
+      "fifa_match_number": 11
+    },
+    {
+      "date": "1954-06-17",
+      "team1": "West Germany",
+      "team2": "Turkey",
+      "ground": "Wankdorf Stadium, Bern",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "18:00",
+        "fifa_archive_date": "1954-06-17",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "18:00",
+      "status": "single-source",
+      "date_mismatch": false,
+      "fifa_match_id": "1283",
+      "fifa_match_number": 5
+    },
+    {
+      "date": "1954-06-17",
+      "team1": "Hungary",
+      "team2": "South Korea",
+      "ground": "Hardturm Stadium, Zürich",
+      "sources": {
+        "rsssf": "18:00",
+        "rsssf_date": "1954-06-17",
+        "fifa_archive": "18:00",
+        "fifa_archive_date": "1954-06-17",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "18:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1294",
+      "fifa_match_number": 8
+    },
+    {
+      "date": "1954-06-20",
+      "team1": "Hungary",
+      "team2": "West Germany",
+      "ground": "St. Jakob Stadium, Basel",
+      "sources": {
+        "rsssf": "16:50",
+        "rsssf_date": "1954-06-20",
+        "fifa_archive": "16:50",
+        "fifa_archive_date": "1954-06-20",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "16:50",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1277",
+      "fifa_match_number": 14
+    },
+    {
+      "date": "1954-06-20",
+      "team1": "Turkey",
+      "team2": "South Korea",
+      "ground": "Charmilles Stadium, Geneva",
+      "sources": {
+        "rsssf": "17:00",
+        "rsssf_date": "1954-06-20",
+        "fifa_archive": "17:00",
+        "fifa_archive_date": "1954-06-20",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "17:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1304",
+      "fifa_match_number": 15
+    },
+    {
+      "date": "1954-06-23",
+      "team1": "West Germany",
+      "team2": "Turkey",
+      "ground": "Hardturm Stadium, Zürich",
+      "sources": {
+        "rsssf": "18:00",
+        "rsssf_date": "1954-06-23",
+        "fifa_archive": "18:00",
+        "fifa_archive_date": "1954-06-23",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "18:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1284",
+      "fifa_match_number": 19
+    },
+    {
+      "date": "1954-06-16",
+      "team1": "Uruguay",
+      "team2": "Czechoslovakia",
+      "ground": "Wankdorf Stadium, Bern",
+      "sources": {
+        "rsssf": "18:00",
+        "rsssf_date": "1954-06-16",
+        "fifa_archive": "18:00",
+        "fifa_archive_date": "1954-06-16",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "18:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1315",
+      "fifa_match_number": 1
+    },
+    {
+      "date": "1954-06-16",
+      "team1": "Austria",
+      "team2": "Scotland",
+      "ground": "Hardturm Stadium, Zürich",
+      "sources": {
+        "rsssf": "18:00",
+        "rsssf_date": "1954-06-16",
+        "fifa_archive": "18:00",
+        "fifa_archive_date": "1954-06-16",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "18:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1236",
+      "fifa_match_number": 2
+    },
+    {
+      "date": "1954-06-19",
+      "team1": "Austria",
+      "team2": "Czechoslovakia",
+      "ground": "Hardturm Stadium, Zürich",
+      "sources": {
+        "rsssf": "17:00",
+        "rsssf_date": "1954-06-19",
+        "fifa_archive": "17:00",
+        "fifa_archive_date": "1954-06-19",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "17:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1238",
+      "fifa_match_number": 9
+    },
+    {
+      "date": "1954-06-19",
+      "team1": "Uruguay",
+      "team2": "Scotland",
+      "ground": "St. Jakob Stadium, Basel",
+      "sources": {
+        "rsssf": "16:50",
+        "rsssf_date": "1954-06-19",
+        "fifa_archive": "16:50",
+        "fifa_archive_date": "1954-06-19",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "16:50",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1313",
+      "fifa_match_number": 12
+    },
+    {
+      "date": "1954-06-17",
+      "team1": "England",
+      "team2": "Belgium",
+      "ground": "St. Jakob Stadium, Basel",
+      "sources": {
+        "rsssf": "18:10",
+        "rsssf_date": "1954-06-17",
+        "fifa_archive": "18:10",
+        "fifa_archive_date": "1954-06-17",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "18:10",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1240",
+      "fifa_match_number": 6
+    },
+    {
+      "date": "1954-06-17",
+      "team1": "Switzerland",
+      "team2": "Italy",
+      "ground": "Stade Olympique de la Pontaise, Lausanne",
+      "sources": {
+        "rsssf": "17:50",
+        "rsssf_date": "1954-06-17",
+        "fifa_archive": "17:50",
+        "fifa_archive_date": "1954-06-17",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "17:50",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1300",
+      "fifa_match_number": 7
+    },
+    {
+      "date": "1954-06-20",
+      "team1": "England",
+      "team2": "Switzerland",
+      "ground": "Wankdorf Stadium, Bern",
+      "sources": {
+        "rsssf": "17:10",
+        "rsssf_date": "1954-06-20",
+        "fifa_archive": "17:10",
+        "fifa_archive_date": "1954-06-20",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "17:10",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1263",
+      "fifa_match_number": 13
+    },
+    {
+      "date": "1954-06-20",
+      "team1": "Italy",
+      "team2": "Belgium",
+      "ground": "Cornaredo Stadium, Lugano",
+      "sources": {
+        "rsssf": "17:00",
+        "rsssf_date": "1954-06-20",
+        "fifa_archive": "17:00",
+        "fifa_archive_date": "1954-06-20",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "17:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1243",
+      "fifa_match_number": 16
+    },
+    {
+      "date": "1954-06-23",
+      "team1": "Switzerland",
+      "team2": "Italy",
+      "ground": "St. Jakob Stadium, Basel",
+      "sources": {
+        "rsssf": "18:00",
+        "rsssf_date": "1954-06-23",
+        "fifa_archive": null,
+        "fifa_archive_date": null,
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "18:00",
+      "status": "single-source",
+      "date_mismatch": false,
+      "fifa_match_id": null,
+      "fifa_match_number": null
+    },
+    {
+      "date": "1954-06-26",
+      "team1": "Austria",
+      "team2": "Switzerland",
+      "ground": "Stade Olympique de la Pontaise, Lausanne",
+      "sources": {
+        "rsssf": "17:00",
+        "rsssf_date": "1954-06-26",
+        "fifa_archive": null,
+        "fifa_archive_date": null,
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "17:00",
+      "status": "single-source",
+      "date_mismatch": false,
+      "fifa_match_id": null,
+      "fifa_match_number": null
+    },
+    {
+      "date": "1954-06-26",
+      "team1": "Uruguay",
+      "team2": "England",
+      "ground": "St. Jakob Stadium, Basel",
+      "sources": {
+        "rsssf": "17:00",
+        "rsssf_date": "1954-06-26",
+        "fifa_archive": "17:00",
+        "fifa_archive_date": "1954-06-26",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "17:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1264",
+      "fifa_match_number": 20
+    },
+    {
+      "date": "1954-06-27",
+      "team1": "Yugoslavia",
+      "team2": "West Germany",
+      "ground": "Charmilles Stadium, Geneva",
+      "sources": {
+        "rsssf": "17:00",
+        "rsssf_date": "1954-06-27",
+        "fifa_archive": "17:00",
+        "fifa_archive_date": "1954-06-27",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "17:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1285",
+      "fifa_match_number": 17
+    },
+    {
+      "date": "1954-06-27",
+      "team1": "Brazil",
+      "team2": "Hungary",
+      "ground": "Wankdorf Stadium, Bern",
+      "sources": {
+        "rsssf": "17:00",
+        "rsssf_date": "1954-06-27",
+        "fifa_archive": "17:00",
+        "fifa_archive_date": "1954-06-27",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "17:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1248",
+      "fifa_match_number": 18
+    },
+    {
+      "date": "1954-06-30",
+      "team1": "West Germany",
+      "team2": "Austria",
+      "ground": "St. Jakob Stadium, Basel",
+      "sources": {
+        "rsssf": "18:00",
+        "rsssf_date": "1954-06-30",
+        "fifa_archive": "18:00",
+        "fifa_archive_date": "1954-06-30",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "18:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1233",
+      "fifa_match_number": 21
+    },
+    {
+      "date": "1954-06-30",
+      "team1": "Hungary",
+      "team2": "Uruguay",
+      "ground": "Stade Olympique de la Pontaise, Lausanne",
+      "sources": {
+        "rsssf": "18:00",
+        "rsssf_date": "1954-06-30",
+        "fifa_archive": "18:00",
+        "fifa_archive_date": "1954-06-30",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "18:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1295",
+      "fifa_match_number": 22
+    },
+    {
+      "date": "1954-07-03",
+      "team1": "Uruguay",
+      "team2": "Austria",
+      "ground": "Hardturm Stadium, Zürich",
+      "sources": {
+        "rsssf": "17:00",
+        "rsssf_date": "1954-07-03",
+        "fifa_archive": "17:00",
+        "fifa_archive_date": "1954-07-03",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "17:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1239",
+      "fifa_match_number": 23
+    },
+    {
+      "date": "1954-07-04",
+      "team1": "Hungary",
+      "team2": "West Germany",
+      "ground": "Wankdorf Stadium, Bern",
+      "sources": {
+        "rsssf": "17:00",
+        "rsssf_date": "1954-07-04",
+        "fifa_archive": "17:00",
+        "fifa_archive_date": "1954-07-04",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "17:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1278",
+      "fifa_match_number": 24
+    }
+  ]
+}

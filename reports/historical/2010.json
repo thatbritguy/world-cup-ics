@@ -1,0 +1,1235 @@
+{
+  "year": 2010,
+  "allowed_world_cup": true,
+  "host_timezone": "Africa/Johannesburg",
+  "source_availability": {
+    "openfootball": true,
+    "rsssf_full": false,
+    "fifa_archive": true
+  },
+  "match_count": 64,
+  "status_counts": {
+    "corroborated": 64
+  },
+  "existing_calendar_status": null,
+  "source_issues_resolved_in_enrichment": false,
+  "requires_review": false,
+  "matches": [
+    {
+      "date": "2010-06-11",
+      "team1": "South Africa",
+      "team2": "Mexico",
+      "ground": "Soccer City, Johannesburg",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "16:00",
+        "fifa_archive_date": "2010-06-11",
+        "openfootball": "16:00",
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "16:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "300061454",
+      "fifa_match_number": 1
+    },
+    {
+      "date": "2010-06-11",
+      "team1": "Uruguay",
+      "team2": "France",
+      "ground": "Cape Town Stadium, Cape Town",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "20:30",
+        "fifa_archive_date": "2010-06-11",
+        "openfootball": "20:30",
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "20:30",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "300061453",
+      "fifa_match_number": 2
+    },
+    {
+      "date": "2010-06-16",
+      "team1": "South Africa",
+      "team2": "Uruguay",
+      "ground": "Loftus Versfeld Stadium, Pretoria",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "20:30",
+        "fifa_archive_date": "2010-06-16",
+        "openfootball": "20:30",
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "20:30",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "300061452",
+      "fifa_match_number": 17
+    },
+    {
+      "date": "2010-06-17",
+      "team1": "France",
+      "team2": "Mexico",
+      "ground": "Peter Mokaba Stadium, Polokwane",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "20:30",
+        "fifa_archive_date": "2010-06-17",
+        "openfootball": "20:30",
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "20:30",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "300061451",
+      "fifa_match_number": 18
+    },
+    {
+      "date": "2010-06-22",
+      "team1": "Mexico",
+      "team2": "Uruguay",
+      "ground": "Royal Bafokeng Stadium, Rustenburg",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "16:00",
+        "fifa_archive_date": "2010-06-22",
+        "openfootball": "16:00",
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "16:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "300061450",
+      "fifa_match_number": 33
+    },
+    {
+      "date": "2010-06-22",
+      "team1": "France",
+      "team2": "South Africa",
+      "ground": "Free State Stadium, Bloemfontein",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "16:00",
+        "fifa_archive_date": "2010-06-22",
+        "openfootball": "16:00",
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "16:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "300061449",
+      "fifa_match_number": 34
+    },
+    {
+      "date": "2010-06-12",
+      "team1": "South Korea",
+      "team2": "Greece",
+      "ground": "Nelson Mandela Bay Stadium, Port Elizabeth",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "13:30",
+        "fifa_archive_date": "2010-06-12",
+        "openfootball": "13:30",
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "13:30",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "300061459",
+      "fifa_match_number": 4
+    },
+    {
+      "date": "2010-06-12",
+      "team1": "Argentina",
+      "team2": "Nigeria",
+      "ground": "Ellis Park Stadium, Johannesburg",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "16:00",
+        "fifa_archive_date": "2010-06-12",
+        "openfootball": "16:00",
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "16:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "300061460",
+      "fifa_match_number": 3
+    },
+    {
+      "date": "2010-06-17",
+      "team1": "Argentina",
+      "team2": "South Korea",
+      "ground": "Soccer City, Johannesburg",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "13:30",
+        "fifa_archive_date": "2010-06-17",
+        "openfootball": "13:30",
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "13:30",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "300061458",
+      "fifa_match_number": 20
+    },
+    {
+      "date": "2010-06-17",
+      "team1": "Greece",
+      "team2": "Nigeria",
+      "ground": "Free State Stadium, Bloemfontein",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "16:00",
+        "fifa_archive_date": "2010-06-17",
+        "openfootball": "16:00",
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "16:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "300061457",
+      "fifa_match_number": 19
+    },
+    {
+      "date": "2010-06-22",
+      "team1": "Nigeria",
+      "team2": "South Korea",
+      "ground": "Moses Mabhida Stadium, Durban",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "20:30",
+        "fifa_archive_date": "2010-06-22",
+        "openfootball": "20:30",
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "20:30",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "300111115",
+      "fifa_match_number": 35
+    },
+    {
+      "date": "2010-06-22",
+      "team1": "Greece",
+      "team2": "Argentina",
+      "ground": "Peter Mokaba Stadium, Polokwane",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "20:30",
+        "fifa_archive_date": "2010-06-22",
+        "openfootball": "20:30",
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "20:30",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "300061455",
+      "fifa_match_number": 36
+    },
+    {
+      "date": "2010-06-12",
+      "team1": "England",
+      "team2": "USA",
+      "ground": "Royal Bafokeng Stadium, Rustenburg",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "20:30",
+        "fifa_archive_date": "2010-06-12",
+        "openfootball": "20:30",
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "20:30",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "300061466",
+      "fifa_match_number": 5
+    },
+    {
+      "date": "2010-06-13",
+      "team1": "Algeria",
+      "team2": "Slovenia",
+      "ground": "Peter Mokaba Stadium, Polokwane",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "13:30",
+        "fifa_archive_date": "2010-06-13",
+        "openfootball": "13:30",
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "13:30",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "300061465",
+      "fifa_match_number": 6
+    },
+    {
+      "date": "2010-06-18",
+      "team1": "Slovenia",
+      "team2": "USA",
+      "ground": "Ellis Park Stadium, Johannesburg",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "16:00",
+        "fifa_archive_date": "2010-06-18",
+        "openfootball": "16:00",
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "16:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "300061463",
+      "fifa_match_number": 22
+    },
+    {
+      "date": "2010-06-18",
+      "team1": "England",
+      "team2": "Algeria",
+      "ground": "Cape Town Stadium, Cape Town",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "20:30",
+        "fifa_archive_date": "2010-06-18",
+        "openfootball": "20:30",
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "20:30",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "300061464",
+      "fifa_match_number": 23
+    },
+    {
+      "date": "2010-06-23",
+      "team1": "USA",
+      "team2": "Algeria",
+      "ground": "Loftus Versfeld Stadium, Pretoria",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "16:00",
+        "fifa_archive_date": "2010-06-23",
+        "openfootball": "16:00",
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "16:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "300061461",
+      "fifa_match_number": 38
+    },
+    {
+      "date": "2010-06-23",
+      "team1": "Slovenia",
+      "team2": "England",
+      "ground": "Nelson Mandela Bay Stadium, Port Elizabeth",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "16:00",
+        "fifa_archive_date": "2010-06-23",
+        "openfootball": "16:00",
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "16:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "300061462",
+      "fifa_match_number": 37
+    },
+    {
+      "date": "2010-06-13",
+      "team1": "Serbia",
+      "team2": "Ghana",
+      "ground": "Loftus Versfeld Stadium, Pretoria",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "16:00",
+        "fifa_archive_date": "2010-06-13",
+        "openfootball": "16:00",
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "16:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "300061471",
+      "fifa_match_number": 8
+    },
+    {
+      "date": "2010-06-13",
+      "team1": "Germany",
+      "team2": "Australia",
+      "ground": "Moses Mabhida Stadium, Durban",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "20:30",
+        "fifa_archive_date": "2010-06-13",
+        "openfootball": "20:30",
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "20:30",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "300111116",
+      "fifa_match_number": 7
+    },
+    {
+      "date": "2010-06-18",
+      "team1": "Germany",
+      "team2": "Serbia",
+      "ground": "Nelson Mandela Bay Stadium, Port Elizabeth",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "13:30",
+        "fifa_archive_date": "2010-06-18",
+        "openfootball": "13:30",
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "13:30",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "300061470",
+      "fifa_match_number": 21
+    },
+    {
+      "date": "2010-06-19",
+      "team1": "Ghana",
+      "team2": "Australia",
+      "ground": "Royal Bafokeng Stadium, Rustenburg",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "16:00",
+        "fifa_archive_date": "2010-06-19",
+        "openfootball": "16:00",
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "16:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "300061469",
+      "fifa_match_number": 24
+    },
+    {
+      "date": "2010-06-23",
+      "team1": "Australia",
+      "team2": "Serbia",
+      "ground": "Mbombela Stadium, Nelspruit",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "20:30",
+        "fifa_archive_date": "2010-06-23",
+        "openfootball": "20:30",
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "20:30",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "300061467",
+      "fifa_match_number": 40
+    },
+    {
+      "date": "2010-06-23",
+      "team1": "Ghana",
+      "team2": "Germany",
+      "ground": "Soccer City, Johannesburg",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "20:30",
+        "fifa_archive_date": "2010-06-23",
+        "openfootball": "20:30",
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "20:30",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "300061468",
+      "fifa_match_number": 39
+    },
+    {
+      "date": "2010-06-14",
+      "team1": "Netherlands",
+      "team2": "Denmark",
+      "ground": "Soccer City, Johannesburg",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "13:30",
+        "fifa_archive_date": "2010-06-14",
+        "openfootball": "13:30",
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "13:30",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "300061478",
+      "fifa_match_number": 9
+    },
+    {
+      "date": "2010-06-14",
+      "team1": "Japan",
+      "team2": "Cameroon",
+      "ground": "Free State Stadium, Bloemfontein",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "16:00",
+        "fifa_archive_date": "2010-06-14",
+        "openfootball": "16:00",
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "16:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "300061477",
+      "fifa_match_number": 10
+    },
+    {
+      "date": "2010-06-19",
+      "team1": "Netherlands",
+      "team2": "Japan",
+      "ground": "Moses Mabhida Stadium, Durban",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "13:30",
+        "fifa_archive_date": "2010-06-19",
+        "openfootball": "13:30",
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "13:30",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "300111117",
+      "fifa_match_number": 25
+    },
+    {
+      "date": "2010-06-19",
+      "team1": "Cameroon",
+      "team2": "Denmark",
+      "ground": "Loftus Versfeld Stadium, Pretoria",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "20:30",
+        "fifa_archive_date": "2010-06-19",
+        "openfootball": "20:30",
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "20:30",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "300061475",
+      "fifa_match_number": 26
+    },
+    {
+      "date": "2010-06-24",
+      "team1": "Denmark",
+      "team2": "Japan",
+      "ground": "Royal Bafokeng Stadium, Rustenburg",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "20:30",
+        "fifa_archive_date": "2010-06-24",
+        "openfootball": "20:30",
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "20:30",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "300061474",
+      "fifa_match_number": 43
+    },
+    {
+      "date": "2010-06-24",
+      "team1": "Cameroon",
+      "team2": "Netherlands",
+      "ground": "Cape Town Stadium, Cape Town",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "20:30",
+        "fifa_archive_date": "2010-06-24",
+        "openfootball": "20:30",
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "20:30",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "300061473",
+      "fifa_match_number": 44
+    },
+    {
+      "date": "2010-06-14",
+      "team1": "Italy",
+      "team2": "Paraguay",
+      "ground": "Cape Town Stadium, Cape Town",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "20:30",
+        "fifa_archive_date": "2010-06-14",
+        "openfootball": "20:30",
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "20:30",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "300061484",
+      "fifa_match_number": 11
+    },
+    {
+      "date": "2010-06-15",
+      "team1": "New Zealand",
+      "team2": "Slovakia",
+      "ground": "Royal Bafokeng Stadium, Rustenburg",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "13:30",
+        "fifa_archive_date": "2010-06-15",
+        "openfootball": "13:30",
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "13:30",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "300061483",
+      "fifa_match_number": 12
+    },
+    {
+      "date": "2010-06-20",
+      "team1": "Slovakia",
+      "team2": "Paraguay",
+      "ground": "Free State Stadium, Bloemfontein",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "13:30",
+        "fifa_archive_date": "2010-06-20",
+        "openfootball": "13:30",
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "13:30",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "300061481",
+      "fifa_match_number": 27
+    },
+    {
+      "date": "2010-06-20",
+      "team1": "Italy",
+      "team2": "New Zealand",
+      "ground": "Mbombela Stadium, Nelspruit",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "16:00",
+        "fifa_archive_date": "2010-06-20",
+        "openfootball": "16:00",
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "16:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "300061482",
+      "fifa_match_number": 28
+    },
+    {
+      "date": "2010-06-24",
+      "team1": "Slovakia",
+      "team2": "Italy",
+      "ground": "Ellis Park Stadium, Johannesburg",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "16:00",
+        "fifa_archive_date": "2010-06-24",
+        "openfootball": "16:00",
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "16:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "300061480",
+      "fifa_match_number": 41
+    },
+    {
+      "date": "2010-06-24",
+      "team1": "Paraguay",
+      "team2": "New Zealand",
+      "ground": "Peter Mokaba Stadium, Polokwane",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "16:00",
+        "fifa_archive_date": "2010-06-24",
+        "openfootball": "16:00",
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "16:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "300061479",
+      "fifa_match_number": 42
+    },
+    {
+      "date": "2010-06-15",
+      "team1": "Côte d'Ivoire",
+      "team2": "Portugal",
+      "ground": "Nelson Mandela Bay Stadium, Port Elizabeth",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "16:00",
+        "fifa_archive_date": "2010-06-15",
+        "openfootball": "16:00",
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "16:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "300061489",
+      "fifa_match_number": 13
+    },
+    {
+      "date": "2010-06-15",
+      "team1": "Brazil",
+      "team2": "North Korea",
+      "ground": "Ellis Park Stadium, Johannesburg",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "20:30",
+        "fifa_archive_date": "2010-06-15",
+        "openfootball": "20:30",
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "20:30",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "300061490",
+      "fifa_match_number": 14
+    },
+    {
+      "date": "2010-06-20",
+      "team1": "Brazil",
+      "team2": "Côte d'Ivoire",
+      "ground": "Soccer City, Johannesburg",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "20:30",
+        "fifa_archive_date": "2010-06-20",
+        "openfootball": "20:30",
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "20:30",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "300061488",
+      "fifa_match_number": 29
+    },
+    {
+      "date": "2010-06-21",
+      "team1": "Portugal",
+      "team2": "North Korea",
+      "ground": "Cape Town Stadium, Cape Town",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "13:30",
+        "fifa_archive_date": "2010-06-21",
+        "openfootball": "13:30",
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "13:30",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "300061487",
+      "fifa_match_number": 30
+    },
+    {
+      "date": "2010-06-25",
+      "team1": "Portugal",
+      "team2": "Brazil",
+      "ground": "Moses Mabhida Stadium, Durban",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "16:00",
+        "fifa_archive_date": "2010-06-25",
+        "openfootball": "16:00",
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "16:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "300111111",
+      "fifa_match_number": 45
+    },
+    {
+      "date": "2010-06-25",
+      "team1": "North Korea",
+      "team2": "Côte d'Ivoire",
+      "ground": "Mbombela Stadium, Nelspruit",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "16:00",
+        "fifa_archive_date": "2010-06-25",
+        "openfootball": "16:00",
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "16:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "300061486",
+      "fifa_match_number": 46
+    },
+    {
+      "date": "2010-06-16",
+      "team1": "Honduras",
+      "team2": "Chile",
+      "ground": "Mbombela Stadium, Nelspruit",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "13:30",
+        "fifa_archive_date": "2010-06-16",
+        "openfootball": "13:30",
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "13:30",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "300061495",
+      "fifa_match_number": 15
+    },
+    {
+      "date": "2010-06-16",
+      "team1": "Spain",
+      "team2": "Switzerland",
+      "ground": "Moses Mabhida Stadium, Durban",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "16:00",
+        "fifa_archive_date": "2010-06-16",
+        "openfootball": "16:00",
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "16:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "300111112",
+      "fifa_match_number": 16
+    },
+    {
+      "date": "2010-06-21",
+      "team1": "Chile",
+      "team2": "Switzerland",
+      "ground": "Nelson Mandela Bay Stadium, Port Elizabeth",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "16:00",
+        "fifa_archive_date": "2010-06-21",
+        "openfootball": "16:00",
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "16:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "300061493",
+      "fifa_match_number": 31
+    },
+    {
+      "date": "2010-06-21",
+      "team1": "Spain",
+      "team2": "Honduras",
+      "ground": "Ellis Park Stadium, Johannesburg",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "20:30",
+        "fifa_archive_date": "2010-06-21",
+        "openfootball": "20:30",
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "20:30",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "300061494",
+      "fifa_match_number": 32
+    },
+    {
+      "date": "2010-06-25",
+      "team1": "Chile",
+      "team2": "Spain",
+      "ground": "Loftus Versfeld Stadium, Pretoria",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "20:30",
+        "fifa_archive_date": "2010-06-25",
+        "openfootball": "20:30",
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "20:30",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "300061491",
+      "fifa_match_number": 47
+    },
+    {
+      "date": "2010-06-25",
+      "team1": "Switzerland",
+      "team2": "Honduras",
+      "ground": "Free State Stadium, Bloemfontein",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "20:30",
+        "fifa_archive_date": "2010-06-25",
+        "openfootball": "20:30",
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "20:30",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "300061492",
+      "fifa_match_number": 48
+    },
+    {
+      "date": "2010-06-26",
+      "team1": "Uruguay",
+      "team2": "South Korea",
+      "ground": "Nelson Mandela Bay Stadium, Port Elizabeth",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "16:00",
+        "fifa_archive_date": "2010-06-26",
+        "openfootball": "16:00",
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "16:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "300061504",
+      "fifa_match_number": 49
+    },
+    {
+      "date": "2010-06-26",
+      "team1": "USA",
+      "team2": "Ghana",
+      "ground": "Royal Bafokeng Stadium, Rustenburg",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "20:30",
+        "fifa_archive_date": "2010-06-26",
+        "openfootball": "20:30",
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "20:30",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "300061503",
+      "fifa_match_number": 50
+    },
+    {
+      "date": "2010-06-27",
+      "team1": "Germany",
+      "team2": "England",
+      "ground": "Free State Stadium, Bloemfontein",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "16:00",
+        "fifa_archive_date": "2010-06-27",
+        "openfootball": "16:00",
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "16:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "300061501",
+      "fifa_match_number": 51
+    },
+    {
+      "date": "2010-06-27",
+      "team1": "Argentina",
+      "team2": "Mexico",
+      "ground": "Soccer City, Johannesburg",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "20:30",
+        "fifa_archive_date": "2010-06-27",
+        "openfootball": "20:30",
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "20:30",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "300061502",
+      "fifa_match_number": 52
+    },
+    {
+      "date": "2010-06-28",
+      "team1": "Netherlands",
+      "team2": "Slovakia",
+      "ground": "Moses Mabhida Stadium, Durban",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "16:00",
+        "fifa_archive_date": "2010-06-28",
+        "openfootball": "16:00",
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "16:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "300111113",
+      "fifa_match_number": 53
+    },
+    {
+      "date": "2010-06-28",
+      "team1": "Brazil",
+      "team2": "Chile",
+      "ground": "Ellis Park Stadium, Johannesburg",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "20:30",
+        "fifa_archive_date": "2010-06-28",
+        "openfootball": "20:30",
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "20:30",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "300061500",
+      "fifa_match_number": 54
+    },
+    {
+      "date": "2010-06-29",
+      "team1": "Paraguay",
+      "team2": "Japan",
+      "ground": "Loftus Versfeld Stadium, Pretoria",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "16:00",
+        "fifa_archive_date": "2010-06-29",
+        "openfootball": "16:00",
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "16:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "300061497",
+      "fifa_match_number": 55
+    },
+    {
+      "date": "2010-06-29",
+      "team1": "Spain",
+      "team2": "Portugal",
+      "ground": "Cape Town Stadium, Cape Town",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "20:30",
+        "fifa_archive_date": "2010-06-29",
+        "openfootball": "20:30",
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "20:30",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "300061498",
+      "fifa_match_number": 56
+    },
+    {
+      "date": "2010-07-02",
+      "team1": "Netherlands",
+      "team2": "Brazil",
+      "ground": "Nelson Mandela Bay Stadium, Port Elizabeth",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "16:00",
+        "fifa_archive_date": "2010-07-02",
+        "openfootball": "16:00",
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "16:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "300061507",
+      "fifa_match_number": 57
+    },
+    {
+      "date": "2010-07-02",
+      "team1": "Uruguay",
+      "team2": "Ghana",
+      "ground": "Soccer City, Johannesburg",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "20:30",
+        "fifa_archive_date": "2010-07-02",
+        "openfootball": "20:30",
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "20:30",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "300061508",
+      "fifa_match_number": 58
+    },
+    {
+      "date": "2010-07-03",
+      "team1": "Argentina",
+      "team2": "Germany",
+      "ground": "Cape Town Stadium, Cape Town",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "16:00",
+        "fifa_archive_date": "2010-07-03",
+        "openfootball": "16:00",
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "16:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "300061505",
+      "fifa_match_number": 59
+    },
+    {
+      "date": "2010-07-03",
+      "team1": "Paraguay",
+      "team2": "Spain",
+      "ground": "Ellis Park Stadium, Johannesburg",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "20:30",
+        "fifa_archive_date": "2010-07-03",
+        "openfootball": "20:30",
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "20:30",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "300061506",
+      "fifa_match_number": 60
+    },
+    {
+      "date": "2010-07-06",
+      "team1": "Uruguay",
+      "team2": "Netherlands",
+      "ground": "Cape Town Stadium, Cape Town",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "20:30",
+        "fifa_archive_date": "2010-07-06",
+        "openfootball": "20:30",
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "20:30",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "300061512",
+      "fifa_match_number": 61
+    },
+    {
+      "date": "2010-07-07",
+      "team1": "Germany",
+      "team2": "Spain",
+      "ground": "Moses Mabhida Stadium, Durban",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "20:30",
+        "fifa_archive_date": "2010-07-07",
+        "openfootball": "20:30",
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "20:30",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "300111114",
+      "fifa_match_number": 62
+    },
+    {
+      "date": "2010-07-10",
+      "team1": "Uruguay",
+      "team2": "Germany",
+      "ground": "Nelson Mandela Bay Stadium, Port Elizabeth",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "20:30",
+        "fifa_archive_date": "2010-07-10",
+        "openfootball": "20:30",
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "20:30",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "300061510",
+      "fifa_match_number": 63
+    },
+    {
+      "date": "2010-07-11",
+      "team1": "Netherlands",
+      "team2": "Spain",
+      "ground": "Soccer City, Johannesburg",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "20:30",
+        "fifa_archive_date": "2010-07-11",
+        "openfootball": "20:30",
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "20:30",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "300061509",
+      "fifa_match_number": 64
+    }
+  ]
+}

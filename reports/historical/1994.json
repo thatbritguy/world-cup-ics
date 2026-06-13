@@ -1,0 +1,1009 @@
+{
+  "year": 1994,
+  "allowed_world_cup": true,
+  "host_timezone": "multi-zone",
+  "source_availability": {
+    "openfootball": true,
+    "rsssf_full": true,
+    "fifa_archive": true
+  },
+  "match_count": 52,
+  "status_counts": {
+    "conflict": 44,
+    "corroborated": 1,
+    "single-source": 7
+  },
+  "existing_calendar_status": null,
+  "source_issues_resolved_in_enrichment": false,
+  "requires_review": true,
+  "matches": [
+    {
+      "date": "1994-06-18",
+      "team1": "USA",
+      "team2": "Switzerland",
+      "ground": "Pontiac Silverdome, Pontiac",
+      "sources": {
+        "rsssf": "17:35",
+        "rsssf_date": "1994-06-18",
+        "fifa_archive": "11:30",
+        "fifa_archive_date": "1994-06-18",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "17:35",
+      "status": "conflict",
+      "date_mismatch": false,
+      "fifa_match_id": "3051",
+      "fifa_match_number": 3
+    },
+    {
+      "date": "1994-06-18",
+      "team1": "Colombia",
+      "team2": "Romania",
+      "ground": "Rose Bowl, Pasadena",
+      "sources": {
+        "rsssf": "16:35",
+        "rsssf_date": "1994-06-18",
+        "fifa_archive": "19:30",
+        "fifa_archive_date": "1994-06-18",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "16:35",
+      "status": "conflict",
+      "date_mismatch": false,
+      "fifa_match_id": "3053",
+      "fifa_match_number": 5
+    },
+    {
+      "date": "1994-06-22",
+      "team1": "Romania",
+      "team2": "Switzerland",
+      "ground": "Pontiac Silverdome, Pontiac",
+      "sources": {
+        "rsssf": "16:05",
+        "rsssf_date": "1994-06-22",
+        "fifa_archive": "16:00",
+        "fifa_archive_date": "1994-06-22",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "16:05",
+      "status": "conflict",
+      "date_mismatch": false,
+      "fifa_match_id": "3062",
+      "fifa_match_number": 14
+    },
+    {
+      "date": "1994-06-22",
+      "team1": "USA",
+      "team2": "Colombia",
+      "ground": "Rose Bowl, Pasadena",
+      "sources": {
+        "rsssf": "16:35",
+        "rsssf_date": "1994-06-22",
+        "fifa_archive": "19:30",
+        "fifa_archive_date": "1994-06-22",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "16:35",
+      "status": "conflict",
+      "date_mismatch": false,
+      "fifa_match_id": "3063",
+      "fifa_match_number": 15
+    },
+    {
+      "date": "1994-06-26",
+      "team1": "USA",
+      "team2": "Romania",
+      "ground": "Rose Bowl, Pasadena",
+      "sources": {
+        "rsssf": "13:05",
+        "rsssf_date": "1994-06-26",
+        "fifa_archive": "16:00",
+        "fifa_archive_date": "1994-06-26",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "13:05",
+      "status": "conflict",
+      "date_mismatch": false,
+      "fifa_match_id": "3073",
+      "fifa_match_number": 25
+    },
+    {
+      "date": "1994-06-26",
+      "team1": "Switzerland",
+      "team2": "Colombia",
+      "ground": "Stanford Stadium, Stanford",
+      "sources": {
+        "rsssf": "13:05",
+        "rsssf_date": "1994-06-26",
+        "fifa_archive": "16:00",
+        "fifa_archive_date": "1994-06-26",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "13:05",
+      "status": "conflict",
+      "date_mismatch": false,
+      "fifa_match_id": "3074",
+      "fifa_match_number": 26
+    },
+    {
+      "date": "1994-06-19",
+      "team1": "Cameroon",
+      "team2": "Sweden",
+      "ground": "Rose Bowl, Pasadena",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "19:30",
+        "fifa_archive_date": "1994-06-19",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "19:30",
+      "status": "single-source",
+      "date_mismatch": false,
+      "fifa_match_id": "3056",
+      "fifa_match_number": 8
+    },
+    {
+      "date": "1994-06-20",
+      "team1": "Brazil",
+      "team2": "Russia",
+      "ground": "Stanford Stadium, Stanford",
+      "sources": {
+        "rsssf": "13:05",
+        "rsssf_date": "1994-06-20",
+        "fifa_archive": "16:00",
+        "fifa_archive_date": "1994-06-20",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "13:05",
+      "status": "conflict",
+      "date_mismatch": false,
+      "fifa_match_id": "3057",
+      "fifa_match_number": 9
+    },
+    {
+      "date": "1994-06-24",
+      "team1": "Brazil",
+      "team2": "Cameroon",
+      "ground": "Stanford Stadium, Stanford",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "16:00",
+        "fifa_archive_date": "1994-06-24",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "16:00",
+      "status": "single-source",
+      "date_mismatch": false,
+      "fifa_match_id": "3067",
+      "fifa_match_number": 19
+    },
+    {
+      "date": "1994-06-24",
+      "team1": "Sweden",
+      "team2": "Russia",
+      "ground": "Pontiac Silverdome, Pontiac",
+      "sources": {
+        "rsssf": "19:35",
+        "rsssf_date": "1994-06-24",
+        "fifa_archive": "19:30",
+        "fifa_archive_date": "1994-06-24",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "19:35",
+      "status": "conflict",
+      "date_mismatch": false,
+      "fifa_match_id": "3068",
+      "fifa_match_number": 20
+    },
+    {
+      "date": "1994-06-28",
+      "team1": "Russia",
+      "team2": "Cameroon",
+      "ground": "Stanford Stadium, Stanford",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "16:00",
+        "fifa_archive_date": "1994-06-28",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "16:00",
+      "status": "single-source",
+      "date_mismatch": false,
+      "fifa_match_id": "3079",
+      "fifa_match_number": 31
+    },
+    {
+      "date": "1994-06-28",
+      "team1": "Brazil",
+      "team2": "Sweden",
+      "ground": "Pontiac Silverdome, Pontiac",
+      "sources": {
+        "rsssf": "16:05",
+        "rsssf_date": "1994-06-28",
+        "fifa_archive": "16:00",
+        "fifa_archive_date": "1994-06-28",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "16:05",
+      "status": "conflict",
+      "date_mismatch": false,
+      "fifa_match_id": "3080",
+      "fifa_match_number": 32
+    },
+    {
+      "date": "1994-06-17",
+      "team1": "Germany",
+      "team2": "Bolivia",
+      "ground": "Soldier Field, Chicago",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "15:00",
+        "fifa_archive_date": "1994-06-17",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "15:00",
+      "status": "single-source",
+      "date_mismatch": false,
+      "fifa_match_id": "3049",
+      "fifa_match_number": 1
+    },
+    {
+      "date": "1994-06-17",
+      "team1": "Spain",
+      "team2": "South Korea",
+      "ground": "Cotton Bowl, Dallas",
+      "sources": {
+        "rsssf": "18:35",
+        "rsssf_date": "1994-06-17",
+        "fifa_archive": "19:30",
+        "fifa_archive_date": "1994-06-17",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "18:35",
+      "status": "conflict",
+      "date_mismatch": false,
+      "fifa_match_id": "3050",
+      "fifa_match_number": 2
+    },
+    {
+      "date": "1994-06-21",
+      "team1": "Germany",
+      "team2": "Spain",
+      "ground": "Soldier Field, Chicago",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "16:00",
+        "fifa_archive_date": "1994-06-21",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "16:00",
+      "status": "single-source",
+      "date_mismatch": false,
+      "fifa_match_id": "3060",
+      "fifa_match_number": 12
+    },
+    {
+      "date": "1994-06-23",
+      "team1": "South Korea",
+      "team2": "Bolivia",
+      "ground": "Foxboro Stadium, Foxborough",
+      "sources": {
+        "rsssf": "19:35",
+        "rsssf_date": "1994-06-23",
+        "fifa_archive": "19:30",
+        "fifa_archive_date": "1994-06-23",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "19:35",
+      "status": "conflict",
+      "date_mismatch": false,
+      "fifa_match_id": "3065",
+      "fifa_match_number": 17
+    },
+    {
+      "date": "1994-06-27",
+      "team1": "Bolivia",
+      "team2": "Spain",
+      "ground": "Soldier Field, Chicago",
+      "sources": {
+        "rsssf": "15:05",
+        "rsssf_date": "1994-06-27",
+        "fifa_archive": "16:00",
+        "fifa_archive_date": "1994-06-27",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "15:05",
+      "status": "conflict",
+      "date_mismatch": false,
+      "fifa_match_id": "3075",
+      "fifa_match_number": 27
+    },
+    {
+      "date": "1994-06-27",
+      "team1": "Germany",
+      "team2": "South Korea",
+      "ground": "Cotton Bowl, Dallas",
+      "sources": {
+        "rsssf": "16:05",
+        "rsssf_date": "1994-06-27",
+        "fifa_archive": "16:00",
+        "fifa_archive_date": "1994-06-27",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "16:05",
+      "status": "conflict",
+      "date_mismatch": false,
+      "fifa_match_id": "3076",
+      "fifa_match_number": 28
+    },
+    {
+      "date": "1994-06-21",
+      "team1": "Argentina",
+      "team2": "Greece",
+      "ground": "Foxboro Stadium, Foxborough",
+      "sources": {
+        "rsssf": "12:05",
+        "rsssf_date": "1994-06-21",
+        "fifa_archive": "12:30",
+        "fifa_archive_date": "1994-06-21",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "12:05",
+      "status": "conflict",
+      "date_mismatch": false,
+      "fifa_match_id": "3059",
+      "fifa_match_number": 11
+    },
+    {
+      "date": "1994-06-21",
+      "team1": "Nigeria",
+      "team2": "Bulgaria",
+      "ground": "Cotton Bowl, Dallas",
+      "sources": {
+        "rsssf": "18:35",
+        "rsssf_date": "1994-06-21",
+        "fifa_archive": "19:30",
+        "fifa_archive_date": "1994-06-21",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "18:35",
+      "status": "conflict",
+      "date_mismatch": false,
+      "fifa_match_id": "3061",
+      "fifa_match_number": 13
+    },
+    {
+      "date": "1994-06-25",
+      "team1": "Argentina",
+      "team2": "Nigeria",
+      "ground": "Foxboro Stadium, Foxborough",
+      "sources": {
+        "rsssf": "16:05",
+        "rsssf_date": "1994-06-25",
+        "fifa_archive": "16:00",
+        "fifa_archive_date": "1994-06-25",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "16:05",
+      "status": "conflict",
+      "date_mismatch": false,
+      "fifa_match_id": "3071",
+      "fifa_match_number": 23
+    },
+    {
+      "date": "1994-06-26",
+      "team1": "Greece",
+      "team2": "Bulgaria",
+      "ground": "Soldier Field, Chicago",
+      "sources": {
+        "rsssf": "11:35",
+        "rsssf_date": "1994-06-26",
+        "fifa_archive": "12:30",
+        "fifa_archive_date": "1994-06-26",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "11:35",
+      "status": "conflict",
+      "date_mismatch": false,
+      "fifa_match_id": "3072",
+      "fifa_match_number": 24
+    },
+    {
+      "date": "1994-06-30",
+      "team1": "Greece",
+      "team2": "Nigeria",
+      "ground": "Foxboro Stadium, Foxborough",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": "1994-06-30",
+        "fifa_archive": "19:30",
+        "fifa_archive_date": "1994-06-30",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "19:30",
+      "status": "single-source",
+      "date_mismatch": false,
+      "fifa_match_id": "3083",
+      "fifa_match_number": 35
+    },
+    {
+      "date": "1994-06-30",
+      "team1": "Argentina",
+      "team2": "Bulgaria",
+      "ground": "Cotton Bowl, Dallas",
+      "sources": {
+        "rsssf": "18:35",
+        "rsssf_date": "1994-06-30",
+        "fifa_archive": "19:30",
+        "fifa_archive_date": "1994-06-30",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "18:35",
+      "status": "conflict",
+      "date_mismatch": false,
+      "fifa_match_id": "3084",
+      "fifa_match_number": 36
+    },
+    {
+      "date": "1994-06-18",
+      "team1": "Italy",
+      "team2": "Ireland",
+      "ground": "Giants Stadium, East Rutherford",
+      "sources": {
+        "rsssf": "16:05",
+        "rsssf_date": "1994-06-18",
+        "fifa_archive": "16:00",
+        "fifa_archive_date": "1994-06-18",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "16:05",
+      "status": "conflict",
+      "date_mismatch": false,
+      "fifa_match_id": "3052",
+      "fifa_match_number": 4
+    },
+    {
+      "date": "1994-06-19",
+      "team1": "Norway",
+      "team2": "Mexico",
+      "ground": "RFK Stadium, Washington",
+      "sources": {
+        "rsssf": "16:05",
+        "rsssf_date": "1994-06-19",
+        "fifa_archive": "16:00",
+        "fifa_archive_date": "1994-06-19",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "16:05",
+      "status": "conflict",
+      "date_mismatch": false,
+      "fifa_match_id": "3055",
+      "fifa_match_number": 7
+    },
+    {
+      "date": "1994-06-23",
+      "team1": "Italy",
+      "team2": "Norway",
+      "ground": "Giants Stadium, East Rutherford",
+      "sources": {
+        "rsssf": "16:05",
+        "rsssf_date": "1994-06-23",
+        "fifa_archive": "16:00",
+        "fifa_archive_date": "1994-06-23",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "16:05",
+      "status": "conflict",
+      "date_mismatch": false,
+      "fifa_match_id": "3064",
+      "fifa_match_number": 16
+    },
+    {
+      "date": "1994-06-24",
+      "team1": "Mexico",
+      "team2": "Ireland",
+      "ground": "Citrus Bowl, Orlando",
+      "sources": {
+        "rsssf": "12:35",
+        "rsssf_date": "1994-06-24",
+        "fifa_archive": "12:30",
+        "fifa_archive_date": "1994-06-24",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "12:35",
+      "status": "conflict",
+      "date_mismatch": false,
+      "fifa_match_id": "3066",
+      "fifa_match_number": 18
+    },
+    {
+      "date": "1994-06-28",
+      "team1": "Ireland",
+      "team2": "Norway",
+      "ground": "Giants Stadium, East Rutherford",
+      "sources": {
+        "rsssf": "12:35",
+        "rsssf_date": "1994-06-28",
+        "fifa_archive": "12:30",
+        "fifa_archive_date": "1994-06-28",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "12:35",
+      "status": "conflict",
+      "date_mismatch": false,
+      "fifa_match_id": "3077",
+      "fifa_match_number": 29
+    },
+    {
+      "date": "1994-06-28",
+      "team1": "Italy",
+      "team2": "Mexico",
+      "ground": "RFK Stadium, Washington",
+      "sources": {
+        "rsssf": "12:35",
+        "rsssf_date": "1994-06-28",
+        "fifa_archive": "12:30",
+        "fifa_archive_date": "1994-06-28",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "12:35",
+      "status": "conflict",
+      "date_mismatch": false,
+      "fifa_match_id": "3078",
+      "fifa_match_number": 30
+    },
+    {
+      "date": "1994-06-19",
+      "team1": "Belgium",
+      "team2": "Morocco",
+      "ground": "Citrus Bowl, Orlando",
+      "sources": {
+        "rsssf": "12:35",
+        "rsssf_date": "1994-06-19",
+        "fifa_archive": "12:30",
+        "fifa_archive_date": "1994-06-19",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "12:35",
+      "status": "conflict",
+      "date_mismatch": false,
+      "fifa_match_id": "3054",
+      "fifa_match_number": 6
+    },
+    {
+      "date": "1994-06-20",
+      "team1": "Netherlands",
+      "team2": "Saudi Arabia",
+      "ground": "RFK Stadium, Washington",
+      "sources": {
+        "rsssf": "12:35",
+        "rsssf_date": "1994-06-20",
+        "fifa_archive": "19:30",
+        "fifa_archive_date": "1994-06-20",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "12:35",
+      "status": "conflict",
+      "date_mismatch": false,
+      "fifa_match_id": "3058",
+      "fifa_match_number": 10
+    },
+    {
+      "date": "1994-06-25",
+      "team1": "Belgium",
+      "team2": "Netherlands",
+      "ground": "Citrus Bowl, Orlando",
+      "sources": {
+        "rsssf": "12:35",
+        "rsssf_date": "1994-06-25",
+        "fifa_archive": "12:30",
+        "fifa_archive_date": "1994-06-25",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "12:35",
+      "status": "conflict",
+      "date_mismatch": false,
+      "fifa_match_id": "3069",
+      "fifa_match_number": 21
+    },
+    {
+      "date": "1994-06-25",
+      "team1": "Saudi Arabia",
+      "team2": "Morocco",
+      "ground": "Giants Stadium, East Rutherford",
+      "sources": {
+        "rsssf": "12:35",
+        "rsssf_date": "1994-06-25",
+        "fifa_archive": "12:30",
+        "fifa_archive_date": "1994-06-25",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "12:35",
+      "status": "conflict",
+      "date_mismatch": false,
+      "fifa_match_id": "3070",
+      "fifa_match_number": 22
+    },
+    {
+      "date": "1994-06-29",
+      "team1": "Morocco",
+      "team2": "Netherlands",
+      "ground": "Citrus Bowl, Orlando",
+      "sources": {
+        "rsssf": "12:35",
+        "rsssf_date": "1994-06-29",
+        "fifa_archive": "12:30",
+        "fifa_archive_date": "1994-06-29",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "12:35",
+      "status": "conflict",
+      "date_mismatch": false,
+      "fifa_match_id": "3081",
+      "fifa_match_number": 33
+    },
+    {
+      "date": "1994-06-29",
+      "team1": "Belgium",
+      "team2": "Saudi Arabia",
+      "ground": "RFK Stadium, Washington",
+      "sources": {
+        "rsssf": "12:35",
+        "rsssf_date": "1994-06-29",
+        "fifa_archive": "12:30",
+        "fifa_archive_date": "1994-06-29",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "12:35",
+      "status": "conflict",
+      "date_mismatch": false,
+      "fifa_match_id": "3082",
+      "fifa_match_number": 34
+    },
+    {
+      "date": "1994-07-02",
+      "team1": "Germany",
+      "team2": "Belgium",
+      "ground": "Soldier Field, Chicago",
+      "sources": {
+        "rsssf": "12:00",
+        "rsssf_date": "1994-07-02",
+        "fifa_archive": "12:00",
+        "fifa_archive_date": "1994-07-02",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "12:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "3085",
+      "fifa_match_number": 37
+    },
+    {
+      "date": "1994-07-02",
+      "team1": "Spain",
+      "team2": "Switzerland",
+      "ground": "RFK Stadium, Washington",
+      "sources": {
+        "rsssf": "16:35",
+        "rsssf_date": "1994-07-02",
+        "fifa_archive": "16:30",
+        "fifa_archive_date": "1994-07-02",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "16:35",
+      "status": "conflict",
+      "date_mismatch": false,
+      "fifa_match_id": "3086",
+      "fifa_match_number": 38
+    },
+    {
+      "date": "1994-07-03",
+      "team1": "Saudi Arabia",
+      "team2": "Sweden",
+      "ground": "Cotton Bowl, Dallas",
+      "sources": {
+        "rsssf": "12:05",
+        "rsssf_date": "1994-07-03",
+        "fifa_archive": "12:00",
+        "fifa_archive_date": "1994-07-03",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "12:05",
+      "status": "conflict",
+      "date_mismatch": false,
+      "fifa_match_id": "3087",
+      "fifa_match_number": 39
+    },
+    {
+      "date": "1994-07-03",
+      "team1": "Romania",
+      "team2": "Argentina",
+      "ground": "Rose Bowl, Pasadena",
+      "sources": {
+        "rsssf": "16:35",
+        "rsssf_date": "1994-07-03",
+        "fifa_archive": "13:30",
+        "fifa_archive_date": "1994-07-03",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "16:35",
+      "status": "conflict",
+      "date_mismatch": false,
+      "fifa_match_id": "3088",
+      "fifa_match_number": 40
+    },
+    {
+      "date": "1994-07-04",
+      "team1": "Netherlands",
+      "team2": "Ireland",
+      "ground": "Citrus Bowl, Orlando",
+      "sources": {
+        "rsssf": "12:05",
+        "rsssf_date": "1994-07-04",
+        "fifa_archive": "12:00",
+        "fifa_archive_date": "1994-07-04",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "12:05",
+      "status": "conflict",
+      "date_mismatch": false,
+      "fifa_match_id": "3089",
+      "fifa_match_number": 41
+    },
+    {
+      "date": "1994-07-04",
+      "team1": "Brazil",
+      "team2": "USA",
+      "ground": "Stanford Stadium, Stanford",
+      "sources": {
+        "rsssf": "16:35",
+        "rsssf_date": "1994-07-04",
+        "fifa_archive": "12:30",
+        "fifa_archive_date": "1994-07-04",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "16:35",
+      "status": "conflict",
+      "date_mismatch": false,
+      "fifa_match_id": "3090",
+      "fifa_match_number": 42
+    },
+    {
+      "date": "1994-07-05",
+      "team1": "Nigeria",
+      "team2": "Italy",
+      "ground": "Foxboro Stadium, Foxborough",
+      "sources": {
+        "rsssf": "12:05",
+        "rsssf_date": "1994-07-05",
+        "fifa_archive": "13:00",
+        "fifa_archive_date": "1994-07-05",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "12:05",
+      "status": "conflict",
+      "date_mismatch": false,
+      "fifa_match_id": "3091",
+      "fifa_match_number": 43
+    },
+    {
+      "date": "1994-07-05",
+      "team1": "Mexico",
+      "team2": "Bulgaria",
+      "ground": "Giants Stadium, East Rutherford",
+      "sources": {
+        "rsssf": "16:35",
+        "rsssf_date": "1994-07-05",
+        "fifa_archive": "16:30",
+        "fifa_archive_date": "1994-07-05",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "16:35",
+      "status": "conflict",
+      "date_mismatch": false,
+      "fifa_match_id": "3092",
+      "fifa_match_number": 44
+    },
+    {
+      "date": "1994-07-09",
+      "team1": "Italy",
+      "team2": "Spain",
+      "ground": "Foxboro Stadium, Foxborough",
+      "sources": {
+        "rsssf": "12:05",
+        "rsssf_date": "1994-07-09",
+        "fifa_archive": "12:00",
+        "fifa_archive_date": "1994-07-09",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "12:05",
+      "status": "conflict",
+      "date_mismatch": false,
+      "fifa_match_id": "3097",
+      "fifa_match_number": 45
+    },
+    {
+      "date": "1994-07-09",
+      "team1": "Netherlands",
+      "team2": "Brazil",
+      "ground": "Cotton Bowl, Dallas",
+      "sources": {
+        "rsssf": "14:35",
+        "rsssf_date": "1994-07-09",
+        "fifa_archive": "14:30",
+        "fifa_archive_date": "1994-07-09",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "14:35",
+      "status": "conflict",
+      "date_mismatch": false,
+      "fifa_match_id": "3098",
+      "fifa_match_number": 46
+    },
+    {
+      "date": "1994-07-10",
+      "team1": "Bulgaria",
+      "team2": "Germany",
+      "ground": "Giants Stadium, East Rutherford",
+      "sources": {
+        "rsssf": "12:05",
+        "rsssf_date": "1994-07-10",
+        "fifa_archive": "12:00",
+        "fifa_archive_date": "1994-07-10",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "12:05",
+      "status": "conflict",
+      "date_mismatch": false,
+      "fifa_match_id": "3096",
+      "fifa_match_number": 47
+    },
+    {
+      "date": "1994-07-10",
+      "team1": "Romania",
+      "team2": "Sweden",
+      "ground": "Stanford Stadium, Stanford",
+      "sources": {
+        "rsssf": "16:35",
+        "rsssf_date": "1994-07-10",
+        "fifa_archive": "12:30",
+        "fifa_archive_date": "1994-07-10",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "16:35",
+      "status": "conflict",
+      "date_mismatch": false,
+      "fifa_match_id": "3095",
+      "fifa_match_number": 48
+    },
+    {
+      "date": "1994-07-13",
+      "team1": "Bulgaria",
+      "team2": "Italy",
+      "ground": "Giants Stadium, East Rutherford",
+      "sources": {
+        "rsssf": "16:05",
+        "rsssf_date": "1994-07-13",
+        "fifa_archive": "16:00",
+        "fifa_archive_date": "1994-07-13",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "16:05",
+      "status": "conflict",
+      "date_mismatch": false,
+      "fifa_match_id": "3100",
+      "fifa_match_number": 49
+    },
+    {
+      "date": "1994-07-13",
+      "team1": "Sweden",
+      "team2": "Brazil",
+      "ground": "Rose Bowl, Pasadena",
+      "sources": {
+        "rsssf": "16:35",
+        "rsssf_date": "1994-07-13",
+        "fifa_archive": "16:30",
+        "fifa_archive_date": "1994-07-13",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "16:35",
+      "status": "conflict",
+      "date_mismatch": false,
+      "fifa_match_id": "3099",
+      "fifa_match_number": 50
+    },
+    {
+      "date": "1994-07-16",
+      "team1": "Sweden",
+      "team2": "Bulgaria",
+      "ground": "Rose Bowl, Pasadena",
+      "sources": {
+        "rsssf": "12:35",
+        "rsssf_date": "1994-07-16",
+        "fifa_archive": "12:30",
+        "fifa_archive_date": "1994-07-16",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "12:35",
+      "status": "conflict",
+      "date_mismatch": false,
+      "fifa_match_id": "3103",
+      "fifa_match_number": 51
+    },
+    {
+      "date": "1994-07-17",
+      "team1": "Brazil",
+      "team2": "Italy",
+      "ground": "Rose Bowl, Pasadena",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": "1994-07-17",
+        "fifa_archive": "12:30",
+        "fifa_archive_date": "1994-07-17",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "12:30",
+      "status": "single-source",
+      "date_mismatch": false,
+      "fifa_match_id": "3104",
+      "fifa_match_number": 52
+    }
+  ]
+}

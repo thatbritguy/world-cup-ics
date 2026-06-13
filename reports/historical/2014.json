@@ -1,0 +1,1236 @@
+{
+  "year": 2014,
+  "allowed_world_cup": true,
+  "host_timezone": "multi-zone",
+  "source_availability": {
+    "openfootball": true,
+    "rsssf_full": false,
+    "fifa_archive": true
+  },
+  "match_count": 64,
+  "status_counts": {
+    "accepted-modern-source": 3,
+    "corroborated": 61
+  },
+  "existing_calendar_status": null,
+  "source_issues_resolved_in_enrichment": false,
+  "requires_review": false,
+  "matches": [
+    {
+      "date": "2014-06-12",
+      "team1": "Brazil",
+      "team2": "Croatia",
+      "ground": "Arena de São Paulo, São Paulo",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "17:00",
+        "fifa_archive_date": "2014-06-12",
+        "openfootball": "17:00",
+        "openfootball_utc_offset": "-3"
+      },
+      "selected_local_time": "17:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "300186456",
+      "fifa_match_number": 1
+    },
+    {
+      "date": "2014-06-13",
+      "team1": "Mexico",
+      "team2": "Cameroon",
+      "ground": "Estádio das Dunas, Natal",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "13:00",
+        "fifa_archive_date": "2014-06-13",
+        "openfootball": "13:00",
+        "openfootball_utc_offset": "-3"
+      },
+      "selected_local_time": "13:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "300186492",
+      "fifa_match_number": 2
+    },
+    {
+      "date": "2014-06-17",
+      "team1": "Brazil",
+      "team2": "Mexico",
+      "ground": "Estádio Castelão, Fortaleza",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "16:00",
+        "fifa_archive_date": "2014-06-17",
+        "openfootball": "16:00",
+        "openfootball_utc_offset": "-3"
+      },
+      "selected_local_time": "16:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "300186509",
+      "fifa_match_number": 17
+    },
+    {
+      "date": "2014-06-18",
+      "team1": "Cameroon",
+      "team2": "Croatia",
+      "ground": "Arena Amazônia, Manaus",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "18:00",
+        "fifa_archive_date": "2014-06-18",
+        "openfootball": "18:00",
+        "openfootball_utc_offset": "-4"
+      },
+      "selected_local_time": "18:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "300186453",
+      "fifa_match_number": 18
+    },
+    {
+      "date": "2014-06-23",
+      "team1": "Cameroon",
+      "team2": "Brazil",
+      "ground": "Estádio Nacional Mané Garrincha, Brasília",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "17:00",
+        "fifa_archive_date": "2014-06-23",
+        "openfootball": "17:00",
+        "openfootball_utc_offset": "-3"
+      },
+      "selected_local_time": "17:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "300186472",
+      "fifa_match_number": 33
+    },
+    {
+      "date": "2014-06-23",
+      "team1": "Croatia",
+      "team2": "Mexico",
+      "ground": "Arena Pernambuco, Recife",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "17:00",
+        "fifa_archive_date": "2014-06-23",
+        "openfootball": "17:00",
+        "openfootball_utc_offset": "-3"
+      },
+      "selected_local_time": "17:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "300186452",
+      "fifa_match_number": 34
+    },
+    {
+      "date": "2014-06-13",
+      "team1": "Spain",
+      "team2": "Netherlands",
+      "ground": "Arena Fonte Nova, Salvador",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "16:00",
+        "fifa_archive_date": "2014-06-13",
+        "openfootball": "16:00",
+        "openfootball_utc_offset": "-3"
+      },
+      "selected_local_time": "16:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "300186510",
+      "fifa_match_number": 3
+    },
+    {
+      "date": "2014-06-13",
+      "team1": "Chile",
+      "team2": "Australia",
+      "ground": "Arena Pantanal, Cuiabá",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "18:00",
+        "fifa_archive_date": "2014-06-13",
+        "openfootball": "18:00",
+        "openfootball_utc_offset": "-4"
+      },
+      "selected_local_time": "18:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "300186473",
+      "fifa_match_number": 4
+    },
+    {
+      "date": "2014-06-18",
+      "team1": "Australia",
+      "team2": "Netherlands",
+      "ground": "Estádio Beira-Rio, Porto Alegre",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "13:00",
+        "fifa_archive_date": "2014-06-18",
+        "openfootball": "13:00",
+        "openfootball_utc_offset": "-3"
+      },
+      "selected_local_time": "13:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "300186478",
+      "fifa_match_number": 20
+    },
+    {
+      "date": "2014-06-18",
+      "team1": "Spain",
+      "team2": "Chile",
+      "ground": "Estádio do Maracanã, Rio de Janeiro",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "16:00",
+        "fifa_archive_date": "2014-06-18",
+        "openfootball": "16:00",
+        "openfootball_utc_offset": "-3"
+      },
+      "selected_local_time": "16:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "300186498",
+      "fifa_match_number": 19
+    },
+    {
+      "date": "2014-06-23",
+      "team1": "Australia",
+      "team2": "Spain",
+      "ground": "Arena da Baixada, Curitiba",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "13:00",
+        "fifa_archive_date": "2014-06-23",
+        "openfootball": "13:00",
+        "openfootball_utc_offset": "-3"
+      },
+      "selected_local_time": "13:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "300186467",
+      "fifa_match_number": 35
+    },
+    {
+      "date": "2014-06-23",
+      "team1": "Netherlands",
+      "team2": "Chile",
+      "ground": "Arena de São Paulo, São Paulo",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "13:00",
+        "fifa_archive_date": "2014-06-23",
+        "openfootball": "13:00",
+        "openfootball_utc_offset": "-3"
+      },
+      "selected_local_time": "13:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "300186470",
+      "fifa_match_number": 36
+    },
+    {
+      "date": "2014-06-14",
+      "team1": "Colombia",
+      "team2": "Greece",
+      "ground": "Estádio Mineirão, Belo Horizonte",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "13:00",
+        "fifa_archive_date": "2014-06-14",
+        "openfootball": "13:00",
+        "openfootball_utc_offset": "-3"
+      },
+      "selected_local_time": "13:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "300186471",
+      "fifa_match_number": 5
+    },
+    {
+      "date": "2014-06-14",
+      "team1": "Côte d'Ivoire",
+      "team2": "Japan",
+      "ground": "Arena Pernambuco, Recife",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "22:00",
+        "fifa_archive_date": "2014-06-14",
+        "openfootball": "22:00",
+        "openfootball_utc_offset": "-3"
+      },
+      "selected_local_time": "22:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "300186507",
+      "fifa_match_number": 6
+    },
+    {
+      "date": "2014-06-19",
+      "team1": "Colombia",
+      "team2": "Côte d'Ivoire",
+      "ground": "Estádio Nacional Mané Garrincha, Brasília",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "13:00",
+        "fifa_archive_date": "2014-06-19",
+        "openfootball": "13:00",
+        "openfootball_utc_offset": "-3"
+      },
+      "selected_local_time": "13:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "300186468",
+      "fifa_match_number": 21
+    },
+    {
+      "date": "2014-06-19",
+      "team1": "Japan",
+      "team2": "Greece",
+      "ground": "Estádio das Dunas, Natal",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "19:00",
+        "fifa_archive_date": "2014-06-19",
+        "openfootball": "19:00",
+        "openfootball_utc_offset": "-3"
+      },
+      "selected_local_time": "19:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "300186454",
+      "fifa_match_number": 22
+    },
+    {
+      "date": "2014-06-24",
+      "team1": "Japan",
+      "team2": "Colombia",
+      "ground": "Arena Pantanal, Cuiabá",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "16:00",
+        "fifa_archive_date": "2014-06-24",
+        "openfootball": "16:00",
+        "openfootball_utc_offset": "-4"
+      },
+      "selected_local_time": "16:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "300186457",
+      "fifa_match_number": 37
+    },
+    {
+      "date": "2014-06-24",
+      "team1": "Greece",
+      "team2": "Côte d'Ivoire",
+      "ground": "Estádio Castelão, Fortaleza",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "17:00",
+        "fifa_archive_date": "2014-06-24",
+        "openfootball": "17:00",
+        "openfootball_utc_offset": "-3"
+      },
+      "selected_local_time": "17:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "300186455",
+      "fifa_match_number": 38
+    },
+    {
+      "date": "2014-06-14",
+      "team1": "Uruguay",
+      "team2": "Costa Rica",
+      "ground": "Estádio Castelão, Fortaleza",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "16:00",
+        "fifa_archive_date": "2014-06-14",
+        "openfootball": "16:00",
+        "openfootball_utc_offset": "-3"
+      },
+      "selected_local_time": "16:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "300186489",
+      "fifa_match_number": 7
+    },
+    {
+      "date": "2014-06-14",
+      "team1": "England",
+      "team2": "Italy",
+      "ground": "Arena Amazônia, Manaus",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "18:00",
+        "fifa_archive_date": "2014-06-14",
+        "openfootball": "18:00",
+        "openfootball_utc_offset": "-4"
+      },
+      "selected_local_time": "18:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "300186513",
+      "fifa_match_number": 8
+    },
+    {
+      "date": "2014-06-19",
+      "team1": "Uruguay",
+      "team2": "England",
+      "ground": "Arena de São Paulo, São Paulo",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "16:00",
+        "fifa_archive_date": "2014-06-19",
+        "openfootball": "16:00",
+        "openfootball_utc_offset": "-3"
+      },
+      "selected_local_time": "16:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "300186486",
+      "fifa_match_number": 23
+    },
+    {
+      "date": "2014-06-20",
+      "team1": "Italy",
+      "team2": "Costa Rica",
+      "ground": "Arena Pernambuco, Recife",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "13:00",
+        "fifa_archive_date": "2014-06-20",
+        "openfootball": "13:00",
+        "openfootball_utc_offset": "-3"
+      },
+      "selected_local_time": "13:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "300186500",
+      "fifa_match_number": 24
+    },
+    {
+      "date": "2014-06-24",
+      "team1": "Italy",
+      "team2": "Uruguay",
+      "ground": "Estádio das Dunas, Natal",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "13:00",
+        "fifa_archive_date": "2014-06-24",
+        "openfootball": "13:00",
+        "openfootball_utc_offset": "-3"
+      },
+      "selected_local_time": "13:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "300186465",
+      "fifa_match_number": 39
+    },
+    {
+      "date": "2014-06-24",
+      "team1": "Costa Rica",
+      "team2": "England",
+      "ground": "Estádio Mineirão, Belo Horizonte",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "13:00",
+        "fifa_archive_date": "2014-06-24",
+        "openfootball": "13:00",
+        "openfootball_utc_offset": "-3"
+      },
+      "selected_local_time": "13:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "300186484",
+      "fifa_match_number": 40
+    },
+    {
+      "date": "2014-06-15",
+      "team1": "Switzerland",
+      "team2": "Ecuador",
+      "ground": "Estádio Nacional Mané Garrincha, Brasília",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "13:00",
+        "fifa_archive_date": "2014-06-15",
+        "openfootball": "13:00",
+        "openfootball_utc_offset": "-3"
+      },
+      "selected_local_time": "13:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "300186494",
+      "fifa_match_number": 9
+    },
+    {
+      "date": "2014-06-15",
+      "team1": "France",
+      "team2": "Honduras",
+      "ground": "Estádio Beira-Rio, Porto Alegre",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "16:00",
+        "fifa_archive_date": "2014-06-15",
+        "openfootball": "16:00",
+        "openfootball_utc_offset": "-3"
+      },
+      "selected_local_time": "16:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "300186496",
+      "fifa_match_number": 10
+    },
+    {
+      "date": "2014-06-20",
+      "team1": "Switzerland",
+      "team2": "France",
+      "ground": "Arena Fonte Nova, Salvador",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "16:00",
+        "fifa_archive_date": "2014-06-20",
+        "openfootball": "16:00",
+        "openfootball_utc_offset": "-3"
+      },
+      "selected_local_time": "16:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "300186514",
+      "fifa_match_number": 25
+    },
+    {
+      "date": "2014-06-20",
+      "team1": "Honduras",
+      "team2": "Ecuador",
+      "ground": "Arena da Baixada, Curitiba",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "19:00",
+        "fifa_archive_date": "2014-06-20",
+        "openfootball": "19:00",
+        "openfootball_utc_offset": "-3"
+      },
+      "selected_local_time": "19:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "300186463",
+      "fifa_match_number": 26
+    },
+    {
+      "date": "2014-06-25",
+      "team1": "Honduras",
+      "team2": "Switzerland",
+      "ground": "Arena Amazônia, Manaus",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "16:00",
+        "fifa_archive_date": "2014-06-25",
+        "openfootball": "16:00",
+        "openfootball_utc_offset": "-4"
+      },
+      "selected_local_time": "16:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "300186482",
+      "fifa_match_number": 41
+    },
+    {
+      "date": "2014-06-25",
+      "team1": "Ecuador",
+      "team2": "France",
+      "ground": "Estádio do Maracanã, Rio de Janeiro",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "17:00",
+        "fifa_archive_date": "2014-06-25",
+        "openfootball": "17:00",
+        "openfootball_utc_offset": "-3"
+      },
+      "selected_local_time": "17:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "300186515",
+      "fifa_match_number": 42
+    },
+    {
+      "date": "2014-06-15",
+      "team1": "Argentina",
+      "team2": "Bosnia-Herzegovina",
+      "ground": "Estádio do Maracanã, Rio de Janeiro",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": null,
+        "fifa_archive_date": null,
+        "openfootball": "19:00",
+        "openfootball_utc_offset": "-3"
+      },
+      "selected_local_time": "19:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": null,
+      "fifa_match_number": null
+    },
+    {
+      "date": "2014-06-16",
+      "team1": "Iran",
+      "team2": "Nigeria",
+      "ground": "Arena da Baixada, Curitiba",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "16:00",
+        "fifa_archive_date": "2014-06-16",
+        "openfootball": "16:00",
+        "openfootball_utc_offset": "-3"
+      },
+      "selected_local_time": "16:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "300186505",
+      "fifa_match_number": 12
+    },
+    {
+      "date": "2014-06-21",
+      "team1": "Argentina",
+      "team2": "Iran",
+      "ground": "Estádio Mineirão, Belo Horizonte",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "13:00",
+        "fifa_archive_date": "2014-06-21",
+        "openfootball": "13:00",
+        "openfootball_utc_offset": "-3"
+      },
+      "selected_local_time": "13:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "300186466",
+      "fifa_match_number": 27
+    },
+    {
+      "date": "2014-06-21",
+      "team1": "Nigeria",
+      "team2": "Bosnia-Herzegovina",
+      "ground": "Arena Pantanal, Cuiabá",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": null,
+        "fifa_archive_date": null,
+        "openfootball": "18:00",
+        "openfootball_utc_offset": "-4"
+      },
+      "selected_local_time": "18:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": null,
+      "fifa_match_number": null
+    },
+    {
+      "date": "2014-06-25",
+      "team1": "Nigeria",
+      "team2": "Argentina",
+      "ground": "Estádio Beira-Rio, Porto Alegre",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "13:00",
+        "fifa_archive_date": "2014-06-25",
+        "openfootball": "13:00",
+        "openfootball_utc_offset": "-3"
+      },
+      "selected_local_time": "13:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "300186458",
+      "fifa_match_number": 43
+    },
+    {
+      "date": "2014-06-25",
+      "team1": "Bosnia-Herzegovina",
+      "team2": "Iran",
+      "ground": "Arena Fonte Nova, Salvador",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": null,
+        "fifa_archive_date": null,
+        "openfootball": "13:00",
+        "openfootball_utc_offset": "-3"
+      },
+      "selected_local_time": "13:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": null,
+      "fifa_match_number": null
+    },
+    {
+      "date": "2014-06-16",
+      "team1": "Germany",
+      "team2": "Portugal",
+      "ground": "Arena Fonte Nova, Salvador",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "13:00",
+        "fifa_archive_date": "2014-06-16",
+        "openfootball": "13:00",
+        "openfootball_utc_offset": "-3"
+      },
+      "selected_local_time": "13:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "300186475",
+      "fifa_match_number": 13
+    },
+    {
+      "date": "2014-06-16",
+      "team1": "Ghana",
+      "team2": "USA",
+      "ground": "Estádio das Dunas, Natal",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "19:00",
+        "fifa_archive_date": "2014-06-16",
+        "openfootball": "19:00",
+        "openfootball_utc_offset": "-3"
+      },
+      "selected_local_time": "19:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "300186512",
+      "fifa_match_number": 14
+    },
+    {
+      "date": "2014-06-21",
+      "team1": "Germany",
+      "team2": "Ghana",
+      "ground": "Estádio Castelão, Fortaleza",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "16:00",
+        "fifa_archive_date": "2014-06-21",
+        "openfootball": "16:00",
+        "openfootball_utc_offset": "-3"
+      },
+      "selected_local_time": "16:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "300186493",
+      "fifa_match_number": 29
+    },
+    {
+      "date": "2014-06-22",
+      "team1": "USA",
+      "team2": "Portugal",
+      "ground": "Arena Amazônia, Manaus",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "18:00",
+        "fifa_archive_date": "2014-06-22",
+        "openfootball": "18:00",
+        "openfootball_utc_offset": "-4"
+      },
+      "selected_local_time": "18:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "300186483",
+      "fifa_match_number": 30
+    },
+    {
+      "date": "2014-06-26",
+      "team1": "USA",
+      "team2": "Germany",
+      "ground": "Arena Pernambuco, Recife",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "13:00",
+        "fifa_archive_date": "2014-06-26",
+        "openfootball": "13:00",
+        "openfootball_utc_offset": "-3"
+      },
+      "selected_local_time": "13:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "300186469",
+      "fifa_match_number": 45
+    },
+    {
+      "date": "2014-06-26",
+      "team1": "Portugal",
+      "team2": "Ghana",
+      "ground": "Estádio Nacional Mané Garrincha, Brasília",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "13:00",
+        "fifa_archive_date": "2014-06-26",
+        "openfootball": "13:00",
+        "openfootball_utc_offset": "-3"
+      },
+      "selected_local_time": "13:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "300186476",
+      "fifa_match_number": 46
+    },
+    {
+      "date": "2014-06-17",
+      "team1": "Belgium",
+      "team2": "Algeria",
+      "ground": "Estádio Mineirão, Belo Horizonte",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "13:00",
+        "fifa_archive_date": "2014-06-17",
+        "openfootball": "13:00",
+        "openfootball_utc_offset": "-3"
+      },
+      "selected_local_time": "13:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "300186479",
+      "fifa_match_number": 15
+    },
+    {
+      "date": "2014-06-17",
+      "team1": "Russia",
+      "team2": "South Korea",
+      "ground": "Arena Pantanal, Cuiabá",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "18:00",
+        "fifa_archive_date": "2014-06-17",
+        "openfootball": "18:00",
+        "openfootball_utc_offset": "-4"
+      },
+      "selected_local_time": "18:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "300186499",
+      "fifa_match_number": 16
+    },
+    {
+      "date": "2014-06-22",
+      "team1": "Belgium",
+      "team2": "Russia",
+      "ground": "Estádio do Maracanã, Rio de Janeiro",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "13:00",
+        "fifa_archive_date": "2014-06-22",
+        "openfootball": "13:00",
+        "openfootball_utc_offset": "-3"
+      },
+      "selected_local_time": "13:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "300186481",
+      "fifa_match_number": 31
+    },
+    {
+      "date": "2014-06-22",
+      "team1": "South Korea",
+      "team2": "Algeria",
+      "ground": "Estádio Beira-Rio, Porto Alegre",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "16:00",
+        "fifa_archive_date": "2014-06-22",
+        "openfootball": "16:00",
+        "openfootball_utc_offset": "-3"
+      },
+      "selected_local_time": "16:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "300186495",
+      "fifa_match_number": 32
+    },
+    {
+      "date": "2014-06-26",
+      "team1": "South Korea",
+      "team2": "Belgium",
+      "ground": "Arena de São Paulo, São Paulo",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "17:00",
+        "fifa_archive_date": "2014-06-26",
+        "openfootball": "17:00",
+        "openfootball_utc_offset": "-3"
+      },
+      "selected_local_time": "17:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "300186480",
+      "fifa_match_number": 47
+    },
+    {
+      "date": "2014-06-26",
+      "team1": "Algeria",
+      "team2": "Russia",
+      "ground": "Arena da Baixada, Curitiba",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "17:00",
+        "fifa_archive_date": "2014-06-26",
+        "openfootball": "17:00",
+        "openfootball_utc_offset": "-3"
+      },
+      "selected_local_time": "17:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "300186506",
+      "fifa_match_number": 48
+    },
+    {
+      "date": "2014-06-28",
+      "team1": "Brazil",
+      "team2": "Chile",
+      "ground": "Estádio Mineirão, Belo Horizonte",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "13:00",
+        "fifa_archive_date": "2014-06-28",
+        "openfootball": "13:00",
+        "openfootball_utc_offset": "-3"
+      },
+      "selected_local_time": "13:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "300186487",
+      "fifa_match_number": 49
+    },
+    {
+      "date": "2014-06-28",
+      "team1": "Colombia",
+      "team2": "Uruguay",
+      "ground": "Estádio do Maracanã, Rio de Janeiro",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "17:00",
+        "fifa_archive_date": "2014-06-28",
+        "openfootball": "17:00",
+        "openfootball_utc_offset": "-3"
+      },
+      "selected_local_time": "17:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "300186491",
+      "fifa_match_number": 50
+    },
+    {
+      "date": "2014-06-29",
+      "team1": "Netherlands",
+      "team2": "Mexico",
+      "ground": "Estádio Castelão, Fortaleza",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "13:00",
+        "fifa_archive_date": "2014-06-29",
+        "openfootball": "13:00",
+        "openfootball_utc_offset": "-3"
+      },
+      "selected_local_time": "13:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "300186508",
+      "fifa_match_number": 51
+    },
+    {
+      "date": "2014-06-29",
+      "team1": "Costa Rica",
+      "team2": "Greece",
+      "ground": "Arena Pernambuco, Recife",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "17:00",
+        "fifa_archive_date": "2014-06-29",
+        "openfootball": "17:00",
+        "openfootball_utc_offset": "-3"
+      },
+      "selected_local_time": "17:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "300186459",
+      "fifa_match_number": 52
+    },
+    {
+      "date": "2014-06-30",
+      "team1": "France",
+      "team2": "Nigeria",
+      "ground": "Estádio Nacional Mané Garrincha, Brasília",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "13:00",
+        "fifa_archive_date": "2014-06-30",
+        "openfootball": "13:00",
+        "openfootball_utc_offset": "-3"
+      },
+      "selected_local_time": "13:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "300186462",
+      "fifa_match_number": 53
+    },
+    {
+      "date": "2014-06-30",
+      "team1": "Germany",
+      "team2": "Algeria",
+      "ground": "Estádio Beira-Rio, Porto Alegre",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "17:00",
+        "fifa_archive_date": "2014-06-30",
+        "openfootball": "17:00",
+        "openfootball_utc_offset": "-3"
+      },
+      "selected_local_time": "17:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "300186460",
+      "fifa_match_number": 54
+    },
+    {
+      "date": "2014-07-01",
+      "team1": "Argentina",
+      "team2": "Switzerland",
+      "ground": "Arena de São Paulo, São Paulo",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "13:00",
+        "fifa_archive_date": "2014-07-01",
+        "openfootball": "13:00",
+        "openfootball_utc_offset": "-3"
+      },
+      "selected_local_time": "13:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "300186503",
+      "fifa_match_number": 55
+    },
+    {
+      "date": "2014-07-01",
+      "team1": "Belgium",
+      "team2": "USA",
+      "ground": "Arena Fonte Nova, Salvador",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "17:00",
+        "fifa_archive_date": "2014-07-01",
+        "openfootball": "17:00",
+        "openfootball_utc_offset": "-3"
+      },
+      "selected_local_time": "17:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "300186497",
+      "fifa_match_number": 56
+    },
+    {
+      "date": "2014-07-04",
+      "team1": "France",
+      "team2": "Germany",
+      "ground": "Estádio do Maracanã, Rio de Janeiro",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "13:00",
+        "fifa_archive_date": "2014-07-04",
+        "openfootball": "13:00",
+        "openfootball_utc_offset": "-3"
+      },
+      "selected_local_time": "13:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "300186485",
+      "fifa_match_number": 58
+    },
+    {
+      "date": "2014-07-04",
+      "team1": "Brazil",
+      "team2": "Colombia",
+      "ground": "Estádio Castelão, Fortaleza",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "17:00",
+        "fifa_archive_date": "2014-07-04",
+        "openfootball": "17:00",
+        "openfootball_utc_offset": "-3"
+      },
+      "selected_local_time": "17:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "300186461",
+      "fifa_match_number": 57
+    },
+    {
+      "date": "2014-07-05",
+      "team1": "Argentina",
+      "team2": "Belgium",
+      "ground": "Estádio Nacional Mané Garrincha, Brasília",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "13:00",
+        "fifa_archive_date": "2014-07-05",
+        "openfootball": "13:00",
+        "openfootball_utc_offset": "-3"
+      },
+      "selected_local_time": "13:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "300186504",
+      "fifa_match_number": 60
+    },
+    {
+      "date": "2014-07-05",
+      "team1": "Netherlands",
+      "team2": "Costa Rica",
+      "ground": "Arena Fonte Nova, Salvador",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "17:00",
+        "fifa_archive_date": "2014-07-05",
+        "openfootball": "17:00",
+        "openfootball_utc_offset": "-3"
+      },
+      "selected_local_time": "17:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "300186488",
+      "fifa_match_number": 59
+    },
+    {
+      "date": "2014-07-08",
+      "team1": "Brazil",
+      "team2": "Germany",
+      "ground": "Estádio Mineirão, Belo Horizonte",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "17:00",
+        "fifa_archive_date": "2014-07-08",
+        "openfootball": "17:00",
+        "openfootball_utc_offset": "-3"
+      },
+      "selected_local_time": "17:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "300186474",
+      "fifa_match_number": 61
+    },
+    {
+      "date": "2014-07-09",
+      "team1": "Netherlands",
+      "team2": "Argentina",
+      "ground": "Arena de São Paulo, São Paulo",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "17:00",
+        "fifa_archive_date": "2014-07-09",
+        "openfootball": "17:00",
+        "openfootball_utc_offset": "-3"
+      },
+      "selected_local_time": "17:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "300186490",
+      "fifa_match_number": 62
+    },
+    {
+      "date": "2014-07-12",
+      "team1": "Brazil",
+      "team2": "Netherlands",
+      "ground": "Estádio Nacional Mané Garrincha, Brasília",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "17:00",
+        "fifa_archive_date": "2014-07-12",
+        "openfootball": "17:00",
+        "openfootball_utc_offset": "-3"
+      },
+      "selected_local_time": "17:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "300186502",
+      "fifa_match_number": 63
+    },
+    {
+      "date": "2014-07-13",
+      "team1": "Germany",
+      "team2": "Argentina",
+      "ground": "Estádio do Maracanã, Rio de Janeiro",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "16:00",
+        "fifa_archive_date": "2014-07-13",
+        "openfootball": "16:00",
+        "openfootball_utc_offset": "-3"
+      },
+      "selected_local_time": "16:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "300186501",
+      "fifa_match_number": 64
+    }
+  ]
+}

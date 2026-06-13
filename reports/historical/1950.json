@@ -1,0 +1,438 @@
+{
+  "year": 1950,
+  "allowed_world_cup": true,
+  "host_timezone": "America/Sao_Paulo",
+  "source_availability": {
+    "openfootball": true,
+    "rsssf_full": true,
+    "fifa_archive": true
+  },
+  "match_count": 22,
+  "status_counts": {
+    "conflict": 5,
+    "corroborated": 17
+  },
+  "existing_calendar_status": "validated",
+  "source_issues_resolved_in_enrichment": true,
+  "requires_review": false,
+  "matches": [
+    {
+      "date": "1950-06-24",
+      "team1": "Brazil",
+      "team2": "Mexico",
+      "ground": "Estádio do Maracanã, Rio de Janeiro",
+      "sources": {
+        "rsssf": "15:00",
+        "rsssf_date": "1950-06-24",
+        "fifa_archive": "15:00",
+        "fifa_archive_date": "1950-06-24",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "15:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1187",
+      "fifa_match_number": 1
+    },
+    {
+      "date": "1950-06-25",
+      "team1": "Yugoslavia",
+      "team2": "Switzerland",
+      "ground": "Estádio Independência, Belo Horizonte",
+      "sources": {
+        "rsssf": "18:00",
+        "rsssf_date": "1950-06-25",
+        "fifa_archive": "15:00",
+        "fifa_archive_date": "1950-06-25",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "18:00",
+      "status": "conflict",
+      "date_mismatch": false,
+      "fifa_match_id": "1230",
+      "fifa_match_number": 5
+    },
+    {
+      "date": "1950-06-28",
+      "team1": "Brazil",
+      "team2": "Switzerland",
+      "ground": "Estádio do Pacaembu, São Paulo",
+      "sources": {
+        "rsssf": "15:00",
+        "rsssf_date": "1950-06-28",
+        "fifa_archive": "15:00",
+        "fifa_archive_date": "1950-06-28",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "15:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1188",
+      "fifa_match_number": 6
+    },
+    {
+      "date": "1950-06-28",
+      "team1": "Yugoslavia",
+      "team2": "Mexico",
+      "ground": "Estádio dos Eucaliptos, Porto Alegre",
+      "sources": {
+        "rsssf": "18:15",
+        "rsssf_date": "1950-06-29",
+        "fifa_archive": "15:00",
+        "fifa_archive_date": "1950-06-28",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "18:15",
+      "status": "conflict",
+      "date_mismatch": true,
+      "fifa_match_id": "1225",
+      "fifa_match_number": 7
+    },
+    {
+      "date": "1950-07-01",
+      "team1": "Brazil",
+      "team2": "Yugoslavia",
+      "ground": "Estádio do Maracanã, Rio de Janeiro",
+      "sources": {
+        "rsssf": "15:00",
+        "rsssf_date": "1950-07-01",
+        "fifa_archive": "15:00",
+        "fifa_archive_date": "1950-07-01",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "15:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1191",
+      "fifa_match_number": 11
+    },
+    {
+      "date": "1950-07-02",
+      "team1": "Switzerland",
+      "team2": "Mexico",
+      "ground": "Estádio dos Eucaliptos, Porto Alegre",
+      "sources": {
+        "rsssf": "15:40",
+        "rsssf_date": "1950-07-02",
+        "fifa_archive": "15:40",
+        "fifa_archive_date": "1950-07-02",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "15:40",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1222",
+      "fifa_match_number": 14
+    },
+    {
+      "date": "1950-06-25",
+      "team1": "England",
+      "team2": "Chile",
+      "ground": "Estádio do Maracanã, Rio de Janeiro",
+      "sources": {
+        "rsssf": "15:00",
+        "rsssf_date": "1950-06-25",
+        "fifa_archive": "15:00",
+        "fifa_archive_date": "1950-06-25",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "15:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1192",
+      "fifa_match_number": 2
+    },
+    {
+      "date": "1950-06-25",
+      "team1": "Spain",
+      "team2": "United States",
+      "ground": "Estádio Durival de Britto, Curitiba",
+      "sources": {
+        "rsssf": "15:30",
+        "rsssf_date": "1950-06-25",
+        "fifa_archive": "15:00",
+        "fifa_archive_date": "1950-06-25",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "15:30",
+      "status": "conflict",
+      "date_mismatch": false,
+      "fifa_match_id": "1208",
+      "fifa_match_number": 3
+    },
+    {
+      "date": "1950-06-29",
+      "team1": "Spain",
+      "team2": "Chile",
+      "ground": "Estádio do Maracanã, Rio de Janeiro",
+      "sources": {
+        "rsssf": "15:00",
+        "rsssf_date": "1950-06-29",
+        "fifa_archive": "15:00",
+        "fifa_archive_date": "1950-06-29",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "15:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1193",
+      "fifa_match_number": 8
+    },
+    {
+      "date": "1950-06-29",
+      "team1": "United States",
+      "team2": "England",
+      "ground": "Estádio Independência, Belo Horizonte",
+      "sources": {
+        "rsssf": "18:00",
+        "rsssf_date": "1950-06-29",
+        "fifa_archive": "15:00",
+        "fifa_archive_date": "1950-06-29",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "18:00",
+      "status": "conflict",
+      "date_mismatch": false,
+      "fifa_match_id": "1202",
+      "fifa_match_number": 10
+    },
+    {
+      "date": "1950-07-02",
+      "team1": "Spain",
+      "team2": "England",
+      "ground": "Estádio do Maracanã, Rio de Janeiro",
+      "sources": {
+        "rsssf": "15:00",
+        "rsssf_date": "1950-07-02",
+        "fifa_archive": "15:00",
+        "fifa_archive_date": "1950-07-02",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "15:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1199",
+      "fifa_match_number": 12
+    },
+    {
+      "date": "1950-07-02",
+      "team1": "Chile",
+      "team2": "United States",
+      "ground": "Estádio Ilha do Retiro, Recife",
+      "sources": {
+        "rsssf": "18:00",
+        "rsssf_date": "1950-07-02",
+        "fifa_archive": "15:00",
+        "fifa_archive_date": "1950-07-02",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "18:00",
+      "status": "conflict",
+      "date_mismatch": false,
+      "fifa_match_id": "1194",
+      "fifa_match_number": 15
+    },
+    {
+      "date": "1950-06-25",
+      "team1": "Sweden",
+      "team2": "Italy",
+      "ground": "Estádio do Pacaembu, São Paulo",
+      "sources": {
+        "rsssf": "15:00",
+        "rsssf_date": "1950-06-25",
+        "fifa_archive": "15:00",
+        "fifa_archive_date": "1950-06-25",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "15:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1219",
+      "fifa_match_number": 4
+    },
+    {
+      "date": "1950-06-29",
+      "team1": "Sweden",
+      "team2": "Paraguay",
+      "ground": "Estádio Durival Britto, Curitiba",
+      "sources": {
+        "rsssf": "15:30",
+        "rsssf_date": "1950-06-29",
+        "fifa_archive": "15:30",
+        "fifa_archive_date": "1950-06-29",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "15:30",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1228",
+      "fifa_match_number": 9
+    },
+    {
+      "date": "1950-07-02",
+      "team1": "Italy",
+      "team2": "Paraguay",
+      "ground": "Estádio do Pacaembu, São Paulo",
+      "sources": {
+        "rsssf": "15:00",
+        "rsssf_date": "1950-07-02",
+        "fifa_archive": "15:00",
+        "fifa_archive_date": "1950-07-02",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "15:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1218",
+      "fifa_match_number": 13
+    },
+    {
+      "date": "1950-07-02",
+      "team1": "Uruguay",
+      "team2": "Bolivia",
+      "ground": "Estádio Independência, Belo Horizonte",
+      "sources": {
+        "rsssf": "15:00",
+        "rsssf_date": "1950-07-02",
+        "fifa_archive": "15:00",
+        "fifa_archive_date": "1950-07-02",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "15:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1185",
+      "fifa_match_number": 16
+    },
+    {
+      "date": "1950-07-09",
+      "team1": "Uruguay",
+      "team2": "Spain",
+      "ground": "Estádio do Pacaembu, São Paulo",
+      "sources": {
+        "rsssf": "15:00",
+        "rsssf_date": "1950-07-09",
+        "fifa_archive": "15:00",
+        "fifa_archive_date": "1950-07-09",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "15:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1207",
+      "fifa_match_number": 17
+    },
+    {
+      "date": "1950-07-09",
+      "team1": "Brazil",
+      "team2": "Sweden",
+      "ground": "Estádio do Maracanã, Rio de Janeiro",
+      "sources": {
+        "rsssf": "15:00",
+        "rsssf_date": "1950-07-03",
+        "fifa_archive": "15:00",
+        "fifa_archive_date": "1950-07-09",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "15:00",
+      "status": "corroborated",
+      "date_mismatch": true,
+      "fifa_match_id": "1189",
+      "fifa_match_number": 18
+    },
+    {
+      "date": "1950-07-13",
+      "team1": "Brazil",
+      "team2": "Spain",
+      "ground": "Estádio do Maracanã, Rio de Janeiro",
+      "sources": {
+        "rsssf": "15:00",
+        "rsssf_date": "1950-07-13",
+        "fifa_archive": "15:00",
+        "fifa_archive_date": "1950-07-13",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "15:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1186",
+      "fifa_match_number": 19
+    },
+    {
+      "date": "1950-07-13",
+      "team1": "Uruguay",
+      "team2": "Sweden",
+      "ground": "Estádio do Pacaembu, São Paulo",
+      "sources": {
+        "rsssf": "15:00",
+        "rsssf_date": "1950-07-13",
+        "fifa_archive": "15:00",
+        "fifa_archive_date": "1950-07-13",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "15:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1231",
+      "fifa_match_number": 20
+    },
+    {
+      "date": "1950-07-16",
+      "team1": "Sweden",
+      "team2": "Spain",
+      "ground": "Estádio do Pacaembu, São Paulo",
+      "sources": {
+        "rsssf": "15:00",
+        "rsssf_date": "1950-07-16",
+        "fifa_archive": "15:00",
+        "fifa_archive_date": "1950-07-16",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "15:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1206",
+      "fifa_match_number": 21
+    },
+    {
+      "date": "1950-07-16",
+      "team1": "Uruguay",
+      "team2": "Brazil",
+      "ground": "Estádio do Maracanã, Rio de Janeiro",
+      "sources": {
+        "rsssf": "15:00",
+        "rsssf_date": "1950-07-16",
+        "fifa_archive": "15:00",
+        "fifa_archive_date": "1950-07-16",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "15:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1190",
+      "fifa_match_number": 22
+    }
+  ]
+}

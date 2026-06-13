@@ -1,0 +1,1235 @@
+{
+  "year": 2018,
+  "allowed_world_cup": true,
+  "host_timezone": "multi-zone",
+  "source_availability": {
+    "openfootball": true,
+    "rsssf_full": false,
+    "fifa_archive": false
+  },
+  "match_count": 64,
+  "status_counts": {
+    "accepted-modern-source": 64
+  },
+  "existing_calendar_status": null,
+  "source_issues_resolved_in_enrichment": false,
+  "requires_review": false,
+  "matches": [
+    {
+      "date": "2018-06-14",
+      "team1": "Russia",
+      "team2": "Saudi Arabia",
+      "ground": "Luzhniki Stadium, Moscow",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": null,
+        "fifa_archive_date": null,
+        "openfootball": "18:00",
+        "openfootball_utc_offset": "+3"
+      },
+      "selected_local_time": "18:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": null,
+      "fifa_match_number": null
+    },
+    {
+      "date": "2018-06-15",
+      "team1": "Egypt",
+      "team2": "Uruguay",
+      "ground": "Ekaterinburg Arena, Ekaterinburg",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": null,
+        "fifa_archive_date": null,
+        "openfootball": "17:00",
+        "openfootball_utc_offset": "+5"
+      },
+      "selected_local_time": "17:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": null,
+      "fifa_match_number": null
+    },
+    {
+      "date": "2018-06-19",
+      "team1": "Russia",
+      "team2": "Egypt",
+      "ground": "Saint Petersburg Stadium, Saint Petersburg",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": null,
+        "fifa_archive_date": null,
+        "openfootball": "21:00",
+        "openfootball_utc_offset": "+3"
+      },
+      "selected_local_time": "21:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": null,
+      "fifa_match_number": null
+    },
+    {
+      "date": "2018-06-20",
+      "team1": "Uruguay",
+      "team2": "Saudi Arabia",
+      "ground": "Rostov Arena, Rostov-on-Don",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": null,
+        "fifa_archive_date": null,
+        "openfootball": "18:00",
+        "openfootball_utc_offset": "+3"
+      },
+      "selected_local_time": "18:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": null,
+      "fifa_match_number": null
+    },
+    {
+      "date": "2018-06-25",
+      "team1": "Uruguay",
+      "team2": "Russia",
+      "ground": "Samara Arena, Samara",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": null,
+        "fifa_archive_date": null,
+        "openfootball": "18:00",
+        "openfootball_utc_offset": "+4"
+      },
+      "selected_local_time": "18:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": null,
+      "fifa_match_number": null
+    },
+    {
+      "date": "2018-06-25",
+      "team1": "Saudi Arabia",
+      "team2": "Egypt",
+      "ground": "Volgograd Arena, Volgograd",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": null,
+        "fifa_archive_date": null,
+        "openfootball": "17:00",
+        "openfootball_utc_offset": "+3"
+      },
+      "selected_local_time": "17:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": null,
+      "fifa_match_number": null
+    },
+    {
+      "date": "2018-06-15",
+      "team1": "Morocco",
+      "team2": "Iran",
+      "ground": "Saint Petersburg Stadium, Saint Petersburg",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": null,
+        "fifa_archive_date": null,
+        "openfootball": "18:00",
+        "openfootball_utc_offset": "+3"
+      },
+      "selected_local_time": "18:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": null,
+      "fifa_match_number": null
+    },
+    {
+      "date": "2018-06-15",
+      "team1": "Portugal",
+      "team2": "Spain",
+      "ground": "Fisht Stadium, Sochi",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": null,
+        "fifa_archive_date": null,
+        "openfootball": "21:00",
+        "openfootball_utc_offset": "+3"
+      },
+      "selected_local_time": "21:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": null,
+      "fifa_match_number": null
+    },
+    {
+      "date": "2018-06-20",
+      "team1": "Portugal",
+      "team2": "Morocco",
+      "ground": "Luzhniki Stadium, Moscow",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": null,
+        "fifa_archive_date": null,
+        "openfootball": "15:00",
+        "openfootball_utc_offset": "+3"
+      },
+      "selected_local_time": "15:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": null,
+      "fifa_match_number": null
+    },
+    {
+      "date": "2018-06-20",
+      "team1": "Iran",
+      "team2": "Spain",
+      "ground": "Kazan Arena, Kazan",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": null,
+        "fifa_archive_date": null,
+        "openfootball": "21:00",
+        "openfootball_utc_offset": "+3"
+      },
+      "selected_local_time": "21:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": null,
+      "fifa_match_number": null
+    },
+    {
+      "date": "2018-06-25",
+      "team1": "Iran",
+      "team2": "Portugal",
+      "ground": "Mordovia Arena, Saransk",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": null,
+        "fifa_archive_date": null,
+        "openfootball": "21:00",
+        "openfootball_utc_offset": "+3"
+      },
+      "selected_local_time": "21:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": null,
+      "fifa_match_number": null
+    },
+    {
+      "date": "2018-06-25",
+      "team1": "Spain",
+      "team2": "Morocco",
+      "ground": "Kaliningrad Stadium, Kaliningrad",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": null,
+        "fifa_archive_date": null,
+        "openfootball": "20:00",
+        "openfootball_utc_offset": "+2"
+      },
+      "selected_local_time": "20:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": null,
+      "fifa_match_number": null
+    },
+    {
+      "date": "2018-06-16",
+      "team1": "France",
+      "team2": "Australia",
+      "ground": "Kazan Arena, Kazan",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": null,
+        "fifa_archive_date": null,
+        "openfootball": "13:00",
+        "openfootball_utc_offset": "+3"
+      },
+      "selected_local_time": "13:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": null,
+      "fifa_match_number": null
+    },
+    {
+      "date": "2018-06-16",
+      "team1": "Peru",
+      "team2": "Denmark",
+      "ground": "Mordovia Arena, Saransk",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": null,
+        "fifa_archive_date": null,
+        "openfootball": "19:00",
+        "openfootball_utc_offset": "+3"
+      },
+      "selected_local_time": "19:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": null,
+      "fifa_match_number": null
+    },
+    {
+      "date": "2018-06-21",
+      "team1": "Denmark",
+      "team2": "Australia",
+      "ground": "Samara Arena, Samara",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": null,
+        "fifa_archive_date": null,
+        "openfootball": "16:00",
+        "openfootball_utc_offset": "+4"
+      },
+      "selected_local_time": "16:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": null,
+      "fifa_match_number": null
+    },
+    {
+      "date": "2018-06-21",
+      "team1": "France",
+      "team2": "Peru",
+      "ground": "Ekaterinburg Arena, Ekaterinburg",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": null,
+        "fifa_archive_date": null,
+        "openfootball": "20:00",
+        "openfootball_utc_offset": "+5"
+      },
+      "selected_local_time": "20:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": null,
+      "fifa_match_number": null
+    },
+    {
+      "date": "2018-06-26",
+      "team1": "Denmark",
+      "team2": "France",
+      "ground": "Luzhniki Stadium, Moscow",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": null,
+        "fifa_archive_date": null,
+        "openfootball": "17:00",
+        "openfootball_utc_offset": "+3"
+      },
+      "selected_local_time": "17:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": null,
+      "fifa_match_number": null
+    },
+    {
+      "date": "2018-06-26",
+      "team1": "Australia",
+      "team2": "Peru",
+      "ground": "Fisht Stadium, Sochi",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": null,
+        "fifa_archive_date": null,
+        "openfootball": "17:00",
+        "openfootball_utc_offset": "+3"
+      },
+      "selected_local_time": "17:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": null,
+      "fifa_match_number": null
+    },
+    {
+      "date": "2018-06-16",
+      "team1": "Argentina",
+      "team2": "Iceland",
+      "ground": "Spartak Stadium, Moscow",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": null,
+        "fifa_archive_date": null,
+        "openfootball": "16:00",
+        "openfootball_utc_offset": "+3"
+      },
+      "selected_local_time": "16:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": null,
+      "fifa_match_number": null
+    },
+    {
+      "date": "2018-06-16",
+      "team1": "Croatia",
+      "team2": "Nigeria",
+      "ground": "Kaliningrad Stadium, Kaliningrad",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": null,
+        "fifa_archive_date": null,
+        "openfootball": "21:00",
+        "openfootball_utc_offset": "+2"
+      },
+      "selected_local_time": "21:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": null,
+      "fifa_match_number": null
+    },
+    {
+      "date": "2018-06-21",
+      "team1": "Argentina",
+      "team2": "Croatia",
+      "ground": "Nizhny Novgorod Stadium, Nizhny Novgorod",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": null,
+        "fifa_archive_date": null,
+        "openfootball": "21:00",
+        "openfootball_utc_offset": "+3"
+      },
+      "selected_local_time": "21:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": null,
+      "fifa_match_number": null
+    },
+    {
+      "date": "2018-06-22",
+      "team1": "Nigeria",
+      "team2": "Iceland",
+      "ground": "Volgograd Arena, Volgograd",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": null,
+        "fifa_archive_date": null,
+        "openfootball": "18:00",
+        "openfootball_utc_offset": "+3"
+      },
+      "selected_local_time": "18:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": null,
+      "fifa_match_number": null
+    },
+    {
+      "date": "2018-06-26",
+      "team1": "Nigeria",
+      "team2": "Argentina",
+      "ground": "Saint Petersburg Stadium, Saint Petersburg",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": null,
+        "fifa_archive_date": null,
+        "openfootball": "21:00",
+        "openfootball_utc_offset": "+3"
+      },
+      "selected_local_time": "21:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": null,
+      "fifa_match_number": null
+    },
+    {
+      "date": "2018-06-26",
+      "team1": "Iceland",
+      "team2": "Croatia",
+      "ground": "Rostov Arena, Rostov-on-Don",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": null,
+        "fifa_archive_date": null,
+        "openfootball": "21:00",
+        "openfootball_utc_offset": "+3"
+      },
+      "selected_local_time": "21:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": null,
+      "fifa_match_number": null
+    },
+    {
+      "date": "2018-06-17",
+      "team1": "Costa Rica",
+      "team2": "Serbia",
+      "ground": "Samara Arena, Samara",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": null,
+        "fifa_archive_date": null,
+        "openfootball": "16:00",
+        "openfootball_utc_offset": "+4"
+      },
+      "selected_local_time": "16:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": null,
+      "fifa_match_number": null
+    },
+    {
+      "date": "2018-06-17",
+      "team1": "Brazil",
+      "team2": "Switzerland",
+      "ground": "Rostov Arena, Rostov-on-Don",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": null,
+        "fifa_archive_date": null,
+        "openfootball": "21:00",
+        "openfootball_utc_offset": "+3"
+      },
+      "selected_local_time": "21:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": null,
+      "fifa_match_number": null
+    },
+    {
+      "date": "2018-06-22",
+      "team1": "Brazil",
+      "team2": "Costa Rica",
+      "ground": "Saint Petersburg Stadium, Saint Petersburg",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": null,
+        "fifa_archive_date": null,
+        "openfootball": "15:00",
+        "openfootball_utc_offset": "+3"
+      },
+      "selected_local_time": "15:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": null,
+      "fifa_match_number": null
+    },
+    {
+      "date": "2018-06-22",
+      "team1": "Serbia",
+      "team2": "Switzerland",
+      "ground": "Kaliningrad Stadium, Kaliningrad",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": null,
+        "fifa_archive_date": null,
+        "openfootball": "20:00",
+        "openfootball_utc_offset": "+2"
+      },
+      "selected_local_time": "20:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": null,
+      "fifa_match_number": null
+    },
+    {
+      "date": "2018-06-27",
+      "team1": "Serbia",
+      "team2": "Brazil",
+      "ground": "Spartak Stadium, Moscow",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": null,
+        "fifa_archive_date": null,
+        "openfootball": "21:00",
+        "openfootball_utc_offset": "+3"
+      },
+      "selected_local_time": "21:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": null,
+      "fifa_match_number": null
+    },
+    {
+      "date": "2018-06-27",
+      "team1": "Switzerland",
+      "team2": "Costa Rica",
+      "ground": "Nizhny Novgorod Stadium, Nizhny Novgorod",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": null,
+        "fifa_archive_date": null,
+        "openfootball": "21:00",
+        "openfootball_utc_offset": "+3"
+      },
+      "selected_local_time": "21:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": null,
+      "fifa_match_number": null
+    },
+    {
+      "date": "2018-06-17",
+      "team1": "Germany",
+      "team2": "Mexico",
+      "ground": "Luzhniki Stadium, Moscow",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": null,
+        "fifa_archive_date": null,
+        "openfootball": "18:00",
+        "openfootball_utc_offset": "+3"
+      },
+      "selected_local_time": "18:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": null,
+      "fifa_match_number": null
+    },
+    {
+      "date": "2018-06-18",
+      "team1": "Sweden",
+      "team2": "South Korea",
+      "ground": "Nizhny Novgorod Stadium, Nizhny Novgorod",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": null,
+        "fifa_archive_date": null,
+        "openfootball": "15:00",
+        "openfootball_utc_offset": "+3"
+      },
+      "selected_local_time": "15:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": null,
+      "fifa_match_number": null
+    },
+    {
+      "date": "2018-06-23",
+      "team1": "South Korea",
+      "team2": "Mexico",
+      "ground": "Rostov Arena, Rostov-on-Don",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": null,
+        "fifa_archive_date": null,
+        "openfootball": "18:00",
+        "openfootball_utc_offset": "+3"
+      },
+      "selected_local_time": "18:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": null,
+      "fifa_match_number": null
+    },
+    {
+      "date": "2018-06-23",
+      "team1": "Germany",
+      "team2": "Sweden",
+      "ground": "Fisht Stadium, Sochi",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": null,
+        "fifa_archive_date": null,
+        "openfootball": "21:00",
+        "openfootball_utc_offset": "+3"
+      },
+      "selected_local_time": "21:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": null,
+      "fifa_match_number": null
+    },
+    {
+      "date": "2018-06-27",
+      "team1": "South Korea",
+      "team2": "Germany",
+      "ground": "Kazan Arena, Kazan",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": null,
+        "fifa_archive_date": null,
+        "openfootball": "17:00",
+        "openfootball_utc_offset": "+3"
+      },
+      "selected_local_time": "17:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": null,
+      "fifa_match_number": null
+    },
+    {
+      "date": "2018-06-27",
+      "team1": "Mexico",
+      "team2": "Sweden",
+      "ground": "Ekaterinburg Arena, Ekaterinburg",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": null,
+        "fifa_archive_date": null,
+        "openfootball": "19:00",
+        "openfootball_utc_offset": "+5"
+      },
+      "selected_local_time": "19:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": null,
+      "fifa_match_number": null
+    },
+    {
+      "date": "2018-06-18",
+      "team1": "Belgium",
+      "team2": "Panama",
+      "ground": "Fisht Stadium, Sochi",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": null,
+        "fifa_archive_date": null,
+        "openfootball": "18:00",
+        "openfootball_utc_offset": "+3"
+      },
+      "selected_local_time": "18:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": null,
+      "fifa_match_number": null
+    },
+    {
+      "date": "2018-06-18",
+      "team1": "Tunisia",
+      "team2": "England",
+      "ground": "Volgograd Arena, Volgograd",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": null,
+        "fifa_archive_date": null,
+        "openfootball": "21:00",
+        "openfootball_utc_offset": "+3"
+      },
+      "selected_local_time": "21:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": null,
+      "fifa_match_number": null
+    },
+    {
+      "date": "2018-06-23",
+      "team1": "Belgium",
+      "team2": "Tunisia",
+      "ground": "Spartak Stadium, Moscow",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": null,
+        "fifa_archive_date": null,
+        "openfootball": "15:00",
+        "openfootball_utc_offset": "+3"
+      },
+      "selected_local_time": "15:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": null,
+      "fifa_match_number": null
+    },
+    {
+      "date": "2018-06-24",
+      "team1": "England",
+      "team2": "Panama",
+      "ground": "Nizhny Novgorod Stadium, Nizhny Novgorod",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": null,
+        "fifa_archive_date": null,
+        "openfootball": "15:00",
+        "openfootball_utc_offset": "+3"
+      },
+      "selected_local_time": "15:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": null,
+      "fifa_match_number": null
+    },
+    {
+      "date": "2018-06-28",
+      "team1": "England",
+      "team2": "Belgium",
+      "ground": "Kaliningrad Stadium, Kaliningrad",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": null,
+        "fifa_archive_date": null,
+        "openfootball": "20:00",
+        "openfootball_utc_offset": "+2"
+      },
+      "selected_local_time": "20:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": null,
+      "fifa_match_number": null
+    },
+    {
+      "date": "2018-06-28",
+      "team1": "Panama",
+      "team2": "Tunisia",
+      "ground": "Mordovia Arena, Saransk",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": null,
+        "fifa_archive_date": null,
+        "openfootball": "21:00",
+        "openfootball_utc_offset": "+3"
+      },
+      "selected_local_time": "21:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": null,
+      "fifa_match_number": null
+    },
+    {
+      "date": "2018-06-19",
+      "team1": "Colombia",
+      "team2": "Japan",
+      "ground": "Mordovia Arena, Saransk",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": null,
+        "fifa_archive_date": null,
+        "openfootball": "15:00",
+        "openfootball_utc_offset": "+3"
+      },
+      "selected_local_time": "15:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": null,
+      "fifa_match_number": null
+    },
+    {
+      "date": "2018-06-19",
+      "team1": "Poland",
+      "team2": "Senegal",
+      "ground": "Spartak Stadium, Moscow",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": null,
+        "fifa_archive_date": null,
+        "openfootball": "18:00",
+        "openfootball_utc_offset": "+3"
+      },
+      "selected_local_time": "18:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": null,
+      "fifa_match_number": null
+    },
+    {
+      "date": "2018-06-24",
+      "team1": "Japan",
+      "team2": "Senegal",
+      "ground": "Ekaterinburg Arena, Ekaterinburg",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": null,
+        "fifa_archive_date": null,
+        "openfootball": "20:00",
+        "openfootball_utc_offset": "+5"
+      },
+      "selected_local_time": "20:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": null,
+      "fifa_match_number": null
+    },
+    {
+      "date": "2018-06-24",
+      "team1": "Poland",
+      "team2": "Colombia",
+      "ground": "Kazan Arena, Kazan",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": null,
+        "fifa_archive_date": null,
+        "openfootball": "21:00",
+        "openfootball_utc_offset": "+3"
+      },
+      "selected_local_time": "21:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": null,
+      "fifa_match_number": null
+    },
+    {
+      "date": "2018-06-28",
+      "team1": "Japan",
+      "team2": "Poland",
+      "ground": "Volgograd Arena, Volgograd",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": null,
+        "fifa_archive_date": null,
+        "openfootball": "17:00",
+        "openfootball_utc_offset": "+3"
+      },
+      "selected_local_time": "17:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": null,
+      "fifa_match_number": null
+    },
+    {
+      "date": "2018-06-28",
+      "team1": "Senegal",
+      "team2": "Colombia",
+      "ground": "Samara Arena, Samara",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": null,
+        "fifa_archive_date": null,
+        "openfootball": "18:00",
+        "openfootball_utc_offset": "+4"
+      },
+      "selected_local_time": "18:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": null,
+      "fifa_match_number": null
+    },
+    {
+      "date": "2018-06-30",
+      "team1": "France",
+      "team2": "Argentina",
+      "ground": "Kazan Arena, Kazan",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": null,
+        "fifa_archive_date": null,
+        "openfootball": "17:00",
+        "openfootball_utc_offset": "+3"
+      },
+      "selected_local_time": "17:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": null,
+      "fifa_match_number": null
+    },
+    {
+      "date": "2018-06-30",
+      "team1": "Uruguay",
+      "team2": "Portugal",
+      "ground": "Fisht Stadium, Sochi",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": null,
+        "fifa_archive_date": null,
+        "openfootball": "21:00",
+        "openfootball_utc_offset": "+3"
+      },
+      "selected_local_time": "21:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": null,
+      "fifa_match_number": null
+    },
+    {
+      "date": "2018-07-01",
+      "team1": "Spain",
+      "team2": "Russia",
+      "ground": "Luzhniki Stadium, Moscow",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": null,
+        "fifa_archive_date": null,
+        "openfootball": "17:00",
+        "openfootball_utc_offset": "+3"
+      },
+      "selected_local_time": "17:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": null,
+      "fifa_match_number": null
+    },
+    {
+      "date": "2018-07-01",
+      "team1": "Croatia",
+      "team2": "Denmark",
+      "ground": "Nizhny Novgorod Stadium, Nizhny Novgorod",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": null,
+        "fifa_archive_date": null,
+        "openfootball": "21:00",
+        "openfootball_utc_offset": "+3"
+      },
+      "selected_local_time": "21:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": null,
+      "fifa_match_number": null
+    },
+    {
+      "date": "2018-07-02",
+      "team1": "Brazil",
+      "team2": "Mexico",
+      "ground": "Samara Arena, Samara",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": null,
+        "fifa_archive_date": null,
+        "openfootball": "18:00",
+        "openfootball_utc_offset": "+4"
+      },
+      "selected_local_time": "18:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": null,
+      "fifa_match_number": null
+    },
+    {
+      "date": "2018-07-02",
+      "team1": "Belgium",
+      "team2": "Japan",
+      "ground": "Rostov Arena, Rostov-on-Don",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": null,
+        "fifa_archive_date": null,
+        "openfootball": "21:00",
+        "openfootball_utc_offset": "+3"
+      },
+      "selected_local_time": "21:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": null,
+      "fifa_match_number": null
+    },
+    {
+      "date": "2018-07-03",
+      "team1": "Sweden",
+      "team2": "Switzerland",
+      "ground": "Saint Petersburg Stadium, Saint Petersburg",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": null,
+        "fifa_archive_date": null,
+        "openfootball": "17:00",
+        "openfootball_utc_offset": "+3"
+      },
+      "selected_local_time": "17:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": null,
+      "fifa_match_number": null
+    },
+    {
+      "date": "2018-07-03",
+      "team1": "Colombia",
+      "team2": "England",
+      "ground": "Spartak Stadium, Moscow",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": null,
+        "fifa_archive_date": null,
+        "openfootball": "21:00",
+        "openfootball_utc_offset": "+3"
+      },
+      "selected_local_time": "21:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": null,
+      "fifa_match_number": null
+    },
+    {
+      "date": "2018-07-06",
+      "team1": "Uruguay",
+      "team2": "France",
+      "ground": "Nizhny Novgorod Stadium, Nizhny Novgorod",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": null,
+        "fifa_archive_date": null,
+        "openfootball": "17:00",
+        "openfootball_utc_offset": "+3"
+      },
+      "selected_local_time": "17:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": null,
+      "fifa_match_number": null
+    },
+    {
+      "date": "2018-07-06",
+      "team1": "Brazil",
+      "team2": "Belgium",
+      "ground": "Kazan Arena, Kazan",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": null,
+        "fifa_archive_date": null,
+        "openfootball": "21:00",
+        "openfootball_utc_offset": "+3"
+      },
+      "selected_local_time": "21:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": null,
+      "fifa_match_number": null
+    },
+    {
+      "date": "2018-07-07",
+      "team1": "Sweden",
+      "team2": "England",
+      "ground": "Samara Arena, Samara",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": null,
+        "fifa_archive_date": null,
+        "openfootball": "18:00",
+        "openfootball_utc_offset": "+4"
+      },
+      "selected_local_time": "18:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": null,
+      "fifa_match_number": null
+    },
+    {
+      "date": "2018-07-07",
+      "team1": "Russia",
+      "team2": "Croatia",
+      "ground": "Fisht Stadium, Sochi",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": null,
+        "fifa_archive_date": null,
+        "openfootball": "21:00",
+        "openfootball_utc_offset": "+3"
+      },
+      "selected_local_time": "21:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": null,
+      "fifa_match_number": null
+    },
+    {
+      "date": "2018-07-10",
+      "team1": "France",
+      "team2": "Belgium",
+      "ground": "Saint Petersburg Stadium, St. Petersburg",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": null,
+        "fifa_archive_date": null,
+        "openfootball": "21:00",
+        "openfootball_utc_offset": "+3"
+      },
+      "selected_local_time": "21:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": null,
+      "fifa_match_number": null
+    },
+    {
+      "date": "2018-07-11",
+      "team1": "Croatia",
+      "team2": "England",
+      "ground": "Luzhniki Stadium, Moscow",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": null,
+        "fifa_archive_date": null,
+        "openfootball": "21:00",
+        "openfootball_utc_offset": "+3"
+      },
+      "selected_local_time": "21:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": null,
+      "fifa_match_number": null
+    },
+    {
+      "date": "2018-07-14",
+      "team1": "Belgium",
+      "team2": "England",
+      "ground": "Saint Petersburg Stadium, St. Petersburg",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": null,
+        "fifa_archive_date": null,
+        "openfootball": "17:00",
+        "openfootball_utc_offset": "+3"
+      },
+      "selected_local_time": "17:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": null,
+      "fifa_match_number": null
+    },
+    {
+      "date": "2018-07-15",
+      "team1": "France",
+      "team2": "Croatia",
+      "ground": "Luzhniki Stadium, Moscow",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": null,
+        "fifa_archive_date": null,
+        "openfootball": "18:00",
+        "openfootball_utc_offset": "+3"
+      },
+      "selected_local_time": "18:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": null,
+      "fifa_match_number": null
+    }
+  ]
+}

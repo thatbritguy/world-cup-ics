@@ -1,0 +1,422 @@
+#!/usr/bin/env python3
+from __future__ import annotations
+
+import argparse
+import json
+import re
+import time
+from collections import Counter
+from pathlib import Path
+from urllib.error import HTTPError
+from urllib.request import Request, urlopen
+
+from common import ROOT, load_json, normalize_name, write_json
+from historical_config import (
+    EXCLUDED_OPENFOOTBALL_YEARS,
+    FIFA_ARCHIVE_YEARS,
+    RSSSF_FULL_YEARS,
+    TOURNAMENTS,
+    historical_years,
+)
+from import_historical_times import RSSSF_CODES
+
+
+OPENFOOTBALL_URL = (
+    "https://raw.githubusercontent.com/openfootball/worldcup.json/"
+    "master/{year}/worldcup.json"
+)
+RSSSF_URL = (
+    "https://raw.githubusercontent.com/rsssf/worldcup/master/pages/{short}full.txt"
+)
+FIFA_ARCHIVE_URL = (
+    "https://web.archive.org/web/20221003182345id_/"
+    "https://www.fifa.com/en/tournaments/mens/worldcup/{slug}/match-center"
+)
+
+
+def fetch_text(url: str) -> str:
+    for attempt in range(5):
+        request = Request(
+            url,
+            headers={"User-Agent": "world-cup-ics/1.0 (historical source auditor)"},
+        )
+        try:
+            with urlopen(request, timeout=60) as response:
+                return response.read().decode("utf-8")
+        except HTTPError as error:
+            if error.code != 429 or attempt == 4:
+                raise
+            retry_after = error.headers.get("Retry-After")
+            delay = int(retry_after) if retry_after and retry_after.isdigit() else 2**attempt
+            time.sleep(delay)
+    raise RuntimeError(f"Could not fetch {url}")
+
+
+def source_team_codes() -> dict[str, str]:
+    """Map source abbreviations to canonical names; never emit these codes."""
+    codes: dict[str, str] = {}
+    for country in load_json(ROOT / "data" / "countries.json"):
+        codes[country["fifa_code"]] = country["name"]
+    for code, name in RSSSF_CODES.items():
+        codes.setdefault(code, name)
+    codes.update(
+        {
+            "ALG": "Algeria",
+            "AUS": "Australia",
+            "BUL": "Bulgaria",
+            "CAN": "Canada",
+            "CIV": "Ivory Coast",
+            "CMR": "Cameroon",
+            "COL": "Colombia",
+            "CRC": "Costa Rica",
+            "DEN": "Denmark",
+            "ECU": "Ecuador",
+            "FRG": "West Germany",
+            "GDR": "East Germany",
+            "GHA": "Ghana",
+            "GRE": "Greece",
+            "HAI": "Haiti",
+            "HON": "Honduras",
+            "IRL": "Republic of Ireland",
+            "IRN": "Iran",
+            "ISR": "Israel",
+            "JAM": "Jamaica",
+            "JPN": "Japan",
+            "KOR": "South Korea",
+            "KUW": "Kuwait",
+            "MAR": "Morocco",
+            "NGA": "Nigeria",
+            "NIR": "Northern Ireland",
+            "NZL": "New Zealand",
+            "POR": "Portugal",
+            "PRK": "North Korea",
+            "RSA": "South Africa",
+            "RUS": "Russia",
+            "KSA": "Saudi Arabia",
+            "SCO": "Scotland",
+            "SEN": "Senegal",
+            "SLV": "El Salvador",
+            "TCH": "Czechoslovakia",
+            "TUN": "Tunisia",
+            "TUR": "Turkey",
+            "UAE": "United Arab Emirates",
+            "URS": "Soviet Union",
+            "WAL": "Wales",
+            "ZAI": "Zaire",
+            "ARS": "Saudi Arabia",
+            "DAN": "Denmark",
+            "DDR": "East Germany",
+            "IRK": "Iraq",
+            "KLD": "North Korea",
+            "SAL": "El Salvador",
+            "ZSR": "Soviet Union",
+            "COS": "Costa Rica",
+            "SAF": "South Africa",
+            "EMI": "United Arab Emirates",
+            "JAP": "Japan",
+        }
+    )
+    return codes
+
+
+TEAM_IDENTITY_ALIASES = {
+    normalize_name("USA"): normalize_name("United States"),
+    normalize_name("Ireland"): normalize_name("Republic of Ireland"),
+    normalize_name("Côte d'Ivoire"): normalize_name("Ivory Coast"),
+    normalize_name("Cote d'Ivoire"): normalize_name("Ivory Coast"),
+    normalize_name("Czechia"): normalize_name("Czech Republic"),
+    normalize_name("Korea Republic"): normalize_name("South Korea"),
+}
+
+
+def team_identity(value: str) -> str:
+    normalized = normalize_name(value)
+    return TEAM_IDENTITY_ALIASES.get(normalized, normalized)
+
+
+def identity(date: str, team1: str, team2: str) -> tuple[str, frozenset[str]]:
+    return date, frozenset((team_identity(team1), team_identity(team2)))
+
+
+def parse_openfootball_time(value: str | None) -> tuple[str | None, str | None]:
+    if not value:
+        return None, None
+    match = re.fullmatch(r"(\d{2}:\d{2})(?: UTC([+-]\d{1,2}))?", value)
+    if not match:
+        raise ValueError(f"Unsupported openfootball kickoff: {value}")
+    return match.group(1), match.group(2)
+
+
+def parse_rsssf_records(
+    text: str, year: int, codes: dict[str, str]
+) -> dict[tuple[str, frozenset[str]], str | None]:
+    tournament_codes = dict(codes)
+    if 1954 <= year <= 1990:
+        tournament_codes["GER"] = "West Germany"
+    if year <= 1990:
+        tournament_codes["CZE"] = "Czechoslovakia"
+    lines = text.splitlines()
+    records: dict[tuple[str, frozenset[str]], str | None] = {}
+    date_pattern = re.compile(
+        r"^(\d{2})\.(\d{2})\.\d{2}(?:\s+\((\d{2})\.(\d{2})\))?"
+    )
+    teams_pattern = re.compile(r"^([A-Z]{3}) - ([A-Z]{3})(?:\s|$)")
+    for index, line in enumerate(lines):
+        date_match = date_pattern.match(line)
+        if not date_match:
+            continue
+        day, month, hour, minute = date_match.groups()
+        teams_match = next(
+            (
+                teams_pattern.match(candidate)
+                for candidate in lines[index + 1 : index + 8]
+                if teams_pattern.match(candidate)
+            ),
+            None,
+        )
+        if not teams_match:
+            continue
+        nearby = "\n".join(lines[index + 1 : index + 12]).lower()
+        if "match cancelled" in nearby:
+            continue
+        team_codes = teams_match.groups()
+        unknown = [code for code in team_codes if code not in tournament_codes]
+        if unknown:
+            raise ValueError(f"Unknown RSSSF team codes: {', '.join(unknown)}")
+        key = identity(
+            f"{year:04d}-{month}-{day}",
+            tournament_codes[team_codes[0]],
+            tournament_codes[team_codes[1]],
+        )
+        if key in records:
+            raise ValueError(f"Duplicate RSSSF match identity: {key}")
+        records[key] = f"{hour}:{minute}" if hour and minute else None
+    return records
+
+
+def parse_fifa_records(html: str, codes: dict[str, str]) -> dict[tuple[str, frozenset[str]], dict[str, object]]:
+    pattern = re.compile(
+        r'"idMatch":"(?P<id>\d+)".*?'
+        r'"date":"(?P<utc>[^"]+)".*?'
+        r'"localDate":"(?P<local>[^"]+)".*?'
+        r'"awayTeam":\{"abbreviation":"(?P<away>[^"]+)".*?'
+        r'"homeTeam":\{"abbreviation":"(?P<home>[^"]+)".*?'
+        r'"matchNumber":(?P<number>\d+)',
+        re.DOTALL,
+    )
+    records: dict[tuple[str, frozenset[str]], dict[str, object]] = {}
+    for match in pattern.finditer(html):
+        home_code = match.group("home")
+        away_code = match.group("away")
+        if home_code not in codes or away_code not in codes:
+            continue
+        local = match.group("local")
+        key = identity(local[:10], codes[home_code], codes[away_code])
+        records[key] = {
+            "time": local[11:16],
+            "utc": match.group("utc"),
+            "match_id": match.group("id"),
+            "match_number": int(match.group("number")),
+        }
+    return records
+
+
+def source_value(
+    records: dict[tuple[str, frozenset[str]], object],
+    key: tuple[str, frozenset[str]],
+    pair_occurrences: Counter[frozenset[str]],
+) -> tuple[object | None, str | None]:
+    if key in records:
+        return records[key], key[0]
+    if pair_occurrences[key[1]] != 1:
+        return None, None
+    same_teams = [
+        (candidate[0], value)
+        for candidate, value in records.items()
+        if candidate[1] == key[1]
+    ]
+    return (same_teams[0][1], same_teams[0][0]) if len(same_teams) == 1 else (None, None)
+
+
+def classify(year: int, times: dict[str, str | None]) -> tuple[str, str | None]:
+    available = [value for value in times.values() if value]
+    if not available:
+        return "missing", None
+    counts = Counter(available)
+    selected, count = counts.most_common(1)[0]
+    if count >= 2:
+        return "corroborated", selected
+    if len(available) == 1:
+        if year >= 2002 and (times.get("fifa_archive") or times.get("openfootball")):
+            return "accepted-modern-source", selected
+        return "single-source", selected
+    return "conflict", times.get("rsssf") or selected
+
+
+def audit_year(year: int, cache_dir: Path) -> dict[str, object]:
+    if year in EXCLUDED_OPENFOOTBALL_YEARS or year not in TOURNAMENTS:
+        raise ValueError(f"{year} is not an allowed men's FIFA World Cup finals year")
+    cache_dir.mkdir(parents=True, exist_ok=True)
+    config = TOURNAMENTS[year]
+
+    openfootball_path = cache_dir / "openfootball.json"
+    openfootball_text = (
+        openfootball_path.read_text(encoding="utf-8")
+        if openfootball_path.exists()
+        else fetch_text(OPENFOOTBALL_URL.format(year=year))
+    )
+    openfootball_path.write_text(openfootball_text, encoding="utf-8")
+    openfootball = json.loads(openfootball_text)
+
+    rsssf: dict[tuple[str, frozenset[str]], str | None] = {}
+    if year in RSSSF_FULL_YEARS:
+        rsssf_path = cache_dir / "rsssf-full.txt"
+        text = (
+            rsssf_path.read_text(encoding="utf-8")
+            if rsssf_path.exists()
+            else fetch_text(RSSSF_URL.format(short=str(year)[2:]))
+        )
+        rsssf_path.write_text(text, encoding="utf-8")
+        rsssf = parse_rsssf_records(text, year, source_team_codes())
+
+    fifa: dict[tuple[str, frozenset[str]], dict[str, object]] = {}
+    if year in FIFA_ARCHIVE_YEARS:
+        fifa_path = cache_dir / "fifa-match-centre.html"
+        text = (
+            fifa_path.read_text(encoding="utf-8")
+            if fifa_path.exists()
+            else fetch_text(FIFA_ARCHIVE_URL.format(slug=config["slug"]))
+        )
+        fifa_path.write_text(text, encoding="utf-8")
+        fifa = parse_fifa_records(text, source_team_codes())
+
+    matches: list[dict[str, object]] = []
+    pair_occurrences = Counter(
+        identity(match["date"], match["team1"], match["team2"])[1]
+        for match in openfootball["matches"]
+        if match.get("score")
+    )
+    for match in openfootball["matches"]:
+        if not match.get("score"):
+            continue
+        key = identity(match["date"], match["team1"], match["team2"])
+        openfootball_time, openfootball_offset = parse_openfootball_time(match.get("time"))
+        rsssf_time, rsssf_date = source_value(rsssf, key, pair_occurrences)
+        fifa_item, fifa_date = source_value(fifa, key, pair_occurrences)
+        fifa_time = fifa_item.get("time") if isinstance(fifa_item, dict) else None
+        status, selected = classify(
+            year,
+            {
+                "rsssf": rsssf_time if isinstance(rsssf_time, str) else None,
+                "fifa_archive": fifa_time if isinstance(fifa_time, str) else None,
+                "openfootball": openfootball_time,
+            }
+        )
+        matches.append(
+            {
+                "date": match["date"],
+                "team1": match["team1"],
+                "team2": match["team2"],
+                "ground": match["ground"],
+                "sources": {
+                    "rsssf": rsssf_time,
+                    "rsssf_date": rsssf_date,
+                    "fifa_archive": fifa_time,
+                    "fifa_archive_date": fifa_date,
+                    "openfootball": openfootball_time,
+                    "openfootball_utc_offset": openfootball_offset,
+                },
+                "selected_local_time": selected,
+                "status": status,
+                "date_mismatch": any(
+                    source_date and source_date != match["date"]
+                    for source_date in (rsssf_date, fifa_date)
+                ),
+                "fifa_match_id": fifa_item.get("match_id") if isinstance(fifa_item, dict) else None,
+                "fifa_match_number": fifa_item.get("match_number") if isinstance(fifa_item, dict) else None,
+            }
+        )
+
+    counts = Counter(item["status"] for item in matches)
+    manifest_path = ROOT / "data" / str(year) / "worldcup.manifest.json"
+    existing_manifest = load_json(manifest_path) if manifest_path.exists() else None
+    already_validated = bool(
+        existing_manifest and existing_manifest.get("status") == "validated"
+    )
+    unresolved_source_issue = any(
+        item["status"] in {"conflict", "missing", "single-source"}
+        or item["date_mismatch"]
+        for item in matches
+    )
+    return {
+        "year": year,
+        "allowed_world_cup": True,
+        "host_timezone": config["timezone"],
+        "source_availability": {
+            "openfootball": True,
+            "rsssf_full": bool(rsssf),
+            "fifa_archive": bool(fifa),
+        },
+        "match_count": len(matches),
+        "status_counts": dict(sorted(counts.items())),
+        "existing_calendar_status": (
+            existing_manifest.get("status") if existing_manifest else None
+        ),
+        "source_issues_resolved_in_enrichment": already_validated
+        and unresolved_source_issue,
+        "requires_review": unresolved_source_issue and not already_validated,
+        "matches": matches,
+    }
+
+
+def main() -> None:
+    parser = argparse.ArgumentParser()
+    parser.add_argument("years", nargs="*", type=int)
+    args = parser.parse_args()
+    years = tuple(args.years) if args.years else historical_years()
+    reports_dir = ROOT / "reports" / "historical"
+    cache_root = ROOT / "data" / "historical-sources"
+    summary: list[dict[str, object]] = []
+    for year in years:
+        if year in EXCLUDED_OPENFOOTBALL_YEARS:
+            raise ValueError("2025 is explicitly excluded: it is the FIFA Club World Cup")
+        try:
+            report = audit_year(year, cache_root / str(year))
+            write_json(reports_dir / f"{year}.json", report)
+            summary.append(
+                {
+                    "year": year,
+                    "match_count": report["match_count"],
+                    "status_counts": report["status_counts"],
+                    "requires_review": report["requires_review"],
+                    "error": None,
+                }
+            )
+            print(f"Audited {year}: {report['status_counts']}")
+        except Exception as error:
+            summary.append(
+                {
+                    "year": year,
+                    "match_count": 0,
+                    "status_counts": {},
+                    "requires_review": True,
+                    "error": str(error),
+                }
+            )
+            print(f"Audit failed for {year}: {error}")
+    totals = Counter()
+    for item in summary:
+        totals.update(item["status_counts"])
+    write_json(
+        reports_dir / "summary.json",
+        {
+            "years": list(years),
+            "excluded_openfootball_years": sorted(EXCLUDED_OPENFOOTBALL_YEARS),
+            "status_totals": dict(sorted(totals.items())),
+            "tournaments": summary,
+        },
+    )
+
+
+if __name__ == "__main__":
+    main()

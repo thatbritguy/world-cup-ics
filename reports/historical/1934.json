@@ -1,0 +1,344 @@
+{
+  "year": 1934,
+  "allowed_world_cup": true,
+  "host_timezone": "Europe/Rome",
+  "source_availability": {
+    "openfootball": true,
+    "rsssf_full": true,
+    "fifa_archive": true
+  },
+  "match_count": 17,
+  "status_counts": {
+    "conflict": 2,
+    "corroborated": 12,
+    "single-source": 3
+  },
+  "existing_calendar_status": "validated",
+  "source_issues_resolved_in_enrichment": true,
+  "requires_review": false,
+  "matches": [
+    {
+      "date": "1934-05-27",
+      "team1": "Sweden",
+      "team2": "Argentina",
+      "ground": "Stadio Littoriale, Bologna",
+      "sources": {
+        "rsssf": "16:30",
+        "rsssf_date": "1934-05-27",
+        "fifa_archive": "16:30",
+        "fifa_archive_date": "1934-05-27",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "16:30",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1102",
+      "fifa_match_number": 1
+    },
+    {
+      "date": "1934-05-27",
+      "team1": "Austria",
+      "team2": "France",
+      "ground": "Stadio Benito Mussolini, Turin",
+      "sources": {
+        "rsssf": "16:30",
+        "rsssf_date": "1934-05-27",
+        "fifa_archive": "16:30",
+        "fifa_archive_date": "1934-05-27",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "16:30",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1104",
+      "fifa_match_number": 2
+    },
+    {
+      "date": "1934-05-27",
+      "team1": "Germany",
+      "team2": "Belgium",
+      "ground": "Stadio Giovanni Berta, Florence",
+      "sources": {
+        "rsssf": "16:30",
+        "rsssf_date": "1934-05-27",
+        "fifa_archive": "16:30",
+        "fifa_archive_date": "1934-05-27",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "16:30",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1108",
+      "fifa_match_number": 3
+    },
+    {
+      "date": "1934-05-27",
+      "team1": "Spain",
+      "team2": "Brazil",
+      "ground": "Stadio Luigi Ferraris, Genoa",
+      "sources": {
+        "rsssf": "16:30",
+        "rsssf_date": "1934-05-27",
+        "fifa_archive": "16:30",
+        "fifa_archive_date": "1934-05-27",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "16:30",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1111",
+      "fifa_match_number": 4
+    },
+    {
+      "date": "1934-05-27",
+      "team1": "Hungary",
+      "team2": "Egypt",
+      "ground": "Stadio Giorgio Ascarelli, Naples",
+      "sources": {
+        "rsssf": "16:30",
+        "rsssf_date": "1934-05-27",
+        "fifa_archive": "16:30",
+        "fifa_archive_date": "1934-05-27",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "16:30",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1119",
+      "fifa_match_number": 5
+    },
+    {
+      "date": "1934-05-27",
+      "team1": "Switzerland",
+      "team2": "Netherlands",
+      "ground": "Stadio San Siro, Milan",
+      "sources": {
+        "rsssf": "16:30",
+        "rsssf_date": "1934-05-27",
+        "fifa_archive": "16:30",
+        "fifa_archive_date": "1934-05-27",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "16:30",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1133",
+      "fifa_match_number": 6
+    },
+    {
+      "date": "1934-05-27",
+      "team1": "Italy",
+      "team2": "United States",
+      "ground": "Stadio Nazionale PNF, Rome",
+      "sources": {
+        "rsssf": "16:30",
+        "rsssf_date": "1934-05-27",
+        "fifa_archive": "16:30",
+        "fifa_archive_date": "1934-05-27",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "16:30",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1135",
+      "fifa_match_number": 7
+    },
+    {
+      "date": "1934-05-27",
+      "team1": "Czechoslovakia",
+      "team2": "Romania",
+      "ground": "Stadio Littorio, Trieste",
+      "sources": {
+        "rsssf": "16:30",
+        "rsssf_date": "1934-05-27",
+        "fifa_archive": "16:30",
+        "fifa_archive_date": "1934-05-27",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "16:30",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1141",
+      "fifa_match_number": 8
+    },
+    {
+      "date": "1934-05-31",
+      "team1": "Czechoslovakia",
+      "team2": "Switzerland",
+      "ground": "Stadio Benito Mussolini, Turin",
+      "sources": {
+        "rsssf": "16:30",
+        "rsssf_date": "1934-05-31",
+        "fifa_archive": "16:30",
+        "fifa_archive_date": "1934-05-31",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "16:30",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1143",
+      "fifa_match_number": 9
+    },
+    {
+      "date": "1934-05-31",
+      "team1": "Germany",
+      "team2": "Sweden",
+      "ground": "Stadio San Siro, Milan",
+      "sources": {
+        "rsssf": "16:30",
+        "rsssf_date": "1934-05-31",
+        "fifa_archive": "16:30",
+        "fifa_archive_date": "1934-05-31",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "16:30",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1129",
+      "fifa_match_number": 10
+    },
+    {
+      "date": "1934-05-31",
+      "team1": "Italy",
+      "team2": "Spain",
+      "ground": "Stadio Giovanni Berta, Florence",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": "1934-05-31",
+        "fifa_archive": "16:30",
+        "fifa_archive_date": "1934-05-31",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "16:30",
+      "status": "single-source",
+      "date_mismatch": false,
+      "fifa_match_id": "1122",
+      "fifa_match_number": 11
+    },
+    {
+      "date": "1934-05-31",
+      "team1": "Austria",
+      "team2": "Hungary",
+      "ground": "Stadio Littoriale, Bologna",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": "1934-05-31",
+        "fifa_archive": "16:30",
+        "fifa_archive_date": "1934-05-31",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "16:30",
+      "status": "single-source",
+      "date_mismatch": false,
+      "fifa_match_id": "1106",
+      "fifa_match_number": 12
+    },
+    {
+      "date": "1934-06-01",
+      "team1": "Italy",
+      "team2": "Spain",
+      "ground": "Stadio Giovanni Berta, Florence",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": "1934-06-01",
+        "fifa_archive": "16:30",
+        "fifa_archive_date": "1934-06-01",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "16:30",
+      "status": "single-source",
+      "date_mismatch": false,
+      "fifa_match_id": "1123",
+      "fifa_match_number": 13
+    },
+    {
+      "date": "1934-06-03",
+      "team1": "Italy",
+      "team2": "Austria",
+      "ground": "Stadio San Siro, Milan",
+      "sources": {
+        "rsssf": "16:30",
+        "rsssf_date": "1934-06-03",
+        "fifa_archive": "16:30",
+        "fifa_archive_date": "1934-06-03",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "16:30",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1107",
+      "fifa_match_number": 14
+    },
+    {
+      "date": "1934-06-03",
+      "team1": "Czechoslovakia",
+      "team2": "Germany",
+      "ground": "Stadio Nazionale PNF, Rome",
+      "sources": {
+        "rsssf": "16:30",
+        "rsssf_date": "1934-06-03",
+        "fifa_archive": "16:30",
+        "fifa_archive_date": "1934-06-03",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "16:30",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1130",
+      "fifa_match_number": 15
+    },
+    {
+      "date": "1934-06-07",
+      "team1": "Germany",
+      "team2": "Austria",
+      "ground": "Stadio Giorgio Ascarelli, Naples",
+      "sources": {
+        "rsssf": "17:30",
+        "rsssf_date": "1934-06-07",
+        "fifa_archive": "18:00",
+        "fifa_archive_date": "1934-06-07",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "17:30",
+      "status": "conflict",
+      "date_mismatch": false,
+      "fifa_match_id": "1105",
+      "fifa_match_number": 16
+    },
+    {
+      "date": "1934-06-10",
+      "team1": "Italy",
+      "team2": "Czechoslovakia",
+      "ground": "Stadio Nazionale PNF, Rome",
+      "sources": {
+        "rsssf": "17:00",
+        "rsssf_date": "1934-06-10",
+        "fifa_archive": "17:30",
+        "fifa_archive_date": "1934-06-10",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "17:00",
+      "status": "conflict",
+      "date_mismatch": false,
+      "fifa_match_id": "1134",
+      "fifa_match_number": 17
+    }
+  ]
+}

@@ -1,0 +1,686 @@
+{
+  "year": 1958,
+  "allowed_world_cup": true,
+  "host_timezone": "Europe/Stockholm",
+  "source_availability": {
+    "openfootball": true,
+    "rsssf_full": true,
+    "fifa_archive": true
+  },
+  "match_count": 35,
+  "status_counts": {
+    "conflict": 1,
+    "corroborated": 32,
+    "single-source": 2
+  },
+  "existing_calendar_status": null,
+  "source_issues_resolved_in_enrichment": false,
+  "requires_review": true,
+  "matches": [
+    {
+      "date": "1958-06-08",
+      "team1": "West Germany",
+      "team2": "Argentina",
+      "ground": "Malmö Stadion, Malmö",
+      "sources": {
+        "rsssf": "19:00",
+        "rsssf_date": "1958-06-08",
+        "fifa_archive": "19:00",
+        "fifa_archive_date": "1958-06-08",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "19:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1323",
+      "fifa_match_number": 7
+    },
+    {
+      "date": "1958-06-08",
+      "team1": "Northern Ireland",
+      "team2": "Czechoslovakia",
+      "ground": "Örjans Vall, Halmstad",
+      "sources": {
+        "rsssf": "19:00",
+        "rsssf_date": "1958-06-08",
+        "fifa_archive": "19:00",
+        "fifa_archive_date": "1958-06-08",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "19:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1421",
+      "fifa_match_number": 8
+    },
+    {
+      "date": "1958-06-11",
+      "team1": "Argentina",
+      "team2": "Northern Ireland",
+      "ground": "Örjans Vall, Halmstad",
+      "sources": {
+        "rsssf": "19:00",
+        "rsssf_date": "1958-06-11",
+        "fifa_archive": "19:00",
+        "fifa_archive_date": "1958-06-11",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "19:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1324",
+      "fifa_match_number": 15
+    },
+    {
+      "date": "1958-06-11",
+      "team1": "West Germany",
+      "team2": "Czechoslovakia",
+      "ground": "Olympiastadion, Helsingborg",
+      "sources": {
+        "rsssf": "19:00",
+        "rsssf_date": "1958-06-11",
+        "fifa_archive": "19:00",
+        "fifa_archive_date": "1958-06-11",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "19:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1391",
+      "fifa_match_number": 14
+    },
+    {
+      "date": "1958-06-15",
+      "team1": "West Germany",
+      "team2": "Northern Ireland",
+      "ground": "Malmö Stadion, Malmö",
+      "sources": {
+        "rsssf": "19:00",
+        "rsssf_date": "1958-06-15",
+        "fifa_archive": "19:00",
+        "fifa_archive_date": "1958-06-15",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "19:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1389",
+      "fifa_match_number": 23
+    },
+    {
+      "date": "1958-06-15",
+      "team1": "Czechoslovakia",
+      "team2": "Argentina",
+      "ground": "Olympiastadion, Helsingborg",
+      "sources": {
+        "rsssf": "19:00",
+        "rsssf_date": "1958-06-15",
+        "fifa_archive": "19:00",
+        "fifa_archive_date": "1958-06-15",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "19:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1325",
+      "fifa_match_number": 24
+    },
+    {
+      "date": "1958-06-17",
+      "team1": "Northern Ireland",
+      "team2": "Czechoslovakia",
+      "ground": "Malmö Stadion, Malmö",
+      "sources": {
+        "rsssf": "19:00",
+        "rsssf_date": "1958-06-17",
+        "fifa_archive": "19:00",
+        "fifa_archive_date": "1958-06-17",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "19:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1422",
+      "fifa_match_number": 39
+    },
+    {
+      "date": "1958-06-08",
+      "team1": "France",
+      "team2": "Paraguay",
+      "ground": "Idrottsparken, Norrköping",
+      "sources": {
+        "rsssf": "19:00",
+        "rsssf_date": "1958-06-08",
+        "fifa_archive": "19:00",
+        "fifa_archive_date": "1958-06-08",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "19:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1386",
+      "fifa_match_number": 3
+    },
+    {
+      "date": "1958-06-08",
+      "team1": "Yugoslavia",
+      "team2": "Scotland",
+      "ground": "Arosvallen, Västerås",
+      "sources": {
+        "rsssf": "19:00",
+        "rsssf_date": "1958-06-08",
+        "fifa_archive": "19:00",
+        "fifa_archive_date": "1958-06-08",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "19:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1434",
+      "fifa_match_number": 4
+    },
+    {
+      "date": "1958-06-11",
+      "team1": "Yugoslavia",
+      "team2": "France",
+      "ground": "Arosvallen, Västerås",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": "1958-06-11",
+        "fifa_archive": "19:00",
+        "fifa_archive_date": "1958-06-11",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "19:00",
+      "status": "single-source",
+      "date_mismatch": false,
+      "fifa_match_id": "1388",
+      "fifa_match_number": 11
+    },
+    {
+      "date": "1958-06-11",
+      "team1": "Paraguay",
+      "team2": "Scotland",
+      "ground": "Idrottsparken, Norrköping",
+      "sources": {
+        "rsssf": "19:00",
+        "rsssf_date": "1958-06-11",
+        "fifa_archive": "19:00",
+        "fifa_archive_date": "1958-06-11",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "19:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1423",
+      "fifa_match_number": 10
+    },
+    {
+      "date": "1958-06-15",
+      "team1": "France",
+      "team2": "Scotland",
+      "ground": "Eyravallen, Örebro",
+      "sources": {
+        "rsssf": "19:00",
+        "rsssf_date": "1958-06-15",
+        "fifa_archive": "19:00",
+        "fifa_archive_date": "1958-06-15",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "19:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1387",
+      "fifa_match_number": 20
+    },
+    {
+      "date": "1958-06-15",
+      "team1": "Paraguay",
+      "team2": "Yugoslavia",
+      "ground": "Tunavallen, Eskilstuna",
+      "sources": {
+        "rsssf": "19:00",
+        "rsssf_date": "1958-06-15",
+        "fifa_archive": "19:00",
+        "fifa_archive_date": "1958-06-15",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "19:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1426",
+      "fifa_match_number": 19
+    },
+    {
+      "date": "1958-06-08",
+      "team1": "Sweden",
+      "team2": "Mexico",
+      "ground": "Råsunda Stadium, Solna",
+      "sources": {
+        "rsssf": "14:00",
+        "rsssf_date": "1958-06-08",
+        "fifa_archive": "14:00",
+        "fifa_archive_date": "1958-06-08",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "14:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1415",
+      "fifa_match_number": 1
+    },
+    {
+      "date": "1958-06-08",
+      "team1": "Hungary",
+      "team2": "Wales",
+      "ground": "Jernvallen, Sandviken",
+      "sources": {
+        "rsssf": "19:00",
+        "rsssf_date": "1958-06-08",
+        "fifa_archive": "19:00",
+        "fifa_archive_date": "1958-06-08",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "19:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1407",
+      "fifa_match_number": 2
+    },
+    {
+      "date": "1958-06-11",
+      "team1": "Mexico",
+      "team2": "Wales",
+      "ground": "Råsunda Stadium, Solna",
+      "sources": {
+        "rsssf": "19:00",
+        "rsssf_date": "1958-06-11",
+        "fifa_archive": "19:00",
+        "fifa_archive_date": "1958-06-11",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "19:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1418",
+      "fifa_match_number": 9
+    },
+    {
+      "date": "1958-06-12",
+      "team1": "Sweden",
+      "team2": "Hungary",
+      "ground": "Råsunda Stadium, Solna",
+      "sources": {
+        "rsssf": "19:00",
+        "rsssf_date": "1958-06-12",
+        "fifa_archive": "19:00",
+        "fifa_archive_date": "1958-06-12",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "19:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1406",
+      "fifa_match_number": 16
+    },
+    {
+      "date": "1958-06-15",
+      "team1": "Sweden",
+      "team2": "Wales",
+      "ground": "Råsunda Stadium, Solna",
+      "sources": {
+        "rsssf": "14:00",
+        "rsssf_date": "1958-06-15",
+        "fifa_archive": "14:00",
+        "fifa_archive_date": "1958-06-15",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "14:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1438",
+      "fifa_match_number": 17
+    },
+    {
+      "date": "1958-06-15",
+      "team1": "Hungary",
+      "team2": "Mexico",
+      "ground": "Jernvallen, Sandviken",
+      "sources": {
+        "rsssf": "19:00",
+        "rsssf_date": "1958-06-15",
+        "fifa_archive": "19:00",
+        "fifa_archive_date": "1958-06-15",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "19:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1403",
+      "fifa_match_number": 18
+    },
+    {
+      "date": "1958-06-17",
+      "team1": "Wales",
+      "team2": "Hungary",
+      "ground": "Råsunda Stadium, Solna",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "19:00",
+        "fifa_archive_date": "1958-06-17",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "19:00",
+      "status": "single-source",
+      "date_mismatch": false,
+      "fifa_match_id": "1408",
+      "fifa_match_number": 33
+    },
+    {
+      "date": "1958-06-08",
+      "team1": "Brazil",
+      "team2": "Austria",
+      "ground": "Rimnersvallen, Uddevalla",
+      "sources": {
+        "rsssf": "19:00",
+        "rsssf_date": "1958-06-08",
+        "fifa_archive": "19:00",
+        "fifa_archive_date": "1958-06-08",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "19:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1326",
+      "fifa_match_number": 6
+    },
+    {
+      "date": "1958-06-08",
+      "team1": "Soviet Union",
+      "team2": "England",
+      "ground": "Ullevi, Gothenburg",
+      "sources": {
+        "rsssf": "19:00",
+        "rsssf_date": "1958-06-08",
+        "fifa_archive": "19:00",
+        "fifa_archive_date": "1958-06-08",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "19:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1372",
+      "fifa_match_number": 5
+    },
+    {
+      "date": "1958-06-11",
+      "team1": "Brazil",
+      "team2": "England",
+      "ground": "Ullevi, Gothenburg",
+      "sources": {
+        "rsssf": "19:00",
+        "rsssf_date": "1958-06-11",
+        "fifa_archive": "19:00",
+        "fifa_archive_date": "1958-06-11",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "19:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1339",
+      "fifa_match_number": 12
+    },
+    {
+      "date": "1958-06-11",
+      "team1": "Soviet Union",
+      "team2": "Austria",
+      "ground": "Ryavallen, Borås",
+      "sources": {
+        "rsssf": "19:00",
+        "rsssf_date": "1958-06-11",
+        "fifa_archive": "19:00",
+        "fifa_archive_date": "1958-06-11",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "19:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1332",
+      "fifa_match_number": 13
+    },
+    {
+      "date": "1958-06-15",
+      "team1": "England",
+      "team2": "Austria",
+      "ground": "Ryavallen, Borås",
+      "sources": {
+        "rsssf": "19:00",
+        "rsssf_date": "1958-06-15",
+        "fifa_archive": "19:00",
+        "fifa_archive_date": "1958-06-15",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "19:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1327",
+      "fifa_match_number": 22
+    },
+    {
+      "date": "1958-06-15",
+      "team1": "Brazil",
+      "team2": "Soviet Union",
+      "ground": "Ullevi, Gothenburg",
+      "sources": {
+        "rsssf": "19:00",
+        "rsssf_date": "1958-06-15",
+        "fifa_archive": "19:00",
+        "fifa_archive_date": "1958-06-15",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "19:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1344",
+      "fifa_match_number": 21
+    },
+    {
+      "date": "1958-06-17",
+      "team1": "Soviet Union",
+      "team2": "England",
+      "ground": "Ullevi, Gothenburg",
+      "sources": {
+        "rsssf": "19:00",
+        "rsssf_date": "1958-06-17",
+        "fifa_archive": "19:00",
+        "fifa_archive_date": "1958-06-17",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "19:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1373",
+      "fifa_match_number": 37
+    },
+    {
+      "date": "1958-06-19",
+      "team1": "France",
+      "team2": "Northern Ireland",
+      "ground": "Idrottsparken, Norrköping",
+      "sources": {
+        "rsssf": "19:00",
+        "rsssf_date": "1958-06-19",
+        "fifa_archive": "19:00",
+        "fifa_archive_date": "1958-06-19",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "19:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1385",
+      "fifa_match_number": 26
+    },
+    {
+      "date": "1958-06-19",
+      "team1": "Sweden",
+      "team2": "Soviet Union",
+      "ground": "Råsunda Stadium, Solna",
+      "sources": {
+        "rsssf": "14:00",
+        "rsssf_date": "1958-06-19",
+        "fifa_archive": "19:00",
+        "fifa_archive_date": "1958-06-19",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "14:00",
+      "status": "conflict",
+      "date_mismatch": false,
+      "fifa_match_id": "1437",
+      "fifa_match_number": 25
+    },
+    {
+      "date": "1958-06-19",
+      "team1": "Brazil",
+      "team2": "Wales",
+      "ground": "Ullevi, Gothenburg",
+      "sources": {
+        "rsssf": "19:00",
+        "rsssf_date": "1958-06-19",
+        "fifa_archive": "19:00",
+        "fifa_archive_date": "1958-06-19",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "19:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1345",
+      "fifa_match_number": 27
+    },
+    {
+      "date": "1958-06-19",
+      "team1": "West Germany",
+      "team2": "Yugoslavia",
+      "ground": "Malmö Stadion, Malmö",
+      "sources": {
+        "rsssf": "19:00",
+        "rsssf_date": "1958-06-19",
+        "fifa_archive": "19:00",
+        "fifa_archive_date": "1958-06-19",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "19:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1392",
+      "fifa_match_number": 28
+    },
+    {
+      "date": "1958-06-24",
+      "team1": "France",
+      "team2": "Brazil",
+      "ground": "Råsunda Stadium, Solna",
+      "sources": {
+        "rsssf": "19:00",
+        "rsssf_date": "1958-06-24",
+        "fifa_archive": "19:00",
+        "fifa_archive_date": "1958-06-24",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "19:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1340",
+      "fifa_match_number": 29
+    },
+    {
+      "date": "1958-06-24",
+      "team1": "West Germany",
+      "team2": "Sweden",
+      "ground": "Ullevi, Gothenburg",
+      "sources": {
+        "rsssf": "19:00",
+        "rsssf_date": "1958-06-24",
+        "fifa_archive": "19:00",
+        "fifa_archive_date": "1958-06-24",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "19:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1390",
+      "fifa_match_number": 30
+    },
+    {
+      "date": "1958-06-28",
+      "team1": "West Germany",
+      "team2": "France",
+      "ground": "Ullevi, Gothenburg",
+      "sources": {
+        "rsssf": "17:00",
+        "rsssf_date": "1958-06-26",
+        "fifa_archive": "17:00",
+        "fifa_archive_date": "1958-06-28",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "17:00",
+      "status": "corroborated",
+      "date_mismatch": true,
+      "fifa_match_id": "1382",
+      "fifa_match_number": 31
+    },
+    {
+      "date": "1958-06-29",
+      "team1": "Sweden",
+      "team2": "Brazil",
+      "ground": "Råsunda Stadium, Solna",
+      "sources": {
+        "rsssf": "15:00",
+        "rsssf_date": "1958-06-29",
+        "fifa_archive": "15:00",
+        "fifa_archive_date": "1958-06-29",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "15:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1343",
+      "fifa_match_number": 32
+    }
+  ]
+}

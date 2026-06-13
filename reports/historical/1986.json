@@ -1,0 +1,1008 @@
+{
+  "year": 1986,
+  "allowed_world_cup": true,
+  "host_timezone": "America/Mexico_City",
+  "source_availability": {
+    "openfootball": true,
+    "rsssf_full": true,
+    "fifa_archive": true
+  },
+  "match_count": 52,
+  "status_counts": {
+    "corroborated": 48,
+    "single-source": 4
+  },
+  "existing_calendar_status": null,
+  "source_issues_resolved_in_enrichment": false,
+  "requires_review": true,
+  "matches": [
+    {
+      "date": "1986-05-31",
+      "team1": "Bulgaria",
+      "team2": "Italy",
+      "ground": "Estadio Azteca, Mexico City",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "12:00",
+        "fifa_archive_date": "1986-05-31",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "12:00",
+      "status": "single-source",
+      "date_mismatch": false,
+      "fifa_match_id": "459",
+      "fifa_match_number": 1
+    },
+    {
+      "date": "1986-06-02",
+      "team1": "Argentina",
+      "team2": "South Korea",
+      "ground": "Estadio Olímpico Universitario, Mexico City",
+      "sources": {
+        "rsssf": "12:00",
+        "rsssf_date": "1986-06-02",
+        "fifa_archive": "12:00",
+        "fifa_archive_date": "1986-06-02",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "12:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "395",
+      "fifa_match_number": 4
+    },
+    {
+      "date": "1986-06-05",
+      "team1": "Italy",
+      "team2": "Argentina",
+      "ground": "Estadio Cuauhtémoc, Puebla",
+      "sources": {
+        "rsssf": "12:00",
+        "rsssf_date": "1986-06-05",
+        "fifa_archive": "12:00",
+        "fifa_archive_date": "1986-06-05",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "12:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "394",
+      "fifa_match_number": 13
+    },
+    {
+      "date": "1986-06-05",
+      "team1": "South Korea",
+      "team2": "Bulgaria",
+      "ground": "Estadio Olímpico Universitario, Mexico City",
+      "sources": {
+        "rsssf": "16:00",
+        "rsssf_date": "1986-06-05",
+        "fifa_archive": "16:00",
+        "fifa_archive_date": "1986-06-05",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "16:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "460",
+      "fifa_match_number": 14
+    },
+    {
+      "date": "1986-06-10",
+      "team1": "South Korea",
+      "team2": "Italy",
+      "ground": "Estadio Cuauhtémoc, Puebla",
+      "sources": {
+        "rsssf": "12:00",
+        "rsssf_date": "1986-06-10",
+        "fifa_archive": "12:00",
+        "fifa_archive_date": "1986-06-10",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "12:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "643",
+      "fifa_match_number": 27
+    },
+    {
+      "date": "1986-06-10",
+      "team1": "Argentina",
+      "team2": "Bulgaria",
+      "ground": "Estadio Olímpico Universitario, Mexico City",
+      "sources": {
+        "rsssf": "12:00",
+        "rsssf_date": "1986-06-10",
+        "fifa_archive": "12:00",
+        "fifa_archive_date": "1986-06-10",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "12:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "389",
+      "fifa_match_number": 28
+    },
+    {
+      "date": "1986-06-03",
+      "team1": "Belgium",
+      "team2": "Mexico",
+      "ground": "Estadio Azteca, Mexico City",
+      "sources": {
+        "rsssf": "12:00",
+        "rsssf_date": "1986-06-03",
+        "fifa_archive": "12:00",
+        "fifa_archive_date": "1986-06-03",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "12:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "428",
+      "fifa_match_number": 7
+    },
+    {
+      "date": "1986-06-04",
+      "team1": "Paraguay",
+      "team2": "Iraq",
+      "ground": "Estadio Nemesio Díez, Toluca",
+      "sources": {
+        "rsssf": "12:00",
+        "rsssf_date": "1986-06-04",
+        "fifa_archive": "12:00",
+        "fifa_archive_date": "1986-06-04",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "12:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "628",
+      "fifa_match_number": 10
+    },
+    {
+      "date": "1986-06-07",
+      "team1": "Mexico",
+      "team2": "Paraguay",
+      "ground": "Estadio Azteca, Mexico City",
+      "sources": {
+        "rsssf": "12:00",
+        "rsssf_date": "1986-06-07",
+        "fifa_archive": "12:00",
+        "fifa_archive_date": "1986-06-07",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "12:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "680",
+      "fifa_match_number": 19
+    },
+    {
+      "date": "1986-06-08",
+      "team1": "Iraq",
+      "team2": "Belgium",
+      "ground": "Estadio Nemesio Díez, Toluca",
+      "sources": {
+        "rsssf": "12:00",
+        "rsssf_date": "1986-06-08",
+        "fifa_archive": "12:00",
+        "fifa_archive_date": "1986-06-08",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "12:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "427",
+      "fifa_match_number": 22
+    },
+    {
+      "date": "1986-06-11",
+      "team1": "Iraq",
+      "team2": "Mexico",
+      "ground": "Estadio Azteca, Mexico City",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "12:00",
+        "fifa_archive_date": "1986-06-11",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "12:00",
+      "status": "single-source",
+      "date_mismatch": false,
+      "fifa_match_id": "627",
+      "fifa_match_number": 29
+    },
+    {
+      "date": "1986-06-11",
+      "team1": "Paraguay",
+      "team2": "Belgium",
+      "ground": "Estadio Nemesio Díez, Toluca",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": "1986-06-11",
+        "fifa_archive": "12:00",
+        "fifa_archive_date": "1986-06-11",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "12:00",
+      "status": "single-source",
+      "date_mismatch": false,
+      "fifa_match_id": "429",
+      "fifa_match_number": 30
+    },
+    {
+      "date": "1986-06-01",
+      "team1": "Canada",
+      "team2": "France",
+      "ground": "Estadio Nou Camp, León",
+      "sources": {
+        "rsssf": "16:00",
+        "rsssf_date": "1986-06-01",
+        "fifa_archive": "16:00",
+        "fifa_archive_date": "1986-06-01",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "16:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "468",
+      "fifa_match_number": 2
+    },
+    {
+      "date": "1986-06-02",
+      "team1": "Soviet Union",
+      "team2": "Hungary",
+      "ground": "Estadio Sergio León Chavez, Irapuato",
+      "sources": {
+        "rsssf": "12:00",
+        "rsssf_date": "1986-06-02",
+        "fifa_archive": "12:00",
+        "fifa_archive_date": "1986-06-02",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "12:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "610",
+      "fifa_match_number": 5
+    },
+    {
+      "date": "1986-06-05",
+      "team1": "France",
+      "team2": "Soviet Union",
+      "ground": "Estadio Nou Camp, León",
+      "sources": {
+        "rsssf": "12:00",
+        "rsssf_date": "1986-06-05",
+        "fifa_archive": "12:00",
+        "fifa_archive_date": "1986-06-05",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "12:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "571",
+      "fifa_match_number": 15
+    },
+    {
+      "date": "1986-06-06",
+      "team1": "Hungary",
+      "team2": "Canada",
+      "ground": "Estadio Sergio León Chavez, Irapuato",
+      "sources": {
+        "rsssf": "12:00",
+        "rsssf_date": "1986-06-06",
+        "fifa_archive": "12:00",
+        "fifa_archive_date": "1986-06-06",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "12:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "475",
+      "fifa_match_number": 16
+    },
+    {
+      "date": "1986-06-09",
+      "team1": "Hungary",
+      "team2": "France",
+      "ground": "Estadio Nou Camp, León",
+      "sources": {
+        "rsssf": "12:00",
+        "rsssf_date": "1986-06-09",
+        "fifa_archive": "12:00",
+        "fifa_archive_date": "1986-06-09",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "12:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "567",
+      "fifa_match_number": 25
+    },
+    {
+      "date": "1986-06-09",
+      "team1": "Soviet Union",
+      "team2": "Canada",
+      "ground": "Estadio Sergio León Chavez, Irapuato",
+      "sources": {
+        "rsssf": "12:00",
+        "rsssf_date": "1986-06-09",
+        "fifa_archive": "12:00",
+        "fifa_archive_date": "1986-06-09",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "12:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "476",
+      "fifa_match_number": 26
+    },
+    {
+      "date": "1986-06-01",
+      "team1": "Spain",
+      "team2": "Brazil",
+      "ground": "Estadio Jalisco, Guadalajara",
+      "sources": {
+        "rsssf": "12:00",
+        "rsssf_date": "1986-06-01",
+        "fifa_archive": "12:00",
+        "fifa_archive_date": "1986-06-01",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "12:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "439",
+      "fifa_match_number": 3
+    },
+    {
+      "date": "1986-06-03",
+      "team1": "Algeria",
+      "team2": "Northern Ireland",
+      "ground": "Estadio Tres de Marzo, Guadalajara",
+      "sources": {
+        "rsssf": "12:00",
+        "rsssf_date": "1986-06-03",
+        "fifa_archive": "12:00",
+        "fifa_archive_date": "1986-06-03",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "12:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "379",
+      "fifa_match_number": 8
+    },
+    {
+      "date": "1986-06-06",
+      "team1": "Brazil",
+      "team2": "Algeria",
+      "ground": "Estadio Jalisco, Guadalajara",
+      "sources": {
+        "rsssf": "12:00",
+        "rsssf_date": "1986-06-06",
+        "fifa_archive": "12:00",
+        "fifa_archive_date": "1986-06-06",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "12:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "377",
+      "fifa_match_number": 17
+    },
+    {
+      "date": "1986-06-07",
+      "team1": "Northern Ireland",
+      "team2": "Spain",
+      "ground": "Estadio Tres de Marzo, Guadalajara",
+      "sources": {
+        "rsssf": "12:00",
+        "rsssf_date": "1986-06-07",
+        "fifa_archive": "12:00",
+        "fifa_archive_date": "1986-06-07",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "12:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "551",
+      "fifa_match_number": 20
+    },
+    {
+      "date": "1986-06-12",
+      "team1": "Northern Ireland",
+      "team2": "Brazil",
+      "ground": "Estadio Jalisco, Guadalajara",
+      "sources": {
+        "rsssf": "12:00",
+        "rsssf_date": "1986-06-12",
+        "fifa_archive": "12:00",
+        "fifa_archive_date": "1986-06-12",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "12:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "441",
+      "fifa_match_number": 33
+    },
+    {
+      "date": "1986-06-12",
+      "team1": "Algeria",
+      "team2": "Spain",
+      "ground": "Estadio Tecnológico, Monterrey",
+      "sources": {
+        "rsssf": "12:00",
+        "rsssf_date": "1986-06-12",
+        "fifa_archive": "12:00",
+        "fifa_archive_date": "1986-06-12",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "12:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "378",
+      "fifa_match_number": 34
+    },
+    {
+      "date": "1986-06-04",
+      "team1": "Uruguay",
+      "team2": "West Germany",
+      "ground": "Estadio La Corregidora, Querétaro",
+      "sources": {
+        "rsssf": "12:00",
+        "rsssf_date": "1986-06-04",
+        "fifa_archive": "12:00",
+        "fifa_archive_date": "1986-06-04",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "12:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "585",
+      "fifa_match_number": 11
+    },
+    {
+      "date": "1986-06-04",
+      "team1": "Scotland",
+      "team2": "Denmark",
+      "ground": "Estadio Neza 86, Nezahualcóyotl",
+      "sources": {
+        "rsssf": "16:00",
+        "rsssf_date": "1986-06-04",
+        "fifa_archive": "16:00",
+        "fifa_archive_date": "1986-06-04",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "16:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "517",
+      "fifa_match_number": 12
+    },
+    {
+      "date": "1986-06-08",
+      "team1": "West Germany",
+      "team2": "Scotland",
+      "ground": "Estadio La Corregidora, Querétaro",
+      "sources": {
+        "rsssf": "12:00",
+        "rsssf_date": "1986-06-08",
+        "fifa_archive": "12:00",
+        "fifa_archive_date": "1986-06-08",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "12:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "580",
+      "fifa_match_number": 23
+    },
+    {
+      "date": "1986-06-08",
+      "team1": "Denmark",
+      "team2": "Uruguay",
+      "ground": "Estadio Neza 86, Nezahualcóyotl",
+      "sources": {
+        "rsssf": "16:00",
+        "rsssf_date": "1986-06-08",
+        "fifa_archive": "16:00",
+        "fifa_archive_date": "1986-06-08",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "16:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "522",
+      "fifa_match_number": 24
+    },
+    {
+      "date": "1986-06-13",
+      "team1": "Denmark",
+      "team2": "West Germany",
+      "ground": "Estadio La Corregidora, Querétaro",
+      "sources": {
+        "rsssf": "12:00",
+        "rsssf_date": "1986-06-13",
+        "fifa_archive": "12:00",
+        "fifa_archive_date": "1986-06-13",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "12:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "512",
+      "fifa_match_number": 35
+    },
+    {
+      "date": "1986-06-13",
+      "team1": "Scotland",
+      "team2": "Uruguay",
+      "ground": "Estadio Neza 86, Nezahualcóyotl",
+      "sources": {
+        "rsssf": "12:00",
+        "rsssf_date": "1986-06-13",
+        "fifa_archive": "12:00",
+        "fifa_archive_date": "1986-06-13",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "12:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "712",
+      "fifa_match_number": 36
+    },
+    {
+      "date": "1986-06-02",
+      "team1": "Morocco",
+      "team2": "Poland",
+      "ground": "Estadio Universitario, Monterrey",
+      "sources": {
+        "rsssf": "16:00",
+        "rsssf_date": "1986-06-02",
+        "fifa_archive": "16:00",
+        "fifa_archive_date": "1986-06-02",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "16:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "674",
+      "fifa_match_number": 6
+    },
+    {
+      "date": "1986-06-03",
+      "team1": "Portugal",
+      "team2": "England",
+      "ground": "Estadio Tecnológico, Monterrey",
+      "sources": {
+        "rsssf": "16:00",
+        "rsssf_date": "1986-06-03",
+        "fifa_archive": "16:00",
+        "fifa_archive_date": "1986-06-03",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "16:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "538",
+      "fifa_match_number": 9
+    },
+    {
+      "date": "1986-06-06",
+      "team1": "England",
+      "team2": "Morocco",
+      "ground": "Estadio Tecnológico, Monterrey",
+      "sources": {
+        "rsssf": "16:00",
+        "rsssf_date": "1986-06-06",
+        "fifa_archive": "16:00",
+        "fifa_archive_date": "1986-06-06",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "16:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "533",
+      "fifa_match_number": 18
+    },
+    {
+      "date": "1986-06-07",
+      "team1": "Poland",
+      "team2": "Portugal",
+      "ground": "Estadio Universitario, Monterrey",
+      "sources": {
+        "rsssf": "16:00",
+        "rsssf_date": "1986-06-07",
+        "fifa_archive": "16:00",
+        "fifa_archive_date": "1986-06-07",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "16:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "701",
+      "fifa_match_number": 21
+    },
+    {
+      "date": "1986-06-11",
+      "team1": "Portugal",
+      "team2": "Morocco",
+      "ground": "Estadio Tres de Marzo, Guadalajara",
+      "sources": {
+        "rsssf": "16:00",
+        "rsssf_date": "1986-06-11",
+        "fifa_archive": "16:00",
+        "fifa_archive_date": "1986-06-11",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "16:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "675",
+      "fifa_match_number": 31
+    },
+    {
+      "date": "1986-06-11",
+      "team1": "England",
+      "team2": "Poland",
+      "ground": "Estadio Tecnológico, Monterrey",
+      "sources": {
+        "rsssf": "16:00",
+        "rsssf_date": "1986-06-11",
+        "fifa_archive": "16:00",
+        "fifa_archive_date": "1986-06-11",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "16:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "537",
+      "fifa_match_number": 32
+    },
+    {
+      "date": "1986-06-15",
+      "team1": "Mexico",
+      "team2": "Bulgaria",
+      "ground": "Estadio Azteca, Mexico City",
+      "sources": {
+        "rsssf": "12:00",
+        "rsssf_date": "1986-06-15",
+        "fifa_archive": "12:00",
+        "fifa_archive_date": "1986-06-15",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "12:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "463",
+      "fifa_match_number": 37
+    },
+    {
+      "date": "1986-06-15",
+      "team1": "Soviet Union",
+      "team2": "Belgium",
+      "ground": "Estadio Nou Camp, León",
+      "sources": {
+        "rsssf": "16:00",
+        "rsssf_date": "1986-06-15",
+        "fifa_archive": "16:00",
+        "fifa_archive_date": "1986-06-15",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "16:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "432",
+      "fifa_match_number": 38
+    },
+    {
+      "date": "1986-06-16",
+      "team1": "Argentina",
+      "team2": "Uruguay",
+      "ground": "Estadio Cuauhtémoc, Puebla",
+      "sources": {
+        "rsssf": "16:00",
+        "rsssf_date": "1986-06-16",
+        "fifa_archive": "16:00",
+        "fifa_archive_date": "1986-06-16",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "16:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "398",
+      "fifa_match_number": 39
+    },
+    {
+      "date": "1986-06-16",
+      "team1": "Brazil",
+      "team2": "Poland",
+      "ground": "Estadio Jalisco, Guadalajara",
+      "sources": {
+        "rsssf": "12:00",
+        "rsssf_date": "1986-06-16",
+        "fifa_archive": "12:00",
+        "fifa_archive_date": "1986-06-16",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "12:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "444",
+      "fifa_match_number": 40
+    },
+    {
+      "date": "1986-06-17",
+      "team1": "Italy",
+      "team2": "France",
+      "ground": "Estadio Olímpico Universitario, Mexico City",
+      "sources": {
+        "rsssf": "12:00",
+        "rsssf_date": "1986-06-17",
+        "fifa_archive": "12:00",
+        "fifa_archive_date": "1986-06-17",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "12:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "568",
+      "fifa_match_number": 41
+    },
+    {
+      "date": "1986-06-17",
+      "team1": "Morocco",
+      "team2": "West Germany",
+      "ground": "Estadio Universitario, Monterrey",
+      "sources": {
+        "rsssf": "16:00",
+        "rsssf_date": "1986-06-17",
+        "fifa_archive": "16:00",
+        "fifa_archive_date": "1986-06-17",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "16:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "574",
+      "fifa_match_number": 42
+    },
+    {
+      "date": "1986-06-18",
+      "team1": "England",
+      "team2": "Paraguay",
+      "ground": "Estadio Azteca, Mexico City",
+      "sources": {
+        "rsssf": "12:00",
+        "rsssf_date": "1986-06-18",
+        "fifa_archive": "12:00",
+        "fifa_archive_date": "1986-06-18",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "12:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "536",
+      "fifa_match_number": 43
+    },
+    {
+      "date": "1986-06-18",
+      "team1": "Denmark",
+      "team2": "Spain",
+      "ground": "Estadio La Corregidora, Querétaro",
+      "sources": {
+        "rsssf": "16:00",
+        "rsssf_date": "1986-06-18",
+        "fifa_archive": "16:00",
+        "fifa_archive_date": "1986-06-18",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "16:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "511",
+      "fifa_match_number": 44
+    },
+    {
+      "date": "1986-06-21",
+      "team1": "Brazil",
+      "team2": "France",
+      "ground": "Estadio Jalisco, Guadalajara",
+      "sources": {
+        "rsssf": "12:00",
+        "rsssf_date": "1986-06-21",
+        "fifa_archive": "12:00",
+        "fifa_archive_date": "1986-06-21",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "12:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "440",
+      "fifa_match_number": 45
+    },
+    {
+      "date": "1986-06-21",
+      "team1": "West Germany",
+      "team2": "Mexico",
+      "ground": "Estadio Universitario, Monterrey",
+      "sources": {
+        "rsssf": "16:00",
+        "rsssf_date": "1986-06-21",
+        "fifa_archive": "16:00",
+        "fifa_archive_date": "1986-06-21",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "16:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "575",
+      "fifa_match_number": 46
+    },
+    {
+      "date": "1986-06-22",
+      "team1": "Spain",
+      "team2": "Belgium",
+      "ground": "Estadio Cuauhtémoc, Puebla",
+      "sources": {
+        "rsssf": "16:00",
+        "rsssf_date": "1986-06-22",
+        "fifa_archive": "16:00",
+        "fifa_archive_date": "1986-06-22",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "16:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "421",
+      "fifa_match_number": 47
+    },
+    {
+      "date": "1986-06-22",
+      "team1": "Argentina",
+      "team2": "England",
+      "ground": "Estadio Azteca, Mexico City",
+      "sources": {
+        "rsssf": "12:00",
+        "rsssf_date": "1986-06-22",
+        "fifa_archive": "12:00",
+        "fifa_archive_date": "1986-06-22",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "12:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "392",
+      "fifa_match_number": 48
+    },
+    {
+      "date": "1986-06-25",
+      "team1": "Argentina",
+      "team2": "Belgium",
+      "ground": "Estadio Azteca, Mexico City",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "16:00",
+        "fifa_archive_date": "1986-06-25",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "16:00",
+      "status": "single-source",
+      "date_mismatch": false,
+      "fifa_match_id": "388",
+      "fifa_match_number": 49
+    },
+    {
+      "date": "1986-06-25",
+      "team1": "France",
+      "team2": "West Germany",
+      "ground": "Estadio Jalisco, Guadalajara",
+      "sources": {
+        "rsssf": "12:00",
+        "rsssf_date": "1986-06-25",
+        "fifa_archive": "12:00",
+        "fifa_archive_date": "1986-06-25",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "12:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "564",
+      "fifa_match_number": 50
+    },
+    {
+      "date": "1986-06-28",
+      "team1": "France",
+      "team2": "Belgium",
+      "ground": "Estadio Cuauhtémoc, Puebla",
+      "sources": {
+        "rsssf": "12:00",
+        "rsssf_date": "1986-06-28",
+        "fifa_archive": "12:00",
+        "fifa_archive_date": "1986-06-28",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "12:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "422",
+      "fifa_match_number": 51
+    },
+    {
+      "date": "1986-06-29",
+      "team1": "Argentina",
+      "team2": "West Germany",
+      "ground": "Estadio Azteca, Mexico City",
+      "sources": {
+        "rsssf": "12:00",
+        "rsssf_date": "1986-06-29",
+        "fifa_archive": "12:00",
+        "fifa_archive_date": "1986-06-29",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "12:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "393",
+      "fifa_match_number": 52
+    }
+  ]
+}

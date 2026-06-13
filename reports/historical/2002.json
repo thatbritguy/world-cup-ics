@@ -1,0 +1,1235 @@
+{
+  "year": 2002,
+  "allowed_world_cup": true,
+  "host_timezone": "multi-zone",
+  "source_availability": {
+    "openfootball": true,
+    "rsssf_full": false,
+    "fifa_archive": true
+  },
+  "match_count": 64,
+  "status_counts": {
+    "accepted-modern-source": 64
+  },
+  "existing_calendar_status": null,
+  "source_issues_resolved_in_enrichment": false,
+  "requires_review": false,
+  "matches": [
+    {
+      "date": "2002-05-31",
+      "team1": "France",
+      "team2": "Senegal",
+      "ground": "Seoul World Cup Stadium, Seoul",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "20:30",
+        "fifa_archive_date": "2002-05-31",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "20:30",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": "43950001",
+      "fifa_match_number": 1
+    },
+    {
+      "date": "2002-06-01",
+      "team1": "Uruguay",
+      "team2": "Denmark",
+      "ground": "Munsu Cup Stadium, Ulsan",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "18:00",
+        "fifa_archive_date": "2002-06-01",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "18:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": "43950003",
+      "fifa_match_number": 3
+    },
+    {
+      "date": "2002-06-06",
+      "team1": "France",
+      "team2": "Uruguay",
+      "ground": "Asiad Main Stadium, Busan",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "20:30",
+        "fifa_archive_date": "2002-06-06",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "20:30",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": "43950018",
+      "fifa_match_number": 18
+    },
+    {
+      "date": "2002-06-06",
+      "team1": "Denmark",
+      "team2": "Senegal",
+      "ground": "Daegu World Cup Stadium, Daegu",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "15:30",
+        "fifa_archive_date": "2002-06-06",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "15:30",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": "43950020",
+      "fifa_match_number": 20
+    },
+    {
+      "date": "2002-06-11",
+      "team1": "Denmark",
+      "team2": "France",
+      "ground": "Incheon Munhak Stadium, Incheon",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "15:30",
+        "fifa_archive_date": "2002-06-11",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "15:30",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": "43950033",
+      "fifa_match_number": 33
+    },
+    {
+      "date": "2002-06-11",
+      "team1": "Senegal",
+      "team2": "Uruguay",
+      "ground": "Suwon World Cup Stadium, Suwon",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "15:30",
+        "fifa_archive_date": "2002-06-11",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "15:30",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": "43950034",
+      "fifa_match_number": 34
+    },
+    {
+      "date": "2002-06-02",
+      "team1": "Paraguay",
+      "team2": "South Africa",
+      "ground": "Asiad Main Stadium, Busan",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "16:30",
+        "fifa_archive_date": "2002-06-02",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "16:30",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": "43950006",
+      "fifa_match_number": 6
+    },
+    {
+      "date": "2002-06-02",
+      "team1": "Spain",
+      "team2": "Slovenia",
+      "ground": "Gwangju World Cup Stadium, Gwangju",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "20:30",
+        "fifa_archive_date": "2002-06-02",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "20:30",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": "43950008",
+      "fifa_match_number": 8
+    },
+    {
+      "date": "2002-06-07",
+      "team1": "Spain",
+      "team2": "Paraguay",
+      "ground": "Jeonju World Cup Stadium, Jeonju",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "18:00",
+        "fifa_archive_date": "2002-06-07",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "18:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": "43950022",
+      "fifa_match_number": 22
+    },
+    {
+      "date": "2002-06-08",
+      "team1": "South Africa",
+      "team2": "Slovenia",
+      "ground": "Daegu World Cup Stadium, Daegu",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "15:30",
+        "fifa_archive_date": "2002-06-08",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "15:30",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": "43950024",
+      "fifa_match_number": 24
+    },
+    {
+      "date": "2002-06-12",
+      "team1": "South Africa",
+      "team2": "Spain",
+      "ground": "Daejeon World Cup Stadium, Daejeon",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "20:30",
+        "fifa_archive_date": "2002-06-12",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "20:30",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": "43950039",
+      "fifa_match_number": 39
+    },
+    {
+      "date": "2002-06-12",
+      "team1": "Slovenia",
+      "team2": "Paraguay",
+      "ground": "Jeju World Cup Stadium, Jeju",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "20:30",
+        "fifa_archive_date": "2002-06-12",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "20:30",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": "43950040",
+      "fifa_match_number": 40
+    },
+    {
+      "date": "2002-06-03",
+      "team1": "Brazil",
+      "team2": "Turkey",
+      "ground": "Munsu Cup Stadium, Ulsan",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "18:00",
+        "fifa_archive_date": "2002-06-03",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "18:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": "43950010",
+      "fifa_match_number": 10
+    },
+    {
+      "date": "2002-06-04",
+      "team1": "China",
+      "team2": "Costa Rica",
+      "ground": "Gwangju World Cup Stadium, Gwangju",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "15:30",
+        "fifa_archive_date": "2002-06-04",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "15:30",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": "43950012",
+      "fifa_match_number": 12
+    },
+    {
+      "date": "2002-06-08",
+      "team1": "Brazil",
+      "team2": "China",
+      "ground": "Jeju World Cup Stadium, Jeju",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "20:30",
+        "fifa_archive_date": "2002-06-08",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "20:30",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": "43950026",
+      "fifa_match_number": 26
+    },
+    {
+      "date": "2002-06-09",
+      "team1": "Costa Rica",
+      "team2": "Turkey",
+      "ground": "Incheon Munhak Stadium, Incheon",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "18:00",
+        "fifa_archive_date": "2002-06-09",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "18:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": "43950028",
+      "fifa_match_number": 28
+    },
+    {
+      "date": "2002-06-13",
+      "team1": "Costa Rica",
+      "team2": "Brazil",
+      "ground": "Suwon World Cup Stadium, Suwon",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "15:30",
+        "fifa_archive_date": "2002-06-13",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "15:30",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": "43950041",
+      "fifa_match_number": 41
+    },
+    {
+      "date": "2002-06-13",
+      "team1": "Turkey",
+      "team2": "China",
+      "ground": "Seoul World Cup Stadium, Seoul",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "15:30",
+        "fifa_archive_date": "2002-06-13",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "15:30",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": "43950042",
+      "fifa_match_number": 42
+    },
+    {
+      "date": "2002-06-04",
+      "team1": "South Korea",
+      "team2": "Poland",
+      "ground": "Asiad Main Stadium, Busan",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "20:30",
+        "fifa_archive_date": "2002-06-04",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "20:30",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": "43950014",
+      "fifa_match_number": 14
+    },
+    {
+      "date": "2002-06-05",
+      "team1": "USA",
+      "team2": "Portugal",
+      "ground": "Suwon World Cup Stadium, Suwon",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "18:00",
+        "fifa_archive_date": "2002-06-05",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "18:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": "43950016",
+      "fifa_match_number": 16
+    },
+    {
+      "date": "2002-06-10",
+      "team1": "South Korea",
+      "team2": "USA",
+      "ground": "Daegu World Cup Stadium, Daegu",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "15:30",
+        "fifa_archive_date": "2002-06-10",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "15:30",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": "43950030",
+      "fifa_match_number": 30
+    },
+    {
+      "date": "2002-06-10",
+      "team1": "Portugal",
+      "team2": "Poland",
+      "ground": "Jeonju World Cup Stadium, Jeonju",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "20:30",
+        "fifa_archive_date": "2002-06-10",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "20:30",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": "43950032",
+      "fifa_match_number": 32
+    },
+    {
+      "date": "2002-06-14",
+      "team1": "Portugal",
+      "team2": "South Korea",
+      "ground": "Incheon Munhak Stadium, Incheon",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "20:30",
+        "fifa_archive_date": "2002-06-14",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "20:30",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": "43950047",
+      "fifa_match_number": 47
+    },
+    {
+      "date": "2002-06-14",
+      "team1": "Poland",
+      "team2": "USA",
+      "ground": "Daejeon World Cup Stadium, Daejeon",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "20:30",
+        "fifa_archive_date": "2002-06-14",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "20:30",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": "43950048",
+      "fifa_match_number": 48
+    },
+    {
+      "date": "2002-06-01",
+      "team1": "Ireland",
+      "team2": "Cameroon",
+      "ground": "Niigata Stadium, Niigata",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "15:30",
+        "fifa_archive_date": "2002-06-01",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "15:30",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": "43950002",
+      "fifa_match_number": 2
+    },
+    {
+      "date": "2002-06-01",
+      "team1": "Germany",
+      "team2": "Saudi Arabia",
+      "ground": "Sapporo Dome, Sapporo",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "20:30",
+        "fifa_archive_date": "2002-06-01",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "20:30",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": "43950004",
+      "fifa_match_number": 4
+    },
+    {
+      "date": "2002-06-05",
+      "team1": "Germany",
+      "team2": "Ireland",
+      "ground": "Kashima Soccer Stadium, Ibaraki",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "20:30",
+        "fifa_archive_date": "2002-06-05",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "20:30",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": "43950017",
+      "fifa_match_number": 17
+    },
+    {
+      "date": "2002-06-06",
+      "team1": "Cameroon",
+      "team2": "Saudi Arabia",
+      "ground": "Saitama Stadium, Saitama",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "18:00",
+        "fifa_archive_date": "2002-06-06",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "18:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": "43950019",
+      "fifa_match_number": 19
+    },
+    {
+      "date": "2002-06-11",
+      "team1": "Cameroon",
+      "team2": "Germany",
+      "ground": "Shizuoka Stadium, Shizuoka",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "20:30",
+        "fifa_archive_date": "2002-06-11",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "20:30",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": "43950035",
+      "fifa_match_number": 35
+    },
+    {
+      "date": "2002-06-11",
+      "team1": "Saudi Arabia",
+      "team2": "Ireland",
+      "ground": "International Stadium Yokohama, Yokohama",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "20:30",
+        "fifa_archive_date": "2002-06-11",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "20:30",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": "43950036",
+      "fifa_match_number": 36
+    },
+    {
+      "date": "2002-06-02",
+      "team1": "England",
+      "team2": "Sweden",
+      "ground": "Saitama Stadium, Saitama",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "18:30",
+        "fifa_archive_date": "2002-06-02",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "18:30",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": "43950005",
+      "fifa_match_number": 5
+    },
+    {
+      "date": "2002-06-02",
+      "team1": "Argentina",
+      "team2": "Nigeria",
+      "ground": "Kashima Soccer Stadium, Ibaraki",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "14:30",
+        "fifa_archive_date": "2002-06-02",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "14:30",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": "43950007",
+      "fifa_match_number": 7
+    },
+    {
+      "date": "2002-06-07",
+      "team1": "Sweden",
+      "team2": "Nigeria",
+      "ground": "Kobe Wing Stadium, Kobe",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "15:30",
+        "fifa_archive_date": "2002-06-07",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "15:30",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": "43950021",
+      "fifa_match_number": 21
+    },
+    {
+      "date": "2002-06-07",
+      "team1": "Argentina",
+      "team2": "England",
+      "ground": "Sapporo Dome, Sapporo",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "20:30",
+        "fifa_archive_date": "2002-06-07",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "20:30",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": "43950023",
+      "fifa_match_number": 23
+    },
+    {
+      "date": "2002-06-12",
+      "team1": "Sweden",
+      "team2": "Argentina",
+      "ground": "Miyagi Stadium, Miyagi",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "15:30",
+        "fifa_archive_date": "2002-06-12",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "15:30",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": "43950037",
+      "fifa_match_number": 37
+    },
+    {
+      "date": "2002-06-12",
+      "team1": "Nigeria",
+      "team2": "England",
+      "ground": "Nagai Stadium, Osaka",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "15:30",
+        "fifa_archive_date": "2002-06-12",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "15:30",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": "43950038",
+      "fifa_match_number": 38
+    },
+    {
+      "date": "2002-06-03",
+      "team1": "Croatia",
+      "team2": "Mexico",
+      "ground": "Niigata Stadium, Niigata",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "15:30",
+        "fifa_archive_date": "2002-06-03",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "15:30",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": "43950009",
+      "fifa_match_number": 9
+    },
+    {
+      "date": "2002-06-03",
+      "team1": "Italy",
+      "team2": "Ecuador",
+      "ground": "Sapporo Dome, Sapporo",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "20:30",
+        "fifa_archive_date": "2002-06-03",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "20:30",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": "43950011",
+      "fifa_match_number": 11
+    },
+    {
+      "date": "2002-06-08",
+      "team1": "Italy",
+      "team2": "Croatia",
+      "ground": "Kashima Soccer Stadium, Ibaraki",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "18:00",
+        "fifa_archive_date": "2002-06-08",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "18:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": "43950025",
+      "fifa_match_number": 25
+    },
+    {
+      "date": "2002-06-09",
+      "team1": "Mexico",
+      "team2": "Ecuador",
+      "ground": "Miyagi Stadium, Miyagi",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "15:30",
+        "fifa_archive_date": "2002-06-09",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "15:30",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": "43950027",
+      "fifa_match_number": 27
+    },
+    {
+      "date": "2002-06-13",
+      "team1": "Mexico",
+      "team2": "Italy",
+      "ground": "Ōita Stadium, Ōita",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "20:30",
+        "fifa_archive_date": "2002-06-13",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "20:30",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": "43950043",
+      "fifa_match_number": 43
+    },
+    {
+      "date": "2002-06-13",
+      "team1": "Ecuador",
+      "team2": "Croatia",
+      "ground": "International Stadium Yokohama, Yokohama",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "20:30",
+        "fifa_archive_date": "2002-06-13",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "20:30",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": "43950044",
+      "fifa_match_number": 44
+    },
+    {
+      "date": "2002-06-04",
+      "team1": "Japan",
+      "team2": "Belgium",
+      "ground": "Saitama Stadium, Saitama",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "18:00",
+        "fifa_archive_date": "2002-06-04",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "18:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": "43950013",
+      "fifa_match_number": 13
+    },
+    {
+      "date": "2002-06-05",
+      "team1": "Russia",
+      "team2": "Tunisia",
+      "ground": "Kobe Wing Stadium, Kobe",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "15:30",
+        "fifa_archive_date": "2002-06-05",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "15:30",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": "43950015",
+      "fifa_match_number": 15
+    },
+    {
+      "date": "2002-06-09",
+      "team1": "Japan",
+      "team2": "Russia",
+      "ground": "International Stadium Yokohama, Yokohama",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "20:30",
+        "fifa_archive_date": "2002-06-09",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "20:30",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": "43950029",
+      "fifa_match_number": 29
+    },
+    {
+      "date": "2002-06-10",
+      "team1": "Tunisia",
+      "team2": "Belgium",
+      "ground": "Ōita Stadium, Ōita",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "18:00",
+        "fifa_archive_date": "2002-06-10",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "18:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": "43950031",
+      "fifa_match_number": 31
+    },
+    {
+      "date": "2002-06-14",
+      "team1": "Tunisia",
+      "team2": "Japan",
+      "ground": "Nagai Stadium, Osaka",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "15:30",
+        "fifa_archive_date": "2002-06-14",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "15:30",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": "43950045",
+      "fifa_match_number": 45
+    },
+    {
+      "date": "2002-06-14",
+      "team1": "Belgium",
+      "team2": "Russia",
+      "ground": "Shizuoka Stadium, Shizuoka",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "15:30",
+        "fifa_archive_date": "2002-06-14",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "15:30",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": "43950046",
+      "fifa_match_number": 46
+    },
+    {
+      "date": "2002-06-15",
+      "team1": "Germany",
+      "team2": "Paraguay",
+      "ground": "Jeju World Cup Stadium, Jeju",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "15:30",
+        "fifa_archive_date": "2002-06-15",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "15:30",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": "43950049",
+      "fifa_match_number": 49
+    },
+    {
+      "date": "2002-06-15",
+      "team1": "Denmark",
+      "team2": "England",
+      "ground": "Niigata Stadium, Niigata",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "20:30",
+        "fifa_archive_date": "2002-06-15",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "20:30",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": "43950050",
+      "fifa_match_number": 50
+    },
+    {
+      "date": "2002-06-16",
+      "team1": "Sweden",
+      "team2": "Senegal",
+      "ground": "Ōita Stadium, Ōita",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "15:30",
+        "fifa_archive_date": "2002-06-16",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "15:30",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": "43950051",
+      "fifa_match_number": 51
+    },
+    {
+      "date": "2002-06-16",
+      "team1": "Spain",
+      "team2": "Ireland",
+      "ground": "Suwon World Cup Stadium, Suwon",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "20:30",
+        "fifa_archive_date": "2002-06-16",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "20:30",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": "43950052",
+      "fifa_match_number": 52
+    },
+    {
+      "date": "2002-06-17",
+      "team1": "Mexico",
+      "team2": "USA",
+      "ground": "Jeonju World Cup Stadium, Jeonju",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "15:30",
+        "fifa_archive_date": "2002-06-17",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "15:30",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": "43950053",
+      "fifa_match_number": 53
+    },
+    {
+      "date": "2002-06-17",
+      "team1": "Brazil",
+      "team2": "Belgium",
+      "ground": "Kobe Wing Stadium, Kobe",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "20:30",
+        "fifa_archive_date": "2002-06-17",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "20:30",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": "43950054",
+      "fifa_match_number": 54
+    },
+    {
+      "date": "2002-06-18",
+      "team1": "Japan",
+      "team2": "Turkey",
+      "ground": "Miyagi Stadium, Miyagi",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "15:30",
+        "fifa_archive_date": "2002-06-18",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "15:30",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": "43950055",
+      "fifa_match_number": 55
+    },
+    {
+      "date": "2002-06-18",
+      "team1": "South Korea",
+      "team2": "Italy",
+      "ground": "Daejeon World Cup Stadium, Daejeon",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "20:30",
+        "fifa_archive_date": "2002-06-18",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "20:30",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": "43950056",
+      "fifa_match_number": 56
+    },
+    {
+      "date": "2002-06-21",
+      "team1": "England",
+      "team2": "Brazil",
+      "ground": "Shizuoka Stadium, Shizuoka",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "15:30",
+        "fifa_archive_date": "2002-06-21",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "15:30",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": "43950057",
+      "fifa_match_number": 57
+    },
+    {
+      "date": "2002-06-21",
+      "team1": "Germany",
+      "team2": "USA",
+      "ground": "Munsu Cup Stadium, Ulsan",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "20:30",
+        "fifa_archive_date": "2002-06-21",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "20:30",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": "43950058",
+      "fifa_match_number": 58
+    },
+    {
+      "date": "2002-06-22",
+      "team1": "Spain",
+      "team2": "South Korea",
+      "ground": "Gwangju World Cup Stadium, Gwangju",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "15:30",
+        "fifa_archive_date": "2002-06-22",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "15:30",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": "43950059",
+      "fifa_match_number": 59
+    },
+    {
+      "date": "2002-06-22",
+      "team1": "Senegal",
+      "team2": "Turkey",
+      "ground": "Nagai Stadium, Osaka",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "20:30",
+        "fifa_archive_date": "2002-06-22",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "20:30",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": "43950060",
+      "fifa_match_number": 60
+    },
+    {
+      "date": "2002-06-25",
+      "team1": "Germany",
+      "team2": "South Korea",
+      "ground": "Seoul World Cup Stadium, Seoul",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "20:30",
+        "fifa_archive_date": "2002-06-25",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "20:30",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": "43950061",
+      "fifa_match_number": 61
+    },
+    {
+      "date": "2002-06-26",
+      "team1": "Brazil",
+      "team2": "Turkey",
+      "ground": "Saitama Stadium, Saitama",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "20:30",
+        "fifa_archive_date": "2002-06-26",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "20:30",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": "43950062",
+      "fifa_match_number": 62
+    },
+    {
+      "date": "2002-06-29",
+      "team1": "South Korea",
+      "team2": "Turkey",
+      "ground": "Daegu World Cup Stadium, Daegu",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "20:00",
+        "fifa_archive_date": "2002-06-29",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "20:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": "43950063",
+      "fifa_match_number": 63
+    },
+    {
+      "date": "2002-06-30",
+      "team1": "Germany",
+      "team2": "Brazil",
+      "ground": "International Stadium Yokohama, Yokohama",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "20:00",
+        "fifa_archive_date": "2002-06-30",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "20:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": "43950064",
+      "fifa_match_number": 64
+    }
+  ]
+}

@@ -1,0 +1,1237 @@
+{
+  "year": 1998,
+  "allowed_world_cup": true,
+  "host_timezone": "Europe/Paris",
+  "source_availability": {
+    "openfootball": true,
+    "rsssf_full": true,
+    "fifa_archive": true
+  },
+  "match_count": 64,
+  "status_counts": {
+    "conflict": 58,
+    "corroborated": 3,
+    "single-source": 3
+  },
+  "existing_calendar_status": null,
+  "source_issues_resolved_in_enrichment": false,
+  "requires_review": true,
+  "matches": [
+    {
+      "date": "1998-06-10",
+      "team1": "Brazil",
+      "team2": "Scotland",
+      "ground": "Stade de France, Saint-Denis",
+      "sources": {
+        "rsssf": "16:30",
+        "rsssf_date": "1998-06-10",
+        "fifa_archive": "17:30",
+        "fifa_archive_date": "1998-06-10",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "16:30",
+      "status": "conflict",
+      "date_mismatch": false,
+      "fifa_match_id": "4000",
+      "fifa_match_number": 1
+    },
+    {
+      "date": "1998-06-10",
+      "team1": "Morocco",
+      "team2": "Norway",
+      "ground": "Stade de la Mosson, Montpellier",
+      "sources": {
+        "rsssf": "20:00",
+        "rsssf_date": "1998-06-10",
+        "fifa_archive": "21:00",
+        "fifa_archive_date": "1998-06-10",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "20:00",
+      "status": "conflict",
+      "date_mismatch": false,
+      "fifa_match_id": "8725",
+      "fifa_match_number": 2
+    },
+    {
+      "date": "1998-06-16",
+      "team1": "Scotland",
+      "team2": "Norway",
+      "ground": "Parc Lescure, Bordeaux",
+      "sources": {
+        "rsssf": "16:30",
+        "rsssf_date": "1998-06-16",
+        "fifa_archive": "17:30",
+        "fifa_archive_date": "1998-06-16",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "16:30",
+      "status": "conflict",
+      "date_mismatch": false,
+      "fifa_match_id": "8741",
+      "fifa_match_number": 17
+    },
+    {
+      "date": "1998-06-16",
+      "team1": "Brazil",
+      "team2": "Morocco",
+      "ground": "Stade de la Beaujoire, Nantes",
+      "sources": {
+        "rsssf": "20:00",
+        "rsssf_date": "1998-06-16",
+        "fifa_archive": "21:00",
+        "fifa_archive_date": "1998-06-16",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "20:00",
+      "status": "conflict",
+      "date_mismatch": false,
+      "fifa_match_id": "8742",
+      "fifa_match_number": 18
+    },
+    {
+      "date": "1998-06-23",
+      "team1": "Scotland",
+      "team2": "Morocco",
+      "ground": "Stade Geoffroy-Guichard, Saint-Étienne",
+      "sources": {
+        "rsssf": "21:00",
+        "rsssf_date": "1998-06-23",
+        "fifa_archive": "21:00",
+        "fifa_archive_date": "1998-06-23",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "21:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "8758",
+      "fifa_match_number": 34
+    },
+    {
+      "date": "1998-06-23",
+      "team1": "Brazil",
+      "team2": "Norway",
+      "ground": "Stade Vélodrome, Marseille",
+      "sources": {
+        "rsssf": "21:00",
+        "rsssf_date": "1998-06-23",
+        "fifa_archive": "21:00",
+        "fifa_archive_date": "1998-06-23",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "21:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "8759",
+      "fifa_match_number": 35
+    },
+    {
+      "date": "1998-06-11",
+      "team1": "Cameroon",
+      "team2": "Austria",
+      "ground": "Stade de Toulouse, Toulouse",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "21:00",
+        "fifa_archive_date": "1998-06-11",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "21:00",
+      "status": "single-source",
+      "date_mismatch": false,
+      "fifa_match_id": "8727",
+      "fifa_match_number": 3
+    },
+    {
+      "date": "1998-06-11",
+      "team1": "Italy",
+      "team2": "Chile",
+      "ground": "Parc Lescure, Bordeaux",
+      "sources": {
+        "rsssf": "16:30",
+        "rsssf_date": "1998-06-11",
+        "fifa_archive": "17:30",
+        "fifa_archive_date": "1998-06-11",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "16:30",
+      "status": "conflict",
+      "date_mismatch": false,
+      "fifa_match_id": "8726",
+      "fifa_match_number": 4
+    },
+    {
+      "date": "1998-06-17",
+      "team1": "Chile",
+      "team2": "Austria",
+      "ground": "Stade Geoffroy-Guichard, Saint-Étienne",
+      "sources": {
+        "rsssf": "16:30",
+        "rsssf_date": "1998-06-17",
+        "fifa_archive": "17:30",
+        "fifa_archive_date": "1998-06-17",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "16:30",
+      "status": "conflict",
+      "date_mismatch": false,
+      "fifa_match_id": "8743",
+      "fifa_match_number": 19
+    },
+    {
+      "date": "1998-06-17",
+      "team1": "Italy",
+      "team2": "Cameroon",
+      "ground": "Stade de la Mosson, Montpellier",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "21:00",
+        "fifa_archive_date": "1998-06-17",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "21:00",
+      "status": "single-source",
+      "date_mismatch": false,
+      "fifa_match_id": "8744",
+      "fifa_match_number": 20
+    },
+    {
+      "date": "1998-06-23",
+      "team1": "Italy",
+      "team2": "Austria",
+      "ground": "Stade de France, Saint-Denis",
+      "sources": {
+        "rsssf": "15:00",
+        "rsssf_date": "1998-06-23",
+        "fifa_archive": "16:00",
+        "fifa_archive_date": "1998-06-23",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "15:00",
+      "status": "conflict",
+      "date_mismatch": false,
+      "fifa_match_id": "8757",
+      "fifa_match_number": 33
+    },
+    {
+      "date": "1998-06-23",
+      "team1": "Chile",
+      "team2": "Cameroon",
+      "ground": "Stade de la Beaujoire, Nantes",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": "16:00",
+        "fifa_archive_date": "1998-06-23",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "16:00",
+      "status": "single-source",
+      "date_mismatch": false,
+      "fifa_match_id": "8760",
+      "fifa_match_number": 36
+    },
+    {
+      "date": "1998-06-12",
+      "team1": "Saudi Arabia",
+      "team2": "Denmark",
+      "ground": "Stade Félix Bollaert, Lens",
+      "sources": {
+        "rsssf": "16:30",
+        "rsssf_date": "1998-06-12",
+        "fifa_archive": "17:30",
+        "fifa_archive_date": "1998-06-12",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "16:30",
+      "status": "conflict",
+      "date_mismatch": false,
+      "fifa_match_id": "8729",
+      "fifa_match_number": 5
+    },
+    {
+      "date": "1998-06-12",
+      "team1": "France",
+      "team2": "South Africa",
+      "ground": "Stade Vélodrome, Marseille",
+      "sources": {
+        "rsssf": "20:00",
+        "rsssf_date": "1998-06-12",
+        "fifa_archive": "21:00",
+        "fifa_archive_date": "1998-06-12",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "20:00",
+      "status": "conflict",
+      "date_mismatch": false,
+      "fifa_match_id": "8730",
+      "fifa_match_number": 6
+    },
+    {
+      "date": "1998-06-18",
+      "team1": "France",
+      "team2": "Saudi Arabia",
+      "ground": "Stade de France, Saint-Denis",
+      "sources": {
+        "rsssf": "20:00",
+        "rsssf_date": "1998-06-18",
+        "fifa_archive": "21:00",
+        "fifa_archive_date": "1998-06-18",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "20:00",
+      "status": "conflict",
+      "date_mismatch": false,
+      "fifa_match_id": "8745",
+      "fifa_match_number": 21
+    },
+    {
+      "date": "1998-06-18",
+      "team1": "South Africa",
+      "team2": "Denmark",
+      "ground": "Stade de Toulouse, Toulouse",
+      "sources": {
+        "rsssf": "16:30",
+        "rsssf_date": "1998-06-18",
+        "fifa_archive": "17:30",
+        "fifa_archive_date": "1998-06-18",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "16:30",
+      "status": "conflict",
+      "date_mismatch": false,
+      "fifa_match_id": "8746",
+      "fifa_match_number": 22
+    },
+    {
+      "date": "1998-06-24",
+      "team1": "France",
+      "team2": "Denmark",
+      "ground": "Stade Gerland, Lyon",
+      "sources": {
+        "rsssf": "15:00",
+        "rsssf_date": "1998-06-24",
+        "fifa_archive": "16:00",
+        "fifa_archive_date": "1998-06-24",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "15:00",
+      "status": "conflict",
+      "date_mismatch": false,
+      "fifa_match_id": "8762",
+      "fifa_match_number": 38
+    },
+    {
+      "date": "1998-06-24",
+      "team1": "South Africa",
+      "team2": "Saudi Arabia",
+      "ground": "Parc Lescure, Bordeaux",
+      "sources": {
+        "rsssf": "15:00",
+        "rsssf_date": "1998-06-24",
+        "fifa_archive": "16:00",
+        "fifa_archive_date": "1998-06-24",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "15:00",
+      "status": "conflict",
+      "date_mismatch": false,
+      "fifa_match_id": "8764",
+      "fifa_match_number": 40
+    },
+    {
+      "date": "1998-06-12",
+      "team1": "Paraguay",
+      "team2": "Bulgaria",
+      "ground": "Stade de la Mosson, Montpellier",
+      "sources": {
+        "rsssf": "13:00",
+        "rsssf_date": "1998-06-12",
+        "fifa_archive": "14:30",
+        "fifa_archive_date": "1998-06-12",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "13:00",
+      "status": "conflict",
+      "date_mismatch": false,
+      "fifa_match_id": "8728",
+      "fifa_match_number": 7
+    },
+    {
+      "date": "1998-06-13",
+      "team1": "Spain",
+      "team2": "Nigeria",
+      "ground": "Stade de la Beaujoire, Nantes",
+      "sources": {
+        "rsssf": "13:30",
+        "rsssf_date": "1998-06-13",
+        "fifa_archive": "14:30",
+        "fifa_archive_date": "1998-06-13",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "13:30",
+      "status": "conflict",
+      "date_mismatch": false,
+      "fifa_match_id": "8731",
+      "fifa_match_number": 10
+    },
+    {
+      "date": "1998-06-19",
+      "team1": "Nigeria",
+      "team2": "Bulgaria",
+      "ground": "Parc des Princes, Paris",
+      "sources": {
+        "rsssf": "16:30",
+        "rsssf_date": "1998-06-19",
+        "fifa_archive": "17:30",
+        "fifa_archive_date": "1998-06-19",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "16:30",
+      "status": "conflict",
+      "date_mismatch": false,
+      "fifa_match_id": "8747",
+      "fifa_match_number": 23
+    },
+    {
+      "date": "1998-06-19",
+      "team1": "Spain",
+      "team2": "Paraguay",
+      "ground": "Stade Geoffroy-Guichard, Saint-Étienne",
+      "sources": {
+        "rsssf": "20:00",
+        "rsssf_date": "1998-06-19",
+        "fifa_archive": "21:00",
+        "fifa_archive_date": "1998-06-19",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "20:00",
+      "status": "conflict",
+      "date_mismatch": false,
+      "fifa_match_id": "8748",
+      "fifa_match_number": 24
+    },
+    {
+      "date": "1998-06-24",
+      "team1": "Spain",
+      "team2": "Bulgaria",
+      "ground": "Stade Félix Bollaert, Lens",
+      "sources": {
+        "rsssf": "20:00",
+        "rsssf_date": "1998-06-24",
+        "fifa_archive": "21:00",
+        "fifa_archive_date": "1998-06-24",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "20:00",
+      "status": "conflict",
+      "date_mismatch": false,
+      "fifa_match_id": "8761",
+      "fifa_match_number": 37
+    },
+    {
+      "date": "1998-06-24",
+      "team1": "Nigeria",
+      "team2": "Paraguay",
+      "ground": "Stade de Toulouse, Toulouse",
+      "sources": {
+        "rsssf": "20:00",
+        "rsssf_date": "1998-06-24",
+        "fifa_archive": "21:00",
+        "fifa_archive_date": "1998-06-24",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "20:00",
+      "status": "conflict",
+      "date_mismatch": false,
+      "fifa_match_id": "8763",
+      "fifa_match_number": 39
+    },
+    {
+      "date": "1998-06-13",
+      "team1": "Netherlands",
+      "team2": "Belgium",
+      "ground": "Stade de France, Saint-Denis",
+      "sources": {
+        "rsssf": "20:30",
+        "rsssf_date": "1998-06-13",
+        "fifa_archive": "21:00",
+        "fifa_archive_date": "1998-06-13",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "20:30",
+      "status": "conflict",
+      "date_mismatch": false,
+      "fifa_match_id": "8733",
+      "fifa_match_number": 8
+    },
+    {
+      "date": "1998-06-13",
+      "team1": "South Korea",
+      "team2": "Mexico",
+      "ground": "Stade Gerland, Lyon",
+      "sources": {
+        "rsssf": "16:30",
+        "rsssf_date": "1998-06-13",
+        "fifa_archive": "17:30",
+        "fifa_archive_date": "1998-06-13",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "16:30",
+      "status": "conflict",
+      "date_mismatch": false,
+      "fifa_match_id": "8732",
+      "fifa_match_number": 9
+    },
+    {
+      "date": "1998-06-20",
+      "team1": "Netherlands",
+      "team2": "South Korea",
+      "ground": "Stade Vélodrome, Marseille",
+      "sources": {
+        "rsssf": "20:00",
+        "rsssf_date": "1998-06-20",
+        "fifa_archive": "21:00",
+        "fifa_archive_date": "1998-06-20",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "20:00",
+      "status": "conflict",
+      "date_mismatch": false,
+      "fifa_match_id": "8749",
+      "fifa_match_number": 25
+    },
+    {
+      "date": "1998-06-20",
+      "team1": "Belgium",
+      "team2": "Mexico",
+      "ground": "Parc Lescure, Bordeaux",
+      "sources": {
+        "rsssf": "16:30",
+        "rsssf_date": "1998-06-20",
+        "fifa_archive": "17:30",
+        "fifa_archive_date": "1998-06-20",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "16:30",
+      "status": "conflict",
+      "date_mismatch": false,
+      "fifa_match_id": "8750",
+      "fifa_match_number": 26
+    },
+    {
+      "date": "1998-06-25",
+      "team1": "Belgium",
+      "team2": "South Korea",
+      "ground": "Parc des Princes, Paris",
+      "sources": {
+        "rsssf": "15:00",
+        "rsssf_date": "1998-06-25",
+        "fifa_archive": "16:00",
+        "fifa_archive_date": "1998-06-25",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "15:00",
+      "status": "conflict",
+      "date_mismatch": false,
+      "fifa_match_id": "8765",
+      "fifa_match_number": 41
+    },
+    {
+      "date": "1998-06-25",
+      "team1": "Netherlands",
+      "team2": "Mexico",
+      "ground": "Stade Geoffroy-Guichard, Saint-Étienne",
+      "sources": {
+        "rsssf": "15:00",
+        "rsssf_date": "1998-06-25",
+        "fifa_archive": "16:00",
+        "fifa_archive_date": "1998-06-25",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "15:00",
+      "status": "conflict",
+      "date_mismatch": false,
+      "fifa_match_id": "8766",
+      "fifa_match_number": 42
+    },
+    {
+      "date": "1998-06-14",
+      "team1": "Yugoslavia",
+      "team2": "Iran",
+      "ground": "Stade Geoffroy-Guichard, Saint-Étienne",
+      "sources": {
+        "rsssf": "13:30",
+        "rsssf_date": "1998-06-14",
+        "fifa_archive": "17:30",
+        "fifa_archive_date": "1998-06-14",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "13:30",
+      "status": "conflict",
+      "date_mismatch": false,
+      "fifa_match_id": "8735",
+      "fifa_match_number": 12
+    },
+    {
+      "date": "1998-06-15",
+      "team1": "Germany",
+      "team2": "USA",
+      "ground": "Parc des Princes, Paris",
+      "sources": {
+        "rsssf": "20:00",
+        "rsssf_date": "1998-06-15",
+        "fifa_archive": "21:00",
+        "fifa_archive_date": "1998-06-15",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "20:00",
+      "status": "conflict",
+      "date_mismatch": false,
+      "fifa_match_id": "8738",
+      "fifa_match_number": 14
+    },
+    {
+      "date": "1998-06-21",
+      "team1": "Germany",
+      "team2": "Yugoslavia",
+      "ground": "Stade Félix Bollaert, Lens",
+      "sources": {
+        "rsssf": "13:30",
+        "rsssf_date": "1998-06-21",
+        "fifa_archive": "14:30",
+        "fifa_archive_date": "1998-06-21",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "13:30",
+      "status": "conflict",
+      "date_mismatch": false,
+      "fifa_match_id": "8753",
+      "fifa_match_number": 29
+    },
+    {
+      "date": "1998-06-21",
+      "team1": "USA",
+      "team2": "Iran",
+      "ground": "Stade Gerland, Lyon",
+      "sources": {
+        "rsssf": "20:00",
+        "rsssf_date": "1998-06-21",
+        "fifa_archive": "21:00",
+        "fifa_archive_date": "1998-06-21",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "20:00",
+      "status": "conflict",
+      "date_mismatch": false,
+      "fifa_match_id": "8754",
+      "fifa_match_number": 30
+    },
+    {
+      "date": "1998-06-25",
+      "team1": "Germany",
+      "team2": "Iran",
+      "ground": "Stade de la Mosson, Montpellier",
+      "sources": {
+        "rsssf": "20:00",
+        "rsssf_date": "1998-06-25",
+        "fifa_archive": "21:00",
+        "fifa_archive_date": "1998-06-25",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "20:00",
+      "status": "conflict",
+      "date_mismatch": false,
+      "fifa_match_id": "8767",
+      "fifa_match_number": 43
+    },
+    {
+      "date": "1998-06-25",
+      "team1": "USA",
+      "team2": "Yugoslavia",
+      "ground": "Stade de la Beaujoire, Nantes",
+      "sources": {
+        "rsssf": "20:00",
+        "rsssf_date": "1998-06-25",
+        "fifa_archive": "21:00",
+        "fifa_archive_date": "1998-06-25",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "20:00",
+      "status": "conflict",
+      "date_mismatch": false,
+      "fifa_match_id": "8768",
+      "fifa_match_number": 44
+    },
+    {
+      "date": "1998-06-15",
+      "team1": "Romania",
+      "team2": "Colombia",
+      "ground": "Stade Gerland, Lyon",
+      "sources": {
+        "rsssf": "16:30",
+        "rsssf_date": "1998-06-15",
+        "fifa_archive": "17:30",
+        "fifa_archive_date": "1998-06-15",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "16:30",
+      "status": "conflict",
+      "date_mismatch": false,
+      "fifa_match_id": "8739",
+      "fifa_match_number": 15
+    },
+    {
+      "date": "1998-06-15",
+      "team1": "England",
+      "team2": "Tunisia",
+      "ground": "Stade Vélodrome, Marseille",
+      "sources": {
+        "rsssf": "13:30",
+        "rsssf_date": "1998-06-15",
+        "fifa_archive": "14:30",
+        "fifa_archive_date": "1998-06-15",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "13:30",
+      "status": "conflict",
+      "date_mismatch": false,
+      "fifa_match_id": "8740",
+      "fifa_match_number": 16
+    },
+    {
+      "date": "1998-06-22",
+      "team1": "Colombia",
+      "team2": "Tunisia",
+      "ground": "Stade de la Mosson, Montpellier",
+      "sources": {
+        "rsssf": "16:30",
+        "rsssf_date": "1998-06-22",
+        "fifa_archive": "17:30",
+        "fifa_archive_date": "1998-06-22",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "16:30",
+      "status": "conflict",
+      "date_mismatch": false,
+      "fifa_match_id": "8755",
+      "fifa_match_number": 31
+    },
+    {
+      "date": "1998-06-22",
+      "team1": "Romania",
+      "team2": "England",
+      "ground": "Stade de Toulouse, Toulouse",
+      "sources": {
+        "rsssf": "20:00",
+        "rsssf_date": "1998-06-22",
+        "fifa_archive": "21:00",
+        "fifa_archive_date": "1998-06-22",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "20:00",
+      "status": "conflict",
+      "date_mismatch": false,
+      "fifa_match_id": "8756",
+      "fifa_match_number": 32
+    },
+    {
+      "date": "1998-06-26",
+      "team1": "Romania",
+      "team2": "Tunisia",
+      "ground": "Stade de France, Saint-Denis",
+      "sources": {
+        "rsssf": "20:00",
+        "rsssf_date": "1998-06-26",
+        "fifa_archive": "21:00",
+        "fifa_archive_date": "1998-06-26",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "20:00",
+      "status": "conflict",
+      "date_mismatch": false,
+      "fifa_match_id": "8769",
+      "fifa_match_number": 45
+    },
+    {
+      "date": "1998-06-26",
+      "team1": "Colombia",
+      "team2": "England",
+      "ground": "Stade Félix Bollaert, Lens",
+      "sources": {
+        "rsssf": "20:00",
+        "rsssf_date": "1998-06-26",
+        "fifa_archive": "21:00",
+        "fifa_archive_date": "1998-06-26",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "20:00",
+      "status": "conflict",
+      "date_mismatch": false,
+      "fifa_match_id": "8770",
+      "fifa_match_number": 46
+    },
+    {
+      "date": "1998-06-14",
+      "team1": "Jamaica",
+      "team2": "Croatia",
+      "ground": "Stade Félix Bollaert, Lens",
+      "sources": {
+        "rsssf": "20:00",
+        "rsssf_date": "1998-06-14",
+        "fifa_archive": "21:00",
+        "fifa_archive_date": "1998-06-14",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "20:00",
+      "status": "conflict",
+      "date_mismatch": false,
+      "fifa_match_id": "8736",
+      "fifa_match_number": 11
+    },
+    {
+      "date": "1998-06-14",
+      "team1": "Argentina",
+      "team2": "Japan",
+      "ground": "Stade de Toulouse, Toulouse",
+      "sources": {
+        "rsssf": "13:30",
+        "rsssf_date": "1998-06-14",
+        "fifa_archive": "14:30",
+        "fifa_archive_date": "1998-06-14",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "13:30",
+      "status": "conflict",
+      "date_mismatch": false,
+      "fifa_match_id": "8734",
+      "fifa_match_number": 13
+    },
+    {
+      "date": "1998-06-20",
+      "team1": "Japan",
+      "team2": "Croatia",
+      "ground": "Stade de la Beaujoire, Nantes",
+      "sources": {
+        "rsssf": "13:30",
+        "rsssf_date": "1998-06-20",
+        "fifa_archive": "14:30",
+        "fifa_archive_date": "1998-06-20",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "13:30",
+      "status": "conflict",
+      "date_mismatch": false,
+      "fifa_match_id": "8751",
+      "fifa_match_number": 27
+    },
+    {
+      "date": "1998-06-21",
+      "team1": "Argentina",
+      "team2": "Jamaica",
+      "ground": "Parc des Princes, Paris",
+      "sources": {
+        "rsssf": "16:30",
+        "rsssf_date": "1998-06-21",
+        "fifa_archive": "17:30",
+        "fifa_archive_date": "1998-06-21",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "16:30",
+      "status": "conflict",
+      "date_mismatch": false,
+      "fifa_match_id": "8752",
+      "fifa_match_number": 28
+    },
+    {
+      "date": "1998-06-26",
+      "team1": "Japan",
+      "team2": "Jamaica",
+      "ground": "Stade Gerland, Lyon",
+      "sources": {
+        "rsssf": "15:00",
+        "rsssf_date": "1998-06-26",
+        "fifa_archive": "16:00",
+        "fifa_archive_date": "1998-06-26",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "15:00",
+      "status": "conflict",
+      "date_mismatch": false,
+      "fifa_match_id": "8771",
+      "fifa_match_number": 47
+    },
+    {
+      "date": "1998-06-26",
+      "team1": "Argentina",
+      "team2": "Croatia",
+      "ground": "Parc Lescure, Bordeaux",
+      "sources": {
+        "rsssf": "16:00",
+        "rsssf_date": "1998-06-26",
+        "fifa_archive": "16:00",
+        "fifa_archive_date": "1998-06-26",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "16:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "8772",
+      "fifa_match_number": 48
+    },
+    {
+      "date": "1998-06-27",
+      "team1": "Brazil",
+      "team2": "Chile",
+      "ground": "Parc des Princes, Paris",
+      "sources": {
+        "rsssf": "20:00",
+        "rsssf_date": "1998-06-27",
+        "fifa_archive": "21:00",
+        "fifa_archive_date": "1998-06-27",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "20:00",
+      "status": "conflict",
+      "date_mismatch": false,
+      "fifa_match_id": "8773",
+      "fifa_match_number": 49
+    },
+    {
+      "date": "1998-06-27",
+      "team1": "Italy",
+      "team2": "Norway",
+      "ground": "Stade Vélodrome, Marseille",
+      "sources": {
+        "rsssf": "15:30",
+        "rsssf_date": "1998-06-27",
+        "fifa_archive": "16:30",
+        "fifa_archive_date": "1998-06-27",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "15:30",
+      "status": "conflict",
+      "date_mismatch": false,
+      "fifa_match_id": "8774",
+      "fifa_match_number": 50
+    },
+    {
+      "date": "1998-06-28",
+      "team1": "Nigeria",
+      "team2": "Denmark",
+      "ground": "Stade de France, Saint-Denis",
+      "sources": {
+        "rsssf": "20:00",
+        "rsssf_date": "1998-06-28",
+        "fifa_archive": "21:00",
+        "fifa_archive_date": "1998-06-28",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "20:00",
+      "status": "conflict",
+      "date_mismatch": false,
+      "fifa_match_id": "8775",
+      "fifa_match_number": 51
+    },
+    {
+      "date": "1998-06-28",
+      "team1": "France",
+      "team2": "Paraguay",
+      "ground": "Stade Félix Bollaert, Lens",
+      "sources": {
+        "rsssf": "15:30",
+        "rsssf_date": "1998-06-28",
+        "fifa_archive": "16:30",
+        "fifa_archive_date": "1998-06-28",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "15:30",
+      "status": "conflict",
+      "date_mismatch": false,
+      "fifa_match_id": "8776",
+      "fifa_match_number": 52
+    },
+    {
+      "date": "1998-06-29",
+      "team1": "Germany",
+      "team2": "Mexico",
+      "ground": "Stade de la Mosson, Montpellier",
+      "sources": {
+        "rsssf": "15:30",
+        "rsssf_date": "1998-06-29",
+        "fifa_archive": "16:30",
+        "fifa_archive_date": "1998-06-29",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "15:30",
+      "status": "conflict",
+      "date_mismatch": false,
+      "fifa_match_id": "8777",
+      "fifa_match_number": 53
+    },
+    {
+      "date": "1998-06-29",
+      "team1": "Netherlands",
+      "team2": "Yugoslavia",
+      "ground": "Stade de Toulouse, Toulouse",
+      "sources": {
+        "rsssf": "20:00",
+        "rsssf_date": "1998-06-29",
+        "fifa_archive": "21:00",
+        "fifa_archive_date": "1998-06-29",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "20:00",
+      "status": "conflict",
+      "date_mismatch": false,
+      "fifa_match_id": "8778",
+      "fifa_match_number": 54
+    },
+    {
+      "date": "1998-06-30",
+      "team1": "Argentina",
+      "team2": "England",
+      "ground": "Stade Geoffroy-Guichard, Saint-Étienne",
+      "sources": {
+        "rsssf": "20:00",
+        "rsssf_date": "1998-06-30",
+        "fifa_archive": "21:00",
+        "fifa_archive_date": "1998-06-30",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "20:00",
+      "status": "conflict",
+      "date_mismatch": false,
+      "fifa_match_id": "8779",
+      "fifa_match_number": 55
+    },
+    {
+      "date": "1998-06-30",
+      "team1": "Romania",
+      "team2": "Croatia",
+      "ground": "Parc Lescure, Bordeaux",
+      "sources": {
+        "rsssf": "15:30",
+        "rsssf_date": "1998-06-30",
+        "fifa_archive": "16:30",
+        "fifa_archive_date": "1998-06-30",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "15:30",
+      "status": "conflict",
+      "date_mismatch": false,
+      "fifa_match_id": "8780",
+      "fifa_match_number": 56
+    },
+    {
+      "date": "1998-07-03",
+      "team1": "Italy",
+      "team2": "France",
+      "ground": "Stade de France, Saint-Denis",
+      "sources": {
+        "rsssf": "15:30",
+        "rsssf_date": "1998-07-03",
+        "fifa_archive": "16:30",
+        "fifa_archive_date": "1998-07-03",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "15:30",
+      "status": "conflict",
+      "date_mismatch": false,
+      "fifa_match_id": "8781",
+      "fifa_match_number": 57
+    },
+    {
+      "date": "1998-07-03",
+      "team1": "Brazil",
+      "team2": "Denmark",
+      "ground": "Stade de la Beaujoire, Nantes",
+      "sources": {
+        "rsssf": "20:00",
+        "rsssf_date": "1998-07-03",
+        "fifa_archive": "21:00",
+        "fifa_archive_date": "1998-07-03",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "20:00",
+      "status": "conflict",
+      "date_mismatch": false,
+      "fifa_match_id": "8782",
+      "fifa_match_number": 58
+    },
+    {
+      "date": "1998-07-04",
+      "team1": "Germany",
+      "team2": "Croatia",
+      "ground": "Stade Gerland, Lyon",
+      "sources": {
+        "rsssf": "20:00",
+        "rsssf_date": "1998-07-04",
+        "fifa_archive": "21:00",
+        "fifa_archive_date": "1998-07-04",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "20:00",
+      "status": "conflict",
+      "date_mismatch": false,
+      "fifa_match_id": "8783",
+      "fifa_match_number": 59
+    },
+    {
+      "date": "1998-07-04",
+      "team1": "Netherlands",
+      "team2": "Argentina",
+      "ground": "Stade Vélodrome, Marseille",
+      "sources": {
+        "rsssf": "20:00",
+        "rsssf_date": "1998-07-04",
+        "fifa_archive": "16:30",
+        "fifa_archive_date": "1998-07-04",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "20:00",
+      "status": "conflict",
+      "date_mismatch": false,
+      "fifa_match_id": "8784",
+      "fifa_match_number": 60
+    },
+    {
+      "date": "1998-07-07",
+      "team1": "Brazil",
+      "team2": "Netherlands",
+      "ground": "Stade Vélodrome, Marseille",
+      "sources": {
+        "rsssf": "20:00",
+        "rsssf_date": "1998-07-07",
+        "fifa_archive": "21:00",
+        "fifa_archive_date": "1998-07-07",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "20:00",
+      "status": "conflict",
+      "date_mismatch": false,
+      "fifa_match_id": "8785",
+      "fifa_match_number": 61
+    },
+    {
+      "date": "1998-07-08",
+      "team1": "France",
+      "team2": "Croatia",
+      "ground": "Stade de France, Saint-Denis",
+      "sources": {
+        "rsssf": "20:00",
+        "rsssf_date": "1998-07-08",
+        "fifa_archive": "21:00",
+        "fifa_archive_date": "1998-07-08",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "20:00",
+      "status": "conflict",
+      "date_mismatch": false,
+      "fifa_match_id": "8786",
+      "fifa_match_number": 62
+    },
+    {
+      "date": "1998-07-11",
+      "team1": "Netherlands",
+      "team2": "Croatia",
+      "ground": "Parc des Princes, Paris",
+      "sources": {
+        "rsssf": "20:00",
+        "rsssf_date": "1998-07-11",
+        "fifa_archive": "21:00",
+        "fifa_archive_date": "1998-07-11",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "20:00",
+      "status": "conflict",
+      "date_mismatch": false,
+      "fifa_match_id": "8787",
+      "fifa_match_number": 63
+    },
+    {
+      "date": "1998-07-12",
+      "team1": "Brazil",
+      "team2": "France",
+      "ground": "Stade de France, Saint-Denis",
+      "sources": {
+        "rsssf": "20:00",
+        "rsssf_date": "1998-07-12",
+        "fifa_archive": "21:00",
+        "fifa_archive_date": "1998-07-12",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "20:00",
+      "status": "conflict",
+      "date_mismatch": false,
+      "fifa_match_id": "8788",
+      "fifa_match_number": 64
+    }
+  ]
+}

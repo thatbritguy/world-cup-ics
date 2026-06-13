@@ -1,0 +1,1235 @@
+{
+  "year": 2022,
+  "allowed_world_cup": true,
+  "host_timezone": "Asia/Qatar",
+  "source_availability": {
+    "openfootball": true,
+    "rsssf_full": false,
+    "fifa_archive": false
+  },
+  "match_count": 64,
+  "status_counts": {
+    "accepted-modern-source": 64
+  },
+  "existing_calendar_status": null,
+  "source_issues_resolved_in_enrichment": false,
+  "requires_review": false,
+  "matches": [
+    {
+      "date": "2022-11-20",
+      "team1": "Qatar",
+      "team2": "Ecuador",
+      "ground": "Al Bayt Stadium, Al Khor",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": null,
+        "fifa_archive_date": null,
+        "openfootball": "19:00",
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "19:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": null,
+      "fifa_match_number": null
+    },
+    {
+      "date": "2022-11-21",
+      "team1": "Senegal",
+      "team2": "Netherlands",
+      "ground": "Al Thumama Stadium, Doha",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": null,
+        "fifa_archive_date": null,
+        "openfootball": "19:00",
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "19:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": null,
+      "fifa_match_number": null
+    },
+    {
+      "date": "2022-11-25",
+      "team1": "Qatar",
+      "team2": "Senegal",
+      "ground": "Al Thumama Stadium, Doha",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": null,
+        "fifa_archive_date": null,
+        "openfootball": "16:00",
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "16:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": null,
+      "fifa_match_number": null
+    },
+    {
+      "date": "2022-11-25",
+      "team1": "Netherlands",
+      "team2": "Ecuador",
+      "ground": "Khalifa International Stadium, Al Rayyan",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": null,
+        "fifa_archive_date": null,
+        "openfootball": "19:00",
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "19:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": null,
+      "fifa_match_number": null
+    },
+    {
+      "date": "2022-11-29",
+      "team1": "Ecuador",
+      "team2": "Senegal",
+      "ground": "Khalifa International Stadium, Al Rayyan",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": null,
+        "fifa_archive_date": null,
+        "openfootball": "18:00",
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "18:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": null,
+      "fifa_match_number": null
+    },
+    {
+      "date": "2022-11-29",
+      "team1": "Netherlands",
+      "team2": "Qatar",
+      "ground": "Al Bayt Stadium, Al Khor",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": null,
+        "fifa_archive_date": null,
+        "openfootball": "18:00",
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "18:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": null,
+      "fifa_match_number": null
+    },
+    {
+      "date": "2022-11-21",
+      "team1": "England",
+      "team2": "Iran",
+      "ground": "Khalifa International Stadium, Al Rayyan",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": null,
+        "fifa_archive_date": null,
+        "openfootball": "16:00",
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "16:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": null,
+      "fifa_match_number": null
+    },
+    {
+      "date": "2022-11-21",
+      "team1": "USA",
+      "team2": "Wales",
+      "ground": "Ahmad bin Ali Stadium, Al Rayyan",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": null,
+        "fifa_archive_date": null,
+        "openfootball": "22:00",
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "22:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": null,
+      "fifa_match_number": null
+    },
+    {
+      "date": "2022-11-25",
+      "team1": "Wales",
+      "team2": "Iran",
+      "ground": "Ahmad bin Ali Stadium, Al Rayyan",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": null,
+        "fifa_archive_date": null,
+        "openfootball": "13:00",
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "13:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": null,
+      "fifa_match_number": null
+    },
+    {
+      "date": "2022-11-25",
+      "team1": "England",
+      "team2": "USA",
+      "ground": "Al Bayt Stadium, Al Khor",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": null,
+        "fifa_archive_date": null,
+        "openfootball": "22:00",
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "22:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": null,
+      "fifa_match_number": null
+    },
+    {
+      "date": "2022-11-29",
+      "team1": "Wales",
+      "team2": "England",
+      "ground": "Ahmad bin Ali Stadium, Al Rayyan",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": null,
+        "fifa_archive_date": null,
+        "openfootball": "22:00",
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "22:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": null,
+      "fifa_match_number": null
+    },
+    {
+      "date": "2022-11-29",
+      "team1": "Iran",
+      "team2": "USA",
+      "ground": "Al Thumama Stadium, Doha",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": null,
+        "fifa_archive_date": null,
+        "openfootball": "22:00",
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "22:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": null,
+      "fifa_match_number": null
+    },
+    {
+      "date": "2022-11-22",
+      "team1": "Argentina",
+      "team2": "Saudi Arabia",
+      "ground": "Lusail Iconic Stadium, Lusail",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": null,
+        "fifa_archive_date": null,
+        "openfootball": "13:00",
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "13:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": null,
+      "fifa_match_number": null
+    },
+    {
+      "date": "2022-11-22",
+      "team1": "Mexico",
+      "team2": "Poland",
+      "ground": "Stadium 974, Doha",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": null,
+        "fifa_archive_date": null,
+        "openfootball": "19:00",
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "19:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": null,
+      "fifa_match_number": null
+    },
+    {
+      "date": "2022-11-26",
+      "team1": "Poland",
+      "team2": "Saudi Arabia",
+      "ground": "Education City Stadium, Al Rayyan",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": null,
+        "fifa_archive_date": null,
+        "openfootball": "16:00",
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "16:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": null,
+      "fifa_match_number": null
+    },
+    {
+      "date": "2022-11-26",
+      "team1": "Argentina",
+      "team2": "Mexico",
+      "ground": "Lusail Iconic Stadium, Lusail",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": null,
+        "fifa_archive_date": null,
+        "openfootball": "22:00",
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "22:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": null,
+      "fifa_match_number": null
+    },
+    {
+      "date": "2022-11-30",
+      "team1": "Poland",
+      "team2": "Argentina",
+      "ground": "Stadium 974, Doha",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": null,
+        "fifa_archive_date": null,
+        "openfootball": "22:00",
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "22:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": null,
+      "fifa_match_number": null
+    },
+    {
+      "date": "2022-11-30",
+      "team1": "Saudi Arabia",
+      "team2": "Mexico",
+      "ground": "Lusail Iconic Stadium, Lusail",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": null,
+        "fifa_archive_date": null,
+        "openfootball": "22:00",
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "22:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": null,
+      "fifa_match_number": null
+    },
+    {
+      "date": "2022-11-22",
+      "team1": "Denmark",
+      "team2": "Tunisia",
+      "ground": "Education City Stadium, Al Rayyan",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": null,
+        "fifa_archive_date": null,
+        "openfootball": "16:00",
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "16:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": null,
+      "fifa_match_number": null
+    },
+    {
+      "date": "2022-11-22",
+      "team1": "France",
+      "team2": "Australia",
+      "ground": "Al Janoub Stadium, Al Wakrah",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": null,
+        "fifa_archive_date": null,
+        "openfootball": "22:00",
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "22:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": null,
+      "fifa_match_number": null
+    },
+    {
+      "date": "2022-11-26",
+      "team1": "Tunisia",
+      "team2": "Australia",
+      "ground": "Al Janoub Stadium, Al Wakrah",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": null,
+        "fifa_archive_date": null,
+        "openfootball": "13:00",
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "13:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": null,
+      "fifa_match_number": null
+    },
+    {
+      "date": "2022-11-26",
+      "team1": "France",
+      "team2": "Denmark",
+      "ground": "Stadium 974, Doha",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": null,
+        "fifa_archive_date": null,
+        "openfootball": "19:00",
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "19:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": null,
+      "fifa_match_number": null
+    },
+    {
+      "date": "2022-11-30",
+      "team1": "Australia",
+      "team2": "Denmark",
+      "ground": "Al Janoub Stadium, Al Wakrah",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": null,
+        "fifa_archive_date": null,
+        "openfootball": "18:00",
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "18:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": null,
+      "fifa_match_number": null
+    },
+    {
+      "date": "2022-11-30",
+      "team1": "Tunisia",
+      "team2": "France",
+      "ground": "Education City Stadium, Al Rayyan",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": null,
+        "fifa_archive_date": null,
+        "openfootball": "18:00",
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "18:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": null,
+      "fifa_match_number": null
+    },
+    {
+      "date": "2022-11-23",
+      "team1": "Germany",
+      "team2": "Japan",
+      "ground": "Khalifa International Stadium, Al Rayyan",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": null,
+        "fifa_archive_date": null,
+        "openfootball": "16:00",
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "16:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": null,
+      "fifa_match_number": null
+    },
+    {
+      "date": "2022-11-23",
+      "team1": "Spain",
+      "team2": "Costa Rica",
+      "ground": "Al Thumama Stadium, Doha",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": null,
+        "fifa_archive_date": null,
+        "openfootball": "19:00",
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "19:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": null,
+      "fifa_match_number": null
+    },
+    {
+      "date": "2022-11-27",
+      "team1": "Japan",
+      "team2": "Costa Rica",
+      "ground": "Ahmad bin Ali Stadium, Al Rayyan",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": null,
+        "fifa_archive_date": null,
+        "openfootball": "13:00",
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "13:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": null,
+      "fifa_match_number": null
+    },
+    {
+      "date": "2022-11-27",
+      "team1": "Spain",
+      "team2": "Germany",
+      "ground": "Al Bayt Stadium, Al Khor",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": null,
+        "fifa_archive_date": null,
+        "openfootball": "22:00",
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "22:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": null,
+      "fifa_match_number": null
+    },
+    {
+      "date": "2022-12-01",
+      "team1": "Japan",
+      "team2": "Spain",
+      "ground": "Khalifa International Stadium, Al Rayyan",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": null,
+        "fifa_archive_date": null,
+        "openfootball": "22:00",
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "22:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": null,
+      "fifa_match_number": null
+    },
+    {
+      "date": "2022-12-01",
+      "team1": "Costa Rica",
+      "team2": "Germany",
+      "ground": "Al Bayt Stadium, Al Khor",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": null,
+        "fifa_archive_date": null,
+        "openfootball": "22:00",
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "22:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": null,
+      "fifa_match_number": null
+    },
+    {
+      "date": "2022-11-23",
+      "team1": "Morocco",
+      "team2": "Croatia",
+      "ground": "Al Bayt Stadium, Al Khor",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": null,
+        "fifa_archive_date": null,
+        "openfootball": "13:00",
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "13:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": null,
+      "fifa_match_number": null
+    },
+    {
+      "date": "2022-11-23",
+      "team1": "Belgium",
+      "team2": "Canada",
+      "ground": "Ahmad bin Ali Stadium, Al Rayyan",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": null,
+        "fifa_archive_date": null,
+        "openfootball": "22:00",
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "22:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": null,
+      "fifa_match_number": null
+    },
+    {
+      "date": "2022-11-27",
+      "team1": "Belgium",
+      "team2": "Morocco",
+      "ground": "Al Thumama Stadium, Doha",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": null,
+        "fifa_archive_date": null,
+        "openfootball": "16:00",
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "16:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": null,
+      "fifa_match_number": null
+    },
+    {
+      "date": "2022-11-27",
+      "team1": "Croatia",
+      "team2": "Canada",
+      "ground": "Khalifa International Stadium, Al Rayyan",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": null,
+        "fifa_archive_date": null,
+        "openfootball": "19:00",
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "19:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": null,
+      "fifa_match_number": null
+    },
+    {
+      "date": "2022-12-01",
+      "team1": "Croatia",
+      "team2": "Belgium",
+      "ground": "Ahmad bin Ali Stadium, Al Rayyan",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": null,
+        "fifa_archive_date": null,
+        "openfootball": "18:00",
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "18:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": null,
+      "fifa_match_number": null
+    },
+    {
+      "date": "2022-12-01",
+      "team1": "Canada",
+      "team2": "Morocco",
+      "ground": "Al Thumama Stadium, Doha",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": null,
+        "fifa_archive_date": null,
+        "openfootball": "18:00",
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "18:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": null,
+      "fifa_match_number": null
+    },
+    {
+      "date": "2022-11-24",
+      "team1": "Switzerland",
+      "team2": "Cameroon",
+      "ground": "Al Janoub Stadium, Al Wakrah",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": null,
+        "fifa_archive_date": null,
+        "openfootball": "13:00",
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "13:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": null,
+      "fifa_match_number": null
+    },
+    {
+      "date": "2022-11-24",
+      "team1": "Brazil",
+      "team2": "Serbia",
+      "ground": "Lusail Iconic Stadium, Lusail",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": null,
+        "fifa_archive_date": null,
+        "openfootball": "22:00",
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "22:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": null,
+      "fifa_match_number": null
+    },
+    {
+      "date": "2022-11-28",
+      "team1": "Cameroon",
+      "team2": "Serbia",
+      "ground": "Al Janoub Stadium, Al Wakrah",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": null,
+        "fifa_archive_date": null,
+        "openfootball": "13:00",
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "13:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": null,
+      "fifa_match_number": null
+    },
+    {
+      "date": "2022-11-28",
+      "team1": "Brazil",
+      "team2": "Switzerland",
+      "ground": "Stadium 974, Doha",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": null,
+        "fifa_archive_date": null,
+        "openfootball": "19:00",
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "19:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": null,
+      "fifa_match_number": null
+    },
+    {
+      "date": "2022-12-02",
+      "team1": "Serbia",
+      "team2": "Switzerland",
+      "ground": "Stadium 974, Doha",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": null,
+        "fifa_archive_date": null,
+        "openfootball": "22:00",
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "22:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": null,
+      "fifa_match_number": null
+    },
+    {
+      "date": "2022-12-02",
+      "team1": "Cameroon",
+      "team2": "Brazil",
+      "ground": "Lusail Iconic Stadium, Lusail",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": null,
+        "fifa_archive_date": null,
+        "openfootball": "22:00",
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "22:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": null,
+      "fifa_match_number": null
+    },
+    {
+      "date": "2022-11-24",
+      "team1": "Uruguay",
+      "team2": "South Korea",
+      "ground": "Education City Stadium, Al Rayyan",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": null,
+        "fifa_archive_date": null,
+        "openfootball": "16:00",
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "16:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": null,
+      "fifa_match_number": null
+    },
+    {
+      "date": "2022-11-24",
+      "team1": "Portugal",
+      "team2": "Ghana",
+      "ground": "Stadium 974, Doha",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": null,
+        "fifa_archive_date": null,
+        "openfootball": "19:00",
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "19:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": null,
+      "fifa_match_number": null
+    },
+    {
+      "date": "2022-11-28",
+      "team1": "South Korea",
+      "team2": "Ghana",
+      "ground": "Education City Stadium, Al Rayyan",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": null,
+        "fifa_archive_date": null,
+        "openfootball": "16:00",
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "16:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": null,
+      "fifa_match_number": null
+    },
+    {
+      "date": "2022-11-28",
+      "team1": "Portugal",
+      "team2": "Uruguay",
+      "ground": "Lusail Iconic Stadium, Lusail",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": null,
+        "fifa_archive_date": null,
+        "openfootball": "22:00",
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "22:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": null,
+      "fifa_match_number": null
+    },
+    {
+      "date": "2022-12-02",
+      "team1": "Ghana",
+      "team2": "Uruguay",
+      "ground": "Al Janoub Stadium, Al Wakrah",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": null,
+        "fifa_archive_date": null,
+        "openfootball": "18:00",
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "18:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": null,
+      "fifa_match_number": null
+    },
+    {
+      "date": "2022-12-02",
+      "team1": "South Korea",
+      "team2": "Portugal",
+      "ground": "Lusail Iconic Stadium, Lusail",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": null,
+        "fifa_archive_date": null,
+        "openfootball": "18:00",
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "18:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": null,
+      "fifa_match_number": null
+    },
+    {
+      "date": "2022-12-03",
+      "team1": "Netherlands",
+      "team2": "USA",
+      "ground": "Khalifa International Stadium, Al Rayyan",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": null,
+        "fifa_archive_date": null,
+        "openfootball": "18:00",
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "18:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": null,
+      "fifa_match_number": null
+    },
+    {
+      "date": "2022-12-03",
+      "team1": "Argentina",
+      "team2": "Australia",
+      "ground": "Ahmad bin Ali Stadium, Al Rayyan",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": null,
+        "fifa_archive_date": null,
+        "openfootball": "22:00",
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "22:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": null,
+      "fifa_match_number": null
+    },
+    {
+      "date": "2022-12-04",
+      "team1": "France",
+      "team2": "Poland",
+      "ground": "Al Thumama Stadium, Doha",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": null,
+        "fifa_archive_date": null,
+        "openfootball": "18:00",
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "18:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": null,
+      "fifa_match_number": null
+    },
+    {
+      "date": "2022-12-04",
+      "team1": "England",
+      "team2": "Senegal",
+      "ground": "Al Bayt Stadium, Al Khor",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": null,
+        "fifa_archive_date": null,
+        "openfootball": "22:00",
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "22:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": null,
+      "fifa_match_number": null
+    },
+    {
+      "date": "2022-12-05",
+      "team1": "Japan",
+      "team2": "Croatia",
+      "ground": "Al Janoub Stadium, Al Wakrah",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": null,
+        "fifa_archive_date": null,
+        "openfootball": "18:00",
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "18:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": null,
+      "fifa_match_number": null
+    },
+    {
+      "date": "2022-12-05",
+      "team1": "Brazil",
+      "team2": "South Korea",
+      "ground": "Stadium 974, Doha",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": null,
+        "fifa_archive_date": null,
+        "openfootball": "22:00",
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "22:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": null,
+      "fifa_match_number": null
+    },
+    {
+      "date": "2022-12-06",
+      "team1": "Morocco",
+      "team2": "Spain",
+      "ground": "Education City Stadium, Al Rayyan",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": null,
+        "fifa_archive_date": null,
+        "openfootball": "18:00",
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "18:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": null,
+      "fifa_match_number": null
+    },
+    {
+      "date": "2022-12-06",
+      "team1": "Portugal",
+      "team2": "Switzerland",
+      "ground": "Lusail Iconic Stadium, Lusail",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": null,
+        "fifa_archive_date": null,
+        "openfootball": "22:00",
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "22:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": null,
+      "fifa_match_number": null
+    },
+    {
+      "date": "2022-12-09",
+      "team1": "Croatia",
+      "team2": "Brazil",
+      "ground": "Education City Stadium, Al Rayyan",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": null,
+        "fifa_archive_date": null,
+        "openfootball": "18:00",
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "18:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": null,
+      "fifa_match_number": null
+    },
+    {
+      "date": "2022-12-09",
+      "team1": "Netherlands",
+      "team2": "Argentina",
+      "ground": "Lusail Iconic Stadium, Lusail",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": null,
+        "fifa_archive_date": null,
+        "openfootball": "22:00",
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "22:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": null,
+      "fifa_match_number": null
+    },
+    {
+      "date": "2022-12-10",
+      "team1": "Morocco",
+      "team2": "Portugal",
+      "ground": "Al Thumama Stadium, Doha",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": null,
+        "fifa_archive_date": null,
+        "openfootball": "18:00",
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "18:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": null,
+      "fifa_match_number": null
+    },
+    {
+      "date": "2022-12-10",
+      "team1": "England",
+      "team2": "France",
+      "ground": "Al Bayt Stadium, Al Khor",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": null,
+        "fifa_archive_date": null,
+        "openfootball": "22:00",
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "22:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": null,
+      "fifa_match_number": null
+    },
+    {
+      "date": "2022-12-13",
+      "team1": "Argentina",
+      "team2": "Croatia",
+      "ground": "Lusail Iconic Stadium, Lusail",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": null,
+        "fifa_archive_date": null,
+        "openfootball": "22:00",
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "22:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": null,
+      "fifa_match_number": null
+    },
+    {
+      "date": "2022-12-14",
+      "team1": "France",
+      "team2": "Morocco",
+      "ground": "Al Bayt Stadium, Al Khor",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": null,
+        "fifa_archive_date": null,
+        "openfootball": "22:00",
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "22:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": null,
+      "fifa_match_number": null
+    },
+    {
+      "date": "2022-12-17",
+      "team1": "Croatia",
+      "team2": "Morocco",
+      "ground": "Khalifa International Stadium, Al Rayyan",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": null,
+        "fifa_archive_date": null,
+        "openfootball": "18:00",
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "18:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": null,
+      "fifa_match_number": null
+    },
+    {
+      "date": "2022-12-18",
+      "team1": "Argentina",
+      "team2": "France",
+      "ground": "Lusail Iconic Stadium, Lusail",
+      "sources": {
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": null,
+        "fifa_archive_date": null,
+        "openfootball": "18:00",
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "18:00",
+      "status": "accepted-modern-source",
+      "date_mismatch": false,
+      "fifa_match_id": null,
+      "fifa_match_number": null
+    }
+  ]
+}

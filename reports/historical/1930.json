@@ -1,0 +1,362 @@
+{
+  "year": 1930,
+  "allowed_world_cup": true,
+  "host_timezone": "America/Montevideo",
+  "source_availability": {
+    "openfootball": true,
+    "rsssf_full": true,
+    "fifa_archive": true
+  },
+  "match_count": 18,
+  "status_counts": {
+    "conflict": 1,
+    "corroborated": 17
+  },
+  "existing_calendar_status": "validated",
+  "source_issues_resolved_in_enrichment": true,
+  "requires_review": false,
+  "matches": [
+    {
+      "date": "1930-07-13",
+      "team1": "France",
+      "team2": "Mexico",
+      "ground": "Estadio Pocitos, Montevideo",
+      "sources": {
+        "rsssf": "15:00",
+        "rsssf_date": "1930-07-13",
+        "fifa_archive": "15:00",
+        "fifa_archive_date": "1930-07-13",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "15:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1096",
+      "fifa_match_number": 1
+    },
+    {
+      "date": "1930-07-15",
+      "team1": "Argentina",
+      "team2": "France",
+      "ground": "Estadio Parque Central, Montevideo",
+      "sources": {
+        "rsssf": "16:00",
+        "rsssf_date": "1930-07-15",
+        "fifa_archive": "16:00",
+        "fifa_archive_date": "1930-07-15",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "16:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1085",
+      "fifa_match_number": 5
+    },
+    {
+      "date": "1930-07-16",
+      "team1": "Chile",
+      "team2": "Mexico",
+      "ground": "Estadio Parque Central, Montevideo",
+      "sources": {
+        "rsssf": "14:45",
+        "rsssf_date": "1930-07-16",
+        "fifa_archive": "14:45",
+        "fifa_archive_date": "1930-07-16",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "14:45",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1095",
+      "fifa_match_number": 6
+    },
+    {
+      "date": "1930-07-19",
+      "team1": "Chile",
+      "team2": "France",
+      "ground": "Estadio Centenario, Montevideo",
+      "sources": {
+        "rsssf": "12:50",
+        "rsssf_date": "1930-07-19",
+        "fifa_archive": "12:50",
+        "fifa_archive_date": "1930-07-19",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "12:50",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1094",
+      "fifa_match_number": 10
+    },
+    {
+      "date": "1930-07-19",
+      "team1": "Argentina",
+      "team2": "Mexico",
+      "ground": "Estadio Centenario, Montevideo",
+      "sources": {
+        "rsssf": "15:00",
+        "rsssf_date": "1930-07-19",
+        "fifa_archive": "15:00",
+        "fifa_archive_date": "1930-07-19",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "15:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1086",
+      "fifa_match_number": 11
+    },
+    {
+      "date": "1930-07-22",
+      "team1": "Argentina",
+      "team2": "Chile",
+      "ground": "Estadio Centenario, Montevideo",
+      "sources": {
+        "rsssf": "14:45",
+        "rsssf_date": "1930-07-22",
+        "fifa_archive": "14:45",
+        "fifa_archive_date": "1930-07-22",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "14:45",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1084",
+      "fifa_match_number": 15
+    },
+    {
+      "date": "1930-07-14",
+      "team1": "Yugoslavia",
+      "team2": "Brazil",
+      "ground": "Estadio Parque Central, Montevideo",
+      "sources": {
+        "rsssf": "12:45",
+        "rsssf_date": "1930-07-14",
+        "fifa_archive": "12:45",
+        "fifa_archive_date": "1930-07-14",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "12:45",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1093",
+      "fifa_match_number": 3
+    },
+    {
+      "date": "1930-07-17",
+      "team1": "Yugoslavia",
+      "team2": "Bolivia",
+      "ground": "Estadio Parque Central, Montevideo",
+      "sources": {
+        "rsssf": "12:45",
+        "rsssf_date": "1930-07-17",
+        "fifa_archive": "12:45",
+        "fifa_archive_date": "1930-07-17",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "12:45",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1092",
+      "fifa_match_number": 7
+    },
+    {
+      "date": "1930-07-20",
+      "team1": "Brazil",
+      "team2": "Bolivia",
+      "ground": "Estadio Centenario, Montevideo",
+      "sources": {
+        "rsssf": "13:00",
+        "rsssf_date": "1930-07-20",
+        "fifa_archive": "13:00",
+        "fifa_archive_date": "1930-07-20",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "13:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1091",
+      "fifa_match_number": 12
+    },
+    {
+      "date": "1930-07-14",
+      "team1": "Romania",
+      "team2": "Peru",
+      "ground": "Estadio Pocitos, Montevideo",
+      "sources": {
+        "rsssf": "14:50",
+        "rsssf_date": "1930-07-14",
+        "fifa_archive": "14:50",
+        "fifa_archive_date": "1930-07-14",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "14:50",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1098",
+      "fifa_match_number": 4
+    },
+    {
+      "date": "1930-07-18",
+      "team1": "Uruguay",
+      "team2": "Peru",
+      "ground": "Estadio Centenario, Montevideo",
+      "sources": {
+        "rsssf": "14:30",
+        "rsssf_date": "1930-07-18",
+        "fifa_archive": "14:30",
+        "fifa_archive_date": "1930-07-18",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "14:30",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1099",
+      "fifa_match_number": 9
+    },
+    {
+      "date": "1930-07-21",
+      "team1": "Uruguay",
+      "team2": "Romania",
+      "ground": "Estadio Centenario, Montevideo",
+      "sources": {
+        "rsssf": "14:50",
+        "rsssf_date": "1930-07-21",
+        "fifa_archive": "14:50",
+        "fifa_archive_date": "1930-07-21",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "14:50",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1100",
+      "fifa_match_number": 14
+    },
+    {
+      "date": "1930-07-13",
+      "team1": "United States",
+      "team2": "Belgium",
+      "ground": "Estadio Parque Central, Montevideo",
+      "sources": {
+        "rsssf": "15:00",
+        "rsssf_date": "1930-07-13",
+        "fifa_archive": "15:00",
+        "fifa_archive_date": "1930-07-13",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "15:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1090",
+      "fifa_match_number": 2
+    },
+    {
+      "date": "1930-07-17",
+      "team1": "United States",
+      "team2": "Paraguay",
+      "ground": "Estadio Parque Central, Montevideo",
+      "sources": {
+        "rsssf": "14:45",
+        "rsssf_date": "1930-07-17",
+        "fifa_archive": "14:45",
+        "fifa_archive_date": "1930-07-17",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "14:45",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1097",
+      "fifa_match_number": 8
+    },
+    {
+      "date": "1930-07-20",
+      "team1": "Paraguay",
+      "team2": "Belgium",
+      "ground": "Estadio Centenario, Montevideo",
+      "sources": {
+        "rsssf": "15:00",
+        "rsssf_date": "1930-07-20",
+        "fifa_archive": "15:00",
+        "fifa_archive_date": "1930-07-20",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "15:00",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1089",
+      "fifa_match_number": 13
+    },
+    {
+      "date": "1930-07-26",
+      "team1": "Argentina",
+      "team2": "United States",
+      "ground": "Estadio Centenario, Montevideo",
+      "sources": {
+        "rsssf": "14:45",
+        "rsssf_date": "1930-07-26",
+        "fifa_archive": "14:45",
+        "fifa_archive_date": "1930-07-26",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "14:45",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1088",
+      "fifa_match_number": 16
+    },
+    {
+      "date": "1930-07-27",
+      "team1": "Uruguay",
+      "team2": "Yugoslavia",
+      "ground": "Estadio Centenario, Montevideo",
+      "sources": {
+        "rsssf": "14:45",
+        "rsssf_date": "1930-07-27",
+        "fifa_archive": "14:45",
+        "fifa_archive_date": "1930-07-27",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "14:45",
+      "status": "corroborated",
+      "date_mismatch": false,
+      "fifa_match_id": "1101",
+      "fifa_match_number": 17
+    },
+    {
+      "date": "1930-07-30",
+      "team1": "Uruguay",
+      "team2": "Argentina",
+      "ground": "Estadio Centenario, Montevideo",
+      "sources": {
+        "rsssf": "15:30",
+        "rsssf_date": "1930-07-30",
+        "fifa_archive": "14:15",
+        "fifa_archive_date": "1930-07-30",
+        "openfootball": null,
+        "openfootball_utc_offset": null
+      },
+      "selected_local_time": "15:30",
+      "status": "conflict",
+      "date_mismatch": false,
+      "fifa_match_id": "1087",
+      "fifa_match_number": 18
+    }
+  ]
+}
