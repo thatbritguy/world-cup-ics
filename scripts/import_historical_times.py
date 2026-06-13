@@ -30,10 +30,28 @@ TOURNAMENTS = {
         ),
         "timezone": "America/Montevideo",
         "expected_matches": 18,
+        "local_time_overrides": {
+            "1087": {
+                "time": "15:30",
+                "selected_source": (
+                    "Uruguayan Football Association match archive, "
+                    "corroborated by RSSSF"
+                ),
+                "evidence_url": (
+                    "https://www.auf.org.uy/copa-mundial-uruguay-1930"
+                    "uruguay-vs-argentina1930-07-30/"
+                ),
+                "reported_alternatives": {
+                    "rsssf": "15:30",
+                },
+            }
+        },
         "conflict_notes": {
             "1087": (
-                "Selected FIFA's archived 14:15 local time over Wikipedia's "
-                "12:45 match-box value."
+                "Selected the Uruguayan Football Association's 15:30 local "
+                "time, independently matched by RSSSF. FIFA's archive reports "
+                "14:15 and Wikipedia reports 12:45; neither conflicting value "
+                "has equivalent corroboration."
             )
         },
     },

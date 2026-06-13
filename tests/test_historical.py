@@ -43,10 +43,13 @@ class HistoricalCalendarTests(unittest.TestCase):
         )
         self.assertEqual(semi_final["local_time"], "14:45")
         self.assertEqual(semi_final["kickoff_utc"], "1930-07-27T18:15:00Z")
-        self.assertEqual(final["local_time"], "14:15")
-        self.assertEqual(final["kickoff_utc"], "1930-07-30T17:45:00Z")
+        self.assertEqual(final["local_time"], "15:30")
+        self.assertEqual(final["kickoff_utc"], "1930-07-30T19:00:00Z")
         self.assertEqual(final["timezone"], "America/Montevideo")
         self.assertEqual(final["utc_offset"], "-03:30")
+        self.assertEqual(final["local_time_sources"]["fifa_archive"], "14:15")
+        self.assertEqual(final["local_time_sources"]["wikipedia"], "12:45")
+        self.assertEqual(final["local_time_sources"]["rsssf"], "15:30")
 
     def test_1934_uses_fifa_numbering_and_historical_rome_time(self) -> None:
         manifest = load_json(ROOT / "data" / "1934" / "worldcup.manifest.json")

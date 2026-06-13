@@ -438,17 +438,19 @@
       "fifa_match_id": "1087",
       "wikipedia_url": "https://en.wikipedia.org/wiki/1930_FIFA_World_Cup_final",
       "source_order": 17,
-      "local_time": "14:15",
+      "local_time": "15:30",
       "local_time_sources": {
-        "selected": "Archived FIFA tournament match centre",
+        "selected": "Uruguayan Football Association match archive, corroborated by RSSSF",
         "wikipedia": "12:45",
         "fifa_archive": "14:15",
-        "resolution_note": "Selected FIFA's archived 14:15 local time over Wikipedia's 12:45 match-box value."
+        "evidence_url": "https://www.auf.org.uy/copa-mundial-uruguay-1930uruguay-vs-argentina1930-07-30/",
+        "rsssf": "15:30",
+        "resolution_note": "Selected the Uruguayan Football Association's 15:30 local time, independently matched by RSSSF. FIFA's archive reports 14:15 and Wikipedia reports 12:45; neither conflicting value has equivalent corroboration."
       },
       "timezone": "America/Montevideo",
       "utc_offset": "-03:30",
       "timezone_source": "IANA Time Zone Database",
-      "kickoff_utc": "1930-07-30T17:45:00Z",
+      "kickoff_utc": "1930-07-30T19:00:00Z",
       "fifa_derived_utc": "1930-07-30T17:15:00Z",
       "official_match_number": 18,
       "fifa_archive_url": "https://web.archive.org/web/20220808074418https://www.fifa.com/en/tournaments/mens/worldcup/1930uruguay/match-center"
