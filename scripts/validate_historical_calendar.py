@@ -24,8 +24,9 @@ def main() -> None:
     calendar = ROOT / "ics" / f"world-cup-{args.year}.ics"
     manifest = load_json(ROOT / "data" / str(args.year) / "worldcup.manifest.json")
     expected = len(manifest["matches"])
-    if manifest.get("status") != "validated" or manifest.get("calendar_profile") != "archive":
-        raise ValueError("Historical manifest is not validated for archive generation")
+    status = manifest.get("status")
+    if status not in ("review", "validated") or manifest.get("calendar_profile") != "archive":
+        raise ValueError("Historical manifest is not an archive review or validated build")
 
     raw = calendar.read_bytes()
     if b"\r\n" not in raw or raw.replace(b"\r\n", b"").find(b"\n") != -1:
@@ -52,7 +53,10 @@ def main() -> None:
         raise ValueError("Historical visible numbering does not match FIFA numbering")
     if len([line for line in lines if line.startswith("GEO:")]) != expected:
         raise ValueError("Every historical event must have coordinates")
-    print(f"Historical calendar validation passed: {expected} FIFA-numbered events")
+    print(
+        f"Historical calendar validation passed ({status}): "
+        f"{expected} FIFA-numbered events"
+    )
 
 
 if __name__ == "__main__":

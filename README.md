@@ -23,6 +23,7 @@ Static historical calendars are available at:
 ```text
 https://raw.githubusercontent.com/thatbritguy/world-cup-ics/master/ics/world-cup-1930.ics
 https://raw.githubusercontent.com/thatbritguy/world-cup-ics/master/ics/world-cup-1934.ics
+https://raw.githubusercontent.com/thatbritguy/world-cup-ics/master/ics/world-cup-1938.ics
 https://raw.githubusercontent.com/thatbritguy/world-cup-ics/master/ics/world-cup.ics
 ```
 
@@ -63,15 +64,19 @@ fixture snapshot. A failure in either optional source cannot alter match
 identity or kickoff data.
 
 Historical calendars are generated separately and have no scheduled source
-polling. Match results and goals come from fixed openfootball snapshots. Local
-clock times, FIFA report links and official match numbers are reconciled from
-Wikipedia and FIFA's archived tournament match centres, then converted using
-historical IANA host timezones. FIFA's derived UTC fields are retained for
-audit but are not trusted. Historical events contain no alerts.
+polling. Match results and goals come from fixed openfootball snapshots. RSSSF
+full tournament records are the default source for local kickoff times.
+Contemporary primary evidence may override RSSSF, while agreeing Wikipedia and
+archived FIFA values provide a fallback where RSSSF omits a time. Every source
+value, confidence level and resolution note is retained in the enrichment data.
+Selected local times are converted using historical IANA host timezones; FIFA's
+derived UTC fields remain audit data only. Historical events contain no alerts.
 
-Only tournament manifests marked `validated` with the `archive` profile are
-included in `world-cup.ics`. Source import is supervised; rebuilding standalone
-and master calendars from validated data is deterministic.
+Tournament manifests begin in `review` status. Review calendars can be fully
+generated and structurally validated, but only manifests explicitly promoted
+to `validated` with the `archive` profile are included in `world-cup.ics`.
+Source import is supervised; rebuilding standalone and master calendars from
+checked-in data is deterministic.
 
 ## Local commands
 
@@ -82,6 +87,8 @@ python3 scripts/generate_historical_calendar.py 1930
 python3 scripts/validate_historical_calendar.py 1930
 python3 scripts/generate_historical_calendar.py 1934
 python3 scripts/validate_historical_calendar.py 1934
+python3 scripts/generate_historical_calendar.py 1938
+python3 scripts/validate_historical_calendar.py 1938
 python3 scripts/generate_master_calendar.py
 python3 scripts/validate_master_calendar.py
 python3 -m unittest discover -s tests
@@ -92,6 +99,7 @@ Historical source imports are manually supervised and can be reproduced with:
 ```bash
 python3 scripts/import_historical_times.py 1930
 python3 scripts/import_historical_times.py 1934
+python3 scripts/import_historical_times.py 1938
 ```
 
 The shared country dataset contains all 211 current FIFA members plus defunct
@@ -130,5 +138,6 @@ data/{YEAR}/worldcup.stadiums.json     Historical venue coordinates
 ics/world-cup-2026.ics                 Published calendar feed
 ics/world-cup-1930.ics                 Static historical calendar proof
 ics/world-cup-1934.ics                 Static 1934 historical calendar
+ics/world-cup-1938.ics                 Static 1938 historical review calendar
 ics/world-cup.ics                      Validated historical master calendar
 ```

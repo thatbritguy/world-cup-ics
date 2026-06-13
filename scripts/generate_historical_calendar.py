@@ -77,7 +77,8 @@ def match_identity(match: dict[str, Any]) -> tuple[str, str, str]:
         normalized = normalize_name(value)
         return aliases.get(normalized, normalized)
 
-    return match["date"], name(match["team1"]), name(match["team2"])
+    teams = sorted((name(match["team1"]), name(match["team2"])))
+    return match["date"], teams[0], teams[1]
 
 
 def stage_label(match: dict[str, Any], knockout_number: int | None = None) -> str:
@@ -85,13 +86,15 @@ def stage_label(match: dict[str, Any], knockout_number: int | None = None) -> st
         return f"G{match['group'].removeprefix('Group ')}"
     if match["round"] == "Semi-finals":
         return f"SF{knockout_number}"
-    if match["round"] == "Preliminary round":
+    if match["round"] in ("Preliminary round", "First round"):
         return "R16"
+    if match["round"] == "First round, Replays":
+        return "R16-REPLAY"
     if match["round"] == "Quarter-finals":
         return f"QF{knockout_number}"
     if match["round"] == "Quarter-finals, Replays":
         return "QF-REPLAY"
-    if match["round"] == "Third-place match":
+    if match["round"] in ("Third-place match", "Match for third place"):
         return "3RD"
     if match["round"] == "Final":
         return "FINAL"
@@ -108,9 +111,10 @@ def structured_location(name: str, latitude: float, longitude: float) -> str:
 
 
 def build_manifest(year: int, matches: list[dict[str, Any]], path: Path) -> dict[str, Any]:
+    current = load_json(path) if path.exists() else None
     proposed = {
         "year": year,
-        "status": "validated",
+        "status": current.get("status", "review") if current else "review",
         "calendar_profile": "archive",
         "numbering": "FIFA official match numbers",
         "matches": [
@@ -127,8 +131,7 @@ def build_manifest(year: int, matches: list[dict[str, Any]], path: Path) -> dict
             for index, item in enumerate(matches, start=1)
         ],
     }
-    if path.exists():
-        current = load_json(path)
+    if current:
         current_identities = [
             (item["uid"], item["date"], item["team1"], item["team2"])
             for item in current["matches"]
@@ -137,7 +140,7 @@ def build_manifest(year: int, matches: list[dict[str, Any]], path: Path) -> dict
             (item["uid"], item["date"], item["team1"], item["team2"])
             for item in proposed["matches"]
         ]
-        if current_identities != proposed_identities:
+        if current_identities != proposed_identities and current.get("status") == "validated":
             raise ValueError("Historical match identities changed; review manifest explicitly")
         write_json(path, proposed)
         return proposed
@@ -152,11 +155,12 @@ def build_event_lines(year: int) -> tuple[list[str], int]:
     enrichment = load_json(data_dir / "worldcup.enrichment.json")["matches"]
     enrichments = {match_identity(item): item for item in enrichment}
     combined: list[dict[str, Any]] = []
-    for source_index, match in enumerate(source["matches"]):
+    played_matches = [match for match in source["matches"] if match.get("score")]
+    for source_index, match in enumerate(played_matches):
         enriched = enrichments.get(match_identity(match))
         if not enriched:
             raise ValueError(f"No kickoff enrichment for {match['date']} {match['team1']} v {match['team2']}")
-        combined.append({**match, **enriched, "source_index": source_index})
+        combined.append({**enriched, **match, "source_index": source_index})
     combined.sort(key=lambda item: int(item["official_match_number"]))
 
     manifest = build_manifest(year, combined, data_dir / "worldcup.manifest.json")

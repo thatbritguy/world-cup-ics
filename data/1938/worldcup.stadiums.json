@@ -1,0 +1,89 @@
+{
+  "venues": [
+    {
+      "name": "Parc des Princes",
+      "city": "Paris",
+      "ground_aliases": ["Parc des Princes, Paris"],
+      "latitude": 48.841363,
+      "longitude": 2.253069,
+      "coordinate_source": "https://fr.wikipedia.org/wiki/Parc_des_Princes"
+    },
+    {
+      "name": "Vélodrome Municipal",
+      "modern_name": "Stade Auguste-Delaune",
+      "city": "Reims",
+      "ground_aliases": ["Vélodrome Municipal, Reims"],
+      "latitude": 49.246667,
+      "longitude": 4.025,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Stade_Auguste-Delaune"
+    },
+    {
+      "name": "Stade Olympique de Colombes",
+      "modern_name": "Stade Yves-du-Manoir",
+      "city": "Colombes",
+      "ground_aliases": ["Stade Olympique de Colombes, Paris"],
+      "latitude": 48.929444,
+      "longitude": 2.248056,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Stade_Yves-du-Manoir"
+    },
+    {
+      "name": "Stade Chapou",
+      "city": "Toulouse",
+      "ground_aliases": ["Stade Chapou, Toulouse"],
+      "latitude": 43.608611,
+      "longitude": 1.419167,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Stade_Chapou"
+    },
+    {
+      "name": "Stade Vélodrome",
+      "city": "Marseille",
+      "ground_aliases": ["Stade Vélodrome, Marseille"],
+      "latitude": 43.269722,
+      "longitude": 5.395833,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Stade_V%C3%A9lodrome"
+    },
+    {
+      "name": "Stade de la Meinau",
+      "city": "Strasbourg",
+      "ground_aliases": ["Stade de la Meinau, Strasbourg"],
+      "latitude": 48.56,
+      "longitude": 7.755,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Stade_de_la_Meinau"
+    },
+    {
+      "name": "Stade municipal",
+      "modern_name": "Stade Jules Deschaseaux",
+      "city": "Le Havre",
+      "ground_aliases": ["Stade municipal, Le Havre"],
+      "latitude": 49.501733,
+      "longitude": 0.1711,
+      "coordinate_source": "https://fr.wikipedia.org/wiki/Stade_Jules-Deschaseaux"
+    },
+    {
+      "name": "Parc Lescure",
+      "modern_name": "Stade Chaban-Delmas",
+      "city": "Bordeaux",
+      "ground_aliases": ["Parc Lescure, Bordeaux"],
+      "latitude": 44.82917,
+      "longitude": -0.598333,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Stade_Chaban-Delmas"
+    },
+    {
+      "name": "Stade Victor Boucquey",
+      "later_name": "Stade Henri-Jooris",
+      "city": "Lille",
+      "ground_aliases": ["Stade Victor Boucquey, Lille"],
+      "latitude": 50.6375,
+      "longitude": 3.036111,
+      "coordinate_source": "https://fr.wikipedia.org/wiki/Stade_Henri-Jooris"
+    },
+    {
+      "name": "Stade du Fort Carré",
+      "city": "Antibes",
+      "ground_aliases": ["Stade du Fort Carré, Antibes"],
+      "latitude": 43.590861,
+      "longitude": 7.1256,
+      "coordinate_source": "https://fr.wikipedia.org/wiki/Stade_du_Fort_Carr%C3%A9"
+    }
+  ]
+}

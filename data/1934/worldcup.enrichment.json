@@ -1,7 +1,7 @@
 {
   "year": 1934,
-  "source": "Local clock times from FIFA's archived tournament match centre or documented match-specific overrides, reconciled against English Wikipedia match boxes; official match numbers come from FIFA and UTC conversion uses historical IANA timezone rules",
-  "timezone_note": "FIFA's derived UTC fields are retained for audit but are not used. Historical local clock time is converted with the IANA host timezone.",
+  "source": "Local clock times use RSSSF full tournament records as the baseline, with documented primary-evidence overrides and an explicit fallback when RSSSF omits a time. Wikipedia and archived FIFA values are retained for comparison; official match numbers come from FIFA and UTC conversion uses historical IANA timezone rules.",
+  "timezone_note": "RSSSF and other source values are interpreted as local clock times. FIFA's derived UTC fields are retained for audit but are not used. The selected time is converted with the historical IANA host timezone.",
   "matches": [
     {
       "date": "1934-05-27",
@@ -15,10 +15,12 @@
       "source_order": 5,
       "local_time": "16:30",
       "local_time_sources": {
-        "selected": "Archived FIFA tournament match centre",
+        "selected": "RSSSF full tournament record",
+        "confidence": "corroborated",
+        "rsssf": "16:30",
         "wikipedia": "16:00",
         "fifa_archive": "16:30",
-        "resolution_note": "Selected FIFA's archived 16:30 local time, corroborated by RSSSF, over Wikipedia's 16:00 match-box value."
+        "resolution_note": "RSSSF 16:30 agrees with FIFA; Wikipedia reports 16:00."
       },
       "timezone": "Europe/Rome",
       "utc_offset": "+01:00",
@@ -40,10 +42,12 @@
       "source_order": 6,
       "local_time": "16:30",
       "local_time_sources": {
-        "selected": "Archived FIFA tournament match centre",
+        "selected": "RSSSF full tournament record",
+        "confidence": "corroborated",
+        "rsssf": "16:30",
         "wikipedia": "16:00",
         "fifa_archive": "16:30",
-        "resolution_note": "Selected FIFA's archived 16:30 local time, corroborated by RSSSF, over Wikipedia's 16:00 match-box value."
+        "resolution_note": "RSSSF 16:30 agrees with FIFA; Wikipedia reports 16:00."
       },
       "timezone": "Europe/Rome",
       "utc_offset": "+01:00",
@@ -65,10 +69,12 @@
       "source_order": 7,
       "local_time": "16:30",
       "local_time_sources": {
-        "selected": "Archived FIFA tournament match centre",
+        "selected": "RSSSF full tournament record",
+        "confidence": "corroborated",
+        "rsssf": "16:30",
         "wikipedia": "16:00",
         "fifa_archive": "16:30",
-        "resolution_note": "Selected FIFA's archived 16:30 local time, corroborated by RSSSF, over Wikipedia's 16:00 match-box value."
+        "resolution_note": "RSSSF 16:30 agrees with FIFA; Wikipedia reports 16:00."
       },
       "timezone": "Europe/Rome",
       "utc_offset": "+01:00",
@@ -90,10 +96,12 @@
       "source_order": 0,
       "local_time": "16:30",
       "local_time_sources": {
-        "selected": "Archived FIFA tournament match centre",
+        "selected": "RSSSF full tournament record",
+        "confidence": "corroborated",
+        "rsssf": "16:30",
         "wikipedia": "16:00",
         "fifa_archive": "16:30",
-        "resolution_note": "Selected FIFA's archived 16:30 local time, corroborated by RSSSF, over Wikipedia's 16:00 match-box value."
+        "resolution_note": "RSSSF 16:30 agrees with FIFA; Wikipedia reports 16:00."
       },
       "timezone": "Europe/Rome",
       "utc_offset": "+01:00",
@@ -115,10 +123,12 @@
       "source_order": 1,
       "local_time": "16:30",
       "local_time_sources": {
-        "selected": "Archived FIFA tournament match centre",
+        "selected": "RSSSF full tournament record",
+        "confidence": "corroborated",
+        "rsssf": "16:30",
         "wikipedia": "16:00",
         "fifa_archive": "16:30",
-        "resolution_note": "Selected FIFA's archived 16:30 local time, corroborated by RSSSF, over Wikipedia's 16:00 match-box value."
+        "resolution_note": "RSSSF 16:30 agrees with FIFA; Wikipedia reports 16:00."
       },
       "timezone": "Europe/Rome",
       "utc_offset": "+01:00",
@@ -140,10 +150,12 @@
       "source_order": 2,
       "local_time": "16:30",
       "local_time_sources": {
-        "selected": "Archived FIFA tournament match centre",
+        "selected": "RSSSF full tournament record",
+        "confidence": "corroborated",
+        "rsssf": "16:30",
         "wikipedia": "16:00",
         "fifa_archive": "16:30",
-        "resolution_note": "Selected FIFA's archived 16:30 local time, corroborated by RSSSF, over Wikipedia's 16:00 match-box value."
+        "resolution_note": "RSSSF 16:30 agrees with FIFA; Wikipedia reports 16:00."
       },
       "timezone": "Europe/Rome",
       "utc_offset": "+01:00",
@@ -165,10 +177,12 @@
       "source_order": 3,
       "local_time": "16:30",
       "local_time_sources": {
-        "selected": "Archived FIFA tournament match centre",
+        "selected": "RSSSF full tournament record",
+        "confidence": "corroborated",
+        "rsssf": "16:30",
         "wikipedia": "16:00",
         "fifa_archive": "16:30",
-        "resolution_note": "Selected FIFA's archived 16:30 local time, corroborated by RSSSF, over Wikipedia's 16:00 match-box value."
+        "resolution_note": "RSSSF 16:30 agrees with FIFA; Wikipedia reports 16:00."
       },
       "timezone": "Europe/Rome",
       "utc_offset": "+01:00",
@@ -190,10 +204,12 @@
       "source_order": 4,
       "local_time": "16:30",
       "local_time_sources": {
-        "selected": "Archived FIFA tournament match centre",
+        "selected": "RSSSF full tournament record",
+        "confidence": "corroborated",
+        "rsssf": "16:30",
         "wikipedia": "16:00",
         "fifa_archive": "16:30",
-        "resolution_note": "Selected FIFA's archived 16:30 local time, corroborated by RSSSF, over Wikipedia's 16:00 match-box value."
+        "resolution_note": "RSSSF 16:30 agrees with FIFA; Wikipedia reports 16:00."
       },
       "timezone": "Europe/Rome",
       "utc_offset": "+01:00",
@@ -215,10 +231,12 @@
       "source_order": 11,
       "local_time": "16:30",
       "local_time_sources": {
-        "selected": "Archived FIFA tournament match centre",
+        "selected": "RSSSF full tournament record",
+        "confidence": "corroborated",
+        "rsssf": "16:30",
         "wikipedia": "16:30",
         "fifa_archive": "16:30",
-        "resolution_note": null
+        "resolution_note": "RSSSF 16:30 agrees with Wikipedia and FIFA."
       },
       "timezone": "Europe/Rome",
       "utc_offset": "+01:00",
@@ -240,10 +258,12 @@
       "source_order": 10,
       "local_time": "16:30",
       "local_time_sources": {
-        "selected": "Archived FIFA tournament match centre",
+        "selected": "RSSSF full tournament record",
+        "confidence": "corroborated",
+        "rsssf": "16:30",
         "wikipedia": "16:30",
         "fifa_archive": "16:30",
-        "resolution_note": null
+        "resolution_note": "RSSSF 16:30 agrees with Wikipedia and FIFA."
       },
       "timezone": "Europe/Rome",
       "utc_offset": "+01:00",
@@ -265,10 +285,12 @@
       "source_order": 9,
       "local_time": "16:30",
       "local_time_sources": {
-        "selected": "Archived FIFA tournament match centre",
+        "selected": "Archived FIFA tournament match centre, corroborated by Wikipedia",
+        "confidence": "corroborated",
+        "rsssf": null,
         "wikipedia": "16:30",
         "fifa_archive": "16:30",
-        "resolution_note": null
+        "resolution_note": "RSSSF has no recorded kickoff; FIFA and Wikipedia agree on 16:30."
       },
       "timezone": "Europe/Rome",
       "utc_offset": "+01:00",
@@ -290,10 +312,12 @@
       "source_order": 8,
       "local_time": "16:30",
       "local_time_sources": {
-        "selected": "Archived FIFA tournament match centre",
+        "selected": "Archived FIFA tournament match centre, corroborated by Wikipedia",
+        "confidence": "corroborated",
+        "rsssf": null,
         "wikipedia": "16:30",
         "fifa_archive": "16:30",
-        "resolution_note": null
+        "resolution_note": "RSSSF has no recorded kickoff; FIFA and Wikipedia agree on 16:30."
       },
       "timezone": "Europe/Rome",
       "utc_offset": "+01:00",
@@ -315,10 +339,12 @@
       "source_order": 12,
       "local_time": "16:30",
       "local_time_sources": {
-        "selected": "Archived FIFA tournament match centre",
+        "selected": "Archived FIFA tournament match centre, corroborated by Wikipedia",
+        "confidence": "corroborated",
+        "rsssf": null,
         "wikipedia": "16:30",
         "fifa_archive": "16:30",
-        "resolution_note": null
+        "resolution_note": "RSSSF has no recorded kickoff; FIFA and Wikipedia agree on 16:30."
       },
       "timezone": "Europe/Rome",
       "utc_offset": "+01:00",
@@ -340,10 +366,12 @@
       "source_order": 13,
       "local_time": "16:30",
       "local_time_sources": {
-        "selected": "Archived FIFA tournament match centre",
+        "selected": "RSSSF full tournament record",
+        "confidence": "corroborated",
+        "rsssf": "16:30",
         "wikipedia": "16:30",
         "fifa_archive": "16:30",
-        "resolution_note": null
+        "resolution_note": "RSSSF 16:30 agrees with Wikipedia and FIFA."
       },
       "timezone": "Europe/Rome",
       "utc_offset": "+01:00",
@@ -365,10 +393,12 @@
       "source_order": 14,
       "local_time": "16:30",
       "local_time_sources": {
-        "selected": "Archived FIFA tournament match centre",
+        "selected": "RSSSF full tournament record",
+        "confidence": "corroborated",
+        "rsssf": "16:30",
         "wikipedia": "16:30",
         "fifa_archive": "16:30",
-        "resolution_note": null
+        "resolution_note": "RSSSF 16:30 agrees with Wikipedia and FIFA."
       },
       "timezone": "Europe/Rome",
       "utc_offset": "+01:00",
@@ -388,17 +418,19 @@
       "fifa_match_id": "1105",
       "wikipedia_url": "https://en.wikipedia.org/wiki/1934_FIFA_World_Cup_final_tournament",
       "source_order": 15,
-      "local_time": "18:00",
+      "local_time": "17:30",
       "local_time_sources": {
-        "selected": "Archived FIFA tournament match centre",
+        "selected": "RSSSF full tournament record",
+        "confidence": "provisional",
+        "rsssf": "17:30",
         "wikipedia": "18:00",
         "fifa_archive": "18:00",
-        "resolution_note": "Selected FIFA and Wikipedia's 18:00 local time over RSSSF's 17:30."
+        "resolution_note": "Selected RSSSF 17:30 as the historical baseline; Wikipedia reports 18:00 and FIFA reports 18:00."
       },
       "timezone": "Europe/Rome",
       "utc_offset": "+01:00",
       "timezone_source": "IANA Time Zone Database",
-      "kickoff_utc": "1934-06-07T17:00:00Z",
+      "kickoff_utc": "1934-06-07T16:30:00Z",
       "fifa_derived_utc": "1934-06-07T16:00:00Z",
       "official_match_number": 16,
       "fifa_archive_url": "https://web.archive.org/web/20220819172410https://www.fifa.com/en/tournaments/mens/worldcup/1934italy/match-center"
@@ -416,10 +448,11 @@
       "local_time": "17:00",
       "local_time_sources": {
         "selected": "Contemporary Radiocorriere EIAR broadcast schedule, corroborated by RSSSF",
+        "confidence": "confirmed",
+        "rsssf": "17:00",
         "wikipedia": "15:30",
         "fifa_archive": "17:30",
         "evidence_url": "https://www.worldradiohistory.com/INTERNATIONAL/Radiocorriere/30s/1934/RC-1934-24.pdf",
-        "rsssf": "17:00",
         "resolution_note": "Selected 17:00 CET from the contemporary Radiocorriere EIAR schedule for 10 June 1934, which lists the live final broadcast from Stadio del Littorio at 17:00; RSSSF independently reports 17:00. The following week's Radiocorriere poem places the teams' entrance at 16:30 and listeners absorbed in the commentary at 17:03. Wikipedia reports 15:30 and FIFA's archive reports 17:30."
       },
       "timezone": "Europe/Rome",

@@ -13,6 +13,32 @@ from generate_master_calendar import validated_years  # noqa: E402
 
 
 class HistoricalCalendarTests(unittest.TestCase):
+    def test_rsssf_is_the_historical_kickoff_baseline(self) -> None:
+        for year in (1930, 1934, 1938):
+            enrichment = load_json(
+                ROOT / "data" / str(year) / "worldcup.enrichment.json"
+            )["matches"]
+            for match in enrichment:
+                sources = match["local_time_sources"]
+                if sources["selected"] == "RSSSF full tournament record":
+                    self.assertEqual(match["local_time"], sources["rsssf"])
+
+        enrichment_1934 = load_json(
+            ROOT / "data" / "1934" / "worldcup.enrichment.json"
+        )["matches"]
+        fallbacks = [
+            match
+            for match in enrichment_1934
+            if match["local_time_sources"]["rsssf"] is None
+        ]
+        self.assertEqual(len(fallbacks), 3)
+        self.assertTrue(
+            all(
+                match["local_time_sources"]["selected"].startswith("Archived FIFA")
+                for match in fallbacks
+            )
+        )
+
     def test_1930_manifest_is_chronological_and_stable(self) -> None:
         manifest = load_json(ROOT / "data" / "1930" / "worldcup.manifest.json")
         self.assertEqual(len(manifest["matches"]), 18)
@@ -70,6 +96,11 @@ class HistoricalCalendarTests(unittest.TestCase):
         self.assertEqual(final["local_time_sources"]["wikipedia"], "15:30")
         self.assertEqual(final["local_time_sources"]["rsssf"], "17:00")
         self.assertNotEqual(final["kickoff_utc"], final["fifa_derived_utc"])
+        third_place = next(
+            item for item in enrichment if item["official_match_number"] == 16
+        )
+        self.assertEqual(third_place["local_time"], "17:30")
+        self.assertEqual(third_place["kickoff_utc"], "1934-06-07T16:30:00Z")
 
     def test_master_includes_only_validated_archive_tournaments(self) -> None:
         self.assertEqual(validated_years(), [1930, 1934])
@@ -78,6 +109,21 @@ class HistoricalCalendarTests(unittest.TestCase):
         self.assertIn("UID:wc1930-match-001@world-cup-ics", master)
         self.assertIn("UID:wc1934-match-017@world-cup-ics", master)
         self.assertNotIn("UID:wc2026-match-001@world-cup-ics", master)
+
+    def test_1938_draft_excludes_cancelled_fixture(self) -> None:
+        manifest = load_json(ROOT / "data" / "1938" / "worldcup.manifest.json")
+        enrichment = load_json(
+            ROOT / "data" / "1938" / "worldcup.enrichment.json"
+        )["matches"]
+        self.assertEqual(manifest["status"], "review")
+        self.assertEqual(len(manifest["matches"]), 18)
+        self.assertEqual(len(enrichment), 18)
+        self.assertNotIn("Austria", {item["team2"] for item in manifest["matches"]})
+        disputed = next(
+            item for item in enrichment if item["official_match_number"] == 1
+        )
+        self.assertEqual(disputed["local_time"], "18:00")
+        self.assertEqual(disputed["local_time_sources"]["confidence"], "provisional")
 
     def test_master_countries_cover_1930(self) -> None:
         countries = country_index(load_json(ROOT / "data" / "countries.json"))

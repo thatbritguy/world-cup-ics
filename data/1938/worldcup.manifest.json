@@ -1,0 +1,188 @@
+{
+  "year": 1938,
+  "status": "review",
+  "calendar_profile": "archive",
+  "numbering": "FIFA official match numbers",
+  "matches": [
+    {
+      "sequence": 1,
+      "key": "wc1938-match-001",
+      "uid": "wc1938-match-001@world-cup-ics",
+      "date": "1938-06-04",
+      "team1": "Switzerland",
+      "team2": "Germany",
+      "official_match_number": 1,
+      "fifa_match_id": "1165"
+    },
+    {
+      "sequence": 2,
+      "key": "wc1938-match-002",
+      "uid": "wc1938-match-002@world-cup-ics",
+      "date": "1938-06-05",
+      "team1": "Hungary",
+      "team2": "Dutch East Indies",
+      "official_match_number": 2,
+      "fifa_match_id": "1173"
+    },
+    {
+      "sequence": 3,
+      "key": "wc1938-match-003",
+      "uid": "wc1938-match-003@world-cup-ics",
+      "date": "1938-06-05",
+      "team1": "France",
+      "team2": "Belgium",
+      "official_match_number": 3,
+      "fifa_match_id": "1146"
+    },
+    {
+      "sequence": 4,
+      "key": "wc1938-match-004",
+      "uid": "wc1938-match-004@world-cup-ics",
+      "date": "1938-06-05",
+      "team1": "Cuba",
+      "team2": "Romania",
+      "official_match_number": 4,
+      "fifa_match_id": "1156"
+    },
+    {
+      "sequence": 5,
+      "key": "wc1938-match-005",
+      "uid": "wc1938-match-005@world-cup-ics",
+      "date": "1938-06-05",
+      "team1": "Italy",
+      "team2": "Norway",
+      "official_match_number": 5,
+      "fifa_match_id": "1179"
+    },
+    {
+      "sequence": 6,
+      "key": "wc1938-match-006",
+      "uid": "wc1938-match-006@world-cup-ics",
+      "date": "1938-06-05",
+      "team1": "Brazil",
+      "team2": "Poland",
+      "official_match_number": 6,
+      "fifa_match_id": "1150"
+    },
+    {
+      "sequence": 7,
+      "key": "wc1938-match-007",
+      "uid": "wc1938-match-007@world-cup-ics",
+      "date": "1938-06-05",
+      "team1": "Czechoslovakia",
+      "team2": "Netherlands",
+      "official_match_number": 7,
+      "fifa_match_id": "1172"
+    },
+    {
+      "sequence": 8,
+      "key": "wc1938-match-008",
+      "uid": "wc1938-match-008@world-cup-ics",
+      "date": "1938-06-09",
+      "team1": "Cuba",
+      "team2": "Romania",
+      "official_match_number": 8,
+      "fifa_match_id": "1157"
+    },
+    {
+      "sequence": 9,
+      "key": "wc1938-match-009",
+      "uid": "wc1938-match-009@world-cup-ics",
+      "date": "1938-06-09",
+      "team1": "Germany",
+      "team2": "Switzerland",
+      "official_match_number": 9,
+      "fifa_match_id": "1166"
+    },
+    {
+      "sequence": 10,
+      "key": "wc1938-match-010",
+      "uid": "wc1938-match-010@world-cup-ics",
+      "date": "1938-06-12",
+      "team1": "Brazil",
+      "team2": "Czechoslovakia",
+      "official_match_number": 10,
+      "fifa_match_id": "1152"
+    },
+    {
+      "sequence": 11,
+      "key": "wc1938-match-011",
+      "uid": "wc1938-match-011@world-cup-ics",
+      "date": "1938-06-12",
+      "team1": "Switzerland",
+      "team2": "Hungary",
+      "official_match_number": 11,
+      "fifa_match_id": "1175"
+    },
+    {
+      "sequence": 12,
+      "key": "wc1938-match-012",
+      "uid": "wc1938-match-012@world-cup-ics",
+      "date": "1938-06-12",
+      "team1": "Sweden",
+      "team2": "Cuba",
+      "official_match_number": 12,
+      "fifa_match_id": "1158"
+    },
+    {
+      "sequence": 13,
+      "key": "wc1938-match-013",
+      "uid": "wc1938-match-013@world-cup-ics",
+      "date": "1938-06-12",
+      "team1": "France",
+      "team2": "Italy",
+      "official_match_number": 13,
+      "fifa_match_id": "1164"
+    },
+    {
+      "sequence": 14,
+      "key": "wc1938-match-014",
+      "uid": "wc1938-match-014@world-cup-ics",
+      "date": "1938-06-14",
+      "team1": "Brazil",
+      "team2": "Czechoslovakia",
+      "official_match_number": 14,
+      "fifa_match_id": "1153"
+    },
+    {
+      "sequence": 15,
+      "key": "wc1938-match-015",
+      "uid": "wc1938-match-015@world-cup-ics",
+      "date": "1938-06-16",
+      "team1": "Hungary",
+      "team2": "Sweden",
+      "official_match_number": 15,
+      "fifa_match_id": "1176"
+    },
+    {
+      "sequence": 16,
+      "key": "wc1938-match-016",
+      "uid": "wc1938-match-016@world-cup-ics",
+      "date": "1938-06-16",
+      "team1": "Italy",
+      "team2": "Brazil",
+      "official_match_number": 16,
+      "fifa_match_id": "1149"
+    },
+    {
+      "sequence": 17,
+      "key": "wc1938-match-017",
+      "uid": "wc1938-match-017@world-cup-ics",
+      "date": "1938-06-19",
+      "team1": "Sweden",
+      "team2": "Brazil",
+      "official_match_number": 17,
+      "fifa_match_id": "1151"
+    },
+    {
+      "sequence": 18,
+      "key": "wc1938-match-018",
+      "uid": "wc1938-match-018@world-cup-ics",
+      "date": "1938-06-19",
+      "team1": "Hungary",
+      "team2": "Italy",
+      "official_match_number": 18,
+      "fifa_match_id": "1174"
+    }
+  ]
+}

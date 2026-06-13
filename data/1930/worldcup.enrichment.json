@@ -1,7 +1,7 @@
 {
   "year": 1930,
-  "source": "Local clock times and official match numbers from FIFA's archived tournament match centre, reconciled against English Wikipedia match boxes; UTC conversion uses historical IANA timezone rules",
-  "timezone_note": "FIFA's derived UTC fields are retained for audit but are not used. Historical local clock time is converted with the IANA host timezone.",
+  "source": "Local clock times use RSSSF full tournament records as the baseline, with documented primary-evidence overrides and an explicit fallback when RSSSF omits a time. Wikipedia and archived FIFA values are retained for comparison; official match numbers come from FIFA and UTC conversion uses historical IANA timezone rules.",
+  "timezone_note": "RSSSF and other source values are interpreted as local clock times. FIFA's derived UTC fields are retained for audit but are not used. The selected time is converted with the historical IANA host timezone.",
   "matches": [
     {
       "date": "1930-07-13",
@@ -15,10 +15,12 @@
       "source_order": 0,
       "local_time": "15:00",
       "local_time_sources": {
-        "selected": "Archived FIFA tournament match centre",
+        "selected": "RSSSF full tournament record",
+        "confidence": "corroborated",
+        "rsssf": "15:00",
         "wikipedia": "15:00",
         "fifa_archive": "15:00",
-        "resolution_note": null
+        "resolution_note": "RSSSF 15:00 agrees with Wikipedia and FIFA."
       },
       "timezone": "America/Montevideo",
       "utc_offset": "-03:30",
@@ -40,10 +42,12 @@
       "source_order": 12,
       "local_time": "15:00",
       "local_time_sources": {
-        "selected": "Archived FIFA tournament match centre",
+        "selected": "RSSSF full tournament record",
+        "confidence": "corroborated",
+        "rsssf": "15:00",
         "wikipedia": "15:00",
         "fifa_archive": "15:00",
-        "resolution_note": null
+        "resolution_note": "RSSSF 15:00 agrees with Wikipedia and FIFA."
       },
       "timezone": "America/Montevideo",
       "utc_offset": "-03:30",
@@ -65,10 +69,12 @@
       "source_order": 6,
       "local_time": "12:45",
       "local_time_sources": {
-        "selected": "Archived FIFA tournament match centre",
+        "selected": "RSSSF full tournament record",
+        "confidence": "corroborated",
+        "rsssf": "12:45",
         "wikipedia": "12:45",
         "fifa_archive": "12:45",
-        "resolution_note": null
+        "resolution_note": "RSSSF 12:45 agrees with Wikipedia and FIFA."
       },
       "timezone": "America/Montevideo",
       "utc_offset": "-03:30",
@@ -90,10 +96,12 @@
       "source_order": 9,
       "local_time": "14:50",
       "local_time_sources": {
-        "selected": "Archived FIFA tournament match centre",
+        "selected": "RSSSF full tournament record",
+        "confidence": "corroborated",
+        "rsssf": "14:50",
         "wikipedia": "14:50",
         "fifa_archive": "14:50",
-        "resolution_note": null
+        "resolution_note": "RSSSF 14:50 agrees with Wikipedia and FIFA."
       },
       "timezone": "America/Montevideo",
       "utc_offset": "-03:30",
@@ -115,10 +123,12 @@
       "source_order": 1,
       "local_time": "16:00",
       "local_time_sources": {
-        "selected": "Archived FIFA tournament match centre",
+        "selected": "RSSSF full tournament record",
+        "confidence": "corroborated",
+        "rsssf": "16:00",
         "wikipedia": "16:00",
         "fifa_archive": "16:00",
-        "resolution_note": null
+        "resolution_note": "RSSSF 16:00 agrees with Wikipedia and FIFA."
       },
       "timezone": "America/Montevideo",
       "utc_offset": "-03:30",
@@ -140,10 +150,12 @@
       "source_order": 2,
       "local_time": "14:45",
       "local_time_sources": {
-        "selected": "Archived FIFA tournament match centre",
+        "selected": "RSSSF full tournament record",
+        "confidence": "corroborated",
+        "rsssf": "14:45",
         "wikipedia": "14:45",
         "fifa_archive": "14:45",
-        "resolution_note": null
+        "resolution_note": "RSSSF 14:45 agrees with Wikipedia and FIFA."
       },
       "timezone": "America/Montevideo",
       "utc_offset": "-03:30",
@@ -165,10 +177,12 @@
       "source_order": 7,
       "local_time": "12:45",
       "local_time_sources": {
-        "selected": "Archived FIFA tournament match centre",
+        "selected": "RSSSF full tournament record",
+        "confidence": "corroborated",
+        "rsssf": "12:45",
         "wikipedia": "12:45",
         "fifa_archive": "12:45",
-        "resolution_note": null
+        "resolution_note": "RSSSF 12:45 agrees with Wikipedia and FIFA."
       },
       "timezone": "America/Montevideo",
       "utc_offset": "-03:30",
@@ -190,10 +204,12 @@
       "source_order": 13,
       "local_time": "14:45",
       "local_time_sources": {
-        "selected": "Archived FIFA tournament match centre",
+        "selected": "RSSSF full tournament record",
+        "confidence": "corroborated",
+        "rsssf": "14:45",
         "wikipedia": "14:45",
         "fifa_archive": "14:45",
-        "resolution_note": null
+        "resolution_note": "RSSSF 14:45 agrees with Wikipedia and FIFA."
       },
       "timezone": "America/Montevideo",
       "utc_offset": "-03:30",
@@ -215,10 +231,12 @@
       "source_order": 10,
       "local_time": "14:30",
       "local_time_sources": {
-        "selected": "Archived FIFA tournament match centre",
+        "selected": "RSSSF full tournament record",
+        "confidence": "corroborated",
+        "rsssf": "14:30",
         "wikipedia": "14:30",
         "fifa_archive": "14:30",
-        "resolution_note": null
+        "resolution_note": "RSSSF 14:30 agrees with Wikipedia and FIFA."
       },
       "timezone": "America/Montevideo",
       "utc_offset": "-03:30",
@@ -240,10 +258,12 @@
       "source_order": 3,
       "local_time": "12:50",
       "local_time_sources": {
-        "selected": "Archived FIFA tournament match centre",
+        "selected": "RSSSF full tournament record",
+        "confidence": "corroborated",
+        "rsssf": "12:50",
         "wikipedia": "12:50",
         "fifa_archive": "12:50",
-        "resolution_note": null
+        "resolution_note": "RSSSF 12:50 agrees with Wikipedia and FIFA."
       },
       "timezone": "America/Montevideo",
       "utc_offset": "-03:30",
@@ -265,10 +285,12 @@
       "source_order": 4,
       "local_time": "15:00",
       "local_time_sources": {
-        "selected": "Archived FIFA tournament match centre",
+        "selected": "RSSSF full tournament record",
+        "confidence": "corroborated",
+        "rsssf": "15:00",
         "wikipedia": "15:00",
         "fifa_archive": "15:00",
-        "resolution_note": null
+        "resolution_note": "RSSSF 15:00 agrees with Wikipedia and FIFA."
       },
       "timezone": "America/Montevideo",
       "utc_offset": "-03:30",
@@ -290,10 +312,12 @@
       "source_order": 8,
       "local_time": "13:00",
       "local_time_sources": {
-        "selected": "Archived FIFA tournament match centre",
+        "selected": "RSSSF full tournament record",
+        "confidence": "corroborated",
+        "rsssf": "13:00",
         "wikipedia": "13:00",
         "fifa_archive": "13:00",
-        "resolution_note": null
+        "resolution_note": "RSSSF 13:00 agrees with Wikipedia and FIFA."
       },
       "timezone": "America/Montevideo",
       "utc_offset": "-03:30",
@@ -315,10 +339,12 @@
       "source_order": 14,
       "local_time": "15:00",
       "local_time_sources": {
-        "selected": "Archived FIFA tournament match centre",
+        "selected": "RSSSF full tournament record",
+        "confidence": "corroborated",
+        "rsssf": "15:00",
         "wikipedia": "15:00",
         "fifa_archive": "15:00",
-        "resolution_note": null
+        "resolution_note": "RSSSF 15:00 agrees with Wikipedia and FIFA."
       },
       "timezone": "America/Montevideo",
       "utc_offset": "-03:30",
@@ -340,10 +366,12 @@
       "source_order": 11,
       "local_time": "14:50",
       "local_time_sources": {
-        "selected": "Archived FIFA tournament match centre",
+        "selected": "RSSSF full tournament record",
+        "confidence": "corroborated",
+        "rsssf": "14:50",
         "wikipedia": "14:50",
         "fifa_archive": "14:50",
-        "resolution_note": null
+        "resolution_note": "RSSSF 14:50 agrees with Wikipedia and FIFA."
       },
       "timezone": "America/Montevideo",
       "utc_offset": "-03:30",
@@ -365,10 +393,12 @@
       "source_order": 5,
       "local_time": "14:45",
       "local_time_sources": {
-        "selected": "Archived FIFA tournament match centre",
+        "selected": "RSSSF full tournament record",
+        "confidence": "corroborated",
+        "rsssf": "14:45",
         "wikipedia": "14:45",
         "fifa_archive": "14:45",
-        "resolution_note": null
+        "resolution_note": "RSSSF 14:45 agrees with Wikipedia and FIFA."
       },
       "timezone": "America/Montevideo",
       "utc_offset": "-03:30",
@@ -390,10 +420,12 @@
       "source_order": 15,
       "local_time": "14:45",
       "local_time_sources": {
-        "selected": "Archived FIFA tournament match centre",
+        "selected": "RSSSF full tournament record",
+        "confidence": "corroborated",
+        "rsssf": "14:45",
         "wikipedia": "14:45",
         "fifa_archive": "14:45",
-        "resolution_note": null
+        "resolution_note": "RSSSF 14:45 agrees with Wikipedia and FIFA."
       },
       "timezone": "America/Montevideo",
       "utc_offset": "-03:30",
@@ -415,10 +447,12 @@
       "source_order": 16,
       "local_time": "14:45",
       "local_time_sources": {
-        "selected": "Archived FIFA tournament match centre",
+        "selected": "RSSSF full tournament record",
+        "confidence": "corroborated",
+        "rsssf": "14:45",
         "wikipedia": "14:45",
         "fifa_archive": "14:45",
-        "resolution_note": null
+        "resolution_note": "RSSSF 14:45 agrees with Wikipedia and FIFA."
       },
       "timezone": "America/Montevideo",
       "utc_offset": "-03:30",
@@ -441,10 +475,11 @@
       "local_time": "15:30",
       "local_time_sources": {
         "selected": "Uruguayan Football Association match archive, corroborated by RSSSF",
+        "confidence": "confirmed",
+        "rsssf": "15:30",
         "wikipedia": "12:45",
         "fifa_archive": "14:15",
         "evidence_url": "https://www.auf.org.uy/copa-mundial-uruguay-1930uruguay-vs-argentina1930-07-30/",
-        "rsssf": "15:30",
         "resolution_note": "Selected the Uruguayan Football Association's 15:30 local time, independently matched by RSSSF. FIFA's archive reports 14:15 and Wikipedia reports 12:45; neither conflicting value has equivalent corroboration."
       },
       "timezone": "America/Montevideo",
