@@ -138,6 +138,6 @@ data/{YEAR}/worldcup.stadiums.json     Historical venue coordinates
 ics/world-cup-2026.ics                 Published calendar feed
 ics/world-cup-1930.ics                 Static historical calendar proof
 ics/world-cup-1934.ics                 Static 1934 historical calendar
-ics/world-cup-1938.ics                 Static 1938 historical review calendar
+ics/world-cup-1938.ics                 Static 1938 historical calendar
 ics/world-cup.ics                      Validated historical master calendar
 ```

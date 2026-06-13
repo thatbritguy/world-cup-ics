@@ -122,8 +122,34 @@ TOURNAMENTS = {
         ),
         "timezone": "Europe/Paris",
         "expected_matches": 18,
-        "local_time_overrides": {},
-        "conflict_notes": {},
+        "local_time_overrides": {
+            "1165": {
+                "time": "17:00",
+                "selected_source": (
+                    "Contemporary Tribune de Lausanne match report, "
+                    "corroborated by the German Football Association"
+                ),
+                "confidence": "confirmed",
+                "evidence_url": (
+                    "https://datencenter.dfb.de/datencenter/weltmeisterschaft/"
+                    "1938-in-frankreich/achtelfinale/"
+                    "schweiz-deutschland-136812"
+                ),
+                "evidence_reference": (
+                    "Tribune de Lausanne, 5 June 1938: both teams entered "
+                    "the pitch shortly before 17:00"
+                ),
+                "reported_alternatives": {},
+            }
+        },
+        "conflict_notes": {
+            "1165": (
+                "Selected 17:00 WEST from the Tribune de Lausanne report of "
+                "5 June 1938, which states that both teams entered the pitch "
+                "shortly before 17:00. The German Football Association records "
+                "17:00, agreeing with Wikipedia and FIFA; RSSSF reports 18:00."
+            )
+        },
     },
 }
 NAME_ALIASES = {
@@ -337,7 +363,12 @@ def source_selection(
     if override:
         selected = str(override["time"])
         source = str(override["selected_source"])
-        confidence = "confirmed" if rsssf_time == selected else "corroborated"
+        confidence = str(
+            override.get(
+                "confidence",
+                "confirmed" if rsssf_time == selected else "corroborated",
+            )
+        )
         return selected, source, confidence, note
     if rsssf_time:
         comparisons = (("Wikipedia", wikipedia_time), ("FIFA", fifa_time))
@@ -430,7 +461,18 @@ def reconcile(year: int) -> dict[str, object]:
                     "selected": selected_source,
                     "confidence": confidence,
                     **source_values,
-                    **({"evidence_url": override["evidence_url"]} if override else {}),
+                    **(
+                        {
+                            "evidence_url": override["evidence_url"],
+                            **(
+                                {"evidence_reference": override["evidence_reference"]}
+                                if override.get("evidence_reference")
+                                else {}
+                            ),
+                        }
+                        if override
+                        else {}
+                    ),
                     "resolution_note": note,
                 },
                 "timezone": timezone_name,

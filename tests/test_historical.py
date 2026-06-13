@@ -103,27 +103,30 @@ class HistoricalCalendarTests(unittest.TestCase):
         self.assertEqual(third_place["kickoff_utc"], "1934-06-07T16:30:00Z")
 
     def test_master_includes_only_validated_archive_tournaments(self) -> None:
-        self.assertEqual(validated_years(), [1930, 1934])
+        self.assertEqual(validated_years(), [1930, 1934, 1938])
         master = (ROOT / "ics" / "world-cup.ics").read_text(encoding="utf-8")
-        self.assertEqual(master.count("BEGIN:VEVENT"), 35)
+        self.assertEqual(master.count("BEGIN:VEVENT"), 53)
         self.assertIn("UID:wc1930-match-001@world-cup-ics", master)
         self.assertIn("UID:wc1934-match-017@world-cup-ics", master)
+        self.assertIn("UID:wc1938-match-018@world-cup-ics", master)
         self.assertNotIn("UID:wc2026-match-001@world-cup-ics", master)
 
-    def test_1938_draft_excludes_cancelled_fixture(self) -> None:
+    def test_1938_excludes_cancelled_fixture_and_confirms_opening_time(self) -> None:
         manifest = load_json(ROOT / "data" / "1938" / "worldcup.manifest.json")
         enrichment = load_json(
             ROOT / "data" / "1938" / "worldcup.enrichment.json"
         )["matches"]
-        self.assertEqual(manifest["status"], "review")
+        self.assertEqual(manifest["status"], "validated")
         self.assertEqual(len(manifest["matches"]), 18)
         self.assertEqual(len(enrichment), 18)
         self.assertNotIn("Austria", {item["team2"] for item in manifest["matches"]})
-        disputed = next(
+        opening_match = next(
             item for item in enrichment if item["official_match_number"] == 1
         )
-        self.assertEqual(disputed["local_time"], "18:00")
-        self.assertEqual(disputed["local_time_sources"]["confidence"], "provisional")
+        self.assertEqual(opening_match["local_time"], "17:00")
+        self.assertEqual(opening_match["kickoff_utc"], "1938-06-04T16:00:00Z")
+        self.assertEqual(opening_match["local_time_sources"]["rsssf"], "18:00")
+        self.assertEqual(opening_match["local_time_sources"]["confidence"], "confirmed")
 
     def test_master_countries_cover_1930(self) -> None:
         countries = country_index(load_json(ROOT / "data" / "countries.json"))

@@ -650,4 +650,332 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1934
 END:VEVENT
+BEGIN:VEVENT
+UID:wc1938-match-001@world-cup-ics
+DTSTAMP:19380619T160000Z
+DTSTART:19380604T160000Z
+DTEND:19380604T190000Z
+SUMMARY:[R16] 🇨🇭 SUI 1-1 (aet) GER 🇩🇪 [001]
+LOCATION:Parc des Princes\, Paris
+GEO:48.841363;2.253069
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Parc des Princes, Paris";X
+ -APPLE-RADIUS=100;X-TITLE="Parc des Princes, Paris":geo:48.841363,2.253069
+DESCRIPTION:First round\nSwitzerland 1-1 Germany\nHT: 1-1\nFT: 1-1\nAET: 1-
+ 1\nGoals:\nSUI 🇨🇭: Abegglen 43'\nGER 🇩🇪: Gauchel 29'
+URL:https://www.fifa.com/en/match-centre/match/17/5/206/1165
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:FIFA World Cup 1938
+END:VEVENT
+BEGIN:VEVENT
+UID:wc1938-match-002@world-cup-ics
+DTSTAMP:19380619T160000Z
+DTSTART:19380605T160000Z
+DTEND:19380605T190000Z
+SUMMARY:[R16] 🇭🇺 HUN 6-0 INH 🇳🇱 [002]
+LOCATION:Vélodrome Municipal\, Reims
+GEO:49.246667;4.025000
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Vélodrome Municipal, Reim
+ s";X-APPLE-RADIUS=100;X-TITLE="Vélodrome Municipal, Reims":geo:49.246667,
+ 4.025000
+DESCRIPTION:First round\nHungary 6-0 Dutch East Indies\nHT: 4-0\nGoals:\nHU
+ N 🇭🇺: Kohut 14'\, Toldi 16'\, Sárosi 25'\, Sárosi 88'\, Zsengellé
+ r 30'\, Zsengellér 67'
+URL:https://www.fifa.com/en/match-centre/match/17/5/206/1173
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:FIFA World Cup 1938
+END:VEVENT
+BEGIN:VEVENT
+UID:wc1938-match-003@world-cup-ics
+DTSTAMP:19380619T160000Z
+DTSTART:19380605T160000Z
+DTEND:19380605T190000Z
+SUMMARY:[R16] 🇫🇷 FRA 3-1 BEL 🇧🇪 [003]
+LOCATION:Stade Olympique de Colombes\, Paris
+GEO:48.929444;2.248056
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade Olympique de Colombe
+ s, Paris";X-APPLE-RADIUS=100;X-TITLE="Stade Olympique de Colombes, Paris":
+ geo:48.929444,2.248056
+DESCRIPTION:First round\nFrance 3-1 Belgium\nHT: 2-1\nGoals:\nFRA 🇫🇷:
+  Veinante 1'\, Nicolas 16'\, Nicolas 69'\nBEL 🇧🇪: Isemborghs 38'
+URL:https://www.fifa.com/en/match-centre/match/17/5/206/1146
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:FIFA World Cup 1938
+END:VEVENT
+BEGIN:VEVENT
+UID:wc1938-match-004@world-cup-ics
+DTSTAMP:19380619T160000Z
+DTSTART:19380605T160000Z
+DTEND:19380605T190000Z
+SUMMARY:[R16] 🇨🇺 CUB 3-3 (aet) ROU 🇷🇴 [004]
+LOCATION:Stade Chapou\, Toulouse
+GEO:43.608611;1.419167
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade Chapou, Toulouse";X-
+ APPLE-RADIUS=100;X-TITLE="Stade Chapou, Toulouse":geo:43.608611,1.419167
+DESCRIPTION:First round\nCuba 3-3 Romania\nHT: 1-1\nFT: 2-2\nAET: 3-3\nGoal
+ s:\nCUB 🇨🇺: Socorro 44'\, Fernández 87'\, Tuñas 117'\nROU 🇷🇴
+ : Bindea 35'\, Baratky 88'\, Dobay 105'
+URL:https://www.fifa.com/en/match-centre/match/17/5/206/1156
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:FIFA World Cup 1938
+END:VEVENT
+BEGIN:VEVENT
+UID:wc1938-match-005@world-cup-ics
+DTSTAMP:19380619T160000Z
+DTSTART:19380605T160000Z
+DTEND:19380605T190000Z
+SUMMARY:[R16] 🇮🇹 ITA 2-1 (aet) NOR 🇳🇴 [005]
+LOCATION:Stade Vélodrome\, Marseille
+GEO:43.269722;5.395833
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade Vélodrome, Marseill
+ e";X-APPLE-RADIUS=100;X-TITLE="Stade Vélodrome, Marseille":geo:43.269722,
+ 5.395833
+DESCRIPTION:First round\nItaly 2-1 Norway\nHT: 1-0\nFT: 1-1\nAET: 2-1\nGoal
+ s:\nITA 🇮🇹: Ferraris 2'\, Piola 94'\nNOR 🇳🇴: Brustad 83'
+URL:https://www.fifa.com/en/match-centre/match/17/5/206/1179
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:FIFA World Cup 1938
+END:VEVENT
+BEGIN:VEVENT
+UID:wc1938-match-006@world-cup-ics
+DTSTAMP:19380619T160000Z
+DTSTART:19380605T163000Z
+DTEND:19380605T193000Z
+SUMMARY:[R16] 🇧🇷 BRA 6-5 (aet) POL 🇵🇱 [006]
+LOCATION:Stade de la Meinau\, Strasbourg
+GEO:48.560000;7.755000
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade de la Meinau, Strasb
+ ourg";X-APPLE-RADIUS=100;X-TITLE="Stade de la Meinau, Strasbourg":geo:48.5
+ 60000,7.755000
+DESCRIPTION:First round\nBrazil 6-5 Poland\nHT: 3-1\nFT: 4-4\nAET: 6-5\nGoa
+ ls:\nBRA 🇧🇷: Leônidas 18'\, Leônidas 93'\, Leônidas 104'\, Romeu 
+ 25'\, Perácio 44'\, Perácio 71'\nPOL 🇵🇱: Scherfke 23' pen\, Wilimo
+ wski 53'\, Wilimowski 59'\, Wilimowski 89'\, Wilimowski 118'
+URL:https://www.fifa.com/en/match-centre/match/17/5/206/1150
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:FIFA World Cup 1938
+END:VEVENT
+BEGIN:VEVENT
+UID:wc1938-match-007@world-cup-ics
+DTSTAMP:19380619T160000Z
+DTSTART:19380605T173000Z
+DTEND:19380605T203000Z
+SUMMARY:[R16] 🇨🇿 TCH 3-0 (aet) NED 🇳🇱 [007]
+LOCATION:Stade municipal\, Le Havre
+GEO:49.501733;0.171100
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade municipal, Le Havre"
+ ;X-APPLE-RADIUS=100;X-TITLE="Stade municipal, Le Havre":geo:49.501733,0.17
+ 1100
+DESCRIPTION:First round\nCzechoslovakia 3-0 Netherlands\nHT: 0-0\nFT: 0-0\n
+ AET: 3-0\nGoals:\nTCH 🇨🇿: Košťálek 93'\, Nejedlý 111'\, Zeman 11
+ 8'
+URL:https://www.fifa.com/en/match-centre/match/17/5/206/1172
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:FIFA World Cup 1938
+END:VEVENT
+BEGIN:VEVENT
+UID:wc1938-match-008@world-cup-ics
+DTSTAMP:19380619T160000Z
+DTSTART:19380609T170000Z
+DTEND:19380609T200000Z
+SUMMARY:[R16-REPLAY] 🇨🇺 CUB 2-1 ROU 🇷🇴 [008]
+LOCATION:Stade Chapou\, Toulouse
+GEO:43.608611;1.419167
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade Chapou, Toulouse";X-
+ APPLE-RADIUS=100;X-TITLE="Stade Chapou, Toulouse":geo:43.608611,1.419167
+DESCRIPTION:First round\, Replays\nCuba 2-1 Romania\nHT: 0-1\nGoals:\nCUB 
+ 🇨🇺: Socorro 51'\, Oliveira 57'\nROU 🇷🇴: Dobay 35'
+URL:https://www.fifa.com/en/match-centre/match/17/5/206/1157
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:FIFA World Cup 1938
+END:VEVENT
+BEGIN:VEVENT
+UID:wc1938-match-009@world-cup-ics
+DTSTAMP:19380619T160000Z
+DTSTART:19380609T170000Z
+DTEND:19380609T200000Z
+SUMMARY:[R16-REPLAY] 🇩🇪 GER 2-4 SUI 🇨🇭 [009]
+LOCATION:Parc des Princes\, Paris
+GEO:48.841363;2.253069
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Parc des Princes, Paris";X
+ -APPLE-RADIUS=100;X-TITLE="Parc des Princes, Paris":geo:48.841363,2.253069
+DESCRIPTION:First round\, Replays\nGermany 2-4 Switzerland\nHT: 2-1\nGoals:
+ \nGER 🇩🇪: Hahnemann 8'\, Lörtscher 22' og\nSUI 🇨🇭: Walaschek 
+ 42'\, Bickel 64'\, Abegglen 75'\, Abegglen 78'
+URL:https://www.fifa.com/en/match-centre/match/17/5/206/1166
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:FIFA World Cup 1938
+END:VEVENT
+BEGIN:VEVENT
+UID:wc1938-match-010@world-cup-ics
+DTSTAMP:19380619T160000Z
+DTSTART:19380612T160000Z
+DTEND:19380612T190000Z
+SUMMARY:[QF1] 🇧🇷 BRA 1-1 (aet) TCH 🇨🇿 [010]
+LOCATION:Parc Lescure\, Bordeaux
+GEO:44.829170;-0.598333
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Parc Lescure, Bordeaux";X-
+ APPLE-RADIUS=100;X-TITLE="Parc Lescure, Bordeaux":geo:44.829170,-0.598333
+DESCRIPTION:Quarter-finals\nBrazil 1-1 Czechoslovakia\nHT: 1-0\nFT: 1-1\nAE
+ T: 1-1\nGoals:\nBRA 🇧🇷: Leônidas 30'\nTCH 🇨🇿: Nejedlý 65' pe
+ n
+URL:https://www.fifa.com/en/match-centre/match/17/5/429/1152
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:FIFA World Cup 1938
+END:VEVENT
+BEGIN:VEVENT
+UID:wc1938-match-011@world-cup-ics
+DTSTAMP:19380619T160000Z
+DTSTART:19380612T160000Z
+DTEND:19380612T190000Z
+SUMMARY:[QF2] 🇨🇭 SUI 0-2 HUN 🇭🇺 [011]
+LOCATION:Stade Victor Boucquey\, Lille
+GEO:50.637500;3.036111
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade Victor Boucquey, Lil
+ le";X-APPLE-RADIUS=100;X-TITLE="Stade Victor Boucquey, Lille":geo:50.63750
+ 0,3.036111
+DESCRIPTION:Quarter-finals\nSwitzerland 0-2 Hungary\nHT: 0-1\nGoals:\nHUN 
+ 🇭🇺: Sárosi 40'\, Zsengellér 89'
+URL:https://www.fifa.com/en/match-centre/match/17/5/429/1175
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:FIFA World Cup 1938
+END:VEVENT
+BEGIN:VEVENT
+UID:wc1938-match-012@world-cup-ics
+DTSTAMP:19380619T160000Z
+DTSTART:19380612T160000Z
+DTEND:19380612T190000Z
+SUMMARY:[QF3] 🇸🇪 SWE 8-0 CUB 🇨🇺 [012]
+LOCATION:Stade du Fort Carré\, Antibes
+GEO:43.590861;7.125600
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade du Fort Carré, Anti
+ bes";X-APPLE-RADIUS=100;X-TITLE="Stade du Fort Carré, Antibes":geo:43.590
+ 861,7.125600
+DESCRIPTION:Quarter-finals\nSweden 8-0 Cuba\nHT: 4-0\nGoals:\nSWE 🇸🇪:
+  H. Andersson 9'\, H. Andersson 81'\, H. Andersson 90'\, Wetterström 32'\
+ , Wetterström 37'\, Wetterström 44'\, Keller 80'\, Nyberg 84'
+URL:https://www.fifa.com/en/match-centre/match/17/5/429/1158
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:FIFA World Cup 1938
+END:VEVENT
+BEGIN:VEVENT
+UID:wc1938-match-013@world-cup-ics
+DTSTAMP:19380619T160000Z
+DTSTART:19380612T160000Z
+DTEND:19380612T190000Z
+SUMMARY:[QF4] 🇫🇷 FRA 1-3 ITA 🇮🇹 [013]
+LOCATION:Stade Olympique de Colombes\, Paris
+GEO:48.929444;2.248056
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade Olympique de Colombe
+ s, Paris";X-APPLE-RADIUS=100;X-TITLE="Stade Olympique de Colombes, Paris":
+ geo:48.929444,2.248056
+DESCRIPTION:Quarter-finals\nFrance 1-3 Italy\nHT: 1-1\nGoals:\nFRA 🇫🇷
+ : Heisserer 10'\nITA 🇮🇹: Colaussi 9'\, Piola 51'\, Piola 72'
+URL:https://www.fifa.com/en/match-centre/match/17/5/429/1164
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:FIFA World Cup 1938
+END:VEVENT
+BEGIN:VEVENT
+UID:wc1938-match-014@world-cup-ics
+DTSTAMP:19380619T160000Z
+DTSTART:19380614T170000Z
+DTEND:19380614T200000Z
+SUMMARY:[QF-REPLAY] 🇧🇷 BRA 2-1 TCH 🇨🇿 [014]
+LOCATION:Parc Lescure\, Bordeaux
+GEO:44.829170;-0.598333
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Parc Lescure, Bordeaux";X-
+ APPLE-RADIUS=100;X-TITLE="Parc Lescure, Bordeaux":geo:44.829170,-0.598333
+DESCRIPTION:Quarter-finals\, Replays\nBrazil 2-1 Czechoslovakia\nHT: 0-1\nG
+ oals:\nBRA 🇧🇷: Leônidas 57'\, Roberto 62'\nTCH 🇨🇿: Kopecký 2
+ 5'
+URL:https://www.fifa.com/en/match-centre/match/17/5/429/1153
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:FIFA World Cup 1938
+END:VEVENT
+BEGIN:VEVENT
+UID:wc1938-match-015@world-cup-ics
+DTSTAMP:19380619T160000Z
+DTSTART:19380616T170000Z
+DTEND:19380616T200000Z
+SUMMARY:[SF1] 🇭🇺 HUN 5-1 SWE 🇸🇪 [015]
+LOCATION:Parc des Princes\, Paris
+GEO:48.841363;2.253069
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Parc des Princes, Paris";X
+ -APPLE-RADIUS=100;X-TITLE="Parc des Princes, Paris":geo:48.841363,2.253069
+DESCRIPTION:Semi-finals\nHungary 5-1 Sweden\nHT: 3-1\nGoals:\nHUN 🇭🇺:
+  Jacobsson 19' og\, Titkos 37'\, Zsengellér 39'\, Zsengellér 85'\, Sáro
+ si 65'\nSWE 🇸🇪: Nyberg 1'
+URL:https://www.fifa.com/en/match-centre/match/17/5/3489/1176
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:FIFA World Cup 1938
+END:VEVENT
+BEGIN:VEVENT
+UID:wc1938-match-016@world-cup-ics
+DTSTAMP:19380619T160000Z
+DTSTART:19380616T170000Z
+DTEND:19380616T200000Z
+SUMMARY:[SF2] 🇮🇹 ITA 2-1 BRA 🇧🇷 [016]
+LOCATION:Stade Vélodrome\, Marseille
+GEO:43.269722;5.395833
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade Vélodrome, Marseill
+ e";X-APPLE-RADIUS=100;X-TITLE="Stade Vélodrome, Marseille":geo:43.269722,
+ 5.395833
+DESCRIPTION:Semi-finals\nItaly 2-1 Brazil\nHT: 0-0\nGoals:\nITA 🇮🇹: C
+ olaussi 51'\, Meazza 60' pen\nBRA 🇧🇷: Romeu 87'
+URL:https://www.fifa.com/en/match-centre/match/17/5/3489/1149
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:FIFA World Cup 1938
+END:VEVENT
+BEGIN:VEVENT
+UID:wc1938-match-017@world-cup-ics
+DTSTAMP:19380619T160000Z
+DTSTART:19380619T160000Z
+DTEND:19380619T190000Z
+SUMMARY:[3RD] 🇸🇪 SWE 2-4 BRA 🇧🇷 [017]
+LOCATION:Parc Lescure\, Bordeaux
+GEO:44.829170;-0.598333
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Parc Lescure, Bordeaux";X-
+ APPLE-RADIUS=100;X-TITLE="Parc Lescure, Bordeaux":geo:44.829170,-0.598333
+DESCRIPTION:Match for third place\nSweden 2-4 Brazil\nHT: 2-1\nGoals:\nSWE 
+ 🇸🇪: Jonasson 28'\, Nyberg 38'\nBRA 🇧🇷: Romeu 44'\, Leônidas 6
+ 3'\, Leônidas 74'\, Perácio 80'
+URL:https://www.fifa.com/en/match-centre/match/17/5/3488/1151
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:FIFA World Cup 1938
+END:VEVENT
+BEGIN:VEVENT
+UID:wc1938-match-018@world-cup-ics
+DTSTAMP:19380619T160000Z
+DTSTART:19380619T160000Z
+DTEND:19380619T190000Z
+SUMMARY:[FINAL] 🇭🇺 HUN 2-4 ITA 🇮🇹 [018]
+LOCATION:Stade Olympique de Colombes\, Paris
+GEO:48.929444;2.248056
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade Olympique de Colombe
+ s, Paris";X-APPLE-RADIUS=100;X-TITLE="Stade Olympique de Colombes, Paris":
+ geo:48.929444,2.248056
+DESCRIPTION:Final\nHungary 2-4 Italy\nHT: 1-3\nGoals:\nHUN 🇭🇺: Titkos
+  8'\, Sárosi 70'\nITA 🇮🇹: Colaussi 6'\, Colaussi 35'\, Piola 16'\, 
+ Piola 82'
+URL:https://www.fifa.com/en/match-centre/match/17/5/3487/1174
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:FIFA World Cup 1938
+END:VEVENT
 END:VCALENDAR
