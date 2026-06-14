@@ -9,9 +9,9 @@
   },
   "match_count": 52,
   "status_counts": {
-    "conflict": 44,
+    "conflict": 49,
     "corroborated": 1,
-    "single-source": 7
+    "single-source": 2
   },
   "existing_calendar_status": null,
   "source_issues_resolved_in_enrichment": false,
@@ -137,15 +137,15 @@
       "team2": "Sweden",
       "ground": "Rose Bowl, Pasadena",
       "sources": {
-        "rsssf": null,
-        "rsssf_date": null,
+        "rsssf": "16:35",
+        "rsssf_date": "1994-06-19",
         "fifa_archive": "19:30",
         "fifa_archive_date": "1994-06-19",
         "openfootball": null,
         "openfootball_utc_offset": null
       },
-      "selected_local_time": "19:30",
-      "status": "single-source",
+      "selected_local_time": "16:35",
+      "status": "conflict",
       "date_mismatch": false,
       "fifa_match_id": "3056",
       "fifa_match_number": 8
@@ -175,15 +175,15 @@
       "team2": "Cameroon",
       "ground": "Stanford Stadium, Stanford",
       "sources": {
-        "rsssf": null,
-        "rsssf_date": null,
+        "rsssf": "13:05",
+        "rsssf_date": "1994-06-24",
         "fifa_archive": "16:00",
         "fifa_archive_date": "1994-06-24",
         "openfootball": null,
         "openfootball_utc_offset": null
       },
-      "selected_local_time": "16:00",
-      "status": "single-source",
+      "selected_local_time": "13:05",
+      "status": "conflict",
       "date_mismatch": false,
       "fifa_match_id": "3067",
       "fifa_match_number": 19
@@ -213,15 +213,15 @@
       "team2": "Cameroon",
       "ground": "Stanford Stadium, Stanford",
       "sources": {
-        "rsssf": null,
-        "rsssf_date": null,
+        "rsssf": "13:05",
+        "rsssf_date": "1994-06-28",
         "fifa_archive": "16:00",
         "fifa_archive_date": "1994-06-28",
         "openfootball": null,
         "openfootball_utc_offset": null
       },
-      "selected_local_time": "16:00",
-      "status": "single-source",
+      "selected_local_time": "13:05",
+      "status": "conflict",
       "date_mismatch": false,
       "fifa_match_id": "3079",
       "fifa_match_number": 31
@@ -251,15 +251,15 @@
       "team2": "Bolivia",
       "ground": "Soldier Field, Chicago",
       "sources": {
-        "rsssf": null,
-        "rsssf_date": null,
+        "rsssf": "14:05",
+        "rsssf_date": "1994-06-17",
         "fifa_archive": "15:00",
         "fifa_archive_date": "1994-06-17",
         "openfootball": null,
         "openfootball_utc_offset": null
       },
-      "selected_local_time": "15:00",
-      "status": "single-source",
+      "selected_local_time": "14:05",
+      "status": "conflict",
       "date_mismatch": false,
       "fifa_match_id": "3049",
       "fifa_match_number": 1
@@ -289,15 +289,15 @@
       "team2": "Spain",
       "ground": "Soldier Field, Chicago",
       "sources": {
-        "rsssf": null,
-        "rsssf_date": null,
+        "rsssf": "15:05",
+        "rsssf_date": "1994-06-21",
         "fifa_archive": "16:00",
         "fifa_archive_date": "1994-06-21",
         "openfootball": null,
         "openfootball_utc_offset": null
       },
-      "selected_local_time": "16:00",
-      "status": "single-source",
+      "selected_local_time": "15:05",
+      "status": "conflict",
       "date_mismatch": false,
       "fifa_match_id": "3060",
       "fifa_match_number": 12

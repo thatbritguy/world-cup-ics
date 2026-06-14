@@ -52,36 +52,57 @@ def fetch_text(url: str) -> str:
     raise RuntimeError(f"Could not fetch {url}")
 
 
-def source_team_codes() -> dict[str, str]:
-    """Map source abbreviations to canonical names; never emit these codes."""
+def fifa_team_codes() -> dict[str, str]:
+    """Map official FIFA abbreviations to canonical names."""
     codes: dict[str, str] = {}
     for country in load_json(ROOT / "data" / "countries.json"):
         codes[country["fifa_code"]] = country["name"]
-    for code, name in RSSSF_CODES.items():
-        codes.setdefault(code, name)
+    codes.update(
+        {
+            # Historical FIFA archive abbreviations not represented by a current
+            # member code are still translated to canonical repository names.
+            "FRG": "West Germany",
+            "GDR": "East Germany",
+            "TCH": "Czechoslovakia",
+            "URS": "Soviet Union",
+            "ZAI": "Zaire",
+        }
+    )
+    return codes
+
+
+def rsssf_team_codes() -> dict[str, str]:
+    """Translate RSSSF's private abbreviations; never emit them as team codes."""
+    codes = dict(RSSSF_CODES)
     codes.update(
         {
             "ALG": "Algeria",
+            "ARS": "Saudi Arabia",
             "AUS": "Australia",
             "BUL": "Bulgaria",
+            "CAM": "Cameroon",
             "CAN": "Canada",
             "CIV": "Ivory Coast",
-            "CMR": "Cameroon",
             "COL": "Colombia",
-            "CRC": "Costa Rica",
-            "DEN": "Denmark",
+            "COS": "Costa Rica",
+            "CRO": "Croatia",
+            "DAN": "Denmark",
+            "DDR": "East Germany",
             "ECU": "Ecuador",
+            "EMI": "United Arab Emirates",
             "FRG": "West Germany",
             "GDR": "East Germany",
             "GHA": "Ghana",
             "GRE": "Greece",
             "HAI": "Haiti",
             "HON": "Honduras",
+            "IRK": "Iraq",
             "IRL": "Republic of Ireland",
             "IRN": "Iran",
             "ISR": "Israel",
             "JAM": "Jamaica",
-            "JPN": "Japan",
+            "JAP": "Japan",
+            "KLD": "North Korea",
             "KOR": "South Korea",
             "KUW": "Kuwait",
             "MAR": "Morocco",
@@ -89,13 +110,12 @@ def source_team_codes() -> dict[str, str]:
             "NIR": "Northern Ireland",
             "NZL": "New Zealand",
             "POR": "Portugal",
-            "PRK": "North Korea",
             "RSA": "South Africa",
             "RUS": "Russia",
-            "KSA": "Saudi Arabia",
+            "SAF": "South Africa",
+            "SAL": "El Salvador",
             "SCO": "Scotland",
             "SEN": "Senegal",
-            "SLV": "El Salvador",
             "TCH": "Czechoslovakia",
             "TUN": "Tunisia",
             "TUR": "Turkey",
@@ -103,17 +123,7 @@ def source_team_codes() -> dict[str, str]:
             "URS": "Soviet Union",
             "WAL": "Wales",
             "ZAI": "Zaire",
-            "ARS": "Saudi Arabia",
-            "DAN": "Denmark",
-            "DDR": "East Germany",
-            "IRK": "Iraq",
-            "KLD": "North Korea",
-            "SAL": "El Salvador",
             "ZSR": "Soviet Union",
-            "COS": "Costa Rica",
-            "SAF": "South Africa",
-            "EMI": "United Arab Emirates",
-            "JAP": "Japan",
         }
     )
     return codes
@@ -158,9 +168,10 @@ def parse_rsssf_records(
     lines = text.splitlines()
     records: dict[tuple[str, frozenset[str]], str | None] = {}
     date_pattern = re.compile(
-        r"^(\d{2})\.(\d{2})\.\d{2}(?:\s+\((\d{2})\.(\d{2})\))?"
+        r"^(\d{2})\.(\d{2})\.\d{2}(?:\s+\((\d{2})\.+(\d{2})\))?"
     )
-    teams_pattern = re.compile(r"^([A-Z]{3}) - ([A-Z]{3})(?:\s|$)")
+    teams_pattern = re.compile(r"^([A-Z]{3}) - ([A-Z]{3})(?:\s|$)", re.IGNORECASE)
+    lineup_pattern = re.compile(r"^([A-Z]{3}):", re.IGNORECASE)
     for index, line in enumerate(lines):
         date_match = date_pattern.match(line)
         if not date_match:
@@ -174,12 +185,24 @@ def parse_rsssf_records(
             ),
             None,
         )
-        if not teams_match:
-            continue
+        if teams_match:
+            team_codes = tuple(code.upper() for code in teams_match.groups())
+        else:
+            lineup_codes: list[str] = []
+            for candidate in lines[index + 1 : index + 35]:
+                lineup_match = lineup_pattern.match(candidate)
+                if lineup_match:
+                    code = lineup_match.group(1).upper()
+                    if code not in lineup_codes:
+                        lineup_codes.append(code)
+                if len(lineup_codes) == 2:
+                    break
+            if len(lineup_codes) != 2:
+                continue
+            team_codes = tuple(lineup_codes)
         nearby = "\n".join(lines[index + 1 : index + 12]).lower()
         if "match cancelled" in nearby:
             continue
-        team_codes = teams_match.groups()
         unknown = [code for code in team_codes if code not in tournament_codes]
         if unknown:
             raise ValueError(f"Unknown RSSSF team codes: {', '.join(unknown)}")
@@ -277,7 +300,7 @@ def audit_year(year: int, cache_dir: Path) -> dict[str, object]:
             else fetch_text(RSSSF_URL.format(short=str(year)[2:]))
         )
         rsssf_path.write_text(text, encoding="utf-8")
-        rsssf = parse_rsssf_records(text, year, source_team_codes())
+        rsssf = parse_rsssf_records(text, year, rsssf_team_codes())
 
     fifa: dict[tuple[str, frozenset[str]], dict[str, object]] = {}
     if year in FIFA_ARCHIVE_YEARS:
@@ -288,7 +311,7 @@ def audit_year(year: int, cache_dir: Path) -> dict[str, object]:
             else fetch_text(FIFA_ARCHIVE_URL.format(slug=config["slug"]))
         )
         fifa_path.write_text(text, encoding="utf-8")
-        fifa = parse_fifa_records(text, source_team_codes())
+        fifa = parse_fifa_records(text, fifa_team_codes())
 
     matches: list[dict[str, object]] = []
     pair_occurrences = Counter(

@@ -9,8 +9,8 @@
   },
   "match_count": 52,
   "status_counts": {
-    "corroborated": 48,
-    "single-source": 4
+    "corroborated": 51,
+    "single-source": 1
   },
   "existing_calendar_status": null,
   "source_issues_resolved_in_enrichment": false,
@@ -22,15 +22,15 @@
       "team2": "Italy",
       "ground": "Estadio Azteca, Mexico City",
       "sources": {
-        "rsssf": null,
-        "rsssf_date": null,
+        "rsssf": "12:00",
+        "rsssf_date": "1986-05-31",
         "fifa_archive": "12:00",
         "fifa_archive_date": "1986-05-31",
         "openfootball": null,
         "openfootball_utc_offset": null
       },
       "selected_local_time": "12:00",
-      "status": "single-source",
+      "status": "corroborated",
       "date_mismatch": false,
       "fifa_match_id": "459",
       "fifa_match_number": 1
@@ -212,15 +212,15 @@
       "team2": "Mexico",
       "ground": "Estadio Azteca, Mexico City",
       "sources": {
-        "rsssf": null,
-        "rsssf_date": null,
+        "rsssf": "12:00",
+        "rsssf_date": "1986-06-11",
         "fifa_archive": "12:00",
         "fifa_archive_date": "1986-06-11",
         "openfootball": null,
         "openfootball_utc_offset": null
       },
       "selected_local_time": "12:00",
-      "status": "single-source",
+      "status": "corroborated",
       "date_mismatch": false,
       "fifa_match_id": "627",
       "fifa_match_number": 29
@@ -934,15 +934,15 @@
       "team2": "Belgium",
       "ground": "Estadio Azteca, Mexico City",
       "sources": {
-        "rsssf": null,
-        "rsssf_date": null,
+        "rsssf": "16:00",
+        "rsssf_date": "1986-06-25",
         "fifa_archive": "16:00",
         "fifa_archive_date": "1986-06-25",
         "openfootball": null,
         "openfootball_utc_offset": null
       },
       "selected_local_time": "16:00",
-      "status": "single-source",
+      "status": "corroborated",
       "date_mismatch": false,
       "fifa_match_id": "388",
       "fifa_match_number": 49

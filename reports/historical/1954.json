@@ -9,8 +9,8 @@
   },
   "match_count": 26,
   "status_counts": {
-    "corroborated": 23,
-    "single-source": 3
+    "corroborated": 24,
+    "single-source": 2
   },
   "existing_calendar_status": null,
   "source_issues_resolved_in_enrichment": false,
@@ -98,15 +98,15 @@
       "team2": "Turkey",
       "ground": "Wankdorf Stadium, Bern",
       "sources": {
-        "rsssf": null,
-        "rsssf_date": null,
+        "rsssf": "18:00",
+        "rsssf_date": "1954-06-17",
         "fifa_archive": "18:00",
         "fifa_archive_date": "1954-06-17",
         "openfootball": null,
         "openfootball_utc_offset": null
       },
       "selected_local_time": "18:00",
-      "status": "single-source",
+      "status": "corroborated",
       "date_mismatch": false,
       "fifa_match_id": "1283",
       "fifa_match_number": 5

@@ -11,8 +11,10 @@ sys.path.insert(0, str(ROOT / "scripts"))
 from audit_historical_tournaments import (  # noqa: E402
     classify,
     identity,
+    fifa_team_codes,
     parse_openfootball_time,
     parse_rsssf_records,
+    rsssf_team_codes,
 )
 from historical_config import WORLD_CUP_YEARS, historical_years  # noqa: E402
 from common import normalize_name  # noqa: E402
@@ -58,6 +60,10 @@ class HistoricalAuditTests(unittest.TestCase):
             identity("2002-06-05", "USA", "Portugal"),
             identity("2002-06-05", "United States", "Portugal"),
         )
+
+    def test_rsssf_codes_cannot_override_official_fifa_codes(self) -> None:
+        self.assertEqual(fifa_team_codes()["CAM"], "Cambodia")
+        self.assertEqual(rsssf_team_codes()["CAM"], "Cameroon")
         self.assertEqual(
             identity("2006-06-10", "Côte d'Ivoire", "Argentina"),
             identity("2006-06-10", "Ivory Coast", "Argentina"),

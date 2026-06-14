@@ -70,6 +70,8 @@ full tournament records are the default source for local kickoff times.
 Contemporary primary evidence may override RSSSF, while agreeing Wikipedia and
 archived FIFA values provide a fallback where RSSSF omits a time. Every source
 value, confidence level and resolution note is retained in the enrichment data.
+Calendar events use scheduled kickoff times. Small RSSSF offsets that appear to
+record the actual whistle time are retained for audit but do not alter events.
 For 2002 onward, contemporary FIFA/Wikipedia timing is accepted without an
 RSSSF full-file comparison; explicit source conflicts still require review.
 Selected local times are converted using historical IANA host timezones; FIFA's

@@ -9,9 +9,8 @@
   },
   "match_count": 64,
   "status_counts": {
-    "conflict": 58,
-    "corroborated": 3,
-    "single-source": 3
+    "conflict": 61,
+    "corroborated": 3
   },
   "existing_calendar_status": null,
   "source_issues_resolved_in_enrichment": false,
@@ -137,15 +136,15 @@
       "team2": "Austria",
       "ground": "Stade de Toulouse, Toulouse",
       "sources": {
-        "rsssf": null,
-        "rsssf_date": null,
+        "rsssf": "20:00",
+        "rsssf_date": "1998-06-11",
         "fifa_archive": "21:00",
         "fifa_archive_date": "1998-06-11",
         "openfootball": null,
         "openfootball_utc_offset": null
       },
-      "selected_local_time": "21:00",
-      "status": "single-source",
+      "selected_local_time": "20:00",
+      "status": "conflict",
       "date_mismatch": false,
       "fifa_match_id": "8727",
       "fifa_match_number": 3
@@ -194,15 +193,15 @@
       "team2": "Cameroon",
       "ground": "Stade de la Mosson, Montpellier",
       "sources": {
-        "rsssf": null,
-        "rsssf_date": null,
+        "rsssf": "20:00",
+        "rsssf_date": "1998-06-17",
         "fifa_archive": "21:00",
         "fifa_archive_date": "1998-06-17",
         "openfootball": null,
         "openfootball_utc_offset": null
       },
-      "selected_local_time": "21:00",
-      "status": "single-source",
+      "selected_local_time": "20:00",
+      "status": "conflict",
       "date_mismatch": false,
       "fifa_match_id": "8744",
       "fifa_match_number": 20
@@ -232,15 +231,15 @@
       "team2": "Cameroon",
       "ground": "Stade de la Beaujoire, Nantes",
       "sources": {
-        "rsssf": null,
-        "rsssf_date": null,
+        "rsssf": "15:00",
+        "rsssf_date": "1998-06-23",
         "fifa_archive": "16:00",
         "fifa_archive_date": "1998-06-23",
         "openfootball": null,
         "openfootball_utc_offset": null
       },
-      "selected_local_time": "16:00",
-      "status": "single-source",
+      "selected_local_time": "15:00",
+      "status": "conflict",
       "date_mismatch": false,
       "fifa_match_id": "8760",
       "fifa_match_number": 36

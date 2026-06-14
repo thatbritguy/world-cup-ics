@@ -9,8 +9,9 @@
   },
   "match_count": 52,
   "status_counts": {
-    "corroborated": 45,
-    "single-source": 7
+    "conflict": 1,
+    "corroborated": 50,
+    "single-source": 1
   },
   "existing_calendar_status": null,
   "source_issues_resolved_in_enrichment": false,
@@ -136,15 +137,15 @@
       "team2": "Cameroon",
       "ground": "San Siro, Milan",
       "sources": {
-        "rsssf": null,
-        "rsssf_date": null,
+        "rsssf": "18:00",
+        "rsssf_date": "1990-06-08",
         "fifa_archive": "18:00",
         "fifa_archive_date": "1990-06-08",
         "openfootball": null,
         "openfootball_utc_offset": null
       },
       "selected_local_time": "18:00",
-      "status": "single-source",
+      "status": "corroborated",
       "date_mismatch": false,
       "fifa_match_id": "26",
       "fifa_match_number": 1
@@ -193,15 +194,15 @@
       "team2": "Romania",
       "ground": "Stadio San Nicola, Bari",
       "sources": {
-        "rsssf": null,
-        "rsssf_date": null,
+        "rsssf": "17:00",
+        "rsssf_date": "1990-06-14",
         "fifa_archive": "17:00",
         "fifa_archive_date": "1990-06-14",
         "openfootball": null,
         "openfootball_utc_offset": null
       },
       "selected_local_time": "17:00",
-      "status": "single-source",
+      "status": "corroborated",
       "date_mismatch": false,
       "fifa_match_id": "108",
       "fifa_match_number": 16
@@ -231,15 +232,15 @@
       "team2": "Soviet Union",
       "ground": "Stadio San Nicola, Bari",
       "sources": {
-        "rsssf": null,
-        "rsssf_date": null,
+        "rsssf": "21:00",
+        "rsssf_date": "1990-06-18",
         "fifa_archive": "21:00",
         "fifa_archive_date": "1990-06-18",
         "openfootball": null,
         "openfootball_utc_offset": null
       },
       "selected_local_time": "21:00",
-      "status": "single-source",
+      "status": "corroborated",
       "date_mismatch": false,
       "fifa_match_id": "111",
       "fifa_match_number": 26
@@ -630,15 +631,15 @@
       "team2": "Netherlands",
       "ground": "Stadio Sant'Elia, Cagliari",
       "sources": {
-        "rsssf": null,
+        "rsssf": "17:00",
         "rsssf_date": "1990-06-16",
         "fifa_archive": "21:00",
         "fifa_archive_date": "1990-06-16",
         "openfootball": null,
         "openfootball_utc_offset": null
       },
-      "selected_local_time": "21:00",
-      "status": "single-source",
+      "selected_local_time": "17:00",
+      "status": "conflict",
       "date_mismatch": false,
       "fifa_match_id": "160",
       "fifa_match_number": 21
@@ -706,15 +707,15 @@
       "team2": "Colombia",
       "ground": "Stadio San Paolo, Naples",
       "sources": {
-        "rsssf": null,
-        "rsssf_date": null,
+        "rsssf": "17:00",
+        "rsssf_date": "1990-06-23",
         "fifa_archive": "17:00",
         "fifa_archive_date": "1990-06-23",
         "openfootball": null,
         "openfootball_utc_offset": null
       },
       "selected_local_time": "17:00",
-      "status": "single-source",
+      "status": "corroborated",
       "date_mismatch": false,
       "fifa_match_id": "102",
       "fifa_match_number": 37
@@ -915,15 +916,15 @@
       "team2": "Cameroon",
       "ground": "Stadio San Paolo, Naples",
       "sources": {
-        "rsssf": null,
-        "rsssf_date": null,
+        "rsssf": "21:00",
+        "rsssf_date": "1990-07-01",
         "fifa_archive": "21:00",
         "fifa_archive_date": "1990-07-01",
         "openfootball": null,
         "openfootball_utc_offset": null
       },
       "selected_local_time": "21:00",
-      "status": "single-source",
+      "status": "corroborated",
       "date_mismatch": false,
       "fifa_match_id": "103",
       "fifa_match_number": 48

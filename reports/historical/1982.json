@@ -9,9 +9,9 @@
   },
   "match_count": 52,
   "status_counts": {
-    "conflict": 1,
-    "corroborated": 45,
-    "single-source": 6
+    "conflict": 2,
+    "corroborated": 47,
+    "single-source": 3
   },
   "existing_calendar_status": null,
   "source_issues_resolved_in_enrichment": false,
@@ -42,15 +42,15 @@
       "team2": "Cameroon",
       "ground": "Estadio de Riazor, A Coruña",
       "sources": {
-        "rsssf": null,
-        "rsssf_date": null,
+        "rsssf": "17:15",
+        "rsssf_date": "1982-06-15",
         "fifa_archive": "17:15",
         "fifa_archive_date": "1982-06-15",
         "openfootball": null,
         "openfootball_utc_offset": null
       },
       "selected_local_time": "17:15",
-      "status": "single-source",
+      "status": "corroborated",
       "date_mismatch": false,
       "fifa_match_id": "833",
       "fifa_match_number": 4
@@ -80,15 +80,15 @@
       "team2": "Cameroon",
       "ground": "Estadio de Riazor, A Coruña",
       "sources": {
-        "rsssf": null,
-        "rsssf_date": null,
+        "rsssf": "17:15",
+        "rsssf_date": "1982-06-19",
         "fifa_archive": "19:15",
         "fifa_archive_date": "1982-06-19",
         "openfootball": null,
         "openfootball_utc_offset": null
       },
-      "selected_local_time": "19:15",
-      "status": "single-source",
+      "selected_local_time": "17:15",
+      "status": "conflict",
       "date_mismatch": false,
       "fifa_match_id": "834",
       "fifa_match_number": 16
@@ -118,15 +118,15 @@
       "team2": "Cameroon",
       "ground": "Balaídos, Vigo",
       "sources": {
-        "rsssf": null,
-        "rsssf_date": null,
+        "rsssf": "17:15",
+        "rsssf_date": "1982-06-23",
         "fifa_archive": "17:15",
         "fifa_archive_date": "1982-06-23",
         "openfootball": null,
         "openfootball_utc_offset": null
       },
       "selected_local_time": "17:15",
-      "status": "single-source",
+      "status": "corroborated",
       "date_mismatch": false,
       "fifa_match_id": "828",
       "fifa_match_number": 28
