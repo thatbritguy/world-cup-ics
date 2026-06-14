@@ -10,12 +10,11 @@
   "match_count": 35,
   "status_counts": {
     "corroborated": 32,
-    "resolved": 1,
-    "single-source": 2
+    "resolved": 3
   },
   "existing_calendar_status": null,
   "source_issues_resolved_in_enrichment": false,
-  "requires_review": true,
+  "requires_review": false,
   "matches": [
     {
       "date": "1958-06-08",
@@ -202,7 +201,13 @@
         "openfootball_utc_offset": null
       },
       "selected_local_time": "19:00",
-      "status": "single-source",
+      "status": "resolved",
+      "resolution": {
+        "time": "19:00",
+        "selected_source": "FIFA/Wikipedia scheduled kickoff",
+        "evidence": "RSSSF omits the time; FIFA and Wikipedia give 19:00, consistent with the tournament schedule.",
+        "rejected_value": "RSSSF records the fixture but omits its kickoff time."
+      },
       "date_mismatch": false,
       "fifa_match_id": "1388",
       "fifa_match_number": 11
@@ -392,7 +397,13 @@
         "openfootball_utc_offset": null
       },
       "selected_local_time": "19:00",
-      "status": "single-source",
+      "status": "resolved",
+      "resolution": {
+        "time": "19:00",
+        "selected_source": "FIFA/Wikipedia scheduled kickoff",
+        "evidence": "RSSSF omits the time; FIFA and Wikipedia give 19:00, consistent with the tournament schedule.",
+        "rejected_value": "RSSSF omits the fixture's kickoff time."
+      },
       "date_mismatch": false,
       "fifa_match_id": "1408",
       "fifa_match_number": 33

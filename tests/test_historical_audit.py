@@ -113,6 +113,21 @@ class HistoricalAuditTests(unittest.TestCase):
             {key: AUDIT_RESOLUTIONS[key]["time"] for key in expected}, expected
         )
 
+    def test_1958_1962_1966_rsssf_omissions_use_fifa_wikipedia(self) -> None:
+        expected = {
+            identity("1958-06-11", "Yugoslavia", "France"): "19:00",
+            identity("1958-06-17", "Wales", "Hungary"): "19:00",
+            identity("1962-06-03", "Hungary", "Bulgaria"): "15:00",
+            identity("1962-06-06", "Hungary", "Argentina"): "15:00",
+            identity("1962-06-07", "Mexico", "Czechoslovakia"): "15:00",
+            identity("1962-06-07", "England", "Bulgaria"): "15:00",
+            identity("1962-06-17", "Brazil", "Czechoslovakia"): "14:30",
+            identity("1966-07-12", "Brazil", "Bulgaria"): "19:30",
+        }
+        self.assertEqual(
+            {key: AUDIT_RESOLUTIONS[key]["time"] for key in expected}, expected
+        )
+
 
 if __name__ == "__main__":
     unittest.main()

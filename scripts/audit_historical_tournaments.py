@@ -149,6 +149,24 @@ def identity(date: str, team1: str, team2: str) -> tuple[str, frozenset[str]]:
 
 
 AUDIT_RESOLUTIONS = {
+    identity("1958-06-11", "Yugoslavia", "France"): {
+        "time": "19:00",
+        "selected_source": "FIFA/Wikipedia scheduled kickoff",
+        "evidence": (
+            "RSSSF omits the time; FIFA and Wikipedia give 19:00, consistent "
+            "with the tournament schedule."
+        ),
+        "rejected_value": "RSSSF records the fixture but omits its kickoff time.",
+    },
+    identity("1958-06-17", "Wales", "Hungary"): {
+        "time": "19:00",
+        "selected_source": "FIFA/Wikipedia scheduled kickoff",
+        "evidence": (
+            "RSSSF omits the time; FIFA and Wikipedia give 19:00, consistent "
+            "with the tournament schedule."
+        ),
+        "rejected_value": "RSSSF omits the fixture's kickoff time.",
+    },
     identity("1958-06-19", "Sweden", "Soviet Union"): {
         "time": "19:00",
         "selected_source": "Official match programme",
@@ -172,6 +190,51 @@ AUDIT_RESOLUTIONS = {
         ),
         "rejected_value": "RSSSF reports 18:00.",
     },
+    identity("1962-06-03", "Hungary", "Bulgaria"): {
+        "time": "15:00",
+        "selected_source": "FIFA/Wikipedia scheduled kickoff",
+        "evidence": (
+            "RSSSF omits the time; FIFA and Wikipedia give 15:00, consistent "
+            "with the tournament schedule."
+        ),
+        "rejected_value": "RSSSF records the fixture but omits its kickoff time.",
+    },
+    identity("1962-06-06", "Hungary", "Argentina"): {
+        "time": "15:00",
+        "selected_source": "FIFA/Wikipedia scheduled kickoff",
+        "evidence": (
+            "RSSSF omits the time; FIFA and Wikipedia give 15:00, consistent "
+            "with the tournament schedule."
+        ),
+        "rejected_value": "RSSSF records the fixture but omits its kickoff time.",
+    },
+    identity("1962-06-07", "Mexico", "Czechoslovakia"): {
+        "time": "15:00",
+        "selected_source": "FIFA/Wikipedia scheduled kickoff",
+        "evidence": (
+            "RSSSF omits the time; FIFA and Wikipedia give 15:00, consistent "
+            "with the tournament schedule."
+        ),
+        "rejected_value": "RSSSF records the fixture but omits its kickoff time.",
+    },
+    identity("1962-06-07", "England", "Bulgaria"): {
+        "time": "15:00",
+        "selected_source": "FIFA/Wikipedia scheduled kickoff",
+        "evidence": (
+            "RSSSF omits the time; FIFA and Wikipedia give 15:00, consistent "
+            "with the tournament schedule."
+        ),
+        "rejected_value": "RSSSF records the fixture but omits its kickoff time.",
+    },
+    identity("1962-06-17", "Brazil", "Czechoslovakia"): {
+        "time": "14:30",
+        "selected_source": "FIFA/Wikipedia scheduled kickoff",
+        "evidence": (
+            "RSSSF omits the time; FIFA and Wikipedia give 14:30, consistent "
+            "with the tournament schedule."
+        ),
+        "rejected_value": "RSSSF records the fixture but omits its kickoff time.",
+    },
     identity("1966-07-16", "England", "Mexico"): {
         "time": "19:30",
         "selected_source": "BBC schedule and German FA data centre",
@@ -181,6 +244,15 @@ AUDIT_RESOLUTIONS = {
         ),
         "evidence_url": "https://genome.ch.bbc.co.uk/651869fb65874e0d82d11b1b8ba1baeb",
         "rejected_value": "RSSSF reports 15:00.",
+    },
+    identity("1966-07-12", "Brazil", "Bulgaria"): {
+        "time": "19:30",
+        "selected_source": "FIFA/Wikipedia scheduled kickoff",
+        "evidence": (
+            "RSSSF omits the time; FIFA and Wikipedia give 19:30, consistent "
+            "with the tournament schedule."
+        ),
+        "rejected_value": "RSSSF records the fixture but omits its kickoff time.",
     },
     identity("1966-07-23", "England", "Argentina"): {
         "time": "15:00",

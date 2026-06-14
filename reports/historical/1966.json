@@ -10,12 +10,11 @@
   "match_count": 32,
   "status_counts": {
     "corroborated": 29,
-    "resolved": 2,
-    "single-source": 1
+    "resolved": 3
   },
   "existing_calendar_status": null,
   "source_issues_resolved_in_enrichment": false,
-  "requires_review": true,
+  "requires_review": false,
   "matches": [
     {
       "date": "1966-07-11",
@@ -266,7 +265,13 @@
         "openfootball_utc_offset": null
       },
       "selected_local_time": "19:30",
-      "status": "single-source",
+      "status": "resolved",
+      "resolution": {
+        "time": "19:30",
+        "selected_source": "FIFA/Wikipedia scheduled kickoff",
+        "evidence": "RSSSF omits the time; FIFA and Wikipedia give 19:30, consistent with the tournament schedule.",
+        "rejected_value": "RSSSF records the fixture but omits its kickoff time."
+      },
       "date_mismatch": false,
       "fifa_match_id": "1596",
       "fifa_match_number": 3
