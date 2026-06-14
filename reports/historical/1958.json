@@ -9,8 +9,8 @@
   },
   "match_count": 35,
   "status_counts": {
-    "conflict": 1,
     "corroborated": 32,
+    "resolved": 1,
     "single-source": 2
   },
   "existing_calendar_status": null,
@@ -562,8 +562,14 @@
         "openfootball": null,
         "openfootball_utc_offset": null
       },
-      "selected_local_time": "14:00",
-      "status": "conflict",
+      "selected_local_time": "19:00",
+      "status": "resolved",
+      "resolution": {
+        "time": "19:00",
+        "selected_source": "Official match programme",
+        "evidence": "The official match programme confirms a scheduled 19:00 local kickoff. FIFA/Wikipedia agree.",
+        "rejected_value": "RSSSF reports 14:00."
+      },
       "date_mismatch": false,
       "fifa_match_id": "1437",
       "fifa_match_number": 25

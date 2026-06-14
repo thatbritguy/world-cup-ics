@@ -96,6 +96,23 @@ class HistoricalAuditTests(unittest.TestCase):
         ]
         self.assertEqual(resolved, ["16:00"] * 9)
 
+    def test_isolated_conflicts_use_documented_scheduled_times(self) -> None:
+        expected = {
+            identity("1958-06-19", "Sweden", "Soviet Union"): "19:00",
+            identity("1962-06-03", "Soviet Union", "Colombia"): "15:00",
+            identity("1966-07-16", "England", "Mexico"): "19:30",
+            identity("1966-07-23", "England", "Argentina"): "15:00",
+            identity("1978-06-10", "France", "Hungary"): "13:45",
+            identity("1982-06-17", "Czechoslovakia", "Kuwait"): "17:15",
+            identity("1982-06-19", "Poland", "Cameroon"): "17:15",
+            identity("1982-06-21", "Algeria", "Austria"): "17:15",
+            identity("1982-06-25", "West Germany", "Austria"): "17:15",
+            identity("1982-07-11", "Italy", "West Germany"): "20:00",
+        }
+        self.assertEqual(
+            {key: AUDIT_RESOLUTIONS[key]["time"] for key in expected}, expected
+        )
+
 
 if __name__ == "__main__":
     unittest.main()

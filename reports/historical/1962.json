@@ -9,8 +9,8 @@
   },
   "match_count": 32,
   "status_counts": {
-    "conflict": 1,
     "corroborated": 26,
+    "resolved": 1,
     "single-source": 5
   },
   "existing_calendar_status": null,
@@ -87,8 +87,15 @@
         "openfootball": null,
         "openfootball_utc_offset": null
       },
-      "selected_local_time": "18:00",
-      "status": "conflict",
+      "selected_local_time": "15:00",
+      "status": "resolved",
+      "resolution": {
+        "time": "15:00",
+        "selected_source": "Contemporary and federation evidence",
+        "evidence": "The German FA data centre records 15:00; contemporary Chilean reporting describes Arica group matches at 15:00, and an interview with the son of Colombian scorer Marcos Coll also refers to 15:00.",
+        "evidence_url": "https://www.aldia.co/deportes/ese-gol-olimpico-sirvio-para-que-el-mundo-conociera-que-habia-un-pais-llamado-colombia",
+        "rejected_value": "RSSSF reports 18:00."
+      },
       "date_mismatch": false,
       "fifa_match_id": "1478",
       "fifa_match_number": 13

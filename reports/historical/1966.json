@@ -9,8 +9,8 @@
   },
   "match_count": 32,
   "status_counts": {
-    "conflict": 2,
     "corroborated": 29,
+    "resolved": 2,
     "single-source": 1
   },
   "existing_calendar_status": null,
@@ -87,8 +87,15 @@
         "openfootball": null,
         "openfootball_utc_offset": null
       },
-      "selected_local_time": "15:00",
-      "status": "conflict",
+      "selected_local_time": "19:30",
+      "status": "resolved",
+      "resolution": {
+        "time": "19:30",
+        "selected_source": "BBC schedule and German FA data centre",
+        "evidence": "BBC television coverage began at 19:00 and the German FA data centre records a scheduled 19:30 BST kickoff.",
+        "evidence_url": "https://genome.ch.bbc.co.uk/651869fb65874e0d82d11b1b8ba1baeb",
+        "rejected_value": "RSSSF reports 15:00."
+      },
       "date_mismatch": false,
       "fifa_match_id": "1634",
       "fifa_match_number": 13
@@ -486,8 +493,15 @@
         "openfootball": null,
         "openfootball_utc_offset": null
       },
-      "selected_local_time": "19:30",
-      "status": "conflict",
+      "selected_local_time": "15:00",
+      "status": "resolved",
+      "resolution": {
+        "time": "15:00",
+        "selected_source": "Contemporary tournament schedule",
+        "evidence": "All four quarter-finals on 23 July were scheduled for 15:00, as documented by The Guardian's review of the 1966 tournament.",
+        "evidence_url": "https://www.theguardian.com/football/blog/2016/jul/24/1966-world-cup-final-conspiracy-refereeing-50-years",
+        "rejected_value": "RSSSF reports 19:30."
+      },
       "date_mismatch": false,
       "fifa_match_id": "1577",
       "fifa_match_number": 25

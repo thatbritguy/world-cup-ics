@@ -149,6 +149,52 @@ def identity(date: str, team1: str, team2: str) -> tuple[str, frozenset[str]]:
 
 
 AUDIT_RESOLUTIONS = {
+    identity("1958-06-19", "Sweden", "Soviet Union"): {
+        "time": "19:00",
+        "selected_source": "Official match programme",
+        "evidence": (
+            "The official match programme confirms a scheduled 19:00 local "
+            "kickoff. FIFA/Wikipedia agree."
+        ),
+        "rejected_value": "RSSSF reports 14:00.",
+    },
+    identity("1962-06-03", "Soviet Union", "Colombia"): {
+        "time": "15:00",
+        "selected_source": "Contemporary and federation evidence",
+        "evidence": (
+            "The German FA data centre records 15:00; contemporary Chilean "
+            "reporting describes Arica group matches at 15:00, and an interview "
+            "with the son of Colombian scorer Marcos Coll also refers to 15:00."
+        ),
+        "evidence_url": (
+            "https://www.aldia.co/deportes/ese-gol-olimpico-sirvio-para-que-"
+            "el-mundo-conociera-que-habia-un-pais-llamado-colombia"
+        ),
+        "rejected_value": "RSSSF reports 18:00.",
+    },
+    identity("1966-07-16", "England", "Mexico"): {
+        "time": "19:30",
+        "selected_source": "BBC schedule and German FA data centre",
+        "evidence": (
+            "BBC television coverage began at 19:00 and the German FA data "
+            "centre records a scheduled 19:30 BST kickoff."
+        ),
+        "evidence_url": "https://genome.ch.bbc.co.uk/651869fb65874e0d82d11b1b8ba1baeb",
+        "rejected_value": "RSSSF reports 15:00.",
+    },
+    identity("1966-07-23", "England", "Argentina"): {
+        "time": "15:00",
+        "selected_source": "Contemporary tournament schedule",
+        "evidence": (
+            "All four quarter-finals on 23 July were scheduled for 15:00, as "
+            "documented by The Guardian's review of the 1966 tournament."
+        ),
+        "evidence_url": (
+            "https://www.theguardian.com/football/blog/2016/jul/24/"
+            "1966-world-cup-final-conspiracy-refereeing-50-years"
+        ),
+        "rejected_value": "RSSSF reports 19:30.",
+    },
     identity("1974-06-14", "West Germany", "Chile"): {
         "time": "16:00",
         "selected_source": "Contemporary The Times fixture listing",
@@ -233,6 +279,61 @@ AUDIT_RESOLUTIONS = {
             "kickoff for the third-place match, agreeing with FIFA and Wikipedia."
         ),
         "rejected_value": "RSSSF omits this fixture's kickoff time.",
+    },
+    identity("1978-06-10", "France", "Hungary"): {
+        "time": "13:45",
+        "selected_source": "Originally scheduled kickoff",
+        "evidence": (
+            "The match was scheduled for 13:45 ART but delayed by a kit clash. "
+            "The teams eventually started at 14:30; calendar events use the "
+            "scheduled kickoff."
+        ),
+        "evidence_url": (
+            "https://web.archive.org/web/20210727224101/"
+            "https://www.fifamuseum.com/en/stories/blog/"
+            "when-les-bleus-went-green-and-white-2609859/"
+        ),
+        "rejected_value": (
+            "RSSSF reports the delayed 14:30 start and FIFA archive data "
+            "reports 15:10; neither is the scheduled kickoff."
+        ),
+    },
+    identity("1982-06-17", "Czechoslovakia", "Kuwait"): {
+        "time": "17:15",
+        "selected_source": "Official FIFA guide and contemporary TV listing",
+        "evidence": (
+            "The official contemporary FIFA tournament guide and a Catalan "
+            "television listing both give a scheduled 17:15 local kickoff."
+        ),
+        "evidence_url": (
+            "https://www.catalunyacristiana.cat/hemeroteca2/"
+            "Catalunya_Cristiana_0142_19820619_cat.pdf"
+        ),
+        "rejected_value": "FIFA archive data reports 17:45; RSSSF records 17:15.",
+    },
+    identity("1982-06-19", "Poland", "Cameroon"): {
+        "time": "17:15",
+        "selected_source": "Official contemporary FIFA tournament guide",
+        "evidence": "FIFA's official 1982 match calendar lists a 17:15 kickoff.",
+        "rejected_value": "FIFA archive data reports 19:15; RSSSF records 17:15.",
+    },
+    identity("1982-06-21", "Algeria", "Austria"): {
+        "time": "17:15",
+        "selected_source": "Official contemporary FIFA tournament guide",
+        "evidence": "FIFA's official 1982 match calendar lists a 17:15 kickoff.",
+        "rejected_value": "RSSSF omits the kickoff time.",
+    },
+    identity("1982-06-25", "West Germany", "Austria"): {
+        "time": "17:15",
+        "selected_source": "Official contemporary FIFA tournament guide",
+        "evidence": "FIFA's official 1982 match calendar lists a 17:15 kickoff.",
+        "rejected_value": "RSSSF omits the kickoff time.",
+    },
+    identity("1982-07-11", "Italy", "West Germany"): {
+        "time": "20:00",
+        "selected_source": "Official contemporary FIFA tournament guide",
+        "evidence": "FIFA's official 1982 match calendar lists the final at 20:00.",
+        "rejected_value": "RSSSF omits the kickoff time.",
     },
     identity("1990-06-16", "England", "Netherlands"): {
         "time": "21:00",

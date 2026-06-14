@@ -9,12 +9,12 @@
   },
   "match_count": 38,
   "status_counts": {
-    "conflict": 1,
-    "corroborated": 37
+    "corroborated": 37,
+    "resolved": 1
   },
   "existing_calendar_status": null,
   "source_issues_resolved_in_enrichment": false,
-  "requires_review": true,
+  "requires_review": false,
   "matches": [
     {
       "date": "1978-06-02",
@@ -124,8 +124,15 @@
         "openfootball": null,
         "openfootball_utc_offset": null
       },
-      "selected_local_time": "14:30",
-      "status": "conflict",
+      "selected_local_time": "13:45",
+      "status": "resolved",
+      "resolution": {
+        "time": "13:45",
+        "selected_source": "Originally scheduled kickoff",
+        "evidence": "The match was scheduled for 13:45 ART but delayed by a kit clash. The teams eventually started at 14:30; calendar events use the scheduled kickoff.",
+        "evidence_url": "https://web.archive.org/web/20210727224101/https://www.fifamuseum.com/en/stories/blog/when-les-bleus-went-green-and-white-2609859/",
+        "rejected_value": "RSSSF reports the delayed 14:30 start and FIFA archive data reports 15:10; neither is the scheduled kickoff."
+      },
       "date_mismatch": false,
       "fifa_match_id": "2344",
       "fifa_match_number": 18

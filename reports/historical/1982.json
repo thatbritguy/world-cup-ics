@@ -9,13 +9,12 @@
   },
   "match_count": 52,
   "status_counts": {
-    "conflict": 2,
     "corroborated": 47,
-    "single-source": 3
+    "resolved": 5
   },
   "existing_calendar_status": null,
   "source_issues_resolved_in_enrichment": false,
-  "requires_review": true,
+  "requires_review": false,
   "matches": [
     {
       "date": "1982-06-14",
@@ -88,7 +87,13 @@
         "openfootball_utc_offset": null
       },
       "selected_local_time": "17:15",
-      "status": "conflict",
+      "status": "resolved",
+      "resolution": {
+        "time": "17:15",
+        "selected_source": "Official contemporary FIFA tournament guide",
+        "evidence": "FIFA's official 1982 match calendar lists a 17:15 kickoff.",
+        "rejected_value": "FIFA archive data reports 19:15; RSSSF records 17:15."
+      },
       "date_mismatch": false,
       "fifa_match_id": "834",
       "fifa_match_number": 16
@@ -202,7 +207,13 @@
         "openfootball_utc_offset": null
       },
       "selected_local_time": "17:15",
-      "status": "single-source",
+      "status": "resolved",
+      "resolution": {
+        "time": "17:15",
+        "selected_source": "Official contemporary FIFA tournament guide",
+        "evidence": "FIFA's official 1982 match calendar lists a 17:15 kickoff.",
+        "rejected_value": "RSSSF omits the kickoff time."
+      },
       "date_mismatch": false,
       "fifa_match_id": "739",
       "fifa_match_number": 22
@@ -240,7 +251,13 @@
         "openfootball_utc_offset": null
       },
       "selected_local_time": "17:15",
-      "status": "single-source",
+      "status": "resolved",
+      "resolution": {
+        "time": "17:15",
+        "selected_source": "Official contemporary FIFA tournament guide",
+        "evidence": "FIFA's official 1982 match calendar lists a 17:15 kickoff.",
+        "rejected_value": "RSSSF omits the kickoff time."
+      },
       "date_mismatch": false,
       "fifa_match_id": "770",
       "fifa_match_number": 34
@@ -392,7 +409,14 @@
         "openfootball_utc_offset": null
       },
       "selected_local_time": "17:15",
-      "status": "conflict",
+      "status": "resolved",
+      "resolution": {
+        "time": "17:15",
+        "selected_source": "Official FIFA guide and contemporary TV listing",
+        "evidence": "The official contemporary FIFA tournament guide and a Catalan television listing both give a scheduled 17:15 local kickoff.",
+        "evidence_url": "https://www.catalunyacristiana.cat/hemeroteca2/Catalunya_Cristiana_0142_19820619_cat.pdf",
+        "rejected_value": "FIFA archive data reports 17:45; RSSSF records 17:15."
+      },
       "date_mismatch": false,
       "fifa_match_id": "1012",
       "fifa_match_number": 11
@@ -1000,7 +1024,13 @@
         "openfootball_utc_offset": null
       },
       "selected_local_time": "20:00",
-      "status": "single-source",
+      "status": "resolved",
+      "resolution": {
+        "time": "20:00",
+        "selected_source": "Official contemporary FIFA tournament guide",
+        "evidence": "FIFA's official 1982 match calendar lists the final at 20:00.",
+        "rejected_value": "RSSSF omits the kickoff time."
+      },
       "date_mismatch": false,
       "fifa_match_id": "923",
       "fifa_match_number": 52
