@@ -1,0 +1,69 @@
+{
+  "venues": [
+    {
+      "name": "Estadio Azteca",
+      "city": "Mexico City",
+      "ground_aliases": [
+        "Estadio Azteca, Mexico City"
+      ],
+      "latitude": 19.30305556,
+      "longitude": -99.15055556,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Estadio_Azteca",
+      "coordinate_source_title": "Estadio Azteca",
+      "match_score": 15,
+      "coordinate_status": "candidate"
+    },
+    {
+      "name": "Estadio Cuauhtémoc",
+      "city": "Puebla",
+      "ground_aliases": [
+        "Estadio Cuauhtémoc, Puebla"
+      ],
+      "latitude": 19.07805556,
+      "longitude": -98.16444444,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Estadio_Cuauht%C3%A9moc",
+      "coordinate_source_title": "Estadio Cuauhtémoc",
+      "match_score": 15,
+      "coordinate_status": "candidate"
+    },
+    {
+      "name": "Estadio Jalisco",
+      "city": "Guadalajara",
+      "ground_aliases": [
+        "Estadio Jalisco, Guadalajara"
+      ],
+      "latitude": 20.705,
+      "longitude": -103.32805556,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Estadio_Jalisco",
+      "coordinate_source_title": "Estadio Jalisco",
+      "match_score": 15,
+      "coordinate_status": "candidate"
+    },
+    {
+      "name": "Estadio Luis Dosal",
+      "city": "Toluca",
+      "ground_aliases": [
+        "Estadio Luis Dosal, Toluca"
+      ],
+      "latitude": 19.28722222,
+      "longitude": -99.66666667,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Toluca_FC",
+      "coordinate_source_title": "Toluca FC",
+      "match_score": 10,
+      "coordinate_status": "candidate"
+    },
+    {
+      "name": "Estadio Nou Camp",
+      "city": "León",
+      "ground_aliases": [
+        "Estadio Nou Camp, León"
+      ],
+      "latitude": 21.11555556,
+      "longitude": -101.65777778,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Estadio_Le%C3%B3n",
+      "coordinate_source_title": "Estadio León",
+      "match_score": 10,
+      "coordinate_status": "candidate"
+    }
+  ]
+}

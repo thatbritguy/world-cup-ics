@@ -1,0 +1,124 @@
+{
+  "venues": [
+    {
+      "name": "Cape Town Stadium",
+      "city": "Cape Town",
+      "ground_aliases": [
+        "Cape Town Stadium, Cape Town"
+      ],
+      "latitude": -33.92527778,
+      "longitude": 18.42388889,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Cape_Town",
+      "coordinate_source_title": "Cape Town",
+      "match_score": 25
+    },
+    {
+      "name": "Ellis Park Stadium",
+      "city": "Johannesburg",
+      "ground_aliases": [
+        "Ellis Park Stadium, Johannesburg"
+      ],
+      "latitude": -26.1975,
+      "longitude": 28.06083333,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Ellis_Park_Stadium",
+      "coordinate_source_title": "Ellis Park Stadium",
+      "match_score": 25
+    },
+    {
+      "name": "Free State Stadium",
+      "city": "Bloemfontein",
+      "ground_aliases": [
+        "Free State Stadium, Bloemfontein"
+      ],
+      "latitude": -29.11722222,
+      "longitude": 26.20888889,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Free_State_Stadium",
+      "coordinate_source_title": "Free State Stadium",
+      "match_score": 25
+    },
+    {
+      "name": "Loftus Versfeld Stadium",
+      "city": "Pretoria",
+      "ground_aliases": [
+        "Loftus Versfeld Stadium, Pretoria"
+      ],
+      "latitude": -25.75333333,
+      "longitude": 28.22277778,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Loftus_Versfeld_Stadium",
+      "coordinate_source_title": "Loftus Versfeld Stadium",
+      "match_score": 25
+    },
+    {
+      "name": "Mbombela Stadium",
+      "city": "Nelspruit",
+      "ground_aliases": [
+        "Mbombela Stadium, Nelspruit"
+      ],
+      "latitude": -25.46583333,
+      "longitude": 30.98527778,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Mbombela",
+      "coordinate_source_title": "Mbombela",
+      "match_score": 15
+    },
+    {
+      "name": "Moses Mabhida Stadium",
+      "city": "Durban",
+      "ground_aliases": [
+        "Moses Mabhida Stadium, Durban"
+      ],
+      "latitude": -29.829,
+      "longitude": 31.0303,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Moses_Mabhida_Stadium",
+      "coordinate_source_title": "Moses Mabhida Stadium",
+      "match_score": 25
+    },
+    {
+      "name": "Nelson Mandela Bay Stadium",
+      "city": "Port Elizabeth",
+      "ground_aliases": [
+        "Nelson Mandela Bay Stadium, Port Elizabeth"
+      ],
+      "latitude": -33.93777778,
+      "longitude": 25.59888889,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Nelson_Mandela_Bay_Stadium",
+      "coordinate_source_title": "Nelson Mandela Bay Stadium",
+      "match_score": 35
+    },
+    {
+      "name": "Peter Mokaba Stadium",
+      "city": "Polokwane",
+      "ground_aliases": [
+        "Peter Mokaba Stadium, Polokwane"
+      ],
+      "latitude": -23.924689,
+      "longitude": 29.468765,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Peter_Mokaba_Stadium",
+      "coordinate_source_title": "Peter Mokaba Stadium",
+      "match_score": 25
+    },
+    {
+      "name": "Royal Bafokeng Stadium",
+      "city": "Rustenburg",
+      "ground_aliases": [
+        "Royal Bafokeng Stadium, Rustenburg"
+      ],
+      "latitude": -25.5786,
+      "longitude": 27.1607,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Royal_Bafokeng_Stadium",
+      "coordinate_source_title": "Royal Bafokeng Stadium",
+      "match_score": 25
+    },
+    {
+      "name": "Soccer City",
+      "city": "Johannesburg",
+      "ground_aliases": [
+        "Soccer City, Johannesburg"
+      ],
+      "latitude": -26.20444444,
+      "longitude": 28.04555556,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Johannesburg",
+      "coordinate_source_title": "Johannesburg",
+      "match_score": 15
+    }
+  ]
+}

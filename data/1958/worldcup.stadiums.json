@@ -1,0 +1,160 @@
+{
+  "venues": [
+    {
+      "name": "Arosvallen",
+      "city": "Västerås",
+      "ground_aliases": [
+        "Arosvallen, Västerås"
+      ],
+      "latitude": 59.62055556,
+      "longitude": 16.54111111,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Arosvallen",
+      "coordinate_source_title": "Arosvallen",
+      "match_score": 15,
+      "coordinate_status": "candidate"
+    },
+    {
+      "name": "Eyravallen",
+      "city": "Örebro",
+      "ground_aliases": [
+        "Eyravallen, Örebro"
+      ],
+      "latitude": 59.26611111,
+      "longitude": 15.22305556,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Eyravallen",
+      "coordinate_source_title": "Eyravallen",
+      "match_score": 15,
+      "coordinate_status": "candidate"
+    },
+    {
+      "name": "Idrottsparken",
+      "city": "Norrköping",
+      "ground_aliases": [
+        "Idrottsparken, Norrköping"
+      ],
+      "latitude": 58.58444444,
+      "longitude": 16.17305556,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Idrottsparken_(Norrk%C3%B6ping)",
+      "coordinate_source_title": "Idrottsparken (Norrköping)",
+      "match_score": 25,
+      "coordinate_status": "candidate"
+    },
+    {
+      "name": "Jernvallen",
+      "city": "Sandviken",
+      "ground_aliases": [
+        "Jernvallen, Sandviken"
+      ],
+      "latitude": 60.60888889,
+      "longitude": 16.77305556,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Jernvallen",
+      "coordinate_source_title": "Jernvallen",
+      "match_score": 15,
+      "coordinate_status": "candidate"
+    },
+    {
+      "name": "Malmö Stadion",
+      "city": "Malmö",
+      "ground_aliases": [
+        "Malmö Stadion, Malmö"
+      ],
+      "latitude": 55.58611111,
+      "longitude": 12.98916667,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Malm%C3%B6_Stadion",
+      "coordinate_source_title": "Malmö Stadion",
+      "match_score": 25,
+      "coordinate_status": "candidate"
+    },
+    {
+      "name": "Olympiastadion",
+      "city": "Helsingborg",
+      "ground_aliases": [
+        "Olympiastadion, Helsingborg"
+      ],
+      "latitude": 56.04944444,
+      "longitude": 12.70694444,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Olympia_(Helsingborg)",
+      "coordinate_source_title": "Olympia (Helsingborg)",
+      "match_score": 10,
+      "coordinate_status": "candidate"
+    },
+    {
+      "name": "Rimnersvallen",
+      "city": "Uddevalla",
+      "ground_aliases": [
+        "Rimnersvallen, Uddevalla"
+      ],
+      "latitude": 58.35666667,
+      "longitude": 11.95,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Rimnersvallen",
+      "coordinate_source_title": "Rimnersvallen",
+      "match_score": 15,
+      "coordinate_status": "candidate"
+    },
+    {
+      "name": "Ryavallen",
+      "city": "Borås",
+      "ground_aliases": [
+        "Ryavallen, Borås"
+      ],
+      "latitude": 57.72111111,
+      "longitude": 12.94027778,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Bor%C3%A5s",
+      "coordinate_source_title": "Borås",
+      "match_score": 15,
+      "coordinate_status": "candidate"
+    },
+    {
+      "name": "Råsunda Stadium",
+      "city": "Solna",
+      "ground_aliases": [
+        "Råsunda Stadium, Solna"
+      ],
+      "latitude": 59.36277778,
+      "longitude": 17.99638889,
+      "coordinate_source": "https://en.wikipedia.org/wiki/R%C3%A5sunda_Stadium",
+      "coordinate_source_title": "Råsunda Stadium",
+      "match_score": 15,
+      "coordinate_status": "candidate"
+    },
+    {
+      "name": "Tunavallen",
+      "city": "Eskilstuna",
+      "ground_aliases": [
+        "Tunavallen, Eskilstuna"
+      ],
+      "latitude": 59.37083333,
+      "longitude": 16.50972222,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Eskilstuna",
+      "coordinate_source_title": "Eskilstuna",
+      "match_score": 15,
+      "coordinate_status": "candidate"
+    },
+    {
+      "name": "Ullevi",
+      "city": "Gothenburg",
+      "ground_aliases": [
+        "Ullevi, Gothenburg"
+      ],
+      "latitude": 57.70583333,
+      "longitude": 11.98722222,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Ullevi",
+      "coordinate_source_title": "Ullevi",
+      "match_score": 15,
+      "coordinate_status": "candidate"
+    },
+    {
+      "name": "Örjans Vall",
+      "city": "Halmstad",
+      "ground_aliases": [
+        "Örjans Vall, Halmstad"
+      ],
+      "latitude": 56.68416667,
+      "longitude": 12.86638889,
+      "coordinate_source": "https://en.wikipedia.org/wiki/%C3%96rjans_Vall",
+      "coordinate_source_title": "Örjans Vall",
+      "match_score": 25,
+      "coordinate_status": "candidate"
+    }
+  ]
+}

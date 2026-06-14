@@ -1,0 +1,160 @@
+{
+  "venues": [
+    {
+      "name": "Estadio Azteca",
+      "city": "Mexico City",
+      "ground_aliases": [
+        "Estadio Azteca, Mexico City"
+      ],
+      "latitude": 19.30305556,
+      "longitude": -99.15055556,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Estadio_Azteca",
+      "coordinate_source_title": "Estadio Azteca",
+      "match_score": 15,
+      "coordinate_status": "candidate"
+    },
+    {
+      "name": "Estadio Cuauhtémoc",
+      "city": "Puebla",
+      "ground_aliases": [
+        "Estadio Cuauhtémoc, Puebla"
+      ],
+      "latitude": 19.07805556,
+      "longitude": -98.16444444,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Estadio_Cuauht%C3%A9moc",
+      "coordinate_source_title": "Estadio Cuauhtémoc",
+      "match_score": 15,
+      "coordinate_status": "candidate"
+    },
+    {
+      "name": "Estadio Jalisco",
+      "city": "Guadalajara",
+      "ground_aliases": [
+        "Estadio Jalisco, Guadalajara"
+      ],
+      "latitude": 20.705,
+      "longitude": -103.32805556,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Estadio_Jalisco",
+      "coordinate_source_title": "Estadio Jalisco",
+      "match_score": 15,
+      "coordinate_status": "candidate"
+    },
+    {
+      "name": "Estadio La Corregidora",
+      "city": "Querétaro",
+      "ground_aliases": [
+        "Estadio La Corregidora, Querétaro"
+      ],
+      "latitude": 20.57777778,
+      "longitude": -100.36638889,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Estadio_Corregidora",
+      "coordinate_source_title": "Estadio Corregidora",
+      "match_score": 10,
+      "coordinate_status": "candidate"
+    },
+    {
+      "name": "Estadio Nemesio Díez",
+      "city": "Toluca",
+      "ground_aliases": [
+        "Estadio Nemesio Díez, Toluca"
+      ],
+      "latitude": 19.28722222,
+      "longitude": -99.66666667,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Estadio_Nemesio_D%C3%ADez",
+      "coordinate_source_title": "Estadio Nemesio Díez",
+      "match_score": 25,
+      "coordinate_status": "candidate"
+    },
+    {
+      "name": "Estadio Neza 86",
+      "city": "Nezahualcóyotl",
+      "ground_aliases": [
+        "Estadio Neza 86, Nezahualcóyotl"
+      ],
+      "latitude": 19.40583333,
+      "longitude": -98.98694444,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Estadio_Neza_86",
+      "coordinate_source_title": "Estadio Neza 86",
+      "match_score": 25,
+      "coordinate_status": "candidate"
+    },
+    {
+      "name": "Estadio Nou Camp",
+      "city": "León",
+      "ground_aliases": [
+        "Estadio Nou Camp, León"
+      ],
+      "latitude": 21.11555556,
+      "longitude": -101.65777778,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Estadio_Le%C3%B3n",
+      "coordinate_source_title": "Estadio León",
+      "match_score": 10,
+      "coordinate_status": "candidate"
+    },
+    {
+      "name": "Estadio Olímpico Universitario",
+      "city": "Mexico City",
+      "ground_aliases": [
+        "Estadio Olímpico Universitario, Mexico City"
+      ],
+      "latitude": 19.33194444,
+      "longitude": -99.19222222,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Estadio_Ol%C3%ADmpico_Universitario",
+      "coordinate_source_title": "Estadio Olímpico Universitario",
+      "match_score": 25,
+      "coordinate_status": "candidate"
+    },
+    {
+      "name": "Estadio Sergio León Chavez",
+      "city": "Irapuato",
+      "ground_aliases": [
+        "Estadio Sergio León Chavez, Irapuato"
+      ],
+      "latitude": 20.6845,
+      "longitude": -101.3563,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Estadio_Sergio_Le%C3%B3n_Ch%C3%A1vez",
+      "coordinate_source_title": "Estadio Sergio León Chávez",
+      "match_score": 35,
+      "coordinate_status": "candidate"
+    },
+    {
+      "name": "Estadio Tecnológico",
+      "city": "Monterrey",
+      "ground_aliases": [
+        "Estadio Tecnológico, Monterrey"
+      ],
+      "latitude": 25.65225,
+      "longitude": -100.286417,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Estadio_Tecnol%C3%B3gico",
+      "coordinate_source_title": "Estadio Tecnológico",
+      "match_score": 15,
+      "coordinate_status": "candidate"
+    },
+    {
+      "name": "Estadio Tres de Marzo",
+      "city": "Guadalajara",
+      "ground_aliases": [
+        "Estadio Tres de Marzo, Guadalajara"
+      ],
+      "latitude": 20.6937,
+      "longitude": -103.4163,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Universidad_Aut%C3%B3noma_de_Guadalajara",
+      "coordinate_source_title": "Universidad Autónoma de Guadalajara",
+      "match_score": 10,
+      "coordinate_status": "candidate"
+    },
+    {
+      "name": "Estadio Universitario",
+      "city": "Monterrey",
+      "ground_aliases": [
+        "Estadio Universitario, Monterrey"
+      ],
+      "latitude": 25.723,
+      "longitude": -100.312,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Estadio_Universitario_(UANL)",
+      "coordinate_source_title": "Estadio Universitario (UANL)",
+      "match_score": 10,
+      "coordinate_status": "candidate"
+    }
+  ]
+}

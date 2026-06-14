@@ -1,0 +1,144 @@
+{
+  "coverage": [
+    {
+      "year": 1954,
+      "expected_venues": 6,
+      "resolved_venues": 6,
+      "candidate_venues": 6,
+      "unresolved_grounds": []
+    },
+    {
+      "year": 1958,
+      "expected_venues": 12,
+      "resolved_venues": 12,
+      "candidate_venues": 12,
+      "unresolved_grounds": []
+    },
+    {
+      "year": 1962,
+      "expected_venues": 4,
+      "resolved_venues": 4,
+      "candidate_venues": 4,
+      "unresolved_grounds": []
+    },
+    {
+      "year": 1966,
+      "expected_venues": 8,
+      "resolved_venues": 8,
+      "candidate_venues": 8,
+      "unresolved_grounds": []
+    },
+    {
+      "year": 1970,
+      "expected_venues": 5,
+      "resolved_venues": 5,
+      "candidate_venues": 5,
+      "unresolved_grounds": []
+    },
+    {
+      "year": 1974,
+      "expected_venues": 9,
+      "resolved_venues": 9,
+      "candidate_venues": 9,
+      "unresolved_grounds": []
+    },
+    {
+      "year": 1978,
+      "expected_venues": 8,
+      "resolved_venues": 8,
+      "candidate_venues": 8,
+      "unresolved_grounds": []
+    },
+    {
+      "year": 1982,
+      "expected_venues": 18,
+      "resolved_venues": 18,
+      "candidate_venues": 16,
+      "unresolved_grounds": []
+    },
+    {
+      "year": 1986,
+      "expected_venues": 12,
+      "resolved_venues": 12,
+      "candidate_venues": 12,
+      "unresolved_grounds": []
+    },
+    {
+      "year": 1990,
+      "expected_venues": 14,
+      "resolved_venues": 14,
+      "candidate_venues": 13,
+      "unresolved_grounds": []
+    },
+    {
+      "year": 1994,
+      "expected_venues": 9,
+      "resolved_venues": 9,
+      "candidate_venues": 9,
+      "unresolved_grounds": []
+    },
+    {
+      "year": 1998,
+      "expected_venues": 10,
+      "resolved_venues": 6,
+      "candidate_venues": 0,
+      "unresolved_grounds": [
+        "Stade Félix Bollaert, Lens",
+        "Stade Gerland, Lyon",
+        "Stade de Toulouse, Toulouse",
+        "Stade de la Beaujoire, Nantes"
+      ]
+    },
+    {
+      "year": 2002,
+      "expected_venues": 20,
+      "resolved_venues": 20,
+      "candidate_venues": 20,
+      "unresolved_grounds": []
+    },
+    {
+      "year": 2006,
+      "expected_venues": 12,
+      "resolved_venues": 12,
+      "candidate_venues": 0,
+      "unresolved_grounds": []
+    },
+    {
+      "year": 2010,
+      "expected_venues": 10,
+      "resolved_venues": 10,
+      "candidate_venues": 0,
+      "unresolved_grounds": []
+    },
+    {
+      "year": 2014,
+      "expected_venues": 12,
+      "resolved_venues": 12,
+      "candidate_venues": 0,
+      "unresolved_grounds": []
+    },
+    {
+      "year": 2018,
+      "expected_venues": 13,
+      "resolved_venues": 8,
+      "candidate_venues": 0,
+      "unresolved_grounds": [
+        "Ekaterinburg Arena, Ekaterinburg",
+        "Fisht Stadium, Sochi",
+        "Saint Petersburg Stadium, Saint Petersburg",
+        "Saint Petersburg Stadium, St. Petersburg",
+        "Spartak Stadium, Moscow"
+      ]
+    },
+    {
+      "year": 2022,
+      "expected_venues": 8,
+      "resolved_venues": 7,
+      "candidate_venues": 0,
+      "unresolved_grounds": [
+        "Lusail Iconic Stadium, Lusail"
+      ]
+    }
+  ],
+  "latest_run_failures": []
+}

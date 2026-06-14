@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//world-cup-ics//Complete FIFA World Cup History//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:FIFA World Cup History
+X-WR-CALNAME:FIFA World Cup Complete
 X-WR-CALDESC:Validated FIFA World Cup finals fixtures and results
 BEGIN:VEVENT
 UID:wc1930-match-001@world-cup-ics
@@ -16,9 +16,9 @@ GEO:-34.905000;-56.156111
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Pocitos, Montevide
  o";X-APPLE-RADIUS=100;X-TITLE="Estadio Pocitos, Montevideo":geo:-34.905000
  ,-56.156111
-DESCRIPTION:Group 1 | Matchday 1\nFrance 4-1 Mexico\nHT: 3-0\nGoals:\nFRA 
- 🇫🇷: L. Laurent 19'\, Langiller 40'\, Maschinot 43'\, Maschinot 87'\n
- MEX 🇲🇽: Carreño 70'
+DESCRIPTION:Group 1 | Matchday 1 | 1930 FIFA World Cup - Uruguay\nFrance 4-
+ 1 Mexico\nHT: 3-0\nGoals:\nFRA 🇫🇷: L. Laurent 19'\, Langiller 40'\, 
+ Maschinot 43'\, Maschinot 87'\nMEX 🇲🇽: Carreño 70'
 URL:https://www.fifa.com/en/match-centre/match/17/1/201/1096
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -35,8 +35,9 @@ GEO:-34.884373;-56.158800
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Parque Central, Mo
  ntevideo";X-APPLE-RADIUS=100;X-TITLE="Estadio Parque Central, Montevideo":
  geo:-34.884373,-56.158800
-DESCRIPTION:Group 4 | Matchday 1\nUSA 3-0 Belgium\nHT: 2-0\nGoals:\nUSA 
- 🇺🇸: McGhee 23'\, Florie 45'\, Patenaude 69'
+DESCRIPTION:Group 4 | Matchday 1 | 1930 FIFA World Cup - Uruguay\nUSA 3-0 B
+ elgium\nHT: 2-0\nGoals:\nUSA 🇺🇸: McGhee 23'\, Florie 45'\, Patenaude
+  69'
 URL:https://www.fifa.com/en/match-centre/match/17/1/201/1090
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -53,8 +54,9 @@ GEO:-34.884373;-56.158800
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Parque Central, Mo
  ntevideo";X-APPLE-RADIUS=100;X-TITLE="Estadio Parque Central, Montevideo":
  geo:-34.884373,-56.158800
-DESCRIPTION:Group 2 | Matchday 2\nYugoslavia 2-1 Brazil\nHT: 2-0\nGoals:\nY
- UG: Tirnanić 21'\, Bek 30'\nBRA 🇧🇷: Preguinho 62'
+DESCRIPTION:Group 2 | Matchday 2 | 1930 FIFA World Cup - Uruguay\nYugoslavi
+ a 2-1 Brazil\nHT: 2-0\nGoals:\nYUG: Tirnanić 21'\, Bek 30'\nBRA 🇧🇷:
+  Preguinho 62'
 URL:https://www.fifa.com/en/match-centre/match/17/1/201/1093
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -71,9 +73,9 @@ GEO:-34.905000;-56.156111
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Pocitos, Montevide
  o";X-APPLE-RADIUS=100;X-TITLE="Estadio Pocitos, Montevideo":geo:-34.905000
  ,-56.156111
-DESCRIPTION:Group 3 | Matchday 2\nRomania 3-1 Peru\nHT: 1-0\nGoals:\nROU 
- 🇷🇴: Deşu 1'\, Stanciu 79'\, Kovács 89'\nPER 🇵🇪: Souza Ferrei
- ra 75'
+DESCRIPTION:Group 3 | Matchday 2 | 1930 FIFA World Cup - Uruguay\nRomania 3
+ -1 Peru\nHT: 1-0\nGoals:\nROU 🇷🇴: Deşu 1'\, Stanciu 79'\, Kovács 8
+ 9'\nPER 🇵🇪: Souza Ferreira 75'
 URL:https://www.fifa.com/en/match-centre/match/17/1/201/1098
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -90,8 +92,8 @@ GEO:-34.884373;-56.158800
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Parque Central, Mo
  ntevideo";X-APPLE-RADIUS=100;X-TITLE="Estadio Parque Central, Montevideo":
  geo:-34.884373,-56.158800
-DESCRIPTION:Group 1 | Matchday 3\nArgentina 1-0 France\nHT: 0-0\nGoals:\nAR
- G 🇦🇷: Monti 81'
+DESCRIPTION:Group 1 | Matchday 3 | 1930 FIFA World Cup - Uruguay\nArgentina
+  1-0 France\nHT: 0-0\nGoals:\nARG 🇦🇷: Monti 81'
 URL:https://www.fifa.com/en/match-centre/match/17/1/201/1085
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -108,8 +110,9 @@ GEO:-34.884373;-56.158800
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Parque Central, Mo
  ntevideo";X-APPLE-RADIUS=100;X-TITLE="Estadio Parque Central, Montevideo":
  geo:-34.884373,-56.158800
-DESCRIPTION:Group 1 | Matchday 4\nChile 3-0 Mexico\nHT: 1-0\nGoals:\nCHI 
- 🇨🇱: Vidal 3'\, Vidal 65'\, M. Rosas 51' og
+DESCRIPTION:Group 1 | Matchday 4 | 1930 FIFA World Cup - Uruguay\nChile 3-0
+  Mexico\nHT: 1-0\nGoals:\nCHI 🇨🇱: Vidal 3'\, Vidal 65'\, M. Rosas 51
+ ' og
 URL:https://www.fifa.com/en/match-centre/match/17/1/201/1095
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -126,8 +129,9 @@ GEO:-34.884373;-56.158800
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Parque Central, Mo
  ntevideo";X-APPLE-RADIUS=100;X-TITLE="Estadio Parque Central, Montevideo":
  geo:-34.884373,-56.158800
-DESCRIPTION:Group 2 | Matchday 5\nYugoslavia 4-0 Bolivia\nHT: 0-0\nGoals:\n
- YUG: Bek 60'\, Bek 67'\, Marjanović 65'\, Vujadinović 85'
+DESCRIPTION:Group 2 | Matchday 5 | 1930 FIFA World Cup - Uruguay\nYugoslavi
+ a 4-0 Bolivia\nHT: 0-0\nGoals:\nYUG: Bek 60'\, Bek 67'\, Marjanović 65'\,
+  Vujadinović 85'
 URL:https://www.fifa.com/en/match-centre/match/17/1/201/1092
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -144,8 +148,9 @@ GEO:-34.884373;-56.158800
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Parque Central, Mo
  ntevideo";X-APPLE-RADIUS=100;X-TITLE="Estadio Parque Central, Montevideo":
  geo:-34.884373,-56.158800
-DESCRIPTION:Group 4 | Matchday 5\nUSA 3-0 Paraguay\nHT: 2-0\nGoals:\nUSA 
- 🇺🇸: Patenaude 10'\, Patenaude 15'\, Patenaude 50'
+DESCRIPTION:Group 4 | Matchday 5 | 1930 FIFA World Cup - Uruguay\nUSA 3-0 P
+ araguay\nHT: 2-0\nGoals:\nUSA 🇺🇸: Patenaude 10'\, Patenaude 15'\, Pa
+ tenaude 50'
 URL:https://www.fifa.com/en/match-centre/match/17/1/201/1097
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -162,8 +167,8 @@ GEO:-34.894550;-56.152800
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Centenario, Montev
  ideo";X-APPLE-RADIUS=100;X-TITLE="Estadio Centenario, Montevideo":geo:-34.
  894550,-56.152800
-DESCRIPTION:Group 3 | Matchday 6\nUruguay 1-0 Peru\nHT: 0-0\nGoals:\nURU 
- 🇺🇾: Castro 60'
+DESCRIPTION:Group 3 | Matchday 6 | 1930 FIFA World Cup - Uruguay\nUruguay 1
+ -0 Peru\nHT: 0-0\nGoals:\nURU 🇺🇾: Castro 60'
 URL:https://www.fifa.com/en/match-centre/match/17/1/201/1099
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -180,8 +185,8 @@ GEO:-34.894550;-56.152800
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Centenario, Montev
  ideo";X-APPLE-RADIUS=100;X-TITLE="Estadio Centenario, Montevideo":geo:-34.
  894550,-56.152800
-DESCRIPTION:Group 1 | Matchday 7\nChile 1-0 France\nHT: 0-0\nGoals:\nCHI 
- 🇨🇱: Subiabre 65'
+DESCRIPTION:Group 1 | Matchday 7 | 1930 FIFA World Cup - Uruguay\nChile 1-0
+  France\nHT: 0-0\nGoals:\nCHI 🇨🇱: Subiabre 65'
 URL:https://www.fifa.com/en/match-centre/match/17/1/201/1094
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -198,10 +203,10 @@ GEO:-34.894550;-56.152800
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Centenario, Montev
  ideo";X-APPLE-RADIUS=100;X-TITLE="Estadio Centenario, Montevideo":geo:-34.
  894550,-56.152800
-DESCRIPTION:Group 1 | Matchday 7\nArgentina 6-3 Mexico\nHT: 3-1\nGoals:\nAR
- G 🇦🇷: Stábile 8'\, Stábile 17'\, Stábile 80'\, Zumelzú 12'\, Zum
- elzú 55'\, Varallo 53'\nMEX 🇲🇽: M. Rosas 42' pen\, M. Rosas 65'\, G
- ayón 75'
+DESCRIPTION:Group 1 | Matchday 7 | 1930 FIFA World Cup - Uruguay\nArgentina
+  6-3 Mexico\nHT: 3-1\nGoals:\nARG 🇦🇷: Stábile 8'\, Stábile 17'\, S
+ tábile 80'\, Zumelzú 12'\, Zumelzú 55'\, Varallo 53'\nMEX 🇲🇽: M. 
+ Rosas 42' pen\, M. Rosas 65'\, Gayón 75'
 URL:https://www.fifa.com/en/match-centre/match/17/1/201/1086
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -218,8 +223,9 @@ GEO:-34.894550;-56.152800
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Centenario, Montev
  ideo";X-APPLE-RADIUS=100;X-TITLE="Estadio Centenario, Montevideo":geo:-34.
  894550,-56.152800
-DESCRIPTION:Group 2 | Matchday 8\nBrazil 4-0 Bolivia\nHT: 1-0\nGoals:\nBRA 
- 🇧🇷: Moderato 37'\, Moderato 73'\, Preguinho 57'\, Preguinho 83'
+DESCRIPTION:Group 2 | Matchday 8 | 1930 FIFA World Cup - Uruguay\nBrazil 4-
+ 0 Bolivia\nHT: 1-0\nGoals:\nBRA 🇧🇷: Moderato 37'\, Moderato 73'\, Pr
+ eguinho 57'\, Preguinho 83'
 URL:https://www.fifa.com/en/match-centre/match/17/1/201/1091
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -236,8 +242,8 @@ GEO:-34.894550;-56.152800
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Centenario, Montev
  ideo";X-APPLE-RADIUS=100;X-TITLE="Estadio Centenario, Montevideo":geo:-34.
  894550,-56.152800
-DESCRIPTION:Group 4 | Matchday 8\nParaguay 1-0 Belgium\nHT: 1-0\nGoals:\nPA
- R 🇵🇾: Vargas Peña 40'
+DESCRIPTION:Group 4 | Matchday 8 | 1930 FIFA World Cup - Uruguay\nParaguay 
+ 1-0 Belgium\nHT: 1-0\nGoals:\nPAR 🇵🇾: Vargas Peña 40'
 URL:https://www.fifa.com/en/match-centre/match/17/1/201/1089
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -254,8 +260,9 @@ GEO:-34.894550;-56.152800
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Centenario, Montev
  ideo";X-APPLE-RADIUS=100;X-TITLE="Estadio Centenario, Montevideo":geo:-34.
  894550,-56.152800
-DESCRIPTION:Group 3 | Matchday 9\nUruguay 4-0 Romania\nHT: 4-0\nGoals:\nURU
-  🇺🇾: Dorado 7'\, Scarone 24'\, Anselmo 30'\, Cea 35'
+DESCRIPTION:Group 3 | Matchday 9 | 1930 FIFA World Cup - Uruguay\nUruguay 4
+ -0 Romania\nHT: 4-0\nGoals:\nURU 🇺🇾: Dorado 7'\, Scarone 24'\, Ansel
+ mo 30'\, Cea 35'
 URL:https://www.fifa.com/en/match-centre/match/17/1/201/1100
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -272,9 +279,9 @@ GEO:-34.894550;-56.152800
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Centenario, Montev
  ideo";X-APPLE-RADIUS=100;X-TITLE="Estadio Centenario, Montevideo":geo:-34.
  894550,-56.152800
-DESCRIPTION:Group 1 | Matchday 10\nArgentina 3-1 Chile\nHT: 2-1\nGoals:\nAR
- G 🇦🇷: Stábile 12'\, Stábile 13'\, M. Evaristo 81'\nCHI 🇨🇱: S
- ubiabre 15'
+DESCRIPTION:Group 1 | Matchday 10 | 1930 FIFA World Cup - Uruguay\nArgentin
+ a 3-1 Chile\nHT: 2-1\nGoals:\nARG 🇦🇷: Stábile 12'\, Stábile 13'\, 
+ M. Evaristo 81'\nCHI 🇨🇱: Subiabre 15'
 URL:https://www.fifa.com/en/match-centre/match/17/1/201/1084
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -291,9 +298,9 @@ GEO:-34.894550;-56.152800
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Centenario, Montev
  ideo";X-APPLE-RADIUS=100;X-TITLE="Estadio Centenario, Montevideo":geo:-34.
  894550,-56.152800
-DESCRIPTION:Semi-finals\nArgentina 6-1 USA\nHT: 1-0\nGoals:\nARG 🇦🇷: 
- Monti 20'\, Scopelli 56'\, Stábile 69'\, Stábile 87'\, Peucelle 80'\, Pe
- ucelle 85'\nUSA 🇺🇸: Brown 89'
+DESCRIPTION:Semi-finals | 1930 FIFA World Cup - Uruguay\nArgentina 6-1 USA\
+ nHT: 1-0\nGoals:\nARG 🇦🇷: Monti 20'\, Scopelli 56'\, Stábile 69'\, 
+ Stábile 87'\, Peucelle 80'\, Peucelle 85'\nUSA 🇺🇸: Brown 89'
 URL:https://www.fifa.com/en/match-centre/match/17/1/202/1088
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -310,9 +317,9 @@ GEO:-34.894550;-56.152800
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Centenario, Montev
  ideo";X-APPLE-RADIUS=100;X-TITLE="Estadio Centenario, Montevideo":geo:-34.
  894550,-56.152800
-DESCRIPTION:Semi-finals\nUruguay 6-1 Yugoslavia\nHT: 3-1\nGoals:\nURU 🇺
- 🇾: Cea 18'\, Cea 67'\, Cea 72'\, Anselmo 20'\, Anselmo 31'\, Iriarte 61
- '\nYUG: Vujadinović 4'
+DESCRIPTION:Semi-finals | 1930 FIFA World Cup - Uruguay\nUruguay 6-1 Yugosl
+ avia\nHT: 3-1\nGoals:\nURU 🇺🇾: Cea 18'\, Cea 67'\, Cea 72'\, Anselmo
+  20'\, Anselmo 31'\, Iriarte 61'\nYUG: Vujadinović 4'
 URL:https://www.fifa.com/en/match-centre/match/17/1/202/1101
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -329,9 +336,9 @@ GEO:-34.894550;-56.152800
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Centenario, Montev
  ideo";X-APPLE-RADIUS=100;X-TITLE="Estadio Centenario, Montevideo":geo:-34.
  894550,-56.152800
-DESCRIPTION:Final\nUruguay 4-2 Argentina\nHT: 1-2\nGoals:\nURU 🇺🇾: Do
- rado 12'\, Cea 57'\, Iriarte 68'\, Castro 89'\nARG 🇦🇷: Peucelle 20'\
- , Stábile 37'
+DESCRIPTION:Final | 1930 FIFA World Cup - Uruguay\nUruguay 4-2 Argentina\nH
+ T: 1-2\nGoals:\nURU 🇺🇾: Dorado 12'\, Cea 57'\, Iriarte 68'\, Castro 
+ 89'\nARG 🇦🇷: Peucelle 20'\, Stábile 37'
 URL:https://www.fifa.com/en/match-centre/match/17/1/405/1087
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -348,9 +355,9 @@ GEO:44.492222;11.309722
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadio Littoriale, Bologna
  ";X-APPLE-RADIUS=100;X-TITLE="Stadio Littoriale, Bologna":geo:44.492222,11
  .309722
-DESCRIPTION:Preliminary round\nSweden 3-2 Argentina\nHT: 1-1\nGoals:\nSWE 
- 🇸🇪: Jonasson 9'\, Jonasson 67'\, Kroon 79'\nARG 🇦🇷: Belis 4'\,
-  Galateo 48'
+DESCRIPTION:Preliminary round | 1934 FIFA World Cup - Italy\nSweden 3-2 Arg
+ entina\nHT: 1-1\nGoals:\nSWE 🇸🇪: Jonasson 9'\, Jonasson 67'\, Kroon 
+ 79'\nARG 🇦🇷: Belis 4'\, Galateo 48'
 URL:https://www.fifa.com/en/match-centre/match/17/3/204/1102
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -367,9 +374,9 @@ GEO:45.041667;7.650000
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadio Benito Mussolini, T
  urin";X-APPLE-RADIUS=100;X-TITLE="Stadio Benito Mussolini, Turin":geo:45.0
  41667,7.650000
-DESCRIPTION:Preliminary round\nAustria 3-2 France\nHT: 1-1\nFT: 1-1\nAET: 3
- -2\nGoals:\nAUT 🇦🇹: Sindelar 44'\, Schall 93'\, Bican 109'\nFRA 🇫
- 🇷: Nicolas 18'\, Verriest 116' pen
+DESCRIPTION:Preliminary round | 1934 FIFA World Cup - Italy\nAustria 3-2 Fr
+ ance\nHT: 1-1\nFT: 1-1\nAET: 3-2\nGoals:\nAUT 🇦🇹: Sindelar 44'\, Sch
+ all 93'\, Bican 109'\nFRA 🇫🇷: Nicolas 18'\, Verriest 116' pen
 URL:https://www.fifa.com/en/match-centre/match/17/3/204/1104
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -386,9 +393,9 @@ GEO:43.780833;11.282222
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadio Giovanni Berta, Flo
  rence";X-APPLE-RADIUS=100;X-TITLE="Stadio Giovanni Berta, Florence":geo:43
  .780833,11.282222
-DESCRIPTION:Preliminary round\nGermany 5-2 Belgium\nHT: 1-2\nGoals:\nGER 
- 🇩🇪: Kobierski 25'\, Siffling 49'\, Conen 66'\, Conen 70'\, Conen 87'
- \nBEL 🇧🇪: Voorhoof 29'\, Voorhoof 43'
+DESCRIPTION:Preliminary round | 1934 FIFA World Cup - Italy\nGermany 5-2 Be
+ lgium\nHT: 1-2\nGoals:\nGER 🇩🇪: Kobierski 25'\, Siffling 49'\, Conen
+  66'\, Conen 70'\, Conen 87'\nBEL 🇧🇪: Voorhoof 29'\, Voorhoof 43'
 URL:https://www.fifa.com/en/match-centre/match/17/3/204/1108
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -405,9 +412,9 @@ GEO:44.416389;8.952500
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadio Luigi Ferraris, Gen
  oa";X-APPLE-RADIUS=100;X-TITLE="Stadio Luigi Ferraris, Genoa":geo:44.41638
  9,8.952500
-DESCRIPTION:Preliminary round\nSpain 3-1 Brazil\nHT: 3-0\nGoals:\nESP 🇪
- 🇸: Iraragorri 18' pen\, Iraragorri 25'\, Lángara 29'\nBRA 🇧🇷: Le
- ônidas 55'
+DESCRIPTION:Preliminary round | 1934 FIFA World Cup - Italy\nSpain 3-1 Braz
+ il\nHT: 3-0\nGoals:\nESP 🇪🇸: Iraragorri 18' pen\, Iraragorri 25'\, L
+ ángara 29'\nBRA 🇧🇷: Leônidas 55'
 URL:https://www.fifa.com/en/match-centre/match/17/3/204/1111
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -424,9 +431,9 @@ GEO:40.859722;14.293333
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadio Giorgio Ascarelli, 
  Naples";X-APPLE-RADIUS=100;X-TITLE="Stadio Giorgio Ascarelli, Naples":geo:
  40.859722,14.293333
-DESCRIPTION:Preliminary round\nHungary 4-2 Egypt\nHT: 2-2\nGoals:\nHUN 🇭
- 🇺: Teleki 11'\, Toldi 27'\, Toldi 61'\, Vincze 53'\nEGY 🇪🇬: Fawzi
-  31'\, Fawzi 39'
+DESCRIPTION:Preliminary round | 1934 FIFA World Cup - Italy\nHungary 4-2 Eg
+ ypt\nHT: 2-2\nGoals:\nHUN 🇭🇺: Teleki 11'\, Toldi 27'\, Toldi 61'\, V
+ incze 53'\nEGY 🇪🇬: Fawzi 31'\, Fawzi 39'
 URL:https://www.fifa.com/en/match-centre/match/17/3/204/1119
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -442,9 +449,9 @@ LOCATION:Stadio San Siro\, Milan
 GEO:45.478056;9.123889
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadio San Siro, Milan";X-
  APPLE-RADIUS=100;X-TITLE="Stadio San Siro, Milan":geo:45.478056,9.123889
-DESCRIPTION:Preliminary round\nSwitzerland 3-2 Netherlands\nHT: 2-1\nGoals:
- \nSUI 🇨🇭: Kielholz 7'\, Kielholz 43'\, Abegglen 69'\nNED 🇳🇱: S
- mit 19'\, Vente 84'
+DESCRIPTION:Preliminary round | 1934 FIFA World Cup - Italy\nSwitzerland 3-
+ 2 Netherlands\nHT: 2-1\nGoals:\nSUI 🇨🇭: Kielholz 7'\, Kielholz 43'\,
+  Abegglen 69'\nNED 🇳🇱: Smit 19'\, Vente 84'
 URL:https://www.fifa.com/en/match-centre/match/17/3/204/1133
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -461,9 +468,10 @@ GEO:41.927222;12.472222
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadio Nazionale PNF, Rome
  ";X-APPLE-RADIUS=100;X-TITLE="Stadio Nazionale PNF, Rome":geo:41.927222,12
  .472222
-DESCRIPTION:Preliminary round\nItaly 7-1 USA\nHT: 3-0\nGoals:\nITA 🇮🇹
- : Schiavio 18'\, Schiavio 29'\, Schiavio 64'\, Orsi 20'\, Orsi 69'\, Ferra
- ri 63'\, Meazza 90'\nUSA 🇺🇸: Donelli 57'
+DESCRIPTION:Preliminary round | 1934 FIFA World Cup - Italy\nItaly 7-1 USA\
+ nHT: 3-0\nGoals:\nITA 🇮🇹: Schiavio 18'\, Schiavio 29'\, Schiavio 64'
+ \, Orsi 20'\, Orsi 69'\, Ferrari 63'\, Meazza 90'\nUSA 🇺🇸: Donelli 5
+ 7'
 URL:https://www.fifa.com/en/match-centre/match/17/3/204/1135
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -480,8 +488,9 @@ GEO:45.623889;13.794167
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadio Littorio, Trieste";
  X-APPLE-RADIUS=100;X-TITLE="Stadio Littorio, Trieste":geo:45.623889,13.794
  167
-DESCRIPTION:Preliminary round\nCzechoslovakia 2-1 Romania\nHT: 0-1\nGoals:\
- nTCH 🇨🇿: Puč 50'\, Nejedlý 67'\nROU 🇷🇴: Dobay 11'
+DESCRIPTION:Preliminary round | 1934 FIFA World Cup - Italy\nCzechoslovakia
+  2-1 Romania\nHT: 0-1\nGoals:\nTCH 🇨🇿: Puč 50'\, Nejedlý 67'\nROU 
+ 🇷🇴: Dobay 11'
 URL:https://www.fifa.com/en/match-centre/match/17/3/204/1141
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -498,9 +507,9 @@ GEO:45.041667;7.650000
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadio Benito Mussolini, T
  urin";X-APPLE-RADIUS=100;X-TITLE="Stadio Benito Mussolini, Turin":geo:45.0
  41667,7.650000
-DESCRIPTION:Quarter-finals\nCzechoslovakia 3-2 Switzerland\nHT: 1-1\nGoals:
- \nTCH 🇨🇿: Svoboda 24'\, Sobotka 49'\, Nejedlý 82'\nSUI 🇨🇭: Ki
- elholz 18'\, Jäggi 78'
+DESCRIPTION:Quarter-finals | 1934 FIFA World Cup - Italy\nCzechoslovakia 3-
+ 2 Switzerland\nHT: 1-1\nGoals:\nTCH 🇨🇿: Svoboda 24'\, Sobotka 49'\, 
+ Nejedlý 82'\nSUI 🇨🇭: Kielholz 18'\, Jäggi 78'
 URL:https://www.fifa.com/en/match-centre/match/17/3/418/1143
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -516,8 +525,9 @@ LOCATION:Stadio San Siro\, Milan
 GEO:45.478056;9.123889
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadio San Siro, Milan";X-
  APPLE-RADIUS=100;X-TITLE="Stadio San Siro, Milan":geo:45.478056,9.123889
-DESCRIPTION:Quarter-finals\nGermany 2-1 Sweden\nHT: 0-0\nGoals:\nGER 🇩
- 🇪: Hohmann 60'\, Hohmann 63'\nSWE 🇸🇪: Dunker 82'
+DESCRIPTION:Quarter-finals | 1934 FIFA World Cup - Italy\nGermany 2-1 Swede
+ n\nHT: 0-0\nGoals:\nGER 🇩🇪: Hohmann 60'\, Hohmann 63'\nSWE 🇸🇪:
+  Dunker 82'
 URL:https://www.fifa.com/en/match-centre/match/17/3/418/1129
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -534,8 +544,9 @@ GEO:43.780833;11.282222
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadio Giovanni Berta, Flo
  rence";X-APPLE-RADIUS=100;X-TITLE="Stadio Giovanni Berta, Florence":geo:43
  .780833,11.282222
-DESCRIPTION:Quarter-finals\nItaly 1-1 Spain\nHT: 1-1\nFT: 1-1\nAET: 1-1\nGo
- als:\nITA 🇮🇹: Ferrari 44'\nESP 🇪🇸: Regueiro 30'
+DESCRIPTION:Quarter-finals | 1934 FIFA World Cup - Italy\nItaly 1-1 Spain\n
+ HT: 1-1\nFT: 1-1\nAET: 1-1\nGoals:\nITA 🇮🇹: Ferrari 44'\nESP 🇪
+ 🇸: Regueiro 30'
 URL:https://www.fifa.com/en/match-centre/match/17/3/418/1122
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -552,8 +563,9 @@ GEO:44.492222;11.309722
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadio Littoriale, Bologna
  ";X-APPLE-RADIUS=100;X-TITLE="Stadio Littoriale, Bologna":geo:44.492222,11
  .309722
-DESCRIPTION:Quarter-finals\nAustria 2-1 Hungary\nHT: 1-0\nGoals:\nAUT 🇦
- 🇹: Horvath 8'\, Zischek 51'\nHUN 🇭🇺: Sárosi 60' pen
+DESCRIPTION:Quarter-finals | 1934 FIFA World Cup - Italy\nAustria 2-1 Hunga
+ ry\nHT: 1-0\nGoals:\nAUT 🇦🇹: Horvath 8'\, Zischek 51'\nHUN 🇭🇺:
+  Sárosi 60' pen
 URL:https://www.fifa.com/en/match-centre/match/17/3/418/1106
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -570,8 +582,8 @@ GEO:43.780833;11.282222
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadio Giovanni Berta, Flo
  rence";X-APPLE-RADIUS=100;X-TITLE="Stadio Giovanni Berta, Florence":geo:43
  .780833,11.282222
-DESCRIPTION:Quarter-finals\, Replays\nItaly 1-0 Spain\nHT: 1-0\nGoals:\nITA
-  🇮🇹: Meazza 11'
+DESCRIPTION:Quarter-finals\, Replays | 1934 FIFA World Cup - Italy\nItaly 1
+ -0 Spain\nHT: 1-0\nGoals:\nITA 🇮🇹: Meazza 11'
 URL:https://www.fifa.com/en/match-centre/match/17/3/418/1123
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -587,8 +599,8 @@ LOCATION:Stadio San Siro\, Milan
 GEO:45.478056;9.123889
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadio San Siro, Milan";X-
  APPLE-RADIUS=100;X-TITLE="Stadio San Siro, Milan":geo:45.478056,9.123889
-DESCRIPTION:Semi-finals\nItaly 1-0 Austria\nHT: 1-0\nGoals:\nITA 🇮🇹: 
- Guaita 19'
+DESCRIPTION:Semi-finals | 1934 FIFA World Cup - Italy\nItaly 1-0 Austria\nH
+ T: 1-0\nGoals:\nITA 🇮🇹: Guaita 19'
 URL:https://www.fifa.com/en/match-centre/match/17/3/3492/1107
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -605,9 +617,9 @@ GEO:41.927222;12.472222
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadio Nazionale PNF, Rome
  ";X-APPLE-RADIUS=100;X-TITLE="Stadio Nazionale PNF, Rome":geo:41.927222,12
  .472222
-DESCRIPTION:Semi-finals\nCzechoslovakia 3-1 Germany\nHT: 1-0\nGoals:\nTCH 
- 🇨🇿: Nejedlý 19'\, Nejedlý 71'\, Nejedlý 80'\nGER 🇩🇪: Noack 
- 62'
+DESCRIPTION:Semi-finals | 1934 FIFA World Cup - Italy\nCzechoslovakia 3-1 G
+ ermany\nHT: 1-0\nGoals:\nTCH 🇨🇿: Nejedlý 19'\, Nejedlý 71'\, Nejed
+ lý 80'\nGER 🇩🇪: Noack 62'
 URL:https://www.fifa.com/en/match-centre/match/17/3/3492/1130
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -624,9 +636,9 @@ GEO:40.859722;14.293333
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadio Giorgio Ascarelli, 
  Naples";X-APPLE-RADIUS=100;X-TITLE="Stadio Giorgio Ascarelli, Naples":geo:
  40.859722,14.293333
-DESCRIPTION:Third-place match\nGermany 3-2 Austria\nHT: 3-1\nGoals:\nGER 
- 🇩🇪: Lehner 1'\, Lehner 42'\, Conen 27'\nAUT 🇦🇹: Horvath 28'\, 
- Sesta 54'
+DESCRIPTION:Third-place match | 1934 FIFA World Cup - Italy\nGermany 3-2 Au
+ stria\nHT: 3-1\nGoals:\nGER 🇩🇪: Lehner 1'\, Lehner 42'\, Conen 27'\n
+ AUT 🇦🇹: Horvath 28'\, Sesta 54'
 URL:https://www.fifa.com/en/match-centre/match/17/3/3491/1105
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -643,8 +655,9 @@ GEO:41.927222;12.472222
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadio Nazionale PNF, Rome
  ";X-APPLE-RADIUS=100;X-TITLE="Stadio Nazionale PNF, Rome":geo:41.927222,12
  .472222
-DESCRIPTION:Final\nItaly 2-1 Czechoslovakia\nHT: 0-0\nFT: 1-1\nAET: 2-1\nGo
- als:\nITA 🇮🇹: Orsi 81'\, Schiavio 95'\nTCH 🇨🇿: Puč 71'
+DESCRIPTION:Final | 1934 FIFA World Cup - Italy\nItaly 2-1 Czechoslovakia\n
+ HT: 0-0\nFT: 1-1\nAET: 2-1\nGoals:\nITA 🇮🇹: Orsi 81'\, Schiavio 95'\
+ nTCH 🇨🇿: Puč 71'
 URL:https://www.fifa.com/en/match-centre/match/17/3/3490/1134
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -660,8 +673,9 @@ LOCATION:Parc des Princes\, Paris
 GEO:48.841363;2.253069
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Parc des Princes, Paris";X
  -APPLE-RADIUS=100;X-TITLE="Parc des Princes, Paris":geo:48.841363,2.253069
-DESCRIPTION:First round\nSwitzerland 1-1 Germany\nHT: 1-1\nFT: 1-1\nAET: 1-
- 1\nGoals:\nSUI 🇨🇭: Abegglen 43'\nGER 🇩🇪: Gauchel 29'
+DESCRIPTION:First round | 1938 FIFA World Cup - France\nSwitzerland 1-1 Ger
+ many\nHT: 1-1\nFT: 1-1\nAET: 1-1\nGoals:\nSUI 🇨🇭: Abegglen 43'\nGER 
+ 🇩🇪: Gauchel 29'
 URL:https://www.fifa.com/en/match-centre/match/17/5/206/1165
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -678,9 +692,9 @@ GEO:49.246667;4.025000
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Vélodrome Municipal, Reim
  s";X-APPLE-RADIUS=100;X-TITLE="Vélodrome Municipal, Reims":geo:49.246667,
  4.025000
-DESCRIPTION:First round\nHungary 6-0 Dutch East Indies\nHT: 4-0\nGoals:\nHU
- N 🇭🇺: Kohut 14'\, Toldi 16'\, Sárosi 25'\, Sárosi 88'\, Zsengellé
- r 30'\, Zsengellér 67'
+DESCRIPTION:First round | 1938 FIFA World Cup - France\nHungary 6-0 Dutch E
+ ast Indies\nHT: 4-0\nGoals:\nHUN 🇭🇺: Kohut 14'\, Toldi 16'\, Sárosi
+  25'\, Sárosi 88'\, Zsengellér 30'\, Zsengellér 67'
 URL:https://www.fifa.com/en/match-centre/match/17/5/206/1173
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -697,8 +711,9 @@ GEO:48.929444;2.248056
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade Olympique de Colombe
  s, Paris";X-APPLE-RADIUS=100;X-TITLE="Stade Olympique de Colombes, Paris":
  geo:48.929444,2.248056
-DESCRIPTION:First round\nFrance 3-1 Belgium\nHT: 2-1\nGoals:\nFRA 🇫🇷:
-  Veinante 1'\, Nicolas 16'\, Nicolas 69'\nBEL 🇧🇪: Isemborghs 38'
+DESCRIPTION:First round | 1938 FIFA World Cup - France\nFrance 3-1 Belgium\
+ nHT: 2-1\nGoals:\nFRA 🇫🇷: Veinante 1'\, Nicolas 16'\, Nicolas 69'\nB
+ EL 🇧🇪: Isemborghs 38'
 URL:https://www.fifa.com/en/match-centre/match/17/5/206/1146
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -714,9 +729,9 @@ LOCATION:Stade Chapou\, Toulouse
 GEO:43.608611;1.419167
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade Chapou, Toulouse";X-
  APPLE-RADIUS=100;X-TITLE="Stade Chapou, Toulouse":geo:43.608611,1.419167
-DESCRIPTION:First round\nCuba 3-3 Romania\nHT: 1-1\nFT: 2-2\nAET: 3-3\nGoal
- s:\nCUB 🇨🇺: Socorro 44'\, Fernández 87'\, Tuñas 117'\nROU 🇷🇴
- : Bindea 35'\, Baratky 88'\, Dobay 105'
+DESCRIPTION:First round | 1938 FIFA World Cup - France\nCuba 3-3 Romania\nH
+ T: 1-1\nFT: 2-2\nAET: 3-3\nGoals:\nCUB 🇨🇺: Socorro 44'\, Fernández 
+ 87'\, Tuñas 117'\nROU 🇷🇴: Bindea 35'\, Baratky 88'\, Dobay 105'
 URL:https://www.fifa.com/en/match-centre/match/17/5/206/1156
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -733,8 +748,9 @@ GEO:43.269722;5.395833
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade Vélodrome, Marseill
  e";X-APPLE-RADIUS=100;X-TITLE="Stade Vélodrome, Marseille":geo:43.269722,
  5.395833
-DESCRIPTION:First round\nItaly 2-1 Norway\nHT: 1-0\nFT: 1-1\nAET: 2-1\nGoal
- s:\nITA 🇮🇹: Ferraris 2'\, Piola 94'\nNOR 🇳🇴: Brustad 83'
+DESCRIPTION:First round | 1938 FIFA World Cup - France\nItaly 2-1 Norway\nH
+ T: 1-0\nFT: 1-1\nAET: 2-1\nGoals:\nITA 🇮🇹: Ferraris 2'\, Piola 94'\n
+ NOR 🇳🇴: Brustad 83'
 URL:https://www.fifa.com/en/match-centre/match/17/5/206/1179
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -751,10 +767,11 @@ GEO:48.560000;7.755000
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade de la Meinau, Strasb
  ourg";X-APPLE-RADIUS=100;X-TITLE="Stade de la Meinau, Strasbourg":geo:48.5
  60000,7.755000
-DESCRIPTION:First round\nBrazil 6-5 Poland\nHT: 3-1\nFT: 4-4\nAET: 6-5\nGoa
- ls:\nBRA 🇧🇷: Leônidas 18'\, Leônidas 93'\, Leônidas 104'\, Romeu 
- 25'\, Perácio 44'\, Perácio 71'\nPOL 🇵🇱: Scherfke 23' pen\, Wilimo
- wski 53'\, Wilimowski 59'\, Wilimowski 89'\, Wilimowski 118'
+DESCRIPTION:First round | 1938 FIFA World Cup - France\nBrazil 6-5 Poland\n
+ HT: 3-1\nFT: 4-4\nAET: 6-5\nGoals:\nBRA 🇧🇷: Leônidas 18'\, Leônida
+ s 93'\, Leônidas 104'\, Romeu 25'\, Perácio 44'\, Perácio 71'\nPOL 🇵
+ 🇱: Scherfke 23' pen\, Wilimowski 53'\, Wilimowski 59'\, Wilimowski 89'\
+ , Wilimowski 118'
 URL:https://www.fifa.com/en/match-centre/match/17/5/206/1150
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -771,9 +788,9 @@ GEO:49.501733;0.171100
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade municipal, Le Havre"
  ;X-APPLE-RADIUS=100;X-TITLE="Stade municipal, Le Havre":geo:49.501733,0.17
  1100
-DESCRIPTION:First round\nCzechoslovakia 3-0 Netherlands\nHT: 0-0\nFT: 0-0\n
- AET: 3-0\nGoals:\nTCH 🇨🇿: Košťálek 93'\, Nejedlý 111'\, Zeman 11
- 8'
+DESCRIPTION:First round | 1938 FIFA World Cup - France\nCzechoslovakia 3-0 
+ Netherlands\nHT: 0-0\nFT: 0-0\nAET: 3-0\nGoals:\nTCH 🇨🇿: Košťálek
+  93'\, Nejedlý 111'\, Zeman 118'
 URL:https://www.fifa.com/en/match-centre/match/17/5/206/1172
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -789,8 +806,9 @@ LOCATION:Stade Chapou\, Toulouse
 GEO:43.608611;1.419167
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade Chapou, Toulouse";X-
  APPLE-RADIUS=100;X-TITLE="Stade Chapou, Toulouse":geo:43.608611,1.419167
-DESCRIPTION:First round\, Replays\nCuba 2-1 Romania\nHT: 0-1\nGoals:\nCUB 
- 🇨🇺: Socorro 51'\, Oliveira 57'\nROU 🇷🇴: Dobay 35'
+DESCRIPTION:First round\, Replays | 1938 FIFA World Cup - France\nCuba 2-1 
+ Romania\nHT: 0-1\nGoals:\nCUB 🇨🇺: Socorro 51'\, Oliveira 57'\nROU 
+ 🇷🇴: Dobay 35'
 URL:https://www.fifa.com/en/match-centre/match/17/5/206/1157
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -806,9 +824,10 @@ LOCATION:Parc des Princes\, Paris
 GEO:48.841363;2.253069
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Parc des Princes, Paris";X
  -APPLE-RADIUS=100;X-TITLE="Parc des Princes, Paris":geo:48.841363,2.253069
-DESCRIPTION:First round\, Replays\nGermany 2-4 Switzerland\nHT: 2-1\nGoals:
- \nGER 🇩🇪: Hahnemann 8'\, Lörtscher 22' og\nSUI 🇨🇭: Walaschek 
- 42'\, Bickel 64'\, Abegglen 75'\, Abegglen 78'
+DESCRIPTION:First round\, Replays | 1938 FIFA World Cup - France\nGermany 2
+ -4 Switzerland\nHT: 2-1\nGoals:\nGER 🇩🇪: Hahnemann 8'\, Lörtscher 2
+ 2' og\nSUI 🇨🇭: Walaschek 42'\, Bickel 64'\, Abegglen 75'\, Abegglen 
+ 78'
 URL:https://www.fifa.com/en/match-centre/match/17/5/206/1166
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -824,9 +843,9 @@ LOCATION:Parc Lescure\, Bordeaux
 GEO:44.829170;-0.598333
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Parc Lescure, Bordeaux";X-
  APPLE-RADIUS=100;X-TITLE="Parc Lescure, Bordeaux":geo:44.829170,-0.598333
-DESCRIPTION:Quarter-finals\nBrazil 1-1 Czechoslovakia\nHT: 1-0\nFT: 1-1\nAE
- T: 1-1\nGoals:\nBRA 🇧🇷: Leônidas 30'\nTCH 🇨🇿: Nejedlý 65' pe
- n
+DESCRIPTION:Quarter-finals | 1938 FIFA World Cup - France\nBrazil 1-1 Czech
+ oslovakia\nHT: 1-0\nFT: 1-1\nAET: 1-1\nGoals:\nBRA 🇧🇷: Leônidas 30'
+ \nTCH 🇨🇿: Nejedlý 65' pen
 URL:https://www.fifa.com/en/match-centre/match/17/5/429/1152
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -843,8 +862,8 @@ GEO:50.637500;3.036111
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade Victor Boucquey, Lil
  le";X-APPLE-RADIUS=100;X-TITLE="Stade Victor Boucquey, Lille":geo:50.63750
  0,3.036111
-DESCRIPTION:Quarter-finals\nSwitzerland 0-2 Hungary\nHT: 0-1\nGoals:\nHUN 
- 🇭🇺: Sárosi 40'\, Zsengellér 89'
+DESCRIPTION:Quarter-finals | 1938 FIFA World Cup - France\nSwitzerland 0-2 
+ Hungary\nHT: 0-1\nGoals:\nHUN 🇭🇺: Sárosi 40'\, Zsengellér 89'
 URL:https://www.fifa.com/en/match-centre/match/17/5/429/1175
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -861,9 +880,10 @@ GEO:43.590861;7.125600
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade du Fort Carré, Anti
  bes";X-APPLE-RADIUS=100;X-TITLE="Stade du Fort Carré, Antibes":geo:43.590
  861,7.125600
-DESCRIPTION:Quarter-finals\nSweden 8-0 Cuba\nHT: 4-0\nGoals:\nSWE 🇸🇪:
-  H. Andersson 9'\, H. Andersson 81'\, H. Andersson 90'\, Wetterström 32'\
- , Wetterström 37'\, Wetterström 44'\, Keller 80'\, Nyberg 84'
+DESCRIPTION:Quarter-finals | 1938 FIFA World Cup - France\nSweden 8-0 Cuba\
+ nHT: 4-0\nGoals:\nSWE 🇸🇪: H. Andersson 9'\, H. Andersson 81'\, H. An
+ dersson 90'\, Wetterström 32'\, Wetterström 37'\, Wetterström 44'\, Kel
+ ler 80'\, Nyberg 84'
 URL:https://www.fifa.com/en/match-centre/match/17/5/429/1158
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -880,8 +900,9 @@ GEO:48.929444;2.248056
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade Olympique de Colombe
  s, Paris";X-APPLE-RADIUS=100;X-TITLE="Stade Olympique de Colombes, Paris":
  geo:48.929444,2.248056
-DESCRIPTION:Quarter-finals\nFrance 1-3 Italy\nHT: 1-1\nGoals:\nFRA 🇫🇷
- : Heisserer 10'\nITA 🇮🇹: Colaussi 9'\, Piola 51'\, Piola 72'
+DESCRIPTION:Quarter-finals | 1938 FIFA World Cup - France\nFrance 1-3 Italy
+ \nHT: 1-1\nGoals:\nFRA 🇫🇷: Heisserer 10'\nITA 🇮🇹: Colaussi 9'\
+ , Piola 51'\, Piola 72'
 URL:https://www.fifa.com/en/match-centre/match/17/5/429/1164
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -897,9 +918,9 @@ LOCATION:Parc Lescure\, Bordeaux
 GEO:44.829170;-0.598333
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Parc Lescure, Bordeaux";X-
  APPLE-RADIUS=100;X-TITLE="Parc Lescure, Bordeaux":geo:44.829170,-0.598333
-DESCRIPTION:Quarter-finals\, Replays\nBrazil 2-1 Czechoslovakia\nHT: 0-1\nG
- oals:\nBRA 🇧🇷: Leônidas 57'\, Roberto 62'\nTCH 🇨🇿: Kopecký 2
- 5'
+DESCRIPTION:Quarter-finals\, Replays | 1938 FIFA World Cup - France\nBrazil
+  2-1 Czechoslovakia\nHT: 0-1\nGoals:\nBRA 🇧🇷: Leônidas 57'\, Robert
+ o 62'\nTCH 🇨🇿: Kopecký 25'
 URL:https://www.fifa.com/en/match-centre/match/17/5/429/1153
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -915,9 +936,9 @@ LOCATION:Parc des Princes\, Paris
 GEO:48.841363;2.253069
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Parc des Princes, Paris";X
  -APPLE-RADIUS=100;X-TITLE="Parc des Princes, Paris":geo:48.841363,2.253069
-DESCRIPTION:Semi-finals\nHungary 5-1 Sweden\nHT: 3-1\nGoals:\nHUN 🇭🇺:
-  Jacobsson 19' og\, Titkos 37'\, Zsengellér 39'\, Zsengellér 85'\, Sáro
- si 65'\nSWE 🇸🇪: Nyberg 1'
+DESCRIPTION:Semi-finals | 1938 FIFA World Cup - France\nHungary 5-1 Sweden\
+ nHT: 3-1\nGoals:\nHUN 🇭🇺: Jacobsson 19' og\, Titkos 37'\, Zsengellé
+ r 39'\, Zsengellér 85'\, Sárosi 65'\nSWE 🇸🇪: Nyberg 1'
 URL:https://www.fifa.com/en/match-centre/match/17/5/3489/1176
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -934,8 +955,9 @@ GEO:43.269722;5.395833
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade Vélodrome, Marseill
  e";X-APPLE-RADIUS=100;X-TITLE="Stade Vélodrome, Marseille":geo:43.269722,
  5.395833
-DESCRIPTION:Semi-finals\nItaly 2-1 Brazil\nHT: 0-0\nGoals:\nITA 🇮🇹: C
- olaussi 51'\, Meazza 60' pen\nBRA 🇧🇷: Romeu 87'
+DESCRIPTION:Semi-finals | 1938 FIFA World Cup - France\nItaly 2-1 Brazil\nH
+ T: 0-0\nGoals:\nITA 🇮🇹: Colaussi 51'\, Meazza 60' pen\nBRA 🇧🇷:
+  Romeu 87'
 URL:https://www.fifa.com/en/match-centre/match/17/5/3489/1149
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -951,9 +973,9 @@ LOCATION:Parc Lescure\, Bordeaux
 GEO:44.829170;-0.598333
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Parc Lescure, Bordeaux";X-
  APPLE-RADIUS=100;X-TITLE="Parc Lescure, Bordeaux":geo:44.829170,-0.598333
-DESCRIPTION:Match for third place\nSweden 2-4 Brazil\nHT: 2-1\nGoals:\nSWE 
- 🇸🇪: Jonasson 28'\, Nyberg 38'\nBRA 🇧🇷: Romeu 44'\, Leônidas 6
- 3'\, Leônidas 74'\, Perácio 80'
+DESCRIPTION:Match for third place | 1938 FIFA World Cup - France\nSweden 2-
+ 4 Brazil\nHT: 2-1\nGoals:\nSWE 🇸🇪: Jonasson 28'\, Nyberg 38'\nBRA 
+ 🇧🇷: Romeu 44'\, Leônidas 63'\, Leônidas 74'\, Perácio 80'
 URL:https://www.fifa.com/en/match-centre/match/17/5/3488/1151
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -970,9 +992,9 @@ GEO:48.929444;2.248056
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade Olympique de Colombe
  s, Paris";X-APPLE-RADIUS=100;X-TITLE="Stade Olympique de Colombes, Paris":
  geo:48.929444,2.248056
-DESCRIPTION:Final\nHungary 2-4 Italy\nHT: 1-3\nGoals:\nHUN 🇭🇺: Titkos
-  8'\, Sárosi 70'\nITA 🇮🇹: Colaussi 6'\, Colaussi 35'\, Piola 16'\, 
- Piola 82'
+DESCRIPTION:Final | 1938 FIFA World Cup - France\nHungary 2-4 Italy\nHT: 1-
+ 3\nGoals:\nHUN 🇭🇺: Titkos 8'\, Sárosi 70'\nITA 🇮🇹: Colaussi 6
+ '\, Colaussi 35'\, Piola 16'\, Piola 82'
 URL:https://www.fifa.com/en/match-centre/match/17/5/3487/1174
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -989,8 +1011,9 @@ GEO:-22.912167;-43.230164
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estádio do Maracanã, Rio
   de Janeiro";X-APPLE-RADIUS=100;X-TITLE="Estádio do Maracanã, Rio de Jan
  eiro":geo:-22.912167,-43.230164
-DESCRIPTION:Group 1 | First round\nBrazil 4-0 Mexico\nHT: 1-0\nGoals:\nBRA 
- 🇧🇷: Ademir 30'\, Ademir 79'\, Jair 65'\, Baltazar 71'
+DESCRIPTION:Group 1 | First round | 1950 FIFA World Cup - Brazil\nBrazil 4-
+ 0 Mexico\nHT: 1-0\nGoals:\nBRA 🇧🇷: Ademir 30'\, Ademir 79'\, Jair 65
+ '\, Baltazar 71'
 URL:https://www.fifa.com/en/match-centre/match/17/7/208/1187
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1007,8 +1030,9 @@ GEO:-22.912167;-43.230164
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estádio do Maracanã, Rio
   de Janeiro";X-APPLE-RADIUS=100;X-TITLE="Estádio do Maracanã, Rio de Jan
  eiro":geo:-22.912167,-43.230164
-DESCRIPTION:Group 2 | First round\nEngland 2-0 Chile\nGoals:\nENG 🏴󠁧
- 󠁢󠁥󠁮󠁧󠁿: Mortensen 27'\, Mannion 51'
+DESCRIPTION:Group 2 | First round | 1950 FIFA World Cup - Brazil\nEngland 2
+ -0 Chile\nGoals:\nENG 🏴󠁧󠁢󠁥󠁮󠁧󠁿: Mortensen 27'\, Mannio
+ n 51'
 URL:https://www.fifa.com/en/match-centre/match/17/7/208/1192
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1025,8 +1049,9 @@ GEO:-25.439444;-49.255833
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estádio Durival de Britto
  , Curitiba";X-APPLE-RADIUS=100;X-TITLE="Estádio Durival de Britto, Curiti
  ba":geo:-25.439444,-49.255833
-DESCRIPTION:Group 2 | First round\nSpain 3-1 USA\nGoals:\nESP 🇪🇸: Igo
- a 81'\, Basora 83'\, Zarra 89'\nUSA 🇺🇸: Pariani 17'
+DESCRIPTION:Group 2 | First round | 1950 FIFA World Cup - Brazil\nSpain 3-1
+  USA\nGoals:\nESP 🇪🇸: Igoa 81'\, Basora 83'\, Zarra 89'\nUSA 🇺
+ 🇸: Pariani 17'
 URL:https://www.fifa.com/en/match-centre/match/17/7/208/1208
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1043,9 +1068,9 @@ GEO:-23.548639;-46.665111
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estádio do Pacaembu, São
   Paulo";X-APPLE-RADIUS=100;X-TITLE="Estádio do Pacaembu, São Paulo":geo:
  -23.548639,-46.665111
-DESCRIPTION:Group 3 | First round\nSweden 3-2 Italy\nGoals:\nSWE 🇸🇪: 
- Jeppson 25'\, Jeppson 68'\, Andersson 33'\nITA 🇮🇹: Carapellese 7'\, 
- Muccinelli 75'
+DESCRIPTION:Group 3 | First round | 1950 FIFA World Cup - Brazil\nSweden 3-
+ 2 Italy\nGoals:\nSWE 🇸🇪: Jeppson 25'\, Jeppson 68'\, Andersson 33'\n
+ ITA 🇮🇹: Carapellese 7'\, Muccinelli 75'
 URL:https://www.fifa.com/en/match-centre/match/17/7/208/1219
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1062,8 +1087,9 @@ GEO:-19.908585;-43.917881
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estádio Independência, B
  elo Horizonte";X-APPLE-RADIUS=100;X-TITLE="Estádio Independência, Belo H
  orizonte":geo:-19.908585,-43.917881
-DESCRIPTION:Group 1 | First round\nYugoslavia 3-0 Switzerland\nHT: 0-0\nGoa
- ls:\nYUG: Mitić 59'\, Tomašević 70'\, Ognjanov 75'
+DESCRIPTION:Group 1 | First round | 1950 FIFA World Cup - Brazil\nYugoslavi
+ a 3-0 Switzerland\nHT: 0-0\nGoals:\nYUG: Mitić 59'\, Tomašević 70'\, Og
+ njanov 75'
 URL:https://www.fifa.com/en/match-centre/match/17/7/208/1230
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1080,9 +1106,9 @@ GEO:-23.548639;-46.665111
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estádio do Pacaembu, São
   Paulo";X-APPLE-RADIUS=100;X-TITLE="Estádio do Pacaembu, São Paulo":geo:
  -23.548639,-46.665111
-DESCRIPTION:Group 1 | First round\nBrazil 2-2 Switzerland\nHT: 2-1\nGoals:\
- nBRA 🇧🇷: Alfredo 3'\, Baltazar 32'\nSUI 🇨🇭: Fatton 17'\, Fatto
- n 88'
+DESCRIPTION:Group 1 | First round | 1950 FIFA World Cup - Brazil\nBrazil 2-
+ 2 Switzerland\nHT: 2-1\nGoals:\nBRA 🇧🇷: Alfredo 3'\, Baltazar 32'\nS
+ UI 🇨🇭: Fatton 17'\, Fatton 88'
 URL:https://www.fifa.com/en/match-centre/match/17/7/208/1188
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1099,9 +1125,9 @@ GEO:-30.061667;-51.227222
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estádio dos Eucaliptos, P
  orto Alegre";X-APPLE-RADIUS=100;X-TITLE="Estádio dos Eucaliptos, Porto Al
  egre":geo:-30.061667,-51.227222
-DESCRIPTION:Group 1 | First round\nYugoslavia 4-1 Mexico\nHT: 2-0\nGoals:\n
- YUG: Bobek 19'\, Ž. Čajkovski 22'\, Ž. Čajkovski 62'\, Tomašević 81'
- \nMEX 🇲🇽: Ortiz 89' pen
+DESCRIPTION:Group 1 | First round | 1950 FIFA World Cup - Brazil\nYugoslavi
+ a 4-1 Mexico\nHT: 2-0\nGoals:\nYUG: Bobek 19'\, Ž. Čajkovski 22'\, Ž. 
+ Čajkovski 62'\, Tomašević 81'\nMEX 🇲🇽: Ortiz 89' pen
 URL:https://www.fifa.com/en/match-centre/match/17/7/208/1225
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1118,8 +1144,8 @@ GEO:-22.912167;-43.230164
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estádio do Maracanã, Rio
   de Janeiro";X-APPLE-RADIUS=100;X-TITLE="Estádio do Maracanã, Rio de Jan
  eiro":geo:-22.912167,-43.230164
-DESCRIPTION:Group 2 | First round\nSpain 2-0 Chile\nGoals:\nESP 🇪🇸: B
- asora 17'\, Zarra 30'
+DESCRIPTION:Group 2 | First round | 1950 FIFA World Cup - Brazil\nSpain 2-0
+  Chile\nGoals:\nESP 🇪🇸: Basora 17'\, Zarra 30'
 URL:https://www.fifa.com/en/match-centre/match/17/7/208/1193
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1136,9 +1162,9 @@ GEO:-25.439444;-49.255833
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estádio Durival Britto, C
  uritiba";X-APPLE-RADIUS=100;X-TITLE="Estádio Durival Britto, Curitiba":ge
  o:-25.439444,-49.255833
-DESCRIPTION:Group 3 | First round\nSweden 2-2 Paraguay\nGoals:\nSWE 🇸
- 🇪: Sundqvist 17'\, Palmér 26'\nPAR 🇵🇾: López 35'\, López Frete
- s 74'
+DESCRIPTION:Group 3 | First round | 1950 FIFA World Cup - Brazil\nSweden 2-
+ 2 Paraguay\nGoals:\nSWE 🇸🇪: Sundqvist 17'\, Palmér 26'\nPAR 🇵
+ 🇾: López 35'\, López Fretes 74'
 URL:https://www.fifa.com/en/match-centre/match/17/7/208/1228
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1155,8 +1181,8 @@ GEO:-19.908585;-43.917881
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estádio Independência, B
  elo Horizonte";X-APPLE-RADIUS=100;X-TITLE="Estádio Independência, Belo H
  orizonte":geo:-19.908585,-43.917881
-DESCRIPTION:Group 2 | First round\nUSA 1-0 England\nGoals:\nUSA 🇺🇸: G
- aetjens 38'
+DESCRIPTION:Group 2 | First round | 1950 FIFA World Cup - Brazil\nUSA 1-0 E
+ ngland\nGoals:\nUSA 🇺🇸: Gaetjens 38'
 URL:https://www.fifa.com/en/match-centre/match/17/7/208/1202
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1173,8 +1199,8 @@ GEO:-22.912167;-43.230164
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estádio do Maracanã, Rio
   de Janeiro";X-APPLE-RADIUS=100;X-TITLE="Estádio do Maracanã, Rio de Jan
  eiro":geo:-22.912167,-43.230164
-DESCRIPTION:Group 1 | First round\nBrazil 2-0 Yugoslavia\nHT: 1-0\nGoals:\n
- BRA 🇧🇷: Ademir 4'\, Zizinho 69'
+DESCRIPTION:Group 1 | First round | 1950 FIFA World Cup - Brazil\nBrazil 2-
+ 0 Yugoslavia\nHT: 1-0\nGoals:\nBRA 🇧🇷: Ademir 4'\, Zizinho 69'
 URL:https://www.fifa.com/en/match-centre/match/17/7/208/1191
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1191,8 +1217,8 @@ GEO:-22.912167;-43.230164
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estádio do Maracanã, Rio
   de Janeiro";X-APPLE-RADIUS=100;X-TITLE="Estádio do Maracanã, Rio de Jan
  eiro":geo:-22.912167,-43.230164
-DESCRIPTION:Group 2 | First round\nSpain 1-0 England\nGoals:\nESP 🇪🇸:
-  Zarra 48'
+DESCRIPTION:Group 2 | First round | 1950 FIFA World Cup - Brazil\nSpain 1-0
+  England\nGoals:\nESP 🇪🇸: Zarra 48'
 URL:https://www.fifa.com/en/match-centre/match/17/7/208/1199
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1209,8 +1235,8 @@ GEO:-23.548639;-46.665111
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estádio do Pacaembu, São
   Paulo";X-APPLE-RADIUS=100;X-TITLE="Estádio do Pacaembu, São Paulo":geo:
  -23.548639,-46.665111
-DESCRIPTION:Group 3 | First round\nItaly 2-0 Paraguay\nGoals:\nITA 🇮🇹
- : Carapellese 12'\, Pandolfini 62'
+DESCRIPTION:Group 3 | First round | 1950 FIFA World Cup - Brazil\nItaly 2-0
+  Paraguay\nGoals:\nITA 🇮🇹: Carapellese 12'\, Pandolfini 62'
 URL:https://www.fifa.com/en/match-centre/match/17/7/208/1218
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1227,8 +1253,9 @@ GEO:-30.061667;-51.227222
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estádio dos Eucaliptos, P
  orto Alegre";X-APPLE-RADIUS=100;X-TITLE="Estádio dos Eucaliptos, Porto Al
  egre":geo:-30.061667,-51.227222
-DESCRIPTION:Group 1 | First round\nSwitzerland 2-1 Mexico\nHT: 2-0\nGoals:\
- nSUI 🇨🇭: Bader 10'\, Antenen 44'\nMEX 🇲🇽: Casarín 89'
+DESCRIPTION:Group 1 | First round | 1950 FIFA World Cup - Brazil\nSwitzerla
+ nd 2-1 Mexico\nHT: 2-0\nGoals:\nSUI 🇨🇭: Bader 10'\, Antenen 44'\nMEX
+  🇲🇽: Casarín 89'
 URL:https://www.fifa.com/en/match-centre/match/17/7/208/1222
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1245,9 +1272,9 @@ GEO:-8.062778;-34.902778
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estádio Ilha do Retiro, R
  ecife";X-APPLE-RADIUS=100;X-TITLE="Estádio Ilha do Retiro, Recife":geo:-8
  .062778,-34.902778
-DESCRIPTION:Group 2 | First round\nChile 5-2 USA\nGoals:\nCHI 🇨🇱: Rob
- ledo 16'\, Riera 32'\, Cremaschi 54'\, Cremaschi 82'\, Prieto 60'\nUSA 
- 🇺🇸: Wallace 47'\, Maca 48' pen
+DESCRIPTION:Group 2 | First round | 1950 FIFA World Cup - Brazil\nChile 5-2
+  USA\nGoals:\nCHI 🇨🇱: Robledo 16'\, Riera 32'\, Cremaschi 54'\, Crem
+ aschi 82'\, Prieto 60'\nUSA 🇺🇸: Wallace 47'\, Maca 48' pen
 URL:https://www.fifa.com/en/match-centre/match/17/7/208/1194
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1264,9 +1291,9 @@ GEO:-19.908585;-43.917881
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estádio Independência, B
  elo Horizonte";X-APPLE-RADIUS=100;X-TITLE="Estádio Independência, Belo H
  orizonte":geo:-19.908585,-43.917881
-DESCRIPTION:Group 4 | First round\nUruguay 8-0 Bolivia\nGoals:\nURU 🇺
- 🇾: Míguez 14'\, Míguez 40'\, Míguez 51'\, Vidal 18'\, Schiaffino 23'
- \, Schiaffino 54'\, Pérez 83'\, Ghiggia 87'
+DESCRIPTION:Group 4 | First round | 1950 FIFA World Cup - Brazil\nUruguay 8
+ -0 Bolivia\nGoals:\nURU 🇺🇾: Míguez 14'\, Míguez 40'\, Míguez 51'\
+ , Vidal 18'\, Schiaffino 23'\, Schiaffino 54'\, Pérez 83'\, Ghiggia 87'
 URL:https://www.fifa.com/en/match-centre/match/17/7/208/1185
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1283,8 +1310,9 @@ GEO:-23.548639;-46.665111
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estádio do Pacaembu, São
   Paulo";X-APPLE-RADIUS=100;X-TITLE="Estádio do Pacaembu, São Paulo":geo:
  -23.548639,-46.665111
-DESCRIPTION:Final group | Round 1\nUruguay 2-2 Spain\nGoals:\nURU 🇺🇾:
-  Ghiggia 29'\, Varela 73'\nESP 🇪🇸: Basora 37'\, Basora 39'
+DESCRIPTION:Final group | Round 1 | 1950 FIFA World Cup - Brazil\nUruguay 2
+ -2 Spain\nGoals:\nURU 🇺🇾: Ghiggia 29'\, Varela 73'\nESP 🇪🇸: Ba
+ sora 37'\, Basora 39'
 URL:https://www.fifa.com/en/match-centre/match/17/7/209/1207
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1301,9 +1329,10 @@ GEO:-22.912167;-43.230164
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estádio do Maracanã, Rio
   de Janeiro";X-APPLE-RADIUS=100;X-TITLE="Estádio do Maracanã, Rio de Jan
  eiro":geo:-22.912167,-43.230164
-DESCRIPTION:Final group | Round 1\nBrazil 7-1 Sweden\nGoals:\nBRA 🇧🇷:
-  Ademir 17'\, Ademir 36'\, Ademir 52'\, Ademir 58'\, Chico 39'\, Chico 88'
- \, Maneca 85'\nSWE 🇸🇪: Andersson 67' pen
+DESCRIPTION:Final group | Round 1 | 1950 FIFA World Cup - Brazil\nBrazil 7-
+ 1 Sweden\nGoals:\nBRA 🇧🇷: Ademir 17'\, Ademir 36'\, Ademir 52'\, Ade
+ mir 58'\, Chico 39'\, Chico 88'\, Maneca 85'\nSWE 🇸🇪: Andersson 67' 
+ pen
 URL:https://www.fifa.com/en/match-centre/match/17/7/209/1189
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1320,9 +1349,9 @@ GEO:-22.912167;-43.230164
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estádio do Maracanã, Rio
   de Janeiro";X-APPLE-RADIUS=100;X-TITLE="Estádio do Maracanã, Rio de Jan
  eiro":geo:-22.912167,-43.230164
-DESCRIPTION:Final group | Round 2\nBrazil 6-1 Spain\nGoals:\nBRA 🇧🇷: 
- Parra 15' og\, Jair 21'\, Chico 31'\, Chico 55'\, Ademir 57'\, Zizinho 67'
- \nESP 🇪🇸: Igoa 71'
+DESCRIPTION:Final group | Round 2 | 1950 FIFA World Cup - Brazil\nBrazil 6-
+ 1 Spain\nGoals:\nBRA 🇧🇷: Parra 15' og\, Jair 21'\, Chico 31'\, Chico
+  55'\, Ademir 57'\, Zizinho 67'\nESP 🇪🇸: Igoa 71'
 URL:https://www.fifa.com/en/match-centre/match/17/7/209/1186
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1339,9 +1368,9 @@ GEO:-23.548639;-46.665111
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estádio do Pacaembu, São
   Paulo";X-APPLE-RADIUS=100;X-TITLE="Estádio do Pacaembu, São Paulo":geo:
  -23.548639,-46.665111
-DESCRIPTION:Final group | Round 2\nUruguay 3-2 Sweden\nGoals:\nURU 🇺🇾
- : Ghiggia 39'\, Míguez 77'\, Míguez 85'\nSWE 🇸🇪: Palmér 5'\, Sund
- qvist 40'
+DESCRIPTION:Final group | Round 2 | 1950 FIFA World Cup - Brazil\nUruguay 3
+ -2 Sweden\nGoals:\nURU 🇺🇾: Ghiggia 39'\, Míguez 77'\, Míguez 85'\n
+ SWE 🇸🇪: Palmér 5'\, Sundqvist 40'
 URL:https://www.fifa.com/en/match-centre/match/17/7/209/1231
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1358,8 +1387,9 @@ GEO:-23.548639;-46.665111
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estádio do Pacaembu, São
   Paulo";X-APPLE-RADIUS=100;X-TITLE="Estádio do Pacaembu, São Paulo":geo:
  -23.548639,-46.665111
-DESCRIPTION:Final group | Round 3\nSweden 3-1 Spain\nGoals:\nSWE 🇸🇪: 
- Sundqvist 15'\, Mellberg 33'\, Palmér 80'\nESP 🇪🇸: Zarra 82'
+DESCRIPTION:Final group | Round 3 | 1950 FIFA World Cup - Brazil\nSweden 3-
+ 1 Spain\nGoals:\nSWE 🇸🇪: Sundqvist 15'\, Mellberg 33'\, Palmér 80'\
+ nESP 🇪🇸: Zarra 82'
 URL:https://www.fifa.com/en/match-centre/match/17/7/209/1206
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1376,9 +1406,10 @@ GEO:-22.912167;-43.230164
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estádio do Maracanã, Rio
   de Janeiro";X-APPLE-RADIUS=100;X-TITLE="Estádio do Maracanã, Rio de Jan
  eiro":geo:-22.912167,-43.230164
-DESCRIPTION:Final group | Round 3\nDecisive match of the final group\; Urug
- uay won the World Cup.\nUruguay 2-1 Brazil\nGoals:\nURU 🇺🇾: Schiaffi
- no 66'\, Ghiggia 79'\nBRA 🇧🇷: Friaça 47'
+DESCRIPTION:Final group | Round 3 | 1950 FIFA World Cup - Brazil\nDecisive 
+ match of the final group\; Uruguay won the World Cup.\nUruguay 2-1 Brazil\
+ nGoals:\nURU 🇺🇾: Schiaffino 66'\, Ghiggia 79'\nBRA 🇧🇷: Friaça
+  47'
 URL:https://www.fifa.com/en/match-centre/match/17/7/209/1190
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

@@ -1,0 +1,108 @@
+{
+  "venues": [
+    {
+      "name": "Estadio Chateau Carreras",
+      "city": "Córdoba",
+      "ground_aliases": [
+        "Estadio Chateau Carreras, Córdoba"
+      ],
+      "latitude": -31.36895556,
+      "longitude": -64.24624444,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Estadio_Mario_Alberto_Kempes",
+      "coordinate_source_title": "Estadio Mario Alberto Kempes",
+      "match_score": 0,
+      "coordinate_status": "candidate"
+    },
+    {
+      "name": "Estadio Ciudad de Mendoza",
+      "city": "Mendoza",
+      "ground_aliases": [
+        "Estadio Ciudad de Mendoza, Mendoza"
+      ],
+      "latitude": -32.88972222,
+      "longitude": -68.88,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Estadio_Malvinas_Argentinas",
+      "coordinate_source_title": "Estadio Malvinas Argentinas",
+      "match_score": 0,
+      "coordinate_status": "candidate"
+    },
+    {
+      "name": "Estadio Gigante de Arroyito",
+      "city": "Rosario",
+      "ground_aliases": [
+        "Estadio Gigante de Arroyito, Rosario"
+      ],
+      "latitude": -32.91399722,
+      "longitude": -60.67456667,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Estadio_Gigante_de_Arroyito",
+      "coordinate_source_title": "Estadio Gigante de Arroyito",
+      "match_score": 25,
+      "coordinate_status": "candidate"
+    },
+    {
+      "name": "Estadio José Amalfitani",
+      "city": "Buenos Aires",
+      "ground_aliases": [
+        "Estadio José Amalfitani, Buenos Aires"
+      ],
+      "latitude": -34.5625,
+      "longitude": -58.45833333,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Belgrano,_Buenos_Aires",
+      "coordinate_source_title": "Belgrano, Buenos Aires",
+      "match_score": 20,
+      "coordinate_status": "candidate"
+    },
+    {
+      "name": "Estadio José Maria Minella",
+      "city": "Mar del Plata",
+      "ground_aliases": [
+        "Estadio José Maria Minella, Mar del Plata"
+      ],
+      "latitude": -38.01794444,
+      "longitude": -57.58233333,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Estadio_Jos%C3%A9_Mar%C3%ADa_Minella",
+      "coordinate_source_title": "Estadio José María Minella",
+      "match_score": 35,
+      "coordinate_status": "candidate"
+    },
+    {
+      "name": "Estadio José María Minella",
+      "city": "Mar del Plata",
+      "ground_aliases": [
+        "Estadio José María Minella, Mar del Plata"
+      ],
+      "latitude": -38.01794444,
+      "longitude": -57.58233333,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Estadio_Jos%C3%A9_Mar%C3%ADa_Minella",
+      "coordinate_source_title": "Estadio José María Minella",
+      "match_score": 35,
+      "coordinate_status": "candidate"
+    },
+    {
+      "name": "Estadio Monumental",
+      "city": "Buenos Aires",
+      "ground_aliases": [
+        "Estadio Monumental, Buenos Aires"
+      ],
+      "latitude": -34.54527778,
+      "longitude": -58.44972222,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Estadio_Monumental_(Buenos_Aires)",
+      "coordinate_source_title": "Estadio Monumental (Buenos Aires)",
+      "match_score": 35,
+      "coordinate_status": "candidate"
+    },
+    {
+      "name": "Estadio Olímpico Chateau Carreras",
+      "city": "Córdoba",
+      "ground_aliases": [
+        "Estadio Olímpico Chateau Carreras, Córdoba"
+      ],
+      "latitude": -31.36895556,
+      "longitude": -64.24624444,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Estadio_Mario_Alberto_Kempes",
+      "coordinate_source_title": "Estadio Mario Alberto Kempes",
+      "match_score": 0,
+      "coordinate_status": "candidate"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "venues": [
+    {
+      "name": "Charmilles Stadium",
+      "city": "Geneva",
+      "ground_aliases": [
+        "Charmilles Stadium, Geneva"
+      ],
+      "latitude": 46.2091,
+      "longitude": 6.1182,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Charmilles_Stadium",
+      "coordinate_source_title": "Charmilles Stadium",
+      "match_score": 15,
+      "coordinate_status": "candidate"
+    },
+    {
+      "name": "Cornaredo Stadium",
+      "city": "Lugano",
+      "ground_aliases": [
+        "Cornaredo Stadium, Lugano"
+      ],
+      "latitude": 46.02361111,
+      "longitude": 8.96166667,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Cornaredo_Stadium",
+      "coordinate_source_title": "Cornaredo Stadium",
+      "match_score": 15,
+      "coordinate_status": "candidate"
+    },
+    {
+      "name": "Hardturm Stadium",
+      "city": "Zürich",
+      "ground_aliases": [
+        "Hardturm Stadium, Zürich"
+      ],
+      "latitude": 47.39305556,
+      "longitude": 8.50472222,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Hardturm",
+      "coordinate_source_title": "Hardturm",
+      "match_score": 15,
+      "coordinate_status": "candidate"
+    },
+    {
+      "name": "St. Jakob Stadium",
+      "city": "Basel",
+      "ground_aliases": [
+        "St. Jakob Stadium, Basel"
+      ],
+      "latitude": 47.54138889,
+      "longitude": 7.62,
+      "coordinate_source": "https://en.wikipedia.org/wiki/St._Jakob_Stadium",
+      "coordinate_source_title": "St. Jakob Stadium",
+      "match_score": 25,
+      "coordinate_status": "candidate"
+    },
+    {
+      "name": "Stade Olympique de la Pontaise",
+      "city": "Lausanne",
+      "ground_aliases": [
+        "Stade Olympique de la Pontaise, Lausanne"
+      ],
+      "latitude": 46.5332284,
+      "longitude": 6.6243167,
+      "coordinate_source": "https://www.openstreetmap.org/w/45746506",
+      "coordinate_source_title": "Stade Olympique de la Pontaise",
+      "match_score": 35,
+      "coordinate_status": "candidate"
+    },
+    {
+      "name": "Wankdorf Stadium",
+      "city": "Bern",
+      "ground_aliases": [
+        "Wankdorf Stadium, Bern"
+      ],
+      "latitude": 46.96277778,
+      "longitude": 7.465,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Wankdorf_Stadium",
+      "coordinate_source_title": "Wankdorf Stadium",
+      "match_score": 15,
+      "coordinate_status": "candidate"
+    }
+  ]
+}

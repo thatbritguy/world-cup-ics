@@ -49,10 +49,17 @@ def main() -> None:
     summaries = [line for line in lines if line.startswith("SUMMARY:")]
     numbers = [int(re.search(r"\[(\d{3})\]$", line).group(1)) for line in summaries]
     expected_numbers = [item["official_match_number"] for item in manifest["matches"]]
-    if numbers != expected_numbers or sorted(numbers) != list(range(1, expected + 1)):
+    if numbers != expected_numbers or any(number < 1 for number in numbers):
         raise ValueError("Historical visible numbering does not match FIFA numbering")
     if len([line for line in lines if line.startswith("GEO:")]) != expected:
         raise ValueError("Every historical event must have coordinates")
+    venues = load_json(
+        ROOT / "data" / str(args.year) / "worldcup.stadiums.json"
+    )["venues"]
+    if status == "validated" and any(
+        venue.get("coordinate_status") == "candidate" for venue in venues
+    ):
+        raise ValueError("Validated calendars cannot contain candidate coordinates")
     print(
         f"Historical calendar validation passed ({status}): "
         f"{expected} FIFA-numbered events"

@@ -15,6 +15,7 @@ from common import (
     normalize_name,
     write_json,
 )
+from historical_config import HOST_NAMES
 
 
 UID_DOMAIN = "world-cup-ics"
@@ -37,6 +38,12 @@ def score_summary(match: dict[str, Any], home: dict[str, str], away: dict[str, s
     away_label = " ".join(part for part in (away["code"], away["flag"]) if part)
     result = score.get("et") or score["ft"]
     suffix = " (aet)" if score.get("et") is not None else ""
+    if score.get("p") is not None:
+        winner = home if score["p"][0] > score["p"][1] else away
+        if winner is home:
+            home_label += " (p)"
+        else:
+            away_label = "(p) " + away_label
     return f"{home_label} {result[0]}-{result[1]}{suffix} {away_label}"
 
 
@@ -45,13 +52,19 @@ def goal_text(goal: dict[str, Any]) -> str:
     return f"{goal['name']} {goal['minute']}'{suffix}"
 
 
-def description(match: dict[str, Any], home: dict[str, str], away: dict[str, str]) -> str:
+def description(
+    year: int,
+    match: dict[str, Any],
+    home: dict[str, str],
+    away: dict[str, str],
+) -> str:
     if match.get("final_group_round"):
         header = f"Final group | Round {match['final_group_round']}"
     else:
         header = match.get("group") or match["round"]
     if match.get("group"):
         header += f" | {match['round']}"
+    header += f" | {year} FIFA World Cup - {HOST_NAMES[year]}"
     score = match["score"]
     result = score.get("et") or score["ft"]
     lines = [header]
@@ -63,6 +76,8 @@ def description(match: dict[str, Any], home: dict[str, str], away: dict[str, str
     if score.get("et") is not None:
         lines.append(f"FT: {score['ft'][0]}-{score['ft'][1]}")
         lines.append(f"AET: {score['et'][0]}-{score['et'][1]}")
+    if score.get("p") is not None:
+        lines.append(f"Penalties: {score['p'][0]}-{score['p'][1]}")
     goals1 = match.get("goals1") or []
     goals2 = match.get("goals2") or []
     if goals1 or goals2:
@@ -91,19 +106,33 @@ def stage_label(match: dict[str, Any], knockout_number: int | None = None) -> st
     if match.get("final_group_round"):
         return f"FG{match['final_group_round']}"
     if match.get("group"):
-        return f"G{match['group'].removeprefix('Group ')}"
-    if match["round"] == "Semi-finals":
+        group = match["group"].removeprefix("Group ")
+        round_name = match["round"]
+        if match.get("group_round"):
+            round_number = int(match["group_round"])
+            return f"{group}{round_number}" if group.isalpha() else f"G{group}-{round_number}"
+        if "Play-off" in round_name:
+            return f"G{group}-PO"
+        return f"G{group}"
+    if match["round"] in ("Semi-finals", "Semifinals"):
         return f"SF{knockout_number}"
     if match["round"] in ("Preliminary round", "First round"):
         return "R16"
     if match["round"] == "First round, Replays":
         return "R16-REPLAY"
-    if match["round"] == "Quarter-finals":
+    if match["round"] in ("Quarter-finals", "Quarterfinals"):
         return f"QF{knockout_number}"
     if match["round"] == "Quarter-finals, Replays":
         return "QF-REPLAY"
-    if match["round"] in ("Third-place match", "Match for third place"):
+    if match["round"] in (
+        "Third-place match",
+        "Third place match",
+        "Third-place play-off",
+        "Match for third place",
+    ):
         return "3RD"
+    if match["round"] == "Round of 16":
+        return "R16"
     if match["round"] == "Final":
         return "FINAL"
     return match["round"].upper().replace(" ", "-")
@@ -124,7 +153,9 @@ def build_manifest(year: int, matches: list[dict[str, Any]], path: Path) -> dict
         "year": year,
         "status": current.get("status", "review") if current else "review",
         "calendar_profile": "archive",
-        "numbering": "FIFA official match numbers",
+        "numbering": load_json(path.parent / "worldcup.enrichment.json").get(
+            "numbering", "FIFA official match numbers"
+        ),
         "matches": [
             {
                 "sequence": index,
@@ -169,6 +200,21 @@ def build_event_lines(year: int) -> tuple[list[str], int]:
         if not enriched:
             raise ValueError(f"No kickoff enrichment for {match['date']} {match['team1']} v {match['team2']}")
         combined.append({**enriched, **match, "source_index": source_index})
+    if year >= 1954:
+        group_counts: dict[str, int] = {}
+        group_teams: dict[str, set[str]] = {}
+        for match in combined:
+            if match.get("group"):
+                group_teams.setdefault(match["group"], set()).update(
+                    (match["team1"], match["team2"])
+                )
+        for match in combined:
+            group = match.get("group")
+            if not group:
+                continue
+            group_counts[group] = group_counts.get(group, 0) + 1
+            matches_per_round = max(1, len(group_teams[group]) // 2)
+            match["group_round"] = ((group_counts[group] - 1) // matches_per_round) + 1
     combined.sort(key=lambda item: int(item["official_match_number"]))
     final_group_dates = sorted(
         {item["date"] for item in combined if item["round"] == "Final Round"}
@@ -193,10 +239,10 @@ def build_event_lines(year: int) -> tuple[list[str], int]:
         identity = manifest["matches"][index]
         home = team_details(match["team1"], countries)
         away = team_details(match["team2"], countries)
-        if match["round"] == "Semi-finals":
+        if match["round"] in ("Semi-finals", "Semifinals"):
             semi_final += 1
             label = stage_label(match, semi_final)
-        elif match["round"] == "Quarter-finals":
+        elif match["round"] in ("Quarter-finals", "Quarterfinals"):
             quarter_final += 1
             label = stage_label(match, quarter_final)
         else:
@@ -221,7 +267,7 @@ def build_event_lines(year: int) -> tuple[list[str], int]:
                 f"LOCATION:{ics_escape(location)}",
                 f"GEO:{latitude:.6f};{longitude:.6f}",
                 structured_location(location, latitude, longitude),
-                f"DESCRIPTION:{ics_escape(description(match, home, away))}",
+                f"DESCRIPTION:{ics_escape(description(year, match, home, away))}",
                 f"URL:{match['fifa_url']}",
                 "STATUS:CONFIRMED",
                 "TRANSP:TRANSPARENT",

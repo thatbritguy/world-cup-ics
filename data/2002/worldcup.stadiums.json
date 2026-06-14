@@ -1,0 +1,264 @@
+{
+  "venues": [
+    {
+      "name": "Asiad Main Stadium",
+      "city": "Busan",
+      "ground_aliases": [
+        "Asiad Main Stadium, Busan"
+      ],
+      "latitude": 35.19,
+      "longitude": 129.05822222,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Busan_Asiad_Main_Stadium",
+      "coordinate_source_title": "Busan Asiad Main Stadium",
+      "match_score": 30,
+      "coordinate_status": "candidate"
+    },
+    {
+      "name": "Daegu World Cup Stadium",
+      "city": "Daegu",
+      "ground_aliases": [
+        "Daegu World Cup Stadium, Daegu"
+      ],
+      "latitude": 35.87166667,
+      "longitude": 128.60166667,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Daegu",
+      "coordinate_source_title": "Daegu",
+      "match_score": 15,
+      "coordinate_status": "candidate"
+    },
+    {
+      "name": "Daejeon World Cup Stadium",
+      "city": "Daejeon",
+      "ground_aliases": [
+        "Daejeon World Cup Stadium, Daejeon"
+      ],
+      "latitude": 36.36513889,
+      "longitude": 127.32516667,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Daejeon_World_Cup_Stadium",
+      "coordinate_source_title": "Daejeon World Cup Stadium",
+      "match_score": 35,
+      "coordinate_status": "candidate"
+    },
+    {
+      "name": "Gwangju World Cup Stadium",
+      "city": "Gwangju",
+      "ground_aliases": [
+        "Gwangju World Cup Stadium, Gwangju"
+      ],
+      "latitude": 35.13366667,
+      "longitude": 126.87486111,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Gwangju_World_Cup_Stadium",
+      "coordinate_source_title": "Gwangju World Cup Stadium",
+      "match_score": 35,
+      "coordinate_status": "candidate"
+    },
+    {
+      "name": "Incheon Munhak Stadium",
+      "city": "Incheon",
+      "ground_aliases": [
+        "Incheon Munhak Stadium, Incheon"
+      ],
+      "latitude": 37.4350773,
+      "longitude": 126.6907516,
+      "coordinate_source": "https://www.openstreetmap.org/w/71498193",
+      "coordinate_source_title": "인천문학경기장",
+      "match_score": 5,
+      "coordinate_status": "candidate"
+    },
+    {
+      "name": "International Stadium Yokohama",
+      "city": "Yokohama",
+      "ground_aliases": [
+        "International Stadium Yokohama, Yokohama"
+      ],
+      "latitude": 35.44416667,
+      "longitude": 139.63805556,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Yokohama",
+      "coordinate_source_title": "Yokohama",
+      "match_score": 15,
+      "coordinate_status": "candidate"
+    },
+    {
+      "name": "Jeju World Cup Stadium",
+      "city": "Jeju",
+      "ground_aliases": [
+        "Jeju World Cup Stadium, Jeju"
+      ],
+      "latitude": 33.24613889,
+      "longitude": 126.50920556,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Jeju_World_Cup_Stadium",
+      "coordinate_source_title": "Jeju World Cup Stadium",
+      "match_score": 35,
+      "coordinate_status": "candidate"
+    },
+    {
+      "name": "Jeonju World Cup Stadium",
+      "city": "Jeonju",
+      "ground_aliases": [
+        "Jeonju World Cup Stadium, Jeonju"
+      ],
+      "latitude": 35.8682089,
+      "longitude": 127.0645509,
+      "coordinate_source": "https://www.openstreetmap.org/w/655672992",
+      "coordinate_source_title": "전주월드컵경기장",
+      "match_score": 5,
+      "coordinate_status": "candidate"
+    },
+    {
+      "name": "Kashima Soccer Stadium",
+      "city": "Ibaraki",
+      "ground_aliases": [
+        "Kashima Soccer Stadium, Ibaraki"
+      ],
+      "latitude": 35.9922557,
+      "longitude": 140.6362934,
+      "coordinate_source": "https://www.openstreetmap.org/n/3799418504",
+      "coordinate_source_title": "鹿島サッカースタジアム",
+      "match_score": 5,
+      "coordinate_status": "candidate"
+    },
+    {
+      "name": "Kobe Wing Stadium",
+      "city": "Kobe",
+      "ground_aliases": [
+        "Kobe Wing Stadium, Kobe"
+      ],
+      "latitude": 34.69,
+      "longitude": 135.19555556,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Kobe",
+      "coordinate_source_title": "Kobe",
+      "match_score": 15,
+      "coordinate_status": "candidate"
+    },
+    {
+      "name": "Miyagi Stadium",
+      "city": "Miyagi",
+      "ground_aliases": [
+        "Miyagi Stadium, Miyagi"
+      ],
+      "latitude": 38.3354,
+      "longitude": 140.9504,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Miyagi_Stadium",
+      "coordinate_source_title": "Miyagi Stadium",
+      "match_score": 15,
+      "coordinate_status": "candidate"
+    },
+    {
+      "name": "Munsu Cup Stadium",
+      "city": "Ulsan",
+      "ground_aliases": [
+        "Munsu Cup Stadium, Ulsan"
+      ],
+      "latitude": 35.53527778,
+      "longitude": 129.25944444,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Ulsan_Munsu_Football_Stadium",
+      "coordinate_source_title": "Ulsan Munsu Football Stadium",
+      "match_score": 20,
+      "coordinate_status": "candidate"
+    },
+    {
+      "name": "Nagai Stadium",
+      "city": "Osaka",
+      "ground_aliases": [
+        "Nagai Stadium, Osaka"
+      ],
+      "latitude": 34.61411944,
+      "longitude": 135.51845,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Nagai_Stadium",
+      "coordinate_source_title": "Nagai Stadium",
+      "match_score": 15,
+      "coordinate_status": "candidate"
+    },
+    {
+      "name": "Niigata Stadium",
+      "city": "Niigata",
+      "ground_aliases": [
+        "Niigata Stadium, Niigata"
+      ],
+      "latitude": 37.44619444,
+      "longitude": 138.85125,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Nagaoka,_Niigata",
+      "coordinate_source_title": "Nagaoka, Niigata",
+      "match_score": 10,
+      "coordinate_status": "candidate"
+    },
+    {
+      "name": "Saitama Stadium",
+      "city": "Saitama",
+      "ground_aliases": [
+        "Saitama Stadium, Saitama"
+      ],
+      "latitude": 35.86138889,
+      "longitude": 139.64555556,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Saitama_(city)",
+      "coordinate_source_title": "Saitama (city)",
+      "match_score": 10,
+      "coordinate_status": "candidate"
+    },
+    {
+      "name": "Sapporo Dome",
+      "city": "Sapporo",
+      "ground_aliases": [
+        "Sapporo Dome, Sapporo"
+      ],
+      "latitude": 43.0152,
+      "longitude": 141.4098,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Sapporo_Dome",
+      "coordinate_source_title": "Sapporo Dome",
+      "match_score": 25,
+      "coordinate_status": "candidate"
+    },
+    {
+      "name": "Seoul World Cup Stadium",
+      "city": "Seoul",
+      "ground_aliases": [
+        "Seoul World Cup Stadium, Seoul"
+      ],
+      "latitude": 37.56822222,
+      "longitude": 126.89736111,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Seoul_World_Cup_Stadium",
+      "coordinate_source_title": "Seoul World Cup Stadium",
+      "match_score": 35,
+      "coordinate_status": "candidate"
+    },
+    {
+      "name": "Shizuoka Stadium",
+      "city": "Shizuoka",
+      "ground_aliases": [
+        "Shizuoka Stadium, Shizuoka"
+      ],
+      "latitude": 34.74333333,
+      "longitude": 137.97055556,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Shizuoka_Stadium",
+      "coordinate_source_title": "Shizuoka Stadium",
+      "match_score": 15,
+      "coordinate_status": "candidate"
+    },
+    {
+      "name": "Suwon World Cup Stadium",
+      "city": "Suwon",
+      "ground_aliases": [
+        "Suwon World Cup Stadium, Suwon"
+      ],
+      "latitude": 37.28627778,
+      "longitude": 127.03688889,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Suwon_World_Cup_Stadium",
+      "coordinate_source_title": "Suwon World Cup Stadium",
+      "match_score": 35,
+      "coordinate_status": "candidate"
+    },
+    {
+      "name": "Ōita Stadium",
+      "city": "Ōita",
+      "ground_aliases": [
+        "Ōita Stadium, Ōita"
+      ],
+      "latitude": 33.20055556,
+      "longitude": 131.6575,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Crasus_Dome_Oita",
+      "coordinate_source_title": "Crasus Dome Oita",
+      "match_score": 10,
+      "coordinate_status": "candidate"
+    }
+  ]
+}

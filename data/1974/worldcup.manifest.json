@@ -1,0 +1,388 @@
+{
+  "year": 1974,
+  "status": "review",
+  "calendar_profile": "archive",
+  "numbering": "FIFA official match numbers",
+  "matches": [
+    {
+      "sequence": 1,
+      "key": "wc1974-match-001",
+      "uid": "wc1974-match-001@world-cup-ics",
+      "date": "1974-06-14",
+      "team1": "West Germany",
+      "team2": "Chile",
+      "official_match_number": 1,
+      "fifa_match_id": "2003"
+    },
+    {
+      "sequence": 2,
+      "key": "wc1974-match-002",
+      "uid": "wc1974-match-002@world-cup-ics",
+      "date": "1974-06-14",
+      "team1": "East Germany",
+      "team2": "Australia",
+      "official_match_number": 2,
+      "fifa_match_id": "1955"
+    },
+    {
+      "sequence": 3,
+      "key": "wc1974-match-003",
+      "uid": "wc1974-match-003@world-cup-ics",
+      "date": "1974-06-13",
+      "team1": "Brazil",
+      "team2": "Yugoslavia",
+      "official_match_number": 3,
+      "fifa_match_id": "1986"
+    },
+    {
+      "sequence": 4,
+      "key": "wc1974-match-004",
+      "uid": "wc1974-match-004@world-cup-ics",
+      "date": "1974-06-14",
+      "team1": "Zaire",
+      "team2": "Scotland",
+      "official_match_number": 4,
+      "fifa_match_id": "2176"
+    },
+    {
+      "sequence": 5,
+      "key": "wc1974-match-005",
+      "uid": "wc1974-match-005@world-cup-ics",
+      "date": "1974-06-15",
+      "team1": "Uruguay",
+      "team2": "Netherlands",
+      "official_match_number": 5,
+      "fifa_match_id": "2098"
+    },
+    {
+      "sequence": 6,
+      "key": "wc1974-match-006",
+      "uid": "wc1974-match-006@world-cup-ics",
+      "date": "1974-06-15",
+      "team1": "Sweden",
+      "team2": "Bulgaria",
+      "official_match_number": 6,
+      "fifa_match_id": "1995"
+    },
+    {
+      "sequence": 7,
+      "key": "wc1974-match-007",
+      "uid": "wc1974-match-007@world-cup-ics",
+      "date": "1974-06-15",
+      "team1": "Italy",
+      "team2": "Haiti",
+      "official_match_number": 7,
+      "fifa_match_id": "2083"
+    },
+    {
+      "sequence": 8,
+      "key": "wc1974-match-008",
+      "uid": "wc1974-match-008@world-cup-ics",
+      "date": "1974-06-15",
+      "team1": "Poland",
+      "team2": "Argentina",
+      "official_match_number": 8,
+      "fifa_match_id": "1952"
+    },
+    {
+      "sequence": 9,
+      "key": "wc1974-match-009",
+      "uid": "wc1974-match-009@world-cup-ics",
+      "date": "1974-06-18",
+      "team1": "Chile",
+      "team2": "East Germany",
+      "official_match_number": 9,
+      "fifa_match_id": "2004"
+    },
+    {
+      "sequence": 10,
+      "key": "wc1974-match-010",
+      "uid": "wc1974-match-010@world-cup-ics",
+      "date": "1974-06-18",
+      "team1": "Australia",
+      "team2": "West Germany",
+      "official_match_number": 10,
+      "fifa_match_id": "1954"
+    },
+    {
+      "sequence": 11,
+      "key": "wc1974-match-011",
+      "uid": "wc1974-match-011@world-cup-ics",
+      "date": "1974-06-18",
+      "team1": "Yugoslavia",
+      "team2": "Zaire",
+      "official_match_number": 11,
+      "fifa_match_id": "2186"
+    },
+    {
+      "sequence": 12,
+      "key": "wc1974-match-012",
+      "uid": "wc1974-match-012@world-cup-ics",
+      "date": "1974-06-18",
+      "team1": "Scotland",
+      "team2": "Brazil",
+      "official_match_number": 12,
+      "fifa_match_id": "1985"
+    },
+    {
+      "sequence": 13,
+      "key": "wc1974-match-013",
+      "uid": "wc1974-match-013@world-cup-ics",
+      "date": "1974-06-19",
+      "team1": "Netherlands",
+      "team2": "Sweden",
+      "official_match_number": 13,
+      "fifa_match_id": "2097"
+    },
+    {
+      "sequence": 14,
+      "key": "wc1974-match-014",
+      "uid": "wc1974-match-014@world-cup-ics",
+      "date": "1974-06-19",
+      "team1": "Uruguay",
+      "team2": "Bulgaria",
+      "official_match_number": 14,
+      "fifa_match_id": "1996"
+    },
+    {
+      "sequence": 15,
+      "key": "wc1974-match-015",
+      "uid": "wc1974-match-015@world-cup-ics",
+      "date": "1974-06-19",
+      "team1": "Haiti",
+      "team2": "Poland",
+      "official_match_number": 15,
+      "fifa_match_id": "2085"
+    },
+    {
+      "sequence": 16,
+      "key": "wc1974-match-016",
+      "uid": "wc1974-match-016@world-cup-ics",
+      "date": "1974-06-19",
+      "team1": "Argentina",
+      "team2": "Italy",
+      "official_match_number": 16,
+      "fifa_match_id": "1949"
+    },
+    {
+      "sequence": 17,
+      "key": "wc1974-match-017",
+      "uid": "wc1974-match-017@world-cup-ics",
+      "date": "1974-06-22",
+      "team1": "Australia",
+      "team2": "Chile",
+      "official_match_number": 17,
+      "fifa_match_id": "1953"
+    },
+    {
+      "sequence": 18,
+      "key": "wc1974-match-018",
+      "uid": "wc1974-match-018@world-cup-ics",
+      "date": "1974-06-22",
+      "team1": "East Germany",
+      "team2": "West Germany",
+      "official_match_number": 18,
+      "fifa_match_id": "2062"
+    },
+    {
+      "sequence": 19,
+      "key": "wc1974-match-019",
+      "uid": "wc1974-match-019@world-cup-ics",
+      "date": "1974-06-22",
+      "team1": "Scotland",
+      "team2": "Yugoslavia",
+      "official_match_number": 19,
+      "fifa_match_id": "2175"
+    },
+    {
+      "sequence": 20,
+      "key": "wc1974-match-020",
+      "uid": "wc1974-match-020@world-cup-ics",
+      "date": "1974-06-22",
+      "team1": "Zaire",
+      "team2": "Brazil",
+      "official_match_number": 20,
+      "fifa_match_id": "1987"
+    },
+    {
+      "sequence": 21,
+      "key": "wc1974-match-021",
+      "uid": "wc1974-match-021@world-cup-ics",
+      "date": "1974-06-23",
+      "team1": "Netherlands",
+      "team2": "Bulgaria",
+      "official_match_number": 21,
+      "fifa_match_id": "1990"
+    },
+    {
+      "sequence": 22,
+      "key": "wc1974-match-022",
+      "uid": "wc1974-match-022@world-cup-ics",
+      "date": "1974-06-23",
+      "team1": "Sweden",
+      "team2": "Uruguay",
+      "official_match_number": 22,
+      "fifa_match_id": "2181"
+    },
+    {
+      "sequence": 23,
+      "key": "wc1974-match-023",
+      "uid": "wc1974-match-023@world-cup-ics",
+      "date": "1974-06-23",
+      "team1": "Argentina",
+      "team2": "Haiti",
+      "official_match_number": 23,
+      "fifa_match_id": "1947"
+    },
+    {
+      "sequence": 24,
+      "key": "wc1974-match-024",
+      "uid": "wc1974-match-024@world-cup-ics",
+      "date": "1974-06-23",
+      "team1": "Poland",
+      "team2": "Italy",
+      "official_match_number": 24,
+      "fifa_match_id": "2129"
+    },
+    {
+      "sequence": 25,
+      "key": "wc1974-match-025",
+      "uid": "wc1974-match-025@world-cup-ics",
+      "date": "1974-06-26",
+      "team1": "Brazil",
+      "team2": "East Germany",
+      "official_match_number": 25,
+      "fifa_match_id": "1982"
+    },
+    {
+      "sequence": 26,
+      "key": "wc1974-match-026",
+      "uid": "wc1974-match-026@world-cup-ics",
+      "date": "1974-06-26",
+      "team1": "Netherlands",
+      "team2": "Argentina",
+      "official_match_number": 26,
+      "fifa_match_id": "1948"
+    },
+    {
+      "sequence": 27,
+      "key": "wc1974-match-027",
+      "uid": "wc1974-match-027@world-cup-ics",
+      "date": "1974-06-26",
+      "team1": "Yugoslavia",
+      "team2": "West Germany",
+      "official_match_number": 27,
+      "fifa_match_id": "2066"
+    },
+    {
+      "sequence": 28,
+      "key": "wc1974-match-028",
+      "uid": "wc1974-match-028@world-cup-ics",
+      "date": "1974-06-26",
+      "team1": "Sweden",
+      "team2": "Poland",
+      "official_match_number": 28,
+      "fifa_match_id": "2167"
+    },
+    {
+      "sequence": 29,
+      "key": "wc1974-match-029",
+      "uid": "wc1974-match-029@world-cup-ics",
+      "date": "1974-06-30",
+      "team1": "East Germany",
+      "team2": "Netherlands",
+      "official_match_number": 29,
+      "fifa_match_id": "2067"
+    },
+    {
+      "sequence": 30,
+      "key": "wc1974-match-030",
+      "uid": "wc1974-match-030@world-cup-ics",
+      "date": "1974-06-30",
+      "team1": "Argentina",
+      "team2": "Brazil",
+      "official_match_number": 30,
+      "fifa_match_id": "1945"
+    },
+    {
+      "sequence": 31,
+      "key": "wc1974-match-031",
+      "uid": "wc1974-match-031@world-cup-ics",
+      "date": "1974-06-30",
+      "team1": "West Germany",
+      "team2": "Sweden",
+      "official_match_number": 31,
+      "fifa_match_id": "2065"
+    },
+    {
+      "sequence": 32,
+      "key": "wc1974-match-032",
+      "uid": "wc1974-match-032@world-cup-ics",
+      "date": "1974-06-30",
+      "team1": "Poland",
+      "team2": "Yugoslavia",
+      "official_match_number": 32,
+      "fifa_match_id": "2170"
+    },
+    {
+      "sequence": 33,
+      "key": "wc1974-match-033",
+      "uid": "wc1974-match-033@world-cup-ics",
+      "date": "1974-07-03",
+      "team1": "Argentina",
+      "team2": "East Germany",
+      "official_match_number": 33,
+      "fifa_match_id": "1946"
+    },
+    {
+      "sequence": 34,
+      "key": "wc1974-match-034",
+      "uid": "wc1974-match-034@world-cup-ics",
+      "date": "1974-07-03",
+      "team1": "Netherlands",
+      "team2": "Brazil",
+      "official_match_number": 34,
+      "fifa_match_id": "1983"
+    },
+    {
+      "sequence": 35,
+      "key": "wc1974-match-035",
+      "uid": "wc1974-match-035@world-cup-ics",
+      "date": "1974-07-03",
+      "team1": "Poland",
+      "team2": "West Germany",
+      "official_match_number": 35,
+      "fifa_match_id": "2064"
+    },
+    {
+      "sequence": 36,
+      "key": "wc1974-match-036",
+      "uid": "wc1974-match-036@world-cup-ics",
+      "date": "1974-07-03",
+      "team1": "Sweden",
+      "team2": "Yugoslavia",
+      "official_match_number": 36,
+      "fifa_match_id": "2182"
+    },
+    {
+      "sequence": 37,
+      "key": "wc1974-match-037",
+      "uid": "wc1974-match-037@world-cup-ics",
+      "date": "1974-07-06",
+      "team1": "Brazil",
+      "team2": "Poland",
+      "official_match_number": 37,
+      "fifa_match_id": "1984"
+    },
+    {
+      "sequence": 38,
+      "key": "wc1974-match-038",
+      "uid": "wc1974-match-038@world-cup-ics",
+      "date": "1974-07-07",
+      "team1": "Netherlands",
+      "team2": "West Germany",
+      "official_match_number": 38,
+      "fifa_match_id": "2063"
+    }
+  ]
+}

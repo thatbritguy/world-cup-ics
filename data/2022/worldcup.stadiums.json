@@ -1,0 +1,84 @@
+{
+  "venues": [
+    {
+      "name": "Ahmad bin Ali Stadium",
+      "city": "Al Rayyan",
+      "ground_aliases": [
+        "Ahmad bin Ali Stadium, Al Rayyan"
+      ],
+      "latitude": 25.32964,
+      "longitude": 51.342273,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Ahmad_bin_Ali_Stadium",
+      "coordinate_source_title": "Ahmad bin Ali Stadium",
+      "match_score": 15
+    },
+    {
+      "name": "Al Bayt Stadium",
+      "city": "Al Khor",
+      "ground_aliases": [
+        "Al Bayt Stadium, Al Khor"
+      ],
+      "latitude": 25.65222222222222,
+      "longitude": 51.48777777777778,
+      "coordinate_source": "https://github.com/openfootball/worldcup.json/blob/master/2022/worldcup.stadiums.json"
+    },
+    {
+      "name": "Al Janoub Stadium",
+      "city": "Al Wakrah",
+      "ground_aliases": [
+        "Al Janoub Stadium, Al Wakrah"
+      ],
+      "latitude": 25.159777777777776,
+      "longitude": 51.574083333333334,
+      "coordinate_source": "https://github.com/openfootball/worldcup.json/blob/master/2022/worldcup.stadiums.json"
+    },
+    {
+      "name": "Al Thumama Stadium",
+      "city": "Doha",
+      "ground_aliases": [
+        "Al Thumama Stadium, Doha"
+      ],
+      "latitude": 25.235278,
+      "longitude": 51.532182,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Al_Thumama_Stadium",
+      "coordinate_source_title": "Al Thumama Stadium",
+      "match_score": 15
+    },
+    {
+      "name": "Education City Stadium",
+      "city": "Al Rayyan",
+      "ground_aliases": [
+        "Education City Stadium, Al Rayyan"
+      ],
+      "latitude": 25.3108,
+      "longitude": 51.4244,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Education_City_Stadium",
+      "coordinate_source_title": "Education City Stadium",
+      "match_score": 15
+    },
+    {
+      "name": "Khalifa International Stadium",
+      "city": "Al Rayyan",
+      "ground_aliases": [
+        "Khalifa International Stadium, Al Rayyan"
+      ],
+      "latitude": 25.26361111,
+      "longitude": 51.44805556,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Khalifa_International_Stadium",
+      "coordinate_source_title": "Khalifa International Stadium",
+      "match_score": 15
+    },
+    {
+      "name": "Stadium 974",
+      "city": "Doha",
+      "ground_aliases": [
+        "Stadium 974, Doha"
+      ],
+      "latitude": 25.29,
+      "longitude": 51.565,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Stadium_974",
+      "coordinate_source_title": "Stadium 974",
+      "match_score": 15
+    }
+  ]
+}

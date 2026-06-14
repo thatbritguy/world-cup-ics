@@ -1,0 +1,1209 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//world-cup-ics//FIFA World Cup 2014//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:FIFA World Cup 2014
+X-WR-CALDESC:Complete fixtures and results for the FIFA World Cup 2014
+BEGIN:VEVENT
+UID:wc2014-match-001@world-cup-ics
+DTSTAMP:20140713T190000Z
+DTSTART:20140612T200000Z
+DTEND:20140612T220000Z
+SUMMARY:[A1] 🇧🇷 BRA 3-1 CRO 🇭🇷 [001]
+LOCATION:Arena de São Paulo\, São Paulo
+GEO:-22.738611;-47.331111
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Arena de São Paulo, São 
+ Paulo";X-APPLE-RADIUS=100;X-TITLE="Arena de São Paulo, São Paulo":geo:-2
+ 2.738611,-47.331111
+DESCRIPTION:Group A | Matchday 1 | 2014 FIFA World Cup - Brazil\nBrazil 3-1
+  Croatia\nHT: 1-1\nGoals:\nBRA 🇧🇷: Neymar 29'\, Neymar 71' pen\, Osc
+ ar 90'\nCRO 🇭🇷: Marcelo 11' og
+URL:https://en.wikipedia.org/wiki/2014_FIFA_World_Cup
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:FIFA World Cup 2014
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2014-match-002@world-cup-ics
+DTSTAMP:20140713T190000Z
+DTSTART:20140613T160000Z
+DTEND:20140613T180000Z
+SUMMARY:[A1] 🇲🇽 MEX 1-0 CMR 🇨🇲 [002]
+LOCATION:Estádio das Dunas\, Natal
+GEO:-5.826900;-35.212400
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estádio das Dunas, Natal"
+ ;X-APPLE-RADIUS=100;X-TITLE="Estádio das Dunas, Natal":geo:-5.826900,-35.
+ 212400
+DESCRIPTION:Group A | Matchday 2 | 2014 FIFA World Cup - Brazil\nMexico 1-0
+  Cameroon\nHT: 0-0\nGoals:\nMEX 🇲🇽: Oribe Peralta 61'
+URL:https://en.wikipedia.org/wiki/2014_FIFA_World_Cup
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:FIFA World Cup 2014
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2014-match-003@world-cup-ics
+DTSTAMP:20140713T190000Z
+DTSTART:20140613T190000Z
+DTEND:20140613T210000Z
+SUMMARY:[B1] 🇪🇸 ESP 1-5 NED 🇳🇱 [003]
+LOCATION:Arena Fonte Nova\, Salvador
+GEO:-12.978611;-38.504167
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Arena Fonte Nova, Salvador
+ ";X-APPLE-RADIUS=100;X-TITLE="Arena Fonte Nova, Salvador":geo:-12.978611,-
+ 38.504167
+DESCRIPTION:Group B | Matchday 2 | 2014 FIFA World Cup - Brazil\nSpain 1-5 
+ Netherlands\nHT: 1-1\nGoals:\nESP 🇪🇸: Xabi Alonso 27' pen\nNED 🇳
+ 🇱: Robin Van Persie 44'\, Robin Van Persie 72'\, Arjen Robben 53'\, Arj
+ en Robben 80'\, Stefan De Vrij 65'
+URL:https://en.wikipedia.org/wiki/2014_FIFA_World_Cup
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:FIFA World Cup 2014
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2014-match-004@world-cup-ics
+DTSTAMP:20140713T190000Z
+DTSTART:20140613T220000Z
+DTEND:20140614T000000Z
+SUMMARY:[B1] 🇨🇱 CHI 3-1 AUS 🇦🇺 [004]
+LOCATION:Arena Pantanal\, Cuiabá
+GEO:-15.595833;-56.096944
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Arena Pantanal, Cuiabá";X
+ -APPLE-RADIUS=100;X-TITLE="Arena Pantanal, Cuiabá":geo:-15.595833,-56.096
+ 944
+DESCRIPTION:Group B | Matchday 2 | 2014 FIFA World Cup - Brazil\nChile 3-1 
+ Australia\nHT: 2-1\nGoals:\nCHI 🇨🇱: Alexis Sánchez 12'\, Jorge Vald
+ ívia 14'\, Jean Beausejour 90'\nAUS 🇦🇺: Cahill 35'
+URL:https://en.wikipedia.org/wiki/2014_FIFA_World_Cup
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:FIFA World Cup 2014
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2014-match-005@world-cup-ics
+DTSTAMP:20140713T190000Z
+DTSTART:20140614T160000Z
+DTEND:20140614T180000Z
+SUMMARY:[C1] 🇨🇴 COL 3-0 GRE 🇬🇷 [005]
+LOCATION:Estádio Mineirão\, Belo Horizonte
+GEO:-19.865833;-43.970833
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estádio Mineirão, Belo H
+ orizonte";X-APPLE-RADIUS=100;X-TITLE="Estádio Mineirão, Belo Horizonte":
+ geo:-19.865833,-43.970833
+DESCRIPTION:Group C | Matchday 3 | 2014 FIFA World Cup - Brazil\nColombia 3
+ -0 Greece\nGoals:\nCOL 🇨🇴: Pablo Armero 5'\, Teofilo Gutiérrez 58'\
+ , James Rodríguez 90'
+URL:https://en.wikipedia.org/wiki/2014_FIFA_World_Cup
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:FIFA World Cup 2014
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2014-match-006@world-cup-ics
+DTSTAMP:20140713T190000Z
+DTSTART:20140615T010000Z
+DTEND:20140615T030000Z
+SUMMARY:[C1] 🇨🇮 CIV 2-1 JPN 🇯🇵 [006]
+LOCATION:Arena Pernambuco\, Recife
+GEO:-8.040556;-35.008333
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Arena Pernambuco, Recife";
+ X-APPLE-RADIUS=100;X-TITLE="Arena Pernambuco, Recife":geo:-8.040556,-35.00
+ 8333
+DESCRIPTION:Group C | Matchday 3 | 2014 FIFA World Cup - Brazil\nIvory Coas
+ t 2-1 Japan\nGoals:\nCIV 🇨🇮: Wilfried Bony 64'\, Gervinho 66'\nJPN 
+ 🇯🇵: Keisuke Honda 16'
+URL:https://en.wikipedia.org/wiki/2014_FIFA_World_Cup
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:FIFA World Cup 2014
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2014-match-007@world-cup-ics
+DTSTAMP:20140713T190000Z
+DTSTART:20140614T190000Z
+DTEND:20140614T210000Z
+SUMMARY:[D1] 🇺🇾 URU 1-3 CRC 🇨🇷 [007]
+LOCATION:Estádio Castelão\, Fortaleza
+GEO:-3.807222;-38.522500
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estádio Castelão, Fortal
+ eza";X-APPLE-RADIUS=100;X-TITLE="Estádio Castelão, Fortaleza":geo:-3.807
+ 222,-38.522500
+DESCRIPTION:Group D | Matchday 3 | 2014 FIFA World Cup - Brazil\nUruguay 1-
+ 3 Costa Rica\nGoals:\nURU 🇺🇾: Edinson Cavani 24' pen\nCRC 🇨🇷: 
+ Joel Campbell 54'\, Oscar Duarte 57'\, Marcos Ureña 84'
+URL:https://en.wikipedia.org/wiki/2014_FIFA_World_Cup
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:FIFA World Cup 2014
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2014-match-008@world-cup-ics
+DTSTAMP:20140713T190000Z
+DTSTART:20140614T220000Z
+DTEND:20140615T000000Z
+SUMMARY:[D1] 🏴󠁧󠁢󠁥󠁮󠁧󠁿 ENG 1-2 ITA 🇮🇹 [008]
+LOCATION:Arena Amazônia\, Manaus
+GEO:-3.083056;-60.028056
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Arena Amazônia, Manaus";X
+ -APPLE-RADIUS=100;X-TITLE="Arena Amazônia, Manaus":geo:-3.083056,-60.0280
+ 56
+DESCRIPTION:Group D | Matchday 3 | 2014 FIFA World Cup - Brazil\nEngland 1-
+ 2 Italy\nGoals:\nENG 🏴󠁧󠁢󠁥󠁮󠁧󠁿: Daniel Sturridge 37'\nI
+ TA 🇮🇹: Claudio Marchisio 35'\, Mario Balotelli 50'
+URL:https://en.wikipedia.org/wiki/2014_FIFA_World_Cup
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:FIFA World Cup 2014
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2014-match-009@world-cup-ics
+DTSTAMP:20140713T190000Z
+DTSTART:20140615T160000Z
+DTEND:20140615T180000Z
+SUMMARY:[E1] 🇨🇭 SUI 2-1 ECU 🇪🇨 [009]
+LOCATION:Estádio Nacional Mané Garrincha\, Brasília
+GEO:-15.783500;-47.899164
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estádio Nacional Mané Ga
+ rrincha, Brasília";X-APPLE-RADIUS=100;X-TITLE="Estádio Nacional Mané Ga
+ rrincha, Brasília":geo:-15.783500,-47.899164
+DESCRIPTION:Group E | Matchday 4 | 2014 FIFA World Cup - Brazil\nSwitzerlan
+ d 2-1 Ecuador\nGoals:\nSUI 🇨🇭: Admir Mehmedi 48'\, Haris Seferović 
+ 90'\nECU 🇪🇨: Enner Valencia 22'
+URL:https://en.wikipedia.org/wiki/2014_FIFA_World_Cup
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:FIFA World Cup 2014
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2014-match-010@world-cup-ics
+DTSTAMP:20140713T190000Z
+DTSTART:20140615T190000Z
+DTEND:20140615T210000Z
+SUMMARY:[E1] 🇫🇷 FRA 3-0 HON 🇭🇳 [010]
+LOCATION:Estádio Beira-Rio\, Porto Alegre
+GEO:-30.065614;-51.236086
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estádio Beira-Rio, Porto 
+ Alegre";X-APPLE-RADIUS=100;X-TITLE="Estádio Beira-Rio, Porto Alegre":geo:
+ -30.065614,-51.236086
+DESCRIPTION:Group E | Matchday 4 | 2014 FIFA World Cup - Brazil\nFrance 3-0
+  Honduras\nGoals:\nFRA 🇫🇷: Noel Valladares 48' og\, Karim Benzema 45
+ ' pen\, Karim Benzema 72'
+URL:https://en.wikipedia.org/wiki/2014_FIFA_World_Cup
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:FIFA World Cup 2014
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2014-match-011@world-cup-ics
+DTSTAMP:20140713T190000Z
+DTSTART:20140615T220000Z
+DTEND:20140616T000000Z
+SUMMARY:[F1] 🇦🇷 ARG 2-1 BIH 🇧🇦 [011]
+LOCATION:Estádio do Maracanã\, Rio de Janeiro
+GEO:-22.912222;-43.230278
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estádio do Maracanã, Rio
+  de Janeiro";X-APPLE-RADIUS=100;X-TITLE="Estádio do Maracanã, Rio de Jan
+ eiro":geo:-22.912222,-43.230278
+DESCRIPTION:Group F | Matchday 4 | 2014 FIFA World Cup - Brazil\nArgentina 
+ 2-1 Bosnia & Herzegovina\nGoals:\nARG 🇦🇷: Sead Kolašinac 3' og\, Li
+ onel Messi 65'\nBIH 🇧🇦: Vedad Ibišević 85'
+URL:https://en.wikipedia.org/wiki/2014_FIFA_World_Cup
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:FIFA World Cup 2014
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2014-match-012@world-cup-ics
+DTSTAMP:20140713T190000Z
+DTSTART:20140616T190000Z
+DTEND:20140616T210000Z
+SUMMARY:[F1] 🇮🇷 IRN 0-0 NGA 🇳🇬 [012]
+LOCATION:Arena da Baixada\, Curitiba
+GEO:-25.448333;-49.276944
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Arena da Baixada, Curitiba
+ ";X-APPLE-RADIUS=100;X-TITLE="Arena da Baixada, Curitiba":geo:-25.448333,-
+ 49.276944
+DESCRIPTION:Group F | Matchday 5 | 2014 FIFA World Cup - Brazil\nIran 0-0 N
+ igeria
+URL:https://en.wikipedia.org/wiki/2014_FIFA_World_Cup
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:FIFA World Cup 2014
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2014-match-013@world-cup-ics
+DTSTAMP:20140713T190000Z
+DTSTART:20140616T160000Z
+DTEND:20140616T180000Z
+SUMMARY:[G1] 🇩🇪 GER 4-0 POR 🇵🇹 [013]
+LOCATION:Arena Fonte Nova\, Salvador
+GEO:-12.978611;-38.504167
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Arena Fonte Nova, Salvador
+ ";X-APPLE-RADIUS=100;X-TITLE="Arena Fonte Nova, Salvador":geo:-12.978611,-
+ 38.504167
+DESCRIPTION:Group G | Matchday 5 | 2014 FIFA World Cup - Brazil\nGermany 4-
+ 0 Portugal\nGoals:\nGER 🇩🇪: Thomas Müller 12' pen\, Thomas Müller 
+ 45'\, Thomas Müller 78'\, Mats Hummels 32'
+URL:https://en.wikipedia.org/wiki/2014_FIFA_World_Cup
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:FIFA World Cup 2014
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2014-match-014@world-cup-ics
+DTSTAMP:20140713T190000Z
+DTSTART:20140616T220000Z
+DTEND:20140617T000000Z
+SUMMARY:[G1] 🇬🇭 GHA 1-2 USA 🇺🇸 [014]
+LOCATION:Estádio das Dunas\, Natal
+GEO:-5.826900;-35.212400
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estádio das Dunas, Natal"
+ ;X-APPLE-RADIUS=100;X-TITLE="Estádio das Dunas, Natal":geo:-5.826900,-35.
+ 212400
+DESCRIPTION:Group G | Matchday 5 | 2014 FIFA World Cup - Brazil\nGhana 1-2 
+ USA\nGoals:\nGHA 🇬🇭: André Ayew 82'\nUSA 🇺🇸: Clint Dempsey 1'
+ \, John Brooks 86'
+URL:https://en.wikipedia.org/wiki/2014_FIFA_World_Cup
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:FIFA World Cup 2014
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2014-match-015@world-cup-ics
+DTSTAMP:20140713T190000Z
+DTSTART:20140617T160000Z
+DTEND:20140617T180000Z
+SUMMARY:[H1] 🇧🇪 BEL 2-1 ALG 🇩🇿 [015]
+LOCATION:Estádio Mineirão\, Belo Horizonte
+GEO:-19.865833;-43.970833
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estádio Mineirão, Belo H
+ orizonte";X-APPLE-RADIUS=100;X-TITLE="Estádio Mineirão, Belo Horizonte":
+ geo:-19.865833,-43.970833
+DESCRIPTION:Group H | Matchday 6 | 2014 FIFA World Cup - Brazil\nBelgium 2-
+ 1 Algeria\nGoals:\nBEL 🇧🇪: Marouane Fellaini 70'\, Dries Mertens 80'
+ \nALG 🇩🇿: Sofiane Feghouli 25' pen
+URL:https://en.wikipedia.org/wiki/2014_FIFA_World_Cup
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:FIFA World Cup 2014
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2014-match-016@world-cup-ics
+DTSTAMP:20140713T190000Z
+DTSTART:20140617T220000Z
+DTEND:20140618T000000Z
+SUMMARY:[H1] 🇷🇺 RUS 1-1 KOR 🇰🇷 [016]
+LOCATION:Arena Pantanal\, Cuiabá
+GEO:-15.595833;-56.096944
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Arena Pantanal, Cuiabá";X
+ -APPLE-RADIUS=100;X-TITLE="Arena Pantanal, Cuiabá":geo:-15.595833,-56.096
+ 944
+DESCRIPTION:Group H | Matchday 6 | 2014 FIFA World Cup - Brazil\nRussia 1-1
+  South Korea\nGoals:\nRUS 🇷🇺: Alexander Kerzhakov 74'\nKOR 🇰🇷:
+  Lee Keunho 68'
+URL:https://en.wikipedia.org/wiki/2014_FIFA_World_Cup
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:FIFA World Cup 2014
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2014-match-017@world-cup-ics
+DTSTAMP:20140713T190000Z
+DTSTART:20140617T190000Z
+DTEND:20140617T210000Z
+SUMMARY:[A2] 🇧🇷 BRA 0-0 MEX 🇲🇽 [017]
+LOCATION:Estádio Castelão\, Fortaleza
+GEO:-3.807222;-38.522500
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estádio Castelão, Fortal
+ eza";X-APPLE-RADIUS=100;X-TITLE="Estádio Castelão, Fortaleza":geo:-3.807
+ 222,-38.522500
+DESCRIPTION:Group A | Matchday 6 | 2014 FIFA World Cup - Brazil\nBrazil 0-0
+  Mexico
+URL:https://en.wikipedia.org/wiki/2014_FIFA_World_Cup
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:FIFA World Cup 2014
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2014-match-018@world-cup-ics
+DTSTAMP:20140713T190000Z
+DTSTART:20140618T220000Z
+DTEND:20140619T000000Z
+SUMMARY:[A2] 🇨🇲 CMR 0-4 CRO 🇭🇷 [018]
+LOCATION:Arena Amazônia\, Manaus
+GEO:-3.083056;-60.028056
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Arena Amazônia, Manaus";X
+ -APPLE-RADIUS=100;X-TITLE="Arena Amazônia, Manaus":geo:-3.083056,-60.0280
+ 56
+DESCRIPTION:Group A | Matchday 7 | 2014 FIFA World Cup - Brazil\nCameroon 0
+ -4 Croatia\nGoals:\nCRO 🇭🇷: Ivica Olić 11'\, Ivan Perišić 48'\, M
+ ario Mandžukić 61'\, Mario Mandžukić 73'
+URL:https://en.wikipedia.org/wiki/2014_FIFA_World_Cup
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:FIFA World Cup 2014
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2014-match-019@world-cup-ics
+DTSTAMP:20140713T190000Z
+DTSTART:20140618T190000Z
+DTEND:20140618T210000Z
+SUMMARY:[B2] 🇪🇸 ESP 0-2 CHI 🇨🇱 [019]
+LOCATION:Estádio do Maracanã\, Rio de Janeiro
+GEO:-22.912222;-43.230278
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estádio do Maracanã, Rio
+  de Janeiro";X-APPLE-RADIUS=100;X-TITLE="Estádio do Maracanã, Rio de Jan
+ eiro":geo:-22.912222,-43.230278
+DESCRIPTION:Group B | Matchday 7 | 2014 FIFA World Cup - Brazil\nSpain 0-2 
+ Chile\nGoals:\nCHI 🇨🇱: Eduardo Vargas 20'\, Charles Aránguiz 43'
+URL:https://en.wikipedia.org/wiki/2014_FIFA_World_Cup
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:FIFA World Cup 2014
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2014-match-020@world-cup-ics
+DTSTAMP:20140713T190000Z
+DTSTART:20140618T160000Z
+DTEND:20140618T180000Z
+SUMMARY:[B2] 🇦🇺 AUS 2-3 NED 🇳🇱 [020]
+LOCATION:Estádio Beira-Rio\, Porto Alegre
+GEO:-30.065614;-51.236086
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estádio Beira-Rio, Porto 
+ Alegre";X-APPLE-RADIUS=100;X-TITLE="Estádio Beira-Rio, Porto Alegre":geo:
+ -30.065614,-51.236086
+DESCRIPTION:Group B | Matchday 7 | 2014 FIFA World Cup - Brazil\nAustralia 
+ 2-3 Netherlands\nGoals:\nAUS 🇦🇺: Tim Cahill 21'\, Mile Jedinak 54' p
+ en\nNED 🇳🇱: Arjen Robben 20'\, Robin Van Persie 58'\, Memphis Depay 
+ 68'
+URL:https://en.wikipedia.org/wiki/2014_FIFA_World_Cup
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:FIFA World Cup 2014
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2014-match-021@world-cup-ics
+DTSTAMP:20140713T190000Z
+DTSTART:20140619T160000Z
+DTEND:20140619T180000Z
+SUMMARY:[C2] 🇨🇴 COL 2-1 CIV 🇨🇮 [021]
+LOCATION:Estádio Nacional Mané Garrincha\, Brasília
+GEO:-15.783500;-47.899164
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estádio Nacional Mané Ga
+ rrincha, Brasília";X-APPLE-RADIUS=100;X-TITLE="Estádio Nacional Mané Ga
+ rrincha, Brasília":geo:-15.783500,-47.899164
+DESCRIPTION:Group C | Matchday 8 | 2014 FIFA World Cup - Brazil\nColombia 2
+ -1 Ivory Coast\nGoals:\nCOL 🇨🇴: James Rodríguez 64'\, Juan Quintero
+  70'\nCIV 🇨🇮: Gervinho 73'
+URL:https://en.wikipedia.org/wiki/2014_FIFA_World_Cup
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:FIFA World Cup 2014
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2014-match-022@world-cup-ics
+DTSTAMP:20140713T190000Z
+DTSTART:20140619T220000Z
+DTEND:20140620T000000Z
+SUMMARY:[C2] 🇯🇵 JPN 0-0 GRE 🇬🇷 [022]
+LOCATION:Estádio das Dunas\, Natal
+GEO:-5.826900;-35.212400
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estádio das Dunas, Natal"
+ ;X-APPLE-RADIUS=100;X-TITLE="Estádio das Dunas, Natal":geo:-5.826900,-35.
+ 212400
+DESCRIPTION:Group C | Matchday 8 | 2014 FIFA World Cup - Brazil\nJapan 0-0 
+ Greece
+URL:https://en.wikipedia.org/wiki/2014_FIFA_World_Cup
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:FIFA World Cup 2014
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2014-match-023@world-cup-ics
+DTSTAMP:20140713T190000Z
+DTSTART:20140619T190000Z
+DTEND:20140619T210000Z
+SUMMARY:[D2] 🇺🇾 URU 2-1 ENG 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [023]
+LOCATION:Arena de São Paulo\, São Paulo
+GEO:-22.738611;-47.331111
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Arena de São Paulo, São 
+ Paulo";X-APPLE-RADIUS=100;X-TITLE="Arena de São Paulo, São Paulo":geo:-2
+ 2.738611,-47.331111
+DESCRIPTION:Group D | Matchday 8 | 2014 FIFA World Cup - Brazil\nUruguay 2-
+ 1 England\nGoals:\nURU 🇺🇾: Luis Suárez 39'\, Luis Suárez 85'\nENG 
+ 🏴󠁧󠁢󠁥󠁮󠁧󠁿: Wayne Rooney 75'
+URL:https://en.wikipedia.org/wiki/2014_FIFA_World_Cup
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:FIFA World Cup 2014
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2014-match-024@world-cup-ics
+DTSTAMP:20140713T190000Z
+DTSTART:20140620T160000Z
+DTEND:20140620T180000Z
+SUMMARY:[D2] 🇮🇹 ITA 0-1 CRC 🇨🇷 [024]
+LOCATION:Arena Pernambuco\, Recife
+GEO:-8.040556;-35.008333
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Arena Pernambuco, Recife";
+ X-APPLE-RADIUS=100;X-TITLE="Arena Pernambuco, Recife":geo:-8.040556,-35.00
+ 8333
+DESCRIPTION:Group D | Matchday 9 | 2014 FIFA World Cup - Brazil\nItaly 0-1 
+ Costa Rica\nGoals:\nCRC 🇨🇷: Bryan Ruiz 44'
+URL:https://en.wikipedia.org/wiki/2014_FIFA_World_Cup
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:FIFA World Cup 2014
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2014-match-025@world-cup-ics
+DTSTAMP:20140713T190000Z
+DTSTART:20140620T190000Z
+DTEND:20140620T210000Z
+SUMMARY:[E2] 🇨🇭 SUI 2-5 FRA 🇫🇷 [025]
+LOCATION:Arena Fonte Nova\, Salvador
+GEO:-12.978611;-38.504167
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Arena Fonte Nova, Salvador
+ ";X-APPLE-RADIUS=100;X-TITLE="Arena Fonte Nova, Salvador":geo:-12.978611,-
+ 38.504167
+DESCRIPTION:Group E | Matchday 9 | 2014 FIFA World Cup - Brazil\nSwitzerlan
+ d 2-5 France\nGoals:\nSUI 🇨🇭: Blerim Džemaili 81'\, Granit Xhaka 87
+ '\nFRA 🇫🇷: Olivier Giroud 17'\, Blaise Matuidi 18'\, Mathieu Valbuen
+ a 40'\, Karim Benzema 67'\, Moussa Sissoko 73'
+URL:https://en.wikipedia.org/wiki/2014_FIFA_World_Cup
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:FIFA World Cup 2014
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2014-match-026@world-cup-ics
+DTSTAMP:20140713T190000Z
+DTSTART:20140620T220000Z
+DTEND:20140621T000000Z
+SUMMARY:[E2] 🇭🇳 HON 1-2 ECU 🇪🇨 [026]
+LOCATION:Arena da Baixada\, Curitiba
+GEO:-25.448333;-49.276944
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Arena da Baixada, Curitiba
+ ";X-APPLE-RADIUS=100;X-TITLE="Arena da Baixada, Curitiba":geo:-25.448333,-
+ 49.276944
+DESCRIPTION:Group E | Matchday 9 | 2014 FIFA World Cup - Brazil\nHonduras 1
+ -2 Ecuador\nGoals:\nHON 🇭🇳: Carlo Costly 31'\nECU 🇪🇨: Enner Va
+ lencia 34'\, Enner Valencia 65'
+URL:https://en.wikipedia.org/wiki/2014_FIFA_World_Cup
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:FIFA World Cup 2014
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2014-match-027@world-cup-ics
+DTSTAMP:20140713T190000Z
+DTSTART:20140621T160000Z
+DTEND:20140621T180000Z
+SUMMARY:[F2] 🇦🇷 ARG 1-0 IRN 🇮🇷 [027]
+LOCATION:Estádio Mineirão\, Belo Horizonte
+GEO:-19.865833;-43.970833
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estádio Mineirão, Belo H
+ orizonte";X-APPLE-RADIUS=100;X-TITLE="Estádio Mineirão, Belo Horizonte":
+ geo:-19.865833,-43.970833
+DESCRIPTION:Group F | Matchday 10 | 2014 FIFA World Cup - Brazil\nArgentina
+  1-0 Iran\nGoals:\nARG 🇦🇷: Lionel Messi 90'
+URL:https://en.wikipedia.org/wiki/2014_FIFA_World_Cup
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:FIFA World Cup 2014
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2014-match-028@world-cup-ics
+DTSTAMP:20140713T190000Z
+DTSTART:20140621T220000Z
+DTEND:20140622T000000Z
+SUMMARY:[F2] 🇳🇬 NGA 1-0 BIH 🇧🇦 [029]
+LOCATION:Arena Pantanal\, Cuiabá
+GEO:-15.595833;-56.096944
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Arena Pantanal, Cuiabá";X
+ -APPLE-RADIUS=100;X-TITLE="Arena Pantanal, Cuiabá":geo:-15.595833,-56.096
+ 944
+DESCRIPTION:Group F | Matchday 10 | 2014 FIFA World Cup - Brazil\nNigeria 1
+ -0 Bosnia & Herzegovina\nGoals:\nNGA 🇳🇬: Peter Odemwingie 29'
+URL:https://en.wikipedia.org/wiki/2014_FIFA_World_Cup
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:FIFA World Cup 2014
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2014-match-029@world-cup-ics
+DTSTAMP:20140713T190000Z
+DTSTART:20140621T190000Z
+DTEND:20140621T210000Z
+SUMMARY:[G2] 🇩🇪 GER 2-2 GHA 🇬🇭 [029]
+LOCATION:Estádio Castelão\, Fortaleza
+GEO:-3.807222;-38.522500
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estádio Castelão, Fortal
+ eza";X-APPLE-RADIUS=100;X-TITLE="Estádio Castelão, Fortaleza":geo:-3.807
+ 222,-38.522500
+DESCRIPTION:Group G | Matchday 10 | 2014 FIFA World Cup - Brazil\nGermany 2
+ -2 Ghana\nGoals:\nGER 🇩🇪: Mario Götze 51'\, Miroslav Klose 71'\nGHA
+  🇬🇭: André Ayew 54'\, Asamoah Gyan 63'
+URL:https://en.wikipedia.org/wiki/2014_FIFA_World_Cup
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:FIFA World Cup 2014
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2014-match-030@world-cup-ics
+DTSTAMP:20140713T190000Z
+DTSTART:20140622T220000Z
+DTEND:20140623T000000Z
+SUMMARY:[G2] 🇺🇸 USA 2-2 POR 🇵🇹 [030]
+LOCATION:Arena Amazônia\, Manaus
+GEO:-3.083056;-60.028056
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Arena Amazônia, Manaus";X
+ -APPLE-RADIUS=100;X-TITLE="Arena Amazônia, Manaus":geo:-3.083056,-60.0280
+ 56
+DESCRIPTION:Group G | Matchday 11 | 2014 FIFA World Cup - Brazil\nUSA 2-2 P
+ ortugal\nGoals:\nUSA 🇺🇸: Jermaine Jones 64'\, Clint Dempsey 81'\nPOR
+  🇵🇹: Nani 5'\, Varela 90'
+URL:https://en.wikipedia.org/wiki/2014_FIFA_World_Cup
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:FIFA World Cup 2014
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2014-match-031@world-cup-ics
+DTSTAMP:20140713T190000Z
+DTSTART:20140622T160000Z
+DTEND:20140622T180000Z
+SUMMARY:[H2] 🇧🇪 BEL 1-0 RUS 🇷🇺 [031]
+LOCATION:Estádio do Maracanã\, Rio de Janeiro
+GEO:-22.912222;-43.230278
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estádio do Maracanã, Rio
+  de Janeiro";X-APPLE-RADIUS=100;X-TITLE="Estádio do Maracanã, Rio de Jan
+ eiro":geo:-22.912222,-43.230278
+DESCRIPTION:Group H | Matchday 11 | 2014 FIFA World Cup - Brazil\nBelgium 1
+ -0 Russia\nGoals:\nBEL 🇧🇪: Divock Origi 88'
+URL:https://en.wikipedia.org/wiki/2014_FIFA_World_Cup
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:FIFA World Cup 2014
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2014-match-032@world-cup-ics
+DTSTAMP:20140713T190000Z
+DTSTART:20140622T190000Z
+DTEND:20140622T210000Z
+SUMMARY:[H2] 🇰🇷 KOR 2-4 ALG 🇩🇿 [032]
+LOCATION:Estádio Beira-Rio\, Porto Alegre
+GEO:-30.065614;-51.236086
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estádio Beira-Rio, Porto 
+ Alegre";X-APPLE-RADIUS=100;X-TITLE="Estádio Beira-Rio, Porto Alegre":geo:
+ -30.065614,-51.236086
+DESCRIPTION:Group H | Matchday 11 | 2014 FIFA World Cup - Brazil\nSouth Kor
+ ea 2-4 Algeria\nGoals:\nKOR 🇰🇷: Son Heung Min 50'\, Koo Jacheol 72'\
+ nALG 🇩🇿: Islam Slimani 26'\, Rafik Halliche 28'\, Abdelmoumene Djabo
+ u 38'\, Yacine Brahimi 62'
+URL:https://en.wikipedia.org/wiki/2014_FIFA_World_Cup
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:FIFA World Cup 2014
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2014-match-033@world-cup-ics
+DTSTAMP:20140713T190000Z
+DTSTART:20140623T200000Z
+DTEND:20140623T220000Z
+SUMMARY:[A3] 🇨🇲 CMR 1-4 BRA 🇧🇷 [033]
+LOCATION:Estádio Nacional Mané Garrincha\, Brasília
+GEO:-15.783500;-47.899164
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estádio Nacional Mané Ga
+ rrincha, Brasília";X-APPLE-RADIUS=100;X-TITLE="Estádio Nacional Mané Ga
+ rrincha, Brasília":geo:-15.783500,-47.899164
+DESCRIPTION:Group A | Matchday 12 | 2014 FIFA World Cup - Brazil\nCameroon 
+ 1-4 Brazil\nGoals:\nCMR 🇨🇲: Joel Matip 26'\nBRA 🇧🇷: Neymar 17'
+ \, Neymar 35'\, Fred 49'\, Fernandinho 84'
+URL:https://en.wikipedia.org/wiki/2014_FIFA_World_Cup
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:FIFA World Cup 2014
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2014-match-034@world-cup-ics
+DTSTAMP:20140713T190000Z
+DTSTART:20140623T200000Z
+DTEND:20140623T220000Z
+SUMMARY:[A3] 🇭🇷 CRO 1-3 MEX 🇲🇽 [034]
+LOCATION:Arena Pernambuco\, Recife
+GEO:-8.040556;-35.008333
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Arena Pernambuco, Recife";
+ X-APPLE-RADIUS=100;X-TITLE="Arena Pernambuco, Recife":geo:-8.040556,-35.00
+ 8333
+DESCRIPTION:Group A | Matchday 12 | 2014 FIFA World Cup - Brazil\nCroatia 1
+ -3 Mexico\nGoals:\nCRO 🇭🇷: Ivan Perišić 87'\nMEX 🇲🇽: Rafael 
+ Márquez 72'\, Andres Guardado 75'\, Javier Hernández 82'
+URL:https://en.wikipedia.org/wiki/2014_FIFA_World_Cup
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:FIFA World Cup 2014
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2014-match-035@world-cup-ics
+DTSTAMP:20140713T190000Z
+DTSTART:20140623T160000Z
+DTEND:20140623T180000Z
+SUMMARY:[B3] 🇦🇺 AUS 0-3 ESP 🇪🇸 [035]
+LOCATION:Arena da Baixada\, Curitiba
+GEO:-25.448333;-49.276944
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Arena da Baixada, Curitiba
+ ";X-APPLE-RADIUS=100;X-TITLE="Arena da Baixada, Curitiba":geo:-25.448333,-
+ 49.276944
+DESCRIPTION:Group B | Matchday 12 | 2014 FIFA World Cup - Brazil\nAustralia
+  0-3 Spain\nGoals:\nESP 🇪🇸: David Villa 36'\, Fernando Torres 69'\, 
+ Juan Mata 82'
+URL:https://en.wikipedia.org/wiki/2014_FIFA_World_Cup
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:FIFA World Cup 2014
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2014-match-036@world-cup-ics
+DTSTAMP:20140713T190000Z
+DTSTART:20140623T160000Z
+DTEND:20140623T180000Z
+SUMMARY:[B3] 🇳🇱 NED 2-0 CHI 🇨🇱 [036]
+LOCATION:Arena de São Paulo\, São Paulo
+GEO:-22.738611;-47.331111
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Arena de São Paulo, São 
+ Paulo";X-APPLE-RADIUS=100;X-TITLE="Arena de São Paulo, São Paulo":geo:-2
+ 2.738611,-47.331111
+DESCRIPTION:Group B | Matchday 12 | 2014 FIFA World Cup - Brazil\nNetherlan
+ ds 2-0 Chile\nGoals:\nNED 🇳🇱: Leroy Fer 77'\, Memphis Depay 90'
+URL:https://en.wikipedia.org/wiki/2014_FIFA_World_Cup
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:FIFA World Cup 2014
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2014-match-037@world-cup-ics
+DTSTAMP:20140713T190000Z
+DTSTART:20140624T200000Z
+DTEND:20140624T220000Z
+SUMMARY:[C3] 🇯🇵 JPN 1-4 COL 🇨🇴 [037]
+LOCATION:Arena Pantanal\, Cuiabá
+GEO:-15.595833;-56.096944
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Arena Pantanal, Cuiabá";X
+ -APPLE-RADIUS=100;X-TITLE="Arena Pantanal, Cuiabá":geo:-15.595833,-56.096
+ 944
+DESCRIPTION:Group C | Matchday 13 | 2014 FIFA World Cup - Brazil\nJapan 1-4
+  Colombia\nGoals:\nJPN 🇯🇵: Shinji Okazaki 45'\nCOL 🇨🇴: Juan Cu
+ adrado 17' pen\, Jackson Martínez 55'\, Jackson Martínez 82'\, James Rod
+ ríguez 90'
+URL:https://en.wikipedia.org/wiki/2014_FIFA_World_Cup
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:FIFA World Cup 2014
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2014-match-038@world-cup-ics
+DTSTAMP:20140713T190000Z
+DTSTART:20140624T200000Z
+DTEND:20140624T220000Z
+SUMMARY:[C3] 🇬🇷 GRE 2-1 CIV 🇨🇮 [038]
+LOCATION:Estádio Castelão\, Fortaleza
+GEO:-3.807222;-38.522500
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estádio Castelão, Fortal
+ eza";X-APPLE-RADIUS=100;X-TITLE="Estádio Castelão, Fortaleza":geo:-3.807
+ 222,-38.522500
+DESCRIPTION:Group C | Matchday 13 | 2014 FIFA World Cup - Brazil\nGreece 2-
+ 1 Ivory Coast\nGoals:\nGRE 🇬🇷: Andreas Samaris 42'\, Georgios Samara
+ s 90' pen\nCIV 🇨🇮: Wilfried Bony 74'
+URL:https://en.wikipedia.org/wiki/2014_FIFA_World_Cup
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:FIFA World Cup 2014
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2014-match-039@world-cup-ics
+DTSTAMP:20140713T190000Z
+DTSTART:20140624T160000Z
+DTEND:20140624T180000Z
+SUMMARY:[D3] 🇮🇹 ITA 0-1 URU 🇺🇾 [039]
+LOCATION:Estádio das Dunas\, Natal
+GEO:-5.826900;-35.212400
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estádio das Dunas, Natal"
+ ;X-APPLE-RADIUS=100;X-TITLE="Estádio das Dunas, Natal":geo:-5.826900,-35.
+ 212400
+DESCRIPTION:Group D | Matchday 13 | 2014 FIFA World Cup - Brazil\nItaly 0-1
+  Uruguay\nGoals:\nURU 🇺🇾: Diego Godín 81'
+URL:https://en.wikipedia.org/wiki/2014_FIFA_World_Cup
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:FIFA World Cup 2014
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2014-match-040@world-cup-ics
+DTSTAMP:20140713T190000Z
+DTSTART:20140624T160000Z
+DTEND:20140624T180000Z
+SUMMARY:[D3] 🇨🇷 CRC 0-0 ENG 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [040]
+LOCATION:Estádio Mineirão\, Belo Horizonte
+GEO:-19.865833;-43.970833
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estádio Mineirão, Belo H
+ orizonte";X-APPLE-RADIUS=100;X-TITLE="Estádio Mineirão, Belo Horizonte":
+ geo:-19.865833,-43.970833
+DESCRIPTION:Group D | Matchday 13 | 2014 FIFA World Cup - Brazil\nCosta Ric
+ a 0-0 England
+URL:https://en.wikipedia.org/wiki/2014_FIFA_World_Cup
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:FIFA World Cup 2014
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2014-match-041@world-cup-ics
+DTSTAMP:20140713T190000Z
+DTSTART:20140625T200000Z
+DTEND:20140625T220000Z
+SUMMARY:[E3] 🇭🇳 HON 0-3 SUI 🇨🇭 [041]
+LOCATION:Arena Amazônia\, Manaus
+GEO:-3.083056;-60.028056
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Arena Amazônia, Manaus";X
+ -APPLE-RADIUS=100;X-TITLE="Arena Amazônia, Manaus":geo:-3.083056,-60.0280
+ 56
+DESCRIPTION:Group E | Matchday 14 | 2014 FIFA World Cup - Brazil\nHonduras 
+ 0-3 Switzerland\nGoals:\nSUI 🇨🇭: Xherdan Shaqiri 6'\, Xherdan Shaqir
+ i 31'\, Xherdan Shaqiri 71'
+URL:https://en.wikipedia.org/wiki/2014_FIFA_World_Cup
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:FIFA World Cup 2014
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2014-match-042@world-cup-ics
+DTSTAMP:20140713T190000Z
+DTSTART:20140625T160000Z
+DTEND:20140625T180000Z
+SUMMARY:[F3] 🇧🇦 BIH 3-1 IRN 🇮🇷 [041]
+LOCATION:Arena Fonte Nova\, Salvador
+GEO:-12.978611;-38.504167
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Arena Fonte Nova, Salvador
+ ";X-APPLE-RADIUS=100;X-TITLE="Arena Fonte Nova, Salvador":geo:-12.978611,-
+ 38.504167
+DESCRIPTION:Group F | Matchday 14 | 2014 FIFA World Cup - Brazil\nBosnia & 
+ Herzegovina 3-1 Iran\nGoals:\nBIH 🇧🇦: Edin Džeko 23'\, Miralem Pjan
+ ić 59'\, Avdija Vršajević 83'\nIRN 🇮🇷: Reza Ghoochannejhad 82'
+URL:https://en.wikipedia.org/wiki/2014_FIFA_World_Cup
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:FIFA World Cup 2014
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2014-match-043@world-cup-ics
+DTSTAMP:20140713T190000Z
+DTSTART:20140625T200000Z
+DTEND:20140625T220000Z
+SUMMARY:[E3] 🇪🇨 ECU 0-0 FRA 🇫🇷 [042]
+LOCATION:Estádio do Maracanã\, Rio de Janeiro
+GEO:-22.912222;-43.230278
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estádio do Maracanã, Rio
+  de Janeiro";X-APPLE-RADIUS=100;X-TITLE="Estádio do Maracanã, Rio de Jan
+ eiro":geo:-22.912222,-43.230278
+DESCRIPTION:Group E | Matchday 14 | 2014 FIFA World Cup - Brazil\nEcuador 0
+ -0 France
+URL:https://en.wikipedia.org/wiki/2014_FIFA_World_Cup
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:FIFA World Cup 2014
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2014-match-044@world-cup-ics
+DTSTAMP:20140713T190000Z
+DTSTART:20140625T160000Z
+DTEND:20140625T180000Z
+SUMMARY:[F3] 🇳🇬 NGA 2-3 ARG 🇦🇷 [043]
+LOCATION:Estádio Beira-Rio\, Porto Alegre
+GEO:-30.065614;-51.236086
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estádio Beira-Rio, Porto 
+ Alegre";X-APPLE-RADIUS=100;X-TITLE="Estádio Beira-Rio, Porto Alegre":geo:
+ -30.065614,-51.236086
+DESCRIPTION:Group F | Matchday 14 | 2014 FIFA World Cup - Brazil\nNigeria 2
+ -3 Argentina\nGoals:\nNGA 🇳🇬: Ahmed Musa 4'\, Ahmed Musa 47'\nARG 
+ 🇦🇷: Lionel Messi 3'\, Lionel Messi 45'\, Marcos Rojo 50'
+URL:https://en.wikipedia.org/wiki/2014_FIFA_World_Cup
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:FIFA World Cup 2014
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2014-match-045@world-cup-ics
+DTSTAMP:20140713T190000Z
+DTSTART:20140626T160000Z
+DTEND:20140626T180000Z
+SUMMARY:[G3] 🇺🇸 USA 0-1 GER 🇩🇪 [045]
+LOCATION:Arena Pernambuco\, Recife
+GEO:-8.040556;-35.008333
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Arena Pernambuco, Recife";
+ X-APPLE-RADIUS=100;X-TITLE="Arena Pernambuco, Recife":geo:-8.040556,-35.00
+ 8333
+DESCRIPTION:Group G | Matchday 15 | 2014 FIFA World Cup - Brazil\nUSA 0-1 G
+ ermany\nGoals:\nGER 🇩🇪: Thomas Müller 55'
+URL:https://en.wikipedia.org/wiki/2014_FIFA_World_Cup
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:FIFA World Cup 2014
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2014-match-046@world-cup-ics
+DTSTAMP:20140713T190000Z
+DTSTART:20140626T160000Z
+DTEND:20140626T180000Z
+SUMMARY:[G3] 🇵🇹 POR 2-1 GHA 🇬🇭 [046]
+LOCATION:Estádio Nacional Mané Garrincha\, Brasília
+GEO:-15.783500;-47.899164
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estádio Nacional Mané Ga
+ rrincha, Brasília";X-APPLE-RADIUS=100;X-TITLE="Estádio Nacional Mané Ga
+ rrincha, Brasília":geo:-15.783500,-47.899164
+DESCRIPTION:Group G | Matchday 15 | 2014 FIFA World Cup - Brazil\nPortugal 
+ 2-1 Ghana\nGoals:\nPOR 🇵🇹: John Boye 31' og\, Cristiano Ronaldo 80'\
+ nGHA 🇬🇭: Asamoah Gyan 57'
+URL:https://en.wikipedia.org/wiki/2014_FIFA_World_Cup
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:FIFA World Cup 2014
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2014-match-047@world-cup-ics
+DTSTAMP:20140713T190000Z
+DTSTART:20140626T200000Z
+DTEND:20140626T220000Z
+SUMMARY:[H3] 🇰🇷 KOR 0-1 BEL 🇧🇪 [047]
+LOCATION:Arena de São Paulo\, São Paulo
+GEO:-22.738611;-47.331111
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Arena de São Paulo, São 
+ Paulo";X-APPLE-RADIUS=100;X-TITLE="Arena de São Paulo, São Paulo":geo:-2
+ 2.738611,-47.331111
+DESCRIPTION:Group H | Matchday 15 | 2014 FIFA World Cup - Brazil\nSouth Kor
+ ea 0-1 Belgium\nGoals:\nBEL 🇧🇪: Jan Vertonghen 78'
+URL:https://en.wikipedia.org/wiki/2014_FIFA_World_Cup
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:FIFA World Cup 2014
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2014-match-048@world-cup-ics
+DTSTAMP:20140713T190000Z
+DTSTART:20140626T200000Z
+DTEND:20140626T220000Z
+SUMMARY:[H3] 🇩🇿 ALG 1-1 RUS 🇷🇺 [048]
+LOCATION:Arena da Baixada\, Curitiba
+GEO:-25.448333;-49.276944
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Arena da Baixada, Curitiba
+ ";X-APPLE-RADIUS=100;X-TITLE="Arena da Baixada, Curitiba":geo:-25.448333,-
+ 49.276944
+DESCRIPTION:Group H | Matchday 15 | 2014 FIFA World Cup - Brazil\nAlgeria 1
+ -1 Russia\nGoals:\nALG 🇩🇿: Islam Slimani 60'\nRUS 🇷🇺: Alexande
+ r Kokorin 6'
+URL:https://en.wikipedia.org/wiki/2014_FIFA_World_Cup
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:FIFA World Cup 2014
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2014-match-049@world-cup-ics
+DTSTAMP:20140713T190000Z
+DTSTART:20140628T160000Z
+DTEND:20140628T190000Z
+SUMMARY:[R16] 🇧🇷 BRA (p) 1-1 (aet) CHI 🇨🇱 [049]
+LOCATION:Estádio Mineirão\, Belo Horizonte
+GEO:-19.865833;-43.970833
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estádio Mineirão, Belo H
+ orizonte";X-APPLE-RADIUS=100;X-TITLE="Estádio Mineirão, Belo Horizonte":
+ geo:-19.865833,-43.970833
+DESCRIPTION:Round of 16 | 2014 FIFA World Cup - Brazil\nBrazil 1-1 Chile\nH
+ T: 1-1\nFT: 1-1\nAET: 1-1\nPenalties: 3-2\nGoals:\nBRA 🇧🇷: David Lui
+ z 18'\nCHI 🇨🇱: Alexis Sánchez 32'
+URL:https://en.wikipedia.org/wiki/2014_FIFA_World_Cup
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:FIFA World Cup 2014
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2014-match-050@world-cup-ics
+DTSTAMP:20140713T190000Z
+DTSTART:20140628T200000Z
+DTEND:20140628T230000Z
+SUMMARY:[R16] 🇨🇴 COL 2-0 URU 🇺🇾 [050]
+LOCATION:Estádio do Maracanã\, Rio de Janeiro
+GEO:-22.912222;-43.230278
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estádio do Maracanã, Rio
+  de Janeiro";X-APPLE-RADIUS=100;X-TITLE="Estádio do Maracanã, Rio de Jan
+ eiro":geo:-22.912222,-43.230278
+DESCRIPTION:Round of 16 | 2014 FIFA World Cup - Brazil\nColombia 2-0 Urugua
+ y\nHT: 1-0\nGoals:\nCOL 🇨🇴: James Rodríguez 28'\, James Rodríguez 
+ 50'
+URL:https://en.wikipedia.org/wiki/2014_FIFA_World_Cup
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:FIFA World Cup 2014
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2014-match-051@world-cup-ics
+DTSTAMP:20140713T190000Z
+DTSTART:20140629T160000Z
+DTEND:20140629T190000Z
+SUMMARY:[R16] 🇳🇱 NED 2-1 MEX 🇲🇽 [051]
+LOCATION:Estádio Castelão\, Fortaleza
+GEO:-3.807222;-38.522500
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estádio Castelão, Fortal
+ eza";X-APPLE-RADIUS=100;X-TITLE="Estádio Castelão, Fortaleza":geo:-3.807
+ 222,-38.522500
+DESCRIPTION:Round of 16 | 2014 FIFA World Cup - Brazil\nNetherlands 2-1 Mex
+ ico\nHT: 0-0\nGoals:\nNED 🇳🇱: Wesley Sneijder 88'\, Klaas Jan Huntel
+ aar 90' pen\nMEX 🇲🇽: Giovani dos Santos 48'
+URL:https://en.wikipedia.org/wiki/2014_FIFA_World_Cup
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:FIFA World Cup 2014
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2014-match-052@world-cup-ics
+DTSTAMP:20140713T190000Z
+DTSTART:20140629T200000Z
+DTEND:20140629T230000Z
+SUMMARY:[R16] 🇨🇷 CRC (p) 1-1 (aet) GRE 🇬🇷 [052]
+LOCATION:Arena Pernambuco\, Recife
+GEO:-8.040556;-35.008333
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Arena Pernambuco, Recife";
+ X-APPLE-RADIUS=100;X-TITLE="Arena Pernambuco, Recife":geo:-8.040556,-35.00
+ 8333
+DESCRIPTION:Round of 16 | 2014 FIFA World Cup - Brazil\nCosta Rica 1-1 Gree
+ ce\nHT: 0-0\nFT: 1-1\nAET: 1-1\nPenalties: 5-3\nGoals:\nCRC 🇨🇷: Brya
+ n Ruiz 52'\nGRE 🇬🇷: Socratis Papastathopoulos 90'
+URL:https://en.wikipedia.org/wiki/2014_FIFA_World_Cup
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:FIFA World Cup 2014
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2014-match-053@world-cup-ics
+DTSTAMP:20140713T190000Z
+DTSTART:20140630T160000Z
+DTEND:20140630T190000Z
+SUMMARY:[R16] 🇫🇷 FRA 2-0 NGA 🇳🇬 [053]
+LOCATION:Estádio Nacional Mané Garrincha\, Brasília
+GEO:-15.783500;-47.899164
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estádio Nacional Mané Ga
+ rrincha, Brasília";X-APPLE-RADIUS=100;X-TITLE="Estádio Nacional Mané Ga
+ rrincha, Brasília":geo:-15.783500,-47.899164
+DESCRIPTION:Round of 16 | 2014 FIFA World Cup - Brazil\nFrance 2-0 Nigeria\
+ nHT: 0-0\nGoals:\nFRA 🇫🇷: Paul Pogba 79'\, Joseph Yobo 90' og
+URL:https://en.wikipedia.org/wiki/2014_FIFA_World_Cup
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:FIFA World Cup 2014
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2014-match-054@world-cup-ics
+DTSTAMP:20140713T190000Z
+DTSTART:20140630T200000Z
+DTEND:20140630T230000Z
+SUMMARY:[R16] 🇩🇪 GER 2-1 (aet) ALG 🇩🇿 [054]
+LOCATION:Estádio Beira-Rio\, Porto Alegre
+GEO:-30.065614;-51.236086
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estádio Beira-Rio, Porto 
+ Alegre";X-APPLE-RADIUS=100;X-TITLE="Estádio Beira-Rio, Porto Alegre":geo:
+ -30.065614,-51.236086
+DESCRIPTION:Round of 16 | 2014 FIFA World Cup - Brazil\nGermany 2-1 Algeria
+ \nHT: 0-0\nFT: 0-0\nAET: 2-1\nGoals:\nGER 🇩🇪: André Schürrle 92'\,
+  Mesut Özil 120'\nALG 🇩🇿: Abdelmoumene Djabou 121'
+URL:https://en.wikipedia.org/wiki/2014_FIFA_World_Cup
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:FIFA World Cup 2014
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2014-match-055@world-cup-ics
+DTSTAMP:20140713T190000Z
+DTSTART:20140701T160000Z
+DTEND:20140701T190000Z
+SUMMARY:[R16] 🇦🇷 ARG 1-0 (aet) SUI 🇨🇭 [055]
+LOCATION:Arena de São Paulo\, São Paulo
+GEO:-22.738611;-47.331111
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Arena de São Paulo, São 
+ Paulo";X-APPLE-RADIUS=100;X-TITLE="Arena de São Paulo, São Paulo":geo:-2
+ 2.738611,-47.331111
+DESCRIPTION:Round of 16 | 2014 FIFA World Cup - Brazil\nArgentina 1-0 Switz
+ erland\nHT: 0-0\nFT: 0-0\nAET: 1-0\nGoals:\nARG 🇦🇷: Ángel di María
+  118'
+URL:https://en.wikipedia.org/wiki/2014_FIFA_World_Cup
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:FIFA World Cup 2014
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2014-match-056@world-cup-ics
+DTSTAMP:20140713T190000Z
+DTSTART:20140701T200000Z
+DTEND:20140701T230000Z
+SUMMARY:[R16] 🇧🇪 BEL 2-1 (aet) USA 🇺🇸 [056]
+LOCATION:Arena Fonte Nova\, Salvador
+GEO:-12.978611;-38.504167
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Arena Fonte Nova, Salvador
+ ";X-APPLE-RADIUS=100;X-TITLE="Arena Fonte Nova, Salvador":geo:-12.978611,-
+ 38.504167
+DESCRIPTION:Round of 16 | 2014 FIFA World Cup - Brazil\nBelgium 2-1 USA\nHT
+ : 0-0\nFT: 0-0\nAET: 2-1\nGoals:\nBEL 🇧🇪: Kevin De Bruyne 93'\, Rome
+ lu Lukaku 105'\nUSA 🇺🇸: Julian Green 107'
+URL:https://en.wikipedia.org/wiki/2014_FIFA_World_Cup
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:FIFA World Cup 2014
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2014-match-057@world-cup-ics
+DTSTAMP:20140713T190000Z
+DTSTART:20140704T200000Z
+DTEND:20140704T230000Z
+SUMMARY:[QF1] 🇧🇷 BRA 2-1 COL 🇨🇴 [057]
+LOCATION:Estádio Castelão\, Fortaleza
+GEO:-3.807222;-38.522500
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estádio Castelão, Fortal
+ eza";X-APPLE-RADIUS=100;X-TITLE="Estádio Castelão, Fortaleza":geo:-3.807
+ 222,-38.522500
+DESCRIPTION:Quarter-finals | 2014 FIFA World Cup - Brazil\nBrazil 2-1 Colom
+ bia\nHT: 1-0\nGoals:\nBRA 🇧🇷: Thiago Silva 7'\, David Luiz 69'\nCOL 
+ 🇨🇴: Rodríguez 80' pen
+URL:https://en.wikipedia.org/wiki/2014_FIFA_World_Cup
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:FIFA World Cup 2014
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2014-match-058@world-cup-ics
+DTSTAMP:20140713T190000Z
+DTSTART:20140704T160000Z
+DTEND:20140704T190000Z
+SUMMARY:[QF2] 🇫🇷 FRA 0-1 GER 🇩🇪 [058]
+LOCATION:Estádio do Maracanã\, Rio de Janeiro
+GEO:-22.912222;-43.230278
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estádio do Maracanã, Rio
+  de Janeiro";X-APPLE-RADIUS=100;X-TITLE="Estádio do Maracanã, Rio de Jan
+ eiro":geo:-22.912222,-43.230278
+DESCRIPTION:Quarter-finals | 2014 FIFA World Cup - Brazil\nFrance 0-1 Germa
+ ny\nHT: 0-1\nGoals:\nGER 🇩🇪: Mats Hummels 13'
+URL:https://en.wikipedia.org/wiki/2014_FIFA_World_Cup
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:FIFA World Cup 2014
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2014-match-059@world-cup-ics
+DTSTAMP:20140713T190000Z
+DTSTART:20140705T200000Z
+DTEND:20140705T230000Z
+SUMMARY:[QF3] 🇳🇱 NED (p) 0-0 (aet) CRC 🇨🇷 [059]
+LOCATION:Arena Fonte Nova\, Salvador
+GEO:-12.978611;-38.504167
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Arena Fonte Nova, Salvador
+ ";X-APPLE-RADIUS=100;X-TITLE="Arena Fonte Nova, Salvador":geo:-12.978611,-
+ 38.504167
+DESCRIPTION:Quarter-finals | 2014 FIFA World Cup - Brazil\nNetherlands 0-0 
+ Costa Rica\nHT: 0-0\nFT: 0-0\nAET: 0-0\nPenalties: 4-3
+URL:https://en.wikipedia.org/wiki/2014_FIFA_World_Cup
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:FIFA World Cup 2014
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2014-match-060@world-cup-ics
+DTSTAMP:20140713T190000Z
+DTSTART:20140705T160000Z
+DTEND:20140705T190000Z
+SUMMARY:[QF4] 🇦🇷 ARG 1-0 BEL 🇧🇪 [060]
+LOCATION:Estádio Nacional Mané Garrincha\, Brasília
+GEO:-15.783500;-47.899164
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estádio Nacional Mané Ga
+ rrincha, Brasília";X-APPLE-RADIUS=100;X-TITLE="Estádio Nacional Mané Ga
+ rrincha, Brasília":geo:-15.783500,-47.899164
+DESCRIPTION:Quarter-finals | 2014 FIFA World Cup - Brazil\nArgentina 1-0 Be
+ lgium\nHT: 1-0\nGoals:\nARG 🇦🇷: Gonzalo Higuaín 8'
+URL:https://en.wikipedia.org/wiki/2014_FIFA_World_Cup
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:FIFA World Cup 2014
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2014-match-061@world-cup-ics
+DTSTAMP:20140713T190000Z
+DTSTART:20140708T200000Z
+DTEND:20140708T230000Z
+SUMMARY:[SF1] 🇧🇷 BRA 1-7 GER 🇩🇪 [061]
+LOCATION:Estádio Mineirão\, Belo Horizonte
+GEO:-19.865833;-43.970833
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estádio Mineirão, Belo H
+ orizonte";X-APPLE-RADIUS=100;X-TITLE="Estádio Mineirão, Belo Horizonte":
+ geo:-19.865833,-43.970833
+DESCRIPTION:Semi-finals | 2014 FIFA World Cup - Brazil\nBrazil 1-7 Germany\
+ nHT: 0-5\nGoals:\nBRA 🇧🇷: Oscar 90'\nGER 🇩🇪: Thomas Müller 11
+ '\, Miroslav Klose 23'\, Toni Kroos 24'\, Toni Kroos 26'\, Sami Khedira 29
+ '\, Andre Schürrle 69'\, Andre Schürrle 79'
+URL:https://en.wikipedia.org/wiki/2014_FIFA_World_Cup
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:FIFA World Cup 2014
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2014-match-062@world-cup-ics
+DTSTAMP:20140713T190000Z
+DTSTART:20140709T200000Z
+DTEND:20140709T230000Z
+SUMMARY:[SF2] 🇳🇱 NED 0-0 (aet) (p) ARG 🇦🇷 [062]
+LOCATION:Arena de São Paulo\, São Paulo
+GEO:-22.738611;-47.331111
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Arena de São Paulo, São 
+ Paulo";X-APPLE-RADIUS=100;X-TITLE="Arena de São Paulo, São Paulo":geo:-2
+ 2.738611,-47.331111
+DESCRIPTION:Semi-finals | 2014 FIFA World Cup - Brazil\nNetherlands 0-0 Arg
+ entina\nHT: 0-0\nFT: 0-0\nAET: 0-0\nPenalties: 2-4
+URL:https://en.wikipedia.org/wiki/2014_FIFA_World_Cup
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:FIFA World Cup 2014
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2014-match-063@world-cup-ics
+DTSTAMP:20140713T190000Z
+DTSTART:20140712T200000Z
+DTEND:20140712T230000Z
+SUMMARY:[3RD] 🇧🇷 BRA 0-3 NED 🇳🇱 [063]
+LOCATION:Estádio Nacional Mané Garrincha\, Brasília
+GEO:-15.783500;-47.899164
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estádio Nacional Mané Ga
+ rrincha, Brasília";X-APPLE-RADIUS=100;X-TITLE="Estádio Nacional Mané Ga
+ rrincha, Brasília":geo:-15.783500,-47.899164
+DESCRIPTION:Match for third place | 2014 FIFA World Cup - Brazil\nBrazil 0-
+ 3 Netherlands\nHT: 0-2\nGoals:\nNED 🇳🇱: Robin Van Persie 3' pen\, Da
+ ley Blind 17'\, Georginio Wijnaldum 90'
+URL:https://en.wikipedia.org/wiki/2014_FIFA_World_Cup
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:FIFA World Cup 2014
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2014-match-064@world-cup-ics
+DTSTAMP:20140713T190000Z
+DTSTART:20140713T190000Z
+DTEND:20140713T220000Z
+SUMMARY:[FINAL] 🇩🇪 GER 1-0 (aet) ARG 🇦🇷 [064]
+LOCATION:Estádio do Maracanã\, Rio de Janeiro
+GEO:-22.912222;-43.230278
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estádio do Maracanã, Rio
+  de Janeiro";X-APPLE-RADIUS=100;X-TITLE="Estádio do Maracanã, Rio de Jan
+ eiro":geo:-22.912222,-43.230278
+DESCRIPTION:Final | 2014 FIFA World Cup - Brazil\nGermany 1-0 Argentina\nHT
+ : 0-0\nFT: 0-0\nAET: 1-0\nGoals:\nGER 🇩🇪: Mario Götze 113'
+URL:https://en.wikipedia.org/wiki/2014_FIFA_World_Cup
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:FIFA World Cup 2014
+END:VEVENT
+END:VCALENDAR

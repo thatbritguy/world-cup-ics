@@ -1,0 +1,184 @@
+{
+  "venues": [
+    {
+      "name": "San Siro",
+      "city": "Milan",
+      "ground_aliases": [
+        "San Siro, Milan"
+      ],
+      "latitude": 45.476228,
+      "longitude": 9.118543,
+      "coordinate_source": "https://en.wikipedia.org/wiki/San_Siro_Stadio_(Milan_Metro)",
+      "coordinate_source_title": "San Siro Stadio (Milan Metro)",
+      "match_score": 30,
+      "coordinate_status": "candidate"
+    },
+    {
+      "name": "Stadio Artemio Franchi",
+      "city": "Florence",
+      "ground_aliases": [
+        "Stadio Artemio Franchi, Florence"
+      ],
+      "latitude": 43.78083333,
+      "longitude": 11.28222222,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Stadio_Artemio_Franchi",
+      "coordinate_source_title": "Stadio Artemio Franchi",
+      "match_score": 25,
+      "coordinate_status": "candidate"
+    },
+    {
+      "name": "Stadio Comunale",
+      "city": "Florence",
+      "ground_aliases": [
+        "Stadio Comunale, Florence"
+      ],
+      "latitude": 43.78083333,
+      "longitude": 11.28222222,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Stadio_Artemio_Franchi",
+      "coordinate_source_title": "Stadio Artemio Franchi",
+      "match_score": 0,
+      "coordinate_status": "candidate"
+    },
+    {
+      "name": "Stadio Delle Alpi",
+      "city": "Turin",
+      "ground_aliases": [
+        "Stadio Delle Alpi, Turin"
+      ],
+      "latitude": 45.10956111,
+      "longitude": 7.64126111,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Stadio_Delle_Alpi",
+      "coordinate_source_title": "Stadio Delle Alpi",
+      "match_score": 25,
+      "coordinate_status": "candidate"
+    },
+    {
+      "name": "Stadio Friuli",
+      "city": "Udine",
+      "ground_aliases": [
+        "Stadio Friuli, Udine"
+      ],
+      "latitude": 46.0816,
+      "longitude": 13.2001,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Stadio_Friuli",
+      "coordinate_source_title": "Stadio Friuli",
+      "match_score": 15,
+      "coordinate_status": "candidate"
+    },
+    {
+      "name": "Stadio La Favorita",
+      "city": "Palermo",
+      "ground_aliases": [
+        "Stadio La Favorita, Palermo"
+      ],
+      "latitude": 38.1519,
+      "longitude": 13.3453,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Ippodromo_della_Favorita",
+      "coordinate_source_title": "Ippodromo della Favorita",
+      "match_score": 10,
+      "coordinate_status": "candidate"
+    },
+    {
+      "name": "Stadio Luigi Ferraris",
+      "city": "Genoa",
+      "ground_aliases": [
+        "Stadio Luigi Ferraris, Genoa"
+      ],
+      "latitude": 44.416389,
+      "longitude": 8.9525,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Stadio_Luigi_Ferraris",
+      "coordinate_status": "verified"
+    },
+    {
+      "name": "Stadio Marc'Antonio Bentegodi",
+      "city": "Verona",
+      "ground_aliases": [
+        "Stadio Marc'Antonio Bentegodi, Verona"
+      ],
+      "latitude": 45.43527778,
+      "longitude": 10.96861111,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Stadio_Marcantonio_Bentegodi",
+      "coordinate_source_title": "Stadio Marcantonio Bentegodi",
+      "match_score": 15,
+      "coordinate_status": "candidate"
+    },
+    {
+      "name": "Stadio Olimpico",
+      "city": "Rome",
+      "ground_aliases": [
+        "Stadio Olimpico, Rome"
+      ],
+      "latitude": 41.93388889,
+      "longitude": 12.45472222,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Stadio_Olimpico",
+      "coordinate_source_title": "Stadio Olimpico",
+      "match_score": 15,
+      "coordinate_status": "candidate"
+    },
+    {
+      "name": "Stadio Renato Dall'Ara",
+      "city": "Bologna",
+      "ground_aliases": [
+        "Stadio Renato Dall'Ara, Bologna"
+      ],
+      "latitude": 44.49222222,
+      "longitude": 11.30972222,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Stadio_Renato_Dall%27Ara",
+      "coordinate_source_title": "Stadio Renato Dall'Ara",
+      "match_score": 35,
+      "coordinate_status": "candidate"
+    },
+    {
+      "name": "Stadio San Nicola",
+      "city": "Bari",
+      "ground_aliases": [
+        "Stadio San Nicola, Bari"
+      ],
+      "latitude": 41.08473611,
+      "longitude": 16.84007222,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Stadio_San_Nicola",
+      "coordinate_source_title": "Stadio San Nicola",
+      "match_score": 25,
+      "coordinate_status": "candidate"
+    },
+    {
+      "name": "Stadio San Paolo",
+      "city": "Naples",
+      "ground_aliases": [
+        "Stadio San Paolo, Naples"
+      ],
+      "latitude": 40.828,
+      "longitude": 14.193,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Stadio_Diego_Armando_Maradona",
+      "coordinate_source_title": "Stadio Diego Armando Maradona",
+      "match_score": 0,
+      "coordinate_status": "candidate"
+    },
+    {
+      "name": "Stadio Sant'Elia",
+      "city": "Cagliari",
+      "ground_aliases": [
+        "Stadio Sant'Elia, Cagliari"
+      ],
+      "latitude": 39.19939444,
+      "longitude": 9.13495278,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Stadio_Sant%27Elia",
+      "coordinate_source_title": "Stadio Sant'Elia",
+      "match_score": 25,
+      "coordinate_status": "candidate"
+    },
+    {
+      "name": "Stadio delle Alpi",
+      "city": "Turin",
+      "ground_aliases": [
+        "Stadio delle Alpi, Turin"
+      ],
+      "latitude": 45.10956111,
+      "longitude": 7.64126111,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Stadio_Delle_Alpi",
+      "coordinate_source_title": "Stadio Delle Alpi",
+      "match_score": 25,
+      "coordinate_status": "candidate"
+    }
+  ]
+}

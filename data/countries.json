@@ -1036,7 +1036,9 @@
     "confed": "UEFA",
     "iso": "IE",
     "status": "current",
-    "aliases": []
+    "aliases": [
+      "Ireland"
+    ]
   },
   {
     "name": "Iran",

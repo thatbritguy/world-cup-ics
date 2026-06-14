@@ -30,6 +30,32 @@ WORLD_CUP_YEARS = (
 # 2025 in openfootball/worldcup.json is the FIFA Club World Cup, not this series.
 EXCLUDED_OPENFOOTBALL_YEARS = {2025}
 
+HOST_NAMES = {
+    1930: "Uruguay",
+    1934: "Italy",
+    1938: "France",
+    1950: "Brazil",
+    1954: "Switzerland",
+    1958: "Sweden",
+    1962: "Chile",
+    1966: "England",
+    1970: "Mexico",
+    1974: "West Germany",
+    1978: "Argentina",
+    1982: "Spain",
+    1986: "Mexico",
+    1990: "Italy",
+    1994: "United States",
+    1998: "France",
+    2002: "South Korea & Japan",
+    2006: "Germany",
+    2010: "South Africa",
+    2014: "Brazil",
+    2018: "Russia",
+    2022: "Qatar",
+    2026: "Canada, Mexico & United States",
+}
+
 TOURNAMENTS = {
     1930: {"slug": "1930uruguay", "timezone": "America/Montevideo"},
     1934: {"slug": "1934italy", "timezone": "Europe/Rome"},
@@ -62,4 +88,3 @@ FIFA_ARCHIVE_YEARS = frozenset(year for year in WORLD_CUP_YEARS if year <= 2014)
 
 def historical_years() -> tuple[int, ...]:
     return tuple(year for year in WORLD_CUP_YEARS if year < 2026)
-

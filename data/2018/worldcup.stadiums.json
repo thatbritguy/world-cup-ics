@@ -1,0 +1,86 @@
+{
+  "venues": [
+    {
+      "name": "Kaliningrad Stadium",
+      "city": "Kaliningrad",
+      "ground_aliases": [
+        "Kaliningrad Stadium, Kaliningrad"
+      ],
+      "latitude": 54.698055555555555,
+      "longitude": 20.53388888888889,
+      "coordinate_source": "https://github.com/openfootball/worldcup.json/blob/master/2018/worldcup.stadiums.json"
+    },
+    {
+      "name": "Kazan Arena",
+      "city": "Kazan",
+      "ground_aliases": [
+        "Kazan Arena, Kazan"
+      ],
+      "latitude": 55.821111111111115,
+      "longitude": 49.16083333333333,
+      "coordinate_source": "https://github.com/openfootball/worldcup.json/blob/master/2018/worldcup.stadiums.json"
+    },
+    {
+      "name": "Luzhniki Stadium",
+      "city": "Moscow",
+      "ground_aliases": [
+        "Luzhniki Stadium, Moscow"
+      ],
+      "latitude": 55.7158,
+      "longitude": 37.5536,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Luzhniki_Stadium",
+      "coordinate_source_title": "Luzhniki Stadium",
+      "match_score": 15
+    },
+    {
+      "name": "Mordovia Arena",
+      "city": "Saransk",
+      "ground_aliases": [
+        "Mordovia Arena, Saransk"
+      ],
+      "latitude": 54.18277777777777,
+      "longitude": 45.20138888888889,
+      "coordinate_source": "https://github.com/openfootball/worldcup.json/blob/master/2018/worldcup.stadiums.json"
+    },
+    {
+      "name": "Nizhny Novgorod Stadium",
+      "city": "Nizhny Novgorod",
+      "ground_aliases": [
+        "Nizhny Novgorod Stadium, Nizhny Novgorod"
+      ],
+      "latitude": 56.337500000000006,
+      "longitude": 43.96333333333334,
+      "coordinate_source": "https://github.com/openfootball/worldcup.json/blob/master/2018/worldcup.stadiums.json"
+    },
+    {
+      "name": "Rostov Arena",
+      "city": "Rostov-on-Don",
+      "ground_aliases": [
+        "Rostov Arena, Rostov-on-Don"
+      ],
+      "latitude": 47.20944444444445,
+      "longitude": 39.73777777777778,
+      "coordinate_source": "https://github.com/openfootball/worldcup.json/blob/master/2018/worldcup.stadiums.json"
+    },
+    {
+      "name": "Samara Arena",
+      "city": "Samara",
+      "ground_aliases": [
+        "Samara Arena, Samara"
+      ],
+      "latitude": 53.27777777777778,
+      "longitude": 50.23722222222222,
+      "coordinate_source": "https://github.com/openfootball/worldcup.json/blob/master/2018/worldcup.stadiums.json"
+    },
+    {
+      "name": "Volgograd Arena",
+      "city": "Volgograd",
+      "ground_aliases": [
+        "Volgograd Arena, Volgograd"
+      ],
+      "latitude": 48.73444444444444,
+      "longitude": 44.54861111111111,
+      "coordinate_source": "https://github.com/openfootball/worldcup.json/blob/master/2018/worldcup.stadiums.json"
+    }
+  ]
+}

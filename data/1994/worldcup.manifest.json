@@ -1,0 +1,528 @@
+{
+  "year": 1994,
+  "status": "review",
+  "calendar_profile": "archive",
+  "numbering": "FIFA official match numbers",
+  "matches": [
+    {
+      "sequence": 1,
+      "key": "wc1994-match-001",
+      "uid": "wc1994-match-001@world-cup-ics",
+      "date": "1994-06-17",
+      "team1": "Germany",
+      "team2": "Bolivia",
+      "official_match_number": 1,
+      "fifa_match_id": "3049"
+    },
+    {
+      "sequence": 2,
+      "key": "wc1994-match-002",
+      "uid": "wc1994-match-002@world-cup-ics",
+      "date": "1994-06-17",
+      "team1": "Spain",
+      "team2": "South Korea",
+      "official_match_number": 2,
+      "fifa_match_id": "3050"
+    },
+    {
+      "sequence": 3,
+      "key": "wc1994-match-003",
+      "uid": "wc1994-match-003@world-cup-ics",
+      "date": "1994-06-18",
+      "team1": "USA",
+      "team2": "Switzerland",
+      "official_match_number": 3,
+      "fifa_match_id": "3051"
+    },
+    {
+      "sequence": 4,
+      "key": "wc1994-match-004",
+      "uid": "wc1994-match-004@world-cup-ics",
+      "date": "1994-06-18",
+      "team1": "Italy",
+      "team2": "Ireland",
+      "official_match_number": 4,
+      "fifa_match_id": "3052"
+    },
+    {
+      "sequence": 5,
+      "key": "wc1994-match-005",
+      "uid": "wc1994-match-005@world-cup-ics",
+      "date": "1994-06-18",
+      "team1": "Colombia",
+      "team2": "Romania",
+      "official_match_number": 5,
+      "fifa_match_id": "3053"
+    },
+    {
+      "sequence": 6,
+      "key": "wc1994-match-006",
+      "uid": "wc1994-match-006@world-cup-ics",
+      "date": "1994-06-19",
+      "team1": "Belgium",
+      "team2": "Morocco",
+      "official_match_number": 6,
+      "fifa_match_id": "3054"
+    },
+    {
+      "sequence": 7,
+      "key": "wc1994-match-007",
+      "uid": "wc1994-match-007@world-cup-ics",
+      "date": "1994-06-19",
+      "team1": "Norway",
+      "team2": "Mexico",
+      "official_match_number": 7,
+      "fifa_match_id": "3055"
+    },
+    {
+      "sequence": 8,
+      "key": "wc1994-match-008",
+      "uid": "wc1994-match-008@world-cup-ics",
+      "date": "1994-06-19",
+      "team1": "Cameroon",
+      "team2": "Sweden",
+      "official_match_number": 8,
+      "fifa_match_id": "3056"
+    },
+    {
+      "sequence": 9,
+      "key": "wc1994-match-009",
+      "uid": "wc1994-match-009@world-cup-ics",
+      "date": "1994-06-20",
+      "team1": "Brazil",
+      "team2": "Russia",
+      "official_match_number": 9,
+      "fifa_match_id": "3057"
+    },
+    {
+      "sequence": 10,
+      "key": "wc1994-match-010",
+      "uid": "wc1994-match-010@world-cup-ics",
+      "date": "1994-06-20",
+      "team1": "Netherlands",
+      "team2": "Saudi Arabia",
+      "official_match_number": 10,
+      "fifa_match_id": "3058"
+    },
+    {
+      "sequence": 11,
+      "key": "wc1994-match-011",
+      "uid": "wc1994-match-011@world-cup-ics",
+      "date": "1994-06-21",
+      "team1": "Argentina",
+      "team2": "Greece",
+      "official_match_number": 11,
+      "fifa_match_id": "3059"
+    },
+    {
+      "sequence": 12,
+      "key": "wc1994-match-012",
+      "uid": "wc1994-match-012@world-cup-ics",
+      "date": "1994-06-21",
+      "team1": "Germany",
+      "team2": "Spain",
+      "official_match_number": 12,
+      "fifa_match_id": "3060"
+    },
+    {
+      "sequence": 13,
+      "key": "wc1994-match-013",
+      "uid": "wc1994-match-013@world-cup-ics",
+      "date": "1994-06-21",
+      "team1": "Nigeria",
+      "team2": "Bulgaria",
+      "official_match_number": 13,
+      "fifa_match_id": "3061"
+    },
+    {
+      "sequence": 14,
+      "key": "wc1994-match-014",
+      "uid": "wc1994-match-014@world-cup-ics",
+      "date": "1994-06-22",
+      "team1": "Romania",
+      "team2": "Switzerland",
+      "official_match_number": 14,
+      "fifa_match_id": "3062"
+    },
+    {
+      "sequence": 15,
+      "key": "wc1994-match-015",
+      "uid": "wc1994-match-015@world-cup-ics",
+      "date": "1994-06-22",
+      "team1": "USA",
+      "team2": "Colombia",
+      "official_match_number": 15,
+      "fifa_match_id": "3063"
+    },
+    {
+      "sequence": 16,
+      "key": "wc1994-match-016",
+      "uid": "wc1994-match-016@world-cup-ics",
+      "date": "1994-06-23",
+      "team1": "Italy",
+      "team2": "Norway",
+      "official_match_number": 16,
+      "fifa_match_id": "3064"
+    },
+    {
+      "sequence": 17,
+      "key": "wc1994-match-017",
+      "uid": "wc1994-match-017@world-cup-ics",
+      "date": "1994-06-23",
+      "team1": "South Korea",
+      "team2": "Bolivia",
+      "official_match_number": 17,
+      "fifa_match_id": "3065"
+    },
+    {
+      "sequence": 18,
+      "key": "wc1994-match-018",
+      "uid": "wc1994-match-018@world-cup-ics",
+      "date": "1994-06-24",
+      "team1": "Mexico",
+      "team2": "Ireland",
+      "official_match_number": 18,
+      "fifa_match_id": "3066"
+    },
+    {
+      "sequence": 19,
+      "key": "wc1994-match-019",
+      "uid": "wc1994-match-019@world-cup-ics",
+      "date": "1994-06-24",
+      "team1": "Brazil",
+      "team2": "Cameroon",
+      "official_match_number": 19,
+      "fifa_match_id": "3067"
+    },
+    {
+      "sequence": 20,
+      "key": "wc1994-match-020",
+      "uid": "wc1994-match-020@world-cup-ics",
+      "date": "1994-06-24",
+      "team1": "Sweden",
+      "team2": "Russia",
+      "official_match_number": 20,
+      "fifa_match_id": "3068"
+    },
+    {
+      "sequence": 21,
+      "key": "wc1994-match-021",
+      "uid": "wc1994-match-021@world-cup-ics",
+      "date": "1994-06-25",
+      "team1": "Belgium",
+      "team2": "Netherlands",
+      "official_match_number": 21,
+      "fifa_match_id": "3069"
+    },
+    {
+      "sequence": 22,
+      "key": "wc1994-match-022",
+      "uid": "wc1994-match-022@world-cup-ics",
+      "date": "1994-06-25",
+      "team1": "Saudi Arabia",
+      "team2": "Morocco",
+      "official_match_number": 22,
+      "fifa_match_id": "3070"
+    },
+    {
+      "sequence": 23,
+      "key": "wc1994-match-023",
+      "uid": "wc1994-match-023@world-cup-ics",
+      "date": "1994-06-25",
+      "team1": "Argentina",
+      "team2": "Nigeria",
+      "official_match_number": 23,
+      "fifa_match_id": "3071"
+    },
+    {
+      "sequence": 24,
+      "key": "wc1994-match-024",
+      "uid": "wc1994-match-024@world-cup-ics",
+      "date": "1994-06-26",
+      "team1": "Greece",
+      "team2": "Bulgaria",
+      "official_match_number": 24,
+      "fifa_match_id": "3072"
+    },
+    {
+      "sequence": 25,
+      "key": "wc1994-match-025",
+      "uid": "wc1994-match-025@world-cup-ics",
+      "date": "1994-06-26",
+      "team1": "USA",
+      "team2": "Romania",
+      "official_match_number": 25,
+      "fifa_match_id": "3073"
+    },
+    {
+      "sequence": 26,
+      "key": "wc1994-match-026",
+      "uid": "wc1994-match-026@world-cup-ics",
+      "date": "1994-06-26",
+      "team1": "Switzerland",
+      "team2": "Colombia",
+      "official_match_number": 26,
+      "fifa_match_id": "3074"
+    },
+    {
+      "sequence": 27,
+      "key": "wc1994-match-027",
+      "uid": "wc1994-match-027@world-cup-ics",
+      "date": "1994-06-27",
+      "team1": "Bolivia",
+      "team2": "Spain",
+      "official_match_number": 27,
+      "fifa_match_id": "3075"
+    },
+    {
+      "sequence": 28,
+      "key": "wc1994-match-028",
+      "uid": "wc1994-match-028@world-cup-ics",
+      "date": "1994-06-27",
+      "team1": "Germany",
+      "team2": "South Korea",
+      "official_match_number": 28,
+      "fifa_match_id": "3076"
+    },
+    {
+      "sequence": 29,
+      "key": "wc1994-match-029",
+      "uid": "wc1994-match-029@world-cup-ics",
+      "date": "1994-06-28",
+      "team1": "Ireland",
+      "team2": "Norway",
+      "official_match_number": 29,
+      "fifa_match_id": "3077"
+    },
+    {
+      "sequence": 30,
+      "key": "wc1994-match-030",
+      "uid": "wc1994-match-030@world-cup-ics",
+      "date": "1994-06-28",
+      "team1": "Italy",
+      "team2": "Mexico",
+      "official_match_number": 30,
+      "fifa_match_id": "3078"
+    },
+    {
+      "sequence": 31,
+      "key": "wc1994-match-031",
+      "uid": "wc1994-match-031@world-cup-ics",
+      "date": "1994-06-28",
+      "team1": "Russia",
+      "team2": "Cameroon",
+      "official_match_number": 31,
+      "fifa_match_id": "3079"
+    },
+    {
+      "sequence": 32,
+      "key": "wc1994-match-032",
+      "uid": "wc1994-match-032@world-cup-ics",
+      "date": "1994-06-28",
+      "team1": "Brazil",
+      "team2": "Sweden",
+      "official_match_number": 32,
+      "fifa_match_id": "3080"
+    },
+    {
+      "sequence": 33,
+      "key": "wc1994-match-033",
+      "uid": "wc1994-match-033@world-cup-ics",
+      "date": "1994-06-29",
+      "team1": "Morocco",
+      "team2": "Netherlands",
+      "official_match_number": 33,
+      "fifa_match_id": "3081"
+    },
+    {
+      "sequence": 34,
+      "key": "wc1994-match-034",
+      "uid": "wc1994-match-034@world-cup-ics",
+      "date": "1994-06-29",
+      "team1": "Belgium",
+      "team2": "Saudi Arabia",
+      "official_match_number": 34,
+      "fifa_match_id": "3082"
+    },
+    {
+      "sequence": 35,
+      "key": "wc1994-match-035",
+      "uid": "wc1994-match-035@world-cup-ics",
+      "date": "1994-06-30",
+      "team1": "Greece",
+      "team2": "Nigeria",
+      "official_match_number": 35,
+      "fifa_match_id": "3083"
+    },
+    {
+      "sequence": 36,
+      "key": "wc1994-match-036",
+      "uid": "wc1994-match-036@world-cup-ics",
+      "date": "1994-06-30",
+      "team1": "Argentina",
+      "team2": "Bulgaria",
+      "official_match_number": 36,
+      "fifa_match_id": "3084"
+    },
+    {
+      "sequence": 37,
+      "key": "wc1994-match-037",
+      "uid": "wc1994-match-037@world-cup-ics",
+      "date": "1994-07-02",
+      "team1": "Germany",
+      "team2": "Belgium",
+      "official_match_number": 37,
+      "fifa_match_id": "3085"
+    },
+    {
+      "sequence": 38,
+      "key": "wc1994-match-038",
+      "uid": "wc1994-match-038@world-cup-ics",
+      "date": "1994-07-02",
+      "team1": "Spain",
+      "team2": "Switzerland",
+      "official_match_number": 38,
+      "fifa_match_id": "3086"
+    },
+    {
+      "sequence": 39,
+      "key": "wc1994-match-039",
+      "uid": "wc1994-match-039@world-cup-ics",
+      "date": "1994-07-03",
+      "team1": "Saudi Arabia",
+      "team2": "Sweden",
+      "official_match_number": 39,
+      "fifa_match_id": "3087"
+    },
+    {
+      "sequence": 40,
+      "key": "wc1994-match-040",
+      "uid": "wc1994-match-040@world-cup-ics",
+      "date": "1994-07-03",
+      "team1": "Romania",
+      "team2": "Argentina",
+      "official_match_number": 40,
+      "fifa_match_id": "3088"
+    },
+    {
+      "sequence": 41,
+      "key": "wc1994-match-041",
+      "uid": "wc1994-match-041@world-cup-ics",
+      "date": "1994-07-04",
+      "team1": "Netherlands",
+      "team2": "Ireland",
+      "official_match_number": 41,
+      "fifa_match_id": "3089"
+    },
+    {
+      "sequence": 42,
+      "key": "wc1994-match-042",
+      "uid": "wc1994-match-042@world-cup-ics",
+      "date": "1994-07-04",
+      "team1": "Brazil",
+      "team2": "USA",
+      "official_match_number": 42,
+      "fifa_match_id": "3090"
+    },
+    {
+      "sequence": 43,
+      "key": "wc1994-match-043",
+      "uid": "wc1994-match-043@world-cup-ics",
+      "date": "1994-07-05",
+      "team1": "Nigeria",
+      "team2": "Italy",
+      "official_match_number": 43,
+      "fifa_match_id": "3091"
+    },
+    {
+      "sequence": 44,
+      "key": "wc1994-match-044",
+      "uid": "wc1994-match-044@world-cup-ics",
+      "date": "1994-07-05",
+      "team1": "Mexico",
+      "team2": "Bulgaria",
+      "official_match_number": 44,
+      "fifa_match_id": "3092"
+    },
+    {
+      "sequence": 45,
+      "key": "wc1994-match-045",
+      "uid": "wc1994-match-045@world-cup-ics",
+      "date": "1994-07-09",
+      "team1": "Italy",
+      "team2": "Spain",
+      "official_match_number": 45,
+      "fifa_match_id": "3097"
+    },
+    {
+      "sequence": 46,
+      "key": "wc1994-match-046",
+      "uid": "wc1994-match-046@world-cup-ics",
+      "date": "1994-07-09",
+      "team1": "Netherlands",
+      "team2": "Brazil",
+      "official_match_number": 46,
+      "fifa_match_id": "3098"
+    },
+    {
+      "sequence": 47,
+      "key": "wc1994-match-047",
+      "uid": "wc1994-match-047@world-cup-ics",
+      "date": "1994-07-10",
+      "team1": "Bulgaria",
+      "team2": "Germany",
+      "official_match_number": 47,
+      "fifa_match_id": "3096"
+    },
+    {
+      "sequence": 48,
+      "key": "wc1994-match-048",
+      "uid": "wc1994-match-048@world-cup-ics",
+      "date": "1994-07-10",
+      "team1": "Romania",
+      "team2": "Sweden",
+      "official_match_number": 48,
+      "fifa_match_id": "3095"
+    },
+    {
+      "sequence": 49,
+      "key": "wc1994-match-049",
+      "uid": "wc1994-match-049@world-cup-ics",
+      "date": "1994-07-13",
+      "team1": "Bulgaria",
+      "team2": "Italy",
+      "official_match_number": 49,
+      "fifa_match_id": "3100"
+    },
+    {
+      "sequence": 50,
+      "key": "wc1994-match-050",
+      "uid": "wc1994-match-050@world-cup-ics",
+      "date": "1994-07-13",
+      "team1": "Sweden",
+      "team2": "Brazil",
+      "official_match_number": 50,
+      "fifa_match_id": "3099"
+    },
+    {
+      "sequence": 51,
+      "key": "wc1994-match-051",
+      "uid": "wc1994-match-051@world-cup-ics",
+      "date": "1994-07-16",
+      "team1": "Sweden",
+      "team2": "Bulgaria",
+      "official_match_number": 51,
+      "fifa_match_id": "3103"
+    },
+    {
+      "sequence": 52,
+      "key": "wc1994-match-052",
+      "uid": "wc1994-match-052@world-cup-ics",
+      "date": "1994-07-17",
+      "team1": "Brazil",
+      "team2": "Italy",
+      "official_match_number": 52,
+      "fifa_match_id": "3104"
+    }
+  ]
+}

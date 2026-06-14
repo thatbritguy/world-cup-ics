@@ -1,0 +1,121 @@
+{
+  "venues": [
+    {
+      "name": "Neckarstadion",
+      "city": "Stuttgart",
+      "ground_aliases": [
+        "Neckarstadion, Stuttgart"
+      ],
+      "latitude": 48.7775,
+      "longitude": 9.18,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Stuttgart",
+      "coordinate_source_title": "Stuttgart",
+      "match_score": 15,
+      "coordinate_status": "candidate"
+    },
+    {
+      "name": "Niedersachsenstadion",
+      "city": "Hanover",
+      "ground_aliases": [
+        "Niedersachsenstadion, Hanover"
+      ],
+      "latitude": 52.36666667,
+      "longitude": 9.71666667,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Hanover",
+      "coordinate_source_title": "Hanover",
+      "match_score": 15,
+      "coordinate_status": "candidate"
+    },
+    {
+      "name": "Olympiastadion",
+      "city": "München",
+      "ground_aliases": [
+        "Olympiastadion, München"
+      ],
+      "latitude": 52.51472222,
+      "longitude": 13.23944444,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Olympiastadion_(Berlin)",
+      "coordinate_source_title": "Olympiastadion (Berlin)",
+      "match_score": 10,
+      "coordinate_status": "candidate"
+    },
+    {
+      "name": "Olympiastadion",
+      "city": "West Berlin",
+      "ground_aliases": [
+        "Olympiastadion, West Berlin"
+      ],
+      "latitude": 52.51472222,
+      "longitude": 13.23944444,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Olympiastadion_(Berlin)",
+      "coordinate_source_title": "Olympiastadion (Berlin)",
+      "match_score": 20,
+      "coordinate_status": "candidate"
+    },
+    {
+      "name": "Parkstadion",
+      "city": "Gelsenkirchen",
+      "ground_aliases": [
+        "Parkstadion, Gelsenkirchen"
+      ],
+      "latitude": 51.51027778,
+      "longitude": 7.09416667,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Gelsenkirchen",
+      "coordinate_source_title": "Gelsenkirchen",
+      "match_score": 15,
+      "coordinate_status": "candidate"
+    },
+    {
+      "name": "Rheinstadion",
+      "city": "Düsseldorf",
+      "ground_aliases": [
+        "Rheinstadion, Düsseldorf"
+      ],
+      "latitude": 51.26027778,
+      "longitude": 6.73416667,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Rheinstadion",
+      "coordinate_source_title": "Rheinstadion",
+      "match_score": 15,
+      "coordinate_status": "candidate"
+    },
+    {
+      "name": "Volksparkstadion",
+      "city": "Hamburg",
+      "ground_aliases": [
+        "Volksparkstadion, Hamburg"
+      ],
+      "latitude": 53.55,
+      "longitude": 10,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Hamburg",
+      "coordinate_source_title": "Hamburg",
+      "match_score": 15,
+      "coordinate_status": "candidate"
+    },
+    {
+      "name": "Waldstadion",
+      "city": "Frankfurt",
+      "ground_aliases": [
+        "Waldstadion, Frankfurt"
+      ],
+      "latitude": 50.068056,
+      "longitude": 8.645806,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Waldstadion_(Frankfurt)",
+      "coordinate_source_title": "Waldstadion (Frankfurt)",
+      "match_score": 25,
+      "coordinate_status": "candidate"
+    },
+    {
+      "name": "Westfalenstadion",
+      "city": "Dortmund",
+      "ground_aliases": [
+        "Westfalenstadion, Dortmund"
+      ],
+      "latitude": 51.4925,
+      "longitude": 7.45166667,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Westfalenstadion",
+      "coordinate_source_title": "Westfalenstadion",
+      "match_score": 15,
+      "coordinate_status": "candidate"
+    }
+  ]
+}

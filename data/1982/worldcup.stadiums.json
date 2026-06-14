@@ -1,0 +1,236 @@
+{
+  "venues": [
+    {
+      "name": "Balaídos",
+      "city": "Vigo",
+      "ground_aliases": [
+        "Balaídos, Vigo"
+      ],
+      "latitude": 42.21183333,
+      "longitude": -8.73969444,
+      "coordinate_source": "https://en.wikipedia.org/wiki/RC_Celta_de_Vigo",
+      "coordinate_source_title": "RC Celta de Vigo",
+      "match_score": 10,
+      "coordinate_status": "candidate"
+    },
+    {
+      "name": "Camp Nou",
+      "city": "Barcelona",
+      "ground_aliases": [
+        "Camp Nou, Barcelona"
+      ],
+      "latitude": 41.3808,
+      "longitude": 2.1228,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Camp_Nou",
+      "coordinate_source_title": "Camp Nou",
+      "match_score": 25,
+      "coordinate_status": "candidate"
+    },
+    {
+      "name": "El Molinón",
+      "city": "Gijón",
+      "ground_aliases": [
+        "El Molinón, Gijón"
+      ],
+      "latitude": 43.53611111,
+      "longitude": -5.63722222,
+      "coordinate_source": "https://en.wikipedia.org/wiki/El_Molin%C3%B3n",
+      "coordinate_source_title": "El Molinón",
+      "match_score": 25,
+      "coordinate_status": "candidate"
+    },
+    {
+      "name": "Estadio Benito Villamarín",
+      "city": "Seville",
+      "ground_aliases": [
+        "Estadio Benito Villamarín, Seville"
+      ],
+      "latitude": 37.35638889,
+      "longitude": -5.98138889,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Estadio_Benito_Villamar%C3%ADn",
+      "coordinate_source_title": "Estadio Benito Villamarín",
+      "match_score": 25,
+      "coordinate_status": "candidate"
+    },
+    {
+      "name": "Estadio Carlos Tartiere",
+      "city": "Oviedo",
+      "ground_aliases": [
+        "Estadio Carlos Tartiere, Oviedo"
+      ],
+      "latitude": 43.360783,
+      "longitude": -5.870222,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Estadio_Carlos_Tartiere",
+      "coordinate_source_title": "Estadio Carlos Tartiere",
+      "match_score": 25,
+      "coordinate_status": "candidate"
+    },
+    {
+      "name": "Estadio José Rico Pérez",
+      "city": "Alicante",
+      "ground_aliases": [
+        "Estadio José Rico Pérez, Alicante"
+      ],
+      "latitude": 38.35722222,
+      "longitude": -0.4925,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Estadio_Jos%C3%A9_Rico_P%C3%A9rez",
+      "coordinate_source_title": "Estadio José Rico Pérez",
+      "match_score": 35,
+      "coordinate_status": "candidate"
+    },
+    {
+      "name": "Estadio José Zorrilla",
+      "city": "Valladolid",
+      "ground_aliases": [
+        "Estadio José Zorrilla, Valladolid"
+      ],
+      "latitude": 41.65277778,
+      "longitude": -4.72361111,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Valladolid",
+      "coordinate_source_title": "Valladolid",
+      "match_score": 15,
+      "coordinate_status": "candidate"
+    },
+    {
+      "name": "Estadio La Rosaleda",
+      "city": "Málaga",
+      "ground_aliases": [
+        "Estadio La Rosaleda, Málaga"
+      ],
+      "latitude": 36.7342,
+      "longitude": -4.4266,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Estadio_La_Rosaleda",
+      "coordinate_source_title": "Estadio La Rosaleda",
+      "match_score": 25,
+      "coordinate_status": "candidate"
+    },
+    {
+      "name": "Estadio Luis Casanova",
+      "city": "Valencia",
+      "ground_aliases": [
+        "Estadio Luis Casanova, Valencia"
+      ],
+      "latitude": 39.474656,
+      "longitude": -0.358361,
+      "coordinate_source": "https://fr.wikipedia.org/wiki/Stade_de_Mestalla",
+      "coordinate_source_title": "Stade de Mestalla",
+      "coordinate_status": "verified"
+    },
+    {
+      "name": "Estadio Ramón Sánchez Pizjuán",
+      "city": "Seville",
+      "ground_aliases": [
+        "Estadio Ramón Sánchez Pizjuán, Seville"
+      ],
+      "latitude": 37.384,
+      "longitude": -5.9705,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Ram%C3%B3n_S%C3%A1nchez-Pizju%C3%A1n_Stadium",
+      "coordinate_source_title": "Ramón Sánchez-Pizjuán Stadium",
+      "match_score": 30,
+      "coordinate_status": "candidate"
+    },
+    {
+      "name": "Estadio San Mamés",
+      "city": "Bilbao",
+      "ground_aliases": [
+        "Estadio San Mamés, Bilbao"
+      ],
+      "latitude": 43.26350556,
+      "longitude": -2.94839167,
+      "coordinate_source": "https://en.wikipedia.org/wiki/San_Mam%C3%A9s_Stadium_(1913)",
+      "coordinate_source_title": "San Mamés Stadium (1913)",
+      "match_score": 20,
+      "coordinate_status": "candidate"
+    },
+    {
+      "name": "Estadio Santiago Bernabéu",
+      "city": "",
+      "ground_aliases": [
+        "Estadio Santiago Bernabéu"
+      ],
+      "latitude": 40.45306,
+      "longitude": -3.68835,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Bernab%C3%A9u_(stadium)",
+      "coordinate_source_title": "Bernabéu (stadium)",
+      "match_score": 10,
+      "coordinate_status": "candidate"
+    },
+    {
+      "name": "Estadio Santiago Bernabéu",
+      "city": "Madrid",
+      "ground_aliases": [
+        "Estadio Santiago Bernabéu, Madrid"
+      ],
+      "latitude": 40.45306,
+      "longitude": -3.68835,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Bernab%C3%A9u_(stadium)",
+      "coordinate_source_title": "Bernabéu (stadium)",
+      "match_score": 10,
+      "coordinate_status": "candidate"
+    },
+    {
+      "name": "Estadio Sarriá",
+      "city": "Barcelona",
+      "ground_aliases": [
+        "Estadio Sarriá, Barcelona"
+      ],
+      "latitude": 41.393111,
+      "longitude": 2.133169,
+      "coordinate_source": "https://fr.wikipedia.org/wiki/Stade_de_Sarri%C3%A0",
+      "coordinate_source_title": "Stade de Sarrià",
+      "coordinate_status": "verified"
+    },
+    {
+      "name": "Estadio Vicente Calderón",
+      "city": "Madrid",
+      "ground_aliases": [
+        "Estadio Vicente Calderón, Madrid"
+      ],
+      "latitude": 40.40171944,
+      "longitude": -3.72060556,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Vicente_Calder%C3%B3n_Stadium",
+      "coordinate_source_title": "Vicente Calderón Stadium",
+      "match_score": 20,
+      "coordinate_status": "candidate"
+    },
+    {
+      "name": "Estadio de Riazor",
+      "city": "A Coruña",
+      "ground_aliases": [
+        "Estadio de Riazor, A Coruña"
+      ],
+      "latitude": 43.365,
+      "longitude": -8.41,
+      "coordinate_source": "https://en.wikipedia.org/wiki/A_Coru%C3%B1a",
+      "coordinate_source_title": "A Coruña",
+      "match_score": 25,
+      "coordinate_status": "candidate"
+    },
+    {
+      "name": "La Romareda",
+      "city": "Zaragoza",
+      "ground_aliases": [
+        "La Romareda, Zaragoza"
+      ],
+      "latitude": 41.63666667,
+      "longitude": -0.90194444,
+      "coordinate_source": "https://en.wikipedia.org/wiki/La_Romareda",
+      "coordinate_source_title": "La Romareda",
+      "match_score": 25,
+      "coordinate_status": "candidate"
+    },
+    {
+      "name": "Nuevo Estadio",
+      "city": "Elche",
+      "ground_aliases": [
+        "Nuevo Estadio, Elche"
+      ],
+      "latitude": 38.26694444,
+      "longitude": -0.66333333,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Estadio_Mart%C3%ADnez_Valero",
+      "coordinate_source_title": "Estadio Martínez Valero",
+      "match_score": 0,
+      "coordinate_status": "candidate"
+    }
+  ]
+}

@@ -10,9 +10,37 @@ sys.path.insert(0, str(ROOT / "scripts"))
 
 from common import country_index, load_json, normalize_name  # noqa: E402
 from generate_master_calendar import validated_years  # noqa: E402
+from generate_historical_calendar import description, stage_label  # noqa: E402
 
 
 class HistoricalCalendarTests(unittest.TestCase):
+    def test_description_identifies_tournament_and_host(self) -> None:
+        text = description(
+            1934,
+            {"round": "Final", "score": {"ft": [2, 1]}},
+            {"name": "Italy", "code": "ITA", "flag": "🇮🇹"},
+            {"name": "Czechoslovakia", "code": "TCH", "flag": ""},
+        )
+        self.assertEqual(text.splitlines()[0], "Final | 1934 FIFA World Cup - Italy")
+
+    def test_historical_stage_labels_cover_group_formats(self) -> None:
+        self.assertEqual(
+            stage_label(
+                {"group": "Group 1", "round": "Matchday 2", "group_round": 2}
+            ),
+            "G1-2",
+        )
+        self.assertEqual(
+            stage_label(
+                {"group": "Group A", "round": "Matchday 4", "group_round": 1}
+            ),
+            "A1",
+        )
+        self.assertEqual(
+            stage_label({"group": "Group 2", "round": "Group 2 Play-off"}),
+            "G2-PO",
+        )
+
     def test_rsssf_is_the_historical_kickoff_baseline(self) -> None:
         for year in (1930, 1934, 1938):
             enrichment = load_json(
@@ -111,6 +139,7 @@ class HistoricalCalendarTests(unittest.TestCase):
         self.assertIn("UID:wc1938-match-018@world-cup-ics", master)
         self.assertIn("UID:wc1950-match-022@world-cup-ics", master)
         self.assertNotIn("UID:wc2026-match-001@world-cup-ics", master)
+        self.assertIn("X-WR-CALNAME:FIFA World Cup Complete", master)
 
     def test_1938_excludes_cancelled_fixture_and_confirms_opening_time(self) -> None:
         manifest = load_json(ROOT / "data" / "1938" / "worldcup.manifest.json")

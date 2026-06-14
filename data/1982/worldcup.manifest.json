@@ -1,0 +1,528 @@
+{
+  "year": 1982,
+  "status": "review",
+  "calendar_profile": "archive",
+  "numbering": "FIFA official match numbers",
+  "matches": [
+    {
+      "sequence": 1,
+      "key": "wc1982-match-001",
+      "uid": "wc1982-match-001@world-cup-ics",
+      "date": "1982-06-13",
+      "team1": "Argentina",
+      "team2": "Belgium",
+      "official_match_number": 1,
+      "fifa_match_id": "749"
+    },
+    {
+      "sequence": 2,
+      "key": "wc1982-match-002",
+      "uid": "wc1982-match-002@world-cup-ics",
+      "date": "1982-06-14",
+      "team1": "Italy",
+      "team2": "Poland",
+      "official_match_number": 2,
+      "fifa_match_id": "995"
+    },
+    {
+      "sequence": 3,
+      "key": "wc1982-match-003",
+      "uid": "wc1982-match-003@world-cup-ics",
+      "date": "1982-06-14",
+      "team1": "Brazil",
+      "team2": "Soviet Union",
+      "official_match_number": 3,
+      "fifa_match_id": "791"
+    },
+    {
+      "sequence": 4,
+      "key": "wc1982-match-004",
+      "uid": "wc1982-match-004@world-cup-ics",
+      "date": "1982-06-15",
+      "team1": "Peru",
+      "team2": "Cameroon",
+      "official_match_number": 4,
+      "fifa_match_id": "833"
+    },
+    {
+      "sequence": 5,
+      "key": "wc1982-match-005",
+      "uid": "wc1982-match-005@world-cup-ics",
+      "date": "1982-06-15",
+      "team1": "Hungary",
+      "team2": "El Salvador",
+      "official_match_number": 5,
+      "fifa_match_id": "896"
+    },
+    {
+      "sequence": 6,
+      "key": "wc1982-match-006",
+      "uid": "wc1982-match-006@world-cup-ics",
+      "date": "1982-06-15",
+      "team1": "Scotland",
+      "team2": "New Zealand",
+      "official_match_number": 6,
+      "fifa_match_id": "1051"
+    },
+    {
+      "sequence": 7,
+      "key": "wc1982-match-007",
+      "uid": "wc1982-match-007@world-cup-ics",
+      "date": "1982-06-16",
+      "team1": "West Germany",
+      "team2": "Algeria",
+      "official_match_number": 7,
+      "fifa_match_id": "741"
+    },
+    {
+      "sequence": 8,
+      "key": "wc1982-match-008",
+      "uid": "wc1982-match-008@world-cup-ics",
+      "date": "1982-06-16",
+      "team1": "England",
+      "team2": "France",
+      "official_match_number": 8,
+      "fifa_match_id": "878"
+    },
+    {
+      "sequence": 9,
+      "key": "wc1982-match-009",
+      "uid": "wc1982-match-009@world-cup-ics",
+      "date": "1982-06-16",
+      "team1": "Spain",
+      "team2": "Honduras",
+      "official_match_number": 9,
+      "fifa_match_id": "901"
+    },
+    {
+      "sequence": 10,
+      "key": "wc1982-match-010",
+      "uid": "wc1982-match-010@world-cup-ics",
+      "date": "1982-06-17",
+      "team1": "Chile",
+      "team2": "Austria",
+      "official_match_number": 10,
+      "fifa_match_id": "764"
+    },
+    {
+      "sequence": 11,
+      "key": "wc1982-match-011",
+      "uid": "wc1982-match-011@world-cup-ics",
+      "date": "1982-06-17",
+      "team1": "Czechoslovakia",
+      "team2": "Kuwait",
+      "official_match_number": 11,
+      "fifa_match_id": "1012"
+    },
+    {
+      "sequence": 12,
+      "key": "wc1982-match-012",
+      "uid": "wc1982-match-012@world-cup-ics",
+      "date": "1982-06-17",
+      "team1": "Yugoslavia",
+      "team2": "Northern Ireland",
+      "official_match_number": 12,
+      "fifa_match_id": "1044"
+    },
+    {
+      "sequence": 13,
+      "key": "wc1982-match-013",
+      "uid": "wc1982-match-013@world-cup-ics",
+      "date": "1982-06-18",
+      "team1": "Italy",
+      "team2": "Peru",
+      "official_match_number": 13,
+      "fifa_match_id": "994"
+    },
+    {
+      "sequence": 14,
+      "key": "wc1982-match-014",
+      "uid": "wc1982-match-014@world-cup-ics",
+      "date": "1982-06-18",
+      "team1": "Argentina",
+      "team2": "Hungary",
+      "official_match_number": 14,
+      "fifa_match_id": "752"
+    },
+    {
+      "sequence": 15,
+      "key": "wc1982-match-015",
+      "uid": "wc1982-match-015@world-cup-ics",
+      "date": "1982-06-18",
+      "team1": "Brazil",
+      "team2": "Scotland",
+      "official_match_number": 15,
+      "fifa_match_id": "790"
+    },
+    {
+      "sequence": 16,
+      "key": "wc1982-match-016",
+      "uid": "wc1982-match-016@world-cup-ics",
+      "date": "1982-06-19",
+      "team1": "Poland",
+      "team2": "Cameroon",
+      "official_match_number": 16,
+      "fifa_match_id": "834"
+    },
+    {
+      "sequence": 17,
+      "key": "wc1982-match-017",
+      "uid": "wc1982-match-017@world-cup-ics",
+      "date": "1982-06-19",
+      "team1": "Belgium",
+      "team2": "El Salvador",
+      "official_match_number": 17,
+      "fifa_match_id": "774"
+    },
+    {
+      "sequence": 18,
+      "key": "wc1982-match-018",
+      "uid": "wc1982-match-018@world-cup-ics",
+      "date": "1982-06-19",
+      "team1": "Soviet Union",
+      "team2": "New Zealand",
+      "official_match_number": 18,
+      "fifa_match_id": "1054"
+    },
+    {
+      "sequence": 19,
+      "key": "wc1982-match-019",
+      "uid": "wc1982-match-019@world-cup-ics",
+      "date": "1982-06-20",
+      "team1": "West Germany",
+      "team2": "Chile",
+      "official_match_number": 19,
+      "fifa_match_id": "813"
+    },
+    {
+      "sequence": 20,
+      "key": "wc1982-match-020",
+      "uid": "wc1982-match-020@world-cup-ics",
+      "date": "1982-06-20",
+      "team1": "England",
+      "team2": "Czechoslovakia",
+      "official_match_number": 20,
+      "fifa_match_id": "889"
+    },
+    {
+      "sequence": 21,
+      "key": "wc1982-match-021",
+      "uid": "wc1982-match-021@world-cup-ics",
+      "date": "1982-06-20",
+      "team1": "Spain",
+      "team2": "Yugoslavia",
+      "official_match_number": 21,
+      "fifa_match_id": "903"
+    },
+    {
+      "sequence": 22,
+      "key": "wc1982-match-022",
+      "uid": "wc1982-match-022@world-cup-ics",
+      "date": "1982-06-21",
+      "team1": "Algeria",
+      "team2": "Austria",
+      "official_match_number": 22,
+      "fifa_match_id": "739"
+    },
+    {
+      "sequence": 23,
+      "key": "wc1982-match-023",
+      "uid": "wc1982-match-023@world-cup-ics",
+      "date": "1982-06-21",
+      "team1": "France",
+      "team2": "Kuwait",
+      "official_match_number": 23,
+      "fifa_match_id": "919"
+    },
+    {
+      "sequence": 24,
+      "key": "wc1982-match-024",
+      "uid": "wc1982-match-024@world-cup-ics",
+      "date": "1982-06-21",
+      "team1": "Honduras",
+      "team2": "Northern Ireland",
+      "official_match_number": 24,
+      "fifa_match_id": "959"
+    },
+    {
+      "sequence": 25,
+      "key": "wc1982-match-025",
+      "uid": "wc1982-match-025@world-cup-ics",
+      "date": "1982-06-22",
+      "team1": "Poland",
+      "team2": "Peru",
+      "official_match_number": 25,
+      "fifa_match_id": "1055"
+    },
+    {
+      "sequence": 26,
+      "key": "wc1982-match-026",
+      "uid": "wc1982-match-026@world-cup-ics",
+      "date": "1982-06-22",
+      "team1": "Belgium",
+      "team2": "Hungary",
+      "official_match_number": 26,
+      "fifa_match_id": "779"
+    },
+    {
+      "sequence": 27,
+      "key": "wc1982-match-027",
+      "uid": "wc1982-match-027@world-cup-ics",
+      "date": "1982-06-22",
+      "team1": "Soviet Union",
+      "team2": "Scotland",
+      "official_match_number": 27,
+      "fifa_match_id": "1071"
+    },
+    {
+      "sequence": 28,
+      "key": "wc1982-match-028",
+      "uid": "wc1982-match-028@world-cup-ics",
+      "date": "1982-06-23",
+      "team1": "Italy",
+      "team2": "Cameroon",
+      "official_match_number": 28,
+      "fifa_match_id": "828"
+    },
+    {
+      "sequence": 29,
+      "key": "wc1982-match-029",
+      "uid": "wc1982-match-029@world-cup-ics",
+      "date": "1982-06-23",
+      "team1": "Argentina",
+      "team2": "El Salvador",
+      "official_match_number": 29,
+      "fifa_match_id": "751"
+    },
+    {
+      "sequence": 30,
+      "key": "wc1982-match-030",
+      "uid": "wc1982-match-030@world-cup-ics",
+      "date": "1982-06-23",
+      "team1": "Brazil",
+      "team2": "New Zealand",
+      "official_match_number": 30,
+      "fifa_match_id": "789"
+    },
+    {
+      "sequence": 31,
+      "key": "wc1982-match-031",
+      "uid": "wc1982-match-031@world-cup-ics",
+      "date": "1982-06-24",
+      "team1": "Algeria",
+      "team2": "Chile",
+      "official_match_number": 31,
+      "fifa_match_id": "740"
+    },
+    {
+      "sequence": 32,
+      "key": "wc1982-match-032",
+      "uid": "wc1982-match-032@world-cup-ics",
+      "date": "1982-06-24",
+      "team1": "France",
+      "team2": "Czechoslovakia",
+      "official_match_number": 32,
+      "fifa_match_id": "922"
+    },
+    {
+      "sequence": 33,
+      "key": "wc1982-match-033",
+      "uid": "wc1982-match-033@world-cup-ics",
+      "date": "1982-06-24",
+      "team1": "Honduras",
+      "team2": "Yugoslavia",
+      "official_match_number": 33,
+      "fifa_match_id": "962"
+    },
+    {
+      "sequence": 34,
+      "key": "wc1982-match-034",
+      "uid": "wc1982-match-034@world-cup-ics",
+      "date": "1982-06-25",
+      "team1": "West Germany",
+      "team2": "Austria",
+      "official_match_number": 34,
+      "fifa_match_id": "770"
+    },
+    {
+      "sequence": 35,
+      "key": "wc1982-match-035",
+      "uid": "wc1982-match-035@world-cup-ics",
+      "date": "1982-06-25",
+      "team1": "England",
+      "team2": "Kuwait",
+      "official_match_number": 35,
+      "fifa_match_id": "882"
+    },
+    {
+      "sequence": 36,
+      "key": "wc1982-match-036",
+      "uid": "wc1982-match-036@world-cup-ics",
+      "date": "1982-06-25",
+      "team1": "Spain",
+      "team2": "Northern Ireland",
+      "official_match_number": 36,
+      "fifa_match_id": "902"
+    },
+    {
+      "sequence": 37,
+      "key": "wc1982-match-037",
+      "uid": "wc1982-match-037@world-cup-ics",
+      "date": "1982-06-28",
+      "team1": "Austria",
+      "team2": "France",
+      "official_match_number": 37,
+      "fifa_match_id": "767"
+    },
+    {
+      "sequence": 38,
+      "key": "wc1982-match-038",
+      "uid": "wc1982-match-038@world-cup-ics",
+      "date": "1982-06-28",
+      "team1": "Poland",
+      "team2": "Belgium",
+      "official_match_number": 38,
+      "fifa_match_id": "782"
+    },
+    {
+      "sequence": 39,
+      "key": "wc1982-match-039",
+      "uid": "wc1982-match-039@world-cup-ics",
+      "date": "1982-06-29",
+      "team1": "Italy",
+      "team2": "Argentina",
+      "official_match_number": 39,
+      "fifa_match_id": "753"
+    },
+    {
+      "sequence": 40,
+      "key": "wc1982-match-040",
+      "uid": "wc1982-match-040@world-cup-ics",
+      "date": "1982-06-29",
+      "team1": "West Germany",
+      "team2": "England",
+      "official_match_number": 40,
+      "fifa_match_id": "879"
+    },
+    {
+      "sequence": 41,
+      "key": "wc1982-match-041",
+      "uid": "wc1982-match-041@world-cup-ics",
+      "date": "1982-07-01",
+      "team1": "Austria",
+      "team2": "Northern Ireland",
+      "official_match_number": 41,
+      "fifa_match_id": "771"
+    },
+    {
+      "sequence": 42,
+      "key": "wc1982-match-042",
+      "uid": "wc1982-match-042@world-cup-ics",
+      "date": "1982-07-01",
+      "team1": "Belgium",
+      "team2": "Soviet Union",
+      "official_match_number": 42,
+      "fifa_match_id": "783"
+    },
+    {
+      "sequence": 43,
+      "key": "wc1982-match-043",
+      "uid": "wc1982-match-043@world-cup-ics",
+      "date": "1982-07-02",
+      "team1": "Argentina",
+      "team2": "Brazil",
+      "official_match_number": 43,
+      "fifa_match_id": "750"
+    },
+    {
+      "sequence": 44,
+      "key": "wc1982-match-044",
+      "uid": "wc1982-match-044@world-cup-ics",
+      "date": "1982-07-02",
+      "team1": "West Germany",
+      "team2": "Spain",
+      "official_match_number": 44,
+      "fifa_match_id": "900"
+    },
+    {
+      "sequence": 45,
+      "key": "wc1982-match-045",
+      "uid": "wc1982-match-045@world-cup-ics",
+      "date": "1982-07-04",
+      "team1": "Northern Ireland",
+      "team2": "France",
+      "official_match_number": 45,
+      "fifa_match_id": "920"
+    },
+    {
+      "sequence": 46,
+      "key": "wc1982-match-046",
+      "uid": "wc1982-match-046@world-cup-ics",
+      "date": "1982-07-04",
+      "team1": "Soviet Union",
+      "team2": "Poland",
+      "official_match_number": 46,
+      "fifa_match_id": "1058"
+    },
+    {
+      "sequence": 47,
+      "key": "wc1982-match-047",
+      "uid": "wc1982-match-047@world-cup-ics",
+      "date": "1982-07-05",
+      "team1": "Italy",
+      "team2": "Brazil",
+      "official_match_number": 47,
+      "fifa_match_id": "788"
+    },
+    {
+      "sequence": 48,
+      "key": "wc1982-match-048",
+      "uid": "wc1982-match-048@world-cup-ics",
+      "date": "1982-07-05",
+      "team1": "Spain",
+      "team2": "England",
+      "official_match_number": 48,
+      "fifa_match_id": "877"
+    },
+    {
+      "sequence": 49,
+      "key": "wc1982-match-049",
+      "uid": "wc1982-match-049@world-cup-ics",
+      "date": "1982-07-08",
+      "team1": "Poland",
+      "team2": "Italy",
+      "official_match_number": 49,
+      "fifa_match_id": "996"
+    },
+    {
+      "sequence": 50,
+      "key": "wc1982-match-050",
+      "uid": "wc1982-match-050@world-cup-ics",
+      "date": "1982-07-08",
+      "team1": "West Germany",
+      "team2": "France",
+      "official_match_number": 50,
+      "fifa_match_id": "914"
+    },
+    {
+      "sequence": 51,
+      "key": "wc1982-match-051",
+      "uid": "wc1982-match-051@world-cup-ics",
+      "date": "1982-07-10",
+      "team1": "Poland",
+      "team2": "France",
+      "official_match_number": 51,
+      "fifa_match_id": "921"
+    },
+    {
+      "sequence": 52,
+      "key": "wc1982-match-052",
+      "uid": "wc1982-match-052@world-cup-ics",
+      "date": "1982-07-11",
+      "team1": "Italy",
+      "team2": "West Germany",
+      "official_match_number": 52,
+      "fifa_match_id": "923"
+    }
+  ]
+}

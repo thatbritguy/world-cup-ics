@@ -110,6 +110,19 @@ python3 scripts/import_historical_times.py 1938
 python3 scripts/import_historical_times.py 1950
 ```
 
+After the kickoff audit is clean, prepare fixed tournament snapshots and
+candidate venue catalogues with:
+
+```bash
+python3 scripts/prepare_historical_tournaments.py
+python3 scripts/resolve_historical_venues.py
+```
+
+New manifests and calendars remain in `review` status. Candidate coordinates
+must be checked against the historical stadium site before a manifest can be
+promoted to `validated`; review calendars are never included in the master
+`world-cup.ics` feed.
+
 Audit every legitimate men's World Cup year without publishing calendars with:
 
 ```bash

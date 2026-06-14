@@ -1,0 +1,268 @@
+{
+  "year": 1954,
+  "status": "review",
+  "calendar_profile": "archive",
+  "numbering": "Chronological match numbers where FIFA archive numbering is unavailable",
+  "matches": [
+    {
+      "sequence": 1,
+      "key": "wc1954-match-001",
+      "uid": "wc1954-match-001@world-cup-ics",
+      "date": "1954-06-16",
+      "team1": "Uruguay",
+      "team2": "Czechoslovakia",
+      "official_match_number": 1,
+      "fifa_match_id": "1315"
+    },
+    {
+      "sequence": 2,
+      "key": "wc1954-match-002",
+      "uid": "wc1954-match-002@world-cup-ics",
+      "date": "1954-06-16",
+      "team1": "Austria",
+      "team2": "Scotland",
+      "official_match_number": 2,
+      "fifa_match_id": "1236"
+    },
+    {
+      "sequence": 3,
+      "key": "wc1954-match-003",
+      "uid": "wc1954-match-003@world-cup-ics",
+      "date": "1954-06-16",
+      "team1": "Brazil",
+      "team2": "Mexico",
+      "official_match_number": 3,
+      "fifa_match_id": "1249"
+    },
+    {
+      "sequence": 4,
+      "key": "wc1954-match-004",
+      "uid": "wc1954-match-004@world-cup-ics",
+      "date": "1954-06-16",
+      "team1": "Yugoslavia",
+      "team2": "France",
+      "official_match_number": 4,
+      "fifa_match_id": "1276"
+    },
+    {
+      "sequence": 5,
+      "key": "wc1954-match-005",
+      "uid": "wc1954-match-005@world-cup-ics",
+      "date": "1954-06-17",
+      "team1": "West Germany",
+      "team2": "Turkey",
+      "official_match_number": 5,
+      "fifa_match_id": "1283"
+    },
+    {
+      "sequence": 6,
+      "key": "wc1954-match-006",
+      "uid": "wc1954-match-006@world-cup-ics",
+      "date": "1954-06-17",
+      "team1": "England",
+      "team2": "Belgium",
+      "official_match_number": 6,
+      "fifa_match_id": "1240"
+    },
+    {
+      "sequence": 7,
+      "key": "wc1954-match-007",
+      "uid": "wc1954-match-007@world-cup-ics",
+      "date": "1954-06-17",
+      "team1": "Switzerland",
+      "team2": "Italy",
+      "official_match_number": 7,
+      "fifa_match_id": "1300"
+    },
+    {
+      "sequence": 8,
+      "key": "wc1954-match-008",
+      "uid": "wc1954-match-008@world-cup-ics",
+      "date": "1954-06-17",
+      "team1": "Hungary",
+      "team2": "South Korea",
+      "official_match_number": 8,
+      "fifa_match_id": "1294"
+    },
+    {
+      "sequence": 9,
+      "key": "wc1954-match-009",
+      "uid": "wc1954-match-009@world-cup-ics",
+      "date": "1954-06-19",
+      "team1": "Austria",
+      "team2": "Czechoslovakia",
+      "official_match_number": 9,
+      "fifa_match_id": "1238"
+    },
+    {
+      "sequence": 10,
+      "key": "wc1954-match-010",
+      "uid": "wc1954-match-010@world-cup-ics",
+      "date": "1954-06-19",
+      "team1": "Brazil",
+      "team2": "Yugoslavia",
+      "official_match_number": 10,
+      "fifa_match_id": "1252"
+    },
+    {
+      "sequence": 11,
+      "key": "wc1954-match-011",
+      "uid": "wc1954-match-011@world-cup-ics",
+      "date": "1954-06-19",
+      "team1": "France",
+      "team2": "Mexico",
+      "official_match_number": 11,
+      "fifa_match_id": "1275"
+    },
+    {
+      "sequence": 12,
+      "key": "wc1954-match-012",
+      "uid": "wc1954-match-012@world-cup-ics",
+      "date": "1954-06-19",
+      "team1": "Uruguay",
+      "team2": "Scotland",
+      "official_match_number": 12,
+      "fifa_match_id": "1313"
+    },
+    {
+      "sequence": 13,
+      "key": "wc1954-match-013",
+      "uid": "wc1954-match-013@world-cup-ics",
+      "date": "1954-06-20",
+      "team1": "England",
+      "team2": "Switzerland",
+      "official_match_number": 13,
+      "fifa_match_id": "1263"
+    },
+    {
+      "sequence": 14,
+      "key": "wc1954-match-014",
+      "uid": "wc1954-match-014@world-cup-ics",
+      "date": "1954-06-20",
+      "team1": "Hungary",
+      "team2": "West Germany",
+      "official_match_number": 14,
+      "fifa_match_id": "1277"
+    },
+    {
+      "sequence": 15,
+      "key": "wc1954-match-015",
+      "uid": "wc1954-match-015@world-cup-ics",
+      "date": "1954-06-20",
+      "team1": "Turkey",
+      "team2": "South Korea",
+      "official_match_number": 15,
+      "fifa_match_id": "1304"
+    },
+    {
+      "sequence": 16,
+      "key": "wc1954-match-016",
+      "uid": "wc1954-match-016@world-cup-ics",
+      "date": "1954-06-20",
+      "team1": "Italy",
+      "team2": "Belgium",
+      "official_match_number": 16,
+      "fifa_match_id": "1243"
+    },
+    {
+      "sequence": 17,
+      "key": "wc1954-match-017",
+      "uid": "wc1954-match-017@world-cup-ics",
+      "date": "1954-06-23",
+      "team1": "Switzerland",
+      "team2": "Italy",
+      "official_match_number": 17,
+      "fifa_match_id": null
+    },
+    {
+      "sequence": 18,
+      "key": "wc1954-match-018",
+      "uid": "wc1954-match-018@world-cup-ics",
+      "date": "1954-06-27",
+      "team1": "Yugoslavia",
+      "team2": "West Germany",
+      "official_match_number": 17,
+      "fifa_match_id": "1285"
+    },
+    {
+      "sequence": 19,
+      "key": "wc1954-match-019",
+      "uid": "wc1954-match-019@world-cup-ics",
+      "date": "1954-06-27",
+      "team1": "Brazil",
+      "team2": "Hungary",
+      "official_match_number": 18,
+      "fifa_match_id": "1248"
+    },
+    {
+      "sequence": 20,
+      "key": "wc1954-match-020",
+      "uid": "wc1954-match-020@world-cup-ics",
+      "date": "1954-06-23",
+      "team1": "West Germany",
+      "team2": "Turkey",
+      "official_match_number": 19,
+      "fifa_match_id": "1284"
+    },
+    {
+      "sequence": 21,
+      "key": "wc1954-match-021",
+      "uid": "wc1954-match-021@world-cup-ics",
+      "date": "1954-06-26",
+      "team1": "Austria",
+      "team2": "Switzerland",
+      "official_match_number": 19,
+      "fifa_match_id": null
+    },
+    {
+      "sequence": 22,
+      "key": "wc1954-match-022",
+      "uid": "wc1954-match-022@world-cup-ics",
+      "date": "1954-06-26",
+      "team1": "Uruguay",
+      "team2": "England",
+      "official_match_number": 20,
+      "fifa_match_id": "1264"
+    },
+    {
+      "sequence": 23,
+      "key": "wc1954-match-023",
+      "uid": "wc1954-match-023@world-cup-ics",
+      "date": "1954-06-30",
+      "team1": "West Germany",
+      "team2": "Austria",
+      "official_match_number": 21,
+      "fifa_match_id": "1233"
+    },
+    {
+      "sequence": 24,
+      "key": "wc1954-match-024",
+      "uid": "wc1954-match-024@world-cup-ics",
+      "date": "1954-06-30",
+      "team1": "Hungary",
+      "team2": "Uruguay",
+      "official_match_number": 22,
+      "fifa_match_id": "1295"
+    },
+    {
+      "sequence": 25,
+      "key": "wc1954-match-025",
+      "uid": "wc1954-match-025@world-cup-ics",
+      "date": "1954-07-03",
+      "team1": "Uruguay",
+      "team2": "Austria",
+      "official_match_number": 23,
+      "fifa_match_id": "1239"
+    },
+    {
+      "sequence": 26,
+      "key": "wc1954-match-026",
+      "uid": "wc1954-match-026@world-cup-ics",
+      "date": "1954-07-04",
+      "team1": "Hungary",
+      "team2": "West Germany",
+      "official_match_number": 24,
+      "fifa_match_id": "1278"
+    }
+  ]
+}

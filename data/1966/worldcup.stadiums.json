@@ -1,0 +1,108 @@
+{
+  "venues": [
+    {
+      "name": "Ayresome Park",
+      "city": "Middlesbrough",
+      "ground_aliases": [
+        "Ayresome Park, Middlesbrough"
+      ],
+      "latitude": 54.56416667,
+      "longitude": -1.24694444,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Ayresome_Park",
+      "coordinate_source_title": "Ayresome Park",
+      "match_score": 25,
+      "coordinate_status": "candidate"
+    },
+    {
+      "name": "Goodison Park",
+      "city": "Liverpool",
+      "ground_aliases": [
+        "Goodison Park, Liverpool"
+      ],
+      "latitude": 53.43888889,
+      "longitude": -2.96638889,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Goodison_Park",
+      "coordinate_source_title": "Goodison Park",
+      "match_score": 25,
+      "coordinate_status": "candidate"
+    },
+    {
+      "name": "Hillsborough Stadium",
+      "city": "Sheffield",
+      "ground_aliases": [
+        "Hillsborough Stadium, Sheffield"
+      ],
+      "latitude": 53.413829,
+      "longitude": -1.500492,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Hillsborough,_Sheffield",
+      "coordinate_source_title": "Hillsborough, Sheffield",
+      "match_score": 20,
+      "coordinate_status": "candidate"
+    },
+    {
+      "name": "Old Trafford",
+      "city": "Manchester",
+      "ground_aliases": [
+        "Old Trafford, Manchester"
+      ],
+      "latitude": 53.46305556,
+      "longitude": -2.29138889,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Old_Trafford",
+      "coordinate_source_title": "Old Trafford",
+      "match_score": 25,
+      "coordinate_status": "candidate"
+    },
+    {
+      "name": "Roker Park",
+      "city": "Sunderland",
+      "ground_aliases": [
+        "Roker Park, Sunderland"
+      ],
+      "latitude": 54.9213,
+      "longitude": -1.37548056,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Roker_Park",
+      "coordinate_source_title": "Roker Park",
+      "match_score": 25,
+      "coordinate_status": "candidate"
+    },
+    {
+      "name": "Villa Park",
+      "city": "Birmingham",
+      "ground_aliases": [
+        "Villa Park, Birmingham"
+      ],
+      "latitude": 52.50916667,
+      "longitude": -1.88472222,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Villa_Park",
+      "coordinate_source_title": "Villa Park",
+      "match_score": 25,
+      "coordinate_status": "candidate"
+    },
+    {
+      "name": "Wembley Stadium",
+      "city": "London",
+      "ground_aliases": [
+        "Wembley Stadium, London"
+      ],
+      "latitude": 51.5528,
+      "longitude": -0.2979,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Wembley",
+      "coordinate_source_title": "Wembley",
+      "match_score": 15,
+      "coordinate_status": "candidate"
+    },
+    {
+      "name": "White City Stadium",
+      "city": "London",
+      "ground_aliases": [
+        "White City Stadium, London"
+      ],
+      "latitude": 51.511,
+      "longitude": -0.238,
+      "coordinate_source": "https://en.wikipedia.org/wiki/White_City,_London",
+      "coordinate_source_title": "White City, London",
+      "match_score": 30,
+      "coordinate_status": "candidate"
+    }
+  ]
+}

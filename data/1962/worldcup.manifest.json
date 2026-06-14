@@ -1,0 +1,328 @@
+{
+  "year": 1962,
+  "status": "review",
+  "calendar_profile": "archive",
+  "numbering": "FIFA official match numbers",
+  "matches": [
+    {
+      "sequence": 1,
+      "key": "wc1962-match-001",
+      "uid": "wc1962-match-001@world-cup-ics",
+      "date": "1962-05-30",
+      "team1": "Uruguay",
+      "team2": "Colombia",
+      "official_match_number": 1,
+      "fifa_match_id": "1479"
+    },
+    {
+      "sequence": 2,
+      "key": "wc1962-match-002",
+      "uid": "wc1962-match-002@world-cup-ics",
+      "date": "1962-05-30",
+      "team1": "Chile",
+      "team2": "Switzerland",
+      "official_match_number": 2,
+      "fifa_match_id": "1473"
+    },
+    {
+      "sequence": 3,
+      "key": "wc1962-match-003",
+      "uid": "wc1962-match-003@world-cup-ics",
+      "date": "1962-05-30",
+      "team1": "Brazil",
+      "team2": "Mexico",
+      "official_match_number": 3,
+      "fifa_match_id": "1461"
+    },
+    {
+      "sequence": 4,
+      "key": "wc1962-match-004",
+      "uid": "wc1962-match-004@world-cup-ics",
+      "date": "1962-05-30",
+      "team1": "Argentina",
+      "team2": "Bulgaria",
+      "official_match_number": 4,
+      "fifa_match_id": "1447"
+    },
+    {
+      "sequence": 5,
+      "key": "wc1962-match-005",
+      "uid": "wc1962-match-005@world-cup-ics",
+      "date": "1962-05-31",
+      "team1": "Soviet Union",
+      "team2": "Yugoslavia",
+      "official_match_number": 5,
+      "fifa_match_id": "1563"
+    },
+    {
+      "sequence": 6,
+      "key": "wc1962-match-006",
+      "uid": "wc1962-match-006@world-cup-ics",
+      "date": "1962-05-31",
+      "team1": "West Germany",
+      "team2": "Italy",
+      "official_match_number": 6,
+      "fifa_match_id": "1507"
+    },
+    {
+      "sequence": 7,
+      "key": "wc1962-match-007",
+      "uid": "wc1962-match-007@world-cup-ics",
+      "date": "1962-05-31",
+      "team1": "Czechoslovakia",
+      "team2": "Spain",
+      "official_match_number": 7,
+      "fifa_match_id": "1498"
+    },
+    {
+      "sequence": 8,
+      "key": "wc1962-match-008",
+      "uid": "wc1962-match-008@world-cup-ics",
+      "date": "1962-05-31",
+      "team1": "Hungary",
+      "team2": "England",
+      "official_match_number": 8,
+      "fifa_match_id": "1490"
+    },
+    {
+      "sequence": 9,
+      "key": "wc1962-match-009",
+      "uid": "wc1962-match-009@world-cup-ics",
+      "date": "1962-06-02",
+      "team1": "Yugoslavia",
+      "team2": "Uruguay",
+      "official_match_number": 9,
+      "fifa_match_id": "1564"
+    },
+    {
+      "sequence": 10,
+      "key": "wc1962-match-010",
+      "uid": "wc1962-match-010@world-cup-ics",
+      "date": "1962-06-02",
+      "team1": "Chile",
+      "team2": "Italy",
+      "official_match_number": 10,
+      "fifa_match_id": "1472"
+    },
+    {
+      "sequence": 11,
+      "key": "wc1962-match-011",
+      "uid": "wc1962-match-011@world-cup-ics",
+      "date": "1962-06-02",
+      "team1": "Brazil",
+      "team2": "Czechoslovakia",
+      "official_match_number": 11,
+      "fifa_match_id": "1462"
+    },
+    {
+      "sequence": 12,
+      "key": "wc1962-match-012",
+      "uid": "wc1962-match-012@world-cup-ics",
+      "date": "1962-06-02",
+      "team1": "England",
+      "team2": "Argentina",
+      "official_match_number": 12,
+      "fifa_match_id": "1450"
+    },
+    {
+      "sequence": 13,
+      "key": "wc1962-match-013",
+      "uid": "wc1962-match-013@world-cup-ics",
+      "date": "1962-06-03",
+      "team1": "Soviet Union",
+      "team2": "Colombia",
+      "official_match_number": 13,
+      "fifa_match_id": "1478"
+    },
+    {
+      "sequence": 14,
+      "key": "wc1962-match-014",
+      "uid": "wc1962-match-014@world-cup-ics",
+      "date": "1962-06-03",
+      "team1": "West Germany",
+      "team2": "Switzerland",
+      "official_match_number": 14,
+      "fifa_match_id": "1510"
+    },
+    {
+      "sequence": 15,
+      "key": "wc1962-match-015",
+      "uid": "wc1962-match-015@world-cup-ics",
+      "date": "1962-06-03",
+      "team1": "Spain",
+      "team2": "Mexico",
+      "official_match_number": 15,
+      "fifa_match_id": "1497"
+    },
+    {
+      "sequence": 16,
+      "key": "wc1962-match-016",
+      "uid": "wc1962-match-016@world-cup-ics",
+      "date": "1962-06-03",
+      "team1": "Hungary",
+      "team2": "Bulgaria",
+      "official_match_number": 16,
+      "fifa_match_id": "1470"
+    },
+    {
+      "sequence": 17,
+      "key": "wc1962-match-017",
+      "uid": "wc1962-match-017@world-cup-ics",
+      "date": "1962-06-06",
+      "team1": "Soviet Union",
+      "team2": "Uruguay",
+      "official_match_number": 17,
+      "fifa_match_id": "1562"
+    },
+    {
+      "sequence": 18,
+      "key": "wc1962-match-018",
+      "uid": "wc1962-match-018@world-cup-ics",
+      "date": "1962-06-06",
+      "team1": "West Germany",
+      "team2": "Chile",
+      "official_match_number": 18,
+      "fifa_match_id": "1471"
+    },
+    {
+      "sequence": 19,
+      "key": "wc1962-match-019",
+      "uid": "wc1962-match-019@world-cup-ics",
+      "date": "1962-06-06",
+      "team1": "Brazil",
+      "team2": "Spain",
+      "official_match_number": 19,
+      "fifa_match_id": "1460"
+    },
+    {
+      "sequence": 20,
+      "key": "wc1962-match-020",
+      "uid": "wc1962-match-020@world-cup-ics",
+      "date": "1962-06-06",
+      "team1": "Hungary",
+      "team2": "Argentina",
+      "official_match_number": 20,
+      "fifa_match_id": "1451"
+    },
+    {
+      "sequence": 21,
+      "key": "wc1962-match-021",
+      "uid": "wc1962-match-021@world-cup-ics",
+      "date": "1962-06-07",
+      "team1": "Yugoslavia",
+      "team2": "Colombia",
+      "official_match_number": 21,
+      "fifa_match_id": "1480"
+    },
+    {
+      "sequence": 22,
+      "key": "wc1962-match-022",
+      "uid": "wc1962-match-022@world-cup-ics",
+      "date": "1962-06-07",
+      "team1": "Italy",
+      "team2": "Switzerland",
+      "official_match_number": 22,
+      "fifa_match_id": "1532"
+    },
+    {
+      "sequence": 23,
+      "key": "wc1962-match-023",
+      "uid": "wc1962-match-023@world-cup-ics",
+      "date": "1962-06-07",
+      "team1": "Mexico",
+      "team2": "Czechoslovakia",
+      "official_match_number": 23,
+      "fifa_match_id": "1544"
+    },
+    {
+      "sequence": 24,
+      "key": "wc1962-match-024",
+      "uid": "wc1962-match-024@world-cup-ics",
+      "date": "1962-06-07",
+      "team1": "England",
+      "team2": "Bulgaria",
+      "official_match_number": 24,
+      "fifa_match_id": "1464"
+    },
+    {
+      "sequence": 25,
+      "key": "wc1962-match-025",
+      "uid": "wc1962-match-025@world-cup-ics",
+      "date": "1962-06-10",
+      "team1": "Chile",
+      "team2": "Soviet Union",
+      "official_match_number": 25,
+      "fifa_match_id": "1474"
+    },
+    {
+      "sequence": 26,
+      "key": "wc1962-match-026",
+      "uid": "wc1962-match-026@world-cup-ics",
+      "date": "1962-06-10",
+      "team1": "Yugoslavia",
+      "team2": "West Germany",
+      "official_match_number": 26,
+      "fifa_match_id": "1511"
+    },
+    {
+      "sequence": 27,
+      "key": "wc1962-match-027",
+      "uid": "wc1962-match-027@world-cup-ics",
+      "date": "1962-06-10",
+      "team1": "Brazil",
+      "team2": "England",
+      "official_match_number": 27,
+      "fifa_match_id": "1459"
+    },
+    {
+      "sequence": 28,
+      "key": "wc1962-match-028",
+      "uid": "wc1962-match-028@world-cup-ics",
+      "date": "1962-06-10",
+      "team1": "Czechoslovakia",
+      "team2": "Hungary",
+      "official_match_number": 28,
+      "fifa_match_id": "1525"
+    },
+    {
+      "sequence": 29,
+      "key": "wc1962-match-029",
+      "uid": "wc1962-match-029@world-cup-ics",
+      "date": "1962-06-13",
+      "team1": "Brazil",
+      "team2": "Chile",
+      "official_match_number": 29,
+      "fifa_match_id": "1458"
+    },
+    {
+      "sequence": 30,
+      "key": "wc1962-match-030",
+      "uid": "wc1962-match-030@world-cup-ics",
+      "date": "1962-06-13",
+      "team1": "Czechoslovakia",
+      "team2": "Yugoslavia",
+      "official_match_number": 30,
+      "fifa_match_id": "1559"
+    },
+    {
+      "sequence": 31,
+      "key": "wc1962-match-031",
+      "uid": "wc1962-match-031@world-cup-ics",
+      "date": "1962-06-16",
+      "team1": "Chile",
+      "team2": "Yugoslavia",
+      "official_match_number": 31,
+      "fifa_match_id": "1475"
+    },
+    {
+      "sequence": 32,
+      "key": "wc1962-match-032",
+      "uid": "wc1962-match-032@world-cup-ics",
+      "date": "1962-06-17",
+      "team1": "Brazil",
+      "team2": "Czechoslovakia",
+      "official_match_number": 32,
+      "fifa_match_id": "1463"
+    }
+  ]
+}

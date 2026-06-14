@@ -27,7 +27,7 @@ def main() -> None:
         "PRODID:-//world-cup-ics//Complete FIFA World Cup History//EN",
         "CALSCALE:GREGORIAN",
         "METHOD:PUBLISH",
-        "X-WR-CALNAME:FIFA World Cup History",
+        "X-WR-CALNAME:FIFA World Cup Complete",
         "X-WR-CALDESC:Validated FIFA World Cup finals fixtures and results",
     ]
     count = 0

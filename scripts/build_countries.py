@@ -72,6 +72,7 @@ DISPLAY_OVERRIDES: dict[str, dict[str, Any]] = {
     "IRN": {
         "aliases": ["IR Iran", "Islamic Republic of Iran"],
     },
+    "IRL": {"aliases": ["Ireland"]},
     "KOR": {
         "name": "South Korea",
         "aliases": ["Korea Republic", "Republic of Korea"],
