@@ -659,7 +659,11 @@
       },
       "selected_local_time": "17:00",
       "status": "corroborated",
-      "date_mismatch": true,
+      "date_resolution": {
+        "source_date": "1958-06-26",
+        "resolution": "RSSSF date typo; contemporary reporting confirms 28 June."
+      },
+      "date_mismatch": false,
       "fifa_match_id": "1382",
       "fifa_match_number": 31
     },

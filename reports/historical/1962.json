@@ -393,7 +393,11 @@
       },
       "selected_local_time": "15:00",
       "status": "corroborated",
-      "date_mismatch": true,
+      "date_resolution": {
+        "source_date": "1962-06-31",
+        "resolution": "RSSSF contains the impossible date 31 June; correct date is 31 May."
+      },
+      "date_mismatch": false,
       "fifa_match_id": "1490",
       "fifa_match_number": 8
     },

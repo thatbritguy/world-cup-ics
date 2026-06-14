@@ -160,7 +160,39 @@ AUDIT_RESOLUTIONS = {
             "RSSSF records malformed '17..00'; both punctuation and value are "
             "inconsistent with the contemporary broadcast schedule."
         ),
-    }
+    },
+    identity("1990-06-17", "Republic of Ireland", "Egypt"): {
+        "time": "17:00",
+        "selected_source": "FIFA/Wikipedia scheduled kickoff",
+        "evidence": (
+            "The Times day-by-day World Cup schedule published 6 June 1990 "
+            "lists a 16:00 UK kickoff; this equals 17:00 CEST in Italy and "
+            "agrees with FIFA and Wikipedia."
+        ),
+        "rejected_value": (
+            "RSSSF reverses the fixture order as EGY-IRL and omits the kickoff "
+            "time; the unordered team matcher still identifies the fixture."
+        ),
+    },
+}
+
+DATE_RESOLUTIONS = {
+    identity("1958-06-28", "West Germany", "France"): {
+        "source_date": "1958-06-26",
+        "resolution": "RSSSF date typo; contemporary reporting confirms 28 June.",
+    },
+    identity("1962-05-31", "Hungary", "England"): {
+        "source_date": "1962-06-31",
+        "resolution": "RSSSF contains the impossible date 31 June; correct date is 31 May.",
+    },
+    identity("1974-06-26", "Netherlands", "Argentina"): {
+        "source_date": "1974-06-22",
+        "resolution": "RSSSF date typo; 22 June predates the second group stage fixture.",
+    },
+    identity("1990-07-07", "Italy", "England"): {
+        "source_date": "1990-06-07",
+        "resolution": "RSSSF month typo; the third-place match was played 7 July.",
+    },
 }
 
 
@@ -352,6 +384,7 @@ def audit_year(year: int, cache_dir: Path) -> dict[str, object]:
             }
         )
         resolution = AUDIT_RESOLUTIONS.get(key)
+        date_resolution = DATE_RESOLUTIONS.get(key)
         if resolution:
             status = "resolved"
             selected = str(resolution["time"])
@@ -372,10 +405,12 @@ def audit_year(year: int, cache_dir: Path) -> dict[str, object]:
                 "selected_local_time": selected,
                 "status": status,
                 **({"resolution": resolution} if resolution else {}),
+                **({"date_resolution": date_resolution} if date_resolution else {}),
                 "date_mismatch": any(
                     source_date and source_date != match["date"]
                     for source_date in (rsssf_date, fifa_date)
-                ),
+                )
+                and not date_resolution,
                 "fifa_match_id": fifa_item.get("match_id") if isinstance(fifa_item, dict) else None,
                 "fifa_match_number": fifa_item.get("match_number") if isinstance(fifa_item, dict) else None,
             }

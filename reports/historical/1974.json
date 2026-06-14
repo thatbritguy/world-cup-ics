@@ -507,7 +507,11 @@
       },
       "selected_local_time": "19:30",
       "status": "corroborated",
-      "date_mismatch": true,
+      "date_resolution": {
+        "source_date": "1974-06-22",
+        "resolution": "RSSSF date typo; 22 June predates the second group stage fixture."
+      },
+      "date_mismatch": false,
       "fifa_match_id": "1948",
       "fifa_match_number": 26
     },

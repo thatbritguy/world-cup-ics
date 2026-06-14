@@ -10,12 +10,11 @@
   "match_count": 52,
   "status_counts": {
     "corroborated": 50,
-    "resolved": 1,
-    "single-source": 1
+    "resolved": 2
   },
   "existing_calendar_status": null,
   "source_issues_resolved_in_enrichment": false,
-  "requires_review": true,
+  "requires_review": false,
   "matches": [
     {
       "date": "1990-06-09",
@@ -664,7 +663,13 @@
         "openfootball_utc_offset": null
       },
       "selected_local_time": "17:00",
-      "status": "single-source",
+      "status": "resolved",
+      "resolution": {
+        "time": "17:00",
+        "selected_source": "FIFA/Wikipedia scheduled kickoff",
+        "evidence": "The Times day-by-day World Cup schedule published 6 June 1990 lists a 16:00 UK kickoff; this equals 17:00 CEST in Italy and agrees with FIFA and Wikipedia.",
+        "rejected_value": "RSSSF reverses the fixture order as EGY-IRL and omits the kickoff time; the unordered team matcher still identifies the fixture."
+      },
       "date_mismatch": false,
       "fifa_match_id": "152",
       "fifa_match_number": 22
@@ -988,7 +993,11 @@
       },
       "selected_local_time": "20:00",
       "status": "corroborated",
-      "date_mismatch": true,
+      "date_resolution": {
+        "source_date": "1990-06-07",
+        "resolution": "RSSSF month typo; the third-place match was played 7 July."
+      },
+      "date_mismatch": false,
       "fifa_match_id": "162",
       "fifa_match_number": 51
     },

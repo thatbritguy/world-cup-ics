@@ -30,8 +30,8 @@
     "accepted-modern-source": 259,
     "conflict": 134,
     "corroborated": 548,
-    "resolved": 1,
-    "single-source": 22
+    "resolved": 2,
+    "single-source": 21
   },
   "tournaments": [
     {
@@ -175,10 +175,9 @@
       "match_count": 52,
       "status_counts": {
         "corroborated": 50,
-        "resolved": 1,
-        "single-source": 1
+        "resolved": 2
       },
-      "requires_review": true,
+      "requires_review": false,
       "error": null
     },
     {

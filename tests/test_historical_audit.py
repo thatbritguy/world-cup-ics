@@ -10,6 +10,7 @@ sys.path.insert(0, str(ROOT / "scripts"))
 
 from audit_historical_tournaments import (  # noqa: E402
     AUDIT_RESOLUTIONS,
+    DATE_RESOLUTIONS,
     classify,
     identity,
     fifa_team_codes,
@@ -75,6 +76,17 @@ class HistoricalAuditTests(unittest.TestCase):
             identity("1990-06-16", "England", "Netherlands")
         ]
         self.assertEqual(resolution["time"], "21:00")
+
+    def test_1990_ireland_egypt_resolution_uses_scheduled_time(self) -> None:
+        resolution = AUDIT_RESOLUTIONS[
+            identity("1990-06-17", "Republic of Ireland", "Egypt")
+        ]
+        self.assertEqual(resolution["time"], "17:00")
+
+    def test_known_rsssf_date_typos_are_resolved(self) -> None:
+        self.assertIn(
+            identity("1990-07-07", "Italy", "England"), DATE_RESOLUTIONS
+        )
 
 
 if __name__ == "__main__":
