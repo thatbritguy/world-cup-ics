@@ -117,6 +117,7 @@ candidate venue catalogues with:
 
 ```bash
 python3 scripts/prepare_historical_tournaments.py
+python3 scripts/enrich_historical_results.py
 python3 scripts/resolve_historical_venues.py
 python3 scripts/approve_historical_venues.py 1954 1958 1962 1966 1970 1974 1978 1982 1986 1990 1994 1998 2002 2006 2010 2014
 python3 scripts/promote_historical_tournaments.py 1954 1958 1962 1966 1970 1974 1978 1982 1986 1990 1994 1998 2002 2006 2010 2014 2018 2022
@@ -126,6 +127,11 @@ New manifests and calendars remain in `review` status. Candidate coordinates
 must be checked against the historical stadium site before a manifest can be
 promoted to `validated`; review calendars are never included in the master
 `world-cup.ics` feed.
+
+Result enrichment preserves complete openfootball records and fills missing
+half-time scores and goals from era-specific RSSSF full-file parsers. Parsed
+goals are accepted only when they reconcile with the match score; unresolved
+fields are recorded and omitted rather than guessed.
 
 Audit every legitimate men's World Cup year without publishing calendars with:
 

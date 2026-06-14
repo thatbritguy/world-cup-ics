@@ -16,9 +16,9 @@ GEO:52.514722;13.239444
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Olympiastadion, West Berli
  n";X-APPLE-RADIUS=100;X-TITLE="Olympiastadion, West Berlin":geo:52.514722,
  13.239444
-DESCRIPTION:Group 1 | Matchday 1 | 1974 FIFA World Cup - West Germany\nWest
-  Germany 1-0 Chile
-URL:https://en.wikipedia.org/wiki/1974_FIFA_World_Cup
+DESCRIPTION:1974 FIFA World Cup - West Germany\nGroup 1 | Matchday 1\nWest 
+ Germany 1-0 Chile\nHT: 1-0\nFT: 1-0\nGoals:\nFRG 🇩🇪: Breitner 16'
+URL:https://www.fifa.com/en/match-centre/match/17/39/262/2003
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1974
@@ -34,9 +34,10 @@ GEO:53.587222;9.898611
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Volksparkstadion, Hamburg"
  ;X-APPLE-RADIUS=100;X-TITLE="Volksparkstadion, Hamburg":geo:53.587222,9.89
  8611
-DESCRIPTION:Group 1 | Matchday 1 | 1974 FIFA World Cup - West Germany\nEast
-  Germany 2-0 Australia
-URL:https://en.wikipedia.org/wiki/1974_FIFA_World_Cup
+DESCRIPTION:1974 FIFA World Cup - West Germany\nGroup 1 | Matchday 1\nEast 
+ Germany 2-0 Australia\nHT: 0-0\nFT: 2-0\nGoals:\nGDR: Curran 58' og\, Stre
+ ich 72'
+URL:https://www.fifa.com/en/match-centre/match/17/39/262/1955
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1974
@@ -51,9 +52,9 @@ LOCATION:Waldstadion\, Frankfurt
 GEO:50.068056;8.645806
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Waldstadion, Frankfurt";X-
  APPLE-RADIUS=100;X-TITLE="Waldstadion, Frankfurt":geo:50.068056,8.645806
-DESCRIPTION:Group 2 | Matchday 1 | 1974 FIFA World Cup - West Germany\nBraz
- il 0-0 Yugoslavia
-URL:https://en.wikipedia.org/wiki/1974_FIFA_World_Cup
+DESCRIPTION:1974 FIFA World Cup - West Germany\nGroup 2 | Matchday 1\nBrazi
+ l 0-0 Yugoslavia\nHT: 0-0\nFT: 0-0
+URL:https://www.fifa.com/en/match-centre/match/17/39/262/1986
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1974
@@ -69,9 +70,10 @@ GEO:51.492500;7.451667
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Westfalenstadion, Dortmund
  ";X-APPLE-RADIUS=100;X-TITLE="Westfalenstadion, Dortmund":geo:51.492500,7.
  451667
-DESCRIPTION:Group 2 | Matchday 1 | 1974 FIFA World Cup - West Germany\nZair
- e 0-2 Scotland
-URL:https://en.wikipedia.org/wiki/1974_FIFA_World_Cup
+DESCRIPTION:1974 FIFA World Cup - West Germany\nGroup 2 | Matchday 1\nZaire
+  0-2 Scotland\nHT: 0-2\nFT: 0-2\nGoals:\nSCO 🏴󠁧󠁢󠁳󠁣󠁴󠁿:
+  Lorimer 26'\, Jordan 33'
+URL:https://www.fifa.com/en/match-centre/match/17/39/262/2176
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1974
@@ -87,9 +89,10 @@ GEO:52.360000;9.731111
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Niedersachsenstadion, Hano
  ver";X-APPLE-RADIUS=100;X-TITLE="Niedersachsenstadion, Hanover":geo:52.360
  000,9.731111
-DESCRIPTION:Group 3 | Matchday 1 | 1974 FIFA World Cup - West Germany\nUrug
- uay 0-2 Netherlands
-URL:https://en.wikipedia.org/wiki/1974_FIFA_World_Cup
+DESCRIPTION:1974 FIFA World Cup - West Germany\nGroup 3 | Matchday 1\nUrugu
+ ay 0-2 Netherlands\nHT: 0-1\nFT: 0-2\nGoals:\nNED 🇳🇱: Rep 8'\, Rep 8
+ 7'
+URL:https://www.fifa.com/en/match-centre/match/17/39/262/2098
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1974
@@ -105,9 +108,9 @@ GEO:51.260278;6.734167
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Rheinstadion, Düsseldorf"
  ;X-APPLE-RADIUS=100;X-TITLE="Rheinstadion, Düsseldorf":geo:51.260278,6.73
  4167
-DESCRIPTION:Group 3 | Matchday 1 | 1974 FIFA World Cup - West Germany\nSwed
- en 0-0 Bulgaria
-URL:https://en.wikipedia.org/wiki/1974_FIFA_World_Cup
+DESCRIPTION:1974 FIFA World Cup - West Germany\nGroup 3 | Matchday 1\nSwede
+ n 0-0 Bulgaria\nHT: 0-0\nFT: 0-0
+URL:https://www.fifa.com/en/match-centre/match/17/39/262/1995
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1974
@@ -123,9 +126,10 @@ GEO:48.173056;11.546667
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Olympiastadion, München";
  X-APPLE-RADIUS=100;X-TITLE="Olympiastadion, München":geo:48.173056,11.546
  667
-DESCRIPTION:Group 4 | Matchday 1 | 1974 FIFA World Cup - West Germany\nItal
- y 3-1 Haiti
-URL:https://en.wikipedia.org/wiki/1974_FIFA_World_Cup
+DESCRIPTION:1974 FIFA World Cup - West Germany\nGroup 4 | Matchday 1\nItaly
+  3-1 Haiti\nHT: 0-0\nFT: 3-1\nGoals:\nITA 🇮🇹: Rivera 52'\, Auguste 6
+ 6' og\, Anastasi 79'\nHAI 🇭🇹: Sanon 46'
+URL:https://www.fifa.com/en/match-centre/match/17/39/262/2083
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1974
@@ -141,9 +145,10 @@ GEO:48.792222;9.232000
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Neckarstadion, Stuttgart";
  X-APPLE-RADIUS=100;X-TITLE="Neckarstadion, Stuttgart":geo:48.792222,9.2320
  00
-DESCRIPTION:Group 4 | Matchday 1 | 1974 FIFA World Cup - West Germany\nPola
- nd 3-2 Argentina
-URL:https://en.wikipedia.org/wiki/1974_FIFA_World_Cup
+DESCRIPTION:1974 FIFA World Cup - West Germany\nGroup 4 | Matchday 1\nPolan
+ d 3-2 Argentina\nHT: 2-0\nFT: 3-2\nGoals:\nPOL 🇵🇱: Lato 7'\, Szarmac
+ h 9'\, Lato 63'\nARG 🇦🇷: Heredia 61'\, Babington 67'
+URL:https://www.fifa.com/en/match-centre/match/17/39/262/1952
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1974
@@ -159,9 +164,10 @@ GEO:52.514722;13.239444
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Olympiastadion, West Berli
  n";X-APPLE-RADIUS=100;X-TITLE="Olympiastadion, West Berlin":geo:52.514722,
  13.239444
-DESCRIPTION:Group 1 | Matchday 2 | 1974 FIFA World Cup - West Germany\nChil
- e 1-1 East Germany
-URL:https://en.wikipedia.org/wiki/1974_FIFA_World_Cup
+DESCRIPTION:1974 FIFA World Cup - West Germany\nGroup 1 | Matchday 2\nChile
+  1-1 East Germany\nHT: 0-0\nFT: 1-1\nGoals:\nCHI 🇨🇱: Ahumada 69'\nGD
+ R: Hoffmann 55'
+URL:https://www.fifa.com/en/match-centre/match/17/39/262/2004
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1974
@@ -177,9 +183,10 @@ GEO:53.587222;9.898611
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Volksparkstadion, Hamburg"
  ;X-APPLE-RADIUS=100;X-TITLE="Volksparkstadion, Hamburg":geo:53.587222,9.89
  8611
-DESCRIPTION:Group 1 | Matchday 2 | 1974 FIFA World Cup - West Germany\nAust
- ralia 0-3 West Germany
-URL:https://en.wikipedia.org/wiki/1974_FIFA_World_Cup
+DESCRIPTION:1974 FIFA World Cup - West Germany\nGroup 1 | Matchday 2\nAustr
+ alia 0-3 West Germany\nHT: 0-2\nFT: 0-3\nGoals:\nFRG 🇩🇪: Overath 13'
+ \, Cullmann 35'\, Müller 53'
+URL:https://www.fifa.com/en/match-centre/match/17/39/262/1954
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1974
@@ -195,9 +202,11 @@ GEO:51.559167;7.067778
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Parkstadion, Gelsenkirchen
  ";X-APPLE-RADIUS=100;X-TITLE="Parkstadion, Gelsenkirchen":geo:51.559167,7.
  067778
-DESCRIPTION:Group 2 | Matchday 2 | 1974 FIFA World Cup - West Germany\nYugo
- slavia 9-0 Zaire
-URL:https://en.wikipedia.org/wiki/1974_FIFA_World_Cup
+DESCRIPTION:1974 FIFA World Cup - West Germany\nGroup 2 | Matchday 2\nYugos
+ lavia 9-0 Zaire\nHT: 6-0\nFT: 9-0\nGoals:\nYUG: Bajević 8'\, Džajić 14'
+ \, Šurjak 18'\, Katalinski 28'\, Bajević 30'\, Bogićević 38'\, Oblak 5
+ 1'\, Petković 65'\, Bajević 81'
+URL:https://www.fifa.com/en/match-centre/match/17/39/262/2186
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1974
@@ -212,9 +221,9 @@ LOCATION:Waldstadion\, Frankfurt
 GEO:50.068056;8.645806
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Waldstadion, Frankfurt";X-
  APPLE-RADIUS=100;X-TITLE="Waldstadion, Frankfurt":geo:50.068056,8.645806
-DESCRIPTION:Group 2 | Matchday 2 | 1974 FIFA World Cup - West Germany\nScot
- land 0-0 Brazil
-URL:https://en.wikipedia.org/wiki/1974_FIFA_World_Cup
+DESCRIPTION:1974 FIFA World Cup - West Germany\nGroup 2 | Matchday 2\nScotl
+ and 0-0 Brazil\nHT: 0-0\nFT: 0-0
+URL:https://www.fifa.com/en/match-centre/match/17/39/262/1985
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1974
@@ -230,9 +239,9 @@ GEO:51.492500;7.451667
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Westfalenstadion, Dortmund
  ";X-APPLE-RADIUS=100;X-TITLE="Westfalenstadion, Dortmund":geo:51.492500,7.
  451667
-DESCRIPTION:Group 3 | Matchday 2 | 1974 FIFA World Cup - West Germany\nNeth
- erlands 0-0 Sweden
-URL:https://en.wikipedia.org/wiki/1974_FIFA_World_Cup
+DESCRIPTION:1974 FIFA World Cup - West Germany\nGroup 3 | Matchday 2\nNethe
+ rlands 0-0 Sweden\nHT: 0-0\nFT: 0-0
+URL:https://www.fifa.com/en/match-centre/match/17/39/262/2097
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1974
@@ -248,9 +257,10 @@ GEO:52.360000;9.731111
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Niedersachsenstadion, Hano
  ver";X-APPLE-RADIUS=100;X-TITLE="Niedersachsenstadion, Hanover":geo:52.360
  000,9.731111
-DESCRIPTION:Group 3 | Matchday 2 | 1974 FIFA World Cup - West Germany\nUrug
- uay 1-1 Bulgaria
-URL:https://en.wikipedia.org/wiki/1974_FIFA_World_Cup
+DESCRIPTION:1974 FIFA World Cup - West Germany\nGroup 3 | Matchday 2\nUrugu
+ ay 1-1 Bulgaria\nHT: 0-0\nFT: 1-1\nGoals:\nURU 🇺🇾: Pavoni 87'\nBUL 
+ 🇧🇬: Bonev 75'
+URL:https://www.fifa.com/en/match-centre/match/17/39/262/1996
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1974
@@ -266,9 +276,10 @@ GEO:48.173056;11.546667
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Olympiastadion, München";
  X-APPLE-RADIUS=100;X-TITLE="Olympiastadion, München":geo:48.173056,11.546
  667
-DESCRIPTION:Group 4 | Matchday 2 | 1974 FIFA World Cup - West Germany\nHait
- i 0-7 Poland
-URL:https://en.wikipedia.org/wiki/1974_FIFA_World_Cup
+DESCRIPTION:1974 FIFA World Cup - West Germany\nGroup 4 | Matchday 2\nHaiti
+  0-7 Poland\nHT: 0-5\nFT: 0-7\nGoals:\nPOL 🇵🇱: Lato 17'\, Deyna 19'\
+ , Szarmach 30'\, Gorgoń 32'\, Szarmach 34'\, Szarmach 50'\, Lato 67'
+URL:https://www.fifa.com/en/match-centre/match/17/39/262/2085
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1974
@@ -284,9 +295,10 @@ GEO:48.792222;9.232000
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Neckarstadion, Stuttgart";
  X-APPLE-RADIUS=100;X-TITLE="Neckarstadion, Stuttgart":geo:48.792222,9.2320
  00
-DESCRIPTION:Group 4 | Matchday 2 | 1974 FIFA World Cup - West Germany\nArge
- ntina 1-1 Italy
-URL:https://en.wikipedia.org/wiki/1974_FIFA_World_Cup
+DESCRIPTION:1974 FIFA World Cup - West Germany\nGroup 4 | Matchday 2\nArgen
+ tina 1-1 Italy\nHT: 1-1\nFT: 1-1\nGoals:\nARG 🇦🇷: Houseman 19'\nITA 
+ 🇮🇹: Perfumo 36' og
+URL:https://www.fifa.com/en/match-centre/match/17/39/262/1949
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1974
@@ -302,9 +314,9 @@ GEO:52.514722;13.239444
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Olympiastadion, West Berli
  n";X-APPLE-RADIUS=100;X-TITLE="Olympiastadion, West Berlin":geo:52.514722,
  13.239444
-DESCRIPTION:Group 1 | Matchday 3 | 1974 FIFA World Cup - West Germany\nAust
- ralia 0-0 Chile
-URL:https://en.wikipedia.org/wiki/1974_FIFA_World_Cup
+DESCRIPTION:1974 FIFA World Cup - West Germany\nGroup 1 | Matchday 3\nAustr
+ alia 0-0 Chile\nHT: 0-0\nFT: 0-0
+URL:https://www.fifa.com/en/match-centre/match/17/39/262/1953
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1974
@@ -320,9 +332,9 @@ GEO:53.587222;9.898611
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Volksparkstadion, Hamburg"
  ;X-APPLE-RADIUS=100;X-TITLE="Volksparkstadion, Hamburg":geo:53.587222,9.89
  8611
-DESCRIPTION:Group 1 | Matchday 3 | 1974 FIFA World Cup - West Germany\nEast
-  Germany 1-0 West Germany
-URL:https://en.wikipedia.org/wiki/1974_FIFA_World_Cup
+DESCRIPTION:1974 FIFA World Cup - West Germany\nGroup 1 | Matchday 3\nEast 
+ Germany 1-0 West Germany\nHT: 0-0\nFT: 1-0\nGoals:\nGDR: Sparwasser 77'
+URL:https://www.fifa.com/en/match-centre/match/17/39/262/2062
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1974
@@ -337,9 +349,10 @@ LOCATION:Waldstadion\, Frankfurt
 GEO:50.068056;8.645806
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Waldstadion, Frankfurt";X-
  APPLE-RADIUS=100;X-TITLE="Waldstadion, Frankfurt":geo:50.068056,8.645806
-DESCRIPTION:Group 2 | Matchday 3 | 1974 FIFA World Cup - West Germany\nScot
- land 1-1 Yugoslavia
-URL:https://en.wikipedia.org/wiki/1974_FIFA_World_Cup
+DESCRIPTION:1974 FIFA World Cup - West Germany\nGroup 2 | Matchday 3\nScotl
+ and 1-1 Yugoslavia\nHT: 0-0\nFT: 1-1\nGoals:\nSCO 🏴󠁧󠁢󠁳󠁣󠁴
+ 󠁿: Jordan 89'\nYUG: Karasi 82'
+URL:https://www.fifa.com/en/match-centre/match/17/39/262/2175
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1974
@@ -355,9 +368,10 @@ GEO:51.559167;7.067778
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Parkstadion, Gelsenkirchen
  ";X-APPLE-RADIUS=100;X-TITLE="Parkstadion, Gelsenkirchen":geo:51.559167,7.
  067778
-DESCRIPTION:Group 2 | Matchday 3 | 1974 FIFA World Cup - West Germany\nZair
- e 0-3 Brazil
-URL:https://en.wikipedia.org/wiki/1974_FIFA_World_Cup
+DESCRIPTION:1974 FIFA World Cup - West Germany\nGroup 2 | Matchday 3\nZaire
+  0-3 Brazil\nHT: 0-1\nFT: 0-3\nGoals:\nBRA 🇧🇷: Jairzinho 13'\, Rivel
+ ino 67'\, Valdomiro 78'
+URL:https://www.fifa.com/en/match-centre/match/17/39/262/1987
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1974
@@ -373,9 +387,10 @@ GEO:51.492500;7.451667
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Westfalenstadion, Dortmund
  ";X-APPLE-RADIUS=100;X-TITLE="Westfalenstadion, Dortmund":geo:51.492500,7.
  451667
-DESCRIPTION:Group 3 | Matchday 3 | 1974 FIFA World Cup - West Germany\nNeth
- erlands 4-1 Bulgaria
-URL:https://en.wikipedia.org/wiki/1974_FIFA_World_Cup
+DESCRIPTION:1974 FIFA World Cup - West Germany\nGroup 3 | Matchday 3\nNethe
+ rlands 4-1 Bulgaria\nHT: 2-0\nFT: 4-1\nGoals:\nNED 🇳🇱: Neeskens 8' p
+ en\, Neeskens 45' pen\, Rep 71'\, de Jong 88'\nBUL 🇧🇬: Krol 78' og
+URL:https://www.fifa.com/en/match-centre/match/17/39/262/1990
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1974
@@ -391,9 +406,10 @@ GEO:51.260278;6.734167
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Rheinstadion, Düsseldorf"
  ;X-APPLE-RADIUS=100;X-TITLE="Rheinstadion, Düsseldorf":geo:51.260278,6.73
  4167
-DESCRIPTION:Group 3 | Matchday 3 | 1974 FIFA World Cup - West Germany\nSwed
- en 3-0 Uruguay
-URL:https://en.wikipedia.org/wiki/1974_FIFA_World_Cup
+DESCRIPTION:1974 FIFA World Cup - West Germany\nGroup 3 | Matchday 3\nSwede
+ n 3-0 Uruguay\nHT: 0-0\nFT: 3-0\nGoals:\nSWE 🇸🇪: Edström 46'\, Sand
+ berg 74'\, Edström 78'
+URL:https://www.fifa.com/en/match-centre/match/17/39/262/2181
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1974
@@ -409,9 +425,10 @@ GEO:48.173056;11.546667
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Olympiastadion, München";
  X-APPLE-RADIUS=100;X-TITLE="Olympiastadion, München":geo:48.173056,11.546
  667
-DESCRIPTION:Group 4 | Matchday 3 | 1974 FIFA World Cup - West Germany\nArge
- ntina 4-1 Haiti
-URL:https://en.wikipedia.org/wiki/1974_FIFA_World_Cup
+DESCRIPTION:1974 FIFA World Cup - West Germany\nGroup 4 | Matchday 3\nArgen
+ tina 4-1 Haiti\nHT: 2-0\nFT: 4-1\nGoals:\nARG 🇦🇷: Yazalde 15'\, Hous
+ eman 18'\, Ayala 55'\, Yazalde 67'\nHAI 🇭🇹: Sanon 63'
+URL:https://www.fifa.com/en/match-centre/match/17/39/262/1947
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1974
@@ -427,9 +444,10 @@ GEO:48.792222;9.232000
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Neckarstadion, Stuttgart";
  X-APPLE-RADIUS=100;X-TITLE="Neckarstadion, Stuttgart":geo:48.792222,9.2320
  00
-DESCRIPTION:Group 4 | Matchday 3 | 1974 FIFA World Cup - West Germany\nPola
- nd 2-1 Italy
-URL:https://en.wikipedia.org/wiki/1974_FIFA_World_Cup
+DESCRIPTION:1974 FIFA World Cup - West Germany\nGroup 4 | Matchday 3\nPolan
+ d 2-1 Italy\nHT: 2-0\nFT: 2-1\nGoals:\nPOL 🇵🇱: Szarmach 38'\, Deyna 
+ 45'\nITA 🇮🇹: Capello 66'
+URL:https://www.fifa.com/en/match-centre/match/17/39/262/2129
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1974
@@ -445,9 +463,9 @@ GEO:52.360000;9.731111
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Niedersachsenstadion, Hano
  ver";X-APPLE-RADIUS=100;X-TITLE="Niedersachsenstadion, Hanover":geo:52.360
  000,9.731111
-DESCRIPTION:Group A | Matchday 4 | 1974 FIFA World Cup - West Germany\nBraz
- il 1-0 East Germany
-URL:https://en.wikipedia.org/wiki/1974_FIFA_World_Cup
+DESCRIPTION:1974 FIFA World Cup - West Germany\nGroup A | Matchday 4\nBrazi
+ l 1-0 East Germany\nHT: 0-0\nFT: 1-0\nGoals:\nBRA 🇧🇷: Rivelino 61'
+URL:https://www.fifa.com/en/match-centre/match/17/39/263/1982
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1974
@@ -463,9 +481,10 @@ GEO:51.559167;7.067778
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Parkstadion, Gelsenkirchen
  ";X-APPLE-RADIUS=100;X-TITLE="Parkstadion, Gelsenkirchen":geo:51.559167,7.
  067778
-DESCRIPTION:Group A | Matchday 4 | 1974 FIFA World Cup - West Germany\nNeth
- erlands 4-0 Argentina
-URL:https://en.wikipedia.org/wiki/1974_FIFA_World_Cup
+DESCRIPTION:1974 FIFA World Cup - West Germany\nGroup A | Matchday 4\nNethe
+ rlands 4-0 Argentina\nHT: 2-0\nFT: 4-0\nGoals:\nNED 🇳🇱: Cruijff 11'\
+ , Krol 25'\, Rep 73'\, Cruijff 90'
+URL:https://www.fifa.com/en/match-centre/match/17/39/263/1948
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1974
@@ -481,9 +500,10 @@ GEO:51.260278;6.734167
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Rheinstadion, Düsseldorf"
  ;X-APPLE-RADIUS=100;X-TITLE="Rheinstadion, Düsseldorf":geo:51.260278,6.73
  4167
-DESCRIPTION:Group B | Matchday 4 | 1974 FIFA World Cup - West Germany\nYugo
- slavia 0-2 West Germany
-URL:https://en.wikipedia.org/wiki/1974_FIFA_World_Cup
+DESCRIPTION:1974 FIFA World Cup - West Germany\nGroup B | Matchday 4\nYugos
+ lavia 0-2 West Germany\nHT: 0-1\nFT: 0-2\nGoals:\nFRG 🇩🇪: Breitner 3
+ 9'\, Müller 80'
+URL:https://www.fifa.com/en/match-centre/match/17/39/263/2066
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1974
@@ -499,9 +519,9 @@ GEO:48.792222;9.232000
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Neckarstadion, Stuttgart";
  X-APPLE-RADIUS=100;X-TITLE="Neckarstadion, Stuttgart":geo:48.792222,9.2320
  00
-DESCRIPTION:Group B | Matchday 4 | 1974 FIFA World Cup - West Germany\nSwed
- en 0-1 Poland
-URL:https://en.wikipedia.org/wiki/1974_FIFA_World_Cup
+DESCRIPTION:1974 FIFA World Cup - West Germany\nGroup B | Matchday 4\nSwede
+ n 0-1 Poland\nHT: 0-1\nFT: 0-1\nGoals:\nPOL 🇵🇱: Lato 44'
+URL:https://www.fifa.com/en/match-centre/match/17/39/263/2167
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1974
@@ -517,9 +537,10 @@ GEO:51.559167;7.067778
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Parkstadion, Gelsenkirchen
  ";X-APPLE-RADIUS=100;X-TITLE="Parkstadion, Gelsenkirchen":geo:51.559167,7.
  067778
-DESCRIPTION:Group A | Matchday 5 | 1974 FIFA World Cup - West Germany\nEast
-  Germany 0-2 Netherlands
-URL:https://en.wikipedia.org/wiki/1974_FIFA_World_Cup
+DESCRIPTION:1974 FIFA World Cup - West Germany\nGroup A | Matchday 5\nEast 
+ Germany 0-2 Netherlands\nHT: 0-1\nFT: 0-2\nGoals:\nNED 🇳🇱: Neeskens 
+ 8'\, Rensenbrink 59'
+URL:https://www.fifa.com/en/match-centre/match/17/39/263/2067
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1974
@@ -535,9 +556,10 @@ GEO:52.360000;9.731111
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Niedersachsenstadion, Hano
  ver";X-APPLE-RADIUS=100;X-TITLE="Niedersachsenstadion, Hanover":geo:52.360
  000,9.731111
-DESCRIPTION:Group A | Matchday 5 | 1974 FIFA World Cup - West Germany\nArge
- ntina 1-2 Brazil
-URL:https://en.wikipedia.org/wiki/1974_FIFA_World_Cup
+DESCRIPTION:1974 FIFA World Cup - West Germany\nGroup A | Matchday 5\nArgen
+ tina 1-2 Brazil\nHT: 1-1\nFT: 1-2\nGoals:\nARG 🇦🇷: Brindisi 35'\nBRA
+  🇧🇷: Rivelino 32'\, Jairzinho 48'
+URL:https://www.fifa.com/en/match-centre/match/17/39/263/1945
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1974
@@ -553,9 +575,11 @@ GEO:51.260278;6.734167
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Rheinstadion, Düsseldorf"
  ;X-APPLE-RADIUS=100;X-TITLE="Rheinstadion, Düsseldorf":geo:51.260278,6.73
  4167
-DESCRIPTION:Group B | Matchday 5 | 1974 FIFA World Cup - West Germany\nWest
-  Germany 4-2 Sweden
-URL:https://en.wikipedia.org/wiki/1974_FIFA_World_Cup
+DESCRIPTION:1974 FIFA World Cup - West Germany\nGroup B | Matchday 5\nWest 
+ Germany 4-2 Sweden\nHT: 0-1\nFT: 4-2\nGoals:\nFRG 🇩🇪: Overath 51'\, 
+ Bonhof 52'\, Grabowski 77'\, Hoeness 89' pen\nSWE 🇸🇪: Edström 25'\,
+  Sandberg 53'
+URL:https://www.fifa.com/en/match-centre/match/17/39/263/2065
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1974
@@ -570,9 +594,10 @@ LOCATION:Waldstadion\, Frankfurt
 GEO:50.068056;8.645806
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Waldstadion, Frankfurt";X-
  APPLE-RADIUS=100;X-TITLE="Waldstadion, Frankfurt":geo:50.068056,8.645806
-DESCRIPTION:Group B | Matchday 5 | 1974 FIFA World Cup - West Germany\nPola
- nd 2-1 Yugoslavia
-URL:https://en.wikipedia.org/wiki/1974_FIFA_World_Cup
+DESCRIPTION:1974 FIFA World Cup - West Germany\nGroup B | Matchday 5\nPolan
+ d 2-1 Yugoslavia\nHT: 1-1\nFT: 2-1\nGoals:\nPOL 🇵🇱: Deyna 27' pen\, 
+ Lato 63'\nYUG: Karasi 43'
+URL:https://www.fifa.com/en/match-centre/match/17/39/263/2170
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1974
@@ -588,9 +613,10 @@ GEO:51.559167;7.067778
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Parkstadion, Gelsenkirchen
  ";X-APPLE-RADIUS=100;X-TITLE="Parkstadion, Gelsenkirchen":geo:51.559167,7.
  067778
-DESCRIPTION:Group A | Matchday 6 | 1974 FIFA World Cup - West Germany\nArge
- ntina 1-1 East Germany
-URL:https://en.wikipedia.org/wiki/1974_FIFA_World_Cup
+DESCRIPTION:1974 FIFA World Cup - West Germany\nGroup A | Matchday 6\nArgen
+ tina 1-1 East Germany\nHT: 1-1\nFT: 1-1\nGoals:\nARG 🇦🇷: Houseman 21
+ '\nGDR: Streich 14'
+URL:https://www.fifa.com/en/match-centre/match/17/39/263/1946
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1974
@@ -606,9 +632,10 @@ GEO:51.492500;7.451667
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Westfalenstadion, Dortmund
  ";X-APPLE-RADIUS=100;X-TITLE="Westfalenstadion, Dortmund":geo:51.492500,7.
  451667
-DESCRIPTION:Group A | Matchday 6 | 1974 FIFA World Cup - West Germany\nNeth
- erlands 2-0 Brazil
-URL:https://en.wikipedia.org/wiki/1974_FIFA_World_Cup
+DESCRIPTION:1974 FIFA World Cup - West Germany\nGroup A | Matchday 6\nNethe
+ rlands 2-0 Brazil\nHT: 0-0\nFT: 2-0\nGoals:\nNED 🇳🇱: Neeskens 50'\, 
+ Cruijff 65'
+URL:https://www.fifa.com/en/match-centre/match/17/39/263/1983
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1974
@@ -623,9 +650,9 @@ LOCATION:Waldstadion\, Frankfurt
 GEO:50.068056;8.645806
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Waldstadion, Frankfurt";X-
  APPLE-RADIUS=100;X-TITLE="Waldstadion, Frankfurt":geo:50.068056,8.645806
-DESCRIPTION:Group B | Matchday 6 | 1974 FIFA World Cup - West Germany\nPola
- nd 0-1 West Germany
-URL:https://en.wikipedia.org/wiki/1974_FIFA_World_Cup
+DESCRIPTION:1974 FIFA World Cup - West Germany\nGroup B | Matchday 6\nPolan
+ d 0-1 West Germany\nHT: 0-0\nFT: 0-1\nGoals:\nFRG 🇩🇪: Müller 76'
+URL:https://www.fifa.com/en/match-centre/match/17/39/263/2064
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1974
@@ -641,9 +668,10 @@ GEO:51.260278;6.734167
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Rheinstadion, Düsseldorf"
  ;X-APPLE-RADIUS=100;X-TITLE="Rheinstadion, Düsseldorf":geo:51.260278,6.73
  4167
-DESCRIPTION:Group B | Matchday 6 | 1974 FIFA World Cup - West Germany\nSwed
- en 2-1 Yugoslavia
-URL:https://en.wikipedia.org/wiki/1974_FIFA_World_Cup
+DESCRIPTION:1974 FIFA World Cup - West Germany\nGroup B | Matchday 6\nSwede
+ n 2-1 Yugoslavia\nHT: 1-1\nFT: 2-1\nGoals:\nSWE 🇸🇪: Edström 30'\, T
+ orstensson 85'\nYUG: Šurjak 27'
+URL:https://www.fifa.com/en/match-centre/match/17/39/263/2182
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1974
@@ -659,9 +687,9 @@ GEO:48.173056;11.546667
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Olympiastadion, München";
  X-APPLE-RADIUS=100;X-TITLE="Olympiastadion, München":geo:48.173056,11.546
  667
-DESCRIPTION:Match for third place | 1974 FIFA World Cup - West Germany\nBra
- zil 0-1 Poland
-URL:https://en.wikipedia.org/wiki/1974_FIFA_World_Cup
+DESCRIPTION:1974 FIFA World Cup - West Germany\nMatch for third place\nBraz
+ il 0-1 Poland\nFT: 0-1
+URL:https://www.fifa.com/en/match-centre/match/17/39/264/1984
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1974
@@ -677,9 +705,10 @@ GEO:48.173056;11.546667
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Olympiastadion, München";
  X-APPLE-RADIUS=100;X-TITLE="Olympiastadion, München":geo:48.173056,11.546
  667
-DESCRIPTION:Final | 1974 FIFA World Cup - West Germany\nNetherlands 1-2 Wes
- t Germany
-URL:https://en.wikipedia.org/wiki/1974_FIFA_World_Cup
+DESCRIPTION:1974 FIFA World Cup - West Germany\nFinal\nNetherlands 1-2 West
+  Germany\nHT: 1-2\nFT: 1-2\nGoals:\nNED 🇳🇱: Neeskens 2' pen\nFRG 
+ 🇩🇪: Breitner 25' pen\, Müller 43'
+URL:https://www.fifa.com/en/match-centre/match/17/39/605/2063
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1974

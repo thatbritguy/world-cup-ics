@@ -10,10 +10,35 @@
         "ft": [
           2,
           1
+        ],
+        "ht": [
+          0,
+          1
         ]
       },
       "group": "Group 1",
-      "ground": "Estadio Carlos Dittborn, Arica"
+      "ground": "Estadio Carlos Dittborn, Arica",
+      "goals1": [
+        {
+          "name": "Cubilla",
+          "minute": 57
+        },
+        {
+          "name": "Sasia",
+          "minute": 74
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Zuluaga",
+          "minute": 19,
+          "penalty": true
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 1",
@@ -24,10 +49,29 @@
         "ft": [
           2,
           0
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group 1",
-      "ground": "Estadio Carlos Dittborn, Arica"
+      "ground": "Estadio Carlos Dittborn, Arica",
+      "goals1": [
+        {
+          "name": "Ivanov",
+          "minute": 52
+        },
+        {
+          "name": "Ponedelnik",
+          "minute": 84
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 2",
@@ -38,10 +82,39 @@
         "ft": [
           3,
           1
+        ],
+        "ht": [
+          2,
+          1
         ]
       },
       "group": "Group 1",
-      "ground": "Estadio Carlos Dittborn, Arica"
+      "ground": "Estadio Carlos Dittborn, Arica",
+      "goals1": [
+        {
+          "name": "Skoblar",
+          "minute": 26,
+          "penalty": true
+        },
+        {
+          "name": "Galić",
+          "minute": 30
+        },
+        {
+          "name": "Jerković",
+          "minute": 49
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Cabrera",
+          "minute": 19
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 2",
@@ -52,10 +125,54 @@
         "ft": [
           4,
           4
+        ],
+        "ht": [
+          3,
+          1
         ]
       },
       "group": "Group 1",
-      "ground": "Estadio Carlos Dittborn, Arica"
+      "ground": "Estadio Carlos Dittborn, Arica",
+      "goals1": [
+        {
+          "name": "Ivanov",
+          "minute": 8
+        },
+        {
+          "name": "Chislenko",
+          "minute": 10
+        },
+        {
+          "name": "Ivanov",
+          "minute": 12
+        },
+        {
+          "name": "Ponedelnik",
+          "minute": 57
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Aceros",
+          "minute": 21
+        },
+        {
+          "name": "Coll",
+          "minute": 63
+        },
+        {
+          "name": "Rada",
+          "minute": 72
+        },
+        {
+          "name": "Klinger",
+          "minute": 77
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 3",
@@ -66,10 +183,34 @@
         "ft": [
           2,
           1
+        ],
+        "ht": [
+          1,
+          0
         ]
       },
       "group": "Group 1",
-      "ground": "Estadio Carlos Dittborn, Arica"
+      "ground": "Estadio Carlos Dittborn, Arica",
+      "goals1": [
+        {
+          "name": "Mamikin",
+          "minute": 38
+        },
+        {
+          "name": "Ivanov",
+          "minute": 89
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Sasia",
+          "minute": 54
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 3",
@@ -80,10 +221,41 @@
         "ft": [
           5,
           0
+        ],
+        "ht": [
+          2,
+          0
         ]
       },
       "group": "Group 1",
-      "ground": "Estadio Carlos Dittborn, Arica"
+      "ground": "Estadio Carlos Dittborn, Arica",
+      "goals1": [
+        {
+          "name": "Galić",
+          "minute": 21
+        },
+        {
+          "name": "Jerković",
+          "minute": 25
+        },
+        {
+          "name": "Galić",
+          "minute": 62
+        },
+        {
+          "name": "Melić",
+          "minute": 82
+        },
+        {
+          "name": "Jerković",
+          "minute": 88
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 1",
@@ -94,10 +266,38 @@
         "ft": [
           3,
           1
+        ],
+        "ht": [
+          1,
+          1
         ]
       },
       "group": "Group 2",
-      "ground": "Estadio Nacional, Santiago"
+      "ground": "Estadio Nacional, Santiago",
+      "goals1": [
+        {
+          "name": "L.Sánchez",
+          "minute": 44
+        },
+        {
+          "name": "Ramirez",
+          "minute": 52
+        },
+        {
+          "name": "L.Sánchez",
+          "minute": 55
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Wüthrich",
+          "minute": 7
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 1",
@@ -108,10 +308,18 @@
         "ft": [
           0,
           0
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group 2",
-      "ground": "Estadio Nacional, Santiago"
+      "ground": "Estadio Nacional, Santiago",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 2",
@@ -122,10 +330,29 @@
         "ft": [
           2,
           0
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group 2",
-      "ground": "Estadio Nacional, Santiago"
+      "ground": "Estadio Nacional, Santiago",
+      "goals1": [
+        {
+          "name": "Ramirez",
+          "minute": 73
+        },
+        {
+          "name": "Toro",
+          "minute": 88
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 2",
@@ -136,10 +363,34 @@
         "ft": [
           2,
           1
+        ],
+        "ht": [
+          1,
+          0
         ]
       },
       "group": "Group 2",
-      "ground": "Estadio Nacional, Santiago"
+      "ground": "Estadio Nacional, Santiago",
+      "goals1": [
+        {
+          "name": "Brülls",
+          "minute": 45
+        },
+        {
+          "name": "Seeler",
+          "minute": 60
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Schneiter",
+          "minute": 74
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 3",
@@ -150,10 +401,30 @@
         "ft": [
           2,
           0
+        ],
+        "ht": [
+          1,
+          0
         ]
       },
       "group": "Group 2",
-      "ground": "Estadio Nacional, Santiago"
+      "ground": "Estadio Nacional, Santiago",
+      "goals1": [
+        {
+          "name": "Szymaniak",
+          "minute": 21,
+          "penalty": true
+        },
+        {
+          "name": "Seeler",
+          "minute": 80
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 3",
@@ -164,10 +435,33 @@
         "ft": [
           3,
           0
+        ],
+        "ht": [
+          1,
+          0
         ]
       },
       "group": "Group 2",
-      "ground": "Estadio Nacional, Santiago"
+      "ground": "Estadio Nacional, Santiago",
+      "goals1": [
+        {
+          "name": "Mora",
+          "minute": 2
+        },
+        {
+          "name": "Bulgarelli",
+          "minute": 65
+        },
+        {
+          "name": "Bulgarelli",
+          "minute": 67
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 1",
@@ -178,10 +472,29 @@
         "ft": [
           2,
           0
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group 3",
-      "ground": "Estadio Sausalito, Viña del Mar"
+      "ground": "Estadio Sausalito, Viña del Mar",
+      "goals1": [
+        {
+          "name": "Zagalo",
+          "minute": 56
+        },
+        {
+          "name": "Pele",
+          "minute": 73
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 1",
@@ -192,10 +505,25 @@
         "ft": [
           1,
           0
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group 3",
-      "ground": "Estadio Sausalito, Viña del Mar"
+      "ground": "Estadio Sausalito, Viña del Mar",
+      "goals1": [
+        {
+          "name": "Štibrányi",
+          "minute": 60
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 2",
@@ -206,10 +534,18 @@
         "ft": [
           0,
           0
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group 3",
-      "ground": "Estadio Sausalito, Viña del Mar"
+      "ground": "Estadio Sausalito, Viña del Mar",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 2",
@@ -220,10 +556,25 @@
         "ft": [
           1,
           0
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group 3",
-      "ground": "Estadio Sausalito, Viña del Mar"
+      "ground": "Estadio Sausalito, Viña del Mar",
+      "goals1": [
+        {
+          "name": "Peiró",
+          "minute": 89
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 3",
@@ -234,10 +585,34 @@
         "ft": [
           2,
           1
+        ],
+        "ht": [
+          0,
+          1
         ]
       },
       "group": "Group 3",
-      "ground": "Estadio Sausalito, Viña del Mar"
+      "ground": "Estadio Sausalito, Viña del Mar",
+      "goals1": [
+        {
+          "name": "Amarildo",
+          "minute": 72
+        },
+        {
+          "name": "Amarildo",
+          "minute": 86
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Adélardo",
+          "minute": 35
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 3",
@@ -248,10 +623,39 @@
         "ft": [
           3,
           1
+        ],
+        "ht": [
+          2,
+          1
         ]
       },
       "group": "Group 3",
-      "ground": "Estadio Sausalito, Viña del Mar"
+      "ground": "Estadio Sausalito, Viña del Mar",
+      "goals1": [
+        {
+          "name": "Diaz",
+          "minute": 13
+        },
+        {
+          "name": "del'Aguila",
+          "minute": 29
+        },
+        {
+          "name": "H.Hernández",
+          "minute": 90,
+          "penalty": true
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Mašek",
+          "minute": 1
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 1",
@@ -262,10 +666,25 @@
         "ft": [
           1,
           0
+        ],
+        "ht": [
+          1,
+          0
         ]
       },
       "group": "Group 4",
-      "ground": "Estadio El Teniente, Rancagua"
+      "ground": "Estadio El Teniente, Rancagua",
+      "goals1": [
+        {
+          "name": "Facundo",
+          "minute": 4
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 1",
@@ -276,10 +695,35 @@
         "ft": [
           2,
           1
+        ],
+        "ht": [
+          1,
+          0
         ]
       },
       "group": "Group 4",
-      "ground": "Estadio El Teniente, Rancagua"
+      "ground": "Estadio El Teniente, Rancagua",
+      "goals1": [
+        {
+          "name": "Tichy",
+          "minute": 17
+        },
+        {
+          "name": "Albert",
+          "minute": 71
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Flowers",
+          "minute": 60,
+          "penalty": true
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 2",
@@ -290,10 +734,39 @@
         "ft": [
           3,
           1
+        ],
+        "ht": [
+          2,
+          0
         ]
       },
       "group": "Group 4",
-      "ground": "Estadio El Teniente, Rancagua"
+      "ground": "Estadio El Teniente, Rancagua",
+      "goals1": [
+        {
+          "name": "Flowers",
+          "minute": 18,
+          "penalty": true
+        },
+        {
+          "name": "R.Charlton",
+          "minute": 42
+        },
+        {
+          "name": "Greaves",
+          "minute": 67
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Sanfilipo",
+          "minute": 81
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 2",
@@ -304,10 +777,50 @@
         "ft": [
           6,
           1
+        ],
+        "ht": [
+          4,
+          0
         ]
       },
       "group": "Group 4",
-      "ground": "Estadio El Teniente, Rancagua"
+      "ground": "Estadio El Teniente, Rancagua",
+      "goals1": [
+        {
+          "name": "Albert",
+          "minute": 1
+        },
+        {
+          "name": "Albert",
+          "minute": 6
+        },
+        {
+          "name": "Tichy",
+          "minute": 8
+        },
+        {
+          "name": "Selymosi",
+          "minute": 12
+        },
+        {
+          "name": "Albert",
+          "minute": 54
+        },
+        {
+          "name": "Tichy",
+          "minute": 70
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Asparoukhov",
+          "minute": 64
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 3",
@@ -318,10 +831,18 @@
         "ft": [
           0,
           0
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group 4",
-      "ground": "Estadio El Teniente, Rancagua"
+      "ground": "Estadio El Teniente, Rancagua",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 3",
@@ -332,10 +853,18 @@
         "ft": [
           0,
           0
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group 4",
-      "ground": "Estadio El Teniente, Rancagua"
+      "ground": "Estadio El Teniente, Rancagua",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Quarter-finals",
@@ -346,9 +875,33 @@
         "ft": [
           2,
           1
+        ],
+        "ht": [
+          2,
+          1
         ]
       },
-      "ground": "Estadio Carlos Dittborn, Arica"
+      "ground": "Estadio Carlos Dittborn, Arica",
+      "goals1": [
+        {
+          "name": "L.Sánchez",
+          "minute": 11
+        },
+        {
+          "name": "Rojas",
+          "minute": 27
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Chislenko",
+          "minute": 26
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Quarter-finals",
@@ -359,9 +912,24 @@
         "ft": [
           1,
           0
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
-      "ground": "Estadio Nacional, Santiago"
+      "ground": "Estadio Nacional, Santiago",
+      "goals1": [
+        {
+          "name": "Radaković",
+          "minute": 87
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Quarter-finals",
@@ -372,9 +940,37 @@
         "ft": [
           3,
           1
+        ],
+        "ht": [
+          1,
+          1
         ]
       },
-      "ground": "Estadio Sausalito, Viña del Mar"
+      "ground": "Estadio Sausalito, Viña del Mar",
+      "goals1": [
+        {
+          "name": "Garrincha",
+          "minute": 30
+        },
+        {
+          "name": "Vavá",
+          "minute": 53
+        },
+        {
+          "name": "Garrincha",
+          "minute": 59
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Hitchens",
+          "minute": 38
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Quarter-finals",
@@ -385,9 +981,24 @@
         "ft": [
           1,
           0
+        ],
+        "ht": [
+          1,
+          0
         ]
       },
-      "ground": "Estadio El Teniente, Rancagua"
+      "ground": "Estadio El Teniente, Rancagua",
+      "goals1": [
+        {
+          "name": "Scherer",
+          "minute": 14
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Semi-finals",
@@ -398,9 +1009,46 @@
         "ft": [
           4,
           2
+        ],
+        "ht": [
+          2,
+          1
         ]
       },
-      "ground": "Estadio Nacional, Santiago"
+      "ground": "Estadio Nacional, Santiago",
+      "goals1": [
+        {
+          "name": "Garrincha",
+          "minute": 9
+        },
+        {
+          "name": "Garrincha",
+          "minute": 31
+        },
+        {
+          "name": "Váva",
+          "minute": 48
+        },
+        {
+          "name": "Váva",
+          "minute": 78
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Toro",
+          "minute": 41
+        },
+        {
+          "name": "L.Sánchez",
+          "minute": 62,
+          "penalty": true
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Semi-finals",
@@ -411,9 +1059,38 @@
         "ft": [
           3,
           1
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
-      "ground": "Estadio Sausalito, Viña del Mar"
+      "ground": "Estadio Sausalito, Viña del Mar",
+      "goals1": [
+        {
+          "name": "Kadraba",
+          "minute": 49
+        },
+        {
+          "name": "Scherer",
+          "minute": 80
+        },
+        {
+          "name": "Scherer",
+          "minute": 87,
+          "penalty": true
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Jerković",
+          "minute": 69
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Third-place match",
@@ -424,9 +1101,24 @@
         "ft": [
           1,
           0
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
-      "ground": "Estadio Nacional, Santiago"
+      "ground": "Estadio Nacional, Santiago",
+      "goals1": [
+        {
+          "name": "Rojas",
+          "minute": 90
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Final",
@@ -437,9 +1129,37 @@
         "ft": [
           3,
           1
+        ],
+        "ht": [
+          1,
+          1
         ]
       },
-      "ground": "Estadio Nacional, Santiago"
+      "ground": "Estadio Nacional, Santiago",
+      "goals1": [
+        {
+          "name": "Amarildo",
+          "minute": 17
+        },
+        {
+          "name": "Zito",
+          "minute": 69
+        },
+        {
+          "name": "Vavá",
+          "minute": 78
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Masopust",
+          "minute": 15
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     }
   ]
 }

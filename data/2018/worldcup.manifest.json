@@ -12,7 +12,7 @@
       "team1": "Russia",
       "team2": "Saudi Arabia",
       "official_match_number": 1,
-      "fifa_match_id": null
+      "fifa_match_id": "300331503"
     },
     {
       "sequence": 2,
@@ -22,7 +22,7 @@
       "team1": "Egypt",
       "team2": "Uruguay",
       "official_match_number": 2,
-      "fifa_match_id": null
+      "fifa_match_id": "300353632"
     },
     {
       "sequence": 3,
@@ -32,7 +32,7 @@
       "team1": "Morocco",
       "team2": "Iran",
       "official_match_number": 3,
-      "fifa_match_id": null
+      "fifa_match_id": "300331526"
     },
     {
       "sequence": 4,
@@ -42,7 +42,7 @@
       "team1": "Portugal",
       "team2": "Spain",
       "official_match_number": 4,
-      "fifa_match_id": null
+      "fifa_match_id": "300331524"
     },
     {
       "sequence": 5,
@@ -52,7 +52,7 @@
       "team1": "France",
       "team2": "Australia",
       "official_match_number": 5,
-      "fifa_match_id": null
+      "fifa_match_id": "300331533"
     },
     {
       "sequence": 6,
@@ -62,7 +62,7 @@
       "team1": "Argentina",
       "team2": "Iceland",
       "official_match_number": 6,
-      "fifa_match_id": null
+      "fifa_match_id": "300331515"
     },
     {
       "sequence": 7,
@@ -72,7 +72,7 @@
       "team1": "Peru",
       "team2": "Denmark",
       "official_match_number": 7,
-      "fifa_match_id": null
+      "fifa_match_id": "300331528"
     },
     {
       "sequence": 8,
@@ -82,7 +82,7 @@
       "team1": "Croatia",
       "team2": "Nigeria",
       "official_match_number": 8,
-      "fifa_match_id": null
+      "fifa_match_id": "300331523"
     },
     {
       "sequence": 9,
@@ -92,7 +92,7 @@
       "team1": "Costa Rica",
       "team2": "Serbia",
       "official_match_number": 9,
-      "fifa_match_id": null
+      "fifa_match_id": "300331529"
     },
     {
       "sequence": 10,
@@ -102,7 +102,7 @@
       "team1": "Germany",
       "team2": "Mexico",
       "official_match_number": 10,
-      "fifa_match_id": null
+      "fifa_match_id": "300331502"
     },
     {
       "sequence": 11,
@@ -112,7 +112,7 @@
       "team1": "Brazil",
       "team2": "Switzerland",
       "official_match_number": 11,
-      "fifa_match_id": null
+      "fifa_match_id": "300331525"
     },
     {
       "sequence": 12,
@@ -122,7 +122,7 @@
       "team1": "Sweden",
       "team2": "South Korea",
       "official_match_number": 12,
-      "fifa_match_id": null
+      "fifa_match_id": "300331499"
     },
     {
       "sequence": 13,
@@ -132,7 +132,7 @@
       "team1": "Belgium",
       "team2": "Panama",
       "official_match_number": 13,
-      "fifa_match_id": null
+      "fifa_match_id": "300331539"
     },
     {
       "sequence": 14,
@@ -142,7 +142,7 @@
       "team1": "Tunisia",
       "team2": "England",
       "official_match_number": 14,
-      "fifa_match_id": null
+      "fifa_match_id": "300331554"
     },
     {
       "sequence": 15,
@@ -152,7 +152,7 @@
       "team1": "Colombia",
       "team2": "Japan",
       "official_match_number": 15,
-      "fifa_match_id": null
+      "fifa_match_id": "300331550"
     },
     {
       "sequence": 16,
@@ -162,7 +162,7 @@
       "team1": "Poland",
       "team2": "Senegal",
       "official_match_number": 16,
-      "fifa_match_id": null
+      "fifa_match_id": "300331545"
     },
     {
       "sequence": 17,
@@ -172,7 +172,7 @@
       "team1": "Russia",
       "team2": "Egypt",
       "official_match_number": 17,
-      "fifa_match_id": null
+      "fifa_match_id": "300331495"
     },
     {
       "sequence": 18,
@@ -182,7 +182,7 @@
       "team1": "Portugal",
       "team2": "Morocco",
       "official_match_number": 18,
-      "fifa_match_id": null
+      "fifa_match_id": "300331511"
     },
     {
       "sequence": 19,
@@ -192,7 +192,7 @@
       "team1": "Uruguay",
       "team2": "Saudi Arabia",
       "official_match_number": 19,
-      "fifa_match_id": null
+      "fifa_match_id": "300331530"
     },
     {
       "sequence": 20,
@@ -202,7 +202,7 @@
       "team1": "Iran",
       "team2": "Spain",
       "official_match_number": 20,
-      "fifa_match_id": null
+      "fifa_match_id": "300331496"
     },
     {
       "sequence": 21,
@@ -212,7 +212,7 @@
       "team1": "Denmark",
       "team2": "Australia",
       "official_match_number": 21,
-      "fifa_match_id": null
+      "fifa_match_id": "300331518"
     },
     {
       "sequence": 22,
@@ -222,7 +222,7 @@
       "team1": "France",
       "team2": "Peru",
       "official_match_number": 22,
-      "fifa_match_id": null
+      "fifa_match_id": "300331527"
     },
     {
       "sequence": 23,
@@ -232,7 +232,7 @@
       "team1": "Argentina",
       "team2": "Croatia",
       "official_match_number": 23,
-      "fifa_match_id": null
+      "fifa_match_id": "300331513"
     },
     {
       "sequence": 24,
@@ -242,7 +242,7 @@
       "team1": "Brazil",
       "team2": "Costa Rica",
       "official_match_number": 24,
-      "fifa_match_id": null
+      "fifa_match_id": "300331540"
     },
     {
       "sequence": 25,
@@ -252,7 +252,7 @@
       "team1": "Nigeria",
       "team2": "Iceland",
       "official_match_number": 25,
-      "fifa_match_id": null
+      "fifa_match_id": "300331497"
     },
     {
       "sequence": 26,
@@ -262,7 +262,7 @@
       "team1": "Serbia",
       "team2": "Switzerland",
       "official_match_number": 26,
-      "fifa_match_id": null
+      "fifa_match_id": "300340183"
     },
     {
       "sequence": 27,
@@ -272,7 +272,7 @@
       "team1": "Belgium",
       "team2": "Tunisia",
       "official_match_number": 27,
-      "fifa_match_id": null
+      "fifa_match_id": "300331547"
     },
     {
       "sequence": 28,
@@ -282,7 +282,7 @@
       "team1": "South Korea",
       "team2": "Mexico",
       "official_match_number": 28,
-      "fifa_match_id": null
+      "fifa_match_id": "300331549"
     },
     {
       "sequence": 29,
@@ -292,7 +292,7 @@
       "team1": "Germany",
       "team2": "Sweden",
       "official_match_number": 29,
-      "fifa_match_id": null
+      "fifa_match_id": "300331501"
     },
     {
       "sequence": 30,
@@ -302,7 +302,7 @@
       "team1": "England",
       "team2": "Panama",
       "official_match_number": 30,
-      "fifa_match_id": null
+      "fifa_match_id": "300331546"
     },
     {
       "sequence": 31,
@@ -312,7 +312,7 @@
       "team1": "Japan",
       "team2": "Senegal",
       "official_match_number": 31,
-      "fifa_match_id": null
+      "fifa_match_id": "300331505"
     },
     {
       "sequence": 32,
@@ -322,7 +322,7 @@
       "team1": "Poland",
       "team2": "Colombia",
       "official_match_number": 32,
-      "fifa_match_id": null
+      "fifa_match_id": "300331508"
     },
     {
       "sequence": 33,
@@ -332,7 +332,7 @@
       "team1": "Saudi Arabia",
       "team2": "Egypt",
       "official_match_number": 33,
-      "fifa_match_id": null
+      "fifa_match_id": "300331509"
     },
     {
       "sequence": 34,
@@ -342,7 +342,7 @@
       "team1": "Uruguay",
       "team2": "Russia",
       "official_match_number": 34,
-      "fifa_match_id": null
+      "fifa_match_id": "300331516"
     },
     {
       "sequence": 35,
@@ -352,7 +352,7 @@
       "team1": "Iran",
       "team2": "Portugal",
       "official_match_number": 35,
-      "fifa_match_id": null
+      "fifa_match_id": "300331500"
     },
     {
       "sequence": 36,
@@ -362,7 +362,7 @@
       "team1": "Spain",
       "team2": "Morocco",
       "official_match_number": 36,
-      "fifa_match_id": null
+      "fifa_match_id": "300340184"
     },
     {
       "sequence": 37,
@@ -372,7 +372,7 @@
       "team1": "Australia",
       "team2": "Peru",
       "official_match_number": 37,
-      "fifa_match_id": null
+      "fifa_match_id": "300331506"
     },
     {
       "sequence": 38,
@@ -382,7 +382,7 @@
       "team1": "Denmark",
       "team2": "France",
       "official_match_number": 38,
-      "fifa_match_id": null
+      "fifa_match_id": "300331512"
     },
     {
       "sequence": 39,
@@ -392,7 +392,7 @@
       "team1": "Iceland",
       "team2": "Croatia",
       "official_match_number": 39,
-      "fifa_match_id": null
+      "fifa_match_id": "300331510"
     },
     {
       "sequence": 40,
@@ -402,7 +402,7 @@
       "team1": "Nigeria",
       "team2": "Argentina",
       "official_match_number": 40,
-      "fifa_match_id": null
+      "fifa_match_id": "300331519"
     },
     {
       "sequence": 41,
@@ -412,7 +412,7 @@
       "team1": "Mexico",
       "team2": "Sweden",
       "official_match_number": 41,
-      "fifa_match_id": null
+      "fifa_match_id": "300331548"
     },
     {
       "sequence": 42,
@@ -422,7 +422,7 @@
       "team1": "South Korea",
       "team2": "Germany",
       "official_match_number": 42,
-      "fifa_match_id": null
+      "fifa_match_id": "300331532"
     },
     {
       "sequence": 43,
@@ -432,7 +432,7 @@
       "team1": "Serbia",
       "team2": "Brazil",
       "official_match_number": 43,
-      "fifa_match_id": null
+      "fifa_match_id": "300331521"
     },
     {
       "sequence": 44,
@@ -442,7 +442,7 @@
       "team1": "Switzerland",
       "team2": "Costa Rica",
       "official_match_number": 44,
-      "fifa_match_id": null
+      "fifa_match_id": "300331534"
     },
     {
       "sequence": 45,
@@ -452,7 +452,7 @@
       "team1": "Japan",
       "team2": "Poland",
       "official_match_number": 45,
-      "fifa_match_id": null
+      "fifa_match_id": "300331507"
     },
     {
       "sequence": 46,
@@ -462,7 +462,7 @@
       "team1": "Senegal",
       "team2": "Colombia",
       "official_match_number": 46,
-      "fifa_match_id": null
+      "fifa_match_id": "300331553"
     },
     {
       "sequence": 47,
@@ -472,7 +472,7 @@
       "team1": "England",
       "team2": "Belgium",
       "official_match_number": 47,
-      "fifa_match_id": null
+      "fifa_match_id": "300340182"
     },
     {
       "sequence": 48,
@@ -482,7 +482,7 @@
       "team1": "Panama",
       "team2": "Tunisia",
       "official_match_number": 48,
-      "fifa_match_id": null
+      "fifa_match_id": "300331520"
     },
     {
       "sequence": 49,
@@ -492,7 +492,7 @@
       "team1": "France",
       "team2": "Argentina",
       "official_match_number": 49,
-      "fifa_match_id": null
+      "fifa_match_id": "300331537"
     },
     {
       "sequence": 50,
@@ -502,7 +502,7 @@
       "team1": "Uruguay",
       "team2": "Portugal",
       "official_match_number": 50,
-      "fifa_match_id": null
+      "fifa_match_id": "300331544"
     },
     {
       "sequence": 51,
@@ -512,7 +512,7 @@
       "team1": "Spain",
       "team2": "Russia",
       "official_match_number": 51,
-      "fifa_match_id": null
+      "fifa_match_id": "300331517"
     },
     {
       "sequence": 52,
@@ -522,7 +522,7 @@
       "team1": "Croatia",
       "team2": "Denmark",
       "official_match_number": 52,
-      "fifa_match_id": null
+      "fifa_match_id": "300331498"
     },
     {
       "sequence": 53,
@@ -532,7 +532,7 @@
       "team1": "Brazil",
       "team2": "Mexico",
       "official_match_number": 53,
-      "fifa_match_id": null
+      "fifa_match_id": "300331535"
     },
     {
       "sequence": 54,
@@ -542,7 +542,7 @@
       "team1": "Belgium",
       "team2": "Japan",
       "official_match_number": 54,
-      "fifa_match_id": null
+      "fifa_match_id": "300331551"
     },
     {
       "sequence": 55,
@@ -552,7 +552,7 @@
       "team1": "Sweden",
       "team2": "Switzerland",
       "official_match_number": 55,
-      "fifa_match_id": null
+      "fifa_match_id": "300331514"
     },
     {
       "sequence": 56,
@@ -562,7 +562,7 @@
       "team1": "Colombia",
       "team2": "England",
       "official_match_number": 56,
-      "fifa_match_id": null
+      "fifa_match_id": "300331542"
     },
     {
       "sequence": 57,
@@ -572,7 +572,7 @@
       "team1": "Uruguay",
       "team2": "France",
       "official_match_number": 57,
-      "fifa_match_id": null
+      "fifa_match_id": "300331543"
     },
     {
       "sequence": 58,
@@ -582,7 +582,7 @@
       "team1": "Brazil",
       "team2": "Belgium",
       "official_match_number": 58,
-      "fifa_match_id": null
+      "fifa_match_id": "300331538"
     },
     {
       "sequence": 59,
@@ -592,7 +592,7 @@
       "team1": "Sweden",
       "team2": "England",
       "official_match_number": 59,
-      "fifa_match_id": null
+      "fifa_match_id": "300331541"
     },
     {
       "sequence": 60,
@@ -602,7 +602,7 @@
       "team1": "Russia",
       "team2": "Croatia",
       "official_match_number": 60,
-      "fifa_match_id": null
+      "fifa_match_id": "300331504"
     },
     {
       "sequence": 61,
@@ -612,7 +612,7 @@
       "team1": "France",
       "team2": "Belgium",
       "official_match_number": 61,
-      "fifa_match_id": null
+      "fifa_match_id": "300331531"
     },
     {
       "sequence": 62,
@@ -622,7 +622,7 @@
       "team1": "Croatia",
       "team2": "England",
       "official_match_number": 62,
-      "fifa_match_id": null
+      "fifa_match_id": "300331522"
     },
     {
       "sequence": 63,
@@ -632,7 +632,7 @@
       "team1": "Belgium",
       "team2": "England",
       "official_match_number": 63,
-      "fifa_match_id": null
+      "fifa_match_id": "300331536"
     },
     {
       "sequence": 64,
@@ -642,7 +642,7 @@
       "team1": "France",
       "team2": "Croatia",
       "official_match_number": 64,
-      "fifa_match_id": null
+      "fifa_match_id": "300331552"
     }
   ]
 }

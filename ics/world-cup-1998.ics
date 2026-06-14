@@ -16,9 +16,10 @@ GEO:48.935600;2.353900
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade de France, Saint-Den
  is";X-APPLE-RADIUS=100;X-TITLE="Stade de France, Saint-Denis":geo:48.93560
  0,2.353900
-DESCRIPTION:Group A | Matchday 1 | 1998 FIFA World Cup - France\nBrazil 2-1
-  Scotland
-URL:https://en.wikipedia.org/wiki/1998_FIFA_World_Cup
+DESCRIPTION:1998 FIFA World Cup - France\nGroup A | Matchday 1\nBrazil 2-1 
+ Scotland\nHT: 1-1\nFT: 2-1\nGoals:\nBRA 🇧🇷: César Sampaio 5'\, Boyd
+  73' og\nSCO 🏴󠁧󠁢󠁳󠁣󠁴󠁿: Collins 38' pen
+URL:https://www.fifa.com/en/match-centre/match/17/1013/1014/4000
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1998
@@ -34,9 +35,10 @@ GEO:43.622222;3.811944
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade de la Mosson, Montpe
  llier";X-APPLE-RADIUS=100;X-TITLE="Stade de la Mosson, Montpellier":geo:43
  .622222,3.811944
-DESCRIPTION:Group A | Matchday 1 | 1998 FIFA World Cup - France\nMorocco 2-
- 2 Norway
-URL:https://en.wikipedia.org/wiki/1998_FIFA_World_Cup
+DESCRIPTION:1998 FIFA World Cup - France\nGroup A | Matchday 1\nMorocco 2-2
+  Norway\nHT: 1-1\nFT: 2-2\nGoals:\nMAR 🇲🇦: Hadji 38'\, Hadda 59'\nNO
+ R 🇳🇴: Chippo 45'\, Eggen 60'
+URL:https://www.fifa.com/en/match-centre/match/17/1013/1014/8725
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1998
@@ -52,9 +54,10 @@ GEO:43.583333;1.434167
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade de Toulouse, Toulous
  e";X-APPLE-RADIUS=100;X-TITLE="Stade de Toulouse, Toulouse":geo:43.583333,
  1.434167
-DESCRIPTION:Group B | Matchday 1 | 1998 FIFA World Cup - France\nCameroon 1
- -1 Austria
-URL:https://en.wikipedia.org/wiki/1998_FIFA_World_Cup
+DESCRIPTION:1998 FIFA World Cup - France\nGroup B | Matchday 1\nCameroon 1-
+ 1 Austria\nHT: 0-0\nFT: 1-1\nGoals:\nCMR 🇨🇲: Njanka 78'\nAUT 🇦
+ 🇹: Polster 90'
+URL:https://www.fifa.com/en/match-centre/match/17/1013/1014/8727
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1998
@@ -69,9 +72,10 @@ LOCATION:Parc Lescure\, Bordeaux
 GEO:44.829170;-0.598333
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Parc Lescure, Bordeaux";X-
  APPLE-RADIUS=100;X-TITLE="Parc Lescure, Bordeaux":geo:44.829170,-0.598333
-DESCRIPTION:Group B | Matchday 1 | 1998 FIFA World Cup - France\nItaly 2-2 
- Chile
-URL:https://en.wikipedia.org/wiki/1998_FIFA_World_Cup
+DESCRIPTION:1998 FIFA World Cup - France\nGroup B | Matchday 1\nItaly 2-2 C
+ hile\nHT: 1-1\nFT: 2-2\nGoals:\nITA 🇮🇹: Vieri 10'\, R.Baggio 85' pen
+ \nCHI 🇨🇱: Salas 45'\, Salas 49'
+URL:https://www.fifa.com/en/match-centre/match/17/1013/1014/8726
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1998
@@ -87,9 +91,9 @@ GEO:50.432778;2.815000
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade Félix Bollaert, Len
  s";X-APPLE-RADIUS=100;X-TITLE="Stade Félix Bollaert, Lens":geo:50.432778,
  2.815000
-DESCRIPTION:Group C | Matchday 1 | 1998 FIFA World Cup - France\nSaudi Arab
- ia 0-1 Denmark
-URL:https://en.wikipedia.org/wiki/1998_FIFA_World_Cup
+DESCRIPTION:1998 FIFA World Cup - France\nGroup C | Matchday 1\nSaudi Arabi
+ a 0-1 Denmark\nHT: 0-0\nFT: 0-1\nGoals:\nDEN 🇩🇰: Rieper 69'
+URL:https://www.fifa.com/en/match-centre/match/17/1013/1014/8729
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1998
@@ -105,9 +109,10 @@ GEO:43.269722;5.395833
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade Vélodrome, Marseill
  e";X-APPLE-RADIUS=100;X-TITLE="Stade Vélodrome, Marseille":geo:43.269722,
  5.395833
-DESCRIPTION:Group C | Matchday 1 | 1998 FIFA World Cup - France\nFrance 3-0
-  South Africa
-URL:https://en.wikipedia.org/wiki/1998_FIFA_World_Cup
+DESCRIPTION:1998 FIFA World Cup - France\nGroup C | Matchday 1\nFrance 3-0 
+ South Africa\nHT: 1-0\nFT: 3-0\nGoals:\nFRA 🇫🇷: Dugarry 34'\, Issa 7
+ 7' og\, Henry 90'
+URL:https://www.fifa.com/en/match-centre/match/17/1013/1014/8730
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1998
@@ -123,9 +128,9 @@ GEO:43.622222;3.811944
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade de la Mosson, Montpe
  llier";X-APPLE-RADIUS=100;X-TITLE="Stade de la Mosson, Montpellier":geo:43
  .622222,3.811944
-DESCRIPTION:Group D | Matchday 1 | 1998 FIFA World Cup - France\nParaguay 0
- -0 Bulgaria
-URL:https://en.wikipedia.org/wiki/1998_FIFA_World_Cup
+DESCRIPTION:1998 FIFA World Cup - France\nGroup D | Matchday 1\nParaguay 0-
+ 0 Bulgaria\nHT: 0-0\nFT: 0-0
+URL:https://www.fifa.com/en/match-centre/match/17/1013/1014/8728
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1998
@@ -141,9 +146,9 @@ GEO:48.935600;2.353900
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade de France, Saint-Den
  is";X-APPLE-RADIUS=100;X-TITLE="Stade de France, Saint-Denis":geo:48.93560
  0,2.353900
-DESCRIPTION:Group E | Matchday 1 | 1998 FIFA World Cup - France\nNetherland
- s 0-0 Belgium
-URL:https://en.wikipedia.org/wiki/1998_FIFA_World_Cup
+DESCRIPTION:1998 FIFA World Cup - France\nGroup E | Matchday 1\nNetherlands
+  0-0 Belgium\nHT: 0-0\nFT: 0-0
+URL:https://www.fifa.com/en/match-centre/match/17/1013/1014/8733
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1998
@@ -158,9 +163,10 @@ LOCATION:Stade Gerland\, Lyon
 GEO:45.723750;4.832400
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade Gerland, Lyon";X-APP
  LE-RADIUS=100;X-TITLE="Stade Gerland, Lyon":geo:45.723750,4.832400
-DESCRIPTION:Group E | Matchday 1 | 1998 FIFA World Cup - France\nSouth Kore
- a 1-3 Mexico
-URL:https://en.wikipedia.org/wiki/1998_FIFA_World_Cup
+DESCRIPTION:1998 FIFA World Cup - France\nGroup E | Matchday 1\nSouth Korea
+  1-3 Mexico\nHT: 1-0\nFT: 1-3\nGoals:\nKOR 🇰🇷: Ha Seok-ju 20'\nMEX 
+ 🇲🇽: Pelaez 54'\, Hernández 74'\, Hernández 84'
+URL:https://www.fifa.com/en/match-centre/match/17/1013/1014/8732
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1998
@@ -176,9 +182,10 @@ GEO:47.255556;-1.525278
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade de la Beaujoire, Nan
  tes";X-APPLE-RADIUS=100;X-TITLE="Stade de la Beaujoire, Nantes":geo:47.255
  556,-1.525278
-DESCRIPTION:Group D | Matchday 1 | 1998 FIFA World Cup - France\nSpain 2-3 
- Nigeria
-URL:https://en.wikipedia.org/wiki/1998_FIFA_World_Cup
+DESCRIPTION:1998 FIFA World Cup - France\nGroup D | Matchday 1\nSpain 2-3 N
+ igeria\nHT: 1-1\nFT: 2-3\nGoals:\nESP 🇪🇸: Hierro 21'\, Raúl 47'\nNG
+ A 🇳🇬: Adepoju 22'\, Lawal 73'\, Oliseh 79'
+URL:https://www.fifa.com/en/match-centre/match/17/1013/1014/8731
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1998
@@ -194,9 +201,10 @@ GEO:50.432778;2.815000
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade Félix Bollaert, Len
  s";X-APPLE-RADIUS=100;X-TITLE="Stade Félix Bollaert, Lens":geo:50.432778,
  2.815000
-DESCRIPTION:Group H | Matchday 1 | 1998 FIFA World Cup - France\nJamaica 1-
- 3 Croatia
-URL:https://en.wikipedia.org/wiki/1998_FIFA_World_Cup
+DESCRIPTION:1998 FIFA World Cup - France\nGroup H | Matchday 1\nJamaica 1-3
+  Croatia\nHT: 1-1\nFT: 1-3\nGoals:\nJAM 🇯🇲: Earle 45'\nCRO 🇭🇷:
+  Stanić 27'\, Prosinečki 53'\, Šuker 69'
+URL:https://www.fifa.com/en/match-centre/match/17/1013/1014/8736
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1998
@@ -212,9 +220,9 @@ GEO:45.460833;4.390278
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade Geoffroy-Guichard, S
  aint-Étienne";X-APPLE-RADIUS=100;X-TITLE="Stade Geoffroy-Guichard, Saint-
  Étienne":geo:45.460833,4.390278
-DESCRIPTION:Group F | Matchday 1 | 1998 FIFA World Cup - France\nYugoslavia
-  1-0 Iran
-URL:https://en.wikipedia.org/wiki/1998_FIFA_World_Cup
+DESCRIPTION:1998 FIFA World Cup - France\nGroup F | Matchday 1\nYugoslavia 
+ 1-0 Iran\nHT: 0-0\nFT: 1-0\nGoals:\nYUG: Mihajlović 72'
+URL:https://www.fifa.com/en/match-centre/match/17/1013/1014/8735
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1998
@@ -230,9 +238,9 @@ GEO:43.583333;1.434167
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade de Toulouse, Toulous
  e";X-APPLE-RADIUS=100;X-TITLE="Stade de Toulouse, Toulouse":geo:43.583333,
  1.434167
-DESCRIPTION:Group H | Matchday 1 | 1998 FIFA World Cup - France\nArgentina 
- 1-0 Japan
-URL:https://en.wikipedia.org/wiki/1998_FIFA_World_Cup
+DESCRIPTION:1998 FIFA World Cup - France\nGroup H | Matchday 1\nArgentina 1
+ -0 Japan\nHT: 1-0\nFT: 1-0\nGoals:\nARG 🇦🇷: Batistuta 28'
+URL:https://www.fifa.com/en/match-centre/match/17/1013/1014/8734
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1998
@@ -247,9 +255,9 @@ LOCATION:Parc des Princes\, Paris
 GEO:48.841363;2.253069
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Parc des Princes, Paris";X
  -APPLE-RADIUS=100;X-TITLE="Parc des Princes, Paris":geo:48.841363,2.253069
-DESCRIPTION:Group F | Matchday 1 | 1998 FIFA World Cup - France\nGermany 2-
- 0 USA
-URL:https://en.wikipedia.org/wiki/1998_FIFA_World_Cup
+DESCRIPTION:1998 FIFA World Cup - France\nGroup F | Matchday 1\nGermany 2-0
+  USA\nHT: 1-0\nFT: 2-0\nGoals:\nGER 🇩🇪: Möller 8'\, Klinsmann 65'
+URL:https://www.fifa.com/en/match-centre/match/17/1013/1014/8738
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1998
@@ -264,9 +272,9 @@ LOCATION:Stade Gerland\, Lyon
 GEO:45.723750;4.832400
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade Gerland, Lyon";X-APP
  LE-RADIUS=100;X-TITLE="Stade Gerland, Lyon":geo:45.723750,4.832400
-DESCRIPTION:Group G | Matchday 1 | 1998 FIFA World Cup - France\nRomania 1-
- 0 Colombia
-URL:https://en.wikipedia.org/wiki/1998_FIFA_World_Cup
+DESCRIPTION:1998 FIFA World Cup - France\nGroup G | Matchday 1\nRomania 1-0
+  Colombia\nHT: 1-0\nFT: 1-0\nGoals:\nROU 🇷🇴: A.Ilie 45'
+URL:https://www.fifa.com/en/match-centre/match/17/1013/1014/8739
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1998
@@ -282,9 +290,10 @@ GEO:43.269722;5.395833
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade Vélodrome, Marseill
  e";X-APPLE-RADIUS=100;X-TITLE="Stade Vélodrome, Marseille":geo:43.269722,
  5.395833
-DESCRIPTION:Group G | Matchday 1 | 1998 FIFA World Cup - France\nEngland 2-
- 0 Tunisia
-URL:https://en.wikipedia.org/wiki/1998_FIFA_World_Cup
+DESCRIPTION:1998 FIFA World Cup - France\nGroup G | Matchday 1\nEngland 2-0
+  Tunisia\nHT: 1-0\nFT: 2-0\nGoals:\nENG 🏴󠁧󠁢󠁥󠁮󠁧󠁿: Shea
+ rer 43'\, Scholes 89'
+URL:https://www.fifa.com/en/match-centre/match/17/1013/1014/8740
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1998
@@ -299,9 +308,10 @@ LOCATION:Parc Lescure\, Bordeaux
 GEO:44.829170;-0.598333
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Parc Lescure, Bordeaux";X-
  APPLE-RADIUS=100;X-TITLE="Parc Lescure, Bordeaux":geo:44.829170,-0.598333
-DESCRIPTION:Group A | Matchday 2 | 1998 FIFA World Cup - France\nScotland 1
- -1 Norway
-URL:https://en.wikipedia.org/wiki/1998_FIFA_World_Cup
+DESCRIPTION:1998 FIFA World Cup - France\nGroup A | Matchday 2\nScotland 1-
+ 1 Norway\nHT: 0-0\nFT: 1-1\nGoals:\nSCO 🏴󠁧󠁢󠁳󠁣󠁴󠁿: Burl
+ ey 66'\nNOR 🇳🇴: H.Flo 46'
+URL:https://www.fifa.com/en/match-centre/match/17/1013/1014/8741
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1998
@@ -317,9 +327,10 @@ GEO:47.255556;-1.525278
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade de la Beaujoire, Nan
  tes";X-APPLE-RADIUS=100;X-TITLE="Stade de la Beaujoire, Nantes":geo:47.255
  556,-1.525278
-DESCRIPTION:Group A | Matchday 2 | 1998 FIFA World Cup - France\nBrazil 3-0
-  Morocco
-URL:https://en.wikipedia.org/wiki/1998_FIFA_World_Cup
+DESCRIPTION:1998 FIFA World Cup - France\nGroup A | Matchday 2\nBrazil 3-0 
+ Morocco\nHT: 2-0\nFT: 3-0\nGoals:\nBRA 🇧🇷: Ronaldo 9'\, Rivaldo 45'\
+ , Bebeto 50'
+URL:https://www.fifa.com/en/match-centre/match/17/1013/1014/8742
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1998
@@ -335,9 +346,10 @@ GEO:45.460833;4.390278
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade Geoffroy-Guichard, S
  aint-Étienne";X-APPLE-RADIUS=100;X-TITLE="Stade Geoffroy-Guichard, Saint-
  Étienne":geo:45.460833,4.390278
-DESCRIPTION:Group B | Matchday 2 | 1998 FIFA World Cup - France\nChile 1-1 
- Austria
-URL:https://en.wikipedia.org/wiki/1998_FIFA_World_Cup
+DESCRIPTION:1998 FIFA World Cup - France\nGroup B | Matchday 2\nChile 1-1 A
+ ustria\nHT: 0-0\nFT: 1-1\nGoals:\nCHI 🇨🇱: Salas 70'\nAUT 🇦🇹: V
+ astic 90'
+URL:https://www.fifa.com/en/match-centre/match/17/1013/1014/8743
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1998
@@ -353,9 +365,10 @@ GEO:43.622222;3.811944
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade de la Mosson, Montpe
  llier";X-APPLE-RADIUS=100;X-TITLE="Stade de la Mosson, Montpellier":geo:43
  .622222,3.811944
-DESCRIPTION:Group B | Matchday 2 | 1998 FIFA World Cup - France\nItaly 3-0 
- Cameroon
-URL:https://en.wikipedia.org/wiki/1998_FIFA_World_Cup
+DESCRIPTION:1998 FIFA World Cup - France\nGroup B | Matchday 2\nItaly 3-0 C
+ ameroon\nHT: 1-0\nFT: 3-0\nGoals:\nITA 🇮🇹: Di Biagio 8'\, Vieri 79'\
+ , Vieri 85'
+URL:https://www.fifa.com/en/match-centre/match/17/1013/1014/8744
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1998
@@ -371,9 +384,10 @@ GEO:48.935600;2.353900
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade de France, Saint-Den
  is";X-APPLE-RADIUS=100;X-TITLE="Stade de France, Saint-Denis":geo:48.93560
  0,2.353900
-DESCRIPTION:Group C | Matchday 2 | 1998 FIFA World Cup - France\nFrance 4-0
-  Saudi Arabia
-URL:https://en.wikipedia.org/wiki/1998_FIFA_World_Cup
+DESCRIPTION:1998 FIFA World Cup - France\nGroup C | Matchday 2\nFrance 4-0 
+ Saudi Arabia\nHT: 1-0\nFT: 4-0\nGoals:\nFRA 🇫🇷: Henry 36'\, Trézegu
+ et 69'\, Henry 79'\, Lizarazu 85'
+URL:https://www.fifa.com/en/match-centre/match/17/1013/1014/8745
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1998
@@ -389,9 +403,10 @@ GEO:43.583333;1.434167
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade de Toulouse, Toulous
  e";X-APPLE-RADIUS=100;X-TITLE="Stade de Toulouse, Toulouse":geo:43.583333,
  1.434167
-DESCRIPTION:Group C | Matchday 2 | 1998 FIFA World Cup - France\nSouth Afri
- ca 1-1 Denmark
-URL:https://en.wikipedia.org/wiki/1998_FIFA_World_Cup
+DESCRIPTION:1998 FIFA World Cup - France\nGroup C | Matchday 2\nSouth Afric
+ a 1-1 Denmark\nHT: 0-1\nFT: 1-1\nGoals:\nRSA 🇿🇦: McCarthy 52'\nDEN 
+ 🇩🇰: A.Nielsen 13'
+URL:https://www.fifa.com/en/match-centre/match/17/1013/1014/8746
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1998
@@ -406,9 +421,9 @@ LOCATION:Parc des Princes\, Paris
 GEO:48.841363;2.253069
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Parc des Princes, Paris";X
  -APPLE-RADIUS=100;X-TITLE="Parc des Princes, Paris":geo:48.841363,2.253069
-DESCRIPTION:Group D | Matchday 2 | 1998 FIFA World Cup - France\nNigeria 1-
- 0 Bulgaria
-URL:https://en.wikipedia.org/wiki/1998_FIFA_World_Cup
+DESCRIPTION:1998 FIFA World Cup - France\nGroup D | Matchday 2\nNigeria 1-0
+  Bulgaria\nHT: 1-0\nFT: 1-0\nGoals:\nNGA 🇳🇬: Ipkeba 27'
+URL:https://www.fifa.com/en/match-centre/match/17/1013/1014/8747
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1998
@@ -424,9 +439,9 @@ GEO:45.460833;4.390278
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade Geoffroy-Guichard, S
  aint-Étienne";X-APPLE-RADIUS=100;X-TITLE="Stade Geoffroy-Guichard, Saint-
  Étienne":geo:45.460833,4.390278
-DESCRIPTION:Group D | Matchday 2 | 1998 FIFA World Cup - France\nSpain 0-0 
- Paraguay
-URL:https://en.wikipedia.org/wiki/1998_FIFA_World_Cup
+DESCRIPTION:1998 FIFA World Cup - France\nGroup D | Matchday 2\nSpain 0-0 P
+ araguay\nHT: 0-0\nFT: 0-0
+URL:https://www.fifa.com/en/match-centre/match/17/1013/1014/8748
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1998
@@ -442,9 +457,10 @@ GEO:43.269722;5.395833
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade Vélodrome, Marseill
  e";X-APPLE-RADIUS=100;X-TITLE="Stade Vélodrome, Marseille":geo:43.269722,
  5.395833
-DESCRIPTION:Group E | Matchday 2 | 1998 FIFA World Cup - France\nNetherland
- s 5-0 South Korea
-URL:https://en.wikipedia.org/wiki/1998_FIFA_World_Cup
+DESCRIPTION:1998 FIFA World Cup - France\nGroup E | Matchday 2\nNetherlands
+  5-0 South Korea\nHT: 2-0\nFT: 5-0\nGoals:\nNED 🇳🇱: Cocu 37'\, Overm
+ ars 41'\, Bergkamp 71'\, van Hooijdonk 79'\, R.de Boer 83'
+URL:https://www.fifa.com/en/match-centre/match/17/1013/1014/8749
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1998
@@ -459,9 +475,10 @@ LOCATION:Parc Lescure\, Bordeaux
 GEO:44.829170;-0.598333
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Parc Lescure, Bordeaux";X-
  APPLE-RADIUS=100;X-TITLE="Parc Lescure, Bordeaux":geo:44.829170,-0.598333
-DESCRIPTION:Group E | Matchday 2 | 1998 FIFA World Cup - France\nBelgium 2-
- 2 Mexico
-URL:https://en.wikipedia.org/wiki/1998_FIFA_World_Cup
+DESCRIPTION:1998 FIFA World Cup - France\nGroup E | Matchday 2\nBelgium 2-2
+  Mexico\nHT: 1-0\nFT: 2-2\nGoals:\nBEL 🇧🇪: Wilmots 43'\, Wilmots 48'
+ \nMEX 🇲🇽: Garcia Aspe 56' pen\, Blanco 63'
+URL:https://www.fifa.com/en/match-centre/match/17/1013/1014/8750
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1998
@@ -477,9 +494,9 @@ GEO:47.255556;-1.525278
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade de la Beaujoire, Nan
  tes";X-APPLE-RADIUS=100;X-TITLE="Stade de la Beaujoire, Nantes":geo:47.255
  556,-1.525278
-DESCRIPTION:Group H | Matchday 2 | 1998 FIFA World Cup - France\nJapan 0-1 
- Croatia
-URL:https://en.wikipedia.org/wiki/1998_FIFA_World_Cup
+DESCRIPTION:1998 FIFA World Cup - France\nGroup H | Matchday 2\nJapan 0-1 C
+ roatia\nHT: 0-0\nFT: 0-1\nGoals:\nCRO 🇭🇷: Šuker 77'
+URL:https://www.fifa.com/en/match-centre/match/17/1013/1014/8751
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1998
@@ -494,9 +511,10 @@ LOCATION:Parc des Princes\, Paris
 GEO:48.841363;2.253069
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Parc des Princes, Paris";X
  -APPLE-RADIUS=100;X-TITLE="Parc des Princes, Paris":geo:48.841363,2.253069
-DESCRIPTION:Group H | Matchday 2 | 1998 FIFA World Cup - France\nArgentina 
- 5-0 Jamaica
-URL:https://en.wikipedia.org/wiki/1998_FIFA_World_Cup
+DESCRIPTION:1998 FIFA World Cup - France\nGroup H | Matchday 2\nArgentina 5
+ -0 Jamaica\nHT: 1-0\nFT: 5-0\nGoals:\nARG 🇦🇷: Ortega 32'\, Ortega 55
+ '\, Batistuta 72'\, Batistuta 79'\, Batistuta 83' pen
+URL:https://www.fifa.com/en/match-centre/match/17/1013/1014/8752
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1998
@@ -512,9 +530,10 @@ GEO:50.432778;2.815000
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade Félix Bollaert, Len
  s";X-APPLE-RADIUS=100;X-TITLE="Stade Félix Bollaert, Lens":geo:50.432778,
  2.815000
-DESCRIPTION:Group F | Matchday 2 | 1998 FIFA World Cup - France\nGermany 2-
- 2 Yugoslavia
-URL:https://en.wikipedia.org/wiki/1998_FIFA_World_Cup
+DESCRIPTION:1998 FIFA World Cup - France\nGroup F | Matchday 2\nGermany 2-2
+  Yugoslavia\nHT: 0-1\nFT: 2-2\nGoals:\nGER 🇩🇪: Mihajlović 73' og\, 
+ Bierhoff 80'\nYUG: Mijatović 13'\, Stojković 54'
+URL:https://www.fifa.com/en/match-centre/match/17/1013/1014/8753
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1998
@@ -529,9 +548,10 @@ LOCATION:Stade Gerland\, Lyon
 GEO:45.723750;4.832400
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade Gerland, Lyon";X-APP
  LE-RADIUS=100;X-TITLE="Stade Gerland, Lyon":geo:45.723750,4.832400
-DESCRIPTION:Group F | Matchday 2 | 1998 FIFA World Cup - France\nUSA 1-2 Ir
- an
-URL:https://en.wikipedia.org/wiki/1998_FIFA_World_Cup
+DESCRIPTION:1998 FIFA World Cup - France\nGroup F | Matchday 2\nUSA 1-2 Ira
+ n\nHT: 0-1\nFT: 1-2\nGoals:\nUSA 🇺🇸: McBride 87'\nIRN 🇮🇷: Esti
+ li 40'\, Mahdavikia 84'
+URL:https://www.fifa.com/en/match-centre/match/17/1013/1014/8754
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1998
@@ -547,9 +567,9 @@ GEO:43.622222;3.811944
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade de la Mosson, Montpe
  llier";X-APPLE-RADIUS=100;X-TITLE="Stade de la Mosson, Montpellier":geo:43
  .622222,3.811944
-DESCRIPTION:Group G | Matchday 2 | 1998 FIFA World Cup - France\nColombia 1
- -0 Tunisia
-URL:https://en.wikipedia.org/wiki/1998_FIFA_World_Cup
+DESCRIPTION:1998 FIFA World Cup - France\nGroup G | Matchday 2\nColombia 1-
+ 0 Tunisia\nHT: 0-0\nFT: 1-0\nGoals:\nCOL 🇨🇴: Preciado 83'
+URL:https://www.fifa.com/en/match-centre/match/17/1013/1014/8755
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1998
@@ -565,9 +585,10 @@ GEO:43.583333;1.434167
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade de Toulouse, Toulous
  e";X-APPLE-RADIUS=100;X-TITLE="Stade de Toulouse, Toulouse":geo:43.583333,
  1.434167
-DESCRIPTION:Group G | Matchday 2 | 1998 FIFA World Cup - France\nRomania 2-
- 1 England
-URL:https://en.wikipedia.org/wiki/1998_FIFA_World_Cup
+DESCRIPTION:1998 FIFA World Cup - France\nGroup G | Matchday 2\nRomania 2-1
+  England\nHT: 0-0\nFT: 2-1\nGoals:\nROU 🇷🇴: A.Ille 47'\, Petrescu 90
+ '\nENG 🏴󠁧󠁢󠁥󠁮󠁧󠁿: Owen 85'
+URL:https://www.fifa.com/en/match-centre/match/17/1013/1014/8756
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1998
@@ -583,9 +604,10 @@ GEO:48.935600;2.353900
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade de France, Saint-Den
  is";X-APPLE-RADIUS=100;X-TITLE="Stade de France, Saint-Denis":geo:48.93560
  0,2.353900
-DESCRIPTION:Group B | Matchday 3 | 1998 FIFA World Cup - France\nItaly 2-1 
- Austria
-URL:https://en.wikipedia.org/wiki/1998_FIFA_World_Cup
+DESCRIPTION:1998 FIFA World Cup - France\nGroup B | Matchday 3\nItaly 2-1 A
+ ustria\nHT: 0-0\nFT: 2-1\nGoals:\nITA 🇮🇹: Vieri 49'\, R.Baggio 90'\n
+ AUT 🇦🇹: Herzog 90'
+URL:https://www.fifa.com/en/match-centre/match/17/1013/1014/8757
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1998
@@ -601,9 +623,10 @@ GEO:45.460833;4.390278
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade Geoffroy-Guichard, S
  aint-Étienne";X-APPLE-RADIUS=100;X-TITLE="Stade Geoffroy-Guichard, Saint-
  Étienne":geo:45.460833,4.390278
-DESCRIPTION:Group A | Matchday 3 | 1998 FIFA World Cup - France\nScotland 0
- -3 Morocco
-URL:https://en.wikipedia.org/wiki/1998_FIFA_World_Cup
+DESCRIPTION:1998 FIFA World Cup - France\nGroup A | Matchday 3\nScotland 0-
+ 3 Morocco\nHT: 0-1\nFT: 0-3\nGoals:\nMAR 🇲🇦: Bassir 22'\, Hadda 47'\
+ , Bassir 84'
+URL:https://www.fifa.com/en/match-centre/match/17/1013/1014/8758
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1998
@@ -619,9 +642,10 @@ GEO:43.269722;5.395833
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade Vélodrome, Marseill
  e";X-APPLE-RADIUS=100;X-TITLE="Stade Vélodrome, Marseille":geo:43.269722,
  5.395833
-DESCRIPTION:Group A | Matchday 3 | 1998 FIFA World Cup - France\nBrazil 1-2
-  Norway
-URL:https://en.wikipedia.org/wiki/1998_FIFA_World_Cup
+DESCRIPTION:1998 FIFA World Cup - France\nGroup A | Matchday 3\nBrazil 1-2 
+ Norway\nHT: 0-0\nFT: 1-2\nGoals:\nBRA 🇧🇷: Bebeto 79'\nNOR 🇳🇴: 
+ T.A.Flo 83'\, Rekdal 89' pen
+URL:https://www.fifa.com/en/match-centre/match/17/1013/1014/8759
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1998
@@ -637,9 +661,10 @@ GEO:47.255556;-1.525278
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade de la Beaujoire, Nan
  tes";X-APPLE-RADIUS=100;X-TITLE="Stade de la Beaujoire, Nantes":geo:47.255
  556,-1.525278
-DESCRIPTION:Group B | Matchday 3 | 1998 FIFA World Cup - France\nChile 1-1 
- Cameroon
-URL:https://en.wikipedia.org/wiki/1998_FIFA_World_Cup
+DESCRIPTION:1998 FIFA World Cup - France\nGroup B | Matchday 3\nChile 1-1 C
+ ameroon\nHT: 1-0\nFT: 1-1\nGoals:\nCHI 🇨🇱: Sierra 20'\nCMR 🇨🇲:
+  Mboma 55'
+URL:https://www.fifa.com/en/match-centre/match/17/1013/1014/8760
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1998
@@ -655,9 +680,11 @@ GEO:50.432778;2.815000
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade Félix Bollaert, Len
  s";X-APPLE-RADIUS=100;X-TITLE="Stade Félix Bollaert, Lens":geo:50.432778,
  2.815000
-DESCRIPTION:Group D | Matchday 3 | 1998 FIFA World Cup - France\nSpain 6-1 
- Bulgaria
-URL:https://en.wikipedia.org/wiki/1998_FIFA_World_Cup
+DESCRIPTION:1998 FIFA World Cup - France\nGroup D | Matchday 3\nSpain 6-1 B
+ ulgaria\nHT: 2-0\nFT: 6-1\nGoals:\nESP 🇪🇸: Hierro 6' pen\, Luis Enri
+ que 19'\, Morientes 53'\, Morientes 81'\, Kiko 86'\, Kiko 88'\nBUL 🇧
+ 🇬: Kostadinov 56'
+URL:https://www.fifa.com/en/match-centre/match/17/1013/1014/8761
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1998
@@ -672,9 +699,10 @@ LOCATION:Stade Gerland\, Lyon
 GEO:45.723750;4.832400
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade Gerland, Lyon";X-APP
  LE-RADIUS=100;X-TITLE="Stade Gerland, Lyon":geo:45.723750,4.832400
-DESCRIPTION:Group C | Matchday 3 | 1998 FIFA World Cup - France\nFrance 2-1
-  Denmark
-URL:https://en.wikipedia.org/wiki/1998_FIFA_World_Cup
+DESCRIPTION:1998 FIFA World Cup - France\nGroup C | Matchday 3\nFrance 2-1 
+ Denmark\nHT: 1-1\nFT: 2-1\nGoals:\nFRA 🇫🇷: Djorkaeff 23' pen\, Petit
+  56'\nDEN 🇩🇰: M.Laudrup 42' pen
+URL:https://www.fifa.com/en/match-centre/match/17/1013/1014/8762
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1998
@@ -690,9 +718,10 @@ GEO:43.583333;1.434167
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade de Toulouse, Toulous
  e";X-APPLE-RADIUS=100;X-TITLE="Stade de Toulouse, Toulouse":geo:43.583333,
  1.434167
-DESCRIPTION:Group D | Matchday 3 | 1998 FIFA World Cup - France\nNigeria 1-
- 3 Paraguay
-URL:https://en.wikipedia.org/wiki/1998_FIFA_World_Cup
+DESCRIPTION:1998 FIFA World Cup - France\nGroup D | Matchday 3\nNigeria 1-3
+  Paraguay\nHT: 1-1\nFT: 1-3\nGoals:\nNGA 🇳🇬: Oruma 11'\nPAR 🇵🇾
+ : Ayala 1'\, Benitez 59'\, Cardoso 86'
+URL:https://www.fifa.com/en/match-centre/match/17/1013/1014/8763
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1998
@@ -707,9 +736,10 @@ LOCATION:Parc Lescure\, Bordeaux
 GEO:44.829170;-0.598333
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Parc Lescure, Bordeaux";X-
  APPLE-RADIUS=100;X-TITLE="Parc Lescure, Bordeaux":geo:44.829170,-0.598333
-DESCRIPTION:Group C | Matchday 3 | 1998 FIFA World Cup - France\nSouth Afri
- ca 2-2 Saudi Arabia
-URL:https://en.wikipedia.org/wiki/1998_FIFA_World_Cup
+DESCRIPTION:1998 FIFA World Cup - France\nGroup C | Matchday 3\nSouth Afric
+ a 2-2 Saudi Arabia\nHT: 1-1\nFT: 2-2\nGoals:\nRSA 🇿🇦: Bartlett 19'\,
+  Bartlett 90'\nKSA 🇸🇦: Al Jaber 45' pen\, Al Tunian 73' pen
+URL:https://www.fifa.com/en/match-centre/match/17/1013/1014/8764
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1998
@@ -724,9 +754,10 @@ LOCATION:Parc des Princes\, Paris
 GEO:48.841363;2.253069
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Parc des Princes, Paris";X
  -APPLE-RADIUS=100;X-TITLE="Parc des Princes, Paris":geo:48.841363,2.253069
-DESCRIPTION:Group E | Matchday 3 | 1998 FIFA World Cup - France\nBelgium 1-
- 1 South Korea
-URL:https://en.wikipedia.org/wiki/1998_FIFA_World_Cup
+DESCRIPTION:1998 FIFA World Cup - France\nGroup E | Matchday 3\nBelgium 1-1
+  South Korea\nHT: 1-0\nFT: 1-1\nGoals:\nBEL 🇧🇪: Nilis 6'\nKOR 🇰
+ 🇷: Yoo-Sang chul 71'
+URL:https://www.fifa.com/en/match-centre/match/17/1013/1014/8765
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1998
@@ -742,9 +773,10 @@ GEO:45.460833;4.390278
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade Geoffroy-Guichard, S
  aint-Étienne";X-APPLE-RADIUS=100;X-TITLE="Stade Geoffroy-Guichard, Saint-
  Étienne":geo:45.460833,4.390278
-DESCRIPTION:Group E | Matchday 3 | 1998 FIFA World Cup - France\nNetherland
- s 2-2 Mexico
-URL:https://en.wikipedia.org/wiki/1998_FIFA_World_Cup
+DESCRIPTION:1998 FIFA World Cup - France\nGroup E | Matchday 3\nNetherlands
+  2-2 Mexico\nHT: 2-0\nFT: 2-2\nGoals:\nNED 🇳🇱: Cocu 4'\, R.de Boer 1
+ 9'\nMEX 🇲🇽: Pelaez 75'\, Hernández 90'
+URL:https://www.fifa.com/en/match-centre/match/17/1013/1014/8766
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1998
@@ -760,9 +792,10 @@ GEO:43.622222;3.811944
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade de la Mosson, Montpe
  llier";X-APPLE-RADIUS=100;X-TITLE="Stade de la Mosson, Montpellier":geo:43
  .622222,3.811944
-DESCRIPTION:Group F | Matchday 3 | 1998 FIFA World Cup - France\nGermany 2-
- 0 Iran
-URL:https://en.wikipedia.org/wiki/1998_FIFA_World_Cup
+DESCRIPTION:1998 FIFA World Cup - France\nGroup F | Matchday 3\nGermany 2-0
+  Iran\nHT: 0-0\nFT: 2-0\nGoals:\nGER 🇩🇪: Bierhoff 50'\, Klinsmann 57
+ '
+URL:https://www.fifa.com/en/match-centre/match/17/1013/1014/8767
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1998
@@ -778,9 +811,9 @@ GEO:47.255556;-1.525278
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade de la Beaujoire, Nan
  tes";X-APPLE-RADIUS=100;X-TITLE="Stade de la Beaujoire, Nantes":geo:47.255
  556,-1.525278
-DESCRIPTION:Group F | Matchday 3 | 1998 FIFA World Cup - France\nUSA 0-1 Yu
- goslavia
-URL:https://en.wikipedia.org/wiki/1998_FIFA_World_Cup
+DESCRIPTION:1998 FIFA World Cup - France\nGroup F | Matchday 3\nUSA 0-1 Yug
+ oslavia\nHT: 0-1\nFT: 0-1\nGoals:\nYUG: Komljenović 4'
+URL:https://www.fifa.com/en/match-centre/match/17/1013/1014/8768
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1998
@@ -796,9 +829,10 @@ GEO:48.935600;2.353900
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade de France, Saint-Den
  is";X-APPLE-RADIUS=100;X-TITLE="Stade de France, Saint-Denis":geo:48.93560
  0,2.353900
-DESCRIPTION:Group G | Matchday 3 | 1998 FIFA World Cup - France\nRomania 1-
- 1 Tunisia
-URL:https://en.wikipedia.org/wiki/1998_FIFA_World_Cup
+DESCRIPTION:1998 FIFA World Cup - France\nGroup G | Matchday 3\nRomania 1-1
+  Tunisia\nHT: 0-1\nFT: 1-1\nGoals:\nROU 🇷🇴: Moldovan 72'\nTUN 🇹
+ 🇳: Souayah 10' pen
+URL:https://www.fifa.com/en/match-centre/match/17/1013/1014/8769
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1998
@@ -814,9 +848,10 @@ GEO:50.432778;2.815000
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade Félix Bollaert, Len
  s";X-APPLE-RADIUS=100;X-TITLE="Stade Félix Bollaert, Lens":geo:50.432778,
  2.815000
-DESCRIPTION:Group G | Matchday 3 | 1998 FIFA World Cup - France\nColombia 0
- -2 England
-URL:https://en.wikipedia.org/wiki/1998_FIFA_World_Cup
+DESCRIPTION:1998 FIFA World Cup - France\nGroup G | Matchday 3\nColombia 0-
+ 2 England\nHT: 0-2\nFT: 0-2\nGoals:\nENG 🏴󠁧󠁢󠁥󠁮󠁧󠁿: And
+ erton 20'\, Beckham 30'
+URL:https://www.fifa.com/en/match-centre/match/17/1013/1014/8770
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1998
@@ -831,9 +866,10 @@ LOCATION:Stade Gerland\, Lyon
 GEO:45.723750;4.832400
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade Gerland, Lyon";X-APP
  LE-RADIUS=100;X-TITLE="Stade Gerland, Lyon":geo:45.723750,4.832400
-DESCRIPTION:Group H | Matchday 3 | 1998 FIFA World Cup - France\nJapan 1-2 
- Jamaica
-URL:https://en.wikipedia.org/wiki/1998_FIFA_World_Cup
+DESCRIPTION:1998 FIFA World Cup - France\nGroup H | Matchday 3\nJapan 1-2 J
+ amaica\nHT: 0-1\nFT: 1-2\nGoals:\nJPN 🇯🇵: Nakayama 75'\nJAM 🇯🇲
+ : Whitmore 39'\, Whitmore 54'
+URL:https://www.fifa.com/en/match-centre/match/17/1013/1014/8771
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1998
@@ -848,9 +884,9 @@ LOCATION:Parc Lescure\, Bordeaux
 GEO:44.829170;-0.598333
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Parc Lescure, Bordeaux";X-
  APPLE-RADIUS=100;X-TITLE="Parc Lescure, Bordeaux":geo:44.829170,-0.598333
-DESCRIPTION:Group H | Matchday 3 | 1998 FIFA World Cup - France\nArgentina 
- 1-0 Croatia
-URL:https://en.wikipedia.org/wiki/1998_FIFA_World_Cup
+DESCRIPTION:1998 FIFA World Cup - France\nGroup H | Matchday 3\nArgentina 1
+ -0 Croatia\nHT: 1-0\nFT: 1-0\nGoals:\nARG 🇦🇷: Pineda 34'
+URL:https://www.fifa.com/en/match-centre/match/17/1013/1014/8772
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1998
@@ -865,8 +901,10 @@ LOCATION:Parc des Princes\, Paris
 GEO:48.841363;2.253069
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Parc des Princes, Paris";X
  -APPLE-RADIUS=100;X-TITLE="Parc des Princes, Paris":geo:48.841363,2.253069
-DESCRIPTION:Round of 16 | 1998 FIFA World Cup - France\nBrazil 4-1 Chile
-URL:https://en.wikipedia.org/wiki/1998_FIFA_World_Cup
+DESCRIPTION:1998 FIFA World Cup - France\nRound of 16\nBrazil 4-1 Chile\nHT
+ : 3-0\nFT: 4-1\nGoals:\nBRA 🇧🇷: C.Sampaio 11'\, C.Sampaio 27'\, Rona
+ ldo 45' pen\, Ronaldo 69'\nCHI 🇨🇱: Salas 68'
+URL:https://www.fifa.com/en/match-centre/match/17/1013/1024/8773
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1998
@@ -882,8 +920,9 @@ GEO:43.269722;5.395833
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade Vélodrome, Marseill
  e";X-APPLE-RADIUS=100;X-TITLE="Stade Vélodrome, Marseille":geo:43.269722,
  5.395833
-DESCRIPTION:Round of 16 | 1998 FIFA World Cup - France\nItaly 1-0 Norway
-URL:https://en.wikipedia.org/wiki/1998_FIFA_World_Cup
+DESCRIPTION:1998 FIFA World Cup - France\nRound of 16\nItaly 1-0 Norway\nHT
+ : 1-0\nFT: 1-0\nGoals:\nITA 🇮🇹: Vieri 18'
+URL:https://www.fifa.com/en/match-centre/match/17/1013/1024/8774
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1998
@@ -899,8 +938,10 @@ GEO:48.935600;2.353900
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade de France, Saint-Den
  is";X-APPLE-RADIUS=100;X-TITLE="Stade de France, Saint-Denis":geo:48.93560
  0,2.353900
-DESCRIPTION:Round of 16 | 1998 FIFA World Cup - France\nNigeria 1-4 Denmark
-URL:https://en.wikipedia.org/wiki/1998_FIFA_World_Cup
+DESCRIPTION:1998 FIFA World Cup - France\nRound of 16\nNigeria 1-4 Denmark\
+ nHT: 0-2\nFT: 1-4\nGoals:\nNGA 🇳🇬: Babangida 78'\nDEN 🇩🇰: Møl
+ ler 3'\, B.Laudrup 12'\, Sand 60'\, Helveg 76'
+URL:https://www.fifa.com/en/match-centre/match/17/1013/1024/8775
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1998
@@ -916,9 +957,9 @@ GEO:50.432778;2.815000
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade Félix Bollaert, Len
  s";X-APPLE-RADIUS=100;X-TITLE="Stade Félix Bollaert, Lens":geo:50.432778,
  2.815000
-DESCRIPTION:Round of 16 | 1998 FIFA World Cup - France\nFrance 1-0 Paraguay
- \nFT: 0-0\nAET: 1-0
-URL:https://en.wikipedia.org/wiki/1998_FIFA_World_Cup
+DESCRIPTION:1998 FIFA World Cup - France\nRound of 16\nFrance 1-0 Paraguay\
+ nHT: 0-0\nFT: 0-0\nAET: 1-0\nGoals:\nFRA 🇫🇷: Blanc 113'
+URL:https://www.fifa.com/en/match-centre/match/17/1013/1024/8776
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1998
@@ -934,8 +975,10 @@ GEO:43.622222;3.811944
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade de la Mosson, Montpe
  llier";X-APPLE-RADIUS=100;X-TITLE="Stade de la Mosson, Montpellier":geo:43
  .622222,3.811944
-DESCRIPTION:Round of 16 | 1998 FIFA World Cup - France\nGermany 2-1 Mexico
-URL:https://en.wikipedia.org/wiki/1998_FIFA_World_Cup
+DESCRIPTION:1998 FIFA World Cup - France\nRound of 16\nGermany 2-1 Mexico\n
+ HT: 0-0\nFT: 2-1\nGoals:\nGER 🇩🇪: Klinsmann 75'\, Bierhoff 86'\nMEX 
+ 🇲🇽: Hernández 47'
+URL:https://www.fifa.com/en/match-centre/match/17/1013/1024/8777
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1998
@@ -951,9 +994,10 @@ GEO:43.583333;1.434167
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade de Toulouse, Toulous
  e";X-APPLE-RADIUS=100;X-TITLE="Stade de Toulouse, Toulouse":geo:43.583333,
  1.434167
-DESCRIPTION:Round of 16 | 1998 FIFA World Cup - France\nNetherlands 2-1 Yug
- oslavia
-URL:https://en.wikipedia.org/wiki/1998_FIFA_World_Cup
+DESCRIPTION:1998 FIFA World Cup - France\nRound of 16\nNetherlands 2-1 Yugo
+ slavia\nHT: 1-0\nFT: 2-1\nGoals:\nNED 🇳🇱: Bergkamp 38'\, Davids 90'\
+ nYUG: Komljenović 48'
+URL:https://www.fifa.com/en/match-centre/match/17/1013/1024/8778
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1998
@@ -970,9 +1014,11 @@ GEO:45.460833;4.390278
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade Geoffroy-Guichard, S
  aint-Étienne";X-APPLE-RADIUS=100;X-TITLE="Stade Geoffroy-Guichard, Saint-
  Étienne":geo:45.460833,4.390278
-DESCRIPTION:Round of 16 | 1998 FIFA World Cup - France\nArgentina 2-2 Engla
- nd\nFT: 2-2\nAET: 2-2\nPenalties: 4-3
-URL:https://en.wikipedia.org/wiki/1998_FIFA_World_Cup
+DESCRIPTION:1998 FIFA World Cup - France\nRound of 16\nArgentina 2-2 Englan
+ d\nHT: 2-2\nFT: 2-2\nAET: 2-2\nPenalties: 4-3\nGoals:\nARG 🇦🇷: Batis
+ tuta 5' pen\, Zanetti 45'\nENG 🏴󠁧󠁢󠁥󠁮󠁧󠁿: Shearer 9' pe
+ n\, Owen 16'
+URL:https://www.fifa.com/en/match-centre/match/17/1013/1024/8779
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1998
@@ -987,8 +1033,9 @@ LOCATION:Parc Lescure\, Bordeaux
 GEO:44.829170;-0.598333
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Parc Lescure, Bordeaux";X-
  APPLE-RADIUS=100;X-TITLE="Parc Lescure, Bordeaux":geo:44.829170,-0.598333
-DESCRIPTION:Round of 16 | 1998 FIFA World Cup - France\nRomania 0-1 Croatia
-URL:https://en.wikipedia.org/wiki/1998_FIFA_World_Cup
+DESCRIPTION:1998 FIFA World Cup - France\nRound of 16\nRomania 0-1 Croatia\
+ nHT: 0-1\nFT: 0-1\nGoals:\nCRO 🇭🇷: Šuker 45' pen
+URL:https://www.fifa.com/en/match-centre/match/17/1013/1024/8780
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1998
@@ -1004,9 +1051,9 @@ GEO:48.935600;2.353900
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade de France, Saint-Den
  is";X-APPLE-RADIUS=100;X-TITLE="Stade de France, Saint-Denis":geo:48.93560
  0,2.353900
-DESCRIPTION:Quarter-finals | 1998 FIFA World Cup - France\nItaly 0-0 France
- \nFT: 0-0\nAET: 0-0\nPenalties: 3-4
-URL:https://en.wikipedia.org/wiki/1998_FIFA_World_Cup
+DESCRIPTION:1998 FIFA World Cup - France\nQuarter-finals\nItaly 0-0 France\
+ nHT: 0-0\nFT: 0-0\nAET: 0-0\nPenalties: 3-4
+URL:https://www.fifa.com/en/match-centre/match/17/1013/1025/8781
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1998
@@ -1022,9 +1069,10 @@ GEO:47.255556;-1.525278
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade de la Beaujoire, Nan
  tes";X-APPLE-RADIUS=100;X-TITLE="Stade de la Beaujoire, Nantes":geo:47.255
  556,-1.525278
-DESCRIPTION:Quarter-finals | 1998 FIFA World Cup - France\nBrazil 3-2 Denma
- rk
-URL:https://en.wikipedia.org/wiki/1998_FIFA_World_Cup
+DESCRIPTION:1998 FIFA World Cup - France\nQuarter-finals\nBrazil 3-2 Denmar
+ k\nHT: 2-1\nFT: 3-2\nGoals:\nBRA 🇧🇷: Bebeto 11'\, Rivaldo 26'\, Riva
+ ldo 60'\nDEN 🇩🇰: Jørgensen 2'\, B.Laudrup 50'
+URL:https://www.fifa.com/en/match-centre/match/17/1013/1025/8782
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1998
@@ -1039,9 +1087,10 @@ LOCATION:Stade Gerland\, Lyon
 GEO:45.723750;4.832400
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade Gerland, Lyon";X-APP
  LE-RADIUS=100;X-TITLE="Stade Gerland, Lyon":geo:45.723750,4.832400
-DESCRIPTION:Quarter-finals | 1998 FIFA World Cup - France\nGermany 0-3 Croa
- tia
-URL:https://en.wikipedia.org/wiki/1998_FIFA_World_Cup
+DESCRIPTION:1998 FIFA World Cup - France\nQuarter-finals\nGermany 0-3 Croat
+ ia\nHT: 0-1\nFT: 0-3\nGoals:\nCRO 🇭🇷: Jarni 45'\, Vlaović 80'\, Šu
+ ker 85'
+URL:https://www.fifa.com/en/match-centre/match/17/1013/1025/8783
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1998
@@ -1057,9 +1106,10 @@ GEO:43.269722;5.395833
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade Vélodrome, Marseill
  e";X-APPLE-RADIUS=100;X-TITLE="Stade Vélodrome, Marseille":geo:43.269722,
  5.395833
-DESCRIPTION:Quarter-finals | 1998 FIFA World Cup - France\nNetherlands 2-1 
- Argentina
-URL:https://en.wikipedia.org/wiki/1998_FIFA_World_Cup
+DESCRIPTION:1998 FIFA World Cup - France\nQuarter-finals\nNetherlands 2-1 A
+ rgentina\nHT: 1-0\nFT: 2-1\nGoals:\nNED 🇳🇱: Kluivert 12'\, Bergkamp 
+ 90'\nARG 🇦🇷: López 18'
+URL:https://www.fifa.com/en/match-centre/match/17/1013/1025/8784
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1998
@@ -1075,9 +1125,10 @@ GEO:43.269722;5.395833
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade Vélodrome, Marseill
  e";X-APPLE-RADIUS=100;X-TITLE="Stade Vélodrome, Marseille":geo:43.269722,
  5.395833
-DESCRIPTION:Semi-finals | 1998 FIFA World Cup - France\nBrazil 1-1 Netherla
- nds\nFT: 1-1\nAET: 1-1\nPenalties: 4-2
-URL:https://en.wikipedia.org/wiki/1998_FIFA_World_Cup
+DESCRIPTION:1998 FIFA World Cup - France\nSemi-finals\nBrazil 1-1 Netherlan
+ ds\nHT: 0-0\nFT: 1-1\nAET: 1-1\nPenalties: 4-2\nGoals:\nBRA 🇧🇷: Rona
+ ldo 46'\nNED 🇳🇱: Kluivert 85'
+URL:https://www.fifa.com/en/match-centre/match/17/1013/1026/8785
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1998
@@ -1093,8 +1144,10 @@ GEO:48.935600;2.353900
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade de France, Saint-Den
  is";X-APPLE-RADIUS=100;X-TITLE="Stade de France, Saint-Denis":geo:48.93560
  0,2.353900
-DESCRIPTION:Semi-finals | 1998 FIFA World Cup - France\nFrance 2-1 Croatia
-URL:https://en.wikipedia.org/wiki/1998_FIFA_World_Cup
+DESCRIPTION:1998 FIFA World Cup - France\nSemi-finals\nFrance 2-1 Croatia\n
+ HT: 0-0\nFT: 2-1\nGoals:\nFRA 🇫🇷: Thuram 47'\, Thuram 69'\nCRO 🇭
+ 🇷: Šuker 46'
+URL:https://www.fifa.com/en/match-centre/match/17/1013/1026/8786
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1998
@@ -1109,9 +1162,10 @@ LOCATION:Parc des Princes\, Paris
 GEO:48.841363;2.253069
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Parc des Princes, Paris";X
  -APPLE-RADIUS=100;X-TITLE="Parc des Princes, Paris":geo:48.841363,2.253069
-DESCRIPTION:Third place match | 1998 FIFA World Cup - France\nNetherlands 1
- -2 Croatia
-URL:https://en.wikipedia.org/wiki/1998_FIFA_World_Cup
+DESCRIPTION:1998 FIFA World Cup - France\nThird place match\nNetherlands 1-
+ 2 Croatia\nHT: 1-2\nFT: 1-2\nGoals:\nNED 🇳🇱: Zenden 21'\nCRO 🇭
+ 🇷: Prosinečki 13'\, Šuker 35'
+URL:https://www.fifa.com/en/match-centre/match/17/1013/1028/8787
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1998
@@ -1127,8 +1181,9 @@ GEO:48.935600;2.353900
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stade de France, Saint-Den
  is";X-APPLE-RADIUS=100;X-TITLE="Stade de France, Saint-Denis":geo:48.93560
  0,2.353900
-DESCRIPTION:Final | 1998 FIFA World Cup - France\nBrazil 0-3 France
-URL:https://en.wikipedia.org/wiki/1998_FIFA_World_Cup
+DESCRIPTION:1998 FIFA World Cup - France\nFinal\nBrazil 0-3 France\nHT: 0-2
+ \nFT: 0-3\nGoals:\nFRA 🇫🇷: Zidane 27'\, Zidane 45'\, Petit 90'
+URL:https://www.fifa.com/en/match-centre/match/17/1013/1027/8788
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1998

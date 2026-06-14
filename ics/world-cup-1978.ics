@@ -16,9 +16,9 @@ GEO:-34.545278;-58.449722
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Monumental, Buenos
   Aires";X-APPLE-RADIUS=100;X-TITLE="Estadio Monumental, Buenos Aires":geo:
  -34.545278,-58.449722
-DESCRIPTION:Group 2 | Matchday 1 | 1978 FIFA World Cup - Argentina\nWest Ge
- rmany 0-0 Poland
-URL:https://en.wikipedia.org/wiki/1978_FIFA_World_Cup
+DESCRIPTION:1978 FIFA World Cup - Argentina\nGroup 2 | Matchday 1\nWest Ger
+ many 0-0 Poland\nHT: 0-0\nFT: 0-0
+URL:https://www.fifa.com/en/match-centre/match/17/50/278/2351
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1978
@@ -34,9 +34,10 @@ GEO:-34.545278;-58.449722
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Monumental, Buenos
   Aires";X-APPLE-RADIUS=100;X-TITLE="Estadio Monumental, Buenos Aires":geo:
  -34.545278,-58.449722
-DESCRIPTION:Group 1 | Matchday 1 | 1978 FIFA World Cup - Argentina\nArgenti
- na 2-1 Hungary
-URL:https://en.wikipedia.org/wiki/1978_FIFA_World_Cup
+DESCRIPTION:1978 FIFA World Cup - Argentina\nGroup 1 | Matchday 1\nArgentin
+ a 2-1 Hungary\nHT: 1-1\nFT: 2-1\nGoals:\nARG 🇦🇷: Luqué 15'\, Berton
+ i 84'\nHUN 🇭🇺: Csapó 10'
+URL:https://www.fifa.com/en/match-centre/match/17/50/278/2199
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1978
@@ -52,9 +53,9 @@ GEO:-38.017944;-57.582333
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio José María Minel
  la, Mar del Plata";X-APPLE-RADIUS=100;X-TITLE="Estadio José María Minell
  a, Mar del Plata":geo:-38.017944,-57.582333
-DESCRIPTION:Group 1 | Matchday 1 | 1978 FIFA World Cup - Argentina\nItaly 2
- -1 France
-URL:https://en.wikipedia.org/wiki/1978_FIFA_World_Cup
+DESCRIPTION:1978 FIFA World Cup - Argentina\nGroup 1 | Matchday 1\nItaly 2-
+ 1 France\nHT: 1-1\nFT: 2-1
+URL:https://www.fifa.com/en/match-centre/match/17/50/278/2347
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1978
@@ -70,9 +71,10 @@ GEO:-32.913997;-60.674567
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Gigante de Arroyit
  o, Rosario";X-APPLE-RADIUS=100;X-TITLE="Estadio Gigante de Arroyito, Rosar
  io":geo:-32.913997,-60.674567
-DESCRIPTION:Group 2 | Matchday 1 | 1978 FIFA World Cup - Argentina\nTunisia
-  3-1 Mexico
-URL:https://en.wikipedia.org/wiki/1978_FIFA_World_Cup
+DESCRIPTION:1978 FIFA World Cup - Argentina\nGroup 2 | Matchday 1\nTunisia 
+ 3-1 Mexico\nHT: 0-1\nFT: 3-1\nGoals:\nTUN 🇹🇳: Kaabi 55'\, Ghommidh 7
+ 9'\, Dhouieb 87'\nMEX 🇲🇽: Vásquez-Ayala 45' pen
+URL:https://www.fifa.com/en/match-centre/match/17/50/278/2433
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1978
@@ -88,9 +90,10 @@ GEO:-34.635278;-58.520556
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio José Amalfitani, 
  Buenos Aires";X-APPLE-RADIUS=100;X-TITLE="Estadio José Amalfitani, Buenos
   Aires":geo:-34.635278,-58.520556
-DESCRIPTION:Group 3 | Matchday 1 | 1978 FIFA World Cup - Argentina\nAustria
-  2-1 Spain
-URL:https://en.wikipedia.org/wiki/1978_FIFA_World_Cup
+DESCRIPTION:1978 FIFA World Cup - Argentina\nGroup 3 | Matchday 1\nAustria 
+ 2-1 Spain\nHT: 1-1\nFT: 2-1\nGoals:\nAUT 🇦🇹: Schachner 10'\, Krankl 
+ 77'\nESP 🇪🇸: Dani 21'
+URL:https://www.fifa.com/en/match-centre/match/17/50/278/2216
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1978
@@ -106,9 +109,10 @@ GEO:-38.017944;-57.582333
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio José Maria Minell
  a, Mar del Plata";X-APPLE-RADIUS=100;X-TITLE="Estadio José Maria Minella,
   Mar del Plata":geo:-38.017944,-57.582333
-DESCRIPTION:Group 3 | Matchday 1 | 1978 FIFA World Cup - Argentina\nBrazil 
- 1-1 Sweden
-URL:https://en.wikipedia.org/wiki/1978_FIFA_World_Cup
+DESCRIPTION:1978 FIFA World Cup - Argentina\nGroup 3 | Matchday 1\nBrazil 1
+ -1 Sweden\nHT: 1-1\nFT: 1-1\nGoals:\nBRA 🇧🇷: Reinaldo 45'\nSWE 🇸
+ 🇪: Sjöberg 38'
+URL:https://www.fifa.com/en/match-centre/match/17/50/278/2253
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1978
@@ -124,9 +128,10 @@ GEO:-31.368956;-64.246244
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Chateau Carreras, 
  Córdoba";X-APPLE-RADIUS=100;X-TITLE="Estadio Chateau Carreras, Córdoba":
  geo:-31.368956,-64.246244
-DESCRIPTION:Group 4 | Matchday 1 | 1978 FIFA World Cup - Argentina\nPeru 3-
- 1 Scotland
-URL:https://en.wikipedia.org/wiki/1978_FIFA_World_Cup
+DESCRIPTION:1978 FIFA World Cup - Argentina\nGroup 4 | Matchday 1\nPeru 3-1
+  Scotland\nHT: 1-1\nFT: 3-1\nGoals:\nPER 🇵🇪: Cueto 43'\, Cubillas 72
+ '\, Cubillas 77'\nSCO 🏴󠁧󠁢󠁳󠁣󠁴󠁿: Jordan 14'
+URL:https://www.fifa.com/en/match-centre/match/17/50/278/2451
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1978
@@ -142,9 +147,10 @@ GEO:-32.889722;-68.880000
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Ciudad de Mendoza,
   Mendoza";X-APPLE-RADIUS=100;X-TITLE="Estadio Ciudad de Mendoza, Mendoza":
  geo:-32.889722,-68.880000
-DESCRIPTION:Group 4 | Matchday 1 | 1978 FIFA World Cup - Argentina\nNetherl
- ands 3-0 Iran
-URL:https://en.wikipedia.org/wiki/1978_FIFA_World_Cup
+DESCRIPTION:1978 FIFA World Cup - Argentina\nGroup 4 | Matchday 1\nNetherla
+ nds 3-0 Iran\nHT: 1-0\nFT: 3-0\nGoals:\nNED 🇳🇱: Rensenbrink 40' pen\
+ , Rensenbrink 62'\, Rensenbrink 75' pen
+URL:https://www.fifa.com/en/match-centre/match/17/50/278/2388
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1978
@@ -160,9 +166,10 @@ GEO:-34.545278;-58.449722
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Monumental, Buenos
   Aires";X-APPLE-RADIUS=100;X-TITLE="Estadio Monumental, Buenos Aires":geo:
  -34.545278,-58.449722
-DESCRIPTION:Group 1 | Matchday 2 | 1978 FIFA World Cup - Argentina\nArgenti
- na 2-1 France
-URL:https://en.wikipedia.org/wiki/1978_FIFA_World_Cup
+DESCRIPTION:1978 FIFA World Cup - Argentina\nGroup 1 | Matchday 2\nArgentin
+ a 2-1 France\nHT: 1-0\nFT: 2-1\nGoals:\nARG 🇦🇷: Passarella 45' pen\,
+  Luqué 73'\nFRA 🇫🇷: Platini 60'
+URL:https://www.fifa.com/en/match-centre/match/17/50/278/2197
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1978
@@ -178,9 +185,10 @@ GEO:-38.017944;-57.582333
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio José María Minel
  la, Mar del Plata";X-APPLE-RADIUS=100;X-TITLE="Estadio José María Minell
  a, Mar del Plata":geo:-38.017944,-57.582333
-DESCRIPTION:Group 1 | Matchday 2 | 1978 FIFA World Cup - Argentina\nItaly 3
- -1 Hungary
-URL:https://en.wikipedia.org/wiki/1978_FIFA_World_Cup
+DESCRIPTION:1978 FIFA World Cup - Argentina\nGroup 1 | Matchday 2\nItaly 3-
+ 1 Hungary\nHT: 2-0\nFT: 3-1\nGoals:\nITA 🇮🇹: Rossi 34'\, Bettega 36'
+ \, Benetti 60'\nHUN 🇭🇺: A.Tóth 81' pen
+URL:https://www.fifa.com/en/match-centre/match/17/50/278/2396
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1978
@@ -196,9 +204,9 @@ GEO:-32.913997;-60.674567
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Gigante de Arroyit
  o, Rosario";X-APPLE-RADIUS=100;X-TITLE="Estadio Gigante de Arroyito, Rosar
  io":geo:-32.913997,-60.674567
-DESCRIPTION:Group 2 | Matchday 2 | 1978 FIFA World Cup - Argentina\nPoland 
- 1-0 Tunisia
-URL:https://en.wikipedia.org/wiki/1978_FIFA_World_Cup
+DESCRIPTION:1978 FIFA World Cup - Argentina\nGroup 2 | Matchday 2\nPoland 1
+ -0 Tunisia\nHT: 1-0\nFT: 1-0\nGoals:\nPOL 🇵🇱: Lato 43'
+URL:https://www.fifa.com/en/match-centre/match/17/50/278/2454
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1978
@@ -214,9 +222,10 @@ GEO:-31.368956;-64.246244
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Chateau Carreras, 
  Córdoba";X-APPLE-RADIUS=100;X-TITLE="Estadio Chateau Carreras, Córdoba":
  geo:-31.368956,-64.246244
-DESCRIPTION:Group 2 | Matchday 2 | 1978 FIFA World Cup - Argentina\nWest Ge
- rmany 6-0 Mexico
-URL:https://en.wikipedia.org/wiki/1978_FIFA_World_Cup
+DESCRIPTION:1978 FIFA World Cup - Argentina\nGroup 2 | Matchday 2\nWest Ger
+ many 6-0 Mexico\nHT: 4-0\nFT: 6-0\nGoals:\nFRG 🇩🇪: D.Müller 15'\, H
+ .Müller 30'\, Rummenige 38'\, Flohe 40'\, Rummenige 73'\, Flohe 90'
+URL:https://www.fifa.com/en/match-centre/match/17/50/278/2350
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1978
@@ -232,9 +241,9 @@ GEO:-34.635278;-58.520556
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio José Amalfitani, 
  Buenos Aires";X-APPLE-RADIUS=100;X-TITLE="Estadio José Amalfitani, Buenos
   Aires":geo:-34.635278,-58.520556
-DESCRIPTION:Group 3 | Matchday 2 | 1978 FIFA World Cup - Argentina\nAustria
-  1-0 Sweden
-URL:https://en.wikipedia.org/wiki/1978_FIFA_World_Cup
+DESCRIPTION:1978 FIFA World Cup - Argentina\nGroup 3 | Matchday 2\nAustria 
+ 1-0 Sweden\nHT: 1-0\nFT: 1-0\nGoals:\nAUT 🇦🇹: Krankl 42' pen
+URL:https://www.fifa.com/en/match-centre/match/17/50/278/2224
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1978
@@ -250,9 +259,9 @@ GEO:-38.017944;-57.582333
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio José Maria Minell
  a, Mar del Plata";X-APPLE-RADIUS=100;X-TITLE="Estadio José Maria Minella,
   Mar del Plata":geo:-38.017944,-57.582333
-DESCRIPTION:Group 3 | Matchday 2 | 1978 FIFA World Cup - Argentina\nBrazil 
- 0-0 Spain
-URL:https://en.wikipedia.org/wiki/1978_FIFA_World_Cup
+DESCRIPTION:1978 FIFA World Cup - Argentina\nGroup 3 | Matchday 2\nBrazil 0
+ -0 Spain\nHT: 0-0\nFT: 0-0
+URL:https://www.fifa.com/en/match-centre/match/17/50/278/2246
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1978
@@ -268,9 +277,10 @@ GEO:-31.368956;-64.246244
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Chateau Carreras, 
  Córdoba";X-APPLE-RADIUS=100;X-TITLE="Estadio Chateau Carreras, Córdoba":
  geo:-31.368956,-64.246244
-DESCRIPTION:Group 4 | Matchday 2 | 1978 FIFA World Cup - Argentina\nScotlan
- d 1-1 Iran
-URL:https://en.wikipedia.org/wiki/1978_FIFA_World_Cup
+DESCRIPTION:1978 FIFA World Cup - Argentina\nGroup 4 | Matchday 2\nScotland
+  1-1 Iran\nHT: 1-0\nFT: 1-1\nGoals:\nSCO 🏴󠁧󠁢󠁳󠁣󠁴󠁿: Esk
+ andarian 43'\nIRN 🇮🇷: Danaifar 60'
+URL:https://www.fifa.com/en/match-centre/match/17/50/278/2408
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1978
@@ -286,9 +296,9 @@ GEO:-32.889722;-68.880000
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Ciudad de Mendoza,
   Mendoza";X-APPLE-RADIUS=100;X-TITLE="Estadio Ciudad de Mendoza, Mendoza":
  geo:-32.889722,-68.880000
-DESCRIPTION:Group 4 | Matchday 2 | 1978 FIFA World Cup - Argentina\nNetherl
- ands 0-0 Peru
-URL:https://en.wikipedia.org/wiki/1978_FIFA_World_Cup
+DESCRIPTION:1978 FIFA World Cup - Argentina\nGroup 4 | Matchday 2\nNetherla
+ nds 0-0 Peru\nHT: 0-0\nFT: 0-0
+URL:https://www.fifa.com/en/match-centre/match/17/50/278/2394
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1978
@@ -304,9 +314,9 @@ GEO:-34.545278;-58.449722
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Monumental, Buenos
   Aires";X-APPLE-RADIUS=100;X-TITLE="Estadio Monumental, Buenos Aires":geo:
  -34.545278,-58.449722
-DESCRIPTION:Group 1 | Matchday 3 | 1978 FIFA World Cup - Argentina\nArgenti
- na 0-1 Italy
-URL:https://en.wikipedia.org/wiki/1978_FIFA_World_Cup
+DESCRIPTION:1978 FIFA World Cup - Argentina\nGroup 1 | Matchday 3\nArgentin
+ a 0-1 Italy\nHT: 0-0\nFT: 0-1\nGoals:\nITA 🇮🇹: Bettega 67'
+URL:https://www.fifa.com/en/match-centre/match/17/50/278/2200
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1978
@@ -322,9 +332,10 @@ GEO:-38.017944;-57.582333
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio José María Minel
  la, Mar del Plata";X-APPLE-RADIUS=100;X-TITLE="Estadio José María Minell
  a, Mar del Plata":geo:-38.017944,-57.582333
-DESCRIPTION:Group 1 | Matchday 3 | 1978 FIFA World Cup - Argentina\nFrance 
- 3-1 Hungary
-URL:https://en.wikipedia.org/wiki/1978_FIFA_World_Cup
+DESCRIPTION:1978 FIFA World Cup - Argentina\nGroup 1 | Matchday 3\nFrance 3
+ -1 Hungary\nHT: 3-1\nFT: 3-1\nGoals:\nFRA 🇫🇷: López 22'\, Berdoll 3
+ 7'\, Rocheteau 42'\nHUN 🇭🇺: Zombori 41'
+URL:https://www.fifa.com/en/match-centre/match/17/50/278/2344
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1978
@@ -340,9 +351,10 @@ GEO:-32.913997;-60.674567
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Gigante de Arroyit
  o, Rosario";X-APPLE-RADIUS=100;X-TITLE="Estadio Gigante de Arroyito, Rosar
  io":geo:-32.913997,-60.674567
-DESCRIPTION:Group 2 | Matchday 3 | 1978 FIFA World Cup - Argentina\nPoland 
- 3-1 Mexico
-URL:https://en.wikipedia.org/wiki/1978_FIFA_World_Cup
+DESCRIPTION:1978 FIFA World Cup - Argentina\nGroup 2 | Matchday 3\nPoland 3
+ -1 Mexico\nHT: 1-0\nFT: 3-1\nGoals:\nPOL 🇵🇱: Boniek 43'\, Deyna 56'\
+ , Boniek 84'\nMEX 🇲🇽: Rangel 52'
+URL:https://www.fifa.com/en/match-centre/match/17/50/278/2431
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1978
@@ -358,9 +370,9 @@ GEO:-31.368956;-64.246244
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Olímpico Chateau 
  Carreras, Córdoba";X-APPLE-RADIUS=100;X-TITLE="Estadio Olímpico Chateau 
  Carreras, Córdoba":geo:-31.368956,-64.246244
-DESCRIPTION:Group 2 | Matchday 3 | 1978 FIFA World Cup - Argentina\nWest Ge
- rmany 0-0 Tunisia
-URL:https://en.wikipedia.org/wiki/1978_FIFA_World_Cup
+DESCRIPTION:1978 FIFA World Cup - Argentina\nGroup 2 | Matchday 3\nWest Ger
+ many 0-0 Tunisia\nHT: 0-0\nFT: 0-0
+URL:https://www.fifa.com/en/match-centre/match/17/50/278/2352
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1978
@@ -376,9 +388,9 @@ GEO:-34.635278;-58.520556
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio José Amalfitani, 
  Buenos Aires";X-APPLE-RADIUS=100;X-TITLE="Estadio José Amalfitani, Buenos
   Aires":geo:-34.635278,-58.520556
-DESCRIPTION:Group 3 | Matchday 3 | 1978 FIFA World Cup - Argentina\nSpain 1
- -0 Sweden
-URL:https://en.wikipedia.org/wiki/1978_FIFA_World_Cup
+DESCRIPTION:1978 FIFA World Cup - Argentina\nGroup 3 | Matchday 3\nSpain 1-
+ 0 Sweden\nHT: 0-0\nFT: 1-0\nGoals:\nESP 🇪🇸: Asensi 78'
+URL:https://www.fifa.com/en/match-centre/match/17/50/278/2337
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1978
@@ -394,9 +406,9 @@ GEO:-38.017944;-57.582333
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio José Maria Minell
  a, Mar del Plata";X-APPLE-RADIUS=100;X-TITLE="Estadio José Maria Minella,
   Mar del Plata":geo:-38.017944,-57.582333
-DESCRIPTION:Group 3 | Matchday 3 | 1978 FIFA World Cup - Argentina\nBrazil 
- 1-0 Austria
-URL:https://en.wikipedia.org/wiki/1978_FIFA_World_Cup
+DESCRIPTION:1978 FIFA World Cup - Argentina\nGroup 3 | Matchday 3\nBrazil 1
+ -0 Austria\nHT: 1-0\nFT: 1-0\nGoals:\nBRA 🇧🇷: Roberto 40'
+URL:https://www.fifa.com/en/match-centre/match/17/50/278/2215
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1978
@@ -412,9 +424,10 @@ GEO:-31.368956;-64.246244
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Chateau Carreras, 
  Córdoba";X-APPLE-RADIUS=100;X-TITLE="Estadio Chateau Carreras, Córdoba":
  geo:-31.368956,-64.246244
-DESCRIPTION:Group 4 | Matchday 3 | 1978 FIFA World Cup - Argentina\nPeru 4-
- 1 Iran
-URL:https://en.wikipedia.org/wiki/1978_FIFA_World_Cup
+DESCRIPTION:1978 FIFA World Cup - Argentina\nGroup 4 | Matchday 3\nPeru 4-1
+  Iran\nHT: 3-1\nFT: 4-1\nGoals:\nPER 🇵🇪: Velasquez 2'\, Cubillas 36'
+  pen\, Cubillas 39' pen\, Cubillas 79'\nIRN 🇮🇷: Rowshan 41'
+URL:https://www.fifa.com/en/match-centre/match/17/50/278/2405
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1978
@@ -430,9 +443,11 @@ GEO:-32.889722;-68.880000
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Ciudad de Mendoza,
   Mendoza";X-APPLE-RADIUS=100;X-TITLE="Estadio Ciudad de Mendoza, Mendoza":
  geo:-32.889722,-68.880000
-DESCRIPTION:Group 4 | Matchday 3 | 1978 FIFA World Cup - Argentina\nScotlan
- d 3-2 Netherlands
-URL:https://en.wikipedia.org/wiki/1978_FIFA_World_Cup
+DESCRIPTION:1978 FIFA World Cup - Argentina\nGroup 4 | Matchday 3\nScotland
+  3-2 Netherlands\nHT: 1-1\nFT: 3-2\nGoals:\nSCO 🏴󠁧󠁢󠁳󠁣󠁴
+ 󠁿: Dalglish 44'\, Gemmill 47' pen\, Gemmill 68'\nNED 🇳🇱: Rensenbr
+ ink 34' pen\, Rep 72'
+URL:https://www.fifa.com/en/match-centre/match/17/50/278/2395
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1978
@@ -448,9 +463,9 @@ GEO:-34.545278;-58.449722
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Monumental, Buenos
   Aires";X-APPLE-RADIUS=100;X-TITLE="Estadio Monumental, Buenos Aires":geo:
  -34.545278,-58.449722
-DESCRIPTION:Group A | Matchday 4 | 1978 FIFA World Cup - Argentina\nItaly 0
- -0 West Germany
-URL:https://en.wikipedia.org/wiki/1978_FIFA_World_Cup
+DESCRIPTION:1978 FIFA World Cup - Argentina\nGroup A | Matchday 4\nItaly 0-
+ 0 West Germany\nHT: 0-0\nFT: 0-0
+URL:https://www.fifa.com/en/match-centre/match/17/50/279/2349
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1978
@@ -466,9 +481,10 @@ GEO:-32.913997;-60.674567
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Gigante de Arroyit
  o, Rosario";X-APPLE-RADIUS=100;X-TITLE="Estadio Gigante de Arroyito, Rosar
  io":geo:-32.913997,-60.674567
-DESCRIPTION:Group B | Matchday 4 | 1978 FIFA World Cup - Argentina\nArgenti
- na 2-0 Poland
-URL:https://en.wikipedia.org/wiki/1978_FIFA_World_Cup
+DESCRIPTION:1978 FIFA World Cup - Argentina\nGroup B | Matchday 4\nArgentin
+ a 2-0 Poland\nHT: 1-0\nFT: 2-0\nGoals:\nARG 🇦🇷: Kempes 16'\, Kempes 
+ 71'
+URL:https://www.fifa.com/en/match-centre/match/17/50/279/2202
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1978
@@ -484,9 +500,11 @@ GEO:-31.368956;-64.246244
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Chateau Carreras, 
  Córdoba";X-APPLE-RADIUS=100;X-TITLE="Estadio Chateau Carreras, Córdoba":
  geo:-31.368956,-64.246244
-DESCRIPTION:Group A | Matchday 4 | 1978 FIFA World Cup - Argentina\nAustria
-  1-5 Netherlands
-URL:https://en.wikipedia.org/wiki/1978_FIFA_World_Cup
+DESCRIPTION:1978 FIFA World Cup - Argentina\nGroup A | Matchday 4\nAustria 
+ 1-5 Netherlands\nHT: 0-3\nFT: 1-5\nGoals:\nAUT 🇦🇹: Obermayer 70'\nNE
+ D 🇳🇱: Brandts 7'\, Rensenbrink 35' pen\, Rep 37'\, Rep 53'\, W.Van d
+ e Kerkhof 87'
+URL:https://www.fifa.com/en/match-centre/match/17/50/279/2220
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1978
@@ -502,9 +520,10 @@ GEO:-32.889722;-68.880000
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Ciudad de Mendoza,
   Mendoza";X-APPLE-RADIUS=100;X-TITLE="Estadio Ciudad de Mendoza, Mendoza":
  geo:-32.889722,-68.880000
-DESCRIPTION:Group B | Matchday 4 | 1978 FIFA World Cup - Argentina\nPeru 0-
- 3 Brazil
-URL:https://en.wikipedia.org/wiki/1978_FIFA_World_Cup
+DESCRIPTION:1978 FIFA World Cup - Argentina\nGroup B | Matchday 4\nPeru 0-3
+  Brazil\nHT: 0-2\nFT: 0-3\nGoals:\nBRA 🇧🇷: Dirceu 15'\, Dirceu 28'\,
+  Zico 73' pen
+URL:https://www.fifa.com/en/match-centre/match/17/50/279/2251
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1978
@@ -520,9 +539,9 @@ GEO:-34.545278;-58.449722
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Monumental, Buenos
   Aires";X-APPLE-RADIUS=100;X-TITLE="Estadio Monumental, Buenos Aires":geo:
  -34.545278,-58.449722
-DESCRIPTION:Group A | Matchday 5 | 1978 FIFA World Cup - Argentina\nItaly 1
- -0 Austria
-URL:https://en.wikipedia.org/wiki/1978_FIFA_World_Cup
+DESCRIPTION:1978 FIFA World Cup - Argentina\nGroup A | Matchday 5\nItaly 1-
+ 0 Austria\nHT: 1-0\nFT: 1-0\nGoals:\nITA 🇮🇹: Rossi 14'
+URL:https://www.fifa.com/en/match-centre/match/17/50/279/2221
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1978
@@ -538,9 +557,9 @@ GEO:-32.913997;-60.674567
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Gigante de Arroyit
  o, Rosario";X-APPLE-RADIUS=100;X-TITLE="Estadio Gigante de Arroyito, Rosar
  io":geo:-32.913997,-60.674567
-DESCRIPTION:Group B | Matchday 5 | 1978 FIFA World Cup - Argentina\nArgenti
- na 0-0 Brazil
-URL:https://en.wikipedia.org/wiki/1978_FIFA_World_Cup
+DESCRIPTION:1978 FIFA World Cup - Argentina\nGroup B | Matchday 5\nArgentin
+ a 0-0 Brazil\nHT: 0-0\nFT: 0-0
+URL:https://www.fifa.com/en/match-centre/match/17/50/279/2196
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1978
@@ -556,9 +575,10 @@ GEO:-31.368956;-64.246244
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Chateau Carreras, 
  Córdoba";X-APPLE-RADIUS=100;X-TITLE="Estadio Chateau Carreras, Córdoba":
  geo:-31.368956,-64.246244
-DESCRIPTION:Group A | Matchday 5 | 1978 FIFA World Cup - Argentina\nNetherl
- ands 2-2 West Germany
-URL:https://en.wikipedia.org/wiki/1978_FIFA_World_Cup
+DESCRIPTION:1978 FIFA World Cup - Argentina\nGroup A | Matchday 5\nNetherla
+ nds 2-2 West Germany\nHT: 1-1\nFT: 2-2\nGoals:\nNED 🇳🇱: Haan 27'\, R
+ .Van de Kerkhof 87'\nFRG 🇩🇪: Abramczik 3'\, D.Müller 70'
+URL:https://www.fifa.com/en/match-centre/match/17/50/279/2348
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1978
@@ -574,9 +594,9 @@ GEO:-32.889722;-68.880000
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Ciudad de Mendoza,
   Mendoza";X-APPLE-RADIUS=100;X-TITLE="Estadio Ciudad de Mendoza, Mendoza":
  geo:-32.889722,-68.880000
-DESCRIPTION:Group B | Matchday 5 | 1978 FIFA World Cup - Argentina\nPeru 0-
- 1 Poland
-URL:https://en.wikipedia.org/wiki/1978_FIFA_World_Cup
+DESCRIPTION:1978 FIFA World Cup - Argentina\nGroup B | Matchday 5\nPeru 0-1
+  Poland\nHT: 0-0\nFT: 0-1\nGoals:\nPOL 🇵🇱: Szarmach 65'
+URL:https://www.fifa.com/en/match-centre/match/17/50/279/2450
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1978
@@ -592,9 +612,10 @@ GEO:-34.545278;-58.449722
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Monumental, Buenos
   Aires";X-APPLE-RADIUS=100;X-TITLE="Estadio Monumental, Buenos Aires":geo:
  -34.545278,-58.449722
-DESCRIPTION:Group A | Matchday 6 | 1978 FIFA World Cup - Argentina\nItaly 1
- -2 Netherlands
-URL:https://en.wikipedia.org/wiki/1978_FIFA_World_Cup
+DESCRIPTION:1978 FIFA World Cup - Argentina\nGroup A | Matchday 6\nItaly 1-
+ 2 Netherlands\nHT: 1-0\nFT: 1-2\nGoals:\nITA 🇮🇹: Brandts 19' og\nNED
+  🇳🇱: Brandts 50'\, Haan 75'
+URL:https://www.fifa.com/en/match-centre/match/17/50/279/2391
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1978
@@ -610,9 +631,10 @@ GEO:-32.913997;-60.674567
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Gigante de Arroyit
  o, Rosario";X-APPLE-RADIUS=100;X-TITLE="Estadio Gigante de Arroyito, Rosar
  io":geo:-32.913997,-60.674567
-DESCRIPTION:Group B | Matchday 6 | 1978 FIFA World Cup - Argentina\nArgenti
- na 6-0 Peru
-URL:https://en.wikipedia.org/wiki/1978_FIFA_World_Cup
+DESCRIPTION:1978 FIFA World Cup - Argentina\nGroup B | Matchday 6\nArgentin
+ a 6-0 Peru\nHT: 2-0\nFT: 6-0\nGoals:\nARG 🇦🇷: Kempes 21'\, Tarantini
+  43'\, Kempes 49'\, Luqué 50'\, Houseman 67'\, Luqué 72'
+URL:https://www.fifa.com/en/match-centre/match/17/50/279/2201
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1978
@@ -628,9 +650,10 @@ GEO:-31.368956;-64.246244
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Chateau Carreras, 
  Córdoba";X-APPLE-RADIUS=100;X-TITLE="Estadio Chateau Carreras, Córdoba":
  geo:-31.368956,-64.246244
-DESCRIPTION:Group A | Matchday 6 | 1978 FIFA World Cup - Argentina\nAustria
-  3-2 West Germany
-URL:https://en.wikipedia.org/wiki/1978_FIFA_World_Cup
+DESCRIPTION:1978 FIFA World Cup - Argentina\nGroup A | Matchday 6\nAustria 
+ 3-2 West Germany\nHT: 0-1\nFT: 3-2\nGoals:\nAUT 🇦🇹: Vogts 59' og\, K
+ rankl 66'\, Krankl 88'\nFRG 🇩🇪: Rummenige 19'\, Hölzenbein 68'
+URL:https://www.fifa.com/en/match-centre/match/17/50/279/2217
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1978
@@ -646,9 +669,10 @@ GEO:-32.889722;-68.880000
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Ciudad de Mendoza,
   Mendoza";X-APPLE-RADIUS=100;X-TITLE="Estadio Ciudad de Mendoza, Mendoza":
  geo:-32.889722,-68.880000
-DESCRIPTION:Group B | Matchday 6 | 1978 FIFA World Cup - Argentina\nPoland 
- 1-3 Brazil
-URL:https://en.wikipedia.org/wiki/1978_FIFA_World_Cup
+DESCRIPTION:1978 FIFA World Cup - Argentina\nGroup B | Matchday 6\nPoland 1
+ -3 Brazil\nHT: 1-1\nFT: 1-3\nGoals:\nPOL 🇵🇱: Lato 45'\nBRA 🇧🇷:
+  Nelinho 13'\, Roberto 57'\, Roberto 63'
+URL:https://www.fifa.com/en/match-centre/match/17/50/279/2252
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1978
@@ -664,9 +688,10 @@ GEO:-34.545278;-58.449722
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Monumental, Buenos
   Aires";X-APPLE-RADIUS=100;X-TITLE="Estadio Monumental, Buenos Aires":geo:
  -34.545278,-58.449722
-DESCRIPTION:Third place match | 1978 FIFA World Cup - Argentina\nBrazil 2-1
-  Italy
-URL:https://en.wikipedia.org/wiki/1978_FIFA_World_Cup
+DESCRIPTION:1978 FIFA World Cup - Argentina\nThird place match\nBrazil 2-1 
+ Italy\nHT: 0-1\nFT: 2-1\nGoals:\nBRA 🇧🇷: Nelinho 64'\, Dirceu 72'\nI
+ TA 🇮🇹: Causio 38'
+URL:https://www.fifa.com/en/match-centre/match/17/50/280/2247
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1978
@@ -682,9 +707,10 @@ GEO:-34.545278;-58.449722
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Monumental, Buenos
   Aires";X-APPLE-RADIUS=100;X-TITLE="Estadio Monumental, Buenos Aires":geo:
  -34.545278,-58.449722
-DESCRIPTION:Final | 1978 FIFA World Cup - Argentina\nNetherlands 1-3 Argent
- ina\nFT: 1-1\nAET: 1-3
-URL:https://en.wikipedia.org/wiki/1978_FIFA_World_Cup
+DESCRIPTION:1978 FIFA World Cup - Argentina\nFinal\nNetherlands 1-3 Argenti
+ na\nHT: 0-1\nFT: 1-1\nAET: 1-3\nGoals:\nNED 🇳🇱: Nanninga 82'\nARG 
+ 🇦🇷: Kempes 38'\, Kempes 105'\, Bertoni 115'
+URL:https://www.fifa.com/en/match-centre/match/17/50/639/2198
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1978

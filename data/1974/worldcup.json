@@ -10,10 +10,25 @@
         "ft": [
           1,
           0
+        ],
+        "ht": [
+          1,
+          0
         ]
       },
       "group": "Group 1",
-      "ground": "Olympiastadion, West Berlin"
+      "ground": "Olympiastadion, West Berlin",
+      "goals1": [
+        {
+          "name": "Breitner",
+          "minute": 16
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 1",
@@ -24,10 +39,30 @@
         "ft": [
           2,
           0
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group 1",
-      "ground": "Volksparkstadion, Hamburg"
+      "ground": "Volksparkstadion, Hamburg",
+      "goals1": [
+        {
+          "name": "Curran",
+          "minute": 58,
+          "owngoal": true
+        },
+        {
+          "name": "Streich",
+          "minute": 72
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 2",
@@ -38,10 +73,30 @@
         "ft": [
           1,
           1
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group 1",
-      "ground": "Olympiastadion, West Berlin"
+      "ground": "Olympiastadion, West Berlin",
+      "goals1": [
+        {
+          "name": "Ahumada",
+          "minute": 69
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Hoffmann",
+          "minute": 55
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 2",
@@ -52,10 +107,33 @@
         "ft": [
           0,
           3
+        ],
+        "ht": [
+          0,
+          2
         ]
       },
       "group": "Group 1",
-      "ground": "Volksparkstadion, Hamburg"
+      "ground": "Volksparkstadion, Hamburg",
+      "goals1": [],
+      "goals2": [
+        {
+          "name": "Overath",
+          "minute": 13
+        },
+        {
+          "name": "Cullmann",
+          "minute": 35
+        },
+        {
+          "name": "Müller",
+          "minute": 53
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 3",
@@ -66,10 +144,18 @@
         "ft": [
           0,
           0
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group 1",
-      "ground": "Olympiastadion, West Berlin"
+      "ground": "Olympiastadion, West Berlin",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 3",
@@ -80,10 +166,25 @@
         "ft": [
           1,
           0
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group 1",
-      "ground": "Volksparkstadion, Hamburg"
+      "ground": "Volksparkstadion, Hamburg",
+      "goals1": [
+        {
+          "name": "Sparwasser",
+          "minute": 77
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 1",
@@ -94,10 +195,18 @@
         "ft": [
           0,
           0
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group 2",
-      "ground": "Waldstadion, Frankfurt"
+      "ground": "Waldstadion, Frankfurt",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 1",
@@ -108,10 +217,29 @@
         "ft": [
           0,
           2
+        ],
+        "ht": [
+          0,
+          2
         ]
       },
       "group": "Group 2",
-      "ground": "Westfalenstadion, Dortmund"
+      "ground": "Westfalenstadion, Dortmund",
+      "goals1": [],
+      "goals2": [
+        {
+          "name": "Lorimer",
+          "minute": 26
+        },
+        {
+          "name": "Jordan",
+          "minute": 33
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 2",
@@ -122,10 +250,57 @@
         "ft": [
           9,
           0
+        ],
+        "ht": [
+          6,
+          0
         ]
       },
       "group": "Group 2",
-      "ground": "Parkstadion, Gelsenkirchen"
+      "ground": "Parkstadion, Gelsenkirchen",
+      "goals1": [
+        {
+          "name": "Bajević",
+          "minute": 8
+        },
+        {
+          "name": "Džajić",
+          "minute": 14
+        },
+        {
+          "name": "Šurjak",
+          "minute": 18
+        },
+        {
+          "name": "Katalinski",
+          "minute": 28
+        },
+        {
+          "name": "Bajević",
+          "minute": 30
+        },
+        {
+          "name": "Bogićević",
+          "minute": 38
+        },
+        {
+          "name": "Oblak",
+          "minute": 51
+        },
+        {
+          "name": "Petković",
+          "minute": 65
+        },
+        {
+          "name": "Bajević",
+          "minute": 81
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 2",
@@ -136,10 +311,18 @@
         "ft": [
           0,
           0
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group 2",
-      "ground": "Waldstadion, Frankfurt"
+      "ground": "Waldstadion, Frankfurt",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 3",
@@ -150,10 +333,30 @@
         "ft": [
           1,
           1
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group 2",
-      "ground": "Waldstadion, Frankfurt"
+      "ground": "Waldstadion, Frankfurt",
+      "goals1": [
+        {
+          "name": "Jordan",
+          "minute": 89
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Karasi",
+          "minute": 82
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 3",
@@ -164,10 +367,33 @@
         "ft": [
           0,
           3
+        ],
+        "ht": [
+          0,
+          1
         ]
       },
       "group": "Group 2",
-      "ground": "Parkstadion, Gelsenkirchen"
+      "ground": "Parkstadion, Gelsenkirchen",
+      "goals1": [],
+      "goals2": [
+        {
+          "name": "Jairzinho",
+          "minute": 13
+        },
+        {
+          "name": "Rivelino",
+          "minute": 67
+        },
+        {
+          "name": "Valdomiro",
+          "minute": 78
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 1",
@@ -178,10 +404,29 @@
         "ft": [
           0,
           2
+        ],
+        "ht": [
+          0,
+          1
         ]
       },
       "group": "Group 3",
-      "ground": "Niedersachsenstadion, Hanover"
+      "ground": "Niedersachsenstadion, Hanover",
+      "goals1": [],
+      "goals2": [
+        {
+          "name": "Rep",
+          "minute": 8
+        },
+        {
+          "name": "Rep",
+          "minute": 87
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 1",
@@ -192,10 +437,18 @@
         "ft": [
           0,
           0
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group 3",
-      "ground": "Rheinstadion, Düsseldorf"
+      "ground": "Rheinstadion, Düsseldorf",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 2",
@@ -206,10 +459,18 @@
         "ft": [
           0,
           0
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group 3",
-      "ground": "Westfalenstadion, Dortmund"
+      "ground": "Westfalenstadion, Dortmund",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 2",
@@ -220,10 +481,30 @@
         "ft": [
           1,
           1
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group 3",
-      "ground": "Niedersachsenstadion, Hanover"
+      "ground": "Niedersachsenstadion, Hanover",
+      "goals1": [
+        {
+          "name": "Pavoni",
+          "minute": 87
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Bonev",
+          "minute": 75
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 3",
@@ -234,10 +515,45 @@
         "ft": [
           4,
           1
+        ],
+        "ht": [
+          2,
+          0
         ]
       },
       "group": "Group 3",
-      "ground": "Westfalenstadion, Dortmund"
+      "ground": "Westfalenstadion, Dortmund",
+      "goals1": [
+        {
+          "name": "Neeskens",
+          "minute": 8,
+          "penalty": true
+        },
+        {
+          "name": "Neeskens",
+          "minute": 45,
+          "penalty": true
+        },
+        {
+          "name": "Rep",
+          "minute": 71
+        },
+        {
+          "name": "de Jong",
+          "minute": 88
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Krol",
+          "minute": 78,
+          "owngoal": true
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 3",
@@ -248,10 +564,33 @@
         "ft": [
           3,
           0
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group 3",
-      "ground": "Rheinstadion, Düsseldorf"
+      "ground": "Rheinstadion, Düsseldorf",
+      "goals1": [
+        {
+          "name": "Edström",
+          "minute": 46
+        },
+        {
+          "name": "Sandberg",
+          "minute": 74
+        },
+        {
+          "name": "Edström",
+          "minute": 78
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 1",
@@ -262,10 +601,39 @@
         "ft": [
           3,
           1
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group 4",
-      "ground": "Olympiastadion, München"
+      "ground": "Olympiastadion, München",
+      "goals1": [
+        {
+          "name": "Rivera",
+          "minute": 52
+        },
+        {
+          "name": "Auguste",
+          "minute": 66,
+          "owngoal": true
+        },
+        {
+          "name": "Anastasi",
+          "minute": 79
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Sanon",
+          "minute": 46
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 1",
@@ -276,10 +644,42 @@
         "ft": [
           3,
           2
+        ],
+        "ht": [
+          2,
+          0
         ]
       },
       "group": "Group 4",
-      "ground": "Neckarstadion, Stuttgart"
+      "ground": "Neckarstadion, Stuttgart",
+      "goals1": [
+        {
+          "name": "Lato",
+          "minute": 7
+        },
+        {
+          "name": "Szarmach",
+          "minute": 9
+        },
+        {
+          "name": "Lato",
+          "minute": 63
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Heredia",
+          "minute": 61
+        },
+        {
+          "name": "Babington",
+          "minute": 67
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 2",
@@ -290,10 +690,49 @@
         "ft": [
           0,
           7
+        ],
+        "ht": [
+          0,
+          5
         ]
       },
       "group": "Group 4",
-      "ground": "Olympiastadion, München"
+      "ground": "Olympiastadion, München",
+      "goals1": [],
+      "goals2": [
+        {
+          "name": "Lato",
+          "minute": 17
+        },
+        {
+          "name": "Deyna",
+          "minute": 19
+        },
+        {
+          "name": "Szarmach",
+          "minute": 30
+        },
+        {
+          "name": "Gorgoń",
+          "minute": 32
+        },
+        {
+          "name": "Szarmach",
+          "minute": 34
+        },
+        {
+          "name": "Szarmach",
+          "minute": 50
+        },
+        {
+          "name": "Lato",
+          "minute": 67
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 2",
@@ -304,10 +743,31 @@
         "ft": [
           1,
           1
+        ],
+        "ht": [
+          1,
+          1
         ]
       },
       "group": "Group 4",
-      "ground": "Neckarstadion, Stuttgart"
+      "ground": "Neckarstadion, Stuttgart",
+      "goals1": [
+        {
+          "name": "Houseman",
+          "minute": 19
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Perfumo",
+          "minute": 36,
+          "owngoal": true
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 3",
@@ -318,10 +778,42 @@
         "ft": [
           4,
           1
+        ],
+        "ht": [
+          2,
+          0
         ]
       },
       "group": "Group 4",
-      "ground": "Olympiastadion, München"
+      "ground": "Olympiastadion, München",
+      "goals1": [
+        {
+          "name": "Yazalde",
+          "minute": 15
+        },
+        {
+          "name": "Houseman",
+          "minute": 18
+        },
+        {
+          "name": "Ayala",
+          "minute": 55
+        },
+        {
+          "name": "Yazalde",
+          "minute": 67
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Sanon",
+          "minute": 63
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 3",
@@ -332,10 +824,34 @@
         "ft": [
           2,
           1
+        ],
+        "ht": [
+          2,
+          0
         ]
       },
       "group": "Group 4",
-      "ground": "Neckarstadion, Stuttgart"
+      "ground": "Neckarstadion, Stuttgart",
+      "goals1": [
+        {
+          "name": "Szarmach",
+          "minute": 38
+        },
+        {
+          "name": "Deyna",
+          "minute": 45
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Capello",
+          "minute": 66
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 4",
@@ -346,10 +862,25 @@
         "ft": [
           1,
           0
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group A",
-      "ground": "Niedersachsenstadion, Hanover"
+      "ground": "Niedersachsenstadion, Hanover",
+      "goals1": [
+        {
+          "name": "Rivelino",
+          "minute": 61
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 4",
@@ -360,10 +891,37 @@
         "ft": [
           4,
           0
+        ],
+        "ht": [
+          2,
+          0
         ]
       },
       "group": "Group A",
-      "ground": "Parkstadion, Gelsenkirchen"
+      "ground": "Parkstadion, Gelsenkirchen",
+      "goals1": [
+        {
+          "name": "Cruijff",
+          "minute": 11
+        },
+        {
+          "name": "Krol",
+          "minute": 25
+        },
+        {
+          "name": "Rep",
+          "minute": 73
+        },
+        {
+          "name": "Cruijff",
+          "minute": 90
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 5",
@@ -374,10 +932,29 @@
         "ft": [
           0,
           2
+        ],
+        "ht": [
+          0,
+          1
         ]
       },
       "group": "Group A",
-      "ground": "Parkstadion, Gelsenkirchen"
+      "ground": "Parkstadion, Gelsenkirchen",
+      "goals1": [],
+      "goals2": [
+        {
+          "name": "Neeskens",
+          "minute": 8
+        },
+        {
+          "name": "Rensenbrink",
+          "minute": 59
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 5",
@@ -388,10 +965,34 @@
         "ft": [
           1,
           2
+        ],
+        "ht": [
+          1,
+          1
         ]
       },
       "group": "Group A",
-      "ground": "Niedersachsenstadion, Hanover"
+      "ground": "Niedersachsenstadion, Hanover",
+      "goals1": [
+        {
+          "name": "Brindisi",
+          "minute": 35
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Rivelino",
+          "minute": 32
+        },
+        {
+          "name": "Jairzinho",
+          "minute": 48
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 6",
@@ -402,10 +1003,30 @@
         "ft": [
           1,
           1
+        ],
+        "ht": [
+          1,
+          1
         ]
       },
       "group": "Group A",
-      "ground": "Parkstadion, Gelsenkirchen"
+      "ground": "Parkstadion, Gelsenkirchen",
+      "goals1": [
+        {
+          "name": "Houseman",
+          "minute": 21
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Streich",
+          "minute": 14
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 6",
@@ -416,10 +1037,29 @@
         "ft": [
           2,
           0
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group A",
-      "ground": "Westfalenstadion, Dortmund"
+      "ground": "Westfalenstadion, Dortmund",
+      "goals1": [
+        {
+          "name": "Neeskens",
+          "minute": 50
+        },
+        {
+          "name": "Cruijff",
+          "minute": 65
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 4",
@@ -430,10 +1070,29 @@
         "ft": [
           0,
           2
+        ],
+        "ht": [
+          0,
+          1
         ]
       },
       "group": "Group B",
-      "ground": "Rheinstadion, Düsseldorf"
+      "ground": "Rheinstadion, Düsseldorf",
+      "goals1": [],
+      "goals2": [
+        {
+          "name": "Breitner",
+          "minute": 39
+        },
+        {
+          "name": "Müller",
+          "minute": 80
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 4",
@@ -444,10 +1103,25 @@
         "ft": [
           0,
           1
+        ],
+        "ht": [
+          0,
+          1
         ]
       },
       "group": "Group B",
-      "ground": "Neckarstadion, Stuttgart"
+      "ground": "Neckarstadion, Stuttgart",
+      "goals1": [],
+      "goals2": [
+        {
+          "name": "Lato",
+          "minute": 44
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 5",
@@ -458,10 +1132,47 @@
         "ft": [
           4,
           2
+        ],
+        "ht": [
+          0,
+          1
         ]
       },
       "group": "Group B",
-      "ground": "Rheinstadion, Düsseldorf"
+      "ground": "Rheinstadion, Düsseldorf",
+      "goals1": [
+        {
+          "name": "Overath",
+          "minute": 51
+        },
+        {
+          "name": "Bonhof",
+          "minute": 52
+        },
+        {
+          "name": "Grabowski",
+          "minute": 77
+        },
+        {
+          "name": "Hoeness",
+          "minute": 89,
+          "penalty": true
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Edström",
+          "minute": 25
+        },
+        {
+          "name": "Sandberg",
+          "minute": 53
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 5",
@@ -472,10 +1183,35 @@
         "ft": [
           2,
           1
+        ],
+        "ht": [
+          1,
+          1
         ]
       },
       "group": "Group B",
-      "ground": "Waldstadion, Frankfurt"
+      "ground": "Waldstadion, Frankfurt",
+      "goals1": [
+        {
+          "name": "Deyna",
+          "minute": 27,
+          "penalty": true
+        },
+        {
+          "name": "Lato",
+          "minute": 63
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Karasi",
+          "minute": 43
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 6",
@@ -486,10 +1222,25 @@
         "ft": [
           0,
           1
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group B",
-      "ground": "Waldstadion, Frankfurt"
+      "ground": "Waldstadion, Frankfurt",
+      "goals1": [],
+      "goals2": [
+        {
+          "name": "Müller",
+          "minute": 76
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 6",
@@ -500,10 +1251,34 @@
         "ft": [
           2,
           1
+        ],
+        "ht": [
+          1,
+          1
         ]
       },
       "group": "Group B",
-      "ground": "Rheinstadion, Düsseldorf"
+      "ground": "Rheinstadion, Düsseldorf",
+      "goals1": [
+        {
+          "name": "Edström",
+          "minute": 30
+        },
+        {
+          "name": "Torstensson",
+          "minute": 85
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Šurjak",
+          "minute": 27
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Match for third place",
@@ -516,7 +1291,15 @@
           1
         ]
       },
-      "ground": "Olympiastadion, München"
+      "ground": "Olympiastadion, München",
+      "result_enrichment": {
+        "source": "none",
+        "score_reconciled": false,
+        "missing_fields": [
+          "goalscorers",
+          "half_time_score"
+        ]
+      }
     },
     {
       "round": "Final",
@@ -527,9 +1310,35 @@
         "ft": [
           1,
           2
+        ],
+        "ht": [
+          1,
+          2
         ]
       },
-      "ground": "Olympiastadion, München"
+      "ground": "Olympiastadion, München",
+      "goals1": [
+        {
+          "name": "Neeskens",
+          "minute": 2,
+          "penalty": true
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Breitner",
+          "minute": 25,
+          "penalty": true
+        },
+        {
+          "name": "Müller",
+          "minute": 43
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     }
   ]
 }

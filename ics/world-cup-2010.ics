@@ -16,9 +16,10 @@ GEO:-26.234797;27.982667
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Soccer City, Johannesburg"
  ;X-APPLE-RADIUS=100;X-TITLE="Soccer City, Johannesburg":geo:-26.234797,27.
  982667
-DESCRIPTION:Group A | Matchday 1 | 2010 FIFA World Cup - South Africa\nSout
- h Africa 1-1 Mexico
-URL:https://en.wikipedia.org/wiki/2010_FIFA_World_Cup
+DESCRIPTION:2010 FIFA World Cup - South Africa\nGroup A | Matchday 1\nSouth
+  Africa 1-1 Mexico\nHT: 0-0\nFT: 1-1\nGoals:\nRSA 🇿🇦: Siphiwe Tshaba
+ lala 55'\nMEX 🇲🇽: Rafael Márquez 79'
+URL:https://www.fifa.com/en/match-centre/match/17/249715/249722/300061454
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2010
@@ -34,9 +35,9 @@ GEO:-33.903611;18.411111
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Cape Town Stadium, Cape To
  wn";X-APPLE-RADIUS=100;X-TITLE="Cape Town Stadium, Cape Town":geo:-33.9036
  11,18.411111
-DESCRIPTION:Group A | Matchday 1 | 2010 FIFA World Cup - South Africa\nUrug
- uay 0-0 France
-URL:https://en.wikipedia.org/wiki/2010_FIFA_World_Cup
+DESCRIPTION:2010 FIFA World Cup - South Africa\nGroup A | Matchday 1\nUrugu
+ ay 0-0 France\nHT: 0-0\nFT: 0-0
+URL:https://www.fifa.com/en/match-centre/match/17/249715/249722/300061453
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2010
@@ -52,9 +53,10 @@ GEO:-26.197500;28.060833
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Ellis Park Stadium, Johann
  esburg";X-APPLE-RADIUS=100;X-TITLE="Ellis Park Stadium, Johannesburg":geo:
  -26.197500,28.060833
-DESCRIPTION:Group B | Matchday 2 | 2010 FIFA World Cup - South Africa\nArge
- ntina 1-0 Nigeria
-URL:https://en.wikipedia.org/wiki/2010_FIFA_World_Cup
+DESCRIPTION:2010 FIFA World Cup - South Africa\nGroup B | Matchday 2\nArgen
+ tina 1-0 Nigeria\nHT: 1-0\nFT: 1-0\nGoals:\nARG 🇦🇷: Gabriel Heinze 6
+ '
+URL:https://www.fifa.com/en/match-centre/match/17/249715/249722/300061460
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2010
@@ -70,9 +72,10 @@ GEO:-33.937778;25.598889
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Nelson Mandela Bay Stadium
  , Port Elizabeth";X-APPLE-RADIUS=100;X-TITLE="Nelson Mandela Bay Stadium, 
  Port Elizabeth":geo:-33.937778,25.598889
-DESCRIPTION:Group B | Matchday 2 | 2010 FIFA World Cup - South Africa\nSout
- h Korea 2-0 Greece
-URL:https://en.wikipedia.org/wiki/2010_FIFA_World_Cup
+DESCRIPTION:2010 FIFA World Cup - South Africa\nGroup B | Matchday 2\nSouth
+  Korea 2-0 Greece\nHT: 1-0\nFT: 2-0\nGoals:\nKOR 🇰🇷: Lee Jung-Soo 7'
+ \, Park Ji-Sung 52'
+URL:https://www.fifa.com/en/match-centre/match/17/249715/249722/300061459
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2010
@@ -88,9 +91,10 @@ GEO:-25.578600;27.160700
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Royal Bafokeng Stadium, Ru
  stenburg";X-APPLE-RADIUS=100;X-TITLE="Royal Bafokeng Stadium, Rustenburg":
  geo:-25.578600,27.160700
-DESCRIPTION:Group C | Matchday 2 | 2010 FIFA World Cup - South Africa\nEngl
- and 1-1 USA
-URL:https://en.wikipedia.org/wiki/2010_FIFA_World_Cup
+DESCRIPTION:2010 FIFA World Cup - South Africa\nGroup C | Matchday 2\nEngla
+ nd 1-1 USA\nHT: 1-1\nFT: 1-1\nGoals:\nENG 🏴󠁧󠁢󠁥󠁮󠁧󠁿: St
+ even Gerrard 4'\nUSA 🇺🇸: Clint Dempsey 40'
+URL:https://www.fifa.com/en/match-centre/match/17/249715/249722/300061466
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2010
@@ -106,9 +110,9 @@ GEO:-23.924689;29.468765
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Peter Mokaba Stadium, Polo
  kwane";X-APPLE-RADIUS=100;X-TITLE="Peter Mokaba Stadium, Polokwane":geo:-2
  3.924689,29.468765
-DESCRIPTION:Group C | Matchday 3 | 2010 FIFA World Cup - South Africa\nAlge
- ria 0-1 Slovenia
-URL:https://en.wikipedia.org/wiki/2010_FIFA_World_Cup
+DESCRIPTION:2010 FIFA World Cup - South Africa\nGroup C | Matchday 3\nAlger
+ ia 0-1 Slovenia\nHT: 0-0\nFT: 0-1\nGoals:\nSVN 🇸🇮: Robert Koren 79'
+URL:https://www.fifa.com/en/match-centre/match/17/249715/249722/300061465
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2010
@@ -124,9 +128,11 @@ GEO:-29.829000;31.030300
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Moses Mabhida Stadium, Dur
  ban";X-APPLE-RADIUS=100;X-TITLE="Moses Mabhida Stadium, Durban":geo:-29.82
  9000,31.030300
-DESCRIPTION:Group D | Matchday 3 | 2010 FIFA World Cup - South Africa\nGerm
- any 4-0 Australia
-URL:https://en.wikipedia.org/wiki/2010_FIFA_World_Cup
+DESCRIPTION:2010 FIFA World Cup - South Africa\nGroup D | Matchday 3\nGerma
+ ny 4-0 Australia\nHT: 2-0\nFT: 4-0\nGoals:\nGER 🇩🇪: Lukas Podolski 8
+ '\, Miroslav Klose 26'\, Thomas Müller 68'\, Claudemir Barreto 'Cacau' 70
+ '
+URL:https://www.fifa.com/en/match-centre/match/17/249715/249722/300111116
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2010
@@ -142,9 +148,9 @@ GEO:-25.753333;28.222778
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Loftus Versfeld Stadium, P
  retoria";X-APPLE-RADIUS=100;X-TITLE="Loftus Versfeld Stadium, Pretoria":ge
  o:-25.753333,28.222778
-DESCRIPTION:Group D | Matchday 3 | 2010 FIFA World Cup - South Africa\nSerb
- ia 0-1 Ghana
-URL:https://en.wikipedia.org/wiki/2010_FIFA_World_Cup
+DESCRIPTION:2010 FIFA World Cup - South Africa\nGroup D | Matchday 3\nSerbi
+ a 0-1 Ghana\nHT: 0-0\nFT: 0-1\nGoals:\nGHA 🇬🇭: Asamoah Gyan 84' pen
+URL:https://www.fifa.com/en/match-centre/match/17/249715/249722/300061471
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2010
@@ -160,9 +166,10 @@ GEO:-26.234797;27.982667
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Soccer City, Johannesburg"
  ;X-APPLE-RADIUS=100;X-TITLE="Soccer City, Johannesburg":geo:-26.234797,27.
  982667
-DESCRIPTION:Group E | Matchday 4 | 2010 FIFA World Cup - South Africa\nNeth
- erlands 2-0 Denmark
-URL:https://en.wikipedia.org/wiki/2010_FIFA_World_Cup
+DESCRIPTION:2010 FIFA World Cup - South Africa\nGroup E | Matchday 4\nNethe
+ rlands 2-0 Denmark\nHT: 0-0\nFT: 2-0\nGoals:\nNED 🇳🇱: Daniel Agger 4
+ 6' og\, Dirk Kuĳt 85'
+URL:https://www.fifa.com/en/match-centre/match/17/249715/249722/300061478
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2010
@@ -178,9 +185,9 @@ GEO:-29.117222;26.208889
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Free State Stadium, Bloemf
  ontein";X-APPLE-RADIUS=100;X-TITLE="Free State Stadium, Bloemfontein":geo:
  -29.117222,26.208889
-DESCRIPTION:Group E | Matchday 4 | 2010 FIFA World Cup - South Africa\nJapa
- n 1-0 Cameroon
-URL:https://en.wikipedia.org/wiki/2010_FIFA_World_Cup
+DESCRIPTION:2010 FIFA World Cup - South Africa\nGroup E | Matchday 4\nJapan
+  1-0 Cameroon\nHT: 1-0\nFT: 1-0\nGoals:\nJPN 🇯🇵: Keisuke Honda 38'
+URL:https://www.fifa.com/en/match-centre/match/17/249715/249722/300061477
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2010
@@ -196,9 +203,10 @@ GEO:-33.903611;18.411111
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Cape Town Stadium, Cape To
  wn";X-APPLE-RADIUS=100;X-TITLE="Cape Town Stadium, Cape Town":geo:-33.9036
  11,18.411111
-DESCRIPTION:Group F | Matchday 4 | 2010 FIFA World Cup - South Africa\nItal
- y 1-1 Paraguay
-URL:https://en.wikipedia.org/wiki/2010_FIFA_World_Cup
+DESCRIPTION:2010 FIFA World Cup - South Africa\nGroup F | Matchday 4\nItaly
+  1-1 Paraguay\nHT: 0-1\nFT: 1-1\nGoals:\nITA 🇮🇹: Daniele De Rossi 63
+ '\nPAR 🇵🇾: Antolín Alcaraz 39'
+URL:https://www.fifa.com/en/match-centre/match/17/249715/249722/300061484
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2010
@@ -214,9 +222,10 @@ GEO:-25.578600;27.160700
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Royal Bafokeng Stadium, Ru
  stenburg";X-APPLE-RADIUS=100;X-TITLE="Royal Bafokeng Stadium, Rustenburg":
  geo:-25.578600,27.160700
-DESCRIPTION:Group F | Matchday 5 | 2010 FIFA World Cup - South Africa\nNew 
- Zealand 1-1 Slovakia
-URL:https://en.wikipedia.org/wiki/2010_FIFA_World_Cup
+DESCRIPTION:2010 FIFA World Cup - South Africa\nGroup F | Matchday 5\nNew Z
+ ealand 1-1 Slovakia\nHT: 0-0\nFT: 1-1\nGoals:\nNZL 🇳🇿: Winston Reid 
+ 90'\nSVK 🇸🇰: Róbert Vittek 50'
+URL:https://www.fifa.com/en/match-centre/match/17/249715/249722/300061483
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2010
@@ -232,9 +241,9 @@ GEO:-33.937778;25.598889
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Nelson Mandela Bay Stadium
  , Port Elizabeth";X-APPLE-RADIUS=100;X-TITLE="Nelson Mandela Bay Stadium, 
  Port Elizabeth":geo:-33.937778,25.598889
-DESCRIPTION:Group G | Matchday 5 | 2010 FIFA World Cup - South Africa\nIvor
- y Coast 0-0 Portugal
-URL:https://en.wikipedia.org/wiki/2010_FIFA_World_Cup
+DESCRIPTION:2010 FIFA World Cup - South Africa\nGroup G | Matchday 5\nIvory
+  Coast 0-0 Portugal\nHT: 0-0\nFT: 0-0
+URL:https://www.fifa.com/en/match-centre/match/17/249715/249722/300061489
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2010
@@ -250,9 +259,10 @@ GEO:-26.197500;28.060833
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Ellis Park Stadium, Johann
  esburg";X-APPLE-RADIUS=100;X-TITLE="Ellis Park Stadium, Johannesburg":geo:
  -26.197500,28.060833
-DESCRIPTION:Group G | Matchday 5 | 2010 FIFA World Cup - South Africa\nBraz
- il 2-1 North Korea
-URL:https://en.wikipedia.org/wiki/2010_FIFA_World_Cup
+DESCRIPTION:2010 FIFA World Cup - South Africa\nGroup G | Matchday 5\nBrazi
+ l 2-1 North Korea\nHT: 0-0\nFT: 2-1\nGoals:\nBRA 🇧🇷: Maicon Sisenand
+ o 55'\, Elano Blumer 72'\nPRK 🇰🇵: Ji Yun-Nam 89'
+URL:https://www.fifa.com/en/match-centre/match/17/249715/249722/300061490
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2010
@@ -268,9 +278,9 @@ GEO:-25.461944;30.929722
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Mbombela Stadium, Nelsprui
  t";X-APPLE-RADIUS=100;X-TITLE="Mbombela Stadium, Nelspruit":geo:-25.461944
  ,30.929722
-DESCRIPTION:Group H | Matchday 6 | 2010 FIFA World Cup - South Africa\nHond
- uras 0-1 Chile
-URL:https://en.wikipedia.org/wiki/2010_FIFA_World_Cup
+DESCRIPTION:2010 FIFA World Cup - South Africa\nGroup H | Matchday 6\nHondu
+ ras 0-1 Chile\nHT: 0-1\nFT: 0-1\nGoals:\nCHI 🇨🇱: Jean Beausejour 34'
+URL:https://www.fifa.com/en/match-centre/match/17/249715/249722/300061495
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2010
@@ -286,9 +296,10 @@ GEO:-29.829000;31.030300
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Moses Mabhida Stadium, Dur
  ban";X-APPLE-RADIUS=100;X-TITLE="Moses Mabhida Stadium, Durban":geo:-29.82
  9000,31.030300
-DESCRIPTION:Group H | Matchday 6 | 2010 FIFA World Cup - South Africa\nSpai
- n 0-1 Switzerland
-URL:https://en.wikipedia.org/wiki/2010_FIFA_World_Cup
+DESCRIPTION:2010 FIFA World Cup - South Africa\nGroup H | Matchday 6\nSpain
+  0-1 Switzerland\nHT: 0-0\nFT: 0-1\nGoals:\nSUI 🇨🇭: Gelson Fernandes
+  52'
+URL:https://www.fifa.com/en/match-centre/match/17/249715/249722/300111112
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2010
@@ -304,9 +315,10 @@ GEO:-25.753333;28.222778
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Loftus Versfeld Stadium, P
  retoria";X-APPLE-RADIUS=100;X-TITLE="Loftus Versfeld Stadium, Pretoria":ge
  o:-25.753333,28.222778
-DESCRIPTION:Group A | Matchday 6 | 2010 FIFA World Cup - South Africa\nSout
- h Africa 0-3 Uruguay
-URL:https://en.wikipedia.org/wiki/2010_FIFA_World_Cup
+DESCRIPTION:2010 FIFA World Cup - South Africa\nGroup A | Matchday 6\nSouth
+  Africa 0-3 Uruguay\nHT: 0-1\nFT: 0-3\nGoals:\nURU 🇺🇾: Diego Forlán
+  24'\, Diego Forlán 80' pen\, Álvaro Pereira 90'
+URL:https://www.fifa.com/en/match-centre/match/17/249715/249722/300061452
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2010
@@ -322,9 +334,10 @@ GEO:-23.924689;29.468765
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Peter Mokaba Stadium, Polo
  kwane";X-APPLE-RADIUS=100;X-TITLE="Peter Mokaba Stadium, Polokwane":geo:-2
  3.924689,29.468765
-DESCRIPTION:Group A | Matchday 7 | 2010 FIFA World Cup - South Africa\nFran
- ce 0-2 Mexico
-URL:https://en.wikipedia.org/wiki/2010_FIFA_World_Cup
+DESCRIPTION:2010 FIFA World Cup - South Africa\nGroup A | Matchday 7\nFranc
+ e 0-2 Mexico\nHT: 0-0\nFT: 0-2\nGoals:\nMEX 🇲🇽: Javier Hernández 64
+ '\, Cuauhtémoc Blanco 79' pen
+URL:https://www.fifa.com/en/match-centre/match/17/249715/249722/300061451
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2010
@@ -340,9 +353,10 @@ GEO:-29.117222;26.208889
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Free State Stadium, Bloemf
  ontein";X-APPLE-RADIUS=100;X-TITLE="Free State Stadium, Bloemfontein":geo:
  -29.117222,26.208889
-DESCRIPTION:Group B | Matchday 7 | 2010 FIFA World Cup - South Africa\nGree
- ce 2-1 Nigeria
-URL:https://en.wikipedia.org/wiki/2010_FIFA_World_Cup
+DESCRIPTION:2010 FIFA World Cup - South Africa\nGroup B | Matchday 7\nGreec
+ e 2-1 Nigeria\nHT: 1-1\nFT: 2-1\nGoals:\nGRE 🇬🇷: Dhimítris Salpingy
+ ídhis 44'\, Vasílyis Torosídhis 71'\nNGA 🇳🇬: Kalu Uche 16'
+URL:https://www.fifa.com/en/match-centre/match/17/249715/249722/300061457
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2010
@@ -358,9 +372,11 @@ GEO:-26.234797;27.982667
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Soccer City, Johannesburg"
  ;X-APPLE-RADIUS=100;X-TITLE="Soccer City, Johannesburg":geo:-26.234797,27.
  982667
-DESCRIPTION:Group B | Matchday 7 | 2010 FIFA World Cup - South Africa\nArge
- ntina 4-1 South Korea
-URL:https://en.wikipedia.org/wiki/2010_FIFA_World_Cup
+DESCRIPTION:2010 FIFA World Cup - South Africa\nGroup B | Matchday 7\nArgen
+ tina 4-1 South Korea\nHT: 2-1\nFT: 4-1\nGoals:\nARG 🇦🇷: Park Chu-You
+ ng 16' og\, Gonzalo Higuaín 33'\, Gonzalo Higuaín 76'\, Gonzalo Higuaín
+  80'\nKOR 🇰🇷: Lee Chung-Yong 45'
+URL:https://www.fifa.com/en/match-centre/match/17/249715/249722/300061458
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2010
@@ -376,9 +392,10 @@ GEO:-33.937778;25.598889
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Nelson Mandela Bay Stadium
  , Port Elizabeth";X-APPLE-RADIUS=100;X-TITLE="Nelson Mandela Bay Stadium, 
  Port Elizabeth":geo:-33.937778,25.598889
-DESCRIPTION:Group D | Matchday 8 | 2010 FIFA World Cup - South Africa\nGerm
- any 0-1 Serbia
-URL:https://en.wikipedia.org/wiki/2010_FIFA_World_Cup
+DESCRIPTION:2010 FIFA World Cup - South Africa\nGroup D | Matchday 8\nGerma
+ ny 0-1 Serbia\nHT: 0-1\nFT: 0-1\nGoals:\nSRB 🇷🇸: Milan Jovanović 38
+ '
+URL:https://www.fifa.com/en/match-centre/match/17/249715/249722/300061470
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2010
@@ -394,9 +411,11 @@ GEO:-26.197500;28.060833
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Ellis Park Stadium, Johann
  esburg";X-APPLE-RADIUS=100;X-TITLE="Ellis Park Stadium, Johannesburg":geo:
  -26.197500,28.060833
-DESCRIPTION:Group C | Matchday 8 | 2010 FIFA World Cup - South Africa\nSlov
- enia 2-2 USA
-URL:https://en.wikipedia.org/wiki/2010_FIFA_World_Cup
+DESCRIPTION:2010 FIFA World Cup - South Africa\nGroup C | Matchday 8\nSlove
+ nia 2-2 USA\nHT: 2-0\nFT: 2-2\nGoals:\nSVN 🇸🇮: Valter Birsa 13'\, Zl
+ atan Ljubijankič 42'\nUSA 🇺🇸: Landon Donovan 48'\, Michael Bradley 
+ 82'
+URL:https://www.fifa.com/en/match-centre/match/17/249715/249722/300061463
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2010
@@ -412,9 +431,9 @@ GEO:-33.903611;18.411111
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Cape Town Stadium, Cape To
  wn";X-APPLE-RADIUS=100;X-TITLE="Cape Town Stadium, Cape Town":geo:-33.9036
  11,18.411111
-DESCRIPTION:Group C | Matchday 8 | 2010 FIFA World Cup - South Africa\nEngl
- and 0-0 Algeria
-URL:https://en.wikipedia.org/wiki/2010_FIFA_World_Cup
+DESCRIPTION:2010 FIFA World Cup - South Africa\nGroup C | Matchday 8\nEngla
+ nd 0-0 Algeria\nHT: 0-0\nFT: 0-0
+URL:https://www.fifa.com/en/match-centre/match/17/249715/249722/300061464
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2010
@@ -430,9 +449,10 @@ GEO:-25.578600;27.160700
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Royal Bafokeng Stadium, Ru
  stenburg";X-APPLE-RADIUS=100;X-TITLE="Royal Bafokeng Stadium, Rustenburg":
  geo:-25.578600,27.160700
-DESCRIPTION:Group D | Matchday 9 | 2010 FIFA World Cup - South Africa\nGhan
- a 1-1 Australia
-URL:https://en.wikipedia.org/wiki/2010_FIFA_World_Cup
+DESCRIPTION:2010 FIFA World Cup - South Africa\nGroup D | Matchday 9\nGhana
+  1-1 Australia\nHT: 1-1\nFT: 1-1\nGoals:\nGHA 🇬🇭: Asamoah Gyan 25' p
+ en\nAUS 🇦🇺: Brett Holman 11'
+URL:https://www.fifa.com/en/match-centre/match/17/249715/249722/300061469
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2010
@@ -448,9 +468,10 @@ GEO:-29.829000;31.030300
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Moses Mabhida Stadium, Dur
  ban";X-APPLE-RADIUS=100;X-TITLE="Moses Mabhida Stadium, Durban":geo:-29.82
  9000,31.030300
-DESCRIPTION:Group E | Matchday 9 | 2010 FIFA World Cup - South Africa\nNeth
- erlands 1-0 Japan
-URL:https://en.wikipedia.org/wiki/2010_FIFA_World_Cup
+DESCRIPTION:2010 FIFA World Cup - South Africa\nGroup E | Matchday 9\nNethe
+ rlands 1-0 Japan\nHT: 0-0\nFT: 1-0\nGoals:\nNED 🇳🇱: Wesley Sneĳder 
+ 53'
+URL:https://www.fifa.com/en/match-centre/match/17/249715/249722/300111117
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2010
@@ -466,9 +487,10 @@ GEO:-25.753333;28.222778
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Loftus Versfeld Stadium, P
  retoria";X-APPLE-RADIUS=100;X-TITLE="Loftus Versfeld Stadium, Pretoria":ge
  o:-25.753333,28.222778
-DESCRIPTION:Group E | Matchday 9 | 2010 FIFA World Cup - South Africa\nCame
- roon 1-2 Denmark
-URL:https://en.wikipedia.org/wiki/2010_FIFA_World_Cup
+DESCRIPTION:2010 FIFA World Cup - South Africa\nGroup E | Matchday 9\nCamer
+ oon 1-2 Denmark\nHT: 1-1\nFT: 1-2\nGoals:\nCMR 🇨🇲: Samuel Eto'o 10'\
+ nDEN 🇩🇰: Nicklas Bendtner 33'\, Dennis Rommedahl 61'
+URL:https://www.fifa.com/en/match-centre/match/17/249715/249722/300061475
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2010
@@ -484,9 +506,10 @@ GEO:-29.117222;26.208889
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Free State Stadium, Bloemf
  ontein";X-APPLE-RADIUS=100;X-TITLE="Free State Stadium, Bloemfontein":geo:
  -29.117222,26.208889
-DESCRIPTION:Group F | Matchday 10 | 2010 FIFA World Cup - South Africa\nSlo
- vakia 0-2 Paraguay
-URL:https://en.wikipedia.org/wiki/2010_FIFA_World_Cup
+DESCRIPTION:2010 FIFA World Cup - South Africa\nGroup F | Matchday 10\nSlov
+ akia 0-2 Paraguay\nHT: 0-1\nFT: 0-2\nGoals:\nPAR 🇵🇾: Enrique Vera 27
+ '\, Cristian Riveros 86'
+URL:https://www.fifa.com/en/match-centre/match/17/249715/249722/300061481
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2010
@@ -502,9 +525,10 @@ GEO:-25.461944;30.929722
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Mbombela Stadium, Nelsprui
  t";X-APPLE-RADIUS=100;X-TITLE="Mbombela Stadium, Nelspruit":geo:-25.461944
  ,30.929722
-DESCRIPTION:Group F | Matchday 10 | 2010 FIFA World Cup - South Africa\nIta
- ly 1-1 New Zealand
-URL:https://en.wikipedia.org/wiki/2010_FIFA_World_Cup
+DESCRIPTION:2010 FIFA World Cup - South Africa\nGroup F | Matchday 10\nItal
+ y 1-1 New Zealand\nHT: 1-1\nFT: 1-1\nGoals:\nITA 🇮🇹: Vincenzo Iaquin
+ ta 29' pen\nNZL 🇳🇿: Shane Smeltz 7'
+URL:https://www.fifa.com/en/match-centre/match/17/249715/249722/300061482
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2010
@@ -520,9 +544,11 @@ GEO:-26.234797;27.982667
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Soccer City, Johannesburg"
  ;X-APPLE-RADIUS=100;X-TITLE="Soccer City, Johannesburg":geo:-26.234797,27.
  982667
-DESCRIPTION:Group G | Matchday 10 | 2010 FIFA World Cup - South Africa\nBra
- zil 3-1 Ivory Coast
-URL:https://en.wikipedia.org/wiki/2010_FIFA_World_Cup
+DESCRIPTION:2010 FIFA World Cup - South Africa\nGroup G | Matchday 10\nBraz
+ il 3-1 Ivory Coast\nHT: 1-0\nFT: 3-1\nGoals:\nBRA 🇧🇷: Luís Fabiano 
+ Clemente 25'\, Luís Fabiano Clemente 50'\, Elano Blumer 62'\nCIV 🇨🇮
+ : Didier Drogba 79'
+URL:https://www.fifa.com/en/match-centre/match/17/249715/249722/300061488
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2010
@@ -538,9 +564,11 @@ GEO:-33.903611;18.411111
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Cape Town Stadium, Cape To
  wn";X-APPLE-RADIUS=100;X-TITLE="Cape Town Stadium, Cape Town":geo:-33.9036
  11,18.411111
-DESCRIPTION:Group G | Matchday 11 | 2010 FIFA World Cup - South Africa\nPor
- tugal 7-0 North Korea
-URL:https://en.wikipedia.org/wiki/2010_FIFA_World_Cup
+DESCRIPTION:2010 FIFA World Cup - South Africa\nGroup G | Matchday 11\nPort
+ ugal 7-0 North Korea\nHT: 1-0\nFT: 7-0\nGoals:\nPOR 🇵🇹: Raul Meirele
+ s 29'\, Simão Sabrosa 53'\, Hugo Almeida 56'\, Tiago Mendes 60'\, Tiago M
+ endes 89'\, Liédson Muniz 81'\, Cristiano Ronaldo Aveiro 87'
+URL:https://www.fifa.com/en/match-centre/match/17/249715/249722/300061487
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2010
@@ -556,9 +584,10 @@ GEO:-33.937778;25.598889
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Nelson Mandela Bay Stadium
  , Port Elizabeth";X-APPLE-RADIUS=100;X-TITLE="Nelson Mandela Bay Stadium, 
  Port Elizabeth":geo:-33.937778,25.598889
-DESCRIPTION:Group H | Matchday 11 | 2010 FIFA World Cup - South Africa\nChi
- le 1-0 Switzerland
-URL:https://en.wikipedia.org/wiki/2010_FIFA_World_Cup
+DESCRIPTION:2010 FIFA World Cup - South Africa\nGroup H | Matchday 11\nChil
+ e 1-0 Switzerland\nHT: 0-0\nFT: 1-0\nGoals:\nCHI 🇨🇱: Mark González 
+ 75'
+URL:https://www.fifa.com/en/match-centre/match/17/249715/249722/300061493
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2010
@@ -574,9 +603,10 @@ GEO:-26.197500;28.060833
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Ellis Park Stadium, Johann
  esburg";X-APPLE-RADIUS=100;X-TITLE="Ellis Park Stadium, Johannesburg":geo:
  -26.197500,28.060833
-DESCRIPTION:Group H | Matchday 11 | 2010 FIFA World Cup - South Africa\nSpa
- in 2-0 Honduras
-URL:https://en.wikipedia.org/wiki/2010_FIFA_World_Cup
+DESCRIPTION:2010 FIFA World Cup - South Africa\nGroup H | Matchday 11\nSpai
+ n 2-0 Honduras\nHT: 1-0\nFT: 2-0\nGoals:\nESP 🇪🇸: David Villa 17'\, 
+ David Villa 51'
+URL:https://www.fifa.com/en/match-centre/match/17/249715/249722/300061494
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2010
@@ -592,9 +622,9 @@ GEO:-25.578600;27.160700
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Royal Bafokeng Stadium, Ru
  stenburg";X-APPLE-RADIUS=100;X-TITLE="Royal Bafokeng Stadium, Rustenburg":
  geo:-25.578600,27.160700
-DESCRIPTION:Group A | Matchday 12 | 2010 FIFA World Cup - South Africa\nMex
- ico 0-1 Uruguay
-URL:https://en.wikipedia.org/wiki/2010_FIFA_World_Cup
+DESCRIPTION:2010 FIFA World Cup - South Africa\nGroup A | Matchday 12\nMexi
+ co 0-1 Uruguay\nHT: 0-1\nFT: 0-1\nGoals:\nURU 🇺🇾: Luis Suárez 43'
+URL:https://www.fifa.com/en/match-centre/match/17/249715/249722/300061450
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2010
@@ -610,9 +640,10 @@ GEO:-29.117222;26.208889
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Free State Stadium, Bloemf
  ontein";X-APPLE-RADIUS=100;X-TITLE="Free State Stadium, Bloemfontein":geo:
  -29.117222,26.208889
-DESCRIPTION:Group A | Matchday 12 | 2010 FIFA World Cup - South Africa\nFra
- nce 1-2 South Africa
-URL:https://en.wikipedia.org/wiki/2010_FIFA_World_Cup
+DESCRIPTION:2010 FIFA World Cup - South Africa\nGroup A | Matchday 12\nFran
+ ce 1-2 South Africa\nHT: 0-2\nFT: 1-2\nGoals:\nFRA 🇫🇷: Florent Malou
+ da 70'\nRSA 🇿🇦: Bongani Khumalo 20'\, Katlego Mphela 37'
+URL:https://www.fifa.com/en/match-centre/match/17/249715/249722/300061449
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2010
@@ -628,9 +659,11 @@ GEO:-29.829000;31.030300
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Moses Mabhida Stadium, Dur
  ban";X-APPLE-RADIUS=100;X-TITLE="Moses Mabhida Stadium, Durban":geo:-29.82
  9000,31.030300
-DESCRIPTION:Group B | Matchday 12 | 2010 FIFA World Cup - South Africa\nNig
- eria 2-2 South Korea
-URL:https://en.wikipedia.org/wiki/2010_FIFA_World_Cup
+DESCRIPTION:2010 FIFA World Cup - South Africa\nGroup B | Matchday 12\nNige
+ ria 2-2 South Korea\nHT: 1-1\nFT: 2-2\nGoals:\nNGA 🇳🇬: Kalu Uche 12'
+ \, Yakubu Aiyegbeni 69' pen\nKOR 🇰🇷: Lee Jung-Soo 38'\, Park Chu-You
+ ng 49'
+URL:https://www.fifa.com/en/match-centre/match/17/249715/249722/300111115
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2010
@@ -646,9 +679,10 @@ GEO:-23.924689;29.468765
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Peter Mokaba Stadium, Polo
  kwane";X-APPLE-RADIUS=100;X-TITLE="Peter Mokaba Stadium, Polokwane":geo:-2
  3.924689,29.468765
-DESCRIPTION:Group B | Matchday 12 | 2010 FIFA World Cup - South Africa\nGre
- ece 0-2 Argentina
-URL:https://en.wikipedia.org/wiki/2010_FIFA_World_Cup
+DESCRIPTION:2010 FIFA World Cup - South Africa\nGroup B | Matchday 12\nGree
+ ce 0-2 Argentina\nHT: 0-0\nFT: 0-2\nGoals:\nARG 🇦🇷: Martín Demichel
+ is 77'\, Martín Palermo 89'
+URL:https://www.fifa.com/en/match-centre/match/17/249715/249722/300061455
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2010
@@ -664,9 +698,10 @@ GEO:-33.937778;25.598889
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Nelson Mandela Bay Stadium
  , Port Elizabeth";X-APPLE-RADIUS=100;X-TITLE="Nelson Mandela Bay Stadium, 
  Port Elizabeth":geo:-33.937778,25.598889
-DESCRIPTION:Group C | Matchday 13 | 2010 FIFA World Cup - South Africa\nSlo
- venia 0-1 England
-URL:https://en.wikipedia.org/wiki/2010_FIFA_World_Cup
+DESCRIPTION:2010 FIFA World Cup - South Africa\nGroup C | Matchday 13\nSlov
+ enia 0-1 England\nHT: 0-1\nFT: 0-1\nGoals:\nENG 🏴󠁧󠁢󠁥󠁮󠁧
+ 󠁿: Jermain Defoe 22'
+URL:https://www.fifa.com/en/match-centre/match/17/249715/249722/300061462
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2010
@@ -682,9 +717,9 @@ GEO:-25.753333;28.222778
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Loftus Versfeld Stadium, P
  retoria";X-APPLE-RADIUS=100;X-TITLE="Loftus Versfeld Stadium, Pretoria":ge
  o:-25.753333,28.222778
-DESCRIPTION:Group C | Matchday 13 | 2010 FIFA World Cup - South Africa\nUSA
-  1-0 Algeria
-URL:https://en.wikipedia.org/wiki/2010_FIFA_World_Cup
+DESCRIPTION:2010 FIFA World Cup - South Africa\nGroup C | Matchday 13\nUSA 
+ 1-0 Algeria\nHT: 0-0\nFT: 1-0\nGoals:\nUSA 🇺🇸: Landon Donovan 90'
+URL:https://www.fifa.com/en/match-centre/match/17/249715/249722/300061461
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2010
@@ -700,9 +735,9 @@ GEO:-26.234797;27.982667
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Soccer City, Johannesburg"
  ;X-APPLE-RADIUS=100;X-TITLE="Soccer City, Johannesburg":geo:-26.234797,27.
  982667
-DESCRIPTION:Group D | Matchday 13 | 2010 FIFA World Cup - South Africa\nGha
- na 0-1 Germany
-URL:https://en.wikipedia.org/wiki/2010_FIFA_World_Cup
+DESCRIPTION:2010 FIFA World Cup - South Africa\nGroup D | Matchday 13\nGhan
+ a 0-1 Germany\nHT: 0-0\nFT: 0-1\nGoals:\nGER 🇩🇪: Mesut Özil 60'
+URL:https://www.fifa.com/en/match-centre/match/17/249715/249722/300061468
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2010
@@ -718,9 +753,10 @@ GEO:-25.461944;30.929722
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Mbombela Stadium, Nelsprui
  t";X-APPLE-RADIUS=100;X-TITLE="Mbombela Stadium, Nelspruit":geo:-25.461944
  ,30.929722
-DESCRIPTION:Group D | Matchday 13 | 2010 FIFA World Cup - South Africa\nAus
- tralia 2-1 Serbia
-URL:https://en.wikipedia.org/wiki/2010_FIFA_World_Cup
+DESCRIPTION:2010 FIFA World Cup - South Africa\nGroup D | Matchday 13\nAust
+ ralia 2-1 Serbia\nHT: 0-0\nFT: 2-1\nGoals:\nAUS 🇦🇺: Tim Cahill 69'\,
+  Brett Holman 73'\nSRB 🇷🇸: Marko Pantelić 84'
+URL:https://www.fifa.com/en/match-centre/match/17/249715/249722/300061467
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2010
@@ -736,9 +772,11 @@ GEO:-26.197500;28.060833
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Ellis Park Stadium, Johann
  esburg";X-APPLE-RADIUS=100;X-TITLE="Ellis Park Stadium, Johannesburg":geo:
  -26.197500,28.060833
-DESCRIPTION:Group F | Matchday 14 | 2010 FIFA World Cup - South Africa\nSlo
- vakia 3-2 Italy
-URL:https://en.wikipedia.org/wiki/2010_FIFA_World_Cup
+DESCRIPTION:2010 FIFA World Cup - South Africa\nGroup F | Matchday 14\nSlov
+ akia 3-2 Italy\nHT: 1-0\nFT: 3-2\nGoals:\nSVK 🇸🇰: Róbert Vittek 25'
+ \, Róbert Vittek 73'\, Kamil Kopúnek 89'\nITA 🇮🇹: Antonio Di Natal
+ e 81'\, Fabio Quagliarella 90'
+URL:https://www.fifa.com/en/match-centre/match/17/249715/249722/300061480
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2010
@@ -754,9 +792,9 @@ GEO:-23.924689;29.468765
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Peter Mokaba Stadium, Polo
  kwane";X-APPLE-RADIUS=100;X-TITLE="Peter Mokaba Stadium, Polokwane":geo:-2
  3.924689,29.468765
-DESCRIPTION:Group F | Matchday 14 | 2010 FIFA World Cup - South Africa\nPar
- aguay 0-0 New Zealand
-URL:https://en.wikipedia.org/wiki/2010_FIFA_World_Cup
+DESCRIPTION:2010 FIFA World Cup - South Africa\nGroup F | Matchday 14\nPara
+ guay 0-0 New Zealand\nHT: 0-0\nFT: 0-0
+URL:https://www.fifa.com/en/match-centre/match/17/249715/249722/300061479
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2010
@@ -772,9 +810,11 @@ GEO:-25.578600;27.160700
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Royal Bafokeng Stadium, Ru
  stenburg";X-APPLE-RADIUS=100;X-TITLE="Royal Bafokeng Stadium, Rustenburg":
  geo:-25.578600,27.160700
-DESCRIPTION:Group E | Matchday 14 | 2010 FIFA World Cup - South Africa\nDen
- mark 1-3 Japan
-URL:https://en.wikipedia.org/wiki/2010_FIFA_World_Cup
+DESCRIPTION:2010 FIFA World Cup - South Africa\nGroup E | Matchday 14\nDenm
+ ark 1-3 Japan\nHT: 0-2\nFT: 1-3\nGoals:\nDEN 🇩🇰: Jon Dahl Tomasson 8
+ 1'\nJPN 🇯🇵: Keisuke Honda 17'\, Yasuhito Endo 30'\, Shinji Okazaki 8
+ 7'
+URL:https://www.fifa.com/en/match-centre/match/17/249715/249722/300061474
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2010
@@ -790,9 +830,10 @@ GEO:-33.903611;18.411111
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Cape Town Stadium, Cape To
  wn";X-APPLE-RADIUS=100;X-TITLE="Cape Town Stadium, Cape Town":geo:-33.9036
  11,18.411111
-DESCRIPTION:Group E | Matchday 14 | 2010 FIFA World Cup - South Africa\nCam
- eroon 1-2 Netherlands
-URL:https://en.wikipedia.org/wiki/2010_FIFA_World_Cup
+DESCRIPTION:2010 FIFA World Cup - South Africa\nGroup E | Matchday 14\nCame
+ roon 1-2 Netherlands\nHT: 0-1\nFT: 1-2\nGoals:\nCMR 🇨🇲: Samuel Eto'o
+  65' pen\nNED 🇳🇱: Robin van Persie 36'\, Klaas-Jan Huntelaar 83'
+URL:https://www.fifa.com/en/match-centre/match/17/249715/249722/300061473
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2010
@@ -808,9 +849,9 @@ GEO:-29.829000;31.030300
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Moses Mabhida Stadium, Dur
  ban";X-APPLE-RADIUS=100;X-TITLE="Moses Mabhida Stadium, Durban":geo:-29.82
  9000,31.030300
-DESCRIPTION:Group G | Matchday 15 | 2010 FIFA World Cup - South Africa\nPor
- tugal 0-0 Brazil
-URL:https://en.wikipedia.org/wiki/2010_FIFA_World_Cup
+DESCRIPTION:2010 FIFA World Cup - South Africa\nGroup G | Matchday 15\nPort
+ ugal 0-0 Brazil\nHT: 0-0\nFT: 0-0
+URL:https://www.fifa.com/en/match-centre/match/17/249715/249722/300111111
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2010
@@ -826,9 +867,10 @@ GEO:-25.461944;30.929722
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Mbombela Stadium, Nelsprui
  t";X-APPLE-RADIUS=100;X-TITLE="Mbombela Stadium, Nelspruit":geo:-25.461944
  ,30.929722
-DESCRIPTION:Group G | Matchday 15 | 2010 FIFA World Cup - South Africa\nNor
- th Korea 0-3 Ivory Coast
-URL:https://en.wikipedia.org/wiki/2010_FIFA_World_Cup
+DESCRIPTION:2010 FIFA World Cup - South Africa\nGroup G | Matchday 15\nNort
+ h Korea 0-3 Ivory Coast\nHT: 0-2\nFT: 0-3\nGoals:\nCIV 🇨🇮: Yaya Tour
+ é 14'\, Romaric N'Dri 20'\, Salomon Kalou 82'
+URL:https://www.fifa.com/en/match-centre/match/17/249715/249722/300061486
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2010
@@ -844,9 +886,10 @@ GEO:-25.753333;28.222778
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Loftus Versfeld Stadium, P
  retoria";X-APPLE-RADIUS=100;X-TITLE="Loftus Versfeld Stadium, Pretoria":ge
  o:-25.753333,28.222778
-DESCRIPTION:Group H | Matchday 15 | 2010 FIFA World Cup - South Africa\nChi
- le 1-2 Spain
-URL:https://en.wikipedia.org/wiki/2010_FIFA_World_Cup
+DESCRIPTION:2010 FIFA World Cup - South Africa\nGroup H | Matchday 15\nChil
+ e 1-2 Spain\nHT: 0-2\nFT: 1-2\nGoals:\nCHI 🇨🇱: Gerard Piqué 47' og\
+ nESP 🇪🇸: David Villa 24'\, Andrés Iniesta 37'
+URL:https://www.fifa.com/en/match-centre/match/17/249715/249722/300061491
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2010
@@ -862,9 +905,9 @@ GEO:-29.117222;26.208889
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Free State Stadium, Bloemf
  ontein";X-APPLE-RADIUS=100;X-TITLE="Free State Stadium, Bloemfontein":geo:
  -29.117222,26.208889
-DESCRIPTION:Group H | Matchday 15 | 2010 FIFA World Cup - South Africa\nSwi
- tzerland 0-0 Honduras
-URL:https://en.wikipedia.org/wiki/2010_FIFA_World_Cup
+DESCRIPTION:2010 FIFA World Cup - South Africa\nGroup H | Matchday 15\nSwit
+ zerland 0-0 Honduras\nHT: 0-0\nFT: 0-0
+URL:https://www.fifa.com/en/match-centre/match/17/249715/249722/300061492
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2010
@@ -880,9 +923,10 @@ GEO:-33.937778;25.598889
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Nelson Mandela Bay Stadium
  , Port Elizabeth";X-APPLE-RADIUS=100;X-TITLE="Nelson Mandela Bay Stadium, 
  Port Elizabeth":geo:-33.937778,25.598889
-DESCRIPTION:Round of 16 | 2010 FIFA World Cup - South Africa\nUruguay 2-1 S
- outh Korea
-URL:https://en.wikipedia.org/wiki/2010_FIFA_World_Cup
+DESCRIPTION:2010 FIFA World Cup - South Africa\nRound of 16\nUruguay 2-1 So
+ uth Korea\nHT: 1-0\nFT: 2-1\nGoals:\nURU 🇺🇾: Luis Suárez 8'\, Luis 
+ Suárez 80'\nKOR 🇰🇷: Lee Chung-Yong 68'
+URL:https://www.fifa.com/en/match-centre/match/17/249715/249717/300061504
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2010
@@ -898,9 +942,10 @@ GEO:-25.578600;27.160700
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Royal Bafokeng Stadium, Ru
  stenburg";X-APPLE-RADIUS=100;X-TITLE="Royal Bafokeng Stadium, Rustenburg":
  geo:-25.578600,27.160700
-DESCRIPTION:Round of 16 | 2010 FIFA World Cup - South Africa\nUSA 1-2 Ghana
- \nFT: 1-1\nAET: 1-2
-URL:https://en.wikipedia.org/wiki/2010_FIFA_World_Cup
+DESCRIPTION:2010 FIFA World Cup - South Africa\nRound of 16\nUSA 1-2 Ghana\
+ nHT: 0-1\nFT: 1-1\nAET: 1-2\nGoals:\nUSA 🇺🇸: Landon Donovan 62' pen\
+ nGHA 🇬🇭: Kevin-Prince Boateng 5'\, Asamoah Gyan 93'
+URL:https://www.fifa.com/en/match-centre/match/17/249715/249717/300061503
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2010
@@ -916,9 +961,11 @@ GEO:-29.117222;26.208889
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Free State Stadium, Bloemf
  ontein";X-APPLE-RADIUS=100;X-TITLE="Free State Stadium, Bloemfontein":geo:
  -29.117222,26.208889
-DESCRIPTION:Round of 16 | 2010 FIFA World Cup - South Africa\nGermany 4-1 E
- ngland
-URL:https://en.wikipedia.org/wiki/2010_FIFA_World_Cup
+DESCRIPTION:2010 FIFA World Cup - South Africa\nRound of 16\nGermany 4-1 En
+ gland\nHT: 2-1\nFT: 4-1\nGoals:\nGER 🇩🇪: Miroslav Klose 20'\, Lukas 
+ Podolski 32'\, Thomas Müller 67'\, Thomas Müller 70'\nENG 🏴󠁧󠁢
+ 󠁥󠁮󠁧󠁿: Matthew Upson 37'
+URL:https://www.fifa.com/en/match-centre/match/17/249715/249717/300061501
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2010
@@ -934,9 +981,10 @@ GEO:-26.234797;27.982667
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Soccer City, Johannesburg"
  ;X-APPLE-RADIUS=100;X-TITLE="Soccer City, Johannesburg":geo:-26.234797,27.
  982667
-DESCRIPTION:Round of 16 | 2010 FIFA World Cup - South Africa\nArgentina 3-1
-  Mexico
-URL:https://en.wikipedia.org/wiki/2010_FIFA_World_Cup
+DESCRIPTION:2010 FIFA World Cup - South Africa\nRound of 16\nArgentina 3-1 
+ Mexico\nHT: 2-0\nFT: 3-1\nGoals:\nARG 🇦🇷: Carlos Tévez 25'\, Carlos
+  Tévez 52'\, Gonzalo Higuaín 33'\nMEX 🇲🇽: Javier Hernández 71'
+URL:https://www.fifa.com/en/match-centre/match/17/249715/249717/300061502
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2010
@@ -952,9 +1000,10 @@ GEO:-29.829000;31.030300
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Moses Mabhida Stadium, Dur
  ban";X-APPLE-RADIUS=100;X-TITLE="Moses Mabhida Stadium, Durban":geo:-29.82
  9000,31.030300
-DESCRIPTION:Round of 16 | 2010 FIFA World Cup - South Africa\nNetherlands 2
- -1 Slovakia
-URL:https://en.wikipedia.org/wiki/2010_FIFA_World_Cup
+DESCRIPTION:2010 FIFA World Cup - South Africa\nRound of 16\nNetherlands 2-
+ 1 Slovakia\nHT: 1-0\nFT: 2-1\nGoals:\nNED 🇳🇱: Arjen Robben 18'\, Wes
+ ley Sneĳder 84'\nSVK 🇸🇰: Róbert Vittek 90'
+URL:https://www.fifa.com/en/match-centre/match/17/249715/249717/300111113
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2010
@@ -970,9 +1019,10 @@ GEO:-26.197500;28.060833
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Ellis Park Stadium, Johann
  esburg";X-APPLE-RADIUS=100;X-TITLE="Ellis Park Stadium, Johannesburg":geo:
  -26.197500,28.060833
-DESCRIPTION:Round of 16 | 2010 FIFA World Cup - South Africa\nBrazil 3-0 Ch
- ile
-URL:https://en.wikipedia.org/wiki/2010_FIFA_World_Cup
+DESCRIPTION:2010 FIFA World Cup - South Africa\nRound of 16\nBrazil 3-0 Chi
+ le\nHT: 2-0\nFT: 3-0\nGoals:\nBRA 🇧🇷: Juan dos Santos 34'\, Luís Fa
+ biano Clemente 38'\, Róbson de Souza 'Robinho' 59'
+URL:https://www.fifa.com/en/match-centre/match/17/249715/249717/300061500
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2010
@@ -988,9 +1038,9 @@ GEO:-25.753333;28.222778
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Loftus Versfeld Stadium, P
  retoria";X-APPLE-RADIUS=100;X-TITLE="Loftus Versfeld Stadium, Pretoria":ge
  o:-25.753333,28.222778
-DESCRIPTION:Round of 16 | 2010 FIFA World Cup - South Africa\nParaguay 0-0 
- Japan\nFT: 0-0\nAET: 0-0\nPenalties: 5-3
-URL:https://en.wikipedia.org/wiki/2010_FIFA_World_Cup
+DESCRIPTION:2010 FIFA World Cup - South Africa\nRound of 16\nParaguay 0-0 J
+ apan\nHT: 0-0\nFT: 0-0\nAET: 0-0\nPenalties: 5-3
+URL:https://www.fifa.com/en/match-centre/match/17/249715/249717/300061497
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2010
@@ -1006,9 +1056,9 @@ GEO:-33.903611;18.411111
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Cape Town Stadium, Cape To
  wn";X-APPLE-RADIUS=100;X-TITLE="Cape Town Stadium, Cape Town":geo:-33.9036
  11,18.411111
-DESCRIPTION:Round of 16 | 2010 FIFA World Cup - South Africa\nSpain 1-0 Por
- tugal
-URL:https://en.wikipedia.org/wiki/2010_FIFA_World_Cup
+DESCRIPTION:2010 FIFA World Cup - South Africa\nRound of 16\nSpain 1-0 Port
+ ugal\nHT: 0-0\nFT: 1-0\nGoals:\nESP 🇪🇸: David Villa 63'
+URL:https://www.fifa.com/en/match-centre/match/17/249715/249717/300061498
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2010
@@ -1024,9 +1074,10 @@ GEO:-33.937778;25.598889
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Nelson Mandela Bay Stadium
  , Port Elizabeth";X-APPLE-RADIUS=100;X-TITLE="Nelson Mandela Bay Stadium, 
  Port Elizabeth":geo:-33.937778,25.598889
-DESCRIPTION:Quarterfinals | 2010 FIFA World Cup - South Africa\nNetherlands
-  2-1 Brazil
-URL:https://en.wikipedia.org/wiki/2010_FIFA_World_Cup
+DESCRIPTION:2010 FIFA World Cup - South Africa\nQuarterfinals\nNetherlands 
+ 2-1 Brazil\nHT: 0-1\nFT: 2-1\nGoals:\nNED 🇳🇱: Wesley Sneĳder 53'\, 
+ Wesley Sneĳder 68'\nBRA 🇧🇷: Róbson de Souza 'Robinho' 10'
+URL:https://www.fifa.com/en/match-centre/match/17/249715/249718/300061507
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2010
@@ -1042,9 +1093,10 @@ GEO:-26.234797;27.982667
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Soccer City, Johannesburg"
  ;X-APPLE-RADIUS=100;X-TITLE="Soccer City, Johannesburg":geo:-26.234797,27.
  982667
-DESCRIPTION:Quarterfinals | 2010 FIFA World Cup - South Africa\nUruguay 1-1
-  Ghana\nFT: 1-1\nAET: 1-1\nPenalties: 4-2
-URL:https://en.wikipedia.org/wiki/2010_FIFA_World_Cup
+DESCRIPTION:2010 FIFA World Cup - South Africa\nQuarterfinals\nUruguay 1-1 
+ Ghana\nHT: 0-1\nFT: 1-1\nAET: 1-1\nPenalties: 4-2\nGoals:\nURU 🇺🇾: D
+ iego Forlán 55'\nGHA 🇬🇭: Sulley Muntari 45'
+URL:https://www.fifa.com/en/match-centre/match/17/249715/249718/300061508
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2010
@@ -1060,9 +1112,10 @@ GEO:-33.903611;18.411111
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Cape Town Stadium, Cape To
  wn";X-APPLE-RADIUS=100;X-TITLE="Cape Town Stadium, Cape Town":geo:-33.9036
  11,18.411111
-DESCRIPTION:Quarterfinals | 2010 FIFA World Cup - South Africa\nArgentina 0
- -4 Germany
-URL:https://en.wikipedia.org/wiki/2010_FIFA_World_Cup
+DESCRIPTION:2010 FIFA World Cup - South Africa\nQuarterfinals\nArgentina 0-
+ 4 Germany\nHT: 0-1\nFT: 0-4\nGoals:\nGER 🇩🇪: Thomas Müller 3'\, Mir
+ oslav Klose 68'\, Miroslav Klose 89'\, Arne Friedrich 74'
+URL:https://www.fifa.com/en/match-centre/match/17/249715/249718/300061505
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2010
@@ -1078,9 +1131,9 @@ GEO:-26.197500;28.060833
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Ellis Park Stadium, Johann
  esburg";X-APPLE-RADIUS=100;X-TITLE="Ellis Park Stadium, Johannesburg":geo:
  -26.197500,28.060833
-DESCRIPTION:Quarterfinals | 2010 FIFA World Cup - South Africa\nParaguay 0-
- 1 Spain
-URL:https://en.wikipedia.org/wiki/2010_FIFA_World_Cup
+DESCRIPTION:2010 FIFA World Cup - South Africa\nQuarterfinals\nParaguay 0-1
+  Spain\nHT: 0-0\nFT: 0-1\nGoals:\nESP 🇪🇸: David Villa 83'
+URL:https://www.fifa.com/en/match-centre/match/17/249715/249718/300061506
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2010
@@ -1096,9 +1149,11 @@ GEO:-33.903611;18.411111
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Cape Town Stadium, Cape To
  wn";X-APPLE-RADIUS=100;X-TITLE="Cape Town Stadium, Cape Town":geo:-33.9036
  11,18.411111
-DESCRIPTION:Semifinals | 2010 FIFA World Cup - South Africa\nUruguay 2-3 Ne
- therlands
-URL:https://en.wikipedia.org/wiki/2010_FIFA_World_Cup
+DESCRIPTION:2010 FIFA World Cup - South Africa\nSemifinals\nUruguay 2-3 Net
+ herlands\nHT: 1-1\nFT: 2-3\nGoals:\nURU 🇺🇾: Diego Forlán 41'\, Maxi
+  Pereira 90'\nNED 🇳🇱: Giovanni van Bronckhorst 18'\, Wesley Sneĳder
+  70'\, Arjen Robben 73'
+URL:https://www.fifa.com/en/match-centre/match/17/249715/249719/300061512
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2010
@@ -1114,9 +1169,9 @@ GEO:-29.829000;31.030300
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Moses Mabhida Stadium, Dur
  ban";X-APPLE-RADIUS=100;X-TITLE="Moses Mabhida Stadium, Durban":geo:-29.82
  9000,31.030300
-DESCRIPTION:Semifinals | 2010 FIFA World Cup - South Africa\nGermany 0-1 Sp
- ain
-URL:https://en.wikipedia.org/wiki/2010_FIFA_World_Cup
+DESCRIPTION:2010 FIFA World Cup - South Africa\nSemifinals\nGermany 0-1 Spa
+ in\nHT: 0-0\nFT: 0-1\nGoals:\nESP 🇪🇸: Carles Puyol 73'
+URL:https://www.fifa.com/en/match-centre/match/17/249715/249719/300111114
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2010
@@ -1132,9 +1187,11 @@ GEO:-33.937778;25.598889
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Nelson Mandela Bay Stadium
  , Port Elizabeth";X-APPLE-RADIUS=100;X-TITLE="Nelson Mandela Bay Stadium, 
  Port Elizabeth":geo:-33.937778,25.598889
-DESCRIPTION:Third-place play-off | 2010 FIFA World Cup - South Africa\nUrug
- uay 2-3 Germany
-URL:https://en.wikipedia.org/wiki/2010_FIFA_World_Cup
+DESCRIPTION:2010 FIFA World Cup - South Africa\nThird-place play-off\nUrugu
+ ay 2-3 Germany\nHT: 1-1\nFT: 2-3\nGoals:\nURU 🇺🇾: Edinson Cavani 28'
+ \, Diego Forlán 51'\nGER 🇩🇪: Thomas Müller 19'\, Marcell Jansen 56
+ '\, Sami Khedira 82'
+URL:https://www.fifa.com/en/match-centre/match/17/249715/249720/300061510
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2010
@@ -1150,9 +1207,9 @@ GEO:-26.234797;27.982667
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Soccer City, Johannesburg"
  ;X-APPLE-RADIUS=100;X-TITLE="Soccer City, Johannesburg":geo:-26.234797,27.
  982667
-DESCRIPTION:Final | 2010 FIFA World Cup - South Africa\nNetherlands 0-1 Spa
- in\nFT: 0-0\nAET: 0-1
-URL:https://en.wikipedia.org/wiki/2010_FIFA_World_Cup
+DESCRIPTION:2010 FIFA World Cup - South Africa\nFinal\nNetherlands 0-1 Spai
+ n\nHT: 0-0\nFT: 0-0\nAET: 0-1\nGoals:\nESP 🇪🇸: Andrés Iniesta 116'
+URL:https://www.fifa.com/en/match-centre/match/17/249715/249721/300061509
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2010

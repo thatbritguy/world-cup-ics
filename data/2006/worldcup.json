@@ -17,7 +17,39 @@
         ]
       },
       "group": "Group A",
-      "ground": "Allianz Arena, München"
+      "ground": "Allianz Arena, München",
+      "goals1": [
+        {
+          "name": "Philipp Lahm",
+          "minute": 6
+        },
+        {
+          "name": "Miroslav Klose",
+          "minute": 17
+        },
+        {
+          "name": "Miroslav Klose",
+          "minute": 61
+        },
+        {
+          "name": "Torsten Frings",
+          "minute": 87
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Paulo Wanchope",
+          "minute": 12
+        },
+        {
+          "name": "Paulo Wanchope",
+          "minute": 73
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 1",
@@ -35,7 +67,22 @@
         ]
       },
       "group": "Group A",
-      "ground": "Veltins-Arena, Gelsenkirchen"
+      "ground": "Veltins-Arena, Gelsenkirchen",
+      "goals1": [],
+      "goals2": [
+        {
+          "name": "Carlos Tenorio",
+          "minute": 24
+        },
+        {
+          "name": "Agustin Delgado",
+          "minute": 80
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 6",
@@ -53,7 +100,19 @@
         ]
       },
       "group": "Group A",
-      "ground": "Signal Iduna Park, Dortmund"
+      "ground": "Signal Iduna Park, Dortmund",
+      "goals1": [
+        {
+          "name": "Oliver Neuville",
+          "minute": 90,
+          "offset": 1
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 7",
@@ -71,7 +130,27 @@
         ]
       },
       "group": "Group A",
-      "ground": "AOL Arena, Hamburg"
+      "ground": "AOL Arena, Hamburg",
+      "goals1": [
+        {
+          "name": "Carlos Tenorio",
+          "minute": 8
+        },
+        {
+          "name": "Agustin Delgado",
+          "minute": 54
+        },
+        {
+          "name": "Ivan Kaviedes",
+          "minute": 90,
+          "offset": 2
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 12",
@@ -89,7 +168,26 @@
         ]
       },
       "group": "Group A",
-      "ground": "Olympiastadion, Berlin"
+      "ground": "Olympiastadion, Berlin",
+      "goals1": [],
+      "goals2": [
+        {
+          "name": "Miroslav Klose",
+          "minute": 4
+        },
+        {
+          "name": "Miroslav Klose",
+          "minute": 44
+        },
+        {
+          "name": "Lukas Podolski",
+          "minute": 57
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 12",
@@ -107,7 +205,27 @@
         ]
       },
       "group": "Group A",
-      "ground": "AWD-Arena, Hannover"
+      "ground": "AWD-Arena, Hannover",
+      "goals1": [
+        {
+          "name": "Ronald Gomez",
+          "minute": 24
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Bartosz Bosacki",
+          "minute": 33
+        },
+        {
+          "name": "Bartosz Bosacki",
+          "minute": 66
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 2",
@@ -125,7 +243,18 @@
         ]
       },
       "group": "Group B",
-      "ground": "Commerzbank-Arena, Frankfurt"
+      "ground": "Commerzbank-Arena, Frankfurt",
+      "goals1": [
+        {
+          "name": "Carlos Gamarra og",
+          "minute": 3
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 2",
@@ -136,10 +265,20 @@
         "ft": [
           0,
           0
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group B",
-      "ground": "Signal Iduna Park, Dortmund"
+      "ground": "Signal Iduna Park, Dortmund",
+      "goals1": [],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 7",
@@ -157,7 +296,23 @@
         ]
       },
       "group": "Group B",
-      "ground": "Frankenstadion, Nürnberg"
+      "ground": "Frankenstadion, Nürnberg",
+      "goals1": [
+        {
+          "name": "Peter Crouch",
+          "minute": 83
+        },
+        {
+          "name": "Steven Gerrard",
+          "minute": 90,
+          "offset": 1
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 7",
@@ -175,7 +330,18 @@
         ]
       },
       "group": "Group B",
-      "ground": "Olympiastadion, Berlin"
+      "ground": "Olympiastadion, Berlin",
+      "goals1": [
+        {
+          "name": "Freddie Ljungberg",
+          "minute": 89
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 12",
@@ -193,7 +359,31 @@
         ]
       },
       "group": "Group B",
-      "ground": "RheinEnergieStadion, Köln"
+      "ground": "RheinEnergieStadion, Köln",
+      "goals1": [
+        {
+          "name": "Marcus Allback",
+          "minute": 51
+        },
+        {
+          "name": "Henrik Larsson",
+          "minute": 90
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Joe Cole",
+          "minute": 34
+        },
+        {
+          "name": "Steven Gerrard",
+          "minute": 85
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 12",
@@ -211,7 +401,22 @@
         ]
       },
       "group": "Group B",
-      "ground": "Fritz-Walter-Stadion, Kaiserslautern"
+      "ground": "Fritz-Walter-Stadion, Kaiserslautern",
+      "goals1": [
+        {
+          "name": "Brent Sancho og",
+          "minute": 25
+        },
+        {
+          "name": "Nelson Cuevas",
+          "minute": 86
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 2",
@@ -229,7 +434,27 @@
         ]
       },
       "group": "Group C",
-      "ground": "AOL Arena, Hamburg"
+      "ground": "AOL Arena, Hamburg",
+      "goals1": [
+        {
+          "name": "Hernan Crespo",
+          "minute": 24
+        },
+        {
+          "name": "Javier Saviola",
+          "minute": 38
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Didier Drogba",
+          "minute": 82
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 3",
@@ -247,7 +472,18 @@
         ]
       },
       "group": "Group C",
-      "ground": "Zentralstadion, Leipzig"
+      "ground": "Zentralstadion, Leipzig",
+      "goals1": [],
+      "goals2": [
+        {
+          "name": "Arjen Robben",
+          "minute": 18
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 8",
@@ -265,7 +501,38 @@
         ]
       },
       "group": "Group C",
-      "ground": "Veltins-Arena, Gelsenkirchen"
+      "ground": "Veltins-Arena, Gelsenkirchen",
+      "goals1": [
+        {
+          "name": "Maxi Rodriguez",
+          "minute": 6
+        },
+        {
+          "name": "Maxi Rodriguez",
+          "minute": 41
+        },
+        {
+          "name": "Esteban Cambiasso",
+          "minute": 31
+        },
+        {
+          "name": "Hernan Crespo",
+          "minute": 78
+        },
+        {
+          "name": "Carlos Tevez",
+          "minute": 84
+        },
+        {
+          "name": "Lionel Messi",
+          "minute": 88
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 8",
@@ -283,7 +550,27 @@
         ]
       },
       "group": "Group C",
-      "ground": "Gottlieb-Daimler-Stadion, Stuttgart"
+      "ground": "Gottlieb-Daimler-Stadion, Stuttgart",
+      "goals1": [
+        {
+          "name": "Robin van Persie",
+          "minute": 23
+        },
+        {
+          "name": "Ruud van Nistelrooy",
+          "minute": 26
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Bakary Kone",
+          "minute": 38
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 13",
@@ -294,10 +581,20 @@
         "ft": [
           0,
           0
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group C",
-      "ground": "Commerzbank-Arena, Frankfurt"
+      "ground": "Commerzbank-Arena, Frankfurt",
+      "goals1": [],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 13",
@@ -315,7 +612,37 @@
         ]
       },
       "group": "Group C",
-      "ground": "Allianz Arena, München"
+      "ground": "Allianz Arena, München",
+      "goals1": [
+        {
+          "name": "Aruna Dindane",
+          "minute": 36,
+          "penalty": true
+        },
+        {
+          "name": "Aruna Dindane",
+          "minute": 67
+        },
+        {
+          "name": "Bonaventure Kalou",
+          "minute": 86,
+          "penalty": true
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Nikola Zigic",
+          "minute": 10
+        },
+        {
+          "name": "Sasa Ilic",
+          "minute": 20
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 3",
@@ -333,7 +660,31 @@
         ]
       },
       "group": "Group D",
-      "ground": "Frankenstadion, Nürnberg"
+      "ground": "Frankenstadion, Nürnberg",
+      "goals1": [
+        {
+          "name": "Omar Bravo",
+          "minute": 28
+        },
+        {
+          "name": "Omar Bravo",
+          "minute": 76
+        },
+        {
+          "name": "Antonio Naelson 'Zinha'",
+          "minute": 79
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Yahya Golmohammadi",
+          "minute": 36
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 3",
@@ -351,7 +702,18 @@
         ]
       },
       "group": "Group D",
-      "ground": "RheinEnergieStadion, Köln"
+      "ground": "RheinEnergieStadion, Köln",
+      "goals1": [],
+      "goals2": [
+        {
+          "name": "Pedro Pauleta",
+          "minute": 4
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 8",
@@ -362,10 +724,20 @@
         "ft": [
           0,
           0
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group D",
-      "ground": "AWD-Arena, Hannover"
+      "ground": "AWD-Arena, Hannover",
+      "goals1": [],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 9",
@@ -383,7 +755,23 @@
         ]
       },
       "group": "Group D",
-      "ground": "Commerzbank-Arena, Frankfurt"
+      "ground": "Commerzbank-Arena, Frankfurt",
+      "goals1": [
+        {
+          "name": "Deco",
+          "minute": 63
+        },
+        {
+          "name": "Cristiano Ronaldo",
+          "minute": 80,
+          "penalty": true
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 13",
@@ -401,7 +789,28 @@
         ]
       },
       "group": "Group D",
-      "ground": "Veltins-Arena, Gelsenkirchen"
+      "ground": "Veltins-Arena, Gelsenkirchen",
+      "goals1": [
+        {
+          "name": "Maniche",
+          "minute": 6
+        },
+        {
+          "name": "Simao Sabrosa",
+          "minute": 24,
+          "penalty": true
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Jose Fonseca",
+          "minute": 29
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 13",
@@ -419,7 +828,23 @@
         ]
       },
       "group": "Group D",
-      "ground": "Zentralstadion, Leipzig"
+      "ground": "Zentralstadion, Leipzig",
+      "goals1": [
+        {
+          "name": "Sohrab Bakhtiarizadeh",
+          "minute": 75
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Flavio",
+          "minute": 60
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 4",
@@ -437,7 +862,22 @@
         ]
       },
       "group": "Group E",
-      "ground": "AWD-Arena, Hannover"
+      "ground": "AWD-Arena, Hannover",
+      "goals1": [
+        {
+          "name": "Andrea Pirlo",
+          "minute": 40
+        },
+        {
+          "name": "Vincenzo Iaquinta",
+          "minute": 83
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 4",
@@ -455,7 +895,26 @@
         ]
       },
       "group": "Group E",
-      "ground": "Veltins-Arena, Gelsenkirchen"
+      "ground": "Veltins-Arena, Gelsenkirchen",
+      "goals1": [],
+      "goals2": [
+        {
+          "name": "Jan Koller",
+          "minute": 5
+        },
+        {
+          "name": "Tomas Rosicky",
+          "minute": 36
+        },
+        {
+          "name": "Tomas Rosicky",
+          "minute": 76
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 9",
@@ -473,7 +932,23 @@
         ]
       },
       "group": "Group E",
-      "ground": "Fritz-Walter-Stadion, Kaiserslautern"
+      "ground": "Fritz-Walter-Stadion, Kaiserslautern",
+      "goals1": [
+        {
+          "name": "Alberto Gilardino",
+          "minute": 22
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Cristian Zaccardo og",
+          "minute": 27
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 9",
@@ -491,7 +966,22 @@
         ]
       },
       "group": "Group E",
-      "ground": "RheinEnergieStadion, Köln"
+      "ground": "RheinEnergieStadion, Köln",
+      "goals1": [],
+      "goals2": [
+        {
+          "name": "Asamoah Gyan",
+          "minute": 2
+        },
+        {
+          "name": "Sulley Muntari",
+          "minute": 82
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 14",
@@ -509,7 +999,22 @@
         ]
       },
       "group": "Group E",
-      "ground": "AOL Arena, Hamburg"
+      "ground": "AOL Arena, Hamburg",
+      "goals1": [],
+      "goals2": [
+        {
+          "name": "Marco Materazzi",
+          "minute": 26
+        },
+        {
+          "name": "Filippo Inzaghi",
+          "minute": 87
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 14",
@@ -527,7 +1032,29 @@
         ]
       },
       "group": "Group E",
-      "ground": "Frankenstadion, Nürnberg"
+      "ground": "Frankenstadion, Nürnberg",
+      "goals1": [
+        {
+          "name": "Haminu Dramani",
+          "minute": 22
+        },
+        {
+          "name": "Stephen Appiah",
+          "minute": 45,
+          "offset": 2,
+          "penalty": true
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Clint Dempsey",
+          "minute": 43
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 5",
@@ -545,7 +1072,18 @@
         ]
       },
       "group": "Group F",
-      "ground": "Olympiastadion, Berlin"
+      "ground": "Olympiastadion, Berlin",
+      "goals1": [
+        {
+          "name": "Kaka",
+          "minute": 44
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 4",
@@ -563,7 +1101,32 @@
         ]
       },
       "group": "Group F",
-      "ground": "Fritz-Walter-Stadion, Kaiserslautern"
+      "ground": "Fritz-Walter-Stadion, Kaiserslautern",
+      "goals1": [
+        {
+          "name": "Tim Cahill",
+          "minute": 84
+        },
+        {
+          "name": "Tim Cahill",
+          "minute": 89
+        },
+        {
+          "name": "John Aloisi",
+          "minute": 90,
+          "offset": 2
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Shunsuke Nakamura",
+          "minute": 26
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 10",
@@ -581,7 +1144,22 @@
         ]
       },
       "group": "Group F",
-      "ground": "Allianz Arena, München"
+      "ground": "Allianz Arena, München",
+      "goals1": [
+        {
+          "name": "Adriano",
+          "minute": 49
+        },
+        {
+          "name": "Fred",
+          "minute": 89
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 10",
@@ -592,10 +1170,20 @@
         "ft": [
           0,
           0
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group F",
-      "ground": "Frankenstadion, Nürnberg"
+      "ground": "Frankenstadion, Nürnberg",
+      "goals1": [],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 14",
@@ -613,7 +1201,36 @@
         ]
       },
       "group": "Group F",
-      "ground": "Signal Iduna Park, Dortmund"
+      "ground": "Signal Iduna Park, Dortmund",
+      "goals1": [
+        {
+          "name": "Keiji Tamada",
+          "minute": 34
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Ronaldo",
+          "minute": 45,
+          "offset": 1
+        },
+        {
+          "name": "Ronaldo",
+          "minute": 81
+        },
+        {
+          "name": "Juninho Pernambucano",
+          "minute": 53
+        },
+        {
+          "name": "Gilberto",
+          "minute": 59
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 14",
@@ -631,7 +1248,32 @@
         ]
       },
       "group": "Group F",
-      "ground": "Gottlieb-Daimler-Stadion, Stuttgart"
+      "ground": "Gottlieb-Daimler-Stadion, Stuttgart",
+      "goals1": [
+        {
+          "name": "Darijo Srna",
+          "minute": 2
+        },
+        {
+          "name": "Niko Kovac",
+          "minute": 56
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Craig Moore",
+          "minute": 38,
+          "penalty": true
+        },
+        {
+          "name": "Harry Kewell",
+          "minute": 79
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 5",
@@ -642,10 +1284,20 @@
         "ft": [
           0,
           0
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group G",
-      "ground": "Gottlieb-Daimler-Stadion, Stuttgart"
+      "ground": "Gottlieb-Daimler-Stadion, Stuttgart",
+      "goals1": [],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 5",
@@ -663,7 +1315,27 @@
         ]
       },
       "group": "Group G",
-      "ground": "Commerzbank-Arena, Frankfurt"
+      "ground": "Commerzbank-Arena, Frankfurt",
+      "goals1": [
+        {
+          "name": "Lee Chun-soo",
+          "minute": 54
+        },
+        {
+          "name": "Ahn Jung-hwan",
+          "minute": 72
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Abdelkader Coubadja",
+          "minute": 31
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 10",
@@ -681,7 +1353,23 @@
         ]
       },
       "group": "Group G",
-      "ground": "Zentralstadion, Leipzig"
+      "ground": "Zentralstadion, Leipzig",
+      "goals1": [
+        {
+          "name": "Thierry Henry",
+          "minute": 9
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Park Ji-sung",
+          "minute": 81
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 11",
@@ -699,7 +1387,22 @@
         ]
       },
       "group": "Group G",
-      "ground": "Signal Iduna Park, Dortmund"
+      "ground": "Signal Iduna Park, Dortmund",
+      "goals1": [],
+      "goals2": [
+        {
+          "name": "Alexander Frei",
+          "minute": 16
+        },
+        {
+          "name": "Tranquillo Barnetta",
+          "minute": 88
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 15",
@@ -717,7 +1420,22 @@
         ]
       },
       "group": "Group G",
-      "ground": "RheinEnergieStadion, Köln"
+      "ground": "RheinEnergieStadion, Köln",
+      "goals1": [],
+      "goals2": [
+        {
+          "name": "Patrick Vieira",
+          "minute": 55
+        },
+        {
+          "name": "Thierry Henry",
+          "minute": 61
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 15",
@@ -735,7 +1453,22 @@
         ]
       },
       "group": "Group G",
-      "ground": "AWD-Arena, Hannover"
+      "ground": "AWD-Arena, Hannover",
+      "goals1": [
+        {
+          "name": "Philippe Senderos",
+          "minute": 23
+        },
+        {
+          "name": "Alexander Frei",
+          "minute": 77
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 6",
@@ -753,7 +1486,31 @@
         ]
       },
       "group": "Group H",
-      "ground": "Zentralstadion, Leipzig"
+      "ground": "Zentralstadion, Leipzig",
+      "goals1": [
+        {
+          "name": "Xabi Alonso",
+          "minute": 13
+        },
+        {
+          "name": "David Villa",
+          "minute": 17
+        },
+        {
+          "name": "David Villa",
+          "minute": 48,
+          "penalty": true
+        },
+        {
+          "name": "Fernando Torres",
+          "minute": 81
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 6",
@@ -771,7 +1528,32 @@
         ]
       },
       "group": "Group H",
-      "ground": "Allianz Arena, München"
+      "ground": "Allianz Arena, München",
+      "goals1": [
+        {
+          "name": "Zied Jaziri",
+          "minute": 23
+        },
+        {
+          "name": "Radhi Jaidi",
+          "minute": 90,
+          "offset": 3
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Yassir Al Qahtani",
+          "minute": 57
+        },
+        {
+          "name": "Sami Al Jaber",
+          "minute": 84
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 11",
@@ -789,7 +1571,33 @@
         ]
       },
       "group": "Group H",
-      "ground": "Gottlieb-Daimler-Stadion, Stuttgart"
+      "ground": "Gottlieb-Daimler-Stadion, Stuttgart",
+      "goals1": [
+        {
+          "name": "Raul",
+          "minute": 71
+        },
+        {
+          "name": "Fernando Torres",
+          "minute": 76
+        },
+        {
+          "name": "Fernando Torres",
+          "minute": 90,
+          "offset": 1,
+          "penalty": true
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Jaouhar Mnari",
+          "minute": 8
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 11",
@@ -807,7 +1615,30 @@
         ]
       },
       "group": "Group H",
-      "ground": "AOL Arena, Hamburg"
+      "ground": "AOL Arena, Hamburg",
+      "goals1": [],
+      "goals2": [
+        {
+          "name": "Andriy Rusol",
+          "minute": 4
+        },
+        {
+          "name": "Serhiy Rebrov",
+          "minute": 36
+        },
+        {
+          "name": "Andriy Shevchenko",
+          "minute": 46
+        },
+        {
+          "name": "Maksym Kalinichenko",
+          "minute": 84
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 15",
@@ -825,7 +1656,18 @@
         ]
       },
       "group": "Group H",
-      "ground": "Fritz-Walter-Stadion, Kaiserslautern"
+      "ground": "Fritz-Walter-Stadion, Kaiserslautern",
+      "goals1": [],
+      "goals2": [
+        {
+          "name": "Juanito",
+          "minute": 36
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 15",
@@ -843,7 +1685,19 @@
         ]
       },
       "group": "Group H",
-      "ground": "Olympiastadion, Berlin"
+      "ground": "Olympiastadion, Berlin",
+      "goals1": [
+        {
+          "name": "Andriy Shevchenko",
+          "minute": 70,
+          "penalty": true
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Round of 16",
@@ -860,7 +1714,22 @@
           0
         ]
       },
-      "ground": "Allianz Arena, München"
+      "ground": "Allianz Arena, München",
+      "goals1": [
+        {
+          "name": "Lukas Podolski",
+          "minute": 4
+        },
+        {
+          "name": "Lukas Podolski",
+          "minute": 12
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Round of 16",
@@ -881,7 +1750,27 @@
           1
         ]
       },
-      "ground": "Zentralstadion, Leipzig"
+      "ground": "Zentralstadion, Leipzig",
+      "goals1": [
+        {
+          "name": "Hernan Crespo",
+          "minute": 10
+        },
+        {
+          "name": "Maxi Rodriguez",
+          "minute": 98
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Rafael Marquez",
+          "minute": 6
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Round of 16",
@@ -898,7 +1787,18 @@
           0
         ]
       },
-      "ground": "Gottlieb-Daimler-Stadion, Stuttgart"
+      "ground": "Gottlieb-Daimler-Stadion, Stuttgart",
+      "goals1": [
+        {
+          "name": "David Beckham",
+          "minute": 60
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Round of 16",
@@ -915,7 +1815,18 @@
           0
         ]
       },
-      "ground": "Frankenstadion, Nürnberg"
+      "ground": "Frankenstadion, Nürnberg",
+      "goals1": [
+        {
+          "name": "Maniche Ribeiro",
+          "minute": 23
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Round of 16",
@@ -932,7 +1843,20 @@
           0
         ]
       },
-      "ground": "Fritz-Walter-Stadion, Kaiserslautern"
+      "ground": "Fritz-Walter-Stadion, Kaiserslautern",
+      "goals1": [
+        {
+          "name": "Francesco Totti",
+          "minute": 90,
+          "offset": 4,
+          "penalty": true
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Round of 16",
@@ -951,9 +1875,19 @@
         "ft": [
           0,
           0
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
-      "ground": "RheinEnergieStadion, Köln"
+      "ground": "RheinEnergieStadion, Köln",
+      "goals1": [],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Round of 16",
@@ -970,7 +1904,27 @@
           0
         ]
       },
-      "ground": "Signal Iduna Park, Dortmund"
+      "ground": "Signal Iduna Park, Dortmund",
+      "goals1": [
+        {
+          "name": "Ronaldo",
+          "minute": 5
+        },
+        {
+          "name": "Adriano",
+          "minute": 45,
+          "offset": 1
+        },
+        {
+          "name": "Ze Roberto",
+          "minute": 84
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Round of 16",
@@ -987,7 +1941,33 @@
           1
         ]
       },
-      "ground": "AWD-Arena, Hannover"
+      "ground": "AWD-Arena, Hannover",
+      "goals1": [
+        {
+          "name": "David Villa",
+          "minute": 28,
+          "penalty": true
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Franck Ribery",
+          "minute": 41
+        },
+        {
+          "name": "Patrick Vieira",
+          "minute": 83
+        },
+        {
+          "name": "Zinedine Zidane",
+          "minute": 90,
+          "offset": 2
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Quarterfinals",
@@ -1012,7 +1992,23 @@
           0
         ]
       },
-      "ground": "Olympiastadion, Berlin"
+      "ground": "Olympiastadion, Berlin",
+      "goals1": [
+        {
+          "name": "Miroslav Klose",
+          "minute": 80
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Roberto Ayala",
+          "minute": 49
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Quarterfinals",
@@ -1029,7 +2025,26 @@
           0
         ]
       },
-      "ground": "AOL Arena, Hamburg"
+      "ground": "AOL Arena, Hamburg",
+      "goals1": [
+        {
+          "name": "Gianluca Zambrotta",
+          "minute": 6
+        },
+        {
+          "name": "Luca Toni",
+          "minute": 59
+        },
+        {
+          "name": "Luca Toni",
+          "minute": 69
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Quarterfinals",
@@ -1048,9 +2063,19 @@
         "ft": [
           0,
           0
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
-      "ground": "Veltins-Arena, Gelsenkirchen"
+      "ground": "Veltins-Arena, Gelsenkirchen",
+      "goals1": [],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Quarterfinals",
@@ -1067,7 +2092,18 @@
           0
         ]
       },
-      "ground": "Commerzbank-Arena, Frankfurt"
+      "ground": "Commerzbank-Arena, Frankfurt",
+      "goals1": [],
+      "goals2": [
+        {
+          "name": "Thierry Henry",
+          "minute": 57
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Semifinals",
@@ -1080,6 +2116,10 @@
           2
         ],
         "ft": [
+          0,
+          0
+        ],
+        "ht": [
           0,
           0
         ]
@@ -1096,7 +2136,11 @@
           "offset": 1
         }
       ],
-      "ground": "Signal Iduna Park, Dortmund"
+      "ground": "Signal Iduna Park, Dortmund",
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Semifinals",
@@ -1121,7 +2165,11 @@
           "penalty": true
         }
       ],
-      "ground": "Allianz Arena, München"
+      "ground": "Allianz Arena, München",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Third-place play-off",
@@ -1159,7 +2207,11 @@
           "minute": 88
         }
       ],
-      "ground": "Gottlieb-Daimler-Stadion, Stuttgart"
+      "ground": "Gottlieb-Daimler-Stadion, Stuttgart",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Final",
@@ -1197,7 +2249,11 @@
           "penalty": true
         }
       ],
-      "ground": "Olympiastadion, Berlin"
+      "ground": "Olympiastadion, Berlin",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     }
   ]
 }

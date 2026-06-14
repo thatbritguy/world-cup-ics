@@ -10,10 +10,36 @@
         "ft": [
           2,
           1
+        ],
+        "ht": [
+          1,
+          1
         ]
       },
       "group": "Group A",
-      "ground": "Stade de France, Saint-Denis"
+      "ground": "Stade de France, Saint-Denis",
+      "goals1": [
+        {
+          "name": "César Sampaio",
+          "minute": 5
+        },
+        {
+          "name": "Boyd",
+          "minute": 73,
+          "owngoal": true
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Collins",
+          "minute": 38,
+          "penalty": true
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 1",
@@ -24,10 +50,38 @@
         "ft": [
           2,
           2
+        ],
+        "ht": [
+          1,
+          1
         ]
       },
       "group": "Group A",
-      "ground": "Stade de la Mosson, Montpellier"
+      "ground": "Stade de la Mosson, Montpellier",
+      "goals1": [
+        {
+          "name": "Hadji",
+          "minute": 38
+        },
+        {
+          "name": "Hadda",
+          "minute": 59
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Chippo",
+          "minute": 45
+        },
+        {
+          "name": "Eggen",
+          "minute": 60
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 2",
@@ -38,10 +92,30 @@
         "ft": [
           1,
           1
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group A",
-      "ground": "Parc Lescure, Bordeaux"
+      "ground": "Parc Lescure, Bordeaux",
+      "goals1": [
+        {
+          "name": "Burley",
+          "minute": 66
+        }
+      ],
+      "goals2": [
+        {
+          "name": "H.Flo",
+          "minute": 46
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 2",
@@ -52,10 +126,33 @@
         "ft": [
           3,
           0
+        ],
+        "ht": [
+          2,
+          0
         ]
       },
       "group": "Group A",
-      "ground": "Stade de la Beaujoire, Nantes"
+      "ground": "Stade de la Beaujoire, Nantes",
+      "goals1": [
+        {
+          "name": "Ronaldo",
+          "minute": 9
+        },
+        {
+          "name": "Rivaldo",
+          "minute": 45
+        },
+        {
+          "name": "Bebeto",
+          "minute": 50
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 3",
@@ -66,10 +163,33 @@
         "ft": [
           0,
           3
+        ],
+        "ht": [
+          0,
+          1
         ]
       },
       "group": "Group A",
-      "ground": "Stade Geoffroy-Guichard, Saint-Étienne"
+      "ground": "Stade Geoffroy-Guichard, Saint-Étienne",
+      "goals1": [],
+      "goals2": [
+        {
+          "name": "Bassir",
+          "minute": 22
+        },
+        {
+          "name": "Hadda",
+          "minute": 47
+        },
+        {
+          "name": "Bassir",
+          "minute": 84
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 3",
@@ -80,10 +200,35 @@
         "ft": [
           1,
           2
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group A",
-      "ground": "Stade Vélodrome, Marseille"
+      "ground": "Stade Vélodrome, Marseille",
+      "goals1": [
+        {
+          "name": "Bebeto",
+          "minute": 79
+        }
+      ],
+      "goals2": [
+        {
+          "name": "T.A.Flo",
+          "minute": 83
+        },
+        {
+          "name": "Rekdal",
+          "minute": 89,
+          "penalty": true
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 1",
@@ -94,10 +239,30 @@
         "ft": [
           1,
           1
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group B",
-      "ground": "Stade de Toulouse, Toulouse"
+      "ground": "Stade de Toulouse, Toulouse",
+      "goals1": [
+        {
+          "name": "Njanka",
+          "minute": 78
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Polster",
+          "minute": 90
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 1",
@@ -108,10 +273,39 @@
         "ft": [
           2,
           2
+        ],
+        "ht": [
+          1,
+          1
         ]
       },
       "group": "Group B",
-      "ground": "Parc Lescure, Bordeaux"
+      "ground": "Parc Lescure, Bordeaux",
+      "goals1": [
+        {
+          "name": "Vieri",
+          "minute": 10
+        },
+        {
+          "name": "R.Baggio",
+          "minute": 85,
+          "penalty": true
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Salas",
+          "minute": 45
+        },
+        {
+          "name": "Salas",
+          "minute": 49
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 2",
@@ -122,10 +316,30 @@
         "ft": [
           1,
           1
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group B",
-      "ground": "Stade Geoffroy-Guichard, Saint-Étienne"
+      "ground": "Stade Geoffroy-Guichard, Saint-Étienne",
+      "goals1": [
+        {
+          "name": "Salas",
+          "minute": 70
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Vastic",
+          "minute": 90
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 2",
@@ -136,10 +350,33 @@
         "ft": [
           3,
           0
+        ],
+        "ht": [
+          1,
+          0
         ]
       },
       "group": "Group B",
-      "ground": "Stade de la Mosson, Montpellier"
+      "ground": "Stade de la Mosson, Montpellier",
+      "goals1": [
+        {
+          "name": "Di Biagio",
+          "minute": 8
+        },
+        {
+          "name": "Vieri",
+          "minute": 79
+        },
+        {
+          "name": "Vieri",
+          "minute": 85
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 3",
@@ -150,10 +387,34 @@
         "ft": [
           2,
           1
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group B",
-      "ground": "Stade de France, Saint-Denis"
+      "ground": "Stade de France, Saint-Denis",
+      "goals1": [
+        {
+          "name": "Vieri",
+          "minute": 49
+        },
+        {
+          "name": "R.Baggio",
+          "minute": 90
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Herzog",
+          "minute": 90
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 3",
@@ -164,10 +425,30 @@
         "ft": [
           1,
           1
+        ],
+        "ht": [
+          1,
+          0
         ]
       },
       "group": "Group B",
-      "ground": "Stade de la Beaujoire, Nantes"
+      "ground": "Stade de la Beaujoire, Nantes",
+      "goals1": [
+        {
+          "name": "Sierra",
+          "minute": 20
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Mboma",
+          "minute": 55
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 1",
@@ -178,10 +459,25 @@
         "ft": [
           0,
           1
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group C",
-      "ground": "Stade Félix Bollaert, Lens"
+      "ground": "Stade Félix Bollaert, Lens",
+      "goals1": [],
+      "goals2": [
+        {
+          "name": "Rieper",
+          "minute": 69
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 1",
@@ -192,10 +488,34 @@
         "ft": [
           3,
           0
+        ],
+        "ht": [
+          1,
+          0
         ]
       },
       "group": "Group C",
-      "ground": "Stade Vélodrome, Marseille"
+      "ground": "Stade Vélodrome, Marseille",
+      "goals1": [
+        {
+          "name": "Dugarry",
+          "minute": 34
+        },
+        {
+          "name": "Issa",
+          "minute": 77,
+          "owngoal": true
+        },
+        {
+          "name": "Henry",
+          "minute": 90
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 2",
@@ -206,10 +526,37 @@
         "ft": [
           4,
           0
+        ],
+        "ht": [
+          1,
+          0
         ]
       },
       "group": "Group C",
-      "ground": "Stade de France, Saint-Denis"
+      "ground": "Stade de France, Saint-Denis",
+      "goals1": [
+        {
+          "name": "Henry",
+          "minute": 36
+        },
+        {
+          "name": "Trézeguet",
+          "minute": 69
+        },
+        {
+          "name": "Henry",
+          "minute": 79
+        },
+        {
+          "name": "Lizarazu",
+          "minute": 85
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 2",
@@ -220,10 +567,30 @@
         "ft": [
           1,
           1
+        ],
+        "ht": [
+          0,
+          1
         ]
       },
       "group": "Group C",
-      "ground": "Stade de Toulouse, Toulouse"
+      "ground": "Stade de Toulouse, Toulouse",
+      "goals1": [
+        {
+          "name": "McCarthy",
+          "minute": 52
+        }
+      ],
+      "goals2": [
+        {
+          "name": "A.Nielsen",
+          "minute": 13
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 3",
@@ -234,10 +601,36 @@
         "ft": [
           2,
           1
+        ],
+        "ht": [
+          1,
+          1
         ]
       },
       "group": "Group C",
-      "ground": "Stade Gerland, Lyon"
+      "ground": "Stade Gerland, Lyon",
+      "goals1": [
+        {
+          "name": "Djorkaeff",
+          "minute": 23,
+          "penalty": true
+        },
+        {
+          "name": "Petit",
+          "minute": 56
+        }
+      ],
+      "goals2": [
+        {
+          "name": "M.Laudrup",
+          "minute": 42,
+          "penalty": true
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 3",
@@ -248,10 +641,40 @@
         "ft": [
           2,
           2
+        ],
+        "ht": [
+          1,
+          1
         ]
       },
       "group": "Group C",
-      "ground": "Parc Lescure, Bordeaux"
+      "ground": "Parc Lescure, Bordeaux",
+      "goals1": [
+        {
+          "name": "Bartlett",
+          "minute": 19
+        },
+        {
+          "name": "Bartlett",
+          "minute": 90
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Al Jaber",
+          "minute": 45,
+          "penalty": true
+        },
+        {
+          "name": "Al Tunian",
+          "minute": 73,
+          "penalty": true
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 1",
@@ -262,10 +685,18 @@
         "ft": [
           0,
           0
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group D",
-      "ground": "Stade de la Mosson, Montpellier"
+      "ground": "Stade de la Mosson, Montpellier",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 1",
@@ -276,10 +707,42 @@
         "ft": [
           2,
           3
+        ],
+        "ht": [
+          1,
+          1
         ]
       },
       "group": "Group D",
-      "ground": "Stade de la Beaujoire, Nantes"
+      "ground": "Stade de la Beaujoire, Nantes",
+      "goals1": [
+        {
+          "name": "Hierro",
+          "minute": 21
+        },
+        {
+          "name": "Raúl",
+          "minute": 47
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Adepoju",
+          "minute": 22
+        },
+        {
+          "name": "Lawal",
+          "minute": 73
+        },
+        {
+          "name": "Oliseh",
+          "minute": 79
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 2",
@@ -290,10 +753,25 @@
         "ft": [
           1,
           0
+        ],
+        "ht": [
+          1,
+          0
         ]
       },
       "group": "Group D",
-      "ground": "Parc des Princes, Paris"
+      "ground": "Parc des Princes, Paris",
+      "goals1": [
+        {
+          "name": "Ipkeba",
+          "minute": 27
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 2",
@@ -304,10 +782,18 @@
         "ft": [
           0,
           0
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group D",
-      "ground": "Stade Geoffroy-Guichard, Saint-Étienne"
+      "ground": "Stade Geoffroy-Guichard, Saint-Étienne",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 3",
@@ -318,10 +804,51 @@
         "ft": [
           6,
           1
+        ],
+        "ht": [
+          2,
+          0
         ]
       },
       "group": "Group D",
-      "ground": "Stade Félix Bollaert, Lens"
+      "ground": "Stade Félix Bollaert, Lens",
+      "goals1": [
+        {
+          "name": "Hierro",
+          "minute": 6,
+          "penalty": true
+        },
+        {
+          "name": "Luis Enrique",
+          "minute": 19
+        },
+        {
+          "name": "Morientes",
+          "minute": 53
+        },
+        {
+          "name": "Morientes",
+          "minute": 81
+        },
+        {
+          "name": "Kiko",
+          "minute": 86
+        },
+        {
+          "name": "Kiko",
+          "minute": 88
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Kostadinov",
+          "minute": 56
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 3",
@@ -332,10 +859,38 @@
         "ft": [
           1,
           3
+        ],
+        "ht": [
+          1,
+          1
         ]
       },
       "group": "Group D",
-      "ground": "Stade de Toulouse, Toulouse"
+      "ground": "Stade de Toulouse, Toulouse",
+      "goals1": [
+        {
+          "name": "Oruma",
+          "minute": 11
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Ayala",
+          "minute": 1
+        },
+        {
+          "name": "Benitez",
+          "minute": 59
+        },
+        {
+          "name": "Cardoso",
+          "minute": 86
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 1",
@@ -346,10 +901,18 @@
         "ft": [
           0,
           0
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group E",
-      "ground": "Stade de France, Saint-Denis"
+      "ground": "Stade de France, Saint-Denis",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 1",
@@ -360,10 +923,38 @@
         "ft": [
           1,
           3
+        ],
+        "ht": [
+          1,
+          0
         ]
       },
       "group": "Group E",
-      "ground": "Stade Gerland, Lyon"
+      "ground": "Stade Gerland, Lyon",
+      "goals1": [
+        {
+          "name": "Ha Seok-ju",
+          "minute": 20
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Pelaez",
+          "minute": 54
+        },
+        {
+          "name": "Hernández",
+          "minute": 74
+        },
+        {
+          "name": "Hernández",
+          "minute": 84
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 2",
@@ -374,10 +965,41 @@
         "ft": [
           5,
           0
+        ],
+        "ht": [
+          2,
+          0
         ]
       },
       "group": "Group E",
-      "ground": "Stade Vélodrome, Marseille"
+      "ground": "Stade Vélodrome, Marseille",
+      "goals1": [
+        {
+          "name": "Cocu",
+          "minute": 37
+        },
+        {
+          "name": "Overmars",
+          "minute": 41
+        },
+        {
+          "name": "Bergkamp",
+          "minute": 71
+        },
+        {
+          "name": "van Hooijdonk",
+          "minute": 79
+        },
+        {
+          "name": "R.de Boer",
+          "minute": 83
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 2",
@@ -388,10 +1010,39 @@
         "ft": [
           2,
           2
+        ],
+        "ht": [
+          1,
+          0
         ]
       },
       "group": "Group E",
-      "ground": "Parc Lescure, Bordeaux"
+      "ground": "Parc Lescure, Bordeaux",
+      "goals1": [
+        {
+          "name": "Wilmots",
+          "minute": 43
+        },
+        {
+          "name": "Wilmots",
+          "minute": 48
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Garcia Aspe",
+          "minute": 56,
+          "penalty": true
+        },
+        {
+          "name": "Blanco",
+          "minute": 63
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 3",
@@ -402,10 +1053,30 @@
         "ft": [
           1,
           1
+        ],
+        "ht": [
+          1,
+          0
         ]
       },
       "group": "Group E",
-      "ground": "Parc des Princes, Paris"
+      "ground": "Parc des Princes, Paris",
+      "goals1": [
+        {
+          "name": "Nilis",
+          "minute": 6
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Yoo-Sang chul",
+          "minute": 71
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 3",
@@ -416,10 +1087,38 @@
         "ft": [
           2,
           2
+        ],
+        "ht": [
+          2,
+          0
         ]
       },
       "group": "Group E",
-      "ground": "Stade Geoffroy-Guichard, Saint-Étienne"
+      "ground": "Stade Geoffroy-Guichard, Saint-Étienne",
+      "goals1": [
+        {
+          "name": "Cocu",
+          "minute": 4
+        },
+        {
+          "name": "R.de Boer",
+          "minute": 19
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Pelaez",
+          "minute": 75
+        },
+        {
+          "name": "Hernández",
+          "minute": 90
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 1",
@@ -430,10 +1129,25 @@
         "ft": [
           1,
           0
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group F",
-      "ground": "Stade Geoffroy-Guichard, Saint-Étienne"
+      "ground": "Stade Geoffroy-Guichard, Saint-Étienne",
+      "goals1": [
+        {
+          "name": "Mihajlović",
+          "minute": 72
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 1",
@@ -444,10 +1158,29 @@
         "ft": [
           2,
           0
+        ],
+        "ht": [
+          1,
+          0
         ]
       },
       "group": "Group F",
-      "ground": "Parc des Princes, Paris"
+      "ground": "Parc des Princes, Paris",
+      "goals1": [
+        {
+          "name": "Möller",
+          "minute": 8
+        },
+        {
+          "name": "Klinsmann",
+          "minute": 65
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 2",
@@ -458,10 +1191,39 @@
         "ft": [
           2,
           2
+        ],
+        "ht": [
+          0,
+          1
         ]
       },
       "group": "Group F",
-      "ground": "Stade Félix Bollaert, Lens"
+      "ground": "Stade Félix Bollaert, Lens",
+      "goals1": [
+        {
+          "name": "Mihajlović",
+          "minute": 73,
+          "owngoal": true
+        },
+        {
+          "name": "Bierhoff",
+          "minute": 80
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Mijatović",
+          "minute": 13
+        },
+        {
+          "name": "Stojković",
+          "minute": 54
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 2",
@@ -472,10 +1234,34 @@
         "ft": [
           1,
           2
+        ],
+        "ht": [
+          0,
+          1
         ]
       },
       "group": "Group F",
-      "ground": "Stade Gerland, Lyon"
+      "ground": "Stade Gerland, Lyon",
+      "goals1": [
+        {
+          "name": "McBride",
+          "minute": 87
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Estili",
+          "minute": 40
+        },
+        {
+          "name": "Mahdavikia",
+          "minute": 84
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 3",
@@ -486,10 +1272,29 @@
         "ft": [
           2,
           0
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group F",
-      "ground": "Stade de la Mosson, Montpellier"
+      "ground": "Stade de la Mosson, Montpellier",
+      "goals1": [
+        {
+          "name": "Bierhoff",
+          "minute": 50
+        },
+        {
+          "name": "Klinsmann",
+          "minute": 57
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 3",
@@ -500,10 +1305,25 @@
         "ft": [
           0,
           1
+        ],
+        "ht": [
+          0,
+          1
         ]
       },
       "group": "Group F",
-      "ground": "Stade de la Beaujoire, Nantes"
+      "ground": "Stade de la Beaujoire, Nantes",
+      "goals1": [],
+      "goals2": [
+        {
+          "name": "Komljenović",
+          "minute": 4
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 1",
@@ -514,10 +1334,25 @@
         "ft": [
           1,
           0
+        ],
+        "ht": [
+          1,
+          0
         ]
       },
       "group": "Group G",
-      "ground": "Stade Gerland, Lyon"
+      "ground": "Stade Gerland, Lyon",
+      "goals1": [
+        {
+          "name": "A.Ilie",
+          "minute": 45
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 1",
@@ -528,10 +1363,29 @@
         "ft": [
           2,
           0
+        ],
+        "ht": [
+          1,
+          0
         ]
       },
       "group": "Group G",
-      "ground": "Stade Vélodrome, Marseille"
+      "ground": "Stade Vélodrome, Marseille",
+      "goals1": [
+        {
+          "name": "Shearer",
+          "minute": 43
+        },
+        {
+          "name": "Scholes",
+          "minute": 89
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 2",
@@ -542,10 +1396,25 @@
         "ft": [
           1,
           0
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group G",
-      "ground": "Stade de la Mosson, Montpellier"
+      "ground": "Stade de la Mosson, Montpellier",
+      "goals1": [
+        {
+          "name": "Preciado",
+          "minute": 83
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 2",
@@ -556,10 +1425,34 @@
         "ft": [
           2,
           1
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group G",
-      "ground": "Stade de Toulouse, Toulouse"
+      "ground": "Stade de Toulouse, Toulouse",
+      "goals1": [
+        {
+          "name": "A.Ille",
+          "minute": 47
+        },
+        {
+          "name": "Petrescu",
+          "minute": 90
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Owen",
+          "minute": 85
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 3",
@@ -570,10 +1463,31 @@
         "ft": [
           1,
           1
+        ],
+        "ht": [
+          0,
+          1
         ]
       },
       "group": "Group G",
-      "ground": "Stade de France, Saint-Denis"
+      "ground": "Stade de France, Saint-Denis",
+      "goals1": [
+        {
+          "name": "Moldovan",
+          "minute": 72
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Souayah",
+          "minute": 10,
+          "penalty": true
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 3",
@@ -584,10 +1498,29 @@
         "ft": [
           0,
           2
+        ],
+        "ht": [
+          0,
+          2
         ]
       },
       "group": "Group G",
-      "ground": "Stade Félix Bollaert, Lens"
+      "ground": "Stade Félix Bollaert, Lens",
+      "goals1": [],
+      "goals2": [
+        {
+          "name": "Anderton",
+          "minute": 20
+        },
+        {
+          "name": "Beckham",
+          "minute": 30
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 1",
@@ -598,10 +1531,38 @@
         "ft": [
           1,
           3
+        ],
+        "ht": [
+          1,
+          1
         ]
       },
       "group": "Group H",
-      "ground": "Stade Félix Bollaert, Lens"
+      "ground": "Stade Félix Bollaert, Lens",
+      "goals1": [
+        {
+          "name": "Earle",
+          "minute": 45
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Stanić",
+          "minute": 27
+        },
+        {
+          "name": "Prosinečki",
+          "minute": 53
+        },
+        {
+          "name": "Šuker",
+          "minute": 69
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 1",
@@ -612,10 +1573,25 @@
         "ft": [
           1,
           0
+        ],
+        "ht": [
+          1,
+          0
         ]
       },
       "group": "Group H",
-      "ground": "Stade de Toulouse, Toulouse"
+      "ground": "Stade de Toulouse, Toulouse",
+      "goals1": [
+        {
+          "name": "Batistuta",
+          "minute": 28
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 2",
@@ -626,10 +1602,25 @@
         "ft": [
           0,
           1
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group H",
-      "ground": "Stade de la Beaujoire, Nantes"
+      "ground": "Stade de la Beaujoire, Nantes",
+      "goals1": [],
+      "goals2": [
+        {
+          "name": "Šuker",
+          "minute": 77
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 2",
@@ -640,10 +1631,42 @@
         "ft": [
           5,
           0
+        ],
+        "ht": [
+          1,
+          0
         ]
       },
       "group": "Group H",
-      "ground": "Parc des Princes, Paris"
+      "ground": "Parc des Princes, Paris",
+      "goals1": [
+        {
+          "name": "Ortega",
+          "minute": 32
+        },
+        {
+          "name": "Ortega",
+          "minute": 55
+        },
+        {
+          "name": "Batistuta",
+          "minute": 72
+        },
+        {
+          "name": "Batistuta",
+          "minute": 79
+        },
+        {
+          "name": "Batistuta",
+          "minute": 83,
+          "penalty": true
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 3",
@@ -654,10 +1677,34 @@
         "ft": [
           1,
           2
+        ],
+        "ht": [
+          0,
+          1
         ]
       },
       "group": "Group H",
-      "ground": "Stade Gerland, Lyon"
+      "ground": "Stade Gerland, Lyon",
+      "goals1": [
+        {
+          "name": "Nakayama",
+          "minute": 75
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Whitmore",
+          "minute": 39
+        },
+        {
+          "name": "Whitmore",
+          "minute": 54
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 3",
@@ -668,10 +1715,25 @@
         "ft": [
           1,
           0
+        ],
+        "ht": [
+          1,
+          0
         ]
       },
       "group": "Group H",
-      "ground": "Parc Lescure, Bordeaux"
+      "ground": "Parc Lescure, Bordeaux",
+      "goals1": [
+        {
+          "name": "Pineda",
+          "minute": 34
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Round of 16",
@@ -682,9 +1744,42 @@
         "ft": [
           4,
           1
+        ],
+        "ht": [
+          3,
+          0
         ]
       },
-      "ground": "Parc des Princes, Paris"
+      "ground": "Parc des Princes, Paris",
+      "goals1": [
+        {
+          "name": "C.Sampaio",
+          "minute": 11
+        },
+        {
+          "name": "C.Sampaio",
+          "minute": 27
+        },
+        {
+          "name": "Ronaldo",
+          "minute": 45,
+          "penalty": true
+        },
+        {
+          "name": "Ronaldo",
+          "minute": 69
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Salas",
+          "minute": 68
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Round of 16",
@@ -695,9 +1790,24 @@
         "ft": [
           1,
           0
+        ],
+        "ht": [
+          1,
+          0
         ]
       },
-      "ground": "Stade Vélodrome, Marseille"
+      "ground": "Stade Vélodrome, Marseille",
+      "goals1": [
+        {
+          "name": "Vieri",
+          "minute": 18
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Round of 16",
@@ -708,9 +1818,41 @@
         "ft": [
           1,
           4
+        ],
+        "ht": [
+          0,
+          2
         ]
       },
-      "ground": "Stade de France, Saint-Denis"
+      "ground": "Stade de France, Saint-Denis",
+      "goals1": [
+        {
+          "name": "Babangida",
+          "minute": 78
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Møller",
+          "minute": 3
+        },
+        {
+          "name": "B.Laudrup",
+          "minute": 12
+        },
+        {
+          "name": "Sand",
+          "minute": 60
+        },
+        {
+          "name": "Helveg",
+          "minute": 76
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Round of 16",
@@ -725,9 +1867,24 @@
         "ft": [
           0,
           0
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
-      "ground": "Stade Félix Bollaert, Lens"
+      "ground": "Stade Félix Bollaert, Lens",
+      "goals1": [
+        {
+          "name": "Blanc",
+          "minute": 113
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Round of 16",
@@ -738,9 +1895,33 @@
         "ft": [
           2,
           1
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
-      "ground": "Stade de la Mosson, Montpellier"
+      "ground": "Stade de la Mosson, Montpellier",
+      "goals1": [
+        {
+          "name": "Klinsmann",
+          "minute": 75
+        },
+        {
+          "name": "Bierhoff",
+          "minute": 86
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Hernández",
+          "minute": 47
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Round of 16",
@@ -751,9 +1932,33 @@
         "ft": [
           2,
           1
+        ],
+        "ht": [
+          1,
+          0
         ]
       },
-      "ground": "Stade de Toulouse, Toulouse"
+      "ground": "Stade de Toulouse, Toulouse",
+      "goals1": [
+        {
+          "name": "Bergkamp",
+          "minute": 38
+        },
+        {
+          "name": "Davids",
+          "minute": 90
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Komljenović",
+          "minute": 48
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Round of 16",
@@ -772,9 +1977,39 @@
         "ft": [
           2,
           2
+        ],
+        "ht": [
+          2,
+          2
         ]
       },
-      "ground": "Stade Geoffroy-Guichard, Saint-Étienne"
+      "ground": "Stade Geoffroy-Guichard, Saint-Étienne",
+      "goals1": [
+        {
+          "name": "Batistuta",
+          "minute": 5,
+          "penalty": true
+        },
+        {
+          "name": "Zanetti",
+          "minute": 45
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Shearer",
+          "minute": 9,
+          "penalty": true
+        },
+        {
+          "name": "Owen",
+          "minute": 16
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Round of 16",
@@ -785,9 +2020,25 @@
         "ft": [
           0,
           1
+        ],
+        "ht": [
+          0,
+          1
         ]
       },
-      "ground": "Parc Lescure, Bordeaux"
+      "ground": "Parc Lescure, Bordeaux",
+      "goals1": [],
+      "goals2": [
+        {
+          "name": "Šuker",
+          "minute": 45,
+          "penalty": true
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Quarter-finals",
@@ -806,9 +2057,17 @@
         "ft": [
           0,
           0
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
-      "ground": "Stade de France, Saint-Denis"
+      "ground": "Stade de France, Saint-Denis",
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Quarter-finals",
@@ -819,9 +2078,41 @@
         "ft": [
           3,
           2
+        ],
+        "ht": [
+          2,
+          1
         ]
       },
-      "ground": "Stade de la Beaujoire, Nantes"
+      "ground": "Stade de la Beaujoire, Nantes",
+      "goals1": [
+        {
+          "name": "Bebeto",
+          "minute": 11
+        },
+        {
+          "name": "Rivaldo",
+          "minute": 26
+        },
+        {
+          "name": "Rivaldo",
+          "minute": 60
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Jørgensen",
+          "minute": 2
+        },
+        {
+          "name": "B.Laudrup",
+          "minute": 50
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Quarter-finals",
@@ -832,9 +2123,32 @@
         "ft": [
           0,
           3
+        ],
+        "ht": [
+          0,
+          1
         ]
       },
-      "ground": "Stade Gerland, Lyon"
+      "ground": "Stade Gerland, Lyon",
+      "goals1": [],
+      "goals2": [
+        {
+          "name": "Jarni",
+          "minute": 45
+        },
+        {
+          "name": "Vlaović",
+          "minute": 80
+        },
+        {
+          "name": "Šuker",
+          "minute": 85
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Quarter-finals",
@@ -845,9 +2159,33 @@
         "ft": [
           2,
           1
+        ],
+        "ht": [
+          1,
+          0
         ]
       },
-      "ground": "Stade Vélodrome, Marseille"
+      "ground": "Stade Vélodrome, Marseille",
+      "goals1": [
+        {
+          "name": "Kluivert",
+          "minute": 12
+        },
+        {
+          "name": "Bergkamp",
+          "minute": 90
+        }
+      ],
+      "goals2": [
+        {
+          "name": "López",
+          "minute": 18
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Semi-finals",
@@ -866,9 +2204,29 @@
         "ft": [
           1,
           1
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
-      "ground": "Stade Vélodrome, Marseille"
+      "ground": "Stade Vélodrome, Marseille",
+      "goals1": [
+        {
+          "name": "Ronaldo",
+          "minute": 46
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Kluivert",
+          "minute": 85
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Semi-finals",
@@ -879,9 +2237,33 @@
         "ft": [
           2,
           1
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
-      "ground": "Stade de France, Saint-Denis"
+      "ground": "Stade de France, Saint-Denis",
+      "goals1": [
+        {
+          "name": "Thuram",
+          "minute": 47
+        },
+        {
+          "name": "Thuram",
+          "minute": 69
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Šuker",
+          "minute": 46
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Third place match",
@@ -892,9 +2274,33 @@
         "ft": [
           1,
           2
+        ],
+        "ht": [
+          1,
+          2
         ]
       },
-      "ground": "Parc des Princes, Paris"
+      "ground": "Parc des Princes, Paris",
+      "goals1": [
+        {
+          "name": "Zenden",
+          "minute": 21
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Prosinečki",
+          "minute": 13
+        },
+        {
+          "name": "Šuker",
+          "minute": 35
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Final",
@@ -905,9 +2311,32 @@
         "ft": [
           0,
           3
+        ],
+        "ht": [
+          0,
+          2
         ]
       },
-      "ground": "Stade de France, Saint-Denis"
+      "ground": "Stade de France, Saint-Denis",
+      "goals1": [],
+      "goals2": [
+        {
+          "name": "Zidane",
+          "minute": 27
+        },
+        {
+          "name": "Zidane",
+          "minute": 45
+        },
+        {
+          "name": "Petit",
+          "minute": 90
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     }
   ]
 }

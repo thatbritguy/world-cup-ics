@@ -10,10 +10,18 @@
         "ft": [
           0,
           0
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group 1",
-      "ground": "Balaídos, Vigo"
+      "ground": "Balaídos, Vigo",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 1",
@@ -24,10 +32,18 @@
         "ft": [
           0,
           0
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group 1",
-      "ground": "Estadio de Riazor, A Coruña"
+      "ground": "Estadio de Riazor, A Coruña",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 2",
@@ -38,10 +54,31 @@
         "ft": [
           1,
           1
+        ],
+        "ht": [
+          1,
+          0
         ]
       },
       "group": "Group 1",
-      "ground": "Balaídos, Vigo"
+      "ground": "Balaídos, Vigo",
+      "goals1": [
+        {
+          "name": "Conti",
+          "minute": 18
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Collovati",
+          "minute": 84,
+          "owngoal": true
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 2",
@@ -52,10 +89,18 @@
         "ft": [
           0,
           0
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group 1",
-      "ground": "Estadio de Riazor, A Coruña"
+      "ground": "Estadio de Riazor, A Coruña",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 3",
@@ -66,10 +111,46 @@
         "ft": [
           5,
           1
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group 1",
-      "ground": "Estadio de Riazor, A Coruña"
+      "ground": "Estadio de Riazor, A Coruña",
+      "goals1": [
+        {
+          "name": "Smolarek",
+          "minute": 55
+        },
+        {
+          "name": "Lato",
+          "minute": 58
+        },
+        {
+          "name": "Boniek",
+          "minute": 61
+        },
+        {
+          "name": "Buncol",
+          "minute": 69
+        },
+        {
+          "name": "Ciołek",
+          "minute": 76
+        }
+      ],
+      "goals2": [
+        {
+          "name": "La Rosa",
+          "minute": 83
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 3",
@@ -80,10 +161,30 @@
         "ft": [
           1,
           1
+        ],
+        "ht": [
+          1,
+          0
         ]
       },
       "group": "Group 1",
-      "ground": "Balaídos, Vigo"
+      "ground": "Balaídos, Vigo",
+      "goals1": [
+        {
+          "name": "Graziani",
+          "minute": 60
+        }
+      ],
+      "goals2": [
+        {
+          "name": "M'Bida",
+          "minute": 61
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 1",
@@ -94,10 +195,34 @@
         "ft": [
           1,
           2
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group 2",
-      "ground": "El Molinón, Gijón"
+      "ground": "El Molinón, Gijón",
+      "goals1": [
+        {
+          "name": "Rummenige",
+          "minute": 67
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Madjer",
+          "minute": 52
+        },
+        {
+          "name": "Belloumi",
+          "minute": 88
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 1",
@@ -108,10 +233,25 @@
         "ft": [
           0,
           1
+        ],
+        "ht": [
+          0,
+          1
         ]
       },
       "group": "Group 2",
-      "ground": "Estadio Carlos Tartiere, Oviedo"
+      "ground": "Estadio Carlos Tartiere, Oviedo",
+      "goals1": [],
+      "goals2": [
+        {
+          "name": "Schachner",
+          "minute": 21
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 2",
@@ -122,10 +262,42 @@
         "ft": [
           4,
           1
+        ],
+        "ht": [
+          1,
+          0
         ]
       },
       "group": "Group 2",
-      "ground": "El Molinón, Gijón"
+      "ground": "El Molinón, Gijón",
+      "goals1": [
+        {
+          "name": "Rummenige",
+          "minute": 9
+        },
+        {
+          "name": "Rummenige",
+          "minute": 57
+        },
+        {
+          "name": "Rummenige",
+          "minute": 66
+        },
+        {
+          "name": "Reinders",
+          "minute": 81
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Moscoso",
+          "minute": 90
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 2",
@@ -136,10 +308,29 @@
         "ft": [
           0,
           2
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group 2",
-      "ground": "Estadio Carlos Tartiere, Oviedo"
+      "ground": "Estadio Carlos Tartiere, Oviedo",
+      "goals1": [],
+      "goals2": [
+        {
+          "name": "Schachner",
+          "minute": 55
+        },
+        {
+          "name": "Krankl",
+          "minute": 67
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 3",
@@ -150,10 +341,43 @@
         "ft": [
           3,
           2
+        ],
+        "ht": [
+          3,
+          0
         ]
       },
       "group": "Group 2",
-      "ground": "Estadio Carlos Tartiere, Oviedo"
+      "ground": "Estadio Carlos Tartiere, Oviedo",
+      "goals1": [
+        {
+          "name": "Assad",
+          "minute": 7
+        },
+        {
+          "name": "Assad",
+          "minute": 31
+        },
+        {
+          "name": "Benssoula",
+          "minute": 35
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Neira",
+          "minute": 59,
+          "penalty": true
+        },
+        {
+          "name": "Letelier",
+          "minute": 73
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 3",
@@ -164,10 +388,25 @@
         "ft": [
           1,
           0
+        ],
+        "ht": [
+          1,
+          0
         ]
       },
       "group": "Group 2",
-      "ground": "El Molinón, Gijón"
+      "ground": "El Molinón, Gijón",
+      "goals1": [
+        {
+          "name": "Hrubesch",
+          "minute": 10
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 1",
@@ -178,10 +417,25 @@
         "ft": [
           0,
           1
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group 3",
-      "ground": "Camp Nou, Barcelona"
+      "ground": "Camp Nou, Barcelona",
+      "goals1": [],
+      "goals2": [
+        {
+          "name": "van den Bergh",
+          "minute": 62
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 1",
@@ -192,10 +446,66 @@
         "ft": [
           10,
           1
+        ],
+        "ht": [
+          3,
+          0
         ]
       },
       "group": "Group 3",
-      "ground": "Nuevo Estadio, Elche"
+      "ground": "Nuevo Estadio, Elche",
+      "goals1": [
+        {
+          "name": "Nyilasi",
+          "minute": 4
+        },
+        {
+          "name": "Pölöskei",
+          "minute": 11
+        },
+        {
+          "name": "Fazekas",
+          "minute": 23
+        },
+        {
+          "name": "Tóth",
+          "minute": 50
+        },
+        {
+          "name": "Fazekas",
+          "minute": 54
+        },
+        {
+          "name": "Kiss",
+          "minute": 70
+        },
+        {
+          "name": "Szentes",
+          "minute": 71
+        },
+        {
+          "name": "Kiss",
+          "minute": 73
+        },
+        {
+          "name": "Kiss",
+          "minute": 78
+        },
+        {
+          "name": "Nyilasi",
+          "minute": 83
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Ramirez",
+          "minute": 64
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 2",
@@ -206,10 +516,42 @@
         "ft": [
           4,
           1
+        ],
+        "ht": [
+          2,
+          0
         ]
       },
       "group": "Group 3",
-      "ground": "Estadio José Rico Pérez, Alicante"
+      "ground": "Estadio José Rico Pérez, Alicante",
+      "goals1": [
+        {
+          "name": "Bertoni",
+          "minute": 26
+        },
+        {
+          "name": "Maradona",
+          "minute": 28
+        },
+        {
+          "name": "Maradona",
+          "minute": 57
+        },
+        {
+          "name": "Ardiles",
+          "minute": 60
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Pölöskei",
+          "minute": 76
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 2",
@@ -220,10 +562,25 @@
         "ft": [
           1,
           0
+        ],
+        "ht": [
+          1,
+          0
         ]
       },
       "group": "Group 3",
-      "ground": "Nuevo Estadio, Elche"
+      "ground": "Nuevo Estadio, Elche",
+      "goals1": [
+        {
+          "name": "Coeck",
+          "minute": 19
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 3",
@@ -234,10 +591,30 @@
         "ft": [
           1,
           1
+        ],
+        "ht": [
+          0,
+          1
         ]
       },
       "group": "Group 3",
-      "ground": "Nuevo Estadio, Elche"
+      "ground": "Nuevo Estadio, Elche",
+      "goals1": [
+        {
+          "name": "Czerniatynski",
+          "minute": 76
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Varga",
+          "minute": 27
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 3",
@@ -248,10 +625,30 @@
         "ft": [
           2,
           0
+        ],
+        "ht": [
+          1,
+          0
         ]
       },
       "group": "Group 3",
-      "ground": "Estadio José Rico Pérez, Alicante"
+      "ground": "Estadio José Rico Pérez, Alicante",
+      "goals1": [
+        {
+          "name": "Passarella",
+          "minute": 22,
+          "penalty": true
+        },
+        {
+          "name": "Bertoni",
+          "minute": 52
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 1",
@@ -262,10 +659,38 @@
         "ft": [
           3,
           1
+        ],
+        "ht": [
+          1,
+          1
         ]
       },
       "group": "Group 4",
-      "ground": "Estadio San Mamés, Bilbao"
+      "ground": "Estadio San Mamés, Bilbao",
+      "goals1": [
+        {
+          "name": "Robson",
+          "minute": 1
+        },
+        {
+          "name": "Robson",
+          "minute": 67
+        },
+        {
+          "name": "Mariner",
+          "minute": 83
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Soler",
+          "minute": 26
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 1",
@@ -276,10 +701,31 @@
         "ft": [
           1,
           1
+        ],
+        "ht": [
+          1,
+          0
         ]
       },
       "group": "Group 4",
-      "ground": "Estadio José Zorrilla, Valladolid"
+      "ground": "Estadio José Zorrilla, Valladolid",
+      "goals1": [
+        {
+          "name": "Panenka",
+          "minute": 21,
+          "penalty": true
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Al Dakheel",
+          "minute": 27
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 2",
@@ -290,10 +736,30 @@
         "ft": [
           2,
           0
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group 4",
-      "ground": "Estadio San Mamés, Bilbao"
+      "ground": "Estadio San Mamés, Bilbao",
+      "goals1": [
+        {
+          "name": "Francis",
+          "minute": 62
+        },
+        {
+          "name": "Barmoš",
+          "minute": 66,
+          "owngoal": true
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 2",
@@ -304,10 +770,42 @@
         "ft": [
           4,
           1
+        ],
+        "ht": [
+          2,
+          0
         ]
       },
       "group": "Group 4",
-      "ground": "Estadio José Zorrilla, Valladolid"
+      "ground": "Estadio José Zorrilla, Valladolid",
+      "goals1": [
+        {
+          "name": "Genghini",
+          "minute": 31
+        },
+        {
+          "name": "Platini",
+          "minute": 43
+        },
+        {
+          "name": "Six",
+          "minute": 48
+        },
+        {
+          "name": "Bossis",
+          "minute": 89
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Al Buloushi",
+          "minute": 75
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 3",
@@ -318,10 +816,31 @@
         "ft": [
           1,
           1
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group 4",
-      "ground": "Estadio José Zorrilla, Valladolid"
+      "ground": "Estadio José Zorrilla, Valladolid",
+      "goals1": [
+        {
+          "name": "Six",
+          "minute": 66
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Panenka",
+          "minute": 84,
+          "penalty": true
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 3",
@@ -332,10 +851,25 @@
         "ft": [
           1,
           0
+        ],
+        "ht": [
+          1,
+          0
         ]
       },
       "group": "Group 4",
-      "ground": "Estadio San Mamés, Bilbao"
+      "ground": "Estadio San Mamés, Bilbao",
+      "goals1": [
+        {
+          "name": "Francis",
+          "minute": 27
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 1",
@@ -346,10 +880,31 @@
         "ft": [
           1,
           1
+        ],
+        "ht": [
+          0,
+          1
         ]
       },
       "group": "Group 5",
-      "ground": "Estadio Luis Casanova, Valencia"
+      "ground": "Estadio Luis Casanova, Valencia",
+      "goals1": [
+        {
+          "name": "López Ufarte",
+          "minute": 66,
+          "penalty": true
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Zelaya",
+          "minute": 7
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 1",
@@ -360,10 +915,18 @@
         "ft": [
           0,
           0
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group 5",
-      "ground": "La Romareda, Zaragoza"
+      "ground": "La Romareda, Zaragoza",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 2",
@@ -374,10 +937,35 @@
         "ft": [
           2,
           1
+        ],
+        "ht": [
+          1,
+          1
         ]
       },
       "group": "Group 5",
-      "ground": "Estadio Luis Casanova, Valencia"
+      "ground": "Estadio Luis Casanova, Valencia",
+      "goals1": [
+        {
+          "name": "Juanito",
+          "minute": 14,
+          "penalty": true
+        },
+        {
+          "name": "Saura",
+          "minute": 66
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Gudelj",
+          "minute": 10
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 2",
@@ -388,10 +976,30 @@
         "ft": [
           1,
           1
+        ],
+        "ht": [
+          0,
+          1
         ]
       },
       "group": "Group 5",
-      "ground": "La Romareda, Zaragoza"
+      "ground": "La Romareda, Zaragoza",
+      "goals1": [
+        {
+          "name": "Laing",
+          "minute": 60
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Armstrong",
+          "minute": 9
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 3",
@@ -402,10 +1010,26 @@
         "ft": [
           0,
           1
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group 5",
-      "ground": "La Romareda, Zaragoza"
+      "ground": "La Romareda, Zaragoza",
+      "goals1": [],
+      "goals2": [
+        {
+          "name": "Petrović",
+          "minute": 88,
+          "penalty": true
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 3",
@@ -416,10 +1040,25 @@
         "ft": [
           0,
           1
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group 5",
-      "ground": "Estadio Luis Casanova, Valencia"
+      "ground": "Estadio Luis Casanova, Valencia",
+      "goals1": [],
+      "goals2": [
+        {
+          "name": "Armstrong",
+          "minute": 48
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 1",
@@ -430,10 +1069,34 @@
         "ft": [
           2,
           1
+        ],
+        "ht": [
+          0,
+          1
         ]
       },
       "group": "Group 6",
-      "ground": "Estadio Ramón Sánchez Pizjuán, Seville"
+      "ground": "Estadio Ramón Sánchez Pizjuán, Seville",
+      "goals1": [
+        {
+          "name": "Socrates",
+          "minute": 75
+        },
+        {
+          "name": "Eder",
+          "minute": 88
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Bal",
+          "minute": 34
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 1",
@@ -444,10 +1107,50 @@
         "ft": [
           5,
           2
+        ],
+        "ht": [
+          3,
+          0
         ]
       },
       "group": "Group 6",
-      "ground": "Estadio La Rosaleda, Málaga"
+      "ground": "Estadio La Rosaleda, Málaga",
+      "goals1": [
+        {
+          "name": "Dalglish",
+          "minute": 18
+        },
+        {
+          "name": "Wark",
+          "minute": 29
+        },
+        {
+          "name": "Wark",
+          "minute": 32
+        },
+        {
+          "name": "Robertson",
+          "minute": 73
+        },
+        {
+          "name": "Archibald",
+          "minute": 79
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Sumner",
+          "minute": 54
+        },
+        {
+          "name": "Woodin",
+          "minute": 64
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 2",
@@ -458,10 +1161,42 @@
         "ft": [
           4,
           1
+        ],
+        "ht": [
+          1,
+          1
         ]
       },
       "group": "Group 6",
-      "ground": "Estadio Benito Villamarín, Seville"
+      "ground": "Estadio Benito Villamarín, Seville",
+      "goals1": [
+        {
+          "name": "Zico",
+          "minute": 33
+        },
+        {
+          "name": "Oscar",
+          "minute": 46
+        },
+        {
+          "name": "Eder",
+          "minute": 63
+        },
+        {
+          "name": "Falção",
+          "minute": 87
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Narey",
+          "minute": 18
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 2",
@@ -472,10 +1207,33 @@
         "ft": [
           3,
           0
+        ],
+        "ht": [
+          1,
+          0
         ]
       },
       "group": "Group 6",
-      "ground": "Estadio La Rosaleda, Málaga"
+      "ground": "Estadio La Rosaleda, Málaga",
+      "goals1": [
+        {
+          "name": "Gavrilov",
+          "minute": 24
+        },
+        {
+          "name": "Blokhin",
+          "minute": 48
+        },
+        {
+          "name": "Baltacha",
+          "minute": 68
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 3",
@@ -486,10 +1244,38 @@
         "ft": [
           2,
           2
+        ],
+        "ht": [
+          0,
+          1
         ]
       },
       "group": "Group 6",
-      "ground": "Estadio La Rosaleda, Málaga"
+      "ground": "Estadio La Rosaleda, Málaga",
+      "goals1": [
+        {
+          "name": "Chivadze",
+          "minute": 59
+        },
+        {
+          "name": "Shengelia",
+          "minute": 84
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Jordan",
+          "minute": 15
+        },
+        {
+          "name": "Souness",
+          "minute": 86
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 3",
@@ -500,10 +1286,37 @@
         "ft": [
           4,
           0
+        ],
+        "ht": [
+          2,
+          0
         ]
       },
       "group": "Group 6",
-      "ground": "Estadio Benito Villamarín, Seville"
+      "ground": "Estadio Benito Villamarín, Seville",
+      "goals1": [
+        {
+          "name": "Zico",
+          "minute": 28
+        },
+        {
+          "name": "Zico",
+          "minute": 31
+        },
+        {
+          "name": "Falção",
+          "minute": 64
+        },
+        {
+          "name": "Serginho",
+          "minute": 70
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 4",
@@ -514,10 +1327,33 @@
         "ft": [
           3,
           0
+        ],
+        "ht": [
+          2,
+          0
         ]
       },
       "group": "Group A",
-      "ground": "Camp Nou, Barcelona"
+      "ground": "Camp Nou, Barcelona",
+      "goals1": [
+        {
+          "name": "Boniek",
+          "minute": 3
+        },
+        {
+          "name": "Boniek",
+          "minute": 25
+        },
+        {
+          "name": "Boniek",
+          "minute": 54
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 5",
@@ -528,10 +1364,25 @@
         "ft": [
           0,
           1
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group A",
-      "ground": "Camp Nou, Barcelona"
+      "ground": "Camp Nou, Barcelona",
+      "goals1": [],
+      "goals2": [
+        {
+          "name": "Oganesian",
+          "minute": 46
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 6",
@@ -542,10 +1393,18 @@
         "ft": [
           0,
           0
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group A",
-      "ground": "Camp Nou, Barcelona"
+      "ground": "Camp Nou, Barcelona",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 4",
@@ -556,10 +1415,18 @@
         "ft": [
           0,
           0
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group B",
-      "ground": "Estadio Santiago Bernabéu, Madrid"
+      "ground": "Estadio Santiago Bernabéu, Madrid",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 5",
@@ -570,10 +1437,34 @@
         "ft": [
           2,
           1
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group B",
-      "ground": "Estadio Santiago Bernabéu, Madrid"
+      "ground": "Estadio Santiago Bernabéu, Madrid",
+      "goals1": [
+        {
+          "name": "Littbarski",
+          "minute": 60
+        },
+        {
+          "name": "Fischer",
+          "minute": 75
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Zamora",
+          "minute": 82
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 6",
@@ -584,10 +1475,18 @@
         "ft": [
           0,
           0
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group B",
-      "ground": "Estadio Santiago Bernabéu, Madrid"
+      "ground": "Estadio Santiago Bernabéu, Madrid",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 4",
@@ -598,10 +1497,34 @@
         "ft": [
           2,
           1
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group C",
-      "ground": "Estadio Sarriá, Barcelona"
+      "ground": "Estadio Sarriá, Barcelona",
+      "goals1": [
+        {
+          "name": "Tardelli",
+          "minute": 55
+        },
+        {
+          "name": "Cabrini",
+          "minute": 67
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Passarella",
+          "minute": 83
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 5",
@@ -612,10 +1535,38 @@
         "ft": [
           1,
           3
+        ],
+        "ht": [
+          0,
+          1
         ]
       },
       "group": "Group C",
-      "ground": "Estadio Sarriá, Barcelona"
+      "ground": "Estadio Sarriá, Barcelona",
+      "goals1": [
+        {
+          "name": "Diaz",
+          "minute": 89
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Zico",
+          "minute": 11
+        },
+        {
+          "name": "Serginho",
+          "minute": 66
+        },
+        {
+          "name": "Junior",
+          "minute": 75
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 6",
@@ -626,10 +1577,42 @@
         "ft": [
           3,
           2
+        ],
+        "ht": [
+          2,
+          1
         ]
       },
       "group": "Group C",
-      "ground": "Estadio Sarriá, Barcelona"
+      "ground": "Estadio Sarriá, Barcelona",
+      "goals1": [
+        {
+          "name": "Rossi",
+          "minute": 8
+        },
+        {
+          "name": "Rossi",
+          "minute": 25
+        },
+        {
+          "name": "Rossi",
+          "minute": 74
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Socrates",
+          "minute": 12
+        },
+        {
+          "name": "Falção",
+          "minute": 68
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 4",
@@ -640,10 +1623,25 @@
         "ft": [
           0,
           1
+        ],
+        "ht": [
+          0,
+          1
         ]
       },
       "group": "Group D",
-      "ground": "Estadio Vicente Calderón, Madrid"
+      "ground": "Estadio Vicente Calderón, Madrid",
+      "goals1": [],
+      "goals2": [
+        {
+          "name": "Genghini",
+          "minute": 39
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 5",
@@ -654,10 +1652,38 @@
         "ft": [
           2,
           2
+        ],
+        "ht": [
+          0,
+          1
         ]
       },
       "group": "Group D",
-      "ground": "Estadio Vicente Calderón, Madrid"
+      "ground": "Estadio Vicente Calderón, Madrid",
+      "goals1": [
+        {
+          "name": "Pezzey",
+          "minute": 50
+        },
+        {
+          "name": "Hintermayer",
+          "minute": 68
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Hamilton",
+          "minute": 27
+        },
+        {
+          "name": "Hamilton",
+          "minute": 75
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 6",
@@ -668,10 +1694,42 @@
         "ft": [
           1,
           4
+        ],
+        "ht": [
+          0,
+          1
         ]
       },
       "group": "Group D",
-      "ground": "Estadio Vicente Calderón, Madrid"
+      "ground": "Estadio Vicente Calderón, Madrid",
+      "goals1": [
+        {
+          "name": "Armstrong",
+          "minute": 75
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Giresse",
+          "minute": 33
+        },
+        {
+          "name": "Rocheteau",
+          "minute": 46
+        },
+        {
+          "name": "Rocheteau",
+          "minute": 68
+        },
+        {
+          "name": "Giresse",
+          "minute": 80
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Semi-finals",
@@ -682,9 +1740,28 @@
         "ft": [
           0,
           2
+        ],
+        "ht": [
+          0,
+          1
         ]
       },
-      "ground": "Camp Nou, Barcelona"
+      "ground": "Camp Nou, Barcelona",
+      "goals1": [],
+      "goals2": [
+        {
+          "name": "Rossi",
+          "minute": 22
+        },
+        {
+          "name": "Rossi",
+          "minute": 73
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Semi-finals",
@@ -703,9 +1780,46 @@
         "ft": [
           1,
           1
+        ],
+        "ht": [
+          1,
+          1
         ]
       },
-      "ground": "Estadio Ramón Sánchez Pizjuán, Seville"
+      "ground": "Estadio Ramón Sánchez Pizjuán, Seville",
+      "goals1": [
+        {
+          "name": "Littbarski",
+          "minute": 17
+        },
+        {
+          "name": "Rummenige",
+          "minute": 102
+        },
+        {
+          "name": "Fischer",
+          "minute": 108
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Platini",
+          "minute": 26,
+          "penalty": true
+        },
+        {
+          "name": "Tresor",
+          "minute": 92
+        },
+        {
+          "name": "Giresse",
+          "minute": 98
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Third place match",
@@ -716,9 +1830,41 @@
         "ft": [
           3,
           2
+        ],
+        "ht": [
+          2,
+          1
         ]
       },
-      "ground": "Estadio José Rico Pérez, Alicante"
+      "ground": "Estadio José Rico Pérez, Alicante",
+      "goals1": [
+        {
+          "name": "Szarmach",
+          "minute": 41
+        },
+        {
+          "name": "Majewski",
+          "minute": 44
+        },
+        {
+          "name": "Kupcewicz",
+          "minute": 46
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Girard",
+          "minute": 13
+        },
+        {
+          "name": "Couriol",
+          "minute": 73
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Final",
@@ -729,9 +1875,37 @@
         "ft": [
           3,
           1
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
-      "ground": "Estadio Santiago Bernabéu"
+      "ground": "Estadio Santiago Bernabéu",
+      "goals1": [
+        {
+          "name": "Rossi",
+          "minute": 57
+        },
+        {
+          "name": "Tardelli",
+          "minute": 69
+        },
+        {
+          "name": "Altobelli",
+          "minute": 81
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Breitner",
+          "minute": 83
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     }
   ]
 }

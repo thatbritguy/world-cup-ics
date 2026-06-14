@@ -10,10 +10,25 @@
         "ft": [
           0,
           1
+        ],
+        "ht": [
+          0,
+          1
         ]
       },
       "group": "Group A",
-      "ground": "Seoul World Cup Stadium, Seoul"
+      "ground": "Seoul World Cup Stadium, Seoul",
+      "goals1": [],
+      "goals2": [
+        {
+          "name": "Papa Bouba Diop",
+          "minute": 30
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 1",
@@ -24,10 +39,34 @@
         "ft": [
           1,
           2
+        ],
+        "ht": [
+          0,
+          1
         ]
       },
       "group": "Group A",
-      "ground": "Munsu Cup Stadium, Ulsan"
+      "ground": "Munsu Cup Stadium, Ulsan",
+      "goals1": [
+        {
+          "name": "Darío Rodríguez",
+          "minute": 47
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Jon Dahl Tomasson",
+          "minute": 45
+        },
+        {
+          "name": "Jon Dahl Tomasson",
+          "minute": 83
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 2",
@@ -38,10 +77,20 @@
         "ft": [
           0,
           0
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group A",
-      "ground": "Asiad Main Stadium, Busan"
+      "ground": "Asiad Main Stadium, Busan",
+      "goals1": [],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 2",
@@ -52,10 +101,31 @@
         "ft": [
           1,
           1
+        ],
+        "ht": [
+          1,
+          0
         ]
       },
       "group": "Group A",
-      "ground": "Daegu World Cup Stadium, Daegu"
+      "ground": "Daegu World Cup Stadium, Daegu",
+      "goals1": [
+        {
+          "name": "Jon Dahl Tomasson",
+          "minute": 16,
+          "penalty": true
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Salif Diao",
+          "minute": 52
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 3",
@@ -66,10 +136,29 @@
         "ft": [
           2,
           0
+        ],
+        "ht": [
+          1,
+          0
         ]
       },
       "group": "Group A",
-      "ground": "Incheon Munhak Stadium, Incheon"
+      "ground": "Incheon Munhak Stadium, Incheon",
+      "goals1": [
+        {
+          "name": "Dennis Rommedahl",
+          "minute": 22
+        },
+        {
+          "name": "Jon Dahl Tomasson",
+          "minute": 67
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 3",
@@ -80,10 +169,48 @@
         "ft": [
           3,
           3
+        ],
+        "ht": [
+          3,
+          0
         ]
       },
       "group": "Group A",
-      "ground": "Suwon World Cup Stadium, Suwon"
+      "ground": "Suwon World Cup Stadium, Suwon",
+      "goals1": [
+        {
+          "name": "Khalilou Fadiga",
+          "minute": 20,
+          "penalty": true
+        },
+        {
+          "name": "Papa Bouba Diop",
+          "minute": 26
+        },
+        {
+          "name": "Papa Bouba Diop",
+          "minute": 38
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Richard Morales",
+          "minute": 46
+        },
+        {
+          "name": "Diego Forlán",
+          "minute": 69
+        },
+        {
+          "name": "Álvaro Recoba",
+          "minute": 88,
+          "penalty": true
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 1",
@@ -94,10 +221,38 @@
         "ft": [
           2,
           2
+        ],
+        "ht": [
+          1,
+          0
         ]
       },
       "group": "Group B",
-      "ground": "Asiad Main Stadium, Busan"
+      "ground": "Asiad Main Stadium, Busan",
+      "goals1": [
+        {
+          "name": "Roque Santa Cruz",
+          "minute": 39
+        },
+        {
+          "name": "Francisco Arce",
+          "minute": 55
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Teboho Mokoena",
+          "minute": 63
+        },
+        {
+          "name": "Quinton Fortune",
+          "minute": 90
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 1",
@@ -108,10 +263,39 @@
         "ft": [
           3,
           1
+        ],
+        "ht": [
+          1,
+          0
         ]
       },
       "group": "Group B",
-      "ground": "Gwangju World Cup Stadium, Gwangju"
+      "ground": "Gwangju World Cup Stadium, Gwangju",
+      "goals1": [
+        {
+          "name": "Raúl",
+          "minute": 44
+        },
+        {
+          "name": "Valerón",
+          "minute": 74
+        },
+        {
+          "name": "Hierro",
+          "minute": 87,
+          "penalty": true
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Sebastjan Cimirotič",
+          "minute": 82
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 2",
@@ -122,10 +306,40 @@
         "ft": [
           3,
           1
+        ],
+        "ht": [
+          0,
+          1
         ]
       },
       "group": "Group B",
-      "ground": "Jeonju World Cup Stadium, Jeonju"
+      "ground": "Jeonju World Cup Stadium, Jeonju",
+      "goals1": [
+        {
+          "name": "Morientes",
+          "minute": 53
+        },
+        {
+          "name": "Morientes",
+          "minute": 69
+        },
+        {
+          "name": "Hierro",
+          "minute": 83,
+          "penalty": true
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Puyol",
+          "minute": 10,
+          "owngoal": true
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 2",
@@ -136,10 +350,25 @@
         "ft": [
           1,
           0
+        ],
+        "ht": [
+          1,
+          0
         ]
       },
       "group": "Group B",
-      "ground": "Daegu World Cup Stadium, Daegu"
+      "ground": "Daegu World Cup Stadium, Daegu",
+      "goals1": [
+        {
+          "name": "Siyabonga Nomvete",
+          "minute": 4
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 3",
@@ -150,10 +379,42 @@
         "ft": [
           2,
           3
+        ],
+        "ht": [
+          1,
+          2
         ]
       },
       "group": "Group B",
-      "ground": "Daejeon World Cup Stadium, Daejeon"
+      "ground": "Daejeon World Cup Stadium, Daejeon",
+      "goals1": [
+        {
+          "name": "Benedict McCarthy",
+          "minute": 31
+        },
+        {
+          "name": "Lucas Radebe",
+          "minute": 53
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Raúl",
+          "minute": 4
+        },
+        {
+          "name": "Raúl",
+          "minute": 56
+        },
+        {
+          "name": "Mendieta",
+          "minute": 45
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 3",
@@ -164,10 +425,38 @@
         "ft": [
           1,
           3
+        ],
+        "ht": [
+          1,
+          0
         ]
       },
       "group": "Group B",
-      "ground": "Jeju World Cup Stadium, Jeju"
+      "ground": "Jeju World Cup Stadium, Jeju",
+      "goals1": [
+        {
+          "name": "Milenko Ačimovič",
+          "minute": 45
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Nelson Cuevas",
+          "minute": 65
+        },
+        {
+          "name": "Nelson Cuevas",
+          "minute": 84
+        },
+        {
+          "name": "Jorge Campos",
+          "minute": 73
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 1",
@@ -178,10 +467,35 @@
         "ft": [
           2,
           1
+        ],
+        "ht": [
+          0,
+          1
         ]
       },
       "group": "Group C",
-      "ground": "Munsu Cup Stadium, Ulsan"
+      "ground": "Munsu Cup Stadium, Ulsan",
+      "goals1": [
+        {
+          "name": "Ronaldo",
+          "minute": 50
+        },
+        {
+          "name": "Rivaldo",
+          "minute": 87,
+          "penalty": true
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Hasan Şaş",
+          "minute": 45
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 1",
@@ -192,10 +506,29 @@
         "ft": [
           0,
           2
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group C",
-      "ground": "Gwangju World Cup Stadium, Gwangju"
+      "ground": "Gwangju World Cup Stadium, Gwangju",
+      "goals1": [],
+      "goals2": [
+        {
+          "name": "Rónald Gómez",
+          "minute": 61
+        },
+        {
+          "name": "Mauricio Wright",
+          "minute": 65
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 2",
@@ -206,10 +539,38 @@
         "ft": [
           4,
           0
+        ],
+        "ht": [
+          3,
+          0
         ]
       },
       "group": "Group C",
-      "ground": "Jeju World Cup Stadium, Jeju"
+      "ground": "Jeju World Cup Stadium, Jeju",
+      "goals1": [
+        {
+          "name": "Roberto Carlos",
+          "minute": 15
+        },
+        {
+          "name": "Rivaldo",
+          "minute": 32
+        },
+        {
+          "name": "Ronaldinho Gaúcho",
+          "minute": 45,
+          "penalty": true
+        },
+        {
+          "name": "Ronaldo",
+          "minute": 55
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 2",
@@ -220,10 +581,30 @@
         "ft": [
           1,
           1
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group C",
-      "ground": "Incheon Munhak Stadium, Incheon"
+      "ground": "Incheon Munhak Stadium, Incheon",
+      "goals1": [
+        {
+          "name": "Winston Parks",
+          "minute": 86
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Emre Belözoğlu",
+          "minute": 56
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 3",
@@ -234,10 +615,50 @@
         "ft": [
           2,
           5
+        ],
+        "ht": [
+          1,
+          3
         ]
       },
       "group": "Group C",
-      "ground": "Suwon World Cup Stadium, Suwon"
+      "ground": "Suwon World Cup Stadium, Suwon",
+      "goals1": [
+        {
+          "name": "Paulo Wanchope",
+          "minute": 39
+        },
+        {
+          "name": "Rónald Gómez",
+          "minute": 56
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Ronaldo",
+          "minute": 10
+        },
+        {
+          "name": "Ronaldo",
+          "minute": 13
+        },
+        {
+          "name": "Edmílson",
+          "minute": 38
+        },
+        {
+          "name": "Rivaldo",
+          "minute": 62
+        },
+        {
+          "name": "Júnior",
+          "minute": 64
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 3",
@@ -248,10 +669,33 @@
         "ft": [
           3,
           0
+        ],
+        "ht": [
+          2,
+          0
         ]
       },
       "group": "Group C",
-      "ground": "Seoul World Cup Stadium, Seoul"
+      "ground": "Seoul World Cup Stadium, Seoul",
+      "goals1": [
+        {
+          "name": "Hasan Şaş",
+          "minute": 6
+        },
+        {
+          "name": "Bülent Korkmaz",
+          "minute": 9
+        },
+        {
+          "name": "Ümit Davala",
+          "minute": 85
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 1",
@@ -262,10 +706,29 @@
         "ft": [
           2,
           0
+        ],
+        "ht": [
+          1,
+          0
         ]
       },
       "group": "Group D",
-      "ground": "Asiad Main Stadium, Busan"
+      "ground": "Asiad Main Stadium, Busan",
+      "goals1": [
+        {
+          "name": "Hwang Seon-Hong",
+          "minute": 26
+        },
+        {
+          "name": "Yoo Sang-Cheol",
+          "minute": 53
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 1",
@@ -276,10 +739,44 @@
         "ft": [
           3,
           2
+        ],
+        "ht": [
+          3,
+          1
         ]
       },
       "group": "Group D",
-      "ground": "Suwon World Cup Stadium, Suwon"
+      "ground": "Suwon World Cup Stadium, Suwon",
+      "goals1": [
+        {
+          "name": "John O'Brien",
+          "minute": 4
+        },
+        {
+          "name": "Jorge Costa",
+          "minute": 29,
+          "owngoal": true
+        },
+        {
+          "name": "Brian McBride",
+          "minute": 36
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Beto",
+          "minute": 39
+        },
+        {
+          "name": "Jeff Agoos",
+          "minute": 71,
+          "owngoal": true
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 2",
@@ -290,10 +787,30 @@
         "ft": [
           1,
           1
+        ],
+        "ht": [
+          0,
+          1
         ]
       },
       "group": "Group D",
-      "ground": "Daegu World Cup Stadium, Daegu"
+      "ground": "Daegu World Cup Stadium, Daegu",
+      "goals1": [
+        {
+          "name": "Ahn Jung-Hwan",
+          "minute": 78
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Clint Mathis",
+          "minute": 24
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 2",
@@ -304,10 +821,37 @@
         "ft": [
           4,
           0
+        ],
+        "ht": [
+          1,
+          0
         ]
       },
       "group": "Group D",
-      "ground": "Jeonju World Cup Stadium, Jeonju"
+      "ground": "Jeonju World Cup Stadium, Jeonju",
+      "goals1": [
+        {
+          "name": "Pauleta",
+          "minute": 14
+        },
+        {
+          "name": "Pauleta",
+          "minute": 65
+        },
+        {
+          "name": "Pauleta",
+          "minute": 77
+        },
+        {
+          "name": "Rui Costa",
+          "minute": 88
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 3",
@@ -318,10 +862,25 @@
         "ft": [
           0,
           1
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group D",
-      "ground": "Incheon Munhak Stadium, Incheon"
+      "ground": "Incheon Munhak Stadium, Incheon",
+      "goals1": [],
+      "goals2": [
+        {
+          "name": "Park Ji-Sung",
+          "minute": 70
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 3",
@@ -332,10 +891,38 @@
         "ft": [
           3,
           1
+        ],
+        "ht": [
+          2,
+          0
         ]
       },
       "group": "Group D",
-      "ground": "Daejeon World Cup Stadium, Daejeon"
+      "ground": "Daejeon World Cup Stadium, Daejeon",
+      "goals1": [
+        {
+          "name": "Emmanuel Olisadebe",
+          "minute": 3
+        },
+        {
+          "name": "Paweł Kryszałowicz",
+          "minute": 5
+        },
+        {
+          "name": "Marcin Żewłakow",
+          "minute": 66
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Landon Donovan",
+          "minute": 83
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 1",
@@ -346,10 +933,30 @@
         "ft": [
           1,
           1
+        ],
+        "ht": [
+          0,
+          1
         ]
       },
       "group": "Group E",
-      "ground": "Niigata Stadium, Niigata"
+      "ground": "Niigata Stadium, Niigata",
+      "goals1": [
+        {
+          "name": "Matt Holland",
+          "minute": 52
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Patrick Mboma",
+          "minute": 39
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 1",
@@ -360,10 +967,53 @@
         "ft": [
           8,
           0
+        ],
+        "ht": [
+          4,
+          0
         ]
       },
       "group": "Group E",
-      "ground": "Sapporo Dome, Sapporo"
+      "ground": "Sapporo Dome, Sapporo",
+      "goals1": [
+        {
+          "name": "Miroslav Klose",
+          "minute": 20
+        },
+        {
+          "name": "Miroslav Klose",
+          "minute": 25
+        },
+        {
+          "name": "Miroslav Klose",
+          "minute": 70
+        },
+        {
+          "name": "Michael Ballack",
+          "minute": 40
+        },
+        {
+          "name": "Carsten Jancker",
+          "minute": 45
+        },
+        {
+          "name": "+', Thomas Linke",
+          "minute": 73
+        },
+        {
+          "name": "Oliver Bierhoff",
+          "minute": 84
+        },
+        {
+          "name": "Bernd Schneider",
+          "minute": 90
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 1",
@@ -374,10 +1024,30 @@
         "ft": [
           1,
           1
+        ],
+        "ht": [
+          1,
+          0
         ]
       },
       "group": "Group E",
-      "ground": "Kashima Soccer Stadium, Ibaraki"
+      "ground": "Kashima Soccer Stadium, Ibaraki",
+      "goals1": [
+        {
+          "name": "Miroslav Klose",
+          "minute": 19
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Robbie Keane",
+          "minute": 90
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 2",
@@ -388,10 +1058,25 @@
         "ft": [
           1,
           0
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group E",
-      "ground": "Saitama Stadium, Saitama"
+      "ground": "Saitama Stadium, Saitama",
+      "goals1": [
+        {
+          "name": "Samuel Eto'o",
+          "minute": 66
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 3",
@@ -402,10 +1087,29 @@
         "ft": [
           0,
           2
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group E",
-      "ground": "Shizuoka Stadium, Shizuoka"
+      "ground": "Shizuoka Stadium, Shizuoka",
+      "goals1": [],
+      "goals2": [
+        {
+          "name": "Marco Bode",
+          "minute": 50
+        },
+        {
+          "name": "Miroslav Klose",
+          "minute": 79
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 3",
@@ -416,10 +1120,33 @@
         "ft": [
           0,
           3
+        ],
+        "ht": [
+          0,
+          1
         ]
       },
       "group": "Group E",
-      "ground": "International Stadium Yokohama, Yokohama"
+      "ground": "International Stadium Yokohama, Yokohama",
+      "goals1": [],
+      "goals2": [
+        {
+          "name": "Robbie Keane",
+          "minute": 7
+        },
+        {
+          "name": "Gary Breen",
+          "minute": 61
+        },
+        {
+          "name": "Damien Duff",
+          "minute": 87
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 1",
@@ -430,10 +1157,30 @@
         "ft": [
           1,
           1
+        ],
+        "ht": [
+          1,
+          0
         ]
       },
       "group": "Group F",
-      "ground": "Saitama Stadium, Saitama"
+      "ground": "Saitama Stadium, Saitama",
+      "goals1": [
+        {
+          "name": "Sol Campbell",
+          "minute": 24
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Niclas Alexandersson",
+          "minute": 59
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 1",
@@ -444,10 +1191,25 @@
         "ft": [
           1,
           0
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group F",
-      "ground": "Kashima Soccer Stadium, Ibaraki"
+      "ground": "Kashima Soccer Stadium, Ibaraki",
+      "goals1": [
+        {
+          "name": "Gabriel Batistuta",
+          "minute": 63
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 2",
@@ -458,10 +1220,35 @@
         "ft": [
           2,
           1
+        ],
+        "ht": [
+          1,
+          1
         ]
       },
       "group": "Group F",
-      "ground": "Kobe Wing Stadium, Kobe"
+      "ground": "Kobe Wing Stadium, Kobe",
+      "goals1": [
+        {
+          "name": "Henrik Larsson",
+          "minute": 35
+        },
+        {
+          "name": "Henrik Larsson",
+          "minute": 63,
+          "penalty": true
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Julius Aghahowa",
+          "minute": 27
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 2",
@@ -472,10 +1259,26 @@
         "ft": [
           0,
           1
+        ],
+        "ht": [
+          0,
+          1
         ]
       },
       "group": "Group F",
-      "ground": "Sapporo Dome, Sapporo"
+      "ground": "Sapporo Dome, Sapporo",
+      "goals1": [],
+      "goals2": [
+        {
+          "name": "David Beckham",
+          "minute": 44,
+          "penalty": true
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 3",
@@ -486,10 +1289,30 @@
         "ft": [
           1,
           1
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group F",
-      "ground": "Miyagi Stadium, Miyagi"
+      "ground": "Miyagi Stadium, Miyagi",
+      "goals1": [
+        {
+          "name": "Anders Svensson",
+          "minute": 59
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Hernán Crespo",
+          "minute": 88
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 3",
@@ -500,10 +1323,20 @@
         "ft": [
           0,
           0
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group F",
-      "ground": "Nagai Stadium, Osaka"
+      "ground": "Nagai Stadium, Osaka",
+      "goals1": [],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 1",
@@ -514,10 +1347,26 @@
         "ft": [
           0,
           1
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group G",
-      "ground": "Niigata Stadium, Niigata"
+      "ground": "Niigata Stadium, Niigata",
+      "goals1": [],
+      "goals2": [
+        {
+          "name": "Cuauhtémoc Blanco",
+          "minute": 60,
+          "penalty": true
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 1",
@@ -528,10 +1377,29 @@
         "ft": [
           2,
           0
+        ],
+        "ht": [
+          2,
+          0
         ]
       },
       "group": "Group G",
-      "ground": "Sapporo Dome, Sapporo"
+      "ground": "Sapporo Dome, Sapporo",
+      "goals1": [
+        {
+          "name": "Christian Vieri",
+          "minute": 7
+        },
+        {
+          "name": "Christian Vieri",
+          "minute": 27
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 2",
@@ -542,10 +1410,34 @@
         "ft": [
           1,
           2
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group G",
-      "ground": "Kashima Soccer Stadium, Ibaraki"
+      "ground": "Kashima Soccer Stadium, Ibaraki",
+      "goals1": [
+        {
+          "name": "Christian Vieri",
+          "minute": 55
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Ivica Olić",
+          "minute": 73
+        },
+        {
+          "name": "Milan Rapaić",
+          "minute": 76
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 2",
@@ -556,10 +1448,34 @@
         "ft": [
           2,
           1
+        ],
+        "ht": [
+          1,
+          1
         ]
       },
       "group": "Group G",
-      "ground": "Miyagi Stadium, Miyagi"
+      "ground": "Miyagi Stadium, Miyagi",
+      "goals1": [
+        {
+          "name": "Jared Borgetti",
+          "minute": 28
+        },
+        {
+          "name": "Gerardo Torrado",
+          "minute": 57
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Agustín Delgado",
+          "minute": 5
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 3",
@@ -570,10 +1486,30 @@
         "ft": [
           1,
           1
+        ],
+        "ht": [
+          1,
+          0
         ]
       },
       "group": "Group G",
-      "ground": "Ōita Stadium, Ōita"
+      "ground": "Ōita Stadium, Ōita",
+      "goals1": [
+        {
+          "name": "Jared Borgetti",
+          "minute": 34
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Alessandro Del Piero",
+          "minute": 85
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 3",
@@ -584,10 +1520,25 @@
         "ft": [
           1,
           0
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group G",
-      "ground": "International Stadium Yokohama, Yokohama"
+      "ground": "International Stadium Yokohama, Yokohama",
+      "goals1": [
+        {
+          "name": "Edison Méndez",
+          "minute": 48
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 1",
@@ -598,10 +1549,38 @@
         "ft": [
           2,
           2
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group H",
-      "ground": "Saitama Stadium, Saitama"
+      "ground": "Saitama Stadium, Saitama",
+      "goals1": [
+        {
+          "name": "Takayuji Suzuki",
+          "minute": 59
+        },
+        {
+          "name": "Junichi Inamoto",
+          "minute": 67
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Marc Wilmots",
+          "minute": 57
+        },
+        {
+          "name": "Peter van der Heyden",
+          "minute": 75
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 1",
@@ -612,10 +1591,30 @@
         "ft": [
           2,
           0
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group H",
-      "ground": "Kobe Wing Stadium, Kobe"
+      "ground": "Kobe Wing Stadium, Kobe",
+      "goals1": [
+        {
+          "name": "Egor Titov",
+          "minute": 59
+        },
+        {
+          "name": "Valery Karpin",
+          "minute": 64,
+          "penalty": true
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 2",
@@ -626,10 +1625,25 @@
         "ft": [
           1,
           0
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group H",
-      "ground": "International Stadium Yokohama, Yokohama"
+      "ground": "International Stadium Yokohama, Yokohama",
+      "goals1": [
+        {
+          "name": "Junichi Inamoto",
+          "minute": 51
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 2",
@@ -640,10 +1654,30 @@
         "ft": [
           1,
           1
+        ],
+        "ht": [
+          1,
+          1
         ]
       },
       "group": "Group H",
-      "ground": "Ōita Stadium, Ōita"
+      "ground": "Ōita Stadium, Ōita",
+      "goals1": [
+        {
+          "name": "Raouf Bouzaiène",
+          "minute": 17
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Marc Wilmots",
+          "minute": 13
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 3",
@@ -654,10 +1688,29 @@
         "ft": [
           0,
           2
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group H",
-      "ground": "Nagai Stadium, Osaka"
+      "ground": "Nagai Stadium, Osaka",
+      "goals1": [],
+      "goals2": [
+        {
+          "name": "Hiroaki Morishima",
+          "minute": 48
+        },
+        {
+          "name": "Hidetoshi Nakata",
+          "minute": 75
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 3",
@@ -668,10 +1721,42 @@
         "ft": [
           3,
           2
+        ],
+        "ht": [
+          1,
+          0
         ]
       },
       "group": "Group H",
-      "ground": "Shizuoka Stadium, Shizuoka"
+      "ground": "Shizuoka Stadium, Shizuoka",
+      "goals1": [
+        {
+          "name": "Johan Walem",
+          "minute": 7
+        },
+        {
+          "name": "Wesley Sonck",
+          "minute": 78
+        },
+        {
+          "name": "Marc Wilmots",
+          "minute": 82
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Vladimir Beschastnykh",
+          "minute": 52
+        },
+        {
+          "name": "Dmitri Sychev",
+          "minute": 88
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Round of 16",
@@ -682,9 +1767,24 @@
         "ft": [
           1,
           0
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
-      "ground": "Jeju World Cup Stadium, Jeju"
+      "ground": "Jeju World Cup Stadium, Jeju",
+      "goals1": [
+        {
+          "name": "Oliver Neuville",
+          "minute": 88
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Round of 16",
@@ -695,9 +1795,32 @@
         "ft": [
           0,
           3
+        ],
+        "ht": [
+          0,
+          3
         ]
       },
-      "ground": "Niigata Stadium, Niigata"
+      "ground": "Niigata Stadium, Niigata",
+      "goals1": [],
+      "goals2": [
+        {
+          "name": "Rio Ferdinand",
+          "minute": 5
+        },
+        {
+          "name": "Michael Owen",
+          "minute": 22
+        },
+        {
+          "name": "Emile Heskey",
+          "minute": 44
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Round of 16",
@@ -712,9 +1835,33 @@
         "ft": [
           1,
           1
+        ],
+        "ht": [
+          1,
+          1
         ]
       },
-      "ground": "Ōita Stadium, Ōita"
+      "ground": "Ōita Stadium, Ōita",
+      "goals1": [
+        {
+          "name": "Henrik Larsson",
+          "minute": 11
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Henri Camara",
+          "minute": 37
+        },
+        {
+          "name": "Henri Camara",
+          "minute": 104
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Round of 16",
@@ -733,9 +1880,30 @@
         "ft": [
           1,
           1
+        ],
+        "ht": [
+          1,
+          0
         ]
       },
-      "ground": "Suwon World Cup Stadium, Suwon"
+      "ground": "Suwon World Cup Stadium, Suwon",
+      "goals1": [
+        {
+          "name": "Fernando Morientes",
+          "minute": 8
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Robbie Keane",
+          "minute": 90,
+          "penalty": true
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Round of 16",
@@ -746,9 +1914,28 @@
         "ft": [
           0,
           2
+        ],
+        "ht": [
+          0,
+          1
         ]
       },
-      "ground": "Jeonju World Cup Stadium, Jeonju"
+      "ground": "Jeonju World Cup Stadium, Jeonju",
+      "goals1": [],
+      "goals2": [
+        {
+          "name": "Brian McBride",
+          "minute": 8
+        },
+        {
+          "name": "Landon Donovan",
+          "minute": 65
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Round of 16",
@@ -759,9 +1946,28 @@
         "ft": [
           2,
           0
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
-      "ground": "Kobe Wing Stadium, Kobe"
+      "ground": "Kobe Wing Stadium, Kobe",
+      "goals1": [
+        {
+          "name": "Rivaldo",
+          "minute": 67
+        },
+        {
+          "name": "Ronaldo",
+          "minute": 87
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Round of 16",
@@ -772,9 +1978,24 @@
         "ft": [
           0,
           1
+        ],
+        "ht": [
+          0,
+          1
         ]
       },
-      "ground": "Miyagi Stadium, Miyagi"
+      "ground": "Miyagi Stadium, Miyagi",
+      "goals1": [],
+      "goals2": [
+        {
+          "name": "Ümit Davala",
+          "minute": 12
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Round of 16",
@@ -789,9 +2010,33 @@
         "ft": [
           1,
           1
+        ],
+        "ht": [
+          0,
+          1
         ]
       },
-      "ground": "Daejeon World Cup Stadium, Daejeon"
+      "ground": "Daejeon World Cup Stadium, Daejeon",
+      "goals1": [
+        {
+          "name": "Seol Ki-Hyun",
+          "minute": 88
+        },
+        {
+          "name": "Ahn Jung-Hwan",
+          "minute": 117
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Christian Vieri",
+          "minute": 18
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Quarter-finals",
@@ -802,9 +2047,33 @@
         "ft": [
           1,
           2
+        ],
+        "ht": [
+          1,
+          1
         ]
       },
-      "ground": "Shizuoka Stadium, Shizuoka"
+      "ground": "Shizuoka Stadium, Shizuoka",
+      "goals1": [
+        {
+          "name": "Michael Owen",
+          "minute": 23
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Rivaldo",
+          "minute": 45
+        },
+        {
+          "name": "+', Ronaldinho Gaúcho",
+          "minute": 50
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Quarter-finals",
@@ -815,9 +2084,24 @@
         "ft": [
           1,
           0
+        ],
+        "ht": [
+          1,
+          0
         ]
       },
-      "ground": "Munsu Cup Stadium, Ulsan"
+      "ground": "Munsu Cup Stadium, Ulsan",
+      "goals1": [
+        {
+          "name": "Michael Ballack",
+          "minute": 39
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Quarter-finals",
@@ -836,9 +2120,19 @@
         "ft": [
           0,
           0
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
-      "ground": "Gwangju World Cup Stadium, Gwangju"
+      "ground": "Gwangju World Cup Stadium, Gwangju",
+      "goals1": [],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Quarter-finals",
@@ -853,9 +2147,24 @@
         "ft": [
           0,
           0
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
-      "ground": "Nagai Stadium, Osaka"
+      "ground": "Nagai Stadium, Osaka",
+      "goals1": [],
+      "goals2": [
+        {
+          "name": "İlhan Mansız",
+          "minute": 94
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Semi-finals",
@@ -866,9 +2175,24 @@
         "ft": [
           1,
           0
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
-      "ground": "Seoul World Cup Stadium, Seoul"
+      "ground": "Seoul World Cup Stadium, Seoul",
+      "goals1": [
+        {
+          "name": "Michael Ballack",
+          "minute": 75
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Semi-finals",
@@ -879,9 +2203,24 @@
         "ft": [
           1,
           0
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
-      "ground": "Saitama Stadium, Saitama"
+      "ground": "Saitama Stadium, Saitama",
+      "goals1": [
+        {
+          "name": "Ronaldo",
+          "minute": 49
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Third place play-off",
@@ -892,9 +2231,41 @@
         "ft": [
           2,
           3
+        ],
+        "ht": [
+          1,
+          3
         ]
       },
-      "ground": "Daegu World Cup Stadium, Daegu"
+      "ground": "Daegu World Cup Stadium, Daegu",
+      "goals1": [
+        {
+          "name": "Lee Eul-Yong",
+          "minute": 9
+        },
+        {
+          "name": "Song Jong-Gook",
+          "minute": 90
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Hakan Şükür",
+          "minute": 1
+        },
+        {
+          "name": "İlhan Mansız",
+          "minute": 13
+        },
+        {
+          "name": "İlhan Mansız",
+          "minute": 32
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Final",
@@ -905,9 +2276,28 @@
         "ft": [
           0,
           2
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
-      "ground": "International Stadium Yokohama, Yokohama"
+      "ground": "International Stadium Yokohama, Yokohama",
+      "goals1": [],
+      "goals2": [
+        {
+          "name": "Ronaldo",
+          "minute": 67
+        },
+        {
+          "name": "Ronaldo",
+          "minute": 79
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     }
   ]
 }

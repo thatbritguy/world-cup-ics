@@ -16,10 +16,10 @@ GEO:25.652222;51.487778
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Al Bayt Stadium, Al Khor";
  X-APPLE-RADIUS=100;X-TITLE="Al Bayt Stadium, Al Khor":geo:25.652222,51.487
  778
-DESCRIPTION:Group A | Matchday 1 | 2022 FIFA World Cup - Qatar\nQatar 0-2 E
- cuador\nHT: 0-2\nGoals:\nECU 🇪🇨: Enner Valencia 16' pen\, Enner Vale
- ncia 31'
-URL:https://en.wikipedia.org/wiki/2022_FIFA_World_Cup
+DESCRIPTION:2022 FIFA World Cup - Qatar\nGroup A | Matchday 1\nQatar 0-2 Ec
+ uador\nHT: 0-2\nFT: 0-2\nGoals:\nECU 🇪🇨: Enner Valencia 16' pen\, En
+ ner Valencia 31'
+URL:https://www.fifa.com/en/match-centre/match/17/255711/285063/400128082
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2022
@@ -35,12 +35,12 @@ GEO:25.263611;51.448056
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Khalifa International Stad
  ium, Al Rayyan";X-APPLE-RADIUS=100;X-TITLE="Khalifa International Stadium,
   Al Rayyan":geo:25.263611,51.448056
-DESCRIPTION:Group B | Matchday 2 | 2022 FIFA World Cup - Qatar\nEngland 6-2
-  Iran\nHT: 3-0\nGoals:\nENG 🏴󠁧󠁢󠁥󠁮󠁧󠁿: Jude Bellingham 
- 35'\, Bukayo Saka 43'\, Bukayo Saka 62'\, Raheem Sterling 45'\, Marcus Ras
- hford 71'\, Jack Grealish 90'\nIRN 🇮🇷: Mehdi Taremi 65'\, Mehdi Tare
- mi 90' pen
-URL:https://en.wikipedia.org/wiki/2022_FIFA_World_Cup
+DESCRIPTION:2022 FIFA World Cup - Qatar\nGroup B | Matchday 2\nEngland 6-2 
+ Iran\nHT: 3-0\nFT: 6-2\nGoals:\nENG 🏴󠁧󠁢󠁥󠁮󠁧󠁿: Jude Bel
+ lingham 35'\, Bukayo Saka 43'\, Bukayo Saka 62'\, Raheem Sterling 45+1'\, 
+ Marcus Rashford 71'\, Jack Grealish 90'\nIRN 🇮🇷: Mehdi Taremi 65'\, 
+ Mehdi Taremi 90+13' pen
+URL:https://www.fifa.com/en/match-centre/match/17/255711/285063/400235458
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2022
@@ -56,10 +56,10 @@ GEO:25.235278;51.532222
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Al Thumama Stadium, Doha";
  X-APPLE-RADIUS=100;X-TITLE="Al Thumama Stadium, Doha":geo:25.235278,51.532
  222
-DESCRIPTION:Group A | Matchday 2 | 2022 FIFA World Cup - Qatar\nSenegal 0-2
-  Netherlands\nHT: 0-0\nGoals:\nNED 🇳🇱: Cody Gakpo 84'\, Davy Klaasse
- n 90'
-URL:https://en.wikipedia.org/wiki/2022_FIFA_World_Cup
+DESCRIPTION:2022 FIFA World Cup - Qatar\nGroup A | Matchday 2\nSenegal 0-2 
+ Netherlands\nHT: 0-0\nFT: 0-2\nGoals:\nNED 🇳🇱: Cody Gakpo 84'\, Davy
+  Klaassen 90+9'
+URL:https://www.fifa.com/en/match-centre/match/17/255711/285063/400235449
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2022
@@ -75,10 +75,10 @@ GEO:25.329722;51.342222
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Ahmad bin Ali Stadium, Al 
  Rayyan";X-APPLE-RADIUS=100;X-TITLE="Ahmad bin Ali Stadium, Al Rayyan":geo:
  25.329722,51.342222
-DESCRIPTION:Group B | Matchday 2 | 2022 FIFA World Cup - Qatar\nUSA 1-1 Wal
- es\nHT: 1-0\nGoals:\nUSA 🇺🇸: Timothy Weah 36'\nWAL 🏴󠁧󠁢󠁷
- 󠁬󠁳󠁿: Gareth Bale 82' pen
-URL:https://en.wikipedia.org/wiki/2022_FIFA_World_Cup
+DESCRIPTION:2022 FIFA World Cup - Qatar\nGroup B | Matchday 2\nUSA 1-1 Wale
+ s\nHT: 1-0\nFT: 1-1\nGoals:\nUSA 🇺🇸: Timothy Weah 36'\nWAL 🏴󠁧
+ 󠁢󠁷󠁬󠁳󠁿: Gareth Bale 82' pen
+URL:https://www.fifa.com/en/match-centre/match/17/255711/285063/400235455
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2022
@@ -94,10 +94,10 @@ GEO:25.420861;51.490389
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Lusail Iconic Stadium, Lus
  ail";X-APPLE-RADIUS=100;X-TITLE="Lusail Iconic Stadium, Lusail":geo:25.420
  861,51.490389
-DESCRIPTION:Group C | Matchday 3 | 2022 FIFA World Cup - Qatar\nArgentina 1
- -2 Saudi Arabia\nHT: 1-0\nGoals:\nARG 🇦🇷: Lionel Messi 10' pen\nKSA 
- 🇸🇦: Saleh Al Shehri 48'\, Salem Al Dawsari 53'
-URL:https://en.wikipedia.org/wiki/2022_FIFA_World_Cup
+DESCRIPTION:2022 FIFA World Cup - Qatar\nGroup C | Matchday 3\nArgentina 1-
+ 2 Saudi Arabia\nHT: 1-0\nFT: 1-2\nGoals:\nARG 🇦🇷: Lionel Messi 10' p
+ en\nKSA 🇸🇦: Saleh Al Shehri 48'\, Salem Al Dawsari 53'
+URL:https://www.fifa.com/en/match-centre/match/17/255711/285063/400235461
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2022
@@ -113,9 +113,9 @@ GEO:25.310833;51.424444
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Education City Stadium, Al
   Rayyan";X-APPLE-RADIUS=100;X-TITLE="Education City Stadium, Al Rayyan":ge
  o:25.310833,51.424444
-DESCRIPTION:Group D | Matchday 3 | 2022 FIFA World Cup - Qatar\nDenmark 0-0
-  Tunisia
-URL:https://en.wikipedia.org/wiki/2022_FIFA_World_Cup
+DESCRIPTION:2022 FIFA World Cup - Qatar\nGroup D | Matchday 3\nDenmark 0-0 
+ Tunisia\nHT: 0-0\nFT: 0-0
+URL:https://www.fifa.com/en/match-centre/match/17/255711/285063/400235466
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2022
@@ -130,9 +130,9 @@ LOCATION:Stadium 974\, Doha
 GEO:25.290000;51.565000
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadium 974, Doha";X-APPLE
  -RADIUS=100;X-TITLE="Stadium 974, Doha":geo:25.290000,51.565000
-DESCRIPTION:Group C | Matchday 3 | 2022 FIFA World Cup - Qatar\nMexico 0-0 
- Poland
-URL:https://en.wikipedia.org/wiki/2022_FIFA_World_Cup
+DESCRIPTION:2022 FIFA World Cup - Qatar\nGroup C | Matchday 3\nMexico 0-0 P
+ oland\nHT: 0-0\nFT: 0-0
+URL:https://www.fifa.com/en/match-centre/match/17/255711/285063/400235463
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2022
@@ -148,11 +148,11 @@ GEO:25.159778;51.574083
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Al Janoub Stadium, Al Wakr
  ah";X-APPLE-RADIUS=100;X-TITLE="Al Janoub Stadium, Al Wakrah":geo:25.15977
  8,51.574083
-DESCRIPTION:Group D | Matchday 3 | 2022 FIFA World Cup - Qatar\nFrance 4-1 
- Australia\nHT: 2-1\nGoals:\nFRA 🇫🇷: Adrien Rabiot 27'\, Olivier Giro
- ud 32'\, Olivier Giroud 71'\, Kylian Mbappé 68'\nAUS 🇦🇺: Craig Good
- win 9'
-URL:https://en.wikipedia.org/wiki/2022_FIFA_World_Cup
+DESCRIPTION:2022 FIFA World Cup - Qatar\nGroup D | Matchday 3\nFrance 4-1 A
+ ustralia\nHT: 2-1\nFT: 4-1\nGoals:\nFRA 🇫🇷: Adrien Rabiot 27'\, Oliv
+ ier Giroud 32'\, Olivier Giroud 71'\, Kylian Mbappé 68'\nAUS 🇦🇺: Cr
+ aig Goodwin 9'
+URL:https://www.fifa.com/en/match-centre/match/17/255711/285063/400235470
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2022
@@ -168,9 +168,9 @@ GEO:25.652222;51.487778
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Al Bayt Stadium, Al Khor";
  X-APPLE-RADIUS=100;X-TITLE="Al Bayt Stadium, Al Khor":geo:25.652222,51.487
  778
-DESCRIPTION:Group F | Matchday 4 | 2022 FIFA World Cup - Qatar\nMorocco 0-0
-  Croatia
-URL:https://en.wikipedia.org/wiki/2022_FIFA_World_Cup
+DESCRIPTION:2022 FIFA World Cup - Qatar\nGroup F | Matchday 4\nMorocco 0-0 
+ Croatia\nHT: 0-0\nFT: 0-0
+URL:https://www.fifa.com/en/match-centre/match/17/255711/285063/400235481
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2022
@@ -186,10 +186,10 @@ GEO:25.263611;51.448056
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Khalifa International Stad
  ium, Al Rayyan";X-APPLE-RADIUS=100;X-TITLE="Khalifa International Stadium,
   Al Rayyan":geo:25.263611,51.448056
-DESCRIPTION:Group E | Matchday 4 | 2022 FIFA World Cup - Qatar\nGermany 1-2
-  Japan\nHT: 1-0\nGoals:\nGER 🇩🇪: Ilkay Gündogan 33' pen\nJPN 🇯
- 🇵: Ritsu Doan 75'\, Takuma Asano 83'
-URL:https://en.wikipedia.org/wiki/2022_FIFA_World_Cup
+DESCRIPTION:2022 FIFA World Cup - Qatar\nGroup E | Matchday 4\nGermany 1-2 
+ Japan\nHT: 1-0\nFT: 1-2\nGoals:\nGER 🇩🇪: Ilkay Gündogan 33' pen\nJP
+ N 🇯🇵: Ritsu Doan 75'\, Takuma Asano 83'
+URL:https://www.fifa.com/en/match-centre/match/17/255711/285063/400235476
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2022
@@ -205,11 +205,11 @@ GEO:25.235278;51.532222
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Al Thumama Stadium, Doha";
  X-APPLE-RADIUS=100;X-TITLE="Al Thumama Stadium, Doha":geo:25.235278,51.532
  222
-DESCRIPTION:Group E | Matchday 4 | 2022 FIFA World Cup - Qatar\nSpain 7-0 C
- osta Rica\nHT: 3-0\nGoals:\nESP 🇪🇸: Dani Olmo 11'\, Marco Asensio 21
- '\, Ferran Torres 31' pen\, Ferran Torres 54'\, Gavi 74'\, Carlos Soler 90
- '\, Álvaro Morata 90'
-URL:https://en.wikipedia.org/wiki/2022_FIFA_World_Cup
+DESCRIPTION:2022 FIFA World Cup - Qatar\nGroup E | Matchday 4\nSpain 7-0 Co
+ sta Rica\nHT: 3-0\nFT: 7-0\nGoals:\nESP 🇪🇸: Dani Olmo 11'\, Marco As
+ ensio 21'\, Ferran Torres 31' pen\, Ferran Torres 54'\, Gavi 74'\, Carlos 
+ Soler 90'\, Álvaro Morata 90+2'
+URL:https://www.fifa.com/en/match-centre/match/17/255711/285063/400235472
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2022
@@ -225,9 +225,9 @@ GEO:25.329722;51.342222
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Ahmad bin Ali Stadium, Al 
  Rayyan";X-APPLE-RADIUS=100;X-TITLE="Ahmad bin Ali Stadium, Al Rayyan":geo:
  25.329722,51.342222
-DESCRIPTION:Group F | Matchday 4 | 2022 FIFA World Cup - Qatar\nBelgium 1-0
-  Canada\nHT: 1-0\nGoals:\nBEL 🇧🇪: Michy Batshuayi 44'
-URL:https://en.wikipedia.org/wiki/2022_FIFA_World_Cup
+DESCRIPTION:2022 FIFA World Cup - Qatar\nGroup F | Matchday 4\nBelgium 1-0 
+ Canada\nHT: 1-0\nFT: 1-0\nGoals:\nBEL 🇧🇪: Michy Batshuayi 44'
+URL:https://www.fifa.com/en/match-centre/match/17/255711/285063/400235477
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2022
@@ -243,9 +243,9 @@ GEO:25.159778;51.574083
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Al Janoub Stadium, Al Wakr
  ah";X-APPLE-RADIUS=100;X-TITLE="Al Janoub Stadium, Al Wakrah":geo:25.15977
  8,51.574083
-DESCRIPTION:Group G | Matchday 5 | 2022 FIFA World Cup - Qatar\nSwitzerland
-  1-0 Cameroon\nHT: 0-0\nGoals:\nSUI 🇨🇭: Breel Embolo 48'
-URL:https://en.wikipedia.org/wiki/2022_FIFA_World_Cup
+DESCRIPTION:2022 FIFA World Cup - Qatar\nGroup G | Matchday 5\nSwitzerland 
+ 1-0 Cameroon\nHT: 0-0\nFT: 1-0\nGoals:\nSUI 🇨🇭: Breel Embolo 48'
+URL:https://www.fifa.com/en/match-centre/match/17/255711/285063/400235488
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2022
@@ -261,9 +261,9 @@ GEO:25.310833;51.424444
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Education City Stadium, Al
   Rayyan";X-APPLE-RADIUS=100;X-TITLE="Education City Stadium, Al Rayyan":ge
  o:25.310833,51.424444
-DESCRIPTION:Group H | Matchday 5 | 2022 FIFA World Cup - Qatar\nUruguay 0-0
-  South Korea
-URL:https://en.wikipedia.org/wiki/2022_FIFA_World_Cup
+DESCRIPTION:2022 FIFA World Cup - Qatar\nGroup H | Matchday 5\nUruguay 0-0 
+ South Korea\nHT: 0-0\nFT: 0-0
+URL:https://www.fifa.com/en/match-centre/match/17/255711/285063/400235491
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2022
@@ -278,11 +278,11 @@ LOCATION:Stadium 974\, Doha
 GEO:25.290000;51.565000
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadium 974, Doha";X-APPLE
  -RADIUS=100;X-TITLE="Stadium 974, Doha":geo:25.290000,51.565000
-DESCRIPTION:Group H | Matchday 5 | 2022 FIFA World Cup - Qatar\nPortugal 3-
- 2 Ghana\nHT: 0-0\nGoals:\nPOR 🇵🇹: Cristiano Ronaldo 65' pen\, João 
- Félix 78'\, Rafael Leão 80'\nGHA 🇬🇭: André Ayew 73'\, Osman Bukar
- i 89'
-URL:https://en.wikipedia.org/wiki/2022_FIFA_World_Cup
+DESCRIPTION:2022 FIFA World Cup - Qatar\nGroup H | Matchday 5\nPortugal 3-2
+  Ghana\nHT: 0-0\nFT: 3-2\nGoals:\nPOR 🇵🇹: Cristiano Ronaldo 65' pen\
+ , João Félix 78'\, Rafael Leão 80'\nGHA 🇬🇭: André Ayew 73'\, Osm
+ an Bukari 89'
+URL:https://www.fifa.com/en/match-centre/match/17/255711/285063/400235493
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2022
@@ -298,9 +298,10 @@ GEO:25.420861;51.490389
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Lusail Iconic Stadium, Lus
  ail";X-APPLE-RADIUS=100;X-TITLE="Lusail Iconic Stadium, Lusail":geo:25.420
  861,51.490389
-DESCRIPTION:Group G | Matchday 5 | 2022 FIFA World Cup - Qatar\nBrazil 2-0 
- Serbia\nHT: 0-0\nGoals:\nBRA 🇧🇷: Richarlison 62'\, Richarlison 73'
-URL:https://en.wikipedia.org/wiki/2022_FIFA_World_Cup
+DESCRIPTION:2022 FIFA World Cup - Qatar\nGroup G | Matchday 5\nBrazil 2-0 S
+ erbia\nHT: 0-0\nFT: 2-0\nGoals:\nBRA 🇧🇷: Richarlison 62'\, Richarlis
+ on 73'
+URL:https://www.fifa.com/en/match-centre/match/17/255711/285063/400235484
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2022
@@ -316,10 +317,10 @@ GEO:25.329722;51.342222
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Ahmad bin Ali Stadium, Al 
  Rayyan";X-APPLE-RADIUS=100;X-TITLE="Ahmad bin Ali Stadium, Al Rayyan":geo:
  25.329722,51.342222
-DESCRIPTION:Group B | Matchday 6 | 2022 FIFA World Cup - Qatar\nWales 0-2 I
- ran\nHT: 0-0\nGoals:\nIRN 🇮🇷: Roozbeh Cheshmi 90'\, Ramin Rezaeian 9
- 0'
-URL:https://en.wikipedia.org/wiki/2022_FIFA_World_Cup
+DESCRIPTION:2022 FIFA World Cup - Qatar\nGroup B | Matchday 6\nWales 0-2 Ir
+ an\nHT: 0-0\nFT: 0-2\nGoals:\nIRN 🇮🇷: Roozbeh Cheshmi 90+8'\, Ramin 
+ Rezaeian 90+11'
+URL:https://www.fifa.com/en/match-centre/match/17/255711/285063/400235453
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2022
@@ -335,10 +336,10 @@ GEO:25.235278;51.532222
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Al Thumama Stadium, Doha";
  X-APPLE-RADIUS=100;X-TITLE="Al Thumama Stadium, Doha":geo:25.235278,51.532
  222
-DESCRIPTION:Group A | Matchday 6 | 2022 FIFA World Cup - Qatar\nQatar 1-3 S
- enegal\nHT: 0-1\nGoals:\nQAT 🇶🇦: Mohammed Muntari 78'\nSEN 🇸🇳:
-  Boulaye Dia 41'\, Famara Diédhiou 48'\, Bamba Dieng 84'
-URL:https://en.wikipedia.org/wiki/2022_FIFA_World_Cup
+DESCRIPTION:2022 FIFA World Cup - Qatar\nGroup A | Matchday 6\nQatar 1-3 Se
+ negal\nHT: 0-1\nFT: 1-3\nGoals:\nQAT 🇶🇦: Mohammed Muntari 78'\nSEN 
+ 🇸🇳: Boulaye Dia 41'\, Famara Diédhiou 48'\, Bamba Dieng 84'
+URL:https://www.fifa.com/en/match-centre/match/17/255711/285063/400235448
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2022
@@ -354,10 +355,10 @@ GEO:25.263611;51.448056
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Khalifa International Stad
  ium, Al Rayyan";X-APPLE-RADIUS=100;X-TITLE="Khalifa International Stadium,
   Al Rayyan":geo:25.263611,51.448056
-DESCRIPTION:Group A | Matchday 6 | 2022 FIFA World Cup - Qatar\nNetherlands
-  1-1 Ecuador\nHT: 1-0\nGoals:\nNED 🇳🇱: Cody Gakpo 6'\nECU 🇪🇨: 
- Enner Valencia 49'
-URL:https://en.wikipedia.org/wiki/2022_FIFA_World_Cup
+DESCRIPTION:2022 FIFA World Cup - Qatar\nGroup A | Matchday 6\nNetherlands 
+ 1-1 Ecuador\nHT: 1-0\nFT: 1-1\nGoals:\nNED 🇳🇱: Cody Gakpo 6'\nECU 
+ 🇪🇨: Enner Valencia 49'
+URL:https://www.fifa.com/en/match-centre/match/17/255711/285063/400235452
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2022
@@ -373,9 +374,9 @@ GEO:25.652222;51.487778
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Al Bayt Stadium, Al Khor";
  X-APPLE-RADIUS=100;X-TITLE="Al Bayt Stadium, Al Khor":geo:25.652222,51.487
  778
-DESCRIPTION:Group B | Matchday 6 | 2022 FIFA World Cup - Qatar\nEngland 0-0
-  USA
-URL:https://en.wikipedia.org/wiki/2022_FIFA_World_Cup
+DESCRIPTION:2022 FIFA World Cup - Qatar\nGroup B | Matchday 6\nEngland 0-0 
+ USA\nHT: 0-0\nFT: 0-0
+URL:https://www.fifa.com/en/match-centre/match/17/255711/285063/400235457
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2022
@@ -391,9 +392,9 @@ GEO:25.159778;51.574083
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Al Janoub Stadium, Al Wakr
  ah";X-APPLE-RADIUS=100;X-TITLE="Al Janoub Stadium, Al Wakrah":geo:25.15977
  8,51.574083
-DESCRIPTION:Group D | Matchday 7 | 2022 FIFA World Cup - Qatar\nTunisia 0-1
-  Australia\nHT: 0-1\nGoals:\nAUS 🇦🇺: Mitchell Duke 23'
-URL:https://en.wikipedia.org/wiki/2022_FIFA_World_Cup
+DESCRIPTION:2022 FIFA World Cup - Qatar\nGroup D | Matchday 7\nTunisia 0-1 
+ Australia\nHT: 0-1\nFT: 0-1\nGoals:\nAUS 🇦🇺: Mitchell Duke 23'
+URL:https://www.fifa.com/en/match-centre/match/17/255711/285063/400235469
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2022
@@ -409,10 +410,10 @@ GEO:25.310833;51.424444
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Education City Stadium, Al
   Rayyan";X-APPLE-RADIUS=100;X-TITLE="Education City Stadium, Al Rayyan":ge
  o:25.310833,51.424444
-DESCRIPTION:Group C | Matchday 7 | 2022 FIFA World Cup - Qatar\nPoland 2-0 
- Saudi Arabia\nHT: 1-0\nGoals:\nPOL 🇵🇱: Piotr Zielinski 39'\, Robert 
- Lewandowski 82'
-URL:https://en.wikipedia.org/wiki/2022_FIFA_World_Cup
+DESCRIPTION:2022 FIFA World Cup - Qatar\nGroup C | Matchday 7\nPoland 2-0 S
+ audi Arabia\nHT: 1-0\nFT: 2-0\nGoals:\nPOL 🇵🇱: Piotr Zielinski 39'\,
+  Robert Lewandowski 82'
+URL:https://www.fifa.com/en/match-centre/match/17/255711/285063/400235459
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2022
@@ -427,10 +428,10 @@ LOCATION:Stadium 974\, Doha
 GEO:25.290000;51.565000
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadium 974, Doha";X-APPLE
  -RADIUS=100;X-TITLE="Stadium 974, Doha":geo:25.290000,51.565000
-DESCRIPTION:Group D | Matchday 7 | 2022 FIFA World Cup - Qatar\nFrance 2-1 
- Denmark\nHT: 0-0\nGoals:\nFRA 🇫🇷: Kylian Mbappé 61'\, Kylian Mbapp
- é 86'\nDEN 🇩🇰: Andreas Christensen 68'
-URL:https://en.wikipedia.org/wiki/2022_FIFA_World_Cup
+DESCRIPTION:2022 FIFA World Cup - Qatar\nGroup D | Matchday 7\nFrance 2-1 D
+ enmark\nHT: 0-0\nFT: 2-1\nGoals:\nFRA 🇫🇷: Kylian Mbappé 61'\, Kylia
+ n Mbappé 86'\nDEN 🇩🇰: Andreas Christensen 68'
+URL:https://www.fifa.com/en/match-centre/match/17/255711/285063/400235467
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2022
@@ -446,10 +447,10 @@ GEO:25.420861;51.490389
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Lusail Iconic Stadium, Lus
  ail";X-APPLE-RADIUS=100;X-TITLE="Lusail Iconic Stadium, Lusail":geo:25.420
  861,51.490389
-DESCRIPTION:Group C | Matchday 7 | 2022 FIFA World Cup - Qatar\nArgentina 2
- -0 Mexico\nHT: 0-0\nGoals:\nARG 🇦🇷: Lionel Messi 64'\, Enzo Fernánd
- ez 87'
-URL:https://en.wikipedia.org/wiki/2022_FIFA_World_Cup
+DESCRIPTION:2022 FIFA World Cup - Qatar\nGroup C | Matchday 7\nArgentina 2-
+ 0 Mexico\nHT: 0-0\nFT: 2-0\nGoals:\nARG 🇦🇷: Lionel Messi 64'\, Enzo 
+ Fernández 87'
+URL:https://www.fifa.com/en/match-centre/match/17/255711/285063/400235462
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2022
@@ -465,9 +466,9 @@ GEO:25.329722;51.342222
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Ahmad bin Ali Stadium, Al 
  Rayyan";X-APPLE-RADIUS=100;X-TITLE="Ahmad bin Ali Stadium, Al Rayyan":geo:
  25.329722,51.342222
-DESCRIPTION:Group E | Matchday 8 | 2022 FIFA World Cup - Qatar\nJapan 0-1 C
- osta Rica\nHT: 0-0\nGoals:\nCRC 🇨🇷: Keysher Fuller 81'
-URL:https://en.wikipedia.org/wiki/2022_FIFA_World_Cup
+DESCRIPTION:2022 FIFA World Cup - Qatar\nGroup E | Matchday 8\nJapan 0-1 Co
+ sta Rica\nHT: 0-0\nFT: 0-1\nGoals:\nCRC 🇨🇷: Keysher Fuller 81'
+URL:https://www.fifa.com/en/match-centre/match/17/255711/285063/400235471
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2022
@@ -483,10 +484,10 @@ GEO:25.235278;51.532222
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Al Thumama Stadium, Doha";
  X-APPLE-RADIUS=100;X-TITLE="Al Thumama Stadium, Doha":geo:25.235278,51.532
  222
-DESCRIPTION:Group F | Matchday 8 | 2022 FIFA World Cup - Qatar\nBelgium 0-2
-  Morocco\nHT: 0-0\nGoals:\nMAR 🇲🇦: Romain Saïss 73'\, Zakaria Abouk
- hlal 90'
-URL:https://en.wikipedia.org/wiki/2022_FIFA_World_Cup
+DESCRIPTION:2022 FIFA World Cup - Qatar\nGroup F | Matchday 8\nBelgium 0-2 
+ Morocco\nHT: 0-0\nFT: 0-2\nGoals:\nMAR 🇲🇦: Romain Saïss 73'\, Zakar
+ ia Aboukhlal 90+2'
+URL:https://www.fifa.com/en/match-centre/match/17/255711/285063/400235480
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2022
@@ -502,11 +503,11 @@ GEO:25.263611;51.448056
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Khalifa International Stad
  ium, Al Rayyan";X-APPLE-RADIUS=100;X-TITLE="Khalifa International Stadium,
   Al Rayyan":geo:25.263611,51.448056
-DESCRIPTION:Group F | Matchday 8 | 2022 FIFA World Cup - Qatar\nCroatia 4-1
-  Canada\nHT: 2-1\nGoals:\nCRO 🇭🇷: Andrej Kramarić 36'\, Marko Livaj
- a 44'\, Andrej Kramarić 70'\, Lovro Majer 90'\nCAN 🇨🇦: Alphonso Dav
- ies 2'
-URL:https://en.wikipedia.org/wiki/2022_FIFA_World_Cup
+DESCRIPTION:2022 FIFA World Cup - Qatar\nGroup F | Matchday 8\nCroatia 4-1 
+ Canada\nHT: 2-1\nFT: 4-1\nGoals:\nCRO 🇭🇷: Andrej Kramarić 36'\, Mar
+ ko Livaja 44'\, Andrej Kramarić 70'\, Lovro Majer 90+4'\nCAN 🇨🇦: Al
+ phonso Davies 2'
+URL:https://www.fifa.com/en/match-centre/match/17/255711/285063/400235482
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2022
@@ -522,10 +523,10 @@ GEO:25.652222;51.487778
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Al Bayt Stadium, Al Khor";
  X-APPLE-RADIUS=100;X-TITLE="Al Bayt Stadium, Al Khor":geo:25.652222,51.487
  778
-DESCRIPTION:Group E | Matchday 8 | 2022 FIFA World Cup - Qatar\nSpain 1-1 G
- ermany\nHT: 0-0\nGoals:\nESP 🇪🇸: Álvaro Morata 62'\nGER 🇩🇪: N
- iclas Füllkrug 83'
-URL:https://en.wikipedia.org/wiki/2022_FIFA_World_Cup
+DESCRIPTION:2022 FIFA World Cup - Qatar\nGroup E | Matchday 8\nSpain 1-1 Ge
+ rmany\nHT: 0-0\nFT: 1-1\nGoals:\nESP 🇪🇸: Álvaro Morata 62'\nGER 
+ 🇩🇪: Niclas Füllkrug 83'
+URL:https://www.fifa.com/en/match-centre/match/17/255711/285063/400235474
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2022
@@ -541,11 +542,12 @@ GEO:25.159778;51.574083
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Al Janoub Stadium, Al Wakr
  ah";X-APPLE-RADIUS=100;X-TITLE="Al Janoub Stadium, Al Wakrah":geo:25.15977
  8,51.574083
-DESCRIPTION:Group G | Matchday 9 | 2022 FIFA World Cup - Qatar\nCameroon 3-
- 3 Serbia\nHT: 1-2\nGoals:\nCMR 🇨🇲: Jean-Charles Castelletto 29'\, Vi
- ncent Aboubakar 63'\, Jean-Eric Choupo-Moting 66'\nSRB 🇷🇸: Strahinja
-  Pavlović 45'\, Sergej Milinković-Savić 45'\, Aleksandar Mitrović 53'
-URL:https://en.wikipedia.org/wiki/2022_FIFA_World_Cup
+DESCRIPTION:2022 FIFA World Cup - Qatar\nGroup G | Matchday 9\nCameroon 3-3
+  Serbia\nHT: 1-2\nFT: 3-3\nGoals:\nCMR 🇨🇲: Jean-Charles Castelletto 
+ 29'\, Vincent Aboubakar 63'\, Jean-Eric Choupo-Moting 66'\nSRB 🇷🇸: S
+ trahinja Pavlović 45+1'\, Sergej Milinković-Savić 45+3'\, Aleksandar Mi
+ trović 53'
+URL:https://www.fifa.com/en/match-centre/match/17/255711/285063/400235487
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2022
@@ -561,11 +563,11 @@ GEO:25.310833;51.424444
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Education City Stadium, Al
   Rayyan";X-APPLE-RADIUS=100;X-TITLE="Education City Stadium, Al Rayyan":ge
  o:25.310833,51.424444
-DESCRIPTION:Group H | Matchday 9 | 2022 FIFA World Cup - Qatar\nSouth Korea
-  2-3 Ghana\nHT: 0-2\nGoals:\nKOR 🇰🇷: Cho Gue-sung 58'\, Cho Gue-sung
-  61'\nGHA 🇬🇭: Mohammed Salisu 24'\, Mohammed Kudus 34'\, Mohammed Ku
- dus 68'
-URL:https://en.wikipedia.org/wiki/2022_FIFA_World_Cup
+DESCRIPTION:2022 FIFA World Cup - Qatar\nGroup H | Matchday 9\nSouth Korea 
+ 2-3 Ghana\nHT: 0-2\nFT: 2-3\nGoals:\nKOR 🇰🇷: Cho Gue-sung 58'\, Cho 
+ Gue-sung 61'\nGHA 🇬🇭: Mohammed Salisu 24'\, Mohammed Kudus 34'\, Moh
+ ammed Kudus 68'
+URL:https://www.fifa.com/en/match-centre/match/17/255711/285063/400235489
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2022
@@ -580,9 +582,9 @@ LOCATION:Stadium 974\, Doha
 GEO:25.290000;51.565000
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadium 974, Doha";X-APPLE
  -RADIUS=100;X-TITLE="Stadium 974, Doha":geo:25.290000,51.565000
-DESCRIPTION:Group G | Matchday 9 | 2022 FIFA World Cup - Qatar\nBrazil 1-0 
- Switzerland\nHT: 0-0\nGoals:\nBRA 🇧🇷: Casemiro 83'
-URL:https://en.wikipedia.org/wiki/2022_FIFA_World_Cup
+DESCRIPTION:2022 FIFA World Cup - Qatar\nGroup G | Matchday 9\nBrazil 1-0 S
+ witzerland\nHT: 0-0\nFT: 1-0\nGoals:\nBRA 🇧🇷: Casemiro 83'
+URL:https://www.fifa.com/en/match-centre/match/17/255711/285063/400235485
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2022
@@ -598,10 +600,10 @@ GEO:25.420861;51.490389
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Lusail Iconic Stadium, Lus
  ail";X-APPLE-RADIUS=100;X-TITLE="Lusail Iconic Stadium, Lusail":geo:25.420
  861,51.490389
-DESCRIPTION:Group H | Matchday 9 | 2022 FIFA World Cup - Qatar\nPortugal 2-
- 0 Uruguay\nHT: 0-0\nGoals:\nPOR 🇵🇹: Bruno Fernandes 54'\, Bruno Fern
- andes 90' pen
-URL:https://en.wikipedia.org/wiki/2022_FIFA_World_Cup
+DESCRIPTION:2022 FIFA World Cup - Qatar\nGroup H | Matchday 9\nPortugal 2-0
+  Uruguay\nHT: 0-0\nFT: 2-0\nGoals:\nPOR 🇵🇹: Bruno Fernandes 54'\, Br
+ uno Fernandes 90+3' pen
+URL:https://www.fifa.com/en/match-centre/match/17/255711/285063/400235492
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2022
@@ -617,10 +619,10 @@ GEO:25.263611;51.448056
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Khalifa International Stad
  ium, Al Rayyan";X-APPLE-RADIUS=100;X-TITLE="Khalifa International Stadium,
   Al Rayyan":geo:25.263611,51.448056
-DESCRIPTION:Group A | Matchday 10 | 2022 FIFA World Cup - Qatar\nEcuador 1-
- 2 Senegal\nHT: 0-1\nGoals:\nECU 🇪🇨: Moisés Caicedo 67'\nSEN 🇸
- 🇳: Ismaila Sarr 44' pen\, Koulibaly 70'
-URL:https://en.wikipedia.org/wiki/2022_FIFA_World_Cup
+DESCRIPTION:2022 FIFA World Cup - Qatar\nGroup A | Matchday 10\nEcuador 1-2
+  Senegal\nHT: 0-1\nFT: 1-2\nGoals:\nECU 🇪🇨: Moisés Caicedo 67'\nSEN
+  🇸🇳: Ismaila Sarr 44' pen\, Koulibaly 70'
+URL:https://www.fifa.com/en/match-centre/match/17/255711/285063/400235451
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2022
@@ -636,10 +638,10 @@ GEO:25.652222;51.487778
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Al Bayt Stadium, Al Khor";
  X-APPLE-RADIUS=100;X-TITLE="Al Bayt Stadium, Al Khor":geo:25.652222,51.487
  778
-DESCRIPTION:Group A | Matchday 10 | 2022 FIFA World Cup - Qatar\nNetherland
- s 2-0 Qatar\nHT: 1-0\nGoals:\nNED 🇳🇱: Cody Gakpo 26'\, Frenkie de Jo
- ng 49'
-URL:https://en.wikipedia.org/wiki/2022_FIFA_World_Cup
+DESCRIPTION:2022 FIFA World Cup - Qatar\nGroup A | Matchday 10\nNetherlands
+  2-0 Qatar\nHT: 1-0\nFT: 2-0\nGoals:\nNED 🇳🇱: Cody Gakpo 26'\, Frenk
+ ie de Jong 49'
+URL:https://www.fifa.com/en/match-centre/match/17/255711/285063/400235450
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2022
@@ -655,9 +657,9 @@ GEO:25.235278;51.532222
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Al Thumama Stadium, Doha";
  X-APPLE-RADIUS=100;X-TITLE="Al Thumama Stadium, Doha":geo:25.235278,51.532
  222
-DESCRIPTION:Group B | Matchday 10 | 2022 FIFA World Cup - Qatar\nIran 0-1 U
- SA\nHT: 0-1\nGoals:\nUSA 🇺🇸: Pulisic 38'
-URL:https://en.wikipedia.org/wiki/2022_FIFA_World_Cup
+DESCRIPTION:2022 FIFA World Cup - Qatar\nGroup B | Matchday 10\nIran 0-1 US
+ A\nHT: 0-1\nFT: 0-1\nGoals:\nUSA 🇺🇸: Pulisic 38'
+URL:https://www.fifa.com/en/match-centre/match/17/255711/285063/400235456
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2022
@@ -674,10 +676,10 @@ GEO:25.329722;51.342222
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Ahmad bin Ali Stadium, Al 
  Rayyan";X-APPLE-RADIUS=100;X-TITLE="Ahmad bin Ali Stadium, Al Rayyan":geo:
  25.329722,51.342222
-DESCRIPTION:Group B | Matchday 10 | 2022 FIFA World Cup - Qatar\nWales 0-3 
- England\nHT: 0-0\nGoals:\nENG 🏴󠁧󠁢󠁥󠁮󠁧󠁿: Rashford 50'\,
-  Foden 51'\, Rashford 68'
-URL:https://en.wikipedia.org/wiki/2022_FIFA_World_Cup
+DESCRIPTION:2022 FIFA World Cup - Qatar\nGroup B | Matchday 10\nWales 0-3 E
+ ngland\nHT: 0-0\nFT: 0-3\nGoals:\nENG 🏴󠁧󠁢󠁥󠁮󠁧󠁿: Rashfo
+ rd 50'\, Foden 51'\, Rashford 68'
+URL:https://www.fifa.com/en/match-centre/match/17/255711/285063/400235454
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2022
@@ -693,9 +695,9 @@ GEO:25.159778;51.574083
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Al Janoub Stadium, Al Wakr
  ah";X-APPLE-RADIUS=100;X-TITLE="Al Janoub Stadium, Al Wakrah":geo:25.15977
  8,51.574083
-DESCRIPTION:Group D | Matchday 11 | 2022 FIFA World Cup - Qatar\nAustralia 
- 1-0 Denmark\nHT: 0-0\nGoals:\nAUS 🇦🇺: Mathew Leckie 60'
-URL:https://en.wikipedia.org/wiki/2022_FIFA_World_Cup
+DESCRIPTION:2022 FIFA World Cup - Qatar\nGroup D | Matchday 11\nAustralia 1
+ -0 Denmark\nHT: 0-0\nFT: 1-0\nGoals:\nAUS 🇦🇺: Mathew Leckie 60'
+URL:https://www.fifa.com/en/match-centre/match/17/255711/285063/400235468
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2022
@@ -711,9 +713,9 @@ GEO:25.310833;51.424444
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Education City Stadium, Al
   Rayyan";X-APPLE-RADIUS=100;X-TITLE="Education City Stadium, Al Rayyan":ge
  o:25.310833,51.424444
-DESCRIPTION:Group D | Matchday 11 | 2022 FIFA World Cup - Qatar\nTunisia 1-
- 0 France\nHT: 0-0\nGoals:\nTUN 🇹🇳: Wahbi Khazri 58'
-URL:https://en.wikipedia.org/wiki/2022_FIFA_World_Cup
+DESCRIPTION:2022 FIFA World Cup - Qatar\nGroup D | Matchday 11\nTunisia 1-0
+  France\nHT: 0-0\nFT: 1-0\nGoals:\nTUN 🇹🇳: Wahbi Khazri 58'
+URL:https://www.fifa.com/en/match-centre/match/17/255711/285063/400235465
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2022
@@ -728,10 +730,10 @@ LOCATION:Stadium 974\, Doha
 GEO:25.290000;51.565000
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadium 974, Doha";X-APPLE
  -RADIUS=100;X-TITLE="Stadium 974, Doha":geo:25.290000,51.565000
-DESCRIPTION:Group C | Matchday 11 | 2022 FIFA World Cup - Qatar\nPoland 0-2
-  Argentina\nHT: 0-0\nGoals:\nARG 🇦🇷: Mac Allister 46'\, Julián Álv
- arez 67'
-URL:https://en.wikipedia.org/wiki/2022_FIFA_World_Cup
+DESCRIPTION:2022 FIFA World Cup - Qatar\nGroup C | Matchday 11\nPoland 0-2 
+ Argentina\nHT: 0-0\nFT: 0-2\nGoals:\nARG 🇦🇷: Mac Allister 46'\, Juli
+ án Álvarez 67'
+URL:https://www.fifa.com/en/match-centre/match/17/255711/285063/400235464
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2022
@@ -747,10 +749,10 @@ GEO:25.420861;51.490389
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Lusail Iconic Stadium, Lus
  ail";X-APPLE-RADIUS=100;X-TITLE="Lusail Iconic Stadium, Lusail":geo:25.420
  861,51.490389
-DESCRIPTION:Group C | Matchday 11 | 2022 FIFA World Cup - Qatar\nSaudi Arab
- ia 1-2 Mexico\nHT: 0-0\nGoals:\nKSA 🇸🇦: Salem Al Dawasari 90'\nMEX 
- 🇲🇽: Henry Martín 47'\, Luis Chávez 52'
-URL:https://en.wikipedia.org/wiki/2022_FIFA_World_Cup
+DESCRIPTION:2022 FIFA World Cup - Qatar\nGroup C | Matchday 11\nSaudi Arabi
+ a 1-2 Mexico\nHT: 0-0\nFT: 1-2\nGoals:\nKSA 🇸🇦: Salem Al Dawasari 90
+ +5'\nMEX 🇲🇽: Henry Martín 47'\, Luis Chávez 52'
+URL:https://www.fifa.com/en/match-centre/match/17/255711/285063/400235460
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2022
@@ -766,10 +768,10 @@ GEO:25.235278;51.532222
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Al Thumama Stadium, Doha";
  X-APPLE-RADIUS=100;X-TITLE="Al Thumama Stadium, Doha":geo:25.235278,51.532
  222
-DESCRIPTION:Group F | Matchday 12 | 2022 FIFA World Cup - Qatar\nCanada 1-2
-  Morocco\nHT: 1-2\nGoals:\nCAN 🇨🇦: Nayef Aguerd 40' og\nMAR 🇲🇦
- : Hakim Zyiech 4'\, Youssef En-Nesyri 23'
-URL:https://en.wikipedia.org/wiki/2022_FIFA_World_Cup
+DESCRIPTION:2022 FIFA World Cup - Qatar\nGroup F | Matchday 12\nCanada 1-2 
+ Morocco\nHT: 1-2\nFT: 1-2\nGoals:\nCAN 🇨🇦: Nayef Aguerd 40' og\nMAR 
+ 🇲🇦: Hakim Zyiech 4'\, Youssef En-Nesyri 23'
+URL:https://www.fifa.com/en/match-centre/match/17/255711/285063/400235479
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2022
@@ -785,9 +787,9 @@ GEO:25.329722;51.342222
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Ahmad bin Ali Stadium, Al 
  Rayyan";X-APPLE-RADIUS=100;X-TITLE="Ahmad bin Ali Stadium, Al Rayyan":geo:
  25.329722,51.342222
-DESCRIPTION:Group F | Matchday 12 | 2022 FIFA World Cup - Qatar\nCroatia 0-
- 0 Belgium
-URL:https://en.wikipedia.org/wiki/2022_FIFA_World_Cup
+DESCRIPTION:2022 FIFA World Cup - Qatar\nGroup F | Matchday 12\nCroatia 0-0
+  Belgium\nHT: 0-0\nFT: 0-0
+URL:https://www.fifa.com/en/match-centre/match/17/255711/285063/400235478
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2022
@@ -803,11 +805,11 @@ GEO:25.652222;51.487778
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Al Bayt Stadium, Al Khor";
  X-APPLE-RADIUS=100;X-TITLE="Al Bayt Stadium, Al Khor":geo:25.652222,51.487
  778
-DESCRIPTION:Group E | Matchday 12 | 2022 FIFA World Cup - Qatar\nCosta Rica
-  2-4 Germany\nHT: 0-1\nGoals:\nCRC 🇨🇷: Yeltsin Tejeda 58'\, Juan Var
- gas 70'\nGER 🇩🇪: Serge Gnabry 10'\, Kai Lukas Havertz 73'\, Kai Luka
- s Havertz 85'\, Niclas Füllkrug 89'
-URL:https://en.wikipedia.org/wiki/2022_FIFA_World_Cup
+DESCRIPTION:2022 FIFA World Cup - Qatar\nGroup E | Matchday 12\nCosta Rica 
+ 2-4 Germany\nHT: 0-1\nFT: 2-4\nGoals:\nCRC 🇨🇷: Yeltsin Tejeda 58'\, 
+ Juan Vargas 70'\nGER 🇩🇪: Serge Gnabry 10'\, Kai Lukas Havertz 73'\, 
+ Kai Lukas Havertz 85'\, Niclas Füllkrug 89'
+URL:https://www.fifa.com/en/match-centre/match/17/255711/285063/400235473
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2022
@@ -823,10 +825,10 @@ GEO:25.263611;51.448056
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Khalifa International Stad
  ium, Al Rayyan";X-APPLE-RADIUS=100;X-TITLE="Khalifa International Stadium,
   Al Rayyan":geo:25.263611,51.448056
-DESCRIPTION:Group E | Matchday 12 | 2022 FIFA World Cup - Qatar\nJapan 2-1 
- Spain\nHT: 0-0\nGoals:\nJPN 🇯🇵: Ritsu Dōan 48'\, Ao Tanaka 51'\nESP
-  🇪🇸: Álvaro Morata 11'
-URL:https://en.wikipedia.org/wiki/2022_FIFA_World_Cup
+DESCRIPTION:2022 FIFA World Cup - Qatar\nGroup E | Matchday 12\nJapan 2-1 S
+ pain\nHT: 0-0\nFT: 2-1\nGoals:\nJPN 🇯🇵: Ritsu Dōan 48'\, Ao Tanaka 
+ 51'\nESP 🇪🇸: Álvaro Morata 11'
+URL:https://www.fifa.com/en/match-centre/match/17/255711/285063/400235475
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2022
@@ -842,10 +844,10 @@ GEO:25.159778;51.574083
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Al Janoub Stadium, Al Wakr
  ah";X-APPLE-RADIUS=100;X-TITLE="Al Janoub Stadium, Al Wakrah":geo:25.15977
  8,51.574083
-DESCRIPTION:Group H | Matchday 13 | 2022 FIFA World Cup - Qatar\nGhana 0-2 
- Uruguay\nGoals:\nURU 🇺🇾: Giorgian De Arrascaeta 26'\, Giorgian De Ar
- rascaeta 32'
-URL:https://en.wikipedia.org/wiki/2022_FIFA_World_Cup
+DESCRIPTION:2022 FIFA World Cup - Qatar\nGroup H | Matchday 13\nGhana 0-2 U
+ ruguay\nHT: 0-2\nFT: 0-2\nGoals:\nURU 🇺🇾: Giorgian De Arrascaeta 26'
+ \, Giorgian De Arrascaeta 32'
+URL:https://www.fifa.com/en/match-centre/match/17/255711/285063/400235494
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2022
@@ -861,10 +863,10 @@ GEO:25.420861;51.490389
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Lusail Iconic Stadium, Lus
  ail";X-APPLE-RADIUS=100;X-TITLE="Lusail Iconic Stadium, Lusail":geo:25.420
  861,51.490389
-DESCRIPTION:Group H | Matchday 13 | 2022 FIFA World Cup - Qatar\nSouth Kore
- a 2-1 Portugal\nHT: 1-1\nGoals:\nKOR 🇰🇷: Kim Young-gwon 27'\, Hwang 
- Hee-chan 90'\nPOR 🇵🇹: Ricardo Horta 5'
-URL:https://en.wikipedia.org/wiki/2022_FIFA_World_Cup
+DESCRIPTION:2022 FIFA World Cup - Qatar\nGroup H | Matchday 13\nSouth Korea
+  2-1 Portugal\nHT: 1-1\nFT: 2-1\nGoals:\nKOR 🇰🇷: Kim Young-gwon 27'\
+ , Hwang Hee-chan 90+1'\nPOR 🇵🇹: Ricardo Horta 5'
+URL:https://www.fifa.com/en/match-centre/match/17/255711/285063/400235490
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2022
@@ -880,9 +882,9 @@ GEO:25.420861;51.490389
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Lusail Iconic Stadium, Lus
  ail";X-APPLE-RADIUS=100;X-TITLE="Lusail Iconic Stadium, Lusail":geo:25.420
  861,51.490389
-DESCRIPTION:Group G | Matchday 13 | 2022 FIFA World Cup - Qatar\nCameroon 1
- -0 Brazil\nHT: 0-0\nGoals:\nCMR 🇨🇲: Vincent Aboubakar 90'
-URL:https://en.wikipedia.org/wiki/2022_FIFA_World_Cup
+DESCRIPTION:2022 FIFA World Cup - Qatar\nGroup G | Matchday 13\nCameroon 1-
+ 0 Brazil\nHT: 0-0\nFT: 1-0\nGoals:\nCMR 🇨🇲: Vincent Aboubakar 90+2'
+URL:https://www.fifa.com/en/match-centre/match/17/255711/285063/400235483
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2022
@@ -897,11 +899,11 @@ LOCATION:Stadium 974\, Doha
 GEO:25.290000;51.565000
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadium 974, Doha";X-APPLE
  -RADIUS=100;X-TITLE="Stadium 974, Doha":geo:25.290000,51.565000
-DESCRIPTION:Group G | Matchday 13 | 2022 FIFA World Cup - Qatar\nSerbia 2-3
-  Switzerland\nHT: 2-1\nGoals:\nSRB 🇷🇸: Aleksandar Mitrović 26'\, Du
- šan Vlahović 35'\nSUI 🇨🇭: Xherdan Shaqiri 20'\, Breel Embolo 44'\,
-  Freuler 48'
-URL:https://en.wikipedia.org/wiki/2022_FIFA_World_Cup
+DESCRIPTION:2022 FIFA World Cup - Qatar\nGroup G | Matchday 13\nSerbia 2-3 
+ Switzerland\nHT: 2-1\nFT: 2-3\nGoals:\nSRB 🇷🇸: Aleksandar Mitrović 
+ 26'\, Dušan Vlahović 35'\nSUI 🇨🇭: Xherdan Shaqiri 20'\, Breel Embo
+ lo 44'\, Freuler 48'
+URL:https://www.fifa.com/en/match-centre/match/17/255711/285063/400235486
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2022
@@ -917,10 +919,10 @@ GEO:25.263611;51.448056
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Khalifa International Stad
  ium, Al Rayyan";X-APPLE-RADIUS=100;X-TITLE="Khalifa International Stadium,
   Al Rayyan":geo:25.263611,51.448056
-DESCRIPTION:Round of 16 | 2022 FIFA World Cup - Qatar\nNetherlands 3-1 USA\
- nHT: 2-0\nGoals:\nNED 🇳🇱: Memphis Depay 10'\, Daley Blind 45'\, Denz
- el Dumfries 81'\nUSA 🇺🇸: Haji Wright 76'
-URL:https://en.wikipedia.org/wiki/2022_FIFA_World_Cup
+DESCRIPTION:2022 FIFA World Cup - Qatar\nRound of 16\nNetherlands 3-1 USA\n
+ HT: 2-0\nFT: 3-1\nGoals:\nNED 🇳🇱: Memphis Depay 10'\, Daley Blind 45
+ +1'\, Denzel Dumfries 81'\nUSA 🇺🇸: Haji Wright 76'
+URL:https://www.fifa.com/en/match-centre/match/17/255711/285073/400128136
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2022
@@ -936,10 +938,10 @@ GEO:25.329722;51.342222
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Ahmad bin Ali Stadium, Al 
  Rayyan";X-APPLE-RADIUS=100;X-TITLE="Ahmad bin Ali Stadium, Al Rayyan":geo:
  25.329722,51.342222
-DESCRIPTION:Round of 16 | 2022 FIFA World Cup - Qatar\nArgentina 2-1 Austra
- lia\nHT: 1-0\nGoals:\nARG 🇦🇷: Lionel Messi 35'\, Julián Álvarez 57
- '\nAUS 🇦🇺: Enzo Fernández 77' og
-URL:https://en.wikipedia.org/wiki/2022_FIFA_World_Cup
+DESCRIPTION:2022 FIFA World Cup - Qatar\nRound of 16\nArgentina 2-1 Austral
+ ia\nHT: 1-0\nFT: 2-1\nGoals:\nARG 🇦🇷: Lionel Messi 35'\, Julián Ál
+ varez 57'\nAUS 🇦🇺: Enzo Fernández 77' og
+URL:https://www.fifa.com/en/match-centre/match/17/255711/285073/400128131
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2022
@@ -955,10 +957,10 @@ GEO:25.235278;51.532222
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Al Thumama Stadium, Doha";
  X-APPLE-RADIUS=100;X-TITLE="Al Thumama Stadium, Doha":geo:25.235278,51.532
  222
-DESCRIPTION:Round of 16 | 2022 FIFA World Cup - Qatar\nFrance 3-1 Poland\nH
- T: 1-0\nGoals:\nFRA 🇫🇷: Olivier Giroud 44'\, Mbappé 74'\, Mbappé 9
- 0'\nPOL 🇵🇱: Robert Lewandowski 90' pen
-URL:https://en.wikipedia.org/wiki/2022_FIFA_World_Cup
+DESCRIPTION:2022 FIFA World Cup - Qatar\nRound of 16\nFrance 3-1 Poland\nHT
+ : 1-0\nFT: 3-1\nGoals:\nFRA 🇫🇷: Olivier Giroud 44'\, Mbappé 74'\, M
+ bappé 90+1'\nPOL 🇵🇱: Robert Lewandowski 90+9' pen
+URL:https://www.fifa.com/en/match-centre/match/17/255711/285073/400128135
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2022
@@ -974,10 +976,10 @@ GEO:25.652222;51.487778
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Al Bayt Stadium, Al Khor";
  X-APPLE-RADIUS=100;X-TITLE="Al Bayt Stadium, Al Khor":geo:25.652222,51.487
  778
-DESCRIPTION:Round of 16 | 2022 FIFA World Cup - Qatar\nEngland 3-0 Senegal\
- nHT: 2-0\nGoals:\nENG 🏴󠁧󠁢󠁥󠁮󠁧󠁿: Jordan Henderson 38'\,
-  Harry Kane 45'\, Bukayo Saka 57'
-URL:https://en.wikipedia.org/wiki/2022_FIFA_World_Cup
+DESCRIPTION:2022 FIFA World Cup - Qatar\nRound of 16\nEngland 3-0 Senegal\n
+ HT: 2-0\nFT: 3-0\nGoals:\nENG 🏴󠁧󠁢󠁥󠁮󠁧󠁿: Jordan Henders
+ on 38'\, Harry Kane 45+3'\, Bukayo Saka 57'
+URL:https://www.fifa.com/en/match-centre/match/17/255711/285073/400128134
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2022
@@ -993,10 +995,10 @@ GEO:25.159778;51.574083
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Al Janoub Stadium, Al Wakr
  ah";X-APPLE-RADIUS=100;X-TITLE="Al Janoub Stadium, Al Wakrah":geo:25.15977
  8,51.574083
-DESCRIPTION:Round of 16 | 2022 FIFA World Cup - Qatar\nJapan 1-1 Croatia\nH
- T: 1-0\nFT: 1-1\nAET: 1-1\nPenalties: 1-3\nGoals:\nJPN 🇯🇵: Daizen Ma
- eda 43'\nCRO 🇭🇷: Ivan Perišić 55'
-URL:https://en.wikipedia.org/wiki/2022_FIFA_World_Cup
+DESCRIPTION:2022 FIFA World Cup - Qatar\nRound of 16\nJapan 1-1 Croatia\nHT
+ : 1-0\nFT: 1-1\nAET: 1-1\nPenalties: 1-3\nGoals:\nJPN 🇯🇵: Daizen Mae
+ da 43'\nCRO 🇭🇷: Ivan Perišić 55'
+URL:https://www.fifa.com/en/match-centre/match/17/255711/285073/400128132
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2022
@@ -1011,10 +1013,10 @@ LOCATION:Stadium 974\, Doha
 GEO:25.290000;51.565000
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stadium 974, Doha";X-APPLE
  -RADIUS=100;X-TITLE="Stadium 974, Doha":geo:25.290000,51.565000
-DESCRIPTION:Round of 16 | 2022 FIFA World Cup - Qatar\nBrazil 4-1 South Kor
- ea\nHT: 4-0\nGoals:\nBRA 🇧🇷: Vinícius Jr. 7'\, Neymar 13' pen\, Ric
- harlison 29'\, Lucas Paquetá 36'\nKOR 🇰🇷: Paik Seung-ho 76'
-URL:https://en.wikipedia.org/wiki/2022_FIFA_World_Cup
+DESCRIPTION:2022 FIFA World Cup - Qatar\nRound of 16\nBrazil 4-1 South Kore
+ a\nHT: 4-0\nFT: 4-1\nGoals:\nBRA 🇧🇷: Vinícius Jr. 7'\, Neymar 13' p
+ en\, Richarlison 29'\, Lucas Paquetá 36'\nKOR 🇰🇷: Paik Seung-ho 76'
+URL:https://www.fifa.com/en/match-centre/match/17/255711/285073/400128133
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2022
@@ -1030,9 +1032,9 @@ GEO:25.310833;51.424444
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Education City Stadium, Al
   Rayyan";X-APPLE-RADIUS=100;X-TITLE="Education City Stadium, Al Rayyan":ge
  o:25.310833,51.424444
-DESCRIPTION:Round of 16 | 2022 FIFA World Cup - Qatar\nMorocco 0-0 Spain\nH
- T: 0-0\nFT: 0-0\nAET: 0-0\nPenalties: 3-0
-URL:https://en.wikipedia.org/wiki/2022_FIFA_World_Cup
+DESCRIPTION:2022 FIFA World Cup - Qatar\nRound of 16\nMorocco 0-0 Spain\nHT
+ : 0-0\nFT: 0-0\nAET: 0-0\nPenalties: 3-0
+URL:https://www.fifa.com/en/match-centre/match/17/255711/285073/400128137
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2022
@@ -1048,11 +1050,11 @@ GEO:25.420861;51.490389
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Lusail Iconic Stadium, Lus
  ail";X-APPLE-RADIUS=100;X-TITLE="Lusail Iconic Stadium, Lusail":geo:25.420
  861,51.490389
-DESCRIPTION:Round of 16 | 2022 FIFA World Cup - Qatar\nPortugal 6-1 Switzer
- land\nHT: 2-0\nGoals:\nPOR 🇵🇹: Gonçalo Ramos 17'\, Gonçalo Ramos 5
- 1'\, Gonçalo Ramos 67'\, Pepe 33'\, Raphaël Guerreiro 55'\, Rafael Leão
-  90'\nSUI 🇨🇭: Manuel Akanji 58'
-URL:https://en.wikipedia.org/wiki/2022_FIFA_World_Cup
+DESCRIPTION:2022 FIFA World Cup - Qatar\nRound of 16\nPortugal 6-1 Switzerl
+ and\nHT: 2-0\nFT: 6-1\nGoals:\nPOR 🇵🇹: Gonçalo Ramos 17'\, Gonçalo
+  Ramos 51'\, Gonçalo Ramos 67'\, Pepe 33'\, Raphaël Guerreiro 55'\, Rafa
+ el Leão 90+2'\nSUI 🇨🇭: Manuel Akanji 58'
+URL:https://www.fifa.com/en/match-centre/match/17/255711/285073/400128130
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2022
@@ -1068,10 +1070,10 @@ GEO:25.310833;51.424444
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Education City Stadium, Al
   Rayyan";X-APPLE-RADIUS=100;X-TITLE="Education City Stadium, Al Rayyan":ge
  o:25.310833,51.424444
-DESCRIPTION:Quarter-finals | 2022 FIFA World Cup - Qatar\nCroatia 1-1 Brazi
- l\nHT: 0-0\nFT: 0-0\nAET: 1-1\nPenalties: 4-2\nGoals:\nCRO 🇭🇷: Bruno
-  Petković 117'\nBRA 🇧🇷: Neymar 105'
-URL:https://en.wikipedia.org/wiki/2022_FIFA_World_Cup
+DESCRIPTION:2022 FIFA World Cup - Qatar\nQuarter-finals\nCroatia 1-1 Brazil
+ \nHT: 0-0\nFT: 0-0\nAET: 1-1\nPenalties: 4-2\nGoals:\nCRO 🇭🇷: Bruno 
+ Petković 117'\nBRA 🇧🇷: Neymar 105+1'
+URL:https://www.fifa.com/en/match-centre/match/17/255711/285074/400128141
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2022
@@ -1087,11 +1089,11 @@ GEO:25.420861;51.490389
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Lusail Iconic Stadium, Lus
  ail";X-APPLE-RADIUS=100;X-TITLE="Lusail Iconic Stadium, Lusail":geo:25.420
  861,51.490389
-DESCRIPTION:Quarter-finals | 2022 FIFA World Cup - Qatar\nNetherlands 2-2 A
- rgentina\nHT: 1-0\nFT: 2-2\nAET: 2-2\nPenalties: 3-4\nGoals:\nNED 🇳🇱
- : Wout Werghost 83'\, Wout Werghost 90'\nARG 🇦🇷: Nahuel Molina 35'\,
-  Lionel Messi 73' pen
-URL:https://en.wikipedia.org/wiki/2022_FIFA_World_Cup
+DESCRIPTION:2022 FIFA World Cup - Qatar\nQuarter-finals\nNetherlands 2-2 Ar
+ gentina\nHT: 1-0\nFT: 2-2\nAET: 2-2\nPenalties: 3-4\nGoals:\nNED 🇳🇱:
+  Wout Werghost 83'\, Wout Werghost 90+11'\nARG 🇦🇷: Nahuel Molina 35'
+ \, Lionel Messi 73' pen
+URL:https://www.fifa.com/en/match-centre/match/17/255711/285074/400128139
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2022
@@ -1107,9 +1109,9 @@ GEO:25.235278;51.532222
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Al Thumama Stadium, Doha";
  X-APPLE-RADIUS=100;X-TITLE="Al Thumama Stadium, Doha":geo:25.235278,51.532
  222
-DESCRIPTION:Quarter-finals | 2022 FIFA World Cup - Qatar\nMorocco 1-0 Portu
- gal\nHT: 1-0\nGoals:\nMAR 🇲🇦: Youssef En-Nesyri 42'
-URL:https://en.wikipedia.org/wiki/2022_FIFA_World_Cup
+DESCRIPTION:2022 FIFA World Cup - Qatar\nQuarter-finals\nMorocco 1-0 Portug
+ al\nHT: 1-0\nFT: 1-0\nGoals:\nMAR 🇲🇦: Youssef En-Nesyri 42'
+URL:https://www.fifa.com/en/match-centre/match/17/255711/285074/400128140
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2022
@@ -1125,10 +1127,10 @@ GEO:25.652222;51.487778
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Al Bayt Stadium, Al Khor";
  X-APPLE-RADIUS=100;X-TITLE="Al Bayt Stadium, Al Khor":geo:25.652222,51.487
  778
-DESCRIPTION:Quarter-finals | 2022 FIFA World Cup - Qatar\nEngland 1-2 Franc
- e\nHT: 0-1\nGoals:\nENG 🏴󠁧󠁢󠁥󠁮󠁧󠁿: Harry Kane 54' pen\n
- FRA 🇫🇷: Aurelién Tchouaméni 17'\, Olivier Giroud 78'
-URL:https://en.wikipedia.org/wiki/2022_FIFA_World_Cup
+DESCRIPTION:2022 FIFA World Cup - Qatar\nQuarter-finals\nEngland 1-2 France
+ \nHT: 0-1\nFT: 1-2\nGoals:\nENG 🏴󠁧󠁢󠁥󠁮󠁧󠁿: Harry Kane 5
+ 4' pen\nFRA 🇫🇷: Aurelién Tchouaméni 17'\, Olivier Giroud 78'
+URL:https://www.fifa.com/en/match-centre/match/17/255711/285074/400128138
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2022
@@ -1144,10 +1146,10 @@ GEO:25.420861;51.490389
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Lusail Iconic Stadium, Lus
  ail";X-APPLE-RADIUS=100;X-TITLE="Lusail Iconic Stadium, Lusail":geo:25.420
  861,51.490389
-DESCRIPTION:Semi-finals | 2022 FIFA World Cup - Qatar\nArgentina 3-0 Croati
- a\nHT: 2-0\nGoals:\nARG 🇦🇷: Lionel Messi 34' pen\, Julián Álvarez 
- 39'\, Julián Álvarez 69'
-URL:https://en.wikipedia.org/wiki/2022_FIFA_World_Cup
+DESCRIPTION:2022 FIFA World Cup - Qatar\nSemi-finals\nArgentina 3-0 Croatia
+ \nHT: 2-0\nFT: 3-0\nGoals:\nARG 🇦🇷: Lionel Messi 34' pen\, Julián 
+ Álvarez 39'\, Julián Álvarez 69'
+URL:https://www.fifa.com/en/match-centre/match/17/255711/285075/400128143
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2022
@@ -1163,9 +1165,9 @@ GEO:25.652222;51.487778
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Al Bayt Stadium, Al Khor";
  X-APPLE-RADIUS=100;X-TITLE="Al Bayt Stadium, Al Khor":geo:25.652222,51.487
  778
-DESCRIPTION:Semi-finals | 2022 FIFA World Cup - Qatar\nFrance 2-0 Morocco\n
- HT: 1-0\nGoals:\nFRA 🇫🇷: Théo Hernandez 5'\, Kolo Muani 79'
-URL:https://en.wikipedia.org/wiki/2022_FIFA_World_Cup
+DESCRIPTION:2022 FIFA World Cup - Qatar\nSemi-finals\nFrance 2-0 Morocco\nH
+ T: 1-0\nFT: 2-0\nGoals:\nFRA 🇫🇷: Théo Hernandez 5'\, Kolo Muani 79'
+URL:https://www.fifa.com/en/match-centre/match/17/255711/285075/400128142
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2022
@@ -1181,10 +1183,10 @@ GEO:25.263611;51.448056
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Khalifa International Stad
  ium, Al Rayyan";X-APPLE-RADIUS=100;X-TITLE="Khalifa International Stadium,
   Al Rayyan":geo:25.263611,51.448056
-DESCRIPTION:Match for third place | 2022 FIFA World Cup - Qatar\nCroatia 2-
- 1 Morocco\nHT: 2-1\nGoals:\nCRO 🇭🇷: Joško Gvardiol 7'\, Mislav Orš
- ić 42'\nMAR 🇲🇦: Achraf Dari 9'
-URL:https://en.wikipedia.org/wiki/2022_FIFA_World_Cup
+DESCRIPTION:2022 FIFA World Cup - Qatar\nMatch for third place\nCroatia 2-1
+  Morocco\nHT: 2-1\nFT: 2-1\nGoals:\nCRO 🇭🇷: Joško Gvardiol 7'\, Mis
+ lav Oršić 42'\nMAR 🇲🇦: Achraf Dari 9'
+URL:https://www.fifa.com/en/match-centre/match/17/255711/285076/400128144
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2022
@@ -1200,11 +1202,11 @@ GEO:25.420861;51.490389
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Lusail Iconic Stadium, Lus
  ail";X-APPLE-RADIUS=100;X-TITLE="Lusail Iconic Stadium, Lusail":geo:25.420
  861,51.490389
-DESCRIPTION:Final | 2022 FIFA World Cup - Qatar\nArgentina 3-3 France\nHT: 
- 2-0\nFT: 2-2\nAET: 3-3\nPenalties: 4-2\nGoals:\nARG 🇦🇷: Lionel Messi
-  23' pen\, Lionel Messi 108'\, Ángel Di María 36'\nFRA 🇫🇷: Kylian 
- Mbappé 80' pen\, Kylian Mbappé 81'\, Kylian Mbappé 118' pen
-URL:https://en.wikipedia.org/wiki/2022_FIFA_World_Cup
+DESCRIPTION:2022 FIFA World Cup - Qatar\nFinal\nArgentina 3-3 France\nHT: 2
+ -0\nFT: 2-2\nAET: 3-3\nPenalties: 4-2\nGoals:\nARG 🇦🇷: Lionel Messi 
+ 23' pen\, Lionel Messi 108'\, Ángel Di María 36'\nFRA 🇫🇷: Kylian M
+ bappé 80' pen\, Kylian Mbappé 81'\, Kylian Mbappé 118' pen
+URL:https://www.fifa.com/en/match-centre/match/17/255711/285077/400128145
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2022

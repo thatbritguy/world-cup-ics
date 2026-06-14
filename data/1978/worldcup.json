@@ -10,10 +10,34 @@
         "ft": [
           2,
           1
+        ],
+        "ht": [
+          1,
+          1
         ]
       },
       "group": "Group 1",
-      "ground": "Estadio Monumental, Buenos Aires"
+      "ground": "Estadio Monumental, Buenos Aires",
+      "goals1": [
+        {
+          "name": "Luqué",
+          "minute": 15
+        },
+        {
+          "name": "Bertoni",
+          "minute": 84
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Csapó",
+          "minute": 10
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 1",
@@ -24,10 +48,21 @@
         "ft": [
           2,
           1
+        ],
+        "ht": [
+          1,
+          1
         ]
       },
       "group": "Group 1",
-      "ground": "Estadio José María Minella, Mar del Plata"
+      "ground": "Estadio José María Minella, Mar del Plata",
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": false,
+        "missing_fields": [
+          "goalscorers"
+        ]
+      }
     },
     {
       "round": "Matchday 2",
@@ -38,10 +73,35 @@
         "ft": [
           2,
           1
+        ],
+        "ht": [
+          1,
+          0
         ]
       },
       "group": "Group 1",
-      "ground": "Estadio Monumental, Buenos Aires"
+      "ground": "Estadio Monumental, Buenos Aires",
+      "goals1": [
+        {
+          "name": "Passarella",
+          "minute": 45,
+          "penalty": true
+        },
+        {
+          "name": "Luqué",
+          "minute": 73
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Platini",
+          "minute": 60
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 2",
@@ -52,10 +112,39 @@
         "ft": [
           3,
           1
+        ],
+        "ht": [
+          2,
+          0
         ]
       },
       "group": "Group 1",
-      "ground": "Estadio José María Minella, Mar del Plata"
+      "ground": "Estadio José María Minella, Mar del Plata",
+      "goals1": [
+        {
+          "name": "Rossi",
+          "minute": 34
+        },
+        {
+          "name": "Bettega",
+          "minute": 36
+        },
+        {
+          "name": "Benetti",
+          "minute": 60
+        }
+      ],
+      "goals2": [
+        {
+          "name": "A.Tóth",
+          "minute": 81,
+          "penalty": true
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 3",
@@ -66,10 +155,25 @@
         "ft": [
           0,
           1
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group 1",
-      "ground": "Estadio Monumental, Buenos Aires"
+      "ground": "Estadio Monumental, Buenos Aires",
+      "goals1": [],
+      "goals2": [
+        {
+          "name": "Bettega",
+          "minute": 67
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 3",
@@ -80,10 +184,38 @@
         "ft": [
           3,
           1
+        ],
+        "ht": [
+          3,
+          1
         ]
       },
       "group": "Group 1",
-      "ground": "Estadio José María Minella, Mar del Plata"
+      "ground": "Estadio José María Minella, Mar del Plata",
+      "goals1": [
+        {
+          "name": "López",
+          "minute": 22
+        },
+        {
+          "name": "Berdoll",
+          "minute": 37
+        },
+        {
+          "name": "Rocheteau",
+          "minute": 42
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Zombori",
+          "minute": 41
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 1",
@@ -94,10 +226,18 @@
         "ft": [
           0,
           0
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group 2",
-      "ground": "Estadio Monumental, Buenos Aires"
+      "ground": "Estadio Monumental, Buenos Aires",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 1",
@@ -108,10 +248,39 @@
         "ft": [
           3,
           1
+        ],
+        "ht": [
+          0,
+          1
         ]
       },
       "group": "Group 2",
-      "ground": "Estadio Gigante de Arroyito, Rosario"
+      "ground": "Estadio Gigante de Arroyito, Rosario",
+      "goals1": [
+        {
+          "name": "Kaabi",
+          "minute": 55
+        },
+        {
+          "name": "Ghommidh",
+          "minute": 79
+        },
+        {
+          "name": "Dhouieb",
+          "minute": 87
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Vásquez-Ayala",
+          "minute": 45,
+          "penalty": true
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 2",
@@ -122,10 +291,25 @@
         "ft": [
           1,
           0
+        ],
+        "ht": [
+          1,
+          0
         ]
       },
       "group": "Group 2",
-      "ground": "Estadio Gigante de Arroyito, Rosario"
+      "ground": "Estadio Gigante de Arroyito, Rosario",
+      "goals1": [
+        {
+          "name": "Lato",
+          "minute": 43
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 2",
@@ -136,10 +320,45 @@
         "ft": [
           6,
           0
+        ],
+        "ht": [
+          4,
+          0
         ]
       },
       "group": "Group 2",
-      "ground": "Estadio Chateau Carreras, Córdoba"
+      "ground": "Estadio Chateau Carreras, Córdoba",
+      "goals1": [
+        {
+          "name": "D.Müller",
+          "minute": 15
+        },
+        {
+          "name": "H.Müller",
+          "minute": 30
+        },
+        {
+          "name": "Rummenige",
+          "minute": 38
+        },
+        {
+          "name": "Flohe",
+          "minute": 40
+        },
+        {
+          "name": "Rummenige",
+          "minute": 73
+        },
+        {
+          "name": "Flohe",
+          "minute": 90
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 3",
@@ -150,10 +369,38 @@
         "ft": [
           3,
           1
+        ],
+        "ht": [
+          1,
+          0
         ]
       },
       "group": "Group 2",
-      "ground": "Estadio Gigante de Arroyito, Rosario"
+      "ground": "Estadio Gigante de Arroyito, Rosario",
+      "goals1": [
+        {
+          "name": "Boniek",
+          "minute": 43
+        },
+        {
+          "name": "Deyna",
+          "minute": 56
+        },
+        {
+          "name": "Boniek",
+          "minute": 84
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Rangel",
+          "minute": 52
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 3",
@@ -164,10 +411,18 @@
         "ft": [
           0,
           0
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group 2",
-      "ground": "Estadio Olímpico Chateau Carreras, Córdoba"
+      "ground": "Estadio Olímpico Chateau Carreras, Córdoba",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 1",
@@ -178,10 +433,34 @@
         "ft": [
           2,
           1
+        ],
+        "ht": [
+          1,
+          1
         ]
       },
       "group": "Group 3",
-      "ground": "Estadio José Amalfitani, Buenos Aires"
+      "ground": "Estadio José Amalfitani, Buenos Aires",
+      "goals1": [
+        {
+          "name": "Schachner",
+          "minute": 10
+        },
+        {
+          "name": "Krankl",
+          "minute": 77
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Dani",
+          "minute": 21
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 1",
@@ -192,10 +471,30 @@
         "ft": [
           1,
           1
+        ],
+        "ht": [
+          1,
+          1
         ]
       },
       "group": "Group 3",
-      "ground": "Estadio José Maria Minella, Mar del Plata"
+      "ground": "Estadio José Maria Minella, Mar del Plata",
+      "goals1": [
+        {
+          "name": "Reinaldo",
+          "minute": 45
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Sjöberg",
+          "minute": 38
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 2",
@@ -206,10 +505,26 @@
         "ft": [
           1,
           0
+        ],
+        "ht": [
+          1,
+          0
         ]
       },
       "group": "Group 3",
-      "ground": "Estadio José Amalfitani, Buenos Aires"
+      "ground": "Estadio José Amalfitani, Buenos Aires",
+      "goals1": [
+        {
+          "name": "Krankl",
+          "minute": 42,
+          "penalty": true
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 2",
@@ -220,10 +535,18 @@
         "ft": [
           0,
           0
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group 3",
-      "ground": "Estadio José Maria Minella, Mar del Plata"
+      "ground": "Estadio José Maria Minella, Mar del Plata",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 3",
@@ -234,10 +557,25 @@
         "ft": [
           1,
           0
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group 3",
-      "ground": "Estadio José Amalfitani, Buenos Aires"
+      "ground": "Estadio José Amalfitani, Buenos Aires",
+      "goals1": [
+        {
+          "name": "Asensi",
+          "minute": 78
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 3",
@@ -248,10 +586,25 @@
         "ft": [
           1,
           0
+        ],
+        "ht": [
+          1,
+          0
         ]
       },
       "group": "Group 3",
-      "ground": "Estadio José Maria Minella, Mar del Plata"
+      "ground": "Estadio José Maria Minella, Mar del Plata",
+      "goals1": [
+        {
+          "name": "Roberto",
+          "minute": 40
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 1",
@@ -262,10 +615,38 @@
         "ft": [
           3,
           1
+        ],
+        "ht": [
+          1,
+          1
         ]
       },
       "group": "Group 4",
-      "ground": "Estadio Chateau Carreras, Córdoba"
+      "ground": "Estadio Chateau Carreras, Córdoba",
+      "goals1": [
+        {
+          "name": "Cueto",
+          "minute": 43
+        },
+        {
+          "name": "Cubillas",
+          "minute": 72
+        },
+        {
+          "name": "Cubillas",
+          "minute": 77
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Jordan",
+          "minute": 14
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 1",
@@ -276,10 +657,35 @@
         "ft": [
           3,
           0
+        ],
+        "ht": [
+          1,
+          0
         ]
       },
       "group": "Group 4",
-      "ground": "Estadio Ciudad de Mendoza, Mendoza"
+      "ground": "Estadio Ciudad de Mendoza, Mendoza",
+      "goals1": [
+        {
+          "name": "Rensenbrink",
+          "minute": 40,
+          "penalty": true
+        },
+        {
+          "name": "Rensenbrink",
+          "minute": 62
+        },
+        {
+          "name": "Rensenbrink",
+          "minute": 75,
+          "penalty": true
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 2",
@@ -290,10 +696,30 @@
         "ft": [
           1,
           1
+        ],
+        "ht": [
+          1,
+          0
         ]
       },
       "group": "Group 4",
-      "ground": "Estadio Chateau Carreras, Córdoba"
+      "ground": "Estadio Chateau Carreras, Córdoba",
+      "goals1": [
+        {
+          "name": "Eskandarian",
+          "minute": 43
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Danaifar",
+          "minute": 60
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 2",
@@ -304,10 +730,18 @@
         "ft": [
           0,
           0
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group 4",
-      "ground": "Estadio Ciudad de Mendoza, Mendoza"
+      "ground": "Estadio Ciudad de Mendoza, Mendoza",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 3",
@@ -318,10 +752,44 @@
         "ft": [
           4,
           1
+        ],
+        "ht": [
+          3,
+          1
         ]
       },
       "group": "Group 4",
-      "ground": "Estadio Chateau Carreras, Córdoba"
+      "ground": "Estadio Chateau Carreras, Córdoba",
+      "goals1": [
+        {
+          "name": "Velasquez",
+          "minute": 2
+        },
+        {
+          "name": "Cubillas",
+          "minute": 36,
+          "penalty": true
+        },
+        {
+          "name": "Cubillas",
+          "minute": 39,
+          "penalty": true
+        },
+        {
+          "name": "Cubillas",
+          "minute": 79
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Rowshan",
+          "minute": 41
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 3",
@@ -332,10 +800,44 @@
         "ft": [
           3,
           2
+        ],
+        "ht": [
+          1,
+          1
         ]
       },
       "group": "Group 4",
-      "ground": "Estadio Ciudad de Mendoza, Mendoza"
+      "ground": "Estadio Ciudad de Mendoza, Mendoza",
+      "goals1": [
+        {
+          "name": "Dalglish",
+          "minute": 44
+        },
+        {
+          "name": "Gemmill",
+          "minute": 47,
+          "penalty": true
+        },
+        {
+          "name": "Gemmill",
+          "minute": 68
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Rensenbrink",
+          "minute": 34,
+          "penalty": true
+        },
+        {
+          "name": "Rep",
+          "minute": 72
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 4",
@@ -346,10 +848,18 @@
         "ft": [
           0,
           0
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group A",
-      "ground": "Estadio Monumental, Buenos Aires"
+      "ground": "Estadio Monumental, Buenos Aires",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 4",
@@ -360,10 +870,47 @@
         "ft": [
           1,
           5
+        ],
+        "ht": [
+          0,
+          3
         ]
       },
       "group": "Group A",
-      "ground": "Estadio Chateau Carreras, Córdoba"
+      "ground": "Estadio Chateau Carreras, Córdoba",
+      "goals1": [
+        {
+          "name": "Obermayer",
+          "minute": 70
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Brandts",
+          "minute": 7
+        },
+        {
+          "name": "Rensenbrink",
+          "minute": 35,
+          "penalty": true
+        },
+        {
+          "name": "Rep",
+          "minute": 37
+        },
+        {
+          "name": "Rep",
+          "minute": 53
+        },
+        {
+          "name": "W.Van de Kerkhof",
+          "minute": 87
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 5",
@@ -374,10 +921,25 @@
         "ft": [
           1,
           0
+        ],
+        "ht": [
+          1,
+          0
         ]
       },
       "group": "Group A",
-      "ground": "Estadio Monumental, Buenos Aires"
+      "ground": "Estadio Monumental, Buenos Aires",
+      "goals1": [
+        {
+          "name": "Rossi",
+          "minute": 14
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 5",
@@ -388,10 +950,38 @@
         "ft": [
           2,
           2
+        ],
+        "ht": [
+          1,
+          1
         ]
       },
       "group": "Group A",
-      "ground": "Estadio Chateau Carreras, Córdoba"
+      "ground": "Estadio Chateau Carreras, Córdoba",
+      "goals1": [
+        {
+          "name": "Haan",
+          "minute": 27
+        },
+        {
+          "name": "R.Van de Kerkhof",
+          "minute": 87
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Abramczik",
+          "minute": 3
+        },
+        {
+          "name": "D.Müller",
+          "minute": 70
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 6",
@@ -402,10 +992,35 @@
         "ft": [
           1,
           2
+        ],
+        "ht": [
+          1,
+          0
         ]
       },
       "group": "Group A",
-      "ground": "Estadio Monumental, Buenos Aires"
+      "ground": "Estadio Monumental, Buenos Aires",
+      "goals1": [
+        {
+          "name": "Brandts",
+          "minute": 19,
+          "owngoal": true
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Brandts",
+          "minute": 50
+        },
+        {
+          "name": "Haan",
+          "minute": 75
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 6",
@@ -416,10 +1031,43 @@
         "ft": [
           3,
           2
+        ],
+        "ht": [
+          0,
+          1
         ]
       },
       "group": "Group A",
-      "ground": "Estadio Chateau Carreras, Córdoba"
+      "ground": "Estadio Chateau Carreras, Córdoba",
+      "goals1": [
+        {
+          "name": "Vogts",
+          "minute": 59,
+          "owngoal": true
+        },
+        {
+          "name": "Krankl",
+          "minute": 66
+        },
+        {
+          "name": "Krankl",
+          "minute": 88
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Rummenige",
+          "minute": 19
+        },
+        {
+          "name": "Hölzenbein",
+          "minute": 68
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 4",
@@ -430,10 +1078,29 @@
         "ft": [
           2,
           0
+        ],
+        "ht": [
+          1,
+          0
         ]
       },
       "group": "Group B",
-      "ground": "Estadio Gigante de Arroyito, Rosario"
+      "ground": "Estadio Gigante de Arroyito, Rosario",
+      "goals1": [
+        {
+          "name": "Kempes",
+          "minute": 16
+        },
+        {
+          "name": "Kempes",
+          "minute": 71
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 4",
@@ -444,10 +1111,34 @@
         "ft": [
           0,
           3
+        ],
+        "ht": [
+          0,
+          2
         ]
       },
       "group": "Group B",
-      "ground": "Estadio Ciudad de Mendoza, Mendoza"
+      "ground": "Estadio Ciudad de Mendoza, Mendoza",
+      "goals1": [],
+      "goals2": [
+        {
+          "name": "Dirceu",
+          "minute": 15
+        },
+        {
+          "name": "Dirceu",
+          "minute": 28
+        },
+        {
+          "name": "Zico",
+          "minute": 73,
+          "penalty": true
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 5",
@@ -458,10 +1149,18 @@
         "ft": [
           0,
           0
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group B",
-      "ground": "Estadio Gigante de Arroyito, Rosario"
+      "ground": "Estadio Gigante de Arroyito, Rosario",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 5",
@@ -472,10 +1171,25 @@
         "ft": [
           0,
           1
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group B",
-      "ground": "Estadio Ciudad de Mendoza, Mendoza"
+      "ground": "Estadio Ciudad de Mendoza, Mendoza",
+      "goals1": [],
+      "goals2": [
+        {
+          "name": "Szarmach",
+          "minute": 65
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 6",
@@ -486,10 +1200,45 @@
         "ft": [
           6,
           0
+        ],
+        "ht": [
+          2,
+          0
         ]
       },
       "group": "Group B",
-      "ground": "Estadio Gigante de Arroyito, Rosario"
+      "ground": "Estadio Gigante de Arroyito, Rosario",
+      "goals1": [
+        {
+          "name": "Kempes",
+          "minute": 21
+        },
+        {
+          "name": "Tarantini",
+          "minute": 43
+        },
+        {
+          "name": "Kempes",
+          "minute": 49
+        },
+        {
+          "name": "Luqué",
+          "minute": 50
+        },
+        {
+          "name": "Houseman",
+          "minute": 67
+        },
+        {
+          "name": "Luqué",
+          "minute": 72
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 6",
@@ -500,10 +1249,38 @@
         "ft": [
           1,
           3
+        ],
+        "ht": [
+          1,
+          1
         ]
       },
       "group": "Group B",
-      "ground": "Estadio Ciudad de Mendoza, Mendoza"
+      "ground": "Estadio Ciudad de Mendoza, Mendoza",
+      "goals1": [
+        {
+          "name": "Lato",
+          "minute": 45
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Nelinho",
+          "minute": 13
+        },
+        {
+          "name": "Roberto",
+          "minute": 57
+        },
+        {
+          "name": "Roberto",
+          "minute": 63
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Third place match",
@@ -514,9 +1291,33 @@
         "ft": [
           2,
           1
+        ],
+        "ht": [
+          0,
+          1
         ]
       },
-      "ground": "Estadio Monumental, Buenos Aires"
+      "ground": "Estadio Monumental, Buenos Aires",
+      "goals1": [
+        {
+          "name": "Nelinho",
+          "minute": 64
+        },
+        {
+          "name": "Dirceu",
+          "minute": 72
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Causio",
+          "minute": 38
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Final",
@@ -531,9 +1332,37 @@
         "ft": [
           1,
           1
+        ],
+        "ht": [
+          0,
+          1
         ]
       },
-      "ground": "Estadio Monumental, Buenos Aires"
+      "ground": "Estadio Monumental, Buenos Aires",
+      "goals1": [
+        {
+          "name": "Nanninga",
+          "minute": 82
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Kempes",
+          "minute": 38
+        },
+        {
+          "name": "Kempes",
+          "minute": 105
+        },
+        {
+          "name": "Bertoni",
+          "minute": 115
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     }
   ]
 }

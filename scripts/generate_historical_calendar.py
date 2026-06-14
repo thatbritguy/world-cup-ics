@@ -49,7 +49,10 @@ def score_summary(match: dict[str, Any], home: dict[str, str], away: dict[str, s
 
 def goal_text(goal: dict[str, Any]) -> str:
     suffix = " pen" if goal.get("penalty") else " og" if goal.get("owngoal") else ""
-    return f"{goal['name']} {goal['minute']}'{suffix}"
+    minute = str(goal["minute"])
+    if goal.get("offset"):
+        minute += f"+{goal['offset']}"
+    return f"{goal['name']} {minute}'{suffix}"
 
 
 def description(
@@ -59,22 +62,21 @@ def description(
     away: dict[str, str],
 ) -> str:
     if match.get("final_group_round"):
-        header = f"Final group | Round {match['final_group_round']}"
+        round_line = f"Final group | Round {match['final_group_round']}"
     else:
-        header = match.get("group") or match["round"]
+        round_line = match.get("group") or match["round"]
     if match.get("group"):
-        header += f" | {match['round']}"
-    header += f" | {year} FIFA World Cup - {HOST_NAMES[year]}"
+        round_line += f" | {match['round']}"
     score = match["score"]
     result = score.get("et") or score["ft"]
-    lines = [header]
+    lines = [f"{year} FIFA World Cup - {HOST_NAMES[year]}", round_line]
     if match.get("event_note"):
         lines.append(match["event_note"])
     lines.append(f"{home['name']} {result[0]}-{result[1]} {away['name']}")
     if score.get("ht") is not None:
         lines.append(f"HT: {score['ht'][0]}-{score['ht'][1]}")
+    lines.append(f"FT: {score['ft'][0]}-{score['ft'][1]}")
     if score.get("et") is not None:
-        lines.append(f"FT: {score['ft'][0]}-{score['ft'][1]}")
         lines.append(f"AET: {score['et'][0]}-{score['et'][1]}")
     if score.get("p") is not None:
         lines.append(f"Penalties: {score['p'][0]}-{score['p'][1]}")

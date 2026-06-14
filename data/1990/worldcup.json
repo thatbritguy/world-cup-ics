@@ -10,10 +10,25 @@
         "ft": [
           1,
           0
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group A",
-      "ground": "Stadio Olimpico, Rome"
+      "ground": "Stadio Olimpico, Rome",
+      "goals1": [
+        {
+          "name": "Schillaci",
+          "minute": 78
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 1",
@@ -24,10 +39,47 @@
         "ft": [
           1,
           5
+        ],
+        "ht": [
+          0,
+          2
         ]
       },
       "group": "Group A",
-      "ground": "Stadio Comunale, Florence"
+      "ground": "Stadio Comunale, Florence",
+      "goals1": [
+        {
+          "name": "Caliguri",
+          "minute": 61
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Skuhravý",
+          "minute": 25
+        },
+        {
+          "name": "Bilek",
+          "minute": 39,
+          "penalty": true
+        },
+        {
+          "name": "Hašek",
+          "minute": 50
+        },
+        {
+          "name": "Skuhravý",
+          "minute": 78
+        },
+        {
+          "name": "Luhový",
+          "minute": 90
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 2",
@@ -38,10 +90,25 @@
         "ft": [
           1,
           0
+        ],
+        "ht": [
+          1,
+          0
         ]
       },
       "group": "Group A",
-      "ground": "Stadio Olimpico, Rome"
+      "ground": "Stadio Olimpico, Rome",
+      "goals1": [
+        {
+          "name": "Giannini",
+          "minute": 11
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 2",
@@ -52,10 +119,26 @@
         "ft": [
           0,
           1
+        ],
+        "ht": [
+          0,
+          1
         ]
       },
       "group": "Group A",
-      "ground": "Stadio Comunale, Florence"
+      "ground": "Stadio Comunale, Florence",
+      "goals1": [],
+      "goals2": [
+        {
+          "name": "Bilek",
+          "minute": 30,
+          "penalty": true
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 3",
@@ -66,10 +149,29 @@
         "ft": [
           2,
           0
+        ],
+        "ht": [
+          1,
+          0
         ]
       },
       "group": "Group A",
-      "ground": "Stadio Olimpico, Rome"
+      "ground": "Stadio Olimpico, Rome",
+      "goals1": [
+        {
+          "name": "Schillaci",
+          "minute": 9
+        },
+        {
+          "name": "R.Baggio",
+          "minute": 78
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 3",
@@ -80,10 +182,34 @@
         "ft": [
           2,
           1
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group A",
-      "ground": "Stadio Comunale, Florence"
+      "ground": "Stadio Comunale, Florence",
+      "goals1": [
+        {
+          "name": "Ogris",
+          "minute": 52
+        },
+        {
+          "name": "Rodax",
+          "minute": 65
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Murray",
+          "minute": 85
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 1",
@@ -94,10 +220,25 @@
         "ft": [
           0,
           1
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group B",
-      "ground": "San Siro, Milan"
+      "ground": "San Siro, Milan",
+      "goals1": [],
+      "goals2": [
+        {
+          "name": "Omam Biyik",
+          "minute": 67
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 1",
@@ -108,10 +249,30 @@
         "ft": [
           0,
           2
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group B",
-      "ground": "Stadio San Nicola, Bari"
+      "ground": "Stadio San Nicola, Bari",
+      "goals1": [],
+      "goals2": [
+        {
+          "name": "Lăcătuş",
+          "minute": 42
+        },
+        {
+          "name": "Lăcătuş",
+          "minute": 57,
+          "penalty": true
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 1",
@@ -122,10 +283,29 @@
         "ft": [
           2,
           0
+        ],
+        "ht": [
+          1,
+          0
         ]
       },
       "group": "Group B",
-      "ground": "Stadio San Paolo, Naples"
+      "ground": "Stadio San Paolo, Naples",
+      "goals1": [
+        {
+          "name": "Trioglio",
+          "minute": 27
+        },
+        {
+          "name": "Burruchaga",
+          "minute": 79
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 2",
@@ -136,10 +316,34 @@
         "ft": [
           2,
           1
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group B",
-      "ground": "Stadio San Nicola, Bari"
+      "ground": "Stadio San Nicola, Bari",
+      "goals1": [
+        {
+          "name": "Milla",
+          "minute": 76
+        },
+        {
+          "name": "Milla",
+          "minute": 86
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Balint",
+          "minute": 88
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 3",
@@ -150,10 +354,30 @@
         "ft": [
           1,
           1
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group B",
-      "ground": "Stadio San Paolo, Naples"
+      "ground": "Stadio San Paolo, Naples",
+      "goals1": [
+        {
+          "name": "Monzón",
+          "minute": 63
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Balint",
+          "minute": 68
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 3",
@@ -164,10 +388,37 @@
         "ft": [
           0,
           4
+        ],
+        "ht": [
+          0,
+          2
         ]
       },
       "group": "Group B",
-      "ground": "Stadio San Nicola, Bari"
+      "ground": "Stadio San Nicola, Bari",
+      "goals1": [],
+      "goals2": [
+        {
+          "name": "Protasov",
+          "minute": 20
+        },
+        {
+          "name": "Zygmantovich",
+          "minute": 29
+        },
+        {
+          "name": "Zavarov",
+          "minute": 59
+        },
+        {
+          "name": "Dobrovolski",
+          "minute": 63
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 1",
@@ -178,10 +429,34 @@
         "ft": [
           2,
           1
+        ],
+        "ht": [
+          1,
+          0
         ]
       },
       "group": "Group C",
-      "ground": "Stadio Delle Alpi, Turin"
+      "ground": "Stadio Delle Alpi, Turin",
+      "goals1": [
+        {
+          "name": "Careca",
+          "minute": 40
+        },
+        {
+          "name": "Careca",
+          "minute": 63
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Brolin",
+          "minute": 79
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 1",
@@ -192,10 +467,25 @@
         "ft": [
           1,
           0
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group C",
-      "ground": "Stadio Luigi Ferraris, Genoa"
+      "ground": "Stadio Luigi Ferraris, Genoa",
+      "goals1": [
+        {
+          "name": "Cayasso",
+          "minute": 49
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 2",
@@ -206,10 +496,25 @@
         "ft": [
           1,
           0
+        ],
+        "ht": [
+          1,
+          0
         ]
       },
       "group": "Group C",
-      "ground": "Stadio Delle Alpi, Turin"
+      "ground": "Stadio Delle Alpi, Turin",
+      "goals1": [
+        {
+          "name": "Müller",
+          "minute": 33
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 2",
@@ -220,10 +525,35 @@
         "ft": [
           1,
           2
+        ],
+        "ht": [
+          0,
+          1
         ]
       },
       "group": "Group C",
-      "ground": "Stadio Luigi Ferraris, Genoa"
+      "ground": "Stadio Luigi Ferraris, Genoa",
+      "goals1": [
+        {
+          "name": "Strömberg",
+          "minute": 86
+        }
+      ],
+      "goals2": [
+        {
+          "name": "McCall",
+          "minute": 10
+        },
+        {
+          "name": "Johnston",
+          "minute": 80,
+          "penalty": true
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 3",
@@ -234,10 +564,25 @@
         "ft": [
           1,
           0
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group C",
-      "ground": "Stadio Delle Alpi, Turin"
+      "ground": "Stadio Delle Alpi, Turin",
+      "goals1": [
+        {
+          "name": "Müller",
+          "minute": 82
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 3",
@@ -248,10 +593,34 @@
         "ft": [
           1,
           2
+        ],
+        "ht": [
+          1,
+          0
         ]
       },
       "group": "Group C",
-      "ground": "Stadio Luigi Ferraris, Genoa"
+      "ground": "Stadio Luigi Ferraris, Genoa",
+      "goals1": [
+        {
+          "name": "Ekström",
+          "minute": 32
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Flores",
+          "minute": 75
+        },
+        {
+          "name": "Medford",
+          "minute": 88
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 1",
@@ -262,10 +631,29 @@
         "ft": [
           0,
           2
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group D",
-      "ground": "Stadio Renato Dall'Ara, Bologna"
+      "ground": "Stadio Renato Dall'Ara, Bologna",
+      "goals1": [],
+      "goals2": [
+        {
+          "name": "Redin",
+          "minute": 50
+        },
+        {
+          "name": "Valderrama",
+          "minute": 86
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 1",
@@ -276,10 +664,42 @@
         "ft": [
           4,
           1
+        ],
+        "ht": [
+          2,
+          0
         ]
       },
       "group": "Group D",
-      "ground": "San Siro, Milan"
+      "ground": "San Siro, Milan",
+      "goals1": [
+        {
+          "name": "Matthäus",
+          "minute": 29
+        },
+        {
+          "name": "Klinsmann",
+          "minute": 39
+        },
+        {
+          "name": "Matthäus",
+          "minute": 65
+        },
+        {
+          "name": "Völler",
+          "minute": 71
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Jozić",
+          "minute": 55
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 2",
@@ -290,10 +710,25 @@
         "ft": [
           1,
           0
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group D",
-      "ground": "Stadio Renato Dall'Ara, Bologna"
+      "ground": "Stadio Renato Dall'Ara, Bologna",
+      "goals1": [
+        {
+          "name": "Jozić",
+          "minute": 75
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 2",
@@ -304,10 +739,46 @@
         "ft": [
           5,
           1
+        ],
+        "ht": [
+          2,
+          0
         ]
       },
       "group": "Group D",
-      "ground": "San Siro, Milan"
+      "ground": "San Siro, Milan",
+      "goals1": [
+        {
+          "name": "Völler",
+          "minute": 35
+        },
+        {
+          "name": "Klinsmann",
+          "minute": 36
+        },
+        {
+          "name": "Matthäus",
+          "minute": 47
+        },
+        {
+          "name": "Bein",
+          "minute": 59
+        },
+        {
+          "name": "Völler",
+          "minute": 75
+        }
+      ],
+      "goals2": [
+        {
+          "name": "K.M.Mubarak",
+          "minute": 46
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 3",
@@ -318,10 +789,30 @@
         "ft": [
           1,
           1
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group D",
-      "ground": "San Siro, Milan"
+      "ground": "San Siro, Milan",
+      "goals1": [
+        {
+          "name": "Littbarski",
+          "minute": 88
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Rincón",
+          "minute": 90
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 3",
@@ -332,10 +823,42 @@
         "ft": [
           4,
           1
+        ],
+        "ht": [
+          2,
+          1
         ]
       },
       "group": "Group D",
-      "ground": "Stadio Renato Dall'Ara, Bologna"
+      "ground": "Stadio Renato Dall'Ara, Bologna",
+      "goals1": [
+        {
+          "name": "Sušić",
+          "minute": 8
+        },
+        {
+          "name": "Pančev",
+          "minute": 9
+        },
+        {
+          "name": "Pančev",
+          "minute": 46
+        },
+        {
+          "name": "Prosinečki",
+          "minute": 90
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Jumaa",
+          "minute": 23
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 1",
@@ -346,10 +869,29 @@
         "ft": [
           2,
           0
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group E",
-      "ground": "Stadio Marc'Antonio Bentegodi, Verona"
+      "ground": "Stadio Marc'Antonio Bentegodi, Verona",
+      "goals1": [
+        {
+          "name": "Degryse",
+          "minute": 53
+        },
+        {
+          "name": "de Wolf",
+          "minute": 64
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 1",
@@ -360,10 +902,18 @@
         "ft": [
           0,
           0
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group E",
-      "ground": "Stadio Friuli, Udine"
+      "ground": "Stadio Friuli, Udine",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 2",
@@ -374,10 +924,38 @@
         "ft": [
           3,
           1
+        ],
+        "ht": [
+          2,
+          0
         ]
       },
       "group": "Group E",
-      "ground": "Stadio Marc'Antonio Bentegodi, Verona"
+      "ground": "Stadio Marc'Antonio Bentegodi, Verona",
+      "goals1": [
+        {
+          "name": "Clijsters",
+          "minute": 16
+        },
+        {
+          "name": "Scifo",
+          "minute": 22
+        },
+        {
+          "name": "Ceulemans",
+          "minute": 48
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Bengoechea",
+          "minute": 74
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 2",
@@ -388,10 +966,38 @@
         "ft": [
           1,
           3
+        ],
+        "ht": [
+          1,
+          1
         ]
       },
       "group": "Group E",
-      "ground": "Stadio Friuli, Udine"
+      "ground": "Stadio Friuli, Udine",
+      "goals1": [
+        {
+          "name": "Hwang Bo-kwan",
+          "minute": 42
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Michel",
+          "minute": 22
+        },
+        {
+          "name": "Michel",
+          "minute": 61
+        },
+        {
+          "name": "Michel",
+          "minute": 81
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 3",
@@ -402,10 +1008,35 @@
         "ft": [
           1,
           2
+        ],
+        "ht": [
+          1,
+          2
         ]
       },
       "group": "Group E",
-      "ground": "Stadio Marc'Antonio Bentegodi, Verona"
+      "ground": "Stadio Marc'Antonio Bentegodi, Verona",
+      "goals1": [
+        {
+          "name": "Vervoort",
+          "minute": 28
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Michel",
+          "minute": 20,
+          "penalty": true
+        },
+        {
+          "name": "Gorriz",
+          "minute": 37
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 3",
@@ -416,10 +1047,25 @@
         "ft": [
           0,
           1
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group E",
-      "ground": "Stadio Friuli, Udine"
+      "ground": "Stadio Friuli, Udine",
+      "goals1": [],
+      "goals2": [
+        {
+          "name": "Fonseca",
+          "minute": 90
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 1",
@@ -430,10 +1076,30 @@
         "ft": [
           1,
           1
+        ],
+        "ht": [
+          1,
+          0
         ]
       },
       "group": "Group F",
-      "ground": "Stadio Sant'Elia, Cagliari"
+      "ground": "Stadio Sant'Elia, Cagliari",
+      "goals1": [
+        {
+          "name": "Lineker",
+          "minute": 8
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Sheedy",
+          "minute": 72
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 1",
@@ -444,10 +1110,31 @@
         "ft": [
           1,
           1
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group F",
-      "ground": "Stadio La Favorita, Palermo"
+      "ground": "Stadio La Favorita, Palermo",
+      "goals1": [
+        {
+          "name": "Kieft",
+          "minute": 58
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Abdelghani",
+          "minute": 83,
+          "penalty": true
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 2",
@@ -458,10 +1145,18 @@
         "ft": [
           0,
           0
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group F",
-      "ground": "Stadio Sant'Elia, Cagliari"
+      "ground": "Stadio Sant'Elia, Cagliari",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 2",
@@ -472,10 +1167,18 @@
         "ft": [
           0,
           0
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group F",
-      "ground": "Stadio La Favorita, Palermo"
+      "ground": "Stadio La Favorita, Palermo",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 3",
@@ -486,10 +1189,25 @@
         "ft": [
           1,
           0
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group F",
-      "ground": "Stadio Sant'Elia, Cagliari"
+      "ground": "Stadio Sant'Elia, Cagliari",
+      "goals1": [
+        {
+          "name": "Wright",
+          "minute": 59
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 3",
@@ -500,10 +1218,30 @@
         "ft": [
           1,
           1
+        ],
+        "ht": [
+          0,
+          1
         ]
       },
       "group": "Group F",
-      "ground": "Stadio La Favorita, Palermo"
+      "ground": "Stadio La Favorita, Palermo",
+      "goals1": [
+        {
+          "name": "Quinn",
+          "minute": 71
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Gullit",
+          "minute": 10
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Round of 16",
@@ -518,9 +1256,33 @@
         "ft": [
           0,
           0
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
-      "ground": "Stadio San Paolo, Naples"
+      "ground": "Stadio San Paolo, Naples",
+      "goals1": [
+        {
+          "name": "Milla",
+          "minute": 106
+        },
+        {
+          "name": "Milla",
+          "minute": 109
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Redin",
+          "minute": 116
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Round of 16",
@@ -531,9 +1293,41 @@
         "ft": [
           4,
           1
+        ],
+        "ht": [
+          1,
+          0
         ]
       },
-      "ground": "Stadio San Nicola, Bari"
+      "ground": "Stadio San Nicola, Bari",
+      "goals1": [
+        {
+          "name": "Skuhravý",
+          "minute": 11
+        },
+        {
+          "name": "Skuhravý",
+          "minute": 62
+        },
+        {
+          "name": "Kubik",
+          "minute": 78
+        },
+        {
+          "name": "Skuhravý",
+          "minute": 82
+        }
+      ],
+      "goals2": [
+        {
+          "name": "González",
+          "minute": 55
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Round of 16",
@@ -544,9 +1338,24 @@
         "ft": [
           0,
           1
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
-      "ground": "Stadio Delle Alpi, Turin"
+      "ground": "Stadio Delle Alpi, Turin",
+      "goals1": [],
+      "goals2": [
+        {
+          "name": "Caniggia",
+          "minute": 81
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Round of 16",
@@ -557,9 +1366,34 @@
         "ft": [
           2,
           1
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
-      "ground": "San Siro, Milan"
+      "ground": "San Siro, Milan",
+      "goals1": [
+        {
+          "name": "Klinsmann",
+          "minute": 51
+        },
+        {
+          "name": "Brehme",
+          "minute": 82
+        }
+      ],
+      "goals2": [
+        {
+          "name": "R.Koeman",
+          "minute": 89,
+          "penalty": true
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Round of 16",
@@ -578,9 +1412,17 @@
         "ft": [
           0,
           0
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
-      "ground": "Stadio Luigi Ferraris, Genoa"
+      "ground": "Stadio Luigi Ferraris, Genoa",
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Round of 16",
@@ -591,9 +1433,28 @@
         "ft": [
           2,
           0
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
-      "ground": "Stadio Olimpico, Rome"
+      "ground": "Stadio Olimpico, Rome",
+      "goals1": [
+        {
+          "name": "Schillaci",
+          "minute": 65
+        },
+        {
+          "name": "Serena",
+          "minute": 85
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Round of 16",
@@ -608,9 +1469,33 @@
         "ft": [
           1,
           1
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
-      "ground": "Stadio Marc'Antonio Bentegodi, Verona"
+      "ground": "Stadio Marc'Antonio Bentegodi, Verona",
+      "goals1": [
+        {
+          "name": "Salinas",
+          "minute": 83
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Stojković",
+          "minute": 77
+        },
+        {
+          "name": "Stojković",
+          "minute": 92
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Round of 16",
@@ -625,9 +1510,24 @@
         "ft": [
           0,
           0
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
-      "ground": "Stadio Renato Dall'Ara, Bologna"
+      "ground": "Stadio Renato Dall'Ara, Bologna",
+      "goals1": [
+        {
+          "name": "Platt",
+          "minute": 119
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Quarter-finals",
@@ -646,9 +1546,17 @@
         "ft": [
           0,
           0
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
-      "ground": "Stadio Artemio Franchi, Florence"
+      "ground": "Stadio Artemio Franchi, Florence",
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Quarter-finals",
@@ -659,9 +1567,24 @@
         "ft": [
           1,
           0
+        ],
+        "ht": [
+          1,
+          0
         ]
       },
-      "ground": "Stadio Olimpico, Rome"
+      "ground": "Stadio Olimpico, Rome",
+      "goals1": [
+        {
+          "name": "Schillaci",
+          "minute": 38
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Quarter-finals",
@@ -672,9 +1595,25 @@
         "ft": [
           1,
           0
+        ],
+        "ht": [
+          1,
+          0
         ]
       },
-      "ground": "San Siro, Milan"
+      "ground": "San Siro, Milan",
+      "goals1": [
+        {
+          "name": "Matthäus",
+          "minute": 24,
+          "penalty": true
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Quarter-finals",
@@ -689,9 +1628,44 @@
         "ft": [
           2,
           2
+        ],
+        "ht": [
+          1,
+          0
         ]
       },
-      "ground": "Stadio San Paolo, Naples"
+      "ground": "Stadio San Paolo, Naples",
+      "goals1": [
+        {
+          "name": "Platt",
+          "minute": 25
+        },
+        {
+          "name": "Lineker",
+          "minute": 83,
+          "penalty": true
+        },
+        {
+          "name": "Lineker",
+          "minute": 105,
+          "penalty": true
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Kunde",
+          "minute": 63,
+          "penalty": true
+        },
+        {
+          "name": "Ekéké",
+          "minute": 65
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Semi-finals",
@@ -710,6 +1684,10 @@
         "ft": [
           1,
           1
+        ],
+        "ht": [
+          1,
+          0
         ]
       },
       "goals1": [
@@ -724,7 +1702,11 @@
           "minute": 67
         }
       ],
-      "ground": "Stadio San Paolo, Naples"
+      "ground": "Stadio San Paolo, Naples",
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Semi-finals",
@@ -743,6 +1725,10 @@
         "ft": [
           1,
           1
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "goals1": [
@@ -757,7 +1743,11 @@
           "minute": 80
         }
       ],
-      "ground": "Stadio delle Alpi, Turin"
+      "ground": "Stadio delle Alpi, Turin",
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Third place match",
@@ -768,6 +1758,10 @@
         "ft": [
           2,
           1
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "goals1": [
@@ -787,7 +1781,11 @@
           "minute": 81
         }
       ],
-      "ground": "Stadio San Nicola, Bari"
+      "ground": "Stadio San Nicola, Bari",
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Final",
@@ -797,6 +1795,10 @@
       "score": {
         "ft": [
           1,
+          0
+        ],
+        "ht": [
+          0,
           0
         ]
       },
@@ -808,7 +1810,11 @@
         }
       ],
       "goals2": [],
-      "ground": "Stadio Olimpico, Rome"
+      "ground": "Stadio Olimpico, Rome",
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     }
   ]
 }

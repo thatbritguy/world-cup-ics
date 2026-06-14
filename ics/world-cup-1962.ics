@@ -16,9 +16,10 @@ GEO:-18.487500;-70.299167
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Carlos Dittborn, A
  rica";X-APPLE-RADIUS=100;X-TITLE="Estadio Carlos Dittborn, Arica":geo:-18.
  487500,-70.299167
-DESCRIPTION:Group 1 | Matchday 1 | 1962 FIFA World Cup - Chile\nUruguay 2-1
-  Colombia
-URL:https://en.wikipedia.org/wiki/1962_FIFA_World_Cup
+DESCRIPTION:1962 FIFA World Cup - Chile\nGroup 1 | Matchday 1\nUruguay 2-1 
+ Colombia\nHT: 0-1\nFT: 2-1\nGoals:\nURU 🇺🇾: Cubilla 57'\, Sasia 74'\
+ nCOL 🇨🇴: Zuluaga 19' pen
+URL:https://www.fifa.com/en/match-centre/match/17/21/231/1479
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1962
@@ -34,9 +35,10 @@ GEO:-33.464444;-70.610556
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Nacional, Santiago
  ";X-APPLE-RADIUS=100;X-TITLE="Estadio Nacional, Santiago":geo:-33.464444,-
  70.610556
-DESCRIPTION:Group 2 | Matchday 1 | 1962 FIFA World Cup - Chile\nChile 3-1 S
- witzerland
-URL:https://en.wikipedia.org/wiki/1962_FIFA_World_Cup
+DESCRIPTION:1962 FIFA World Cup - Chile\nGroup 2 | Matchday 1\nChile 3-1 Sw
+ itzerland\nHT: 1-1\nFT: 3-1\nGoals:\nCHI 🇨🇱: L.Sánchez 44'\, Ramire
+ z 52'\, L.Sánchez 55'\nSUI 🇨🇭: Wüthrich 7'
+URL:https://www.fifa.com/en/match-centre/match/17/21/231/1473
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1962
@@ -52,9 +54,9 @@ GEO:-33.014444;-71.535000
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Sausalito, Viña d
  el Mar";X-APPLE-RADIUS=100;X-TITLE="Estadio Sausalito, Viña del Mar":geo:
  -33.014444,-71.535000
-DESCRIPTION:Group 3 | Matchday 1 | 1962 FIFA World Cup - Chile\nBrazil 2-0 
- Mexico
-URL:https://en.wikipedia.org/wiki/1962_FIFA_World_Cup
+DESCRIPTION:1962 FIFA World Cup - Chile\nGroup 3 | Matchday 1\nBrazil 2-0 M
+ exico\nHT: 0-0\nFT: 2-0\nGoals:\nBRA 🇧🇷: Zagalo 56'\, Pele 73'
+URL:https://www.fifa.com/en/match-centre/match/17/21/231/1461
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1962
@@ -70,9 +72,9 @@ GEO:-34.177778;-70.737500
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio El Teniente, Ranca
  gua";X-APPLE-RADIUS=100;X-TITLE="Estadio El Teniente, Rancagua":geo:-34.17
  7778,-70.737500
-DESCRIPTION:Group 4 | Matchday 1 | 1962 FIFA World Cup - Chile\nArgentina 1
- -0 Bulgaria
-URL:https://en.wikipedia.org/wiki/1962_FIFA_World_Cup
+DESCRIPTION:1962 FIFA World Cup - Chile\nGroup 4 | Matchday 1\nArgentina 1-
+ 0 Bulgaria\nHT: 1-0\nFT: 1-0\nGoals:\nARG 🇦🇷: Facundo 4'
+URL:https://www.fifa.com/en/match-centre/match/17/21/231/1447
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1962
@@ -88,9 +90,10 @@ GEO:-18.487500;-70.299167
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Carlos Dittborn, A
  rica";X-APPLE-RADIUS=100;X-TITLE="Estadio Carlos Dittborn, Arica":geo:-18.
  487500,-70.299167
-DESCRIPTION:Group 1 | Matchday 1 | 1962 FIFA World Cup - Chile\nSoviet Unio
- n 2-0 Yugoslavia
-URL:https://en.wikipedia.org/wiki/1962_FIFA_World_Cup
+DESCRIPTION:1962 FIFA World Cup - Chile\nGroup 1 | Matchday 1\nSoviet Union
+  2-0 Yugoslavia\nHT: 0-0\nFT: 2-0\nGoals:\nURS: Ivanov 52'\, Ponedelnik 84
+ '
+URL:https://www.fifa.com/en/match-centre/match/17/21/231/1563
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1962
@@ -106,9 +109,9 @@ GEO:-33.464444;-70.610556
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Nacional, Santiago
  ";X-APPLE-RADIUS=100;X-TITLE="Estadio Nacional, Santiago":geo:-33.464444,-
  70.610556
-DESCRIPTION:Group 2 | Matchday 1 | 1962 FIFA World Cup - Chile\nWest German
- y 0-0 Italy
-URL:https://en.wikipedia.org/wiki/1962_FIFA_World_Cup
+DESCRIPTION:1962 FIFA World Cup - Chile\nGroup 2 | Matchday 1\nWest Germany
+  0-0 Italy\nHT: 0-0\nFT: 0-0
+URL:https://www.fifa.com/en/match-centre/match/17/21/231/1507
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1962
@@ -124,9 +127,9 @@ GEO:-33.014444;-71.535000
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Sausalito, Viña d
  el Mar";X-APPLE-RADIUS=100;X-TITLE="Estadio Sausalito, Viña del Mar":geo:
  -33.014444,-71.535000
-DESCRIPTION:Group 3 | Matchday 1 | 1962 FIFA World Cup - Chile\nCzechoslova
- kia 1-0 Spain
-URL:https://en.wikipedia.org/wiki/1962_FIFA_World_Cup
+DESCRIPTION:1962 FIFA World Cup - Chile\nGroup 3 | Matchday 1\nCzechoslovak
+ ia 1-0 Spain\nHT: 0-0\nFT: 1-0\nGoals:\nTCH 🇨🇿: Štibrányi 60'
+URL:https://www.fifa.com/en/match-centre/match/17/21/231/1498
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1962
@@ -142,9 +145,10 @@ GEO:-34.177778;-70.737500
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio El Teniente, Ranca
  gua";X-APPLE-RADIUS=100;X-TITLE="Estadio El Teniente, Rancagua":geo:-34.17
  7778,-70.737500
-DESCRIPTION:Group 4 | Matchday 1 | 1962 FIFA World Cup - Chile\nHungary 2-1
-  England
-URL:https://en.wikipedia.org/wiki/1962_FIFA_World_Cup
+DESCRIPTION:1962 FIFA World Cup - Chile\nGroup 4 | Matchday 1\nHungary 2-1 
+ England\nHT: 1-0\nFT: 2-1\nGoals:\nHUN 🇭🇺: Tichy 17'\, Albert 71'\nE
+ NG 🏴󠁧󠁢󠁥󠁮󠁧󠁿: Flowers 60' pen
+URL:https://www.fifa.com/en/match-centre/match/17/21/231/1490
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1962
@@ -160,9 +164,10 @@ GEO:-18.487500;-70.299167
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Carlos Dittborn, A
  rica";X-APPLE-RADIUS=100;X-TITLE="Estadio Carlos Dittborn, Arica":geo:-18.
  487500,-70.299167
-DESCRIPTION:Group 1 | Matchday 2 | 1962 FIFA World Cup - Chile\nYugoslavia 
- 3-1 Uruguay
-URL:https://en.wikipedia.org/wiki/1962_FIFA_World_Cup
+DESCRIPTION:1962 FIFA World Cup - Chile\nGroup 1 | Matchday 2\nYugoslavia 3
+ -1 Uruguay\nHT: 2-1\nFT: 3-1\nGoals:\nYUG: Skoblar 26' pen\, Galić 30'\, 
+ Jerković 49'\nURU 🇺🇾: Cabrera 19'
+URL:https://www.fifa.com/en/match-centre/match/17/21/231/1564
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1962
@@ -178,9 +183,9 @@ GEO:-33.464444;-70.610556
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Nacional, Santiago
  ";X-APPLE-RADIUS=100;X-TITLE="Estadio Nacional, Santiago":geo:-33.464444,-
  70.610556
-DESCRIPTION:Group 2 | Matchday 2 | 1962 FIFA World Cup - Chile\nChile 2-0 I
- taly
-URL:https://en.wikipedia.org/wiki/1962_FIFA_World_Cup
+DESCRIPTION:1962 FIFA World Cup - Chile\nGroup 2 | Matchday 2\nChile 2-0 It
+ aly\nHT: 0-0\nFT: 2-0\nGoals:\nCHI 🇨🇱: Ramirez 73'\, Toro 88'
+URL:https://www.fifa.com/en/match-centre/match/17/21/231/1472
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1962
@@ -196,9 +201,9 @@ GEO:-33.014444;-71.535000
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Sausalito, Viña d
  el Mar";X-APPLE-RADIUS=100;X-TITLE="Estadio Sausalito, Viña del Mar":geo:
  -33.014444,-71.535000
-DESCRIPTION:Group 3 | Matchday 2 | 1962 FIFA World Cup - Chile\nBrazil 0-0 
- Czechoslovakia
-URL:https://en.wikipedia.org/wiki/1962_FIFA_World_Cup
+DESCRIPTION:1962 FIFA World Cup - Chile\nGroup 3 | Matchday 2\nBrazil 0-0 C
+ zechoslovakia\nHT: 0-0\nFT: 0-0
+URL:https://www.fifa.com/en/match-centre/match/17/21/231/1462
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1962
@@ -214,9 +219,10 @@ GEO:-34.177778;-70.737500
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio El Teniente, Ranca
  gua";X-APPLE-RADIUS=100;X-TITLE="Estadio El Teniente, Rancagua":geo:-34.17
  7778,-70.737500
-DESCRIPTION:Group 4 | Matchday 2 | 1962 FIFA World Cup - Chile\nEngland 3-1
-  Argentina
-URL:https://en.wikipedia.org/wiki/1962_FIFA_World_Cup
+DESCRIPTION:1962 FIFA World Cup - Chile\nGroup 4 | Matchday 2\nEngland 3-1 
+ Argentina\nHT: 2-0\nFT: 3-1\nGoals:\nENG 🏴󠁧󠁢󠁥󠁮󠁧󠁿: Flo
+ wers 18' pen\, R.Charlton 42'\, Greaves 67'\nARG 🇦🇷: Sanfilipo 81'
+URL:https://www.fifa.com/en/match-centre/match/17/21/231/1450
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1962
@@ -232,9 +238,11 @@ GEO:-18.487500;-70.299167
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Carlos Dittborn, A
  rica";X-APPLE-RADIUS=100;X-TITLE="Estadio Carlos Dittborn, Arica":geo:-18.
  487500,-70.299167
-DESCRIPTION:Group 1 | Matchday 2 | 1962 FIFA World Cup - Chile\nSoviet Unio
- n 4-4 Colombia
-URL:https://en.wikipedia.org/wiki/1962_FIFA_World_Cup
+DESCRIPTION:1962 FIFA World Cup - Chile\nGroup 1 | Matchday 2\nSoviet Union
+  4-4 Colombia\nHT: 3-1\nFT: 4-4\nGoals:\nURS: Ivanov 8'\, Chislenko 10'\, 
+ Ivanov 12'\, Ponedelnik 57'\nCOL 🇨🇴: Aceros 21'\, Coll 63'\, Rada 72
+ '\, Klinger 77'
+URL:https://www.fifa.com/en/match-centre/match/17/21/231/1478
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1962
@@ -250,9 +258,10 @@ GEO:-33.464444;-70.610556
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Nacional, Santiago
  ";X-APPLE-RADIUS=100;X-TITLE="Estadio Nacional, Santiago":geo:-33.464444,-
  70.610556
-DESCRIPTION:Group 2 | Matchday 2 | 1962 FIFA World Cup - Chile\nWest German
- y 2-1 Switzerland
-URL:https://en.wikipedia.org/wiki/1962_FIFA_World_Cup
+DESCRIPTION:1962 FIFA World Cup - Chile\nGroup 2 | Matchday 2\nWest Germany
+  2-1 Switzerland\nHT: 1-0\nFT: 2-1\nGoals:\nFRG 🇩🇪: Brülls 45'\, Se
+ eler 60'\nSUI 🇨🇭: Schneiter 74'
+URL:https://www.fifa.com/en/match-centre/match/17/21/231/1510
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1962
@@ -268,9 +277,9 @@ GEO:-33.014444;-71.535000
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Sausalito, Viña d
  el Mar";X-APPLE-RADIUS=100;X-TITLE="Estadio Sausalito, Viña del Mar":geo:
  -33.014444,-71.535000
-DESCRIPTION:Group 3 | Matchday 2 | 1962 FIFA World Cup - Chile\nSpain 1-0 M
- exico
-URL:https://en.wikipedia.org/wiki/1962_FIFA_World_Cup
+DESCRIPTION:1962 FIFA World Cup - Chile\nGroup 3 | Matchday 2\nSpain 1-0 Me
+ xico\nHT: 0-0\nFT: 1-0\nGoals:\nESP 🇪🇸: Peiró 89'
+URL:https://www.fifa.com/en/match-centre/match/17/21/231/1497
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1962
@@ -286,9 +295,11 @@ GEO:-34.177778;-70.737500
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio El Teniente, Ranca
  gua";X-APPLE-RADIUS=100;X-TITLE="Estadio El Teniente, Rancagua":geo:-34.17
  7778,-70.737500
-DESCRIPTION:Group 4 | Matchday 2 | 1962 FIFA World Cup - Chile\nHungary 6-1
-  Bulgaria
-URL:https://en.wikipedia.org/wiki/1962_FIFA_World_Cup
+DESCRIPTION:1962 FIFA World Cup - Chile\nGroup 4 | Matchday 2\nHungary 6-1 
+ Bulgaria\nHT: 4-0\nFT: 6-1\nGoals:\nHUN 🇭🇺: Albert 1'\, Albert 6'\, 
+ Tichy 8'\, Selymosi 12'\, Albert 54'\, Tichy 70'\nBUL 🇧🇬: Asparoukho
+ v 64'
+URL:https://www.fifa.com/en/match-centre/match/17/21/231/1470
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1962
@@ -304,9 +315,10 @@ GEO:-18.487500;-70.299167
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Carlos Dittborn, A
  rica";X-APPLE-RADIUS=100;X-TITLE="Estadio Carlos Dittborn, Arica":geo:-18.
  487500,-70.299167
-DESCRIPTION:Group 1 | Matchday 3 | 1962 FIFA World Cup - Chile\nSoviet Unio
- n 2-1 Uruguay
-URL:https://en.wikipedia.org/wiki/1962_FIFA_World_Cup
+DESCRIPTION:1962 FIFA World Cup - Chile\nGroup 1 | Matchday 3\nSoviet Union
+  2-1 Uruguay\nHT: 1-0\nFT: 2-1\nGoals:\nURS: Mamikin 38'\, Ivanov 89'\nURU
+  🇺🇾: Sasia 54'
+URL:https://www.fifa.com/en/match-centre/match/17/21/231/1562
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1962
@@ -322,9 +334,10 @@ GEO:-33.464444;-70.610556
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Nacional, Santiago
  ";X-APPLE-RADIUS=100;X-TITLE="Estadio Nacional, Santiago":geo:-33.464444,-
  70.610556
-DESCRIPTION:Group 2 | Matchday 3 | 1962 FIFA World Cup - Chile\nWest German
- y 2-0 Chile
-URL:https://en.wikipedia.org/wiki/1962_FIFA_World_Cup
+DESCRIPTION:1962 FIFA World Cup - Chile\nGroup 2 | Matchday 3\nWest Germany
+  2-0 Chile\nHT: 1-0\nFT: 2-0\nGoals:\nFRG 🇩🇪: Szymaniak 21' pen\, Se
+ eler 80'
+URL:https://www.fifa.com/en/match-centre/match/17/21/231/1471
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1962
@@ -340,9 +353,10 @@ GEO:-33.014444;-71.535000
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Sausalito, Viña d
  el Mar";X-APPLE-RADIUS=100;X-TITLE="Estadio Sausalito, Viña del Mar":geo:
  -33.014444,-71.535000
-DESCRIPTION:Group 3 | Matchday 3 | 1962 FIFA World Cup - Chile\nBrazil 2-1 
- Spain
-URL:https://en.wikipedia.org/wiki/1962_FIFA_World_Cup
+DESCRIPTION:1962 FIFA World Cup - Chile\nGroup 3 | Matchday 3\nBrazil 2-1 S
+ pain\nHT: 0-1\nFT: 2-1\nGoals:\nBRA 🇧🇷: Amarildo 72'\, Amarildo 86'\
+ nESP 🇪🇸: Adélardo 35'
+URL:https://www.fifa.com/en/match-centre/match/17/21/231/1460
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1962
@@ -358,9 +372,9 @@ GEO:-34.177778;-70.737500
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio El Teniente, Ranca
  gua";X-APPLE-RADIUS=100;X-TITLE="Estadio El Teniente, Rancagua":geo:-34.17
  7778,-70.737500
-DESCRIPTION:Group 4 | Matchday 3 | 1962 FIFA World Cup - Chile\nHungary 0-0
-  Argentina
-URL:https://en.wikipedia.org/wiki/1962_FIFA_World_Cup
+DESCRIPTION:1962 FIFA World Cup - Chile\nGroup 4 | Matchday 3\nHungary 0-0 
+ Argentina\nHT: 0-0\nFT: 0-0
+URL:https://www.fifa.com/en/match-centre/match/17/21/231/1451
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1962
@@ -376,9 +390,10 @@ GEO:-18.487500;-70.299167
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Carlos Dittborn, A
  rica";X-APPLE-RADIUS=100;X-TITLE="Estadio Carlos Dittborn, Arica":geo:-18.
  487500,-70.299167
-DESCRIPTION:Group 1 | Matchday 3 | 1962 FIFA World Cup - Chile\nYugoslavia 
- 5-0 Colombia
-URL:https://en.wikipedia.org/wiki/1962_FIFA_World_Cup
+DESCRIPTION:1962 FIFA World Cup - Chile\nGroup 1 | Matchday 3\nYugoslavia 5
+ -0 Colombia\nHT: 2-0\nFT: 5-0\nGoals:\nYUG: Galić 21'\, Jerković 25'\, G
+ alić 62'\, Melić 82'\, Jerković 88'
+URL:https://www.fifa.com/en/match-centre/match/17/21/231/1480
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1962
@@ -394,9 +409,10 @@ GEO:-33.464444;-70.610556
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Nacional, Santiago
  ";X-APPLE-RADIUS=100;X-TITLE="Estadio Nacional, Santiago":geo:-33.464444,-
  70.610556
-DESCRIPTION:Group 2 | Matchday 3 | 1962 FIFA World Cup - Chile\nItaly 3-0 S
- witzerland
-URL:https://en.wikipedia.org/wiki/1962_FIFA_World_Cup
+DESCRIPTION:1962 FIFA World Cup - Chile\nGroup 2 | Matchday 3\nItaly 3-0 Sw
+ itzerland\nHT: 1-0\nFT: 3-0\nGoals:\nITA 🇮🇹: Mora 2'\, Bulgarelli 65
+ '\, Bulgarelli 67'
+URL:https://www.fifa.com/en/match-centre/match/17/21/231/1532
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1962
@@ -412,9 +428,10 @@ GEO:-33.014444;-71.535000
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Sausalito, Viña d
  el Mar";X-APPLE-RADIUS=100;X-TITLE="Estadio Sausalito, Viña del Mar":geo:
  -33.014444,-71.535000
-DESCRIPTION:Group 3 | Matchday 3 | 1962 FIFA World Cup - Chile\nMexico 3-1 
- Czechoslovakia
-URL:https://en.wikipedia.org/wiki/1962_FIFA_World_Cup
+DESCRIPTION:1962 FIFA World Cup - Chile\nGroup 3 | Matchday 3\nMexico 3-1 C
+ zechoslovakia\nHT: 2-1\nFT: 3-1\nGoals:\nMEX 🇲🇽: Diaz 13'\, del'Agui
+ la 29'\, H.Hernández 90' pen\nTCH 🇨🇿: Mašek 1'
+URL:https://www.fifa.com/en/match-centre/match/17/21/231/1544
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1962
@@ -430,9 +447,9 @@ GEO:-34.177778;-70.737500
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio El Teniente, Ranca
  gua";X-APPLE-RADIUS=100;X-TITLE="Estadio El Teniente, Rancagua":geo:-34.17
  7778,-70.737500
-DESCRIPTION:Group 4 | Matchday 3 | 1962 FIFA World Cup - Chile\nEngland 0-0
-  Bulgaria
-URL:https://en.wikipedia.org/wiki/1962_FIFA_World_Cup
+DESCRIPTION:1962 FIFA World Cup - Chile\nGroup 4 | Matchday 3\nEngland 0-0 
+ Bulgaria\nHT: 0-0\nFT: 0-0
+URL:https://www.fifa.com/en/match-centre/match/17/21/231/1464
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1962
@@ -448,9 +465,10 @@ GEO:-18.487500;-70.299167
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Carlos Dittborn, A
  rica";X-APPLE-RADIUS=100;X-TITLE="Estadio Carlos Dittborn, Arica":geo:-18.
  487500,-70.299167
-DESCRIPTION:Quarter-finals | 1962 FIFA World Cup - Chile\nChile 2-1 Soviet 
- Union
-URL:https://en.wikipedia.org/wiki/1962_FIFA_World_Cup
+DESCRIPTION:1962 FIFA World Cup - Chile\nQuarter-finals\nChile 2-1 Soviet U
+ nion\nHT: 2-1\nFT: 2-1\nGoals:\nCHI 🇨🇱: L.Sánchez 11'\, Rojas 27'\n
+ URS: Chislenko 26'
+URL:https://www.fifa.com/en/match-centre/match/17/21/232/1474
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1962
@@ -466,9 +484,9 @@ GEO:-33.464444;-70.610556
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Nacional, Santiago
  ";X-APPLE-RADIUS=100;X-TITLE="Estadio Nacional, Santiago":geo:-33.464444,-
  70.610556
-DESCRIPTION:Quarter-finals | 1962 FIFA World Cup - Chile\nYugoslavia 1-0 We
- st Germany
-URL:https://en.wikipedia.org/wiki/1962_FIFA_World_Cup
+DESCRIPTION:1962 FIFA World Cup - Chile\nQuarter-finals\nYugoslavia 1-0 Wes
+ t Germany\nHT: 0-0\nFT: 1-0\nGoals:\nYUG: Radaković 87'
+URL:https://www.fifa.com/en/match-centre/match/17/21/232/1511
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1962
@@ -484,9 +502,10 @@ GEO:-33.014444;-71.535000
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Sausalito, Viña d
  el Mar";X-APPLE-RADIUS=100;X-TITLE="Estadio Sausalito, Viña del Mar":geo:
  -33.014444,-71.535000
-DESCRIPTION:Quarter-finals | 1962 FIFA World Cup - Chile\nBrazil 3-1 Englan
- d
-URL:https://en.wikipedia.org/wiki/1962_FIFA_World_Cup
+DESCRIPTION:1962 FIFA World Cup - Chile\nQuarter-finals\nBrazil 3-1 England
+ \nHT: 1-1\nFT: 3-1\nGoals:\nBRA 🇧🇷: Garrincha 30'\, Vavá 53'\, Garr
+ incha 59'\nENG 🏴󠁧󠁢󠁥󠁮󠁧󠁿: Hitchens 38'
+URL:https://www.fifa.com/en/match-centre/match/17/21/232/1459
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1962
@@ -502,9 +521,9 @@ GEO:-34.177778;-70.737500
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio El Teniente, Ranca
  gua";X-APPLE-RADIUS=100;X-TITLE="Estadio El Teniente, Rancagua":geo:-34.17
  7778,-70.737500
-DESCRIPTION:Quarter-finals | 1962 FIFA World Cup - Chile\nCzechoslovakia 1-
- 0 Hungary
-URL:https://en.wikipedia.org/wiki/1962_FIFA_World_Cup
+DESCRIPTION:1962 FIFA World Cup - Chile\nQuarter-finals\nCzechoslovakia 1-0
+  Hungary\nHT: 1-0\nFT: 1-0\nGoals:\nTCH 🇨🇿: Scherer 14'
+URL:https://www.fifa.com/en/match-centre/match/17/21/232/1525
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1962
@@ -520,8 +539,10 @@ GEO:-33.464444;-70.610556
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Nacional, Santiago
  ";X-APPLE-RADIUS=100;X-TITLE="Estadio Nacional, Santiago":geo:-33.464444,-
  70.610556
-DESCRIPTION:Semi-finals | 1962 FIFA World Cup - Chile\nBrazil 4-2 Chile
-URL:https://en.wikipedia.org/wiki/1962_FIFA_World_Cup
+DESCRIPTION:1962 FIFA World Cup - Chile\nSemi-finals\nBrazil 4-2 Chile\nHT:
+  2-1\nFT: 4-2\nGoals:\nBRA 🇧🇷: Garrincha 9'\, Garrincha 31'\, Váva 
+ 48'\, Váva 78'\nCHI 🇨🇱: Toro 41'\, L.Sánchez 62' pen
+URL:https://www.fifa.com/en/match-centre/match/17/21/514/1458
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1962
@@ -537,9 +558,10 @@ GEO:-33.014444;-71.535000
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Sausalito, Viña d
  el Mar";X-APPLE-RADIUS=100;X-TITLE="Estadio Sausalito, Viña del Mar":geo:
  -33.014444,-71.535000
-DESCRIPTION:Semi-finals | 1962 FIFA World Cup - Chile\nCzechoslovakia 3-1 Y
- ugoslavia
-URL:https://en.wikipedia.org/wiki/1962_FIFA_World_Cup
+DESCRIPTION:1962 FIFA World Cup - Chile\nSemi-finals\nCzechoslovakia 3-1 Yu
+ goslavia\nHT: 0-0\nFT: 3-1\nGoals:\nTCH 🇨🇿: Kadraba 49'\, Scherer 80
+ '\, Scherer 87' pen\nYUG: Jerković 69'
+URL:https://www.fifa.com/en/match-centre/match/17/21/514/1559
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1962
@@ -555,9 +577,9 @@ GEO:-33.464444;-70.610556
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Nacional, Santiago
  ";X-APPLE-RADIUS=100;X-TITLE="Estadio Nacional, Santiago":geo:-33.464444,-
  70.610556
-DESCRIPTION:Third-place match | 1962 FIFA World Cup - Chile\nChile 1-0 Yugo
- slavia
-URL:https://en.wikipedia.org/wiki/1962_FIFA_World_Cup
+DESCRIPTION:1962 FIFA World Cup - Chile\nThird-place match\nChile 1-0 Yugos
+ lavia\nHT: 0-0\nFT: 1-0\nGoals:\nCHI 🇨🇱: Rojas 90'
+URL:https://www.fifa.com/en/match-centre/match/17/21/3481/1475
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1962
@@ -573,8 +595,10 @@ GEO:-33.464444;-70.610556
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Nacional, Santiago
  ";X-APPLE-RADIUS=100;X-TITLE="Estadio Nacional, Santiago":geo:-33.464444,-
  70.610556
-DESCRIPTION:Final | 1962 FIFA World Cup - Chile\nBrazil 3-1 Czechoslovakia
-URL:https://en.wikipedia.org/wiki/1962_FIFA_World_Cup
+DESCRIPTION:1962 FIFA World Cup - Chile\nFinal\nBrazil 3-1 Czechoslovakia\n
+ HT: 1-1\nFT: 3-1\nGoals:\nBRA 🇧🇷: Amarildo 17'\, Zito 69'\, Vavá 78
+ '\nTCH 🇨🇿: Masopust 15'
+URL:https://www.fifa.com/en/match-centre/match/17/21/3480/1463
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1962

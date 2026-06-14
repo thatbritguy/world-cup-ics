@@ -16,9 +16,10 @@ GEO:59.362778;17.996389
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Råsunda Stadium, Solna";X
  -APPLE-RADIUS=100;X-TITLE="Råsunda Stadium, Solna":geo:59.362778,17.99638
  9
-DESCRIPTION:Group 3 | Matchday 1 | 1958 FIFA World Cup - Sweden\nSweden 3-0
-  Mexico
-URL:https://en.wikipedia.org/wiki/1958_FIFA_World_Cup
+DESCRIPTION:1958 FIFA World Cup - Sweden\nGroup 3 | Matchday 1\nSweden 3-0 
+ Mexico\nHT: 1-0\nFT: 3-0\nGoals:\nSWE 🇸🇪: Simonsson 17'\, Liedholm 5
+ 8' pen\, Simonsson 64'
+URL:https://www.fifa.com/en/match-centre/match/17/15/220/1415
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1958
@@ -33,9 +34,10 @@ LOCATION:Jernvallen\, Sandviken
 GEO:60.608889;16.773056
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Jernvallen, Sandviken";X-A
  PPLE-RADIUS=100;X-TITLE="Jernvallen, Sandviken":geo:60.608889,16.773056
-DESCRIPTION:Group 3 | Matchday 1 | 1958 FIFA World Cup - Sweden\nHungary 1-
- 1 Wales
-URL:https://en.wikipedia.org/wiki/1958_FIFA_World_Cup
+DESCRIPTION:1958 FIFA World Cup - Sweden\nGroup 3 | Matchday 1\nHungary 1-1
+  Wales\nHT: 1-1\nFT: 1-1\nGoals:\nHUN 🇭🇺: Bozsik 4'\nWAL 🏴󠁧
+ 󠁢󠁷󠁬󠁳󠁿: J.Charles 26'
+URL:https://www.fifa.com/en/match-centre/match/17/15/220/1407
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1958
@@ -51,9 +53,11 @@ GEO:58.584444;16.173056
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Idrottsparken, Norrköping
  ";X-APPLE-RADIUS=100;X-TITLE="Idrottsparken, Norrköping":geo:58.584444,16
  .173056
-DESCRIPTION:Group 2 | Matchday 1 | 1958 FIFA World Cup - Sweden\nFrance 7-3
-  Paraguay
-URL:https://en.wikipedia.org/wiki/1958_FIFA_World_Cup
+DESCRIPTION:1958 FIFA World Cup - Sweden\nGroup 2 | Matchday 1\nFrance 7-3 
+ Paraguay\nHT: 2-2\nFT: 7-3\nGoals:\nFRA 🇫🇷: Fontaine 25'\, Fontaine 
+ 30'\, Piantoni 31'\, Wisnieski 62'\, Fontaine 66'\, Kopa 70'\, Vincent 84'
+ \nPAR 🇵🇾: Amarilla 21'\, Amarilla 42' pen\, Romero 50'
+URL:https://www.fifa.com/en/match-centre/match/17/15/220/1386
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1958
@@ -68,9 +72,10 @@ LOCATION:Arosvallen\, Västerås
 GEO:59.620556;16.541111
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Arosvallen, Västerås";X-
  APPLE-RADIUS=100;X-TITLE="Arosvallen, Västerås":geo:59.620556,16.541111
-DESCRIPTION:Group 2 | Matchday 1 | 1958 FIFA World Cup - Sweden\nYugoslavia
-  1-1 Scotland
-URL:https://en.wikipedia.org/wiki/1958_FIFA_World_Cup
+DESCRIPTION:1958 FIFA World Cup - Sweden\nGroup 2 | Matchday 1\nYugoslavia 
+ 1-1 Scotland\nHT: 1-0\nFT: 1-1\nGoals:\nYUG: Petaković 13'\nSCO 🏴󠁧
+ 󠁢󠁳󠁣󠁴󠁿: Murray 48'
+URL:https://www.fifa.com/en/match-centre/match/17/15/220/1434
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1958
@@ -85,9 +90,10 @@ LOCATION:Ullevi\, Gothenburg
 GEO:57.705833;11.987222
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Ullevi, Gothenburg";X-APPL
  E-RADIUS=100;X-TITLE="Ullevi, Gothenburg":geo:57.705833,11.987222
-DESCRIPTION:Group 4 | Matchday 1 | 1958 FIFA World Cup - Sweden\nSoviet Uni
- on 2-2 England
-URL:https://en.wikipedia.org/wiki/1958_FIFA_World_Cup
+DESCRIPTION:1958 FIFA World Cup - Sweden\nGroup 4 | Matchday 1\nSoviet Unio
+ n 2-2 England\nHT: 1-0\nFT: 2-2\nGoals:\nURS: Simonian 13'\, A.Ivanov 56'\
+ nENG 🏴󠁧󠁢󠁥󠁮󠁧󠁿: Kevan 65'\, Finney 84' pen
+URL:https://www.fifa.com/en/match-centre/match/17/15/220/1372
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1958
@@ -103,9 +109,10 @@ GEO:58.356667;11.950000
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Rimnersvallen, Uddevalla";
  X-APPLE-RADIUS=100;X-TITLE="Rimnersvallen, Uddevalla":geo:58.356667,11.950
  000
-DESCRIPTION:Group 4 | Matchday 1 | 1958 FIFA World Cup - Sweden\nBrazil 3-0
-  Austria
-URL:https://en.wikipedia.org/wiki/1958_FIFA_World_Cup
+DESCRIPTION:1958 FIFA World Cup - Sweden\nGroup 4 | Matchday 1\nBrazil 3-0 
+ Austria\nHT: 1-0\nFT: 3-0\nGoals:\nBRA 🇧🇷: Atlafini 37'\, N.Santos 4
+ 8'\, Atlafini 80'
+URL:https://www.fifa.com/en/match-centre/match/17/15/220/1326
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1958
@@ -120,9 +127,10 @@ LOCATION:Malmö Stadion\, Malmö
 GEO:55.586111;12.989167
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Malmö Stadion, Malmö";X-
  APPLE-RADIUS=100;X-TITLE="Malmö Stadion, Malmö":geo:55.586111,12.989167
-DESCRIPTION:Group 1 | Matchday 1 | 1958 FIFA World Cup - Sweden\nWest Germa
- ny 3-1 Argentina
-URL:https://en.wikipedia.org/wiki/1958_FIFA_World_Cup
+DESCRIPTION:1958 FIFA World Cup - Sweden\nGroup 1 | Matchday 1\nWest German
+ y 3-1 Argentina\nHT: 2-1\nFT: 3-1\nGoals:\nFRG 🇩🇪: Rahn 33'\, Seeler
+  42'\, Rahn 79'\nARG 🇦🇷: Carbatta 3'
+URL:https://www.fifa.com/en/match-centre/match/17/15/220/1323
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1958
@@ -137,9 +145,9 @@ LOCATION:Örjans Vall\, Halmstad
 GEO:56.684167;12.866389
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Örjans Vall, Halmstad";X-
  APPLE-RADIUS=100;X-TITLE="Örjans Vall, Halmstad":geo:56.684167,12.866389
-DESCRIPTION:Group 1 | Matchday 1 | 1958 FIFA World Cup - Sweden\nNorthern I
- reland 1-0 Czechoslovakia
-URL:https://en.wikipedia.org/wiki/1958_FIFA_World_Cup
+DESCRIPTION:1958 FIFA World Cup - Sweden\nGroup 1 | Matchday 1\nNorthern Ir
+ eland 1-0 Czechoslovakia\nHT: 1-0\nFT: 1-0\nGoals:\nNIR: Cush 20'
+URL:https://www.fifa.com/en/match-centre/match/17/15/220/1421
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1958
@@ -155,9 +163,10 @@ GEO:59.362778;17.996389
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Råsunda Stadium, Solna";X
  -APPLE-RADIUS=100;X-TITLE="Råsunda Stadium, Solna":geo:59.362778,17.99638
  9
-DESCRIPTION:Group 3 | Matchday 2 | 1958 FIFA World Cup - Sweden\nMexico 1-1
-  Wales
-URL:https://en.wikipedia.org/wiki/1958_FIFA_World_Cup
+DESCRIPTION:1958 FIFA World Cup - Sweden\nGroup 3 | Matchday 2\nMexico 1-1 
+ Wales\nHT: 0-1\nFT: 1-1\nGoals:\nMEX 🇲🇽: Belmonte 69'\nWAL 🏴󠁧
+ 󠁢󠁷󠁬󠁳󠁿: Allchurch 32'
+URL:https://www.fifa.com/en/match-centre/match/17/15/220/1418
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1958
@@ -173,9 +182,10 @@ GEO:58.584444;16.173056
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Idrottsparken, Norrköping
  ";X-APPLE-RADIUS=100;X-TITLE="Idrottsparken, Norrköping":geo:58.584444,16
  .173056
-DESCRIPTION:Group 2 | Matchday 2 | 1958 FIFA World Cup - Sweden\nParaguay 3
- -2 Scotland
-URL:https://en.wikipedia.org/wiki/1958_FIFA_World_Cup
+DESCRIPTION:1958 FIFA World Cup - Sweden\nGroup 2 | Matchday 2\nParaguay 3-
+ 2 Scotland\nHT: 2-1\nFT: 3-2\nGoals:\nPAR 🇵🇾: Aguero 4'\, Re 44'\, P
+ arodi 74'\nSCO 🏴󠁧󠁢󠁳󠁣󠁴󠁿: Mudie 23'\, Collins 76'
+URL:https://www.fifa.com/en/match-centre/match/17/15/220/1423
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1958
@@ -190,9 +200,10 @@ LOCATION:Arosvallen\, Västerås
 GEO:59.620556;16.541111
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Arosvallen, Västerås";X-
  APPLE-RADIUS=100;X-TITLE="Arosvallen, Västerås":geo:59.620556,16.541111
-DESCRIPTION:Group 2 | Matchday 2 | 1958 FIFA World Cup - Sweden\nYugoslavia
-  3-2 France
-URL:https://en.wikipedia.org/wiki/1958_FIFA_World_Cup
+DESCRIPTION:1958 FIFA World Cup - Sweden\nGroup 2 | Matchday 2\nYugoslavia 
+ 3-2 France\nHT: 1-1\nFT: 3-2\nGoals:\nYUG: Petaković 16'\, Vaselinović 6
+ 5'\, Vaselinović 87'\nFRA 🇫🇷: Fontaine 5'\, Fontaine 85'
+URL:https://www.fifa.com/en/match-centre/match/17/15/220/1388
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1958
@@ -207,9 +218,9 @@ LOCATION:Ullevi\, Gothenburg
 GEO:57.705833;11.987222
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Ullevi, Gothenburg";X-APPL
  E-RADIUS=100;X-TITLE="Ullevi, Gothenburg":geo:57.705833,11.987222
-DESCRIPTION:Group 4 | Matchday 2 | 1958 FIFA World Cup - Sweden\nBrazil 0-0
-  England
-URL:https://en.wikipedia.org/wiki/1958_FIFA_World_Cup
+DESCRIPTION:1958 FIFA World Cup - Sweden\nGroup 4 | Matchday 2\nBrazil 0-0 
+ England\nHT: 0-0\nFT: 0-0
+URL:https://www.fifa.com/en/match-centre/match/17/15/220/1339
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1958
@@ -224,9 +235,9 @@ LOCATION:Ryavallen\, Borås
 GEO:57.734167;12.934444
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Ryavallen, Borås";X-APPLE
  -RADIUS=100;X-TITLE="Ryavallen, Borås":geo:57.734167,12.934444
-DESCRIPTION:Group 4 | Matchday 2 | 1958 FIFA World Cup - Sweden\nSoviet Uni
- on 2-0 Austria
-URL:https://en.wikipedia.org/wiki/1958_FIFA_World_Cup
+DESCRIPTION:1958 FIFA World Cup - Sweden\nGroup 4 | Matchday 2\nSoviet Unio
+ n 2-0 Austria\nHT: 1-0\nFT: 2-0\nGoals:\nURS: A.Ivanov 15'\, Ilyin 65'
+URL:https://www.fifa.com/en/match-centre/match/17/15/220/1332
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1958
@@ -242,9 +253,10 @@ GEO:56.049444;12.706944
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Olympiastadion, Helsingbor
  g";X-APPLE-RADIUS=100;X-TITLE="Olympiastadion, Helsingborg":geo:56.049444,
  12.706944
-DESCRIPTION:Group 1 | Matchday 2 | 1958 FIFA World Cup - Sweden\nWest Germa
- ny 2-2 Czechoslovakia
-URL:https://en.wikipedia.org/wiki/1958_FIFA_World_Cup
+DESCRIPTION:1958 FIFA World Cup - Sweden\nGroup 1 | Matchday 2\nWest German
+ y 2-2 Czechoslovakia\nHT: 0-2\nFT: 2-2\nGoals:\nFRG 🇩🇪: Schäfer 60'
+ \, Rahn 70'\nTCH 🇨🇿: Dvořák 24' pen\, Zikan 42'
+URL:https://www.fifa.com/en/match-centre/match/17/15/220/1391
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1958
@@ -259,9 +271,10 @@ LOCATION:Örjans Vall\, Halmstad
 GEO:56.684167;12.866389
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Örjans Vall, Halmstad";X-
  APPLE-RADIUS=100;X-TITLE="Örjans Vall, Halmstad":geo:56.684167,12.866389
-DESCRIPTION:Group 1 | Matchday 2 | 1958 FIFA World Cup - Sweden\nArgentina 
- 3-1 Northern Ireland
-URL:https://en.wikipedia.org/wiki/1958_FIFA_World_Cup
+DESCRIPTION:1958 FIFA World Cup - Sweden\nGroup 1 | Matchday 2\nArgentina 3
+ -1 Northern Ireland\nHT: 1-1\nFT: 3-1\nGoals:\nARG 🇦🇷: Corbatta 36' 
+ pen\, Menéndez 66'\, Avio 80'\nNIR: McParland 4'
+URL:https://www.fifa.com/en/match-centre/match/17/15/220/1324
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1958
@@ -277,9 +290,10 @@ GEO:59.362778;17.996389
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Råsunda Stadium, Solna";X
  -APPLE-RADIUS=100;X-TITLE="Råsunda Stadium, Solna":geo:59.362778,17.99638
  9
-DESCRIPTION:Group 3 | Matchday 2 | 1958 FIFA World Cup - Sweden\nSweden 2-1
-  Hungary
-URL:https://en.wikipedia.org/wiki/1958_FIFA_World_Cup
+DESCRIPTION:1958 FIFA World Cup - Sweden\nGroup 3 | Matchday 2\nSweden 2-1 
+ Hungary\nHT: 1-0\nFT: 2-1\nGoals:\nSWE 🇸🇪: Hamrin 34'\, Hamrin 55'\n
+ HUN 🇭🇺: Tichy 78'
+URL:https://www.fifa.com/en/match-centre/match/17/15/220/1406
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1958
@@ -295,9 +309,9 @@ GEO:59.362778;17.996389
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Råsunda Stadium, Solna";X
  -APPLE-RADIUS=100;X-TITLE="Råsunda Stadium, Solna":geo:59.362778,17.99638
  9
-DESCRIPTION:Group 3 | Matchday 3 | 1958 FIFA World Cup - Sweden\nSweden 0-0
-  Wales
-URL:https://en.wikipedia.org/wiki/1958_FIFA_World_Cup
+DESCRIPTION:1958 FIFA World Cup - Sweden\nGroup 3 | Matchday 3\nSweden 0-0 
+ Wales\nHT: 0-0\nFT: 0-0
+URL:https://www.fifa.com/en/match-centre/match/17/15/220/1438
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1958
@@ -312,9 +326,10 @@ LOCATION:Jernvallen\, Sandviken
 GEO:60.608889;16.773056
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Jernvallen, Sandviken";X-A
  PPLE-RADIUS=100;X-TITLE="Jernvallen, Sandviken":geo:60.608889,16.773056
-DESCRIPTION:Group 3 | Matchday 3 | 1958 FIFA World Cup - Sweden\nHungary 4-
- 0 Mexico
-URL:https://en.wikipedia.org/wiki/1958_FIFA_World_Cup
+DESCRIPTION:1958 FIFA World Cup - Sweden\nGroup 3 | Matchday 3\nHungary 4-0
+  Mexico\nHT: 1-0\nFT: 4-0\nGoals:\nHUN 🇭🇺: Tichy 19'\, Tichy 46'\, S
+ ándor 54'\, Benecsis 69'
+URL:https://www.fifa.com/en/match-centre/match/17/15/220/1403
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1958
@@ -329,9 +344,10 @@ LOCATION:Tunavallen\, Eskilstuna
 GEO:59.366667;16.500556
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Tunavallen, Eskilstuna";X-
  APPLE-RADIUS=100;X-TITLE="Tunavallen, Eskilstuna":geo:59.366667,16.500556
-DESCRIPTION:Group 2 | Matchday 3 | 1958 FIFA World Cup - Sweden\nParaguay 3
- -3 Yugoslavia
-URL:https://en.wikipedia.org/wiki/1958_FIFA_World_Cup
+DESCRIPTION:1958 FIFA World Cup - Sweden\nGroup 2 | Matchday 3\nParaguay 3-
+ 3 Yugoslavia\nHT: 1-2\nFT: 3-3\nGoals:\nPAR 🇵🇾: Parodi 21'\, Aguero 
+ 49'\, Romero 90'\nYUG: Ognjanović 12'\, Veselinović 29'\, Rajkov 74'
+URL:https://www.fifa.com/en/match-centre/match/17/15/220/1426
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1958
@@ -346,9 +362,10 @@ LOCATION:Eyravallen\, Örebro
 GEO:59.266111;15.223056
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Eyravallen, Örebro";X-APP
  LE-RADIUS=100;X-TITLE="Eyravallen, Örebro":geo:59.266111,15.223056
-DESCRIPTION:Group 2 | Matchday 3 | 1958 FIFA World Cup - Sweden\nFrance 2-1
-  Scotland
-URL:https://en.wikipedia.org/wiki/1958_FIFA_World_Cup
+DESCRIPTION:1958 FIFA World Cup - Sweden\nGroup 2 | Matchday 3\nFrance 2-1 
+ Scotland\nHT: 2-0\nFT: 2-1\nGoals:\nFRA 🇫🇷: Kopa 22'\, Fontaine 45'\
+ nSCO 🏴󠁧󠁢󠁳󠁣󠁴󠁿: Baird 66'
+URL:https://www.fifa.com/en/match-centre/match/17/15/220/1387
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1958
@@ -363,9 +380,10 @@ LOCATION:Ullevi\, Gothenburg
 GEO:57.705833;11.987222
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Ullevi, Gothenburg";X-APPL
  E-RADIUS=100;X-TITLE="Ullevi, Gothenburg":geo:57.705833,11.987222
-DESCRIPTION:Group 4 | Matchday 3 | 1958 FIFA World Cup - Sweden\nBrazil 2-0
-  Soviet Union
-URL:https://en.wikipedia.org/wiki/1958_FIFA_World_Cup
+DESCRIPTION:1958 FIFA World Cup - Sweden\nGroup 4 | Matchday 3\nBrazil 2-0 
+ Soviet Union\nHT: 1-0\nFT: 2-0\nGoals:\nBRA 🇧🇷: Vává 3'\, Vává 7
+ 7'
+URL:https://www.fifa.com/en/match-centre/match/17/15/220/1344
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1958
@@ -380,9 +398,10 @@ LOCATION:Ryavallen\, Borås
 GEO:57.734167;12.934444
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Ryavallen, Borås";X-APPLE
  -RADIUS=100;X-TITLE="Ryavallen, Borås":geo:57.734167,12.934444
-DESCRIPTION:Group 4 | Matchday 3 | 1958 FIFA World Cup - Sweden\nEngland 2-
- 2 Austria
-URL:https://en.wikipedia.org/wiki/1958_FIFA_World_Cup
+DESCRIPTION:1958 FIFA World Cup - Sweden\nGroup 4 | Matchday 3\nEngland 2-2
+  Austria\nHT: 0-1\nFT: 2-2\nGoals:\nENG 🏴󠁧󠁢󠁥󠁮󠁧󠁿: Hayn
+ es 56'\, Kevan 74'\nAUT 🇦🇹: Koller 15'\, A.Körner 71'
+URL:https://www.fifa.com/en/match-centre/match/17/15/220/1327
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1958
@@ -397,9 +416,10 @@ LOCATION:Malmö Stadion\, Malmö
 GEO:55.586111;12.989167
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Malmö Stadion, Malmö";X-
  APPLE-RADIUS=100;X-TITLE="Malmö Stadion, Malmö":geo:55.586111,12.989167
-DESCRIPTION:Group 1 | Matchday 3 | 1958 FIFA World Cup - Sweden\nWest Germa
- ny 2-2 Northern Ireland
-URL:https://en.wikipedia.org/wiki/1958_FIFA_World_Cup
+DESCRIPTION:1958 FIFA World Cup - Sweden\nGroup 1 | Matchday 3\nWest German
+ y 2-2 Northern Ireland\nHT: 1-1\nFT: 2-2\nGoals:\nFRG 🇩🇪: Rahn 21'\,
+  Seeler 79'\nNIR: McParland 19'\, McParland 60'
+URL:https://www.fifa.com/en/match-centre/match/17/15/220/1389
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1958
@@ -415,9 +435,11 @@ GEO:56.049444;12.706944
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Olympiastadion, Helsingbor
  g";X-APPLE-RADIUS=100;X-TITLE="Olympiastadion, Helsingborg":geo:56.049444,
  12.706944
-DESCRIPTION:Group 1 | Matchday 3 | 1958 FIFA World Cup - Sweden\nCzechoslov
- akia 6-1 Argentina
-URL:https://en.wikipedia.org/wiki/1958_FIFA_World_Cup
+DESCRIPTION:1958 FIFA World Cup - Sweden\nGroup 1 | Matchday 3\nCzechoslova
+ kia 6-1 Argentina\nHT: 3-0\nFT: 6-1\nGoals:\nTCH 🇨🇿: Dvořák 8'\, Z
+ ikan 17'\, Hovorka 39'\, Feureisl 69'\, Zikan 82'\, Hovorka 89'\nARG 🇦
+ 🇷: Corbatta 65' pen
+URL:https://www.fifa.com/en/match-centre/match/17/15/220/1325
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1958
@@ -433,9 +455,9 @@ GEO:59.362778;17.996389
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Råsunda Stadium, Solna";X
  -APPLE-RADIUS=100;X-TITLE="Råsunda Stadium, Solna":geo:59.362778,17.99638
  9
-DESCRIPTION:Quarter-finals | 1958 FIFA World Cup - Sweden\nSweden 2-0 Sovie
- t Union
-URL:https://en.wikipedia.org/wiki/1958_FIFA_World_Cup
+DESCRIPTION:1958 FIFA World Cup - Sweden\nQuarter-finals\nSweden 2-0 Soviet
+  Union\nHT: 0-0\nFT: 2-0\nGoals:\nSWE 🇸🇪: Hamrin 48'\, Simonsson 87'
+URL:https://www.fifa.com/en/match-centre/match/17/15/221/1437
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1958
@@ -451,9 +473,10 @@ GEO:58.584444;16.173056
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Idrottsparken, Norrköping
  ";X-APPLE-RADIUS=100;X-TITLE="Idrottsparken, Norrköping":geo:58.584444,16
  .173056
-DESCRIPTION:Quarter-finals | 1958 FIFA World Cup - Sweden\nFrance 4-0 North
- ern Ireland
-URL:https://en.wikipedia.org/wiki/1958_FIFA_World_Cup
+DESCRIPTION:1958 FIFA World Cup - Sweden\nQuarter-finals\nFrance 4-0 Northe
+ rn Ireland\nHT: 1-0\nFT: 4-0\nGoals:\nFRA 🇫🇷: Wisnieski 43'\, Fontai
+ ne 55'\, Fontaine 63'\, Plantoni 70'
+URL:https://www.fifa.com/en/match-centre/match/17/15/221/1385
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1958
@@ -468,8 +491,9 @@ LOCATION:Ullevi\, Gothenburg
 GEO:57.705833;11.987222
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Ullevi, Gothenburg";X-APPL
  E-RADIUS=100;X-TITLE="Ullevi, Gothenburg":geo:57.705833,11.987222
-DESCRIPTION:Quarter-finals | 1958 FIFA World Cup - Sweden\nBrazil 1-0 Wales
-URL:https://en.wikipedia.org/wiki/1958_FIFA_World_Cup
+DESCRIPTION:1958 FIFA World Cup - Sweden\nQuarter-finals\nBrazil 1-0 Wales\
+ nHT: 0-0\nFT: 1-0\nGoals:\nBRA 🇧🇷: Pelé 73'
+URL:https://www.fifa.com/en/match-centre/match/17/15/221/1345
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1958
@@ -484,9 +508,9 @@ LOCATION:Malmö Stadion\, Malmö
 GEO:55.586111;12.989167
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Malmö Stadion, Malmö";X-
  APPLE-RADIUS=100;X-TITLE="Malmö Stadion, Malmö":geo:55.586111,12.989167
-DESCRIPTION:Quarter-finals | 1958 FIFA World Cup - Sweden\nWest Germany 1-0
-  Yugoslavia
-URL:https://en.wikipedia.org/wiki/1958_FIFA_World_Cup
+DESCRIPTION:1958 FIFA World Cup - Sweden\nQuarter-finals\nWest Germany 1-0 
+ Yugoslavia\nHT: 1-0\nFT: 1-0\nGoals:\nFRG 🇩🇪: Rahn 12'
+URL:https://www.fifa.com/en/match-centre/match/17/15/221/1392
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1958
@@ -502,8 +526,10 @@ GEO:59.362778;17.996389
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Råsunda Stadium, Solna";X
  -APPLE-RADIUS=100;X-TITLE="Råsunda Stadium, Solna":geo:59.362778,17.99638
  9
-DESCRIPTION:Semi-finals | 1958 FIFA World Cup - Sweden\nFrance 2-5 Brazil
-URL:https://en.wikipedia.org/wiki/1958_FIFA_World_Cup
+DESCRIPTION:1958 FIFA World Cup - Sweden\nSemi-finals\nFrance 2-5 Brazil\nH
+ T: 1-2\nFT: 2-5\nGoals:\nFRA 🇫🇷: Fontaine 9'\, Plantoni 83'\nBRA 
+ 🇧🇷: Vává 2'\, Didi 39'\, Pelé 53'\, Pelé 64'\, Pelé 76'
+URL:https://www.fifa.com/en/match-centre/match/17/15/488/1340
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1958
@@ -518,9 +544,10 @@ LOCATION:Ullevi\, Gothenburg
 GEO:57.705833;11.987222
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Ullevi, Gothenburg";X-APPL
  E-RADIUS=100;X-TITLE="Ullevi, Gothenburg":geo:57.705833,11.987222
-DESCRIPTION:Semi-finals | 1958 FIFA World Cup - Sweden\nWest Germany 1-3 Sw
- eden
-URL:https://en.wikipedia.org/wiki/1958_FIFA_World_Cup
+DESCRIPTION:1958 FIFA World Cup - Sweden\nSemi-finals\nWest Germany 1-3 Swe
+ den\nHT: 1-1\nFT: 1-3\nGoals:\nFRG 🇩🇪: Schäfer 24'\nSWE 🇸🇪: S
+ koglund 33'\, Gren 50'\, Hamrin 88'
+URL:https://www.fifa.com/en/match-centre/match/17/15/488/1390
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1958
@@ -535,9 +562,11 @@ LOCATION:Ullevi\, Gothenburg
 GEO:57.705833;11.987222
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Ullevi, Gothenburg";X-APPL
  E-RADIUS=100;X-TITLE="Ullevi, Gothenburg":geo:57.705833,11.987222
-DESCRIPTION:Match for third place | 1958 FIFA World Cup - Sweden\nWest Germ
- any 3-6 France
-URL:https://en.wikipedia.org/wiki/1958_FIFA_World_Cup
+DESCRIPTION:1958 FIFA World Cup - Sweden\nMatch for third place\nWest Germa
+ ny 3-6 France\nHT: 1-3\nFT: 3-6\nGoals:\nFRG 🇩🇪: Cieslarczyk 18'\, R
+ ahn 52'\, Schäfer 84'\nFRA 🇫🇷: Fontaine 16'\, Kopa 27' pen\, Fontai
+ ne 36'\, Douis 50'\, Fontaine 78'\, Fontaine 89'
+URL:https://www.fifa.com/en/match-centre/match/17/15/3483/1382
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1958
@@ -553,8 +582,10 @@ GEO:59.362778;17.996389
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Råsunda Stadium, Solna";X
  -APPLE-RADIUS=100;X-TITLE="Råsunda Stadium, Solna":geo:59.362778,17.99638
  9
-DESCRIPTION:Final | 1958 FIFA World Cup - Sweden\nSweden 2-5 Brazil
-URL:https://en.wikipedia.org/wiki/1958_FIFA_World_Cup
+DESCRIPTION:1958 FIFA World Cup - Sweden\nFinal\nSweden 2-5 Brazil\nHT: 1-2
+ \nFT: 2-5\nGoals:\nSWE 🇸🇪: Liedholm 4'\, Simonsson 80'\nBRA 🇧🇷
+ : Vavá 9'\, Vavá 32'\, Pelé 55'\, Zagalo 68'\, Pelé 90'
+URL:https://www.fifa.com/en/match-centre/match/17/15/3482/1343
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1958
@@ -571,9 +602,9 @@ GEO:59.362778;17.996389
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Råsunda Stadium, Solna";X
  -APPLE-RADIUS=100;X-TITLE="Råsunda Stadium, Solna":geo:59.362778,17.99638
  9
-DESCRIPTION:Group 3 Play-off | 1958 FIFA World Cup - Sweden\nWales 2-1 Hung
- ary
-URL:https://en.wikipedia.org/wiki/1958_FIFA_World_Cup
+DESCRIPTION:1958 FIFA World Cup - Sweden\nGroup 3 Play-off\nWales 2-1 Hunga
+ ry\nFT: 2-1
+URL:https://www.fifa.com/en/match-centre/match/17/15/220/1408
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1958
@@ -588,9 +619,9 @@ LOCATION:Ullevi\, Gothenburg
 GEO:57.705833;11.987222
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Ullevi, Gothenburg";X-APPL
  E-RADIUS=100;X-TITLE="Ullevi, Gothenburg":geo:57.705833,11.987222
-DESCRIPTION:Group 4 Play-off | 1958 FIFA World Cup - Sweden\nSoviet Union 1
- -0 England
-URL:https://en.wikipedia.org/wiki/1958_FIFA_World_Cup
+DESCRIPTION:1958 FIFA World Cup - Sweden\nGroup 4 Play-off\nSoviet Union 1-
+ 0 England\nHT: 0-0\nFT: 1-0\nGoals:\nURS: Ilyin 68'
+URL:https://www.fifa.com/en/match-centre/match/17/15/220/1373
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1958
@@ -605,9 +636,9 @@ LOCATION:Malmö Stadion\, Malmö
 GEO:55.586111;12.989167
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Malmö Stadion, Malmö";X-
  APPLE-RADIUS=100;X-TITLE="Malmö Stadion, Malmö":geo:55.586111,12.989167
-DESCRIPTION:Group 1 Play-off | 1958 FIFA World Cup - Sweden\nNorthern Irela
- nd 2-1 Czechoslovakia\nFT: 1-1\nAET: 2-1
-URL:https://en.wikipedia.org/wiki/1958_FIFA_World_Cup
+DESCRIPTION:1958 FIFA World Cup - Sweden\nGroup 1 Play-off\nNorthern Irelan
+ d 2-1 Czechoslovakia\nHT: 1-1\nFT: 1-1\nAET: 2-1
+URL:https://www.fifa.com/en/match-centre/match/17/15/220/1422
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1958

@@ -572,7 +572,8 @@ def parse_rsssf_records(
 
 def parse_fifa_records(html: str, codes: dict[str, str]) -> dict[tuple[str, frozenset[str]], dict[str, object]]:
     pattern = re.compile(
-        r'"idMatch":"(?P<id>\d+)".*?'
+        r'"idMatch":"(?P<id>\d+)","idCompetition":"(?P<competition>\d+)",'
+        r'"idSeason":"(?P<season>\d+)","idStage":"(?P<stage>\d+)".*?'
         r'"date":"(?P<utc>[^"]+)".*?'
         r'"localDate":"(?P<local>[^"]+)".*?'
         r'"awayTeam":\{"abbreviation":"(?P<away>[^"]+)".*?'
@@ -593,6 +594,9 @@ def parse_fifa_records(html: str, codes: dict[str, str]) -> dict[tuple[str, froz
             "utc": match.group("utc"),
             "match_id": match.group("id"),
             "match_number": int(match.group("number")),
+            "competition_id": match.group("competition") if "competition" in match.groupdict() else None,
+            "season_id": match.group("season") if "season" in match.groupdict() else None,
+            "stage_id": match.group("stage") if "stage" in match.groupdict() else None,
         }
     return records
 

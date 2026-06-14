@@ -16,10 +16,10 @@ GEO:55.715833;37.553611
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Luzhniki Stadium, Moscow";
  X-APPLE-RADIUS=100;X-TITLE="Luzhniki Stadium, Moscow":geo:55.715833,37.553
  611
-DESCRIPTION:Group A | Matchday 1 | 2018 FIFA World Cup - Russia\nRussia 5-0
-  Saudi Arabia\nHT: 2-0\nGoals:\nRUS 🇷🇺: Gazinsky 12'\, Cheryshev 43'
- \, Cheryshev 90'\, Dzyuba 71'\, Golovin 90'
-URL:https://en.wikipedia.org/wiki/2018_FIFA_World_Cup
+DESCRIPTION:2018 FIFA World Cup - Russia\nGroup A | Matchday 1\nRussia 5-0 
+ Saudi Arabia\nHT: 2-0\nFT: 5-0\nGoals:\nRUS 🇷🇺: Gazinsky 12'\, Chery
+ shev 43'\, Cheryshev 90+1'\, Dzyuba 71'\, Golovin 90+4'
+URL:https://www.fifa.com/en/match-centre/match/17/254645/275073/300331503
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2018
@@ -35,9 +35,9 @@ GEO:56.832500;60.573611
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Ekaterinburg Arena, Ekater
  inburg";X-APPLE-RADIUS=100;X-TITLE="Ekaterinburg Arena, Ekaterinburg":geo:
  56.832500,60.573611
-DESCRIPTION:Group A | Matchday 2 | 2018 FIFA World Cup - Russia\nEgypt 0-1 
- Uruguay\nHT: 0-0\nGoals:\nURU 🇺🇾: Giménez 89'
-URL:https://en.wikipedia.org/wiki/2018_FIFA_World_Cup
+DESCRIPTION:2018 FIFA World Cup - Russia\nGroup A | Matchday 2\nEgypt 0-1 U
+ ruguay\nHT: 0-0\nFT: 0-1\nGoals:\nURU 🇺🇾: Giménez 89'
+URL:https://www.fifa.com/en/match-centre/match/17/254645/275073/300353632
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2018
@@ -53,9 +53,9 @@ GEO:59.973056;30.220556
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Saint Petersburg Stadium, 
  Saint Petersburg";X-APPLE-RADIUS=100;X-TITLE="Saint Petersburg Stadium, Sa
  int Petersburg":geo:59.973056,30.220556
-DESCRIPTION:Group B | Matchday 2 | 2018 FIFA World Cup - Russia\nMorocco 0-
- 1 Iran\nHT: 0-0\nGoals:\nIRN 🇮🇷: Bouhaddouz 90' og
-URL:https://en.wikipedia.org/wiki/2018_FIFA_World_Cup
+DESCRIPTION:2018 FIFA World Cup - Russia\nGroup B | Matchday 2\nMorocco 0-1
+  Iran\nHT: 0-0\nFT: 0-1\nGoals:\nIRN 🇮🇷: Bouhaddouz 90+5' og
+URL:https://www.fifa.com/en/match-centre/match/17/254645/275073/300331526
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2018
@@ -70,10 +70,10 @@ LOCATION:Fisht Stadium\, Sochi
 GEO:43.402222;39.956111
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Fisht Stadium, Sochi";X-AP
  PLE-RADIUS=100;X-TITLE="Fisht Stadium, Sochi":geo:43.402222,39.956111
-DESCRIPTION:Group B | Matchday 2 | 2018 FIFA World Cup - Russia\nPortugal 3
- -3 Spain\nHT: 2-1\nGoals:\nPOR 🇵🇹: Ronaldo 4' pen\, Ronaldo 44'\, Ro
- naldo 88'\nESP 🇪🇸: Costa 24'\, Costa 55'\, Nacho 58'
-URL:https://en.wikipedia.org/wiki/2018_FIFA_World_Cup
+DESCRIPTION:2018 FIFA World Cup - Russia\nGroup B | Matchday 2\nPortugal 3-
+ 3 Spain\nHT: 2-1\nFT: 3-3\nGoals:\nPOR 🇵🇹: Ronaldo 4' pen\, Ronaldo 
+ 44'\, Ronaldo 88'\nESP 🇪🇸: Costa 24'\, Costa 55'\, Nacho 58'
+URL:https://www.fifa.com/en/match-centre/match/17/254645/275073/300331524
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2018
@@ -88,10 +88,10 @@ LOCATION:Kazan Arena\, Kazan
 GEO:55.821111;49.160833
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Kazan Arena, Kazan";X-APPL
  E-RADIUS=100;X-TITLE="Kazan Arena, Kazan":geo:55.821111,49.160833
-DESCRIPTION:Group C | Matchday 3 | 2018 FIFA World Cup - Russia\nFrance 2-1
-  Australia\nHT: 0-0\nGoals:\nFRA 🇫🇷: Griezmann 58' pen\, Behich 81' 
- og\nAUS 🇦🇺: Jedinak 62' pen
-URL:https://en.wikipedia.org/wiki/2018_FIFA_World_Cup
+DESCRIPTION:2018 FIFA World Cup - Russia\nGroup C | Matchday 3\nFrance 2-1 
+ Australia\nHT: 0-0\nFT: 2-1\nGoals:\nFRA 🇫🇷: Griezmann 58' pen\, Beh
+ ich 81' og\nAUS 🇦🇺: Jedinak 62' pen
+URL:https://www.fifa.com/en/match-centre/match/17/254645/275073/300331533
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2018
@@ -107,10 +107,10 @@ GEO:55.817861;37.440250
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Spartak Stadium, Moscow";X
  -APPLE-RADIUS=100;X-TITLE="Spartak Stadium, Moscow":geo:55.817861,37.44025
  0
-DESCRIPTION:Group D | Matchday 3 | 2018 FIFA World Cup - Russia\nArgentina 
- 1-1 Iceland\nHT: 1-1\nGoals:\nARG 🇦🇷: Agüero 19'\nISL 🇮🇸: Fin
- nbogason 23'
-URL:https://en.wikipedia.org/wiki/2018_FIFA_World_Cup
+DESCRIPTION:2018 FIFA World Cup - Russia\nGroup D | Matchday 3\nArgentina 1
+ -1 Iceland\nHT: 1-1\nFT: 1-1\nGoals:\nARG 🇦🇷: Agüero 19'\nISL 🇮
+ 🇸: Finnbogason 23'
+URL:https://www.fifa.com/en/match-centre/match/17/254645/275073/300331515
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2018
@@ -126,9 +126,9 @@ GEO:54.182778;45.201389
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Mordovia Arena, Saransk";X
  -APPLE-RADIUS=100;X-TITLE="Mordovia Arena, Saransk":geo:54.182778,45.20138
  9
-DESCRIPTION:Group C | Matchday 3 | 2018 FIFA World Cup - Russia\nPeru 0-1 D
- enmark\nHT: 0-0\nGoals:\nDEN 🇩🇰: Poulsen 59'
-URL:https://en.wikipedia.org/wiki/2018_FIFA_World_Cup
+DESCRIPTION:2018 FIFA World Cup - Russia\nGroup C | Matchday 3\nPeru 0-1 De
+ nmark\nHT: 0-0\nFT: 0-1\nGoals:\nDEN 🇩🇰: Poulsen 59'
+URL:https://www.fifa.com/en/match-centre/match/17/254645/275073/300331528
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2018
@@ -144,9 +144,10 @@ GEO:54.698056;20.533889
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Kaliningrad Stadium, Kalin
  ingrad";X-APPLE-RADIUS=100;X-TITLE="Kaliningrad Stadium, Kaliningrad":geo:
  54.698056,20.533889
-DESCRIPTION:Group D | Matchday 3 | 2018 FIFA World Cup - Russia\nCroatia 2-
- 0 Nigeria\nHT: 1-0\nGoals:\nCRO 🇭🇷: Etebo 32' og\, Modrić 71' pen
-URL:https://en.wikipedia.org/wiki/2018_FIFA_World_Cup
+DESCRIPTION:2018 FIFA World Cup - Russia\nGroup D | Matchday 3\nCroatia 2-0
+  Nigeria\nHT: 1-0\nFT: 2-0\nGoals:\nCRO 🇭🇷: Etebo 32' og\, Modrić 7
+ 1' pen
+URL:https://www.fifa.com/en/match-centre/match/17/254645/275073/300331523
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2018
@@ -161,9 +162,9 @@ LOCATION:Samara Arena\, Samara
 GEO:53.277778;50.237222
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Samara Arena, Samara";X-AP
  PLE-RADIUS=100;X-TITLE="Samara Arena, Samara":geo:53.277778,50.237222
-DESCRIPTION:Group E | Matchday 4 | 2018 FIFA World Cup - Russia\nCosta Rica
-  0-1 Serbia\nHT: 0-0\nGoals:\nSRB 🇷🇸: Kolarov 56'
-URL:https://en.wikipedia.org/wiki/2018_FIFA_World_Cup
+DESCRIPTION:2018 FIFA World Cup - Russia\nGroup E | Matchday 4\nCosta Rica 
+ 0-1 Serbia\nHT: 0-0\nFT: 0-1\nGoals:\nSRB 🇷🇸: Kolarov 56'
+URL:https://www.fifa.com/en/match-centre/match/17/254645/275073/300331529
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2018
@@ -179,9 +180,9 @@ GEO:55.715833;37.553611
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Luzhniki Stadium, Moscow";
  X-APPLE-RADIUS=100;X-TITLE="Luzhniki Stadium, Moscow":geo:55.715833,37.553
  611
-DESCRIPTION:Group F | Matchday 4 | 2018 FIFA World Cup - Russia\nGermany 0-
- 1 Mexico\nHT: 0-1\nGoals:\nMEX 🇲🇽: Lozano 35'
-URL:https://en.wikipedia.org/wiki/2018_FIFA_World_Cup
+DESCRIPTION:2018 FIFA World Cup - Russia\nGroup F | Matchday 4\nGermany 0-1
+  Mexico\nHT: 0-1\nFT: 0-1\nGoals:\nMEX 🇲🇽: Lozano 35'
+URL:https://www.fifa.com/en/match-centre/match/17/254645/275073/300331502
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2018
@@ -197,10 +198,10 @@ GEO:47.209444;39.737778
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Rostov Arena, Rostov-on-Do
  n";X-APPLE-RADIUS=100;X-TITLE="Rostov Arena, Rostov-on-Don":geo:47.209444,
  39.737778
-DESCRIPTION:Group E | Matchday 4 | 2018 FIFA World Cup - Russia\nBrazil 1-1
-  Switzerland\nHT: 1-0\nGoals:\nBRA 🇧🇷: Coutinho 20'\nSUI 🇨🇭: Z
- uber 50'
-URL:https://en.wikipedia.org/wiki/2018_FIFA_World_Cup
+DESCRIPTION:2018 FIFA World Cup - Russia\nGroup E | Matchday 4\nBrazil 1-1 
+ Switzerland\nHT: 1-0\nFT: 1-1\nGoals:\nBRA 🇧🇷: Coutinho 20'\nSUI 
+ 🇨🇭: Zuber 50'
+URL:https://www.fifa.com/en/match-centre/match/17/254645/275073/300331525
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2018
@@ -216,9 +217,9 @@ GEO:56.337500;43.963333
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Nizhny Novgorod Stadium, N
  izhny Novgorod";X-APPLE-RADIUS=100;X-TITLE="Nizhny Novgorod Stadium, Nizhn
  y Novgorod":geo:56.337500,43.963333
-DESCRIPTION:Group F | Matchday 5 | 2018 FIFA World Cup - Russia\nSweden 1-0
-  South Korea\nHT: 0-0\nGoals:\nSWE 🇸🇪: Granqvist 65' pen
-URL:https://en.wikipedia.org/wiki/2018_FIFA_World_Cup
+DESCRIPTION:2018 FIFA World Cup - Russia\nGroup F | Matchday 5\nSweden 1-0 
+ South Korea\nHT: 0-0\nFT: 1-0\nGoals:\nSWE 🇸🇪: Granqvist 65' pen
+URL:https://www.fifa.com/en/match-centre/match/17/254645/275073/300331499
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2018
@@ -233,10 +234,10 @@ LOCATION:Fisht Stadium\, Sochi
 GEO:43.402222;39.956111
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Fisht Stadium, Sochi";X-AP
  PLE-RADIUS=100;X-TITLE="Fisht Stadium, Sochi":geo:43.402222,39.956111
-DESCRIPTION:Group G | Matchday 5 | 2018 FIFA World Cup - Russia\nBelgium 3-
- 0 Panama\nHT: 0-0\nGoals:\nBEL 🇧🇪: Mertens 47'\, Lukaku 69'\, Lukaku
-  75'
-URL:https://en.wikipedia.org/wiki/2018_FIFA_World_Cup
+DESCRIPTION:2018 FIFA World Cup - Russia\nGroup G | Matchday 5\nBelgium 3-0
+  Panama\nHT: 0-0\nFT: 3-0\nGoals:\nBEL 🇧🇪: Mertens 47'\, Lukaku 69'\
+ , Lukaku 75'
+URL:https://www.fifa.com/en/match-centre/match/17/254645/275073/300331539
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2018
@@ -252,10 +253,10 @@ GEO:48.734444;44.548611
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Volgograd Arena, Volgograd
  ";X-APPLE-RADIUS=100;X-TITLE="Volgograd Arena, Volgograd":geo:48.734444,44
  .548611
-DESCRIPTION:Group G | Matchday 5 | 2018 FIFA World Cup - Russia\nTunisia 1-
- 2 England\nHT: 1-1\nGoals:\nTUN 🇹🇳: Sassi 35' pen\nENG 🏴󠁧󠁢
- 󠁥󠁮󠁧󠁿: Kane 11'\, Kane 90'
-URL:https://en.wikipedia.org/wiki/2018_FIFA_World_Cup
+DESCRIPTION:2018 FIFA World Cup - Russia\nGroup G | Matchday 5\nTunisia 1-2
+  England\nHT: 1-1\nFT: 1-2\nGoals:\nTUN 🇹🇳: Sassi 35' pen\nENG 🏴
+ 󠁧󠁢󠁥󠁮󠁧󠁿: Kane 11'\, Kane 90+1'
+URL:https://www.fifa.com/en/match-centre/match/17/254645/275073/300331554
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2018
@@ -271,10 +272,10 @@ GEO:54.182778;45.201389
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Mordovia Arena, Saransk";X
  -APPLE-RADIUS=100;X-TITLE="Mordovia Arena, Saransk":geo:54.182778,45.20138
  9
-DESCRIPTION:Group H | Matchday 6 | 2018 FIFA World Cup - Russia\nColombia 1
- -2 Japan\nHT: 1-1\nGoals:\nCOL 🇨🇴: J. Quintero 39'\nJPN 🇯🇵: Ka
- gawa 6' pen\, Osako 73'
-URL:https://en.wikipedia.org/wiki/2018_FIFA_World_Cup
+DESCRIPTION:2018 FIFA World Cup - Russia\nGroup H | Matchday 6\nColombia 1-
+ 2 Japan\nHT: 1-1\nFT: 1-2\nGoals:\nCOL 🇨🇴: J. Quintero 39'\nJPN 🇯
+ 🇵: Kagawa 6' pen\, Osako 73'
+URL:https://www.fifa.com/en/match-centre/match/17/254645/275073/300331550
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2018
@@ -290,10 +291,10 @@ GEO:55.817861;37.440250
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Spartak Stadium, Moscow";X
  -APPLE-RADIUS=100;X-TITLE="Spartak Stadium, Moscow":geo:55.817861,37.44025
  0
-DESCRIPTION:Group H | Matchday 6 | 2018 FIFA World Cup - Russia\nPoland 1-2
-  Senegal\nHT: 0-1\nGoals:\nPOL 🇵🇱: Krychowiak 86'\nSEN 🇸🇳: Cio
- nek 37' og\, Niang 60'
-URL:https://en.wikipedia.org/wiki/2018_FIFA_World_Cup
+DESCRIPTION:2018 FIFA World Cup - Russia\nGroup H | Matchday 6\nPoland 1-2 
+ Senegal\nHT: 0-1\nFT: 1-2\nGoals:\nPOL 🇵🇱: Krychowiak 86'\nSEN 🇸
+ 🇳: Cionek 37' og\, Niang 60'
+URL:https://www.fifa.com/en/match-centre/match/17/254645/275073/300331545
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2018
@@ -309,10 +310,10 @@ GEO:59.973056;30.220556
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Saint Petersburg Stadium, 
  Saint Petersburg";X-APPLE-RADIUS=100;X-TITLE="Saint Petersburg Stadium, Sa
  int Petersburg":geo:59.973056,30.220556
-DESCRIPTION:Group A | Matchday 6 | 2018 FIFA World Cup - Russia\nRussia 3-1
-  Egypt\nHT: 0-0\nGoals:\nRUS 🇷🇺: A. Fathi 47' og\, Cheryshev 59'\, D
- zyuba 62'\nEGY 🇪🇬: M. Salah 73' pen
-URL:https://en.wikipedia.org/wiki/2018_FIFA_World_Cup
+DESCRIPTION:2018 FIFA World Cup - Russia\nGroup A | Matchday 6\nRussia 3-1 
+ Egypt\nHT: 0-0\nFT: 3-1\nGoals:\nRUS 🇷🇺: A. Fathi 47' og\, Cheryshev
+  59'\, Dzyuba 62'\nEGY 🇪🇬: M. Salah 73' pen
+URL:https://www.fifa.com/en/match-centre/match/17/254645/275073/300331495
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2018
@@ -328,9 +329,9 @@ GEO:55.715833;37.553611
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Luzhniki Stadium, Moscow";
  X-APPLE-RADIUS=100;X-TITLE="Luzhniki Stadium, Moscow":geo:55.715833,37.553
  611
-DESCRIPTION:Group B | Matchday 7 | 2018 FIFA World Cup - Russia\nPortugal 1
- -0 Morocco\nHT: 1-0\nGoals:\nPOR 🇵🇹: Ronaldo 4'
-URL:https://en.wikipedia.org/wiki/2018_FIFA_World_Cup
+DESCRIPTION:2018 FIFA World Cup - Russia\nGroup B | Matchday 7\nPortugal 1-
+ 0 Morocco\nHT: 1-0\nFT: 1-0\nGoals:\nPOR 🇵🇹: Ronaldo 4'
+URL:https://www.fifa.com/en/match-centre/match/17/254645/275073/300331511
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2018
@@ -346,9 +347,9 @@ GEO:47.209444;39.737778
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Rostov Arena, Rostov-on-Do
  n";X-APPLE-RADIUS=100;X-TITLE="Rostov Arena, Rostov-on-Don":geo:47.209444,
  39.737778
-DESCRIPTION:Group A | Matchday 7 | 2018 FIFA World Cup - Russia\nUruguay 1-
- 0 Saudi Arabia\nHT: 1-0\nGoals:\nURU 🇺🇾: L. Suárez 23'
-URL:https://en.wikipedia.org/wiki/2018_FIFA_World_Cup
+DESCRIPTION:2018 FIFA World Cup - Russia\nGroup A | Matchday 7\nUruguay 1-0
+  Saudi Arabia\nHT: 1-0\nFT: 1-0\nGoals:\nURU 🇺🇾: L. Suárez 23'
+URL:https://www.fifa.com/en/match-centre/match/17/254645/275073/300331530
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2018
@@ -363,9 +364,9 @@ LOCATION:Kazan Arena\, Kazan
 GEO:55.821111;49.160833
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Kazan Arena, Kazan";X-APPL
  E-RADIUS=100;X-TITLE="Kazan Arena, Kazan":geo:55.821111,49.160833
-DESCRIPTION:Group B | Matchday 7 | 2018 FIFA World Cup - Russia\nIran 0-1 S
- pain\nHT: 0-0\nGoals:\nESP 🇪🇸: Diego Costa 54'
-URL:https://en.wikipedia.org/wiki/2018_FIFA_World_Cup
+DESCRIPTION:2018 FIFA World Cup - Russia\nGroup B | Matchday 7\nIran 0-1 Sp
+ ain\nHT: 0-0\nFT: 0-1\nGoals:\nESP 🇪🇸: Diego Costa 54'
+URL:https://www.fifa.com/en/match-centre/match/17/254645/275073/300331496
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2018
@@ -380,10 +381,10 @@ LOCATION:Samara Arena\, Samara
 GEO:53.277778;50.237222
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Samara Arena, Samara";X-AP
  PLE-RADIUS=100;X-TITLE="Samara Arena, Samara":geo:53.277778,50.237222
-DESCRIPTION:Group C | Matchday 8 | 2018 FIFA World Cup - Russia\nDenmark 1-
- 1 Australia\nHT: 1-1\nGoals:\nDEN 🇩🇰: Eriksen 7'\nAUS 🇦🇺: Jedi
- nak 38' pen
-URL:https://en.wikipedia.org/wiki/2018_FIFA_World_Cup
+DESCRIPTION:2018 FIFA World Cup - Russia\nGroup C | Matchday 8\nDenmark 1-1
+  Australia\nHT: 1-1\nFT: 1-1\nGoals:\nDEN 🇩🇰: Eriksen 7'\nAUS 🇦
+ 🇺: Jedinak 38' pen
+URL:https://www.fifa.com/en/match-centre/match/17/254645/275073/300331518
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2018
@@ -399,9 +400,9 @@ GEO:56.832500;60.573611
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Ekaterinburg Arena, Ekater
  inburg";X-APPLE-RADIUS=100;X-TITLE="Ekaterinburg Arena, Ekaterinburg":geo:
  56.832500,60.573611
-DESCRIPTION:Group C | Matchday 8 | 2018 FIFA World Cup - Russia\nFrance 1-0
-  Peru\nHT: 1-0\nGoals:\nFRA 🇫🇷: Mbappé 34'
-URL:https://en.wikipedia.org/wiki/2018_FIFA_World_Cup
+DESCRIPTION:2018 FIFA World Cup - Russia\nGroup C | Matchday 8\nFrance 1-0 
+ Peru\nHT: 1-0\nFT: 1-0\nGoals:\nFRA 🇫🇷: Mbappé 34'
+URL:https://www.fifa.com/en/match-centre/match/17/254645/275073/300331527
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2018
@@ -417,10 +418,10 @@ GEO:56.337500;43.963333
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Nizhny Novgorod Stadium, N
  izhny Novgorod";X-APPLE-RADIUS=100;X-TITLE="Nizhny Novgorod Stadium, Nizhn
  y Novgorod":geo:56.337500,43.963333
-DESCRIPTION:Group D | Matchday 8 | 2018 FIFA World Cup - Russia\nArgentina 
- 0-3 Croatia\nHT: 0-0\nGoals:\nCRO 🇭🇷: Rebić 53'\, Modrić 80'\, Rak
- itić 90'
-URL:https://en.wikipedia.org/wiki/2018_FIFA_World_Cup
+DESCRIPTION:2018 FIFA World Cup - Russia\nGroup D | Matchday 8\nArgentina 0
+ -3 Croatia\nHT: 0-0\nFT: 0-3\nGoals:\nCRO 🇭🇷: Rebić 53'\, Modrić 8
+ 0'\, Rakitić 90+1'
+URL:https://www.fifa.com/en/match-centre/match/17/254645/275073/300331513
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2018
@@ -436,10 +437,10 @@ GEO:59.973056;30.220556
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Saint Petersburg Stadium, 
  Saint Petersburg";X-APPLE-RADIUS=100;X-TITLE="Saint Petersburg Stadium, Sa
  int Petersburg":geo:59.973056,30.220556
-DESCRIPTION:Group E | Matchday 9 | 2018 FIFA World Cup - Russia\nBrazil 2-0
-  Costa Rica\nHT: 0-0\nGoals:\nBRA 🇧🇷: P. Coutinho 90'\, Neymar Jr 90
- '
-URL:https://en.wikipedia.org/wiki/2018_FIFA_World_Cup
+DESCRIPTION:2018 FIFA World Cup - Russia\nGroup E | Matchday 9\nBrazil 2-0 
+ Costa Rica\nHT: 0-0\nFT: 2-0\nGoals:\nBRA 🇧🇷: P. Coutinho 90+1'\, Ne
+ ymar Jr 90+7'
+URL:https://www.fifa.com/en/match-centre/match/17/254645/275073/300331540
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2018
@@ -455,9 +456,9 @@ GEO:48.734444;44.548611
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Volgograd Arena, Volgograd
  ";X-APPLE-RADIUS=100;X-TITLE="Volgograd Arena, Volgograd":geo:48.734444,44
  .548611
-DESCRIPTION:Group D | Matchday 9 | 2018 FIFA World Cup - Russia\nNigeria 2-
- 0 Iceland\nHT: 0-0\nGoals:\nNGA 🇳🇬: Musa 49'\, Musa 75'
-URL:https://en.wikipedia.org/wiki/2018_FIFA_World_Cup
+DESCRIPTION:2018 FIFA World Cup - Russia\nGroup D | Matchday 9\nNigeria 2-0
+  Iceland\nHT: 0-0\nFT: 2-0\nGoals:\nNGA 🇳🇬: Musa 49'\, Musa 75'
+URL:https://www.fifa.com/en/match-centre/match/17/254645/275073/300331497
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2018
@@ -473,10 +474,10 @@ GEO:54.698056;20.533889
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Kaliningrad Stadium, Kalin
  ingrad";X-APPLE-RADIUS=100;X-TITLE="Kaliningrad Stadium, Kaliningrad":geo:
  54.698056,20.533889
-DESCRIPTION:Group E | Matchday 9 | 2018 FIFA World Cup - Russia\nSerbia 1-2
-  Switzerland\nHT: 1-0\nGoals:\nSRB 🇷🇸: Mitrović 5'\nSUI 🇨🇭: X
- haka 52'\, Shaqiri 90'
-URL:https://en.wikipedia.org/wiki/2018_FIFA_World_Cup
+DESCRIPTION:2018 FIFA World Cup - Russia\nGroup E | Matchday 9\nSerbia 1-2 
+ Switzerland\nHT: 1-0\nFT: 1-2\nGoals:\nSRB 🇷🇸: Mitrović 5'\nSUI 
+ 🇨🇭: Xhaka 52'\, Shaqiri 90'
+URL:https://www.fifa.com/en/match-centre/match/17/254645/275073/300340183
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2018
@@ -492,11 +493,11 @@ GEO:55.817861;37.440250
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Spartak Stadium, Moscow";X
  -APPLE-RADIUS=100;X-TITLE="Spartak Stadium, Moscow":geo:55.817861,37.44025
  0
-DESCRIPTION:Group G | Matchday 10 | 2018 FIFA World Cup - Russia\nBelgium 5
- -2 Tunisia\nHT: 3-1\nGoals:\nBEL 🇧🇪: E. Hazard 6' pen\, E. Hazard 51
- '\, R. Lukaku 16'\, R. Lukaku 45'\, Batshuayi 90'\nTUN 🇹🇳: Bronn 18'
- \, Khazri 90'
-URL:https://en.wikipedia.org/wiki/2018_FIFA_World_Cup
+DESCRIPTION:2018 FIFA World Cup - Russia\nGroup G | Matchday 10\nBelgium 5-
+ 2 Tunisia\nHT: 3-1\nFT: 5-2\nGoals:\nBEL 🇧🇪: E. Hazard 6' pen\, E. H
+ azard 51'\, R. Lukaku 16'\, R. Lukaku 45+3'\, Batshuayi 90'\nTUN 🇹🇳:
+  Bronn 18'\, Khazri 90+3'
+URL:https://www.fifa.com/en/match-centre/match/17/254645/275073/300331547
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2018
@@ -512,10 +513,10 @@ GEO:47.209444;39.737778
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Rostov Arena, Rostov-on-Do
  n";X-APPLE-RADIUS=100;X-TITLE="Rostov Arena, Rostov-on-Don":geo:47.209444,
  39.737778
-DESCRIPTION:Group F | Matchday 10 | 2018 FIFA World Cup - Russia\nSouth Kor
- ea 1-2 Mexico\nHT: 0-1\nGoals:\nKOR 🇰🇷: Son Heung-min 90'\nMEX 🇲
- 🇽: Carlos Vela 26' pen\, J. Hernández 66'
-URL:https://en.wikipedia.org/wiki/2018_FIFA_World_Cup
+DESCRIPTION:2018 FIFA World Cup - Russia\nGroup F | Matchday 10\nSouth Kore
+ a 1-2 Mexico\nHT: 0-1\nFT: 1-2\nGoals:\nKOR 🇰🇷: Son Heung-min 90+3'\
+ nMEX 🇲🇽: Carlos Vela 26' pen\, J. Hernández 66'
+URL:https://www.fifa.com/en/match-centre/match/17/254645/275073/300331549
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2018
@@ -530,10 +531,10 @@ LOCATION:Fisht Stadium\, Sochi
 GEO:43.402222;39.956111
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Fisht Stadium, Sochi";X-AP
  PLE-RADIUS=100;X-TITLE="Fisht Stadium, Sochi":geo:43.402222,39.956111
-DESCRIPTION:Group F | Matchday 10 | 2018 FIFA World Cup - Russia\nGermany 2
- -1 Sweden\nHT: 0-1\nGoals:\nGER 🇩🇪: Reus 48'\, Kroos 90'\nSWE 🇸
- 🇪: Toivonen 32'
-URL:https://en.wikipedia.org/wiki/2018_FIFA_World_Cup
+DESCRIPTION:2018 FIFA World Cup - Russia\nGroup F | Matchday 10\nGermany 2-
+ 1 Sweden\nHT: 0-1\nFT: 2-1\nGoals:\nGER 🇩🇪: Reus 48'\, Kroos 90+5'\n
+ SWE 🇸🇪: Toivonen 32'
+URL:https://www.fifa.com/en/match-centre/match/17/254645/275073/300331501
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2018
@@ -549,11 +550,11 @@ GEO:56.337500;43.963333
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Nizhny Novgorod Stadium, N
  izhny Novgorod";X-APPLE-RADIUS=100;X-TITLE="Nizhny Novgorod Stadium, Nizhn
  y Novgorod":geo:56.337500,43.963333
-DESCRIPTION:Group G | Matchday 11 | 2018 FIFA World Cup - Russia\nEngland 6
- -1 Panama\nHT: 5-0\nGoals:\nENG 🏴󠁧󠁢󠁥󠁮󠁧󠁿: Stones 8'\, 
- Stones 40'\, Kane 22' pen\, Kane 45' pen\, Kane 62'\, Lingard 36'\nPAN 
- 🇵🇦: Baloy 78'
-URL:https://en.wikipedia.org/wiki/2018_FIFA_World_Cup
+DESCRIPTION:2018 FIFA World Cup - Russia\nGroup G | Matchday 11\nEngland 6-
+ 1 Panama\nHT: 5-0\nFT: 6-1\nGoals:\nENG 🏴󠁧󠁢󠁥󠁮󠁧󠁿: Ston
+ es 8'\, Stones 40'\, Kane 22' pen\, Kane 45+1' pen\, Kane 62'\, Lingard 36
+ '\nPAN 🇵🇦: Baloy 78'
+URL:https://www.fifa.com/en/match-centre/match/17/254645/275073/300331546
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2018
@@ -569,10 +570,10 @@ GEO:56.832500;60.573611
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Ekaterinburg Arena, Ekater
  inburg";X-APPLE-RADIUS=100;X-TITLE="Ekaterinburg Arena, Ekaterinburg":geo:
  56.832500,60.573611
-DESCRIPTION:Group H | Matchday 11 | 2018 FIFA World Cup - Russia\nJapan 2-2
-  Senegal\nHT: 1-1\nGoals:\nJPN 🇯🇵: Inui 34'\, Honda 78'\nSEN 🇸
- 🇳: Mané 11'\, M. Wagué 71'
-URL:https://en.wikipedia.org/wiki/2018_FIFA_World_Cup
+DESCRIPTION:2018 FIFA World Cup - Russia\nGroup H | Matchday 11\nJapan 2-2 
+ Senegal\nHT: 1-1\nFT: 2-2\nGoals:\nJPN 🇯🇵: Inui 34'\, Honda 78'\nSEN
+  🇸🇳: Mané 11'\, M. Wagué 71'
+URL:https://www.fifa.com/en/match-centre/match/17/254645/275073/300331505
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2018
@@ -587,10 +588,10 @@ LOCATION:Kazan Arena\, Kazan
 GEO:55.821111;49.160833
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Kazan Arena, Kazan";X-APPL
  E-RADIUS=100;X-TITLE="Kazan Arena, Kazan":geo:55.821111,49.160833
-DESCRIPTION:Group H | Matchday 11 | 2018 FIFA World Cup - Russia\nPoland 0-
- 3 Colombia\nHT: 0-1\nGoals:\nCOL 🇨🇴: Y. Mina 40'\, Falcao 70'\, Cuad
- rado 75'
-URL:https://en.wikipedia.org/wiki/2018_FIFA_World_Cup
+DESCRIPTION:2018 FIFA World Cup - Russia\nGroup H | Matchday 11\nPoland 0-3
+  Colombia\nHT: 0-1\nFT: 0-3\nGoals:\nCOL 🇨🇴: Y. Mina 40'\, Falcao 70
+ '\, Cuadrado 75'
+URL:https://www.fifa.com/en/match-centre/match/17/254645/275073/300331508
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2018
@@ -606,10 +607,10 @@ GEO:48.734444;44.548611
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Volgograd Arena, Volgograd
  ";X-APPLE-RADIUS=100;X-TITLE="Volgograd Arena, Volgograd":geo:48.734444,44
  .548611
-DESCRIPTION:Group A | Matchday 12 | 2018 FIFA World Cup - Russia\nSaudi Ara
- bia 2-1 Egypt\nHT: 1-1\nGoals:\nKSA 🇸🇦: Salman Al-Faraj 45' pen\, Sa
- lem Al-Dawsari 90'\nEGY 🇪🇬: M. Salah 22'
-URL:https://en.wikipedia.org/wiki/2018_FIFA_World_Cup
+DESCRIPTION:2018 FIFA World Cup - Russia\nGroup A | Matchday 12\nSaudi Arab
+ ia 2-1 Egypt\nHT: 1-1\nFT: 2-1\nGoals:\nKSA 🇸🇦: Salman Al-Faraj 45+6
+ ' pen\, Salem Al-Dawsari 90+5'\nEGY 🇪🇬: M. Salah 22'
+URL:https://www.fifa.com/en/match-centre/match/17/254645/275073/300331509
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2018
@@ -624,10 +625,10 @@ LOCATION:Samara Arena\, Samara
 GEO:53.277778;50.237222
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Samara Arena, Samara";X-AP
  PLE-RADIUS=100;X-TITLE="Samara Arena, Samara":geo:53.277778,50.237222
-DESCRIPTION:Group A | Matchday 12 | 2018 FIFA World Cup - Russia\nUruguay 3
- -0 Russia\nHT: 2-0\nGoals:\nURU 🇺🇾: L. Suárez 10'\, Cheryshev 23' o
- g\, E. Cavani 90'
-URL:https://en.wikipedia.org/wiki/2018_FIFA_World_Cup
+DESCRIPTION:2018 FIFA World Cup - Russia\nGroup A | Matchday 12\nUruguay 3-
+ 0 Russia\nHT: 2-0\nFT: 3-0\nGoals:\nURU 🇺🇾: L. Suárez 10'\, Cherysh
+ ev 23' og\, E. Cavani 90'
+URL:https://www.fifa.com/en/match-centre/match/17/254645/275073/300331516
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2018
@@ -643,10 +644,10 @@ GEO:54.182778;45.201389
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Mordovia Arena, Saransk";X
  -APPLE-RADIUS=100;X-TITLE="Mordovia Arena, Saransk":geo:54.182778,45.20138
  9
-DESCRIPTION:Group B | Matchday 12 | 2018 FIFA World Cup - Russia\nIran 1-1 
- Portugal\nHT: 0-1\nGoals:\nIRN 🇮🇷: Karim Ansarifard 90' pen\nPOR 
- 🇵🇹: Quaresma 45'
-URL:https://en.wikipedia.org/wiki/2018_FIFA_World_Cup
+DESCRIPTION:2018 FIFA World Cup - Russia\nGroup B | Matchday 12\nIran 1-1 P
+ ortugal\nHT: 0-1\nFT: 1-1\nGoals:\nIRN 🇮🇷: Karim Ansarifard 90+3' pe
+ n\nPOR 🇵🇹: Quaresma 45'
+URL:https://www.fifa.com/en/match-centre/match/17/254645/275073/300331500
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2018
@@ -662,10 +663,10 @@ GEO:54.698056;20.533889
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Kaliningrad Stadium, Kalin
  ingrad";X-APPLE-RADIUS=100;X-TITLE="Kaliningrad Stadium, Kaliningrad":geo:
  54.698056,20.533889
-DESCRIPTION:Group B | Matchday 12 | 2018 FIFA World Cup - Russia\nSpain 2-2
-  Morocco\nHT: 1-1\nGoals:\nESP 🇪🇸: Isco 19'\, Iago Aspas 90'\nMAR 
- 🇲🇦: Boutaib 14'\, En-Nesyri 81'
-URL:https://en.wikipedia.org/wiki/2018_FIFA_World_Cup
+DESCRIPTION:2018 FIFA World Cup - Russia\nGroup B | Matchday 12\nSpain 2-2 
+ Morocco\nHT: 1-1\nFT: 2-2\nGoals:\nESP 🇪🇸: Isco 19'\, Iago Aspas 90+
+ 1'\nMAR 🇲🇦: Boutaib 14'\, En-Nesyri 81'
+URL:https://www.fifa.com/en/match-centre/match/17/254645/275073/300340184
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2018
@@ -680,9 +681,10 @@ LOCATION:Fisht Stadium\, Sochi
 GEO:43.402222;39.956111
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Fisht Stadium, Sochi";X-AP
  PLE-RADIUS=100;X-TITLE="Fisht Stadium, Sochi":geo:43.402222,39.956111
-DESCRIPTION:Group C | Matchday 13 | 2018 FIFA World Cup - Russia\nAustralia
-  0-2 Peru\nHT: 0-1\nGoals:\nPER 🇵🇪: Carrillo 18'\, Guerrero 50'
-URL:https://en.wikipedia.org/wiki/2018_FIFA_World_Cup
+DESCRIPTION:2018 FIFA World Cup - Russia\nGroup C | Matchday 13\nAustralia 
+ 0-2 Peru\nHT: 0-1\nFT: 0-2\nGoals:\nPER 🇵🇪: Carrillo 18'\, Guerrero 
+ 50'
+URL:https://www.fifa.com/en/match-centre/match/17/254645/275073/300331506
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2018
@@ -698,9 +700,9 @@ GEO:55.715833;37.553611
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Luzhniki Stadium, Moscow";
  X-APPLE-RADIUS=100;X-TITLE="Luzhniki Stadium, Moscow":geo:55.715833,37.553
  611
-DESCRIPTION:Group C | Matchday 13 | 2018 FIFA World Cup - Russia\nDenmark 0
- -0 France\nHT: 0-0
-URL:https://en.wikipedia.org/wiki/2018_FIFA_World_Cup
+DESCRIPTION:2018 FIFA World Cup - Russia\nGroup C | Matchday 13\nDenmark 0-
+ 0 France\nHT: 0-0\nFT: 0-0
+URL:https://www.fifa.com/en/match-centre/match/17/254645/275073/300331512
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2018
@@ -716,10 +718,10 @@ GEO:47.209444;39.737778
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Rostov Arena, Rostov-on-Do
  n";X-APPLE-RADIUS=100;X-TITLE="Rostov Arena, Rostov-on-Don":geo:47.209444,
  39.737778
-DESCRIPTION:Group D | Matchday 13 | 2018 FIFA World Cup - Russia\nIceland 1
- -2 Croatia\nHT: 0-0\nGoals:\nISL 🇮🇸: G. Sigurðsson 76' pen\nCRO 
- 🇭🇷: Badelj 53'\, Perišić 90'
-URL:https://en.wikipedia.org/wiki/2018_FIFA_World_Cup
+DESCRIPTION:2018 FIFA World Cup - Russia\nGroup D | Matchday 13\nIceland 1-
+ 2 Croatia\nHT: 0-0\nFT: 1-2\nGoals:\nISL 🇮🇸: G. Sigurðsson 76' pen\
+ nCRO 🇭🇷: Badelj 53'\, Perišić 90'
+URL:https://www.fifa.com/en/match-centre/match/17/254645/275073/300331510
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2018
@@ -735,10 +737,10 @@ GEO:59.973056;30.220556
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Saint Petersburg Stadium, 
  Saint Petersburg";X-APPLE-RADIUS=100;X-TITLE="Saint Petersburg Stadium, Sa
  int Petersburg":geo:59.973056,30.220556
-DESCRIPTION:Group D | Matchday 13 | 2018 FIFA World Cup - Russia\nNigeria 1
- -2 Argentina\nHT: 0-1\nGoals:\nNGA 🇳🇬: Moses 51' pen\nARG 🇦🇷: 
- Messi 14'\, Marcos Rojo 86'
-URL:https://en.wikipedia.org/wiki/2018_FIFA_World_Cup
+DESCRIPTION:2018 FIFA World Cup - Russia\nGroup D | Matchday 13\nNigeria 1-
+ 2 Argentina\nHT: 0-1\nFT: 1-2\nGoals:\nNGA 🇳🇬: Moses 51' pen\nARG 
+ 🇦🇷: Messi 14'\, Marcos Rojo 86'
+URL:https://www.fifa.com/en/match-centre/match/17/254645/275073/300331519
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2018
@@ -754,10 +756,10 @@ GEO:56.832500;60.573611
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Ekaterinburg Arena, Ekater
  inburg";X-APPLE-RADIUS=100;X-TITLE="Ekaterinburg Arena, Ekaterinburg":geo:
  56.832500,60.573611
-DESCRIPTION:Group F | Matchday 14 | 2018 FIFA World Cup - Russia\nMexico 0-
- 3 Sweden\nHT: 0-0\nGoals:\nSWE 🇸🇪: Augustinsson 50'\, Granqvist 62' 
- pen\, Álvarez 74' og
-URL:https://en.wikipedia.org/wiki/2018_FIFA_World_Cup
+DESCRIPTION:2018 FIFA World Cup - Russia\nGroup F | Matchday 14\nMexico 0-3
+  Sweden\nHT: 0-0\nFT: 0-3\nGoals:\nSWE 🇸🇪: Augustinsson 50'\, Granqv
+ ist 62' pen\, Álvarez 74' og
+URL:https://www.fifa.com/en/match-centre/match/17/254645/275073/300331548
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2018
@@ -772,10 +774,10 @@ LOCATION:Kazan Arena\, Kazan
 GEO:55.821111;49.160833
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Kazan Arena, Kazan";X-APPL
  E-RADIUS=100;X-TITLE="Kazan Arena, Kazan":geo:55.821111,49.160833
-DESCRIPTION:Group F | Matchday 14 | 2018 FIFA World Cup - Russia\nSouth Kor
- ea 2-0 Germany\nHT: 0-0\nGoals:\nKOR 🇰🇷: Kim Young-gwon 90'\, Son He
- ung-min 90'
-URL:https://en.wikipedia.org/wiki/2018_FIFA_World_Cup
+DESCRIPTION:2018 FIFA World Cup - Russia\nGroup F | Matchday 14\nSouth Kore
+ a 2-0 Germany\nHT: 0-0\nFT: 2-0\nGoals:\nKOR 🇰🇷: Kim Young-gwon 90+2
+ '\, Son Heung-min 90+6'
+URL:https://www.fifa.com/en/match-centre/match/17/254645/275073/300331532
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2018
@@ -791,9 +793,10 @@ GEO:55.817861;37.440250
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Spartak Stadium, Moscow";X
  -APPLE-RADIUS=100;X-TITLE="Spartak Stadium, Moscow":geo:55.817861,37.44025
  0
-DESCRIPTION:Group E | Matchday 14 | 2018 FIFA World Cup - Russia\nSerbia 0-
- 2 Brazil\nHT: 0-1\nGoals:\nBRA 🇧🇷: Paulinho 36'\, Thiago Silva 68'
-URL:https://en.wikipedia.org/wiki/2018_FIFA_World_Cup
+DESCRIPTION:2018 FIFA World Cup - Russia\nGroup E | Matchday 14\nSerbia 0-2
+  Brazil\nHT: 0-1\nFT: 0-2\nGoals:\nBRA 🇧🇷: Paulinho 36'\, Thiago Sil
+ va 68'
+URL:https://www.fifa.com/en/match-centre/match/17/254645/275073/300331521
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2018
@@ -809,10 +812,10 @@ GEO:56.337500;43.963333
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Nizhny Novgorod Stadium, N
  izhny Novgorod";X-APPLE-RADIUS=100;X-TITLE="Nizhny Novgorod Stadium, Nizhn
  y Novgorod":geo:56.337500,43.963333
-DESCRIPTION:Group E | Matchday 14 | 2018 FIFA World Cup - Russia\nSwitzerla
- nd 2-2 Costa Rica\nHT: 1-0\nGoals:\nSUI 🇨🇭: Džemaili 31'\, Drmić 8
- 8'\nCRC 🇨🇷: Waston 56'\, Sommer 90' og
-URL:https://en.wikipedia.org/wiki/2018_FIFA_World_Cup
+DESCRIPTION:2018 FIFA World Cup - Russia\nGroup E | Matchday 14\nSwitzerlan
+ d 2-2 Costa Rica\nHT: 1-0\nFT: 2-2\nGoals:\nSUI 🇨🇭: Džemaili 31'\, 
+ Drmić 88'\nCRC 🇨🇷: Waston 56'\, Sommer 90+3' og
+URL:https://www.fifa.com/en/match-centre/match/17/254645/275073/300331534
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2018
@@ -828,9 +831,9 @@ GEO:48.734444;44.548611
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Volgograd Arena, Volgograd
  ";X-APPLE-RADIUS=100;X-TITLE="Volgograd Arena, Volgograd":geo:48.734444,44
  .548611
-DESCRIPTION:Group H | Matchday 15 | 2018 FIFA World Cup - Russia\nJapan 0-1
-  Poland\nHT: 0-1\nGoals:\nPOL 🇵🇱: Bednarek 59'
-URL:https://en.wikipedia.org/wiki/2018_FIFA_World_Cup
+DESCRIPTION:2018 FIFA World Cup - Russia\nGroup H | Matchday 15\nJapan 0-1 
+ Poland\nHT: 0-1\nFT: 0-1\nGoals:\nPOL 🇵🇱: Bednarek 59'
+URL:https://www.fifa.com/en/match-centre/match/17/254645/275073/300331507
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2018
@@ -845,9 +848,9 @@ LOCATION:Samara Arena\, Samara
 GEO:53.277778;50.237222
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Samara Arena, Samara";X-AP
  PLE-RADIUS=100;X-TITLE="Samara Arena, Samara":geo:53.277778,50.237222
-DESCRIPTION:Group H | Matchday 15 | 2018 FIFA World Cup - Russia\nSenegal 0
- -1 Colombia\nHT: 0-1\nGoals:\nCOL 🇨🇴: Y. Mina 74'
-URL:https://en.wikipedia.org/wiki/2018_FIFA_World_Cup
+DESCRIPTION:2018 FIFA World Cup - Russia\nGroup H | Matchday 15\nSenegal 0-
+ 1 Colombia\nHT: 0-1\nFT: 0-1\nGoals:\nCOL 🇨🇴: Y. Mina 74'
+URL:https://www.fifa.com/en/match-centre/match/17/254645/275073/300331553
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2018
@@ -863,9 +866,9 @@ GEO:54.698056;20.533889
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Kaliningrad Stadium, Kalin
  ingrad";X-APPLE-RADIUS=100;X-TITLE="Kaliningrad Stadium, Kaliningrad":geo:
  54.698056,20.533889
-DESCRIPTION:Group G | Matchday 15 | 2018 FIFA World Cup - Russia\nEngland 0
- -1 Belgium\nHT: 0-0\nGoals:\nBEL 🇧🇪: Adnan Januzaj 51'
-URL:https://en.wikipedia.org/wiki/2018_FIFA_World_Cup
+DESCRIPTION:2018 FIFA World Cup - Russia\nGroup G | Matchday 15\nEngland 0-
+ 1 Belgium\nHT: 0-0\nFT: 0-1\nGoals:\nBEL 🇧🇪: Adnan Januzaj 51'
+URL:https://www.fifa.com/en/match-centre/match/17/254645/275073/300340182
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2018
@@ -881,10 +884,10 @@ GEO:54.182778;45.201389
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Mordovia Arena, Saransk";X
  -APPLE-RADIUS=100;X-TITLE="Mordovia Arena, Saransk":geo:54.182778,45.20138
  9
-DESCRIPTION:Group G | Matchday 15 | 2018 FIFA World Cup - Russia\nPanama 1-
- 2 Tunisia\nHT: 1-0\nGoals:\nPAN 🇵🇦: Yassine Meriah 33' og\nTUN 🇹
- 🇳: Fakhereedine Ben Youssef 51'\, Wahbi Khazri 66'
-URL:https://en.wikipedia.org/wiki/2018_FIFA_World_Cup
+DESCRIPTION:2018 FIFA World Cup - Russia\nGroup G | Matchday 15\nPanama 1-2
+  Tunisia\nHT: 1-0\nFT: 1-2\nGoals:\nPAN 🇵🇦: Yassine Meriah 33' og\nT
+ UN 🇹🇳: Fakhereedine Ben Youssef 51'\, Wahbi Khazri 66'
+URL:https://www.fifa.com/en/match-centre/match/17/254645/275073/300331520
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2018
@@ -899,11 +902,11 @@ LOCATION:Kazan Arena\, Kazan
 GEO:55.821111;49.160833
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Kazan Arena, Kazan";X-APPL
  E-RADIUS=100;X-TITLE="Kazan Arena, Kazan":geo:55.821111,49.160833
-DESCRIPTION:Round of 16 | 2018 FIFA World Cup - Russia\nFrance 4-3 Argentin
- a\nHT: 1-1\nGoals:\nFRA 🇫🇷: Antoine Griezmann 13' pen\, Benjamin Pav
- ard 57'\, Kylian Mbappé 64'\, Kylian Mbappé 68'\nARG 🇦🇷: Ángel Di
-  María 41'\, Gabriel Mercado 48'\, Sergio Agüero 90'
-URL:https://en.wikipedia.org/wiki/2018_FIFA_World_Cup
+DESCRIPTION:2018 FIFA World Cup - Russia\nRound of 16\nFrance 4-3 Argentina
+ \nHT: 1-1\nFT: 4-3\nGoals:\nFRA 🇫🇷: Antoine Griezmann 13' pen\, Benj
+ amin Pavard 57'\, Kylian Mbappé 64'\, Kylian Mbappé 68'\nARG 🇦🇷: 
+ Ángel Di María 41'\, Gabriel Mercado 48'\, Sergio Agüero 90+3'
+URL:https://www.fifa.com/en/match-centre/match/17/254645/275093/300331537
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2018
@@ -918,10 +921,10 @@ LOCATION:Fisht Stadium\, Sochi
 GEO:43.402222;39.956111
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Fisht Stadium, Sochi";X-AP
  PLE-RADIUS=100;X-TITLE="Fisht Stadium, Sochi":geo:43.402222,39.956111
-DESCRIPTION:Round of 16 | 2018 FIFA World Cup - Russia\nUruguay 2-1 Portuga
- l\nHT: 1-0\nGoals:\nURU 🇺🇾: Edinson Cavani 7'\, Edinson Cavani 62'\n
- POR 🇵🇹: Pepe 55'
-URL:https://en.wikipedia.org/wiki/2018_FIFA_World_Cup
+DESCRIPTION:2018 FIFA World Cup - Russia\nRound of 16\nUruguay 2-1 Portugal
+ \nHT: 1-0\nFT: 2-1\nGoals:\nURU 🇺🇾: Edinson Cavani 7'\, Edinson Cava
+ ni 62'\nPOR 🇵🇹: Pepe 55'
+URL:https://www.fifa.com/en/match-centre/match/17/254645/275093/300331544
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2018
@@ -937,10 +940,10 @@ GEO:55.715833;37.553611
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Luzhniki Stadium, Moscow";
  X-APPLE-RADIUS=100;X-TITLE="Luzhniki Stadium, Moscow":geo:55.715833,37.553
  611
-DESCRIPTION:Round of 16 | 2018 FIFA World Cup - Russia\nSpain 1-1 Russia\nH
- T: 1-1\nFT: 1-1\nAET: 1-1\nPenalties: 3-4\nGoals:\nESP 🇪🇸: Sergei Ig
- nashevich 12' og\nRUS 🇷🇺: Artem Dzyuba 41' pen
-URL:https://en.wikipedia.org/wiki/2018_FIFA_World_Cup
+DESCRIPTION:2018 FIFA World Cup - Russia\nRound of 16\nSpain 1-1 Russia\nHT
+ : 1-1\nFT: 1-1\nAET: 1-1\nPenalties: 3-4\nGoals:\nESP 🇪🇸: Sergei Ign
+ ashevich 12' og\nRUS 🇷🇺: Artem Dzyuba 41' pen
+URL:https://www.fifa.com/en/match-centre/match/17/254645/275093/300331517
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2018
@@ -956,10 +959,10 @@ GEO:56.337500;43.963333
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Nizhny Novgorod Stadium, N
  izhny Novgorod";X-APPLE-RADIUS=100;X-TITLE="Nizhny Novgorod Stadium, Nizhn
  y Novgorod":geo:56.337500,43.963333
-DESCRIPTION:Round of 16 | 2018 FIFA World Cup - Russia\nCroatia 1-1 Denmark
- \nHT: 1-1\nFT: 1-1\nAET: 1-1\nPenalties: 3-2\nGoals:\nCRO 🇭🇷: Mario 
- Mandžukić 4'\nDEN 🇩🇰: Mathias Jørgensen 1'
-URL:https://en.wikipedia.org/wiki/2018_FIFA_World_Cup
+DESCRIPTION:2018 FIFA World Cup - Russia\nRound of 16\nCroatia 1-1 Denmark\
+ nHT: 1-1\nFT: 1-1\nAET: 1-1\nPenalties: 3-2\nGoals:\nCRO 🇭🇷: Mario M
+ andžukić 4'\nDEN 🇩🇰: Mathias Jørgensen 1'
+URL:https://www.fifa.com/en/match-centre/match/17/254645/275093/300331498
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2018
@@ -974,9 +977,9 @@ LOCATION:Samara Arena\, Samara
 GEO:53.277778;50.237222
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Samara Arena, Samara";X-AP
  PLE-RADIUS=100;X-TITLE="Samara Arena, Samara":geo:53.277778,50.237222
-DESCRIPTION:Round of 16 | 2018 FIFA World Cup - Russia\nBrazil 2-0 Mexico\n
- HT: 0-0\nGoals:\nBRA 🇧🇷: Neymar 51'\, Roberto Firmino 88'
-URL:https://en.wikipedia.org/wiki/2018_FIFA_World_Cup
+DESCRIPTION:2018 FIFA World Cup - Russia\nRound of 16\nBrazil 2-0 Mexico\nH
+ T: 0-0\nFT: 2-0\nGoals:\nBRA 🇧🇷: Neymar 51'\, Roberto Firmino 88'
+URL:https://www.fifa.com/en/match-centre/match/17/254645/275093/300331535
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2018
@@ -992,10 +995,11 @@ GEO:47.209444;39.737778
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Rostov Arena, Rostov-on-Do
  n";X-APPLE-RADIUS=100;X-TITLE="Rostov Arena, Rostov-on-Don":geo:47.209444,
  39.737778
-DESCRIPTION:Round of 16 | 2018 FIFA World Cup - Russia\nBelgium 3-2 Japan\n
- HT: 0-0\nGoals:\nBEL 🇧🇪: Jan Vertonghen 69'\, Marouane Fellaini 74'\
- , Nacer Chadli 90'\nJPN 🇯🇵: Genki Haraguchi 48'\, Takashi Inui 52'
-URL:https://en.wikipedia.org/wiki/2018_FIFA_World_Cup
+DESCRIPTION:2018 FIFA World Cup - Russia\nRound of 16\nBelgium 3-2 Japan\nH
+ T: 0-0\nFT: 3-2\nGoals:\nBEL 🇧🇪: Jan Vertonghen 69'\, Marouane Fella
+ ini 74'\, Nacer Chadli 90+4'\nJPN 🇯🇵: Genki Haraguchi 48'\, Takashi 
+ Inui 52'
+URL:https://www.fifa.com/en/match-centre/match/17/254645/275093/300331551
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2018
@@ -1011,9 +1015,9 @@ GEO:59.973056;30.220556
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Saint Petersburg Stadium, 
  Saint Petersburg";X-APPLE-RADIUS=100;X-TITLE="Saint Petersburg Stadium, Sa
  int Petersburg":geo:59.973056,30.220556
-DESCRIPTION:Round of 16 | 2018 FIFA World Cup - Russia\nSweden 1-0 Switzerl
- and\nHT: 0-0\nGoals:\nSWE 🇸🇪: Emil Forsberg 66'
-URL:https://en.wikipedia.org/wiki/2018_FIFA_World_Cup
+DESCRIPTION:2018 FIFA World Cup - Russia\nRound of 16\nSweden 1-0 Switzerla
+ nd\nHT: 0-0\nFT: 1-0\nGoals:\nSWE 🇸🇪: Emil Forsberg 66'
+URL:https://www.fifa.com/en/match-centre/match/17/254645/275093/300331514
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2018
@@ -1030,10 +1034,10 @@ GEO:55.817861;37.440250
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Spartak Stadium, Moscow";X
  -APPLE-RADIUS=100;X-TITLE="Spartak Stadium, Moscow":geo:55.817861,37.44025
  0
-DESCRIPTION:Round of 16 | 2018 FIFA World Cup - Russia\nColombia 1-1 Englan
- d\nHT: 0-0\nFT: 1-1\nAET: 1-1\nPenalties: 3-4\nGoals:\nCOL 🇨🇴: Yerry
-  Mina 90'\nENG 🏴󠁧󠁢󠁥󠁮󠁧󠁿: Harry Kane 57' pen
-URL:https://en.wikipedia.org/wiki/2018_FIFA_World_Cup
+DESCRIPTION:2018 FIFA World Cup - Russia\nRound of 16\nColombia 1-1 England
+ \nHT: 0-0\nFT: 1-1\nAET: 1-1\nPenalties: 3-4\nGoals:\nCOL 🇨🇴: Yerry 
+ Mina 90+3'\nENG 🏴󠁧󠁢󠁥󠁮󠁧󠁿: Harry Kane 57' pen
+URL:https://www.fifa.com/en/match-centre/match/17/254645/275093/300331542
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2018
@@ -1049,10 +1053,10 @@ GEO:56.337500;43.963333
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Nizhny Novgorod Stadium, N
  izhny Novgorod";X-APPLE-RADIUS=100;X-TITLE="Nizhny Novgorod Stadium, Nizhn
  y Novgorod":geo:56.337500,43.963333
-DESCRIPTION:Quarter-finals | 2018 FIFA World Cup - Russia\nUruguay 0-2 Fran
- ce\nHT: 0-1\nGoals:\nFRA 🇫🇷: Raphaël Varane 40'\, Antoine Griezmann
-  61'
-URL:https://en.wikipedia.org/wiki/2018_FIFA_World_Cup
+DESCRIPTION:2018 FIFA World Cup - Russia\nQuarter-finals\nUruguay 0-2 Franc
+ e\nHT: 0-1\nFT: 0-2\nGoals:\nFRA 🇫🇷: Raphaël Varane 40'\, Antoine G
+ riezmann 61'
+URL:https://www.fifa.com/en/match-centre/match/17/254645/275095/300331543
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2018
@@ -1067,10 +1071,10 @@ LOCATION:Kazan Arena\, Kazan
 GEO:55.821111;49.160833
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Kazan Arena, Kazan";X-APPL
  E-RADIUS=100;X-TITLE="Kazan Arena, Kazan":geo:55.821111,49.160833
-DESCRIPTION:Quarter-finals | 2018 FIFA World Cup - Russia\nBrazil 1-2 Belgi
- um\nHT: 0-2\nGoals:\nBRA 🇧🇷: Renato Augusto 76'\nBEL 🇧🇪: Ferna
- ndinho 13' og\, Kevin De Bruyne 31'
-URL:https://en.wikipedia.org/wiki/2018_FIFA_World_Cup
+DESCRIPTION:2018 FIFA World Cup - Russia\nQuarter-finals\nBrazil 1-2 Belgiu
+ m\nHT: 0-2\nFT: 1-2\nGoals:\nBRA 🇧🇷: Renato Augusto 76'\nBEL 🇧
+ 🇪: Fernandinho 13' og\, Kevin De Bruyne 31'
+URL:https://www.fifa.com/en/match-centre/match/17/254645/275095/300331538
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2018
@@ -1085,10 +1089,10 @@ LOCATION:Samara Arena\, Samara
 GEO:53.277778;50.237222
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Samara Arena, Samara";X-AP
  PLE-RADIUS=100;X-TITLE="Samara Arena, Samara":geo:53.277778,50.237222
-DESCRIPTION:Quarter-finals | 2018 FIFA World Cup - Russia\nSweden 0-2 Engla
- nd\nHT: 0-1\nGoals:\nENG 🏴󠁧󠁢󠁥󠁮󠁧󠁿: Harry Maguire 30'\,
-  Dele Alli 58'
-URL:https://en.wikipedia.org/wiki/2018_FIFA_World_Cup
+DESCRIPTION:2018 FIFA World Cup - Russia\nQuarter-finals\nSweden 0-2 Englan
+ d\nHT: 0-1\nFT: 0-2\nGoals:\nENG 🏴󠁧󠁢󠁥󠁮󠁧󠁿: Harry Magui
+ re 30'\, Dele Alli 58'
+URL:https://www.fifa.com/en/match-centre/match/17/254645/275095/300331541
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2018
@@ -1103,11 +1107,11 @@ LOCATION:Fisht Stadium\, Sochi
 GEO:43.402222;39.956111
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Fisht Stadium, Sochi";X-AP
  PLE-RADIUS=100;X-TITLE="Fisht Stadium, Sochi":geo:43.402222,39.956111
-DESCRIPTION:Quarter-finals | 2018 FIFA World Cup - Russia\nRussia 2-2 Croat
- ia\nHT: 1-1\nFT: 1-1\nAET: 2-2\nPenalties: 3-4\nGoals:\nRUS 🇷🇺: Deni
- s Cheryshev 31'\, Mário Figueira Fernandes 115'\nCRO 🇭🇷: Andrej Kra
- marić 39'\, Domagoj Vida 100'
-URL:https://en.wikipedia.org/wiki/2018_FIFA_World_Cup
+DESCRIPTION:2018 FIFA World Cup - Russia\nQuarter-finals\nRussia 2-2 Croati
+ a\nHT: 1-1\nFT: 1-1\nAET: 2-2\nPenalties: 3-4\nGoals:\nRUS 🇷🇺: Denis
+  Cheryshev 31'\, Mário Figueira Fernandes 115'\nCRO 🇭🇷: Andrej Kram
+ arić 39'\, Domagoj Vida 100'
+URL:https://www.fifa.com/en/match-centre/match/17/254645/275095/300331504
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2018
@@ -1123,9 +1127,9 @@ GEO:59.973056;30.220556
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Saint Petersburg Stadium, 
  St. Petersburg";X-APPLE-RADIUS=100;X-TITLE="Saint Petersburg Stadium, St. 
  Petersburg":geo:59.973056,30.220556
-DESCRIPTION:Semi-finals | 2018 FIFA World Cup - Russia\nFrance 1-0 Belgium\
- nHT: 0-0\nGoals:\nFRA 🇫🇷: Samuel Umtiti 51'
-URL:https://en.wikipedia.org/wiki/2018_FIFA_World_Cup
+DESCRIPTION:2018 FIFA World Cup - Russia\nSemi-finals\nFrance 1-0 Belgium\n
+ HT: 0-0\nFT: 1-0\nGoals:\nFRA 🇫🇷: Samuel Umtiti 51'
+URL:https://www.fifa.com/en/match-centre/match/17/254645/275097/300331531
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2018
@@ -1141,11 +1145,10 @@ GEO:55.715833;37.553611
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Luzhniki Stadium, Moscow";
  X-APPLE-RADIUS=100;X-TITLE="Luzhniki Stadium, Moscow":geo:55.715833,37.553
  611
-DESCRIPTION:Semi-finals | 2018 FIFA World Cup - Russia\nCroatia 2-1 England
- \nHT: 0-1\nFT: 1-1\nAET: 2-1\nGoals:\nCRO 🇭🇷: Ivan Perišić 68'\, M
- ario Mandžukić 109'\nENG 🏴󠁧󠁢󠁥󠁮󠁧󠁿: Kieran Trippier 5
- '
-URL:https://en.wikipedia.org/wiki/2018_FIFA_World_Cup
+DESCRIPTION:2018 FIFA World Cup - Russia\nSemi-finals\nCroatia 2-1 England\
+ nHT: 0-1\nFT: 1-1\nAET: 2-1\nGoals:\nCRO 🇭🇷: Ivan Perišić 68'\, Ma
+ rio Mandžukić 109'\nENG 🏴󠁧󠁢󠁥󠁮󠁧󠁿: Kieran Trippier 5'
+URL:https://www.fifa.com/en/match-centre/match/17/254645/275097/300331522
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2018
@@ -1161,10 +1164,10 @@ GEO:59.973056;30.220556
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Saint Petersburg Stadium, 
  St. Petersburg";X-APPLE-RADIUS=100;X-TITLE="Saint Petersburg Stadium, St. 
  Petersburg":geo:59.973056,30.220556
-DESCRIPTION:Match for third place | 2018 FIFA World Cup - Russia\nBelgium 2
- -0 England\nHT: 1-0\nGoals:\nBEL 🇧🇪: Thomas Meunier 4'\, Eden Hazard
-  82'
-URL:https://en.wikipedia.org/wiki/2018_FIFA_World_Cup
+DESCRIPTION:2018 FIFA World Cup - Russia\nMatch for third place\nBelgium 2-
+ 0 England\nHT: 1-0\nFT: 2-0\nGoals:\nBEL 🇧🇪: Thomas Meunier 4'\, Ede
+ n Hazard 82'
+URL:https://www.fifa.com/en/match-centre/match/17/254645/275099/300331536
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2018
@@ -1180,10 +1183,10 @@ GEO:55.715833;37.553611
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Luzhniki Stadium, Moscow";
  X-APPLE-RADIUS=100;X-TITLE="Luzhniki Stadium, Moscow":geo:55.715833,37.553
  611
-DESCRIPTION:Final | 2018 FIFA World Cup - Russia\nFrance 4-2 Croatia\nHT: 2
- -1\nGoals:\nFRA 🇫🇷: Mandžukić 18' og\, Griezmann 38' pen\, Pogba 5
- 9'\, Mbappé 65'\nCRO 🇭🇷: Perišić 28'\, Mandžukić 69'
-URL:https://en.wikipedia.org/wiki/2018_FIFA_World_Cup
+DESCRIPTION:2018 FIFA World Cup - Russia\nFinal\nFrance 4-2 Croatia\nHT: 2-
+ 1\nFT: 4-2\nGoals:\nFRA 🇫🇷: Mandžukić 18' og\, Griezmann 38' pen\,
+  Pogba 59'\, Mbappé 65'\nCRO 🇭🇷: Perišić 28'\, Mandžukić 69'
+URL:https://www.fifa.com/en/match-centre/match/17/254645/275101/300331552
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2018

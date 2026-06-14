@@ -30,7 +30,11 @@
         }
       ],
       "group": "Group A",
-      "ground": "Al Bayt Stadium, Al Khor"
+      "ground": "Al Bayt Stadium, Al Khor",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 2",
@@ -61,7 +65,11 @@
         }
       ],
       "group": "Group A",
-      "ground": "Al Thumama Stadium, Doha"
+      "ground": "Al Thumama Stadium, Doha",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 6",
@@ -100,7 +108,11 @@
         }
       ],
       "group": "Group A",
-      "ground": "Al Thumama Stadium, Doha"
+      "ground": "Al Thumama Stadium, Doha",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 6",
@@ -131,7 +143,11 @@
         }
       ],
       "group": "Group A",
-      "ground": "Khalifa International Stadium, Al Rayyan"
+      "ground": "Khalifa International Stadium, Al Rayyan",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 10",
@@ -167,7 +183,11 @@
         }
       ],
       "group": "Group A",
-      "ground": "Khalifa International Stadium, Al Rayyan"
+      "ground": "Khalifa International Stadium, Al Rayyan",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 10",
@@ -197,7 +217,11 @@
       ],
       "goals2": [],
       "group": "Group A",
-      "ground": "Al Bayt Stadium, Al Khor"
+      "ground": "Al Bayt Stadium, Al Khor",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 2",
@@ -255,7 +279,11 @@
         }
       ],
       "group": "Group B",
-      "ground": "Khalifa International Stadium, Al Rayyan"
+      "ground": "Khalifa International Stadium, Al Rayyan",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 2",
@@ -287,7 +315,11 @@
         }
       ],
       "group": "Group B",
-      "ground": "Ahmad bin Ali Stadium, Al Rayyan"
+      "ground": "Ahmad bin Ali Stadium, Al Rayyan",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 6",
@@ -319,7 +351,11 @@
         }
       ],
       "group": "Group B",
-      "ground": "Ahmad bin Ali Stadium, Al Rayyan"
+      "ground": "Ahmad bin Ali Stadium, Al Rayyan",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 6",
@@ -331,10 +367,18 @@
         "ft": [
           0,
           0
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group B",
-      "ground": "Al Bayt Stadium, Al Khor"
+      "ground": "Al Bayt Stadium, Al Khor",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 10",
@@ -368,7 +412,11 @@
         }
       ],
       "group": "Group B",
-      "ground": "Ahmad bin Ali Stadium, Al Rayyan"
+      "ground": "Ahmad bin Ali Stadium, Al Rayyan",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 10",
@@ -394,7 +442,11 @@
         }
       ],
       "group": "Group B",
-      "ground": "Al Thumama Stadium, Doha"
+      "ground": "Al Thumama Stadium, Doha",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 3",
@@ -430,7 +482,11 @@
         }
       ],
       "group": "Group C",
-      "ground": "Lusail Iconic Stadium, Lusail"
+      "ground": "Lusail Iconic Stadium, Lusail",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 3",
@@ -442,10 +498,18 @@
         "ft": [
           0,
           0
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group C",
-      "ground": "Stadium 974, Doha"
+      "ground": "Stadium 974, Doha",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 7",
@@ -475,7 +539,11 @@
       ],
       "goals2": [],
       "group": "Group C",
-      "ground": "Education City Stadium, Al Rayyan"
+      "ground": "Education City Stadium, Al Rayyan",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 7",
@@ -505,7 +573,11 @@
       ],
       "goals2": [],
       "group": "Group C",
-      "ground": "Lusail Iconic Stadium, Lusail"
+      "ground": "Lusail Iconic Stadium, Lusail",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 11",
@@ -535,7 +607,11 @@
         }
       ],
       "group": "Group C",
-      "ground": "Stadium 974, Doha"
+      "ground": "Stadium 974, Doha",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 11",
@@ -571,7 +647,11 @@
         }
       ],
       "group": "Group C",
-      "ground": "Lusail Iconic Stadium, Lusail"
+      "ground": "Lusail Iconic Stadium, Lusail",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 3",
@@ -583,10 +663,18 @@
         "ft": [
           0,
           0
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group D",
-      "ground": "Education City Stadium, Al Rayyan"
+      "ground": "Education City Stadium, Al Rayyan",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 3",
@@ -629,7 +717,11 @@
         }
       ],
       "group": "Group D",
-      "ground": "Al Janoub Stadium, Al Wakrah"
+      "ground": "Al Janoub Stadium, Al Wakrah",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 7",
@@ -655,7 +747,11 @@
         }
       ],
       "group": "Group D",
-      "ground": "Al Janoub Stadium, Al Wakrah"
+      "ground": "Al Janoub Stadium, Al Wakrah",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 7",
@@ -690,7 +786,11 @@
         }
       ],
       "group": "Group D",
-      "ground": "Stadium 974, Doha"
+      "ground": "Stadium 974, Doha",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 11",
@@ -716,7 +816,11 @@
       ],
       "goals2": [],
       "group": "Group D",
-      "ground": "Al Janoub Stadium, Al Wakrah"
+      "ground": "Al Janoub Stadium, Al Wakrah",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 11",
@@ -742,7 +846,11 @@
       ],
       "goals2": [],
       "group": "Group D",
-      "ground": "Education City Stadium, Al Rayyan"
+      "ground": "Education City Stadium, Al Rayyan",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 4",
@@ -778,7 +886,11 @@
         }
       ],
       "group": "Group E",
-      "ground": "Khalifa International Stadium, Al Rayyan"
+      "ground": "Khalifa International Stadium, Al Rayyan",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 4",
@@ -830,7 +942,11 @@
       ],
       "goals2": [],
       "group": "Group E",
-      "ground": "Al Thumama Stadium, Doha"
+      "ground": "Al Thumama Stadium, Doha",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 8",
@@ -856,7 +972,11 @@
         }
       ],
       "group": "Group E",
-      "ground": "Ahmad bin Ali Stadium, Al Rayyan"
+      "ground": "Ahmad bin Ali Stadium, Al Rayyan",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 8",
@@ -887,7 +1007,11 @@
         }
       ],
       "group": "Group E",
-      "ground": "Al Bayt Stadium, Al Khor"
+      "ground": "Al Bayt Stadium, Al Khor",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 12",
@@ -922,7 +1046,11 @@
         }
       ],
       "group": "Group E",
-      "ground": "Khalifa International Stadium, Al Rayyan"
+      "ground": "Khalifa International Stadium, Al Rayyan",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 12",
@@ -969,7 +1097,11 @@
         }
       ],
       "group": "Group E",
-      "ground": "Al Bayt Stadium, Al Khor"
+      "ground": "Al Bayt Stadium, Al Khor",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 4",
@@ -981,10 +1113,18 @@
         "ft": [
           0,
           0
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group F",
-      "ground": "Al Bayt Stadium, Al Khor"
+      "ground": "Al Bayt Stadium, Al Khor",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 4",
@@ -1010,7 +1150,11 @@
       ],
       "goals2": [],
       "group": "Group F",
-      "ground": "Ahmad bin Ali Stadium, Al Rayyan"
+      "ground": "Ahmad bin Ali Stadium, Al Rayyan",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 8",
@@ -1041,7 +1185,11 @@
         }
       ],
       "group": "Group F",
-      "ground": "Al Thumama Stadium, Doha"
+      "ground": "Al Thumama Stadium, Doha",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 8",
@@ -1085,7 +1233,11 @@
         }
       ],
       "group": "Group F",
-      "ground": "Khalifa International Stadium, Al Rayyan"
+      "ground": "Khalifa International Stadium, Al Rayyan",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 12",
@@ -1097,10 +1249,18 @@
         "ft": [
           0,
           0
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group F",
-      "ground": "Ahmad bin Ali Stadium, Al Rayyan"
+      "ground": "Ahmad bin Ali Stadium, Al Rayyan",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 12",
@@ -1136,7 +1296,11 @@
         }
       ],
       "group": "Group F",
-      "ground": "Al Thumama Stadium, Doha"
+      "ground": "Al Thumama Stadium, Doha",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 5",
@@ -1162,7 +1326,11 @@
       ],
       "goals2": [],
       "group": "Group G",
-      "ground": "Al Janoub Stadium, Al Wakrah"
+      "ground": "Al Janoub Stadium, Al Wakrah",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 5",
@@ -1192,7 +1360,11 @@
       ],
       "goals2": [],
       "group": "Group G",
-      "ground": "Lusail Iconic Stadium, Lusail"
+      "ground": "Lusail Iconic Stadium, Lusail",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 9",
@@ -1241,7 +1413,11 @@
         }
       ],
       "group": "Group G",
-      "ground": "Al Janoub Stadium, Al Wakrah"
+      "ground": "Al Janoub Stadium, Al Wakrah",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 9",
@@ -1267,7 +1443,11 @@
       ],
       "goals2": [],
       "group": "Group G",
-      "ground": "Stadium 974, Doha"
+      "ground": "Stadium 974, Doha",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 13",
@@ -1310,7 +1490,11 @@
         }
       ],
       "group": "Group G",
-      "ground": "Stadium 974, Doha"
+      "ground": "Stadium 974, Doha",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 13",
@@ -1337,7 +1521,11 @@
       ],
       "goals2": [],
       "group": "Group G",
-      "ground": "Lusail Iconic Stadium, Lusail"
+      "ground": "Lusail Iconic Stadium, Lusail",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 5",
@@ -1349,10 +1537,18 @@
         "ft": [
           0,
           0
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group H",
-      "ground": "Education City Stadium, Al Rayyan"
+      "ground": "Education City Stadium, Al Rayyan",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 5",
@@ -1396,7 +1592,11 @@
         }
       ],
       "group": "Group H",
-      "ground": "Stadium 974, Doha"
+      "ground": "Stadium 974, Doha",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 9",
@@ -1439,7 +1639,11 @@
         }
       ],
       "group": "Group H",
-      "ground": "Education City Stadium, Al Rayyan"
+      "ground": "Education City Stadium, Al Rayyan",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 9",
@@ -1471,7 +1675,11 @@
       ],
       "goals2": [],
       "group": "Group H",
-      "ground": "Lusail Iconic Stadium, Lusail"
+      "ground": "Lusail Iconic Stadium, Lusail",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 13",
@@ -1481,6 +1689,10 @@
       "team2": "Uruguay",
       "score": {
         "ft": [
+          0,
+          2
+        ],
+        "ht": [
           0,
           2
         ]
@@ -1497,7 +1709,11 @@
         }
       ],
       "group": "Group H",
-      "ground": "Al Janoub Stadium, Al Wakrah"
+      "ground": "Al Janoub Stadium, Al Wakrah",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 13",
@@ -1533,7 +1749,11 @@
         }
       ],
       "group": "Group H",
-      "ground": "Lusail Iconic Stadium, Lusail"
+      "ground": "Lusail Iconic Stadium, Lusail",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Round of 16",
@@ -1572,7 +1792,11 @@
           "minute": 76
         }
       ],
-      "ground": "Khalifa International Stadium, Al Rayyan"
+      "ground": "Khalifa International Stadium, Al Rayyan",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Round of 16",
@@ -1607,7 +1831,11 @@
           "owngoal": true
         }
       ],
-      "ground": "Ahmad bin Ali Stadium, Al Rayyan"
+      "ground": "Ahmad bin Ali Stadium, Al Rayyan",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Round of 16",
@@ -1648,7 +1876,11 @@
           "penalty": true
         }
       ],
-      "ground": "Al Thumama Stadium, Doha"
+      "ground": "Al Thumama Stadium, Doha",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Round of 16",
@@ -1682,7 +1914,11 @@
         }
       ],
       "goals2": [],
-      "ground": "Al Bayt Stadium, Al Khor"
+      "ground": "Al Bayt Stadium, Al Khor",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Round of 16",
@@ -1720,7 +1956,11 @@
           "minute": 55
         }
       ],
-      "ground": "Al Janoub Stadium, Al Wakrah"
+      "ground": "Al Janoub Stadium, Al Wakrah",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Round of 16",
@@ -1763,7 +2003,11 @@
           "minute": 76
         }
       ],
-      "ground": "Stadium 974, Doha"
+      "ground": "Stadium 974, Doha",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Round of 16",
@@ -1789,7 +2033,11 @@
           0
         ]
       },
-      "ground": "Education City Stadium, Al Rayyan"
+      "ground": "Education City Stadium, Al Rayyan",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Round of 16",
@@ -1840,7 +2088,11 @@
           "minute": 58
         }
       ],
-      "ground": "Lusail Iconic Stadium, Lusail"
+      "ground": "Lusail Iconic Stadium, Lusail",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Quarter-finals",
@@ -1879,7 +2131,11 @@
           "offset": 1
         }
       ],
-      "ground": "Education City Stadium, Al Rayyan"
+      "ground": "Education City Stadium, Al Rayyan",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Quarter-finals",
@@ -1927,7 +2183,11 @@
           "penalty": true
         }
       ],
-      "ground": "Lusail Iconic Stadium, Lusail"
+      "ground": "Lusail Iconic Stadium, Lusail",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Quarter-finals",
@@ -1952,7 +2212,11 @@
         }
       ],
       "goals2": [],
-      "ground": "Al Thumama Stadium, Doha"
+      "ground": "Al Thumama Stadium, Doha",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Quarter-finals",
@@ -1987,7 +2251,11 @@
           "minute": 78
         }
       ],
-      "ground": "Al Bayt Stadium, Al Khor"
+      "ground": "Al Bayt Stadium, Al Khor",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Semi-finals",
@@ -2021,7 +2289,11 @@
         }
       ],
       "goals2": [],
-      "ground": "Lusail Iconic Stadium, Lusail"
+      "ground": "Lusail Iconic Stadium, Lusail",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Semi-finals",
@@ -2050,7 +2322,11 @@
         }
       ],
       "goals2": [],
-      "ground": "Al Bayt Stadium, Al Khor"
+      "ground": "Al Bayt Stadium, Al Khor",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Match for third place",
@@ -2084,7 +2360,11 @@
           "minute": 9
         }
       ],
-      "ground": "Khalifa International Stadium, Al Rayyan"
+      "ground": "Khalifa International Stadium, Al Rayyan",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Final",
@@ -2141,7 +2421,11 @@
           "penalty": true
         }
       ],
-      "ground": "Lusail Iconic Stadium, Lusail"
+      "ground": "Lusail Iconic Stadium, Lusail",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     }
   ]
 }

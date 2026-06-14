@@ -10,10 +10,41 @@
         "ft": [
           5,
           0
+        ],
+        "ht": [
+          4,
+          0
         ]
       },
       "group": "Group 1",
-      "ground": "Charmilles Stadium, Geneva"
+      "ground": "Charmilles Stadium, Geneva",
+      "goals1": [
+        {
+          "name": "Baltazar",
+          "minute": 24
+        },
+        {
+          "name": "Didi",
+          "minute": 29
+        },
+        {
+          "name": "Pinga",
+          "minute": 34
+        },
+        {
+          "name": "Pinga",
+          "minute": 42
+        },
+        {
+          "name": "Julinho",
+          "minute": 90
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 1",
@@ -24,10 +55,25 @@
         "ft": [
           1,
           0
+        ],
+        "ht": [
+          1,
+          0
         ]
       },
       "group": "Group 1",
-      "ground": "Stade Olympique de la Pontaise, Lausanne"
+      "ground": "Stade Olympique de la Pontaise, Lausanne",
+      "goals1": [
+        {
+          "name": "Milutinović",
+          "minute": 14
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 2",
@@ -42,10 +88,30 @@
         "ft": [
           1,
           1
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group 1",
-      "ground": "Stade Olympique de la Pontaise, Lausanne"
+      "ground": "Stade Olympique de la Pontaise, Lausanne",
+      "goals1": [
+        {
+          "name": "Didi",
+          "minute": 69
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Zebec",
+          "minute": 49
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 2",
@@ -56,10 +122,44 @@
         "ft": [
           3,
           2
+        ],
+        "ht": [
+          1,
+          0
         ]
       },
       "group": "Group 1",
-      "ground": "Charmilles Stadium, Geneva"
+      "ground": "Charmilles Stadium, Geneva",
+      "goals1": [
+        {
+          "name": "Vincent",
+          "minute": 19
+        },
+        {
+          "name": "Cárdenas",
+          "minute": 46,
+          "owngoal": true
+        },
+        {
+          "name": "Kopa",
+          "minute": 88,
+          "penalty": true
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Lamadrid",
+          "minute": 54
+        },
+        {
+          "name": "Balcázar",
+          "minute": 85
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 1",
@@ -73,7 +173,15 @@
         ]
       },
       "group": "Group 2",
-      "ground": "Wankdorf Stadium, Bern"
+      "ground": "Wankdorf Stadium, Bern",
+      "result_enrichment": {
+        "source": "none",
+        "score_reconciled": false,
+        "missing_fields": [
+          "goalscorers",
+          "half_time_score"
+        ]
+      }
     },
     {
       "round": "Matchday 1",
@@ -84,10 +192,57 @@
         "ft": [
           9,
           0
+        ],
+        "ht": [
+          4,
+          0
         ]
       },
       "group": "Group 2",
-      "ground": "Hardturm Stadium, Zürich"
+      "ground": "Hardturm Stadium, Zürich",
+      "goals1": [
+        {
+          "name": "Puskás",
+          "minute": 11
+        },
+        {
+          "name": "Lantos",
+          "minute": 16
+        },
+        {
+          "name": "Kocsis",
+          "minute": 24
+        },
+        {
+          "name": "Kocsis",
+          "minute": 31
+        },
+        {
+          "name": "Kocsis",
+          "minute": 49
+        },
+        {
+          "name": "Czibor",
+          "minute": 59
+        },
+        {
+          "name": "Palotás",
+          "minute": 76
+        },
+        {
+          "name": "Palotás",
+          "minute": 83
+        },
+        {
+          "name": "Puskás",
+          "minute": 89
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 2",
@@ -98,10 +253,66 @@
         "ft": [
           8,
           3
+        ],
+        "ht": [
+          3,
+          1
         ]
       },
       "group": "Group 2",
-      "ground": "St. Jakob Stadium, Basel"
+      "ground": "St. Jakob Stadium, Basel",
+      "goals1": [
+        {
+          "name": "Kocsis",
+          "minute": 4
+        },
+        {
+          "name": "Puskás",
+          "minute": 17
+        },
+        {
+          "name": "Kocsis",
+          "minute": 21
+        },
+        {
+          "name": "Hidegkuti",
+          "minute": 52
+        },
+        {
+          "name": "Hidegkuti",
+          "minute": 56
+        },
+        {
+          "name": "Kocsis",
+          "minute": 69
+        },
+        {
+          "name": "J.Tóth",
+          "minute": 75
+        },
+        {
+          "name": "Kocsis",
+          "minute": 79
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Pfaff",
+          "minute": 28
+        },
+        {
+          "name": "Rahn",
+          "minute": 76
+        },
+        {
+          "name": "Hermann",
+          "minute": 84
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 2",
@@ -112,10 +323,49 @@
         "ft": [
           7,
           0
+        ],
+        "ht": [
+          4,
+          0
         ]
       },
       "group": "Group 2",
-      "ground": "Charmilles Stadium, Geneva"
+      "ground": "Charmilles Stadium, Geneva",
+      "goals1": [
+        {
+          "name": "Suat",
+          "minute": 18
+        },
+        {
+          "name": "Lefter",
+          "minute": 18
+        },
+        {
+          "name": "Suat",
+          "minute": 30
+        },
+        {
+          "name": "Burhan",
+          "minute": 38
+        },
+        {
+          "name": "Burhan",
+          "minute": 64
+        },
+        {
+          "name": "Burhan",
+          "minute": 70
+        },
+        {
+          "name": "Erol",
+          "minute": 76
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Group 2 Play-off",
@@ -126,9 +376,57 @@
         "ft": [
           7,
           2
+        ],
+        "ht": [
+          3,
+          1
         ]
       },
-      "ground": "Hardturm Stadium, Zürich"
+      "ground": "Hardturm Stadium, Zürich",
+      "goals1": [
+        {
+          "name": "O.Walter",
+          "minute": 7
+        },
+        {
+          "name": "Schäfer",
+          "minute": 11
+        },
+        {
+          "name": "Morlock",
+          "minute": 31
+        },
+        {
+          "name": "Morlock",
+          "minute": 62
+        },
+        {
+          "name": "F.Walter",
+          "minute": 63
+        },
+        {
+          "name": "Morlock",
+          "minute": 71
+        },
+        {
+          "name": "Schäfer",
+          "minute": 79
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Mustafa",
+          "minute": 22
+        },
+        {
+          "name": "Lefter",
+          "minute": 84
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 1",
@@ -139,10 +437,29 @@
         "ft": [
           2,
           0
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group 3",
-      "ground": "Wankdorf Stadium, Bern"
+      "ground": "Wankdorf Stadium, Bern",
+      "goals1": [
+        {
+          "name": "Miguez",
+          "minute": 70
+        },
+        {
+          "name": "Schiaffino",
+          "minute": 84
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 1",
@@ -153,10 +470,25 @@
         "ft": [
           1,
           0
+        ],
+        "ht": [
+          1,
+          0
         ]
       },
       "group": "Group 3",
-      "ground": "Hardturm Stadium, Zürich"
+      "ground": "Hardturm Stadium, Zürich",
+      "goals1": [
+        {
+          "name": "Probst",
+          "minute": 32
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 2",
@@ -167,10 +499,41 @@
         "ft": [
           5,
           0
+        ],
+        "ht": [
+          4,
+          0
         ]
       },
       "group": "Group 3",
-      "ground": "Hardturm Stadium, Zürich"
+      "ground": "Hardturm Stadium, Zürich",
+      "goals1": [
+        {
+          "name": "Stojaspal",
+          "minute": 3
+        },
+        {
+          "name": "Probst",
+          "minute": 4
+        },
+        {
+          "name": "Probst",
+          "minute": 21
+        },
+        {
+          "name": "Probst",
+          "minute": 24
+        },
+        {
+          "name": "Stojaspal",
+          "minute": 65
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 2",
@@ -181,10 +544,49 @@
         "ft": [
           7,
           0
+        ],
+        "ht": [
+          2,
+          0
         ]
       },
       "group": "Group 3",
-      "ground": "St. Jakob Stadium, Basel"
+      "ground": "St. Jakob Stadium, Basel",
+      "goals1": [
+        {
+          "name": "Borges",
+          "minute": 17
+        },
+        {
+          "name": "Miguez",
+          "minute": 31
+        },
+        {
+          "name": "Borges",
+          "minute": 48
+        },
+        {
+          "name": "Abbadie",
+          "minute": 55
+        },
+        {
+          "name": "Borges",
+          "minute": 58
+        },
+        {
+          "name": "Miguez",
+          "minute": 82
+        },
+        {
+          "name": "Abbadie",
+          "minute": 84
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 1",
@@ -199,10 +601,55 @@
         "ft": [
           3,
           3
+        ],
+        "ht": [
+          2,
+          1
         ]
       },
       "group": "Group 4",
-      "ground": "St. Jakob Stadium, Basel"
+      "ground": "St. Jakob Stadium, Basel",
+      "goals1": [
+        {
+          "name": "Broadis",
+          "minute": 25
+        },
+        {
+          "name": "Lofthouse",
+          "minute": 37
+        },
+        {
+          "name": "Broadis",
+          "minute": 62
+        },
+        {
+          "name": "Lofthouse",
+          "minute": 92
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Anoul",
+          "minute": 6
+        },
+        {
+          "name": "Anoul",
+          "minute": 72
+        },
+        {
+          "name": "Coppens",
+          "minute": 76
+        },
+        {
+          "name": "Dickinson",
+          "minute": 93,
+          "owngoal": true
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 1",
@@ -213,10 +660,34 @@
         "ft": [
           2,
           1
+        ],
+        "ht": [
+          1,
+          1
         ]
       },
       "group": "Group 4",
-      "ground": "Stade Olympique de la Pontaise, Lausanne"
+      "ground": "Stade Olympique de la Pontaise, Lausanne",
+      "goals1": [
+        {
+          "name": "Ballaman",
+          "minute": 18
+        },
+        {
+          "name": "Hügi",
+          "minute": 79
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Boniperti",
+          "minute": 44
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 2",
@@ -227,10 +698,29 @@
         "ft": [
           2,
           0
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group 4",
-      "ground": "Wankdorf Stadium, Bern"
+      "ground": "Wankdorf Stadium, Bern",
+      "goals1": [
+        {
+          "name": "Mullen",
+          "minute": 43
+        },
+        {
+          "name": "Wilshaw",
+          "minute": 69
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 2",
@@ -241,10 +731,43 @@
         "ft": [
           4,
           1
+        ],
+        "ht": [
+          1,
+          0
         ]
       },
       "group": "Group 4",
-      "ground": "Cornaredo Stadium, Lugano"
+      "ground": "Cornaredo Stadium, Lugano",
+      "goals1": [
+        {
+          "name": "Pandolfini",
+          "minute": 41,
+          "penalty": true
+        },
+        {
+          "name": "Galli",
+          "minute": 49
+        },
+        {
+          "name": "Frignani",
+          "minute": 58
+        },
+        {
+          "name": "Lorenzi",
+          "minute": 73
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Anoul",
+          "minute": 81
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Group 4 Play-off",
@@ -255,9 +778,41 @@
         "ft": [
           4,
           1
+        ],
+        "ht": [
+          1,
+          0
         ]
       },
-      "ground": "St. Jakob Stadium, Basel"
+      "ground": "St. Jakob Stadium, Basel",
+      "goals1": [
+        {
+          "name": "Hügl",
+          "minute": 12
+        },
+        {
+          "name": "Ballmann",
+          "minute": 48
+        },
+        {
+          "name": "Hügl",
+          "minute": 85
+        },
+        {
+          "name": "Fatton",
+          "minute": 90
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Nesti",
+          "minute": 67
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Quarter-finals",
@@ -268,9 +823,69 @@
         "ft": [
           7,
           5
+        ],
+        "ht": [
+          5,
+          4
         ]
       },
-      "ground": "Stade Olympique de la Pontaise, Lausanne"
+      "ground": "Stade Olympique de la Pontaise, Lausanne",
+      "goals1": [
+        {
+          "name": "Wagner",
+          "minute": 25
+        },
+        {
+          "name": "A.Körner",
+          "minute": 26
+        },
+        {
+          "name": "Wagner",
+          "minute": 28
+        },
+        {
+          "name": "Ocwirk",
+          "minute": 32
+        },
+        {
+          "name": "A.Körner",
+          "minute": 34
+        },
+        {
+          "name": "Wagner",
+          "minute": 52
+        },
+        {
+          "name": "Probst",
+          "minute": 77
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Ballaman",
+          "minute": 16
+        },
+        {
+          "name": "Hügi",
+          "minute": 17
+        },
+        {
+          "name": "Hügi",
+          "minute": 23
+        },
+        {
+          "name": "Ballaman",
+          "minute": 41
+        },
+        {
+          "name": "Hügi",
+          "minute": 60
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Quarter-finals",
@@ -281,9 +896,45 @@
         "ft": [
           4,
           2
+        ],
+        "ht": [
+          2,
+          1
         ]
       },
-      "ground": "St. Jakob Stadium, Basel"
+      "ground": "St. Jakob Stadium, Basel",
+      "goals1": [
+        {
+          "name": "Borges",
+          "minute": 5
+        },
+        {
+          "name": "Varela",
+          "minute": 44
+        },
+        {
+          "name": "Schiaffino",
+          "minute": 47
+        },
+        {
+          "name": "Ambrois",
+          "minute": 78
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Lofthouse",
+          "minute": 16
+        },
+        {
+          "name": "Finney",
+          "minute": 67
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Quarter-finals",
@@ -294,9 +945,29 @@
         "ft": [
           0,
           2
+        ],
+        "ht": [
+          0,
+          1
         ]
       },
-      "ground": "Charmilles Stadium, Geneva"
+      "ground": "Charmilles Stadium, Geneva",
+      "goals1": [],
+      "goals2": [
+        {
+          "name": "Horvat",
+          "minute": 10,
+          "owngoal": true
+        },
+        {
+          "name": "Rahn",
+          "minute": 86
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Quarter-finals",
@@ -307,9 +978,47 @@
         "ft": [
           2,
           4
+        ],
+        "ht": [
+          1,
+          2
         ]
       },
-      "ground": "Wankdorf Stadium, Bern"
+      "ground": "Wankdorf Stadium, Bern",
+      "goals1": [
+        {
+          "name": "D.Santos",
+          "minute": 18,
+          "penalty": true
+        },
+        {
+          "name": "Julinho",
+          "minute": 65
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Hidegkuti",
+          "minute": 4
+        },
+        {
+          "name": "Kocsis",
+          "minute": 7
+        },
+        {
+          "name": "Lántós",
+          "minute": 53,
+          "penalty": true
+        },
+        {
+          "name": "Kocsis",
+          "minute": 88
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Semi-finals",
@@ -320,9 +1029,51 @@
         "ft": [
           6,
           1
+        ],
+        "ht": [
+          1,
+          0
         ]
       },
-      "ground": "St. Jakob Stadium, Basel"
+      "ground": "St. Jakob Stadium, Basel",
+      "goals1": [
+        {
+          "name": "Schäfer",
+          "minute": 31
+        },
+        {
+          "name": "Morlock",
+          "minute": 47
+        },
+        {
+          "name": "F.Walter",
+          "minute": 56,
+          "penalty": true
+        },
+        {
+          "name": "O.Walter",
+          "minute": 61
+        },
+        {
+          "name": "F.Walter",
+          "minute": 65,
+          "penalty": true
+        },
+        {
+          "name": "O.Walter",
+          "minute": 89
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Probst",
+          "minute": 52
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Semi-finals",
@@ -337,9 +1088,45 @@
         "ft": [
           2,
           2
+        ],
+        "ht": [
+          1,
+          0
         ]
       },
-      "ground": "Stade Olympique de la Pontaise, Lausanne"
+      "ground": "Stade Olympique de la Pontaise, Lausanne",
+      "goals1": [
+        {
+          "name": "Czibor",
+          "minute": 12
+        },
+        {
+          "name": "Hidegkuti",
+          "minute": 47
+        },
+        {
+          "name": "Kocsis",
+          "minute": 109
+        },
+        {
+          "name": "Kocsis",
+          "minute": 117
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Hohberg",
+          "minute": 76
+        },
+        {
+          "name": "Hohberg",
+          "minute": 87
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Third-place match",
@@ -350,9 +1137,39 @@
         "ft": [
           1,
           3
+        ],
+        "ht": [
+          1,
+          1
         ]
       },
-      "ground": "Hardturm Stadium, Zürich"
+      "ground": "Hardturm Stadium, Zürich",
+      "goals1": [
+        {
+          "name": "Hohberg",
+          "minute": 21
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Stojaspal",
+          "minute": 16,
+          "penalty": true
+        },
+        {
+          "name": "Cruz",
+          "minute": 59,
+          "owngoal": true
+        },
+        {
+          "name": "Ocwirk",
+          "minute": 79
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Final",
@@ -363,9 +1180,41 @@
         "ft": [
           2,
           3
+        ],
+        "ht": [
+          2,
+          2
         ]
       },
-      "ground": "Wankdorf Stadium, Bern"
+      "ground": "Wankdorf Stadium, Bern",
+      "goals1": [
+        {
+          "name": "Puskás",
+          "minute": 6
+        },
+        {
+          "name": "Czibor",
+          "minute": 9
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Morlock",
+          "minute": 11
+        },
+        {
+          "name": "Rahn",
+          "minute": 18
+        },
+        {
+          "name": "Rahn",
+          "minute": 84
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     }
   ]
 }

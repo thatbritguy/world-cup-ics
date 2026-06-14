@@ -41,7 +41,11 @@
         }
       ],
       "group": "Group A",
-      "ground": "Arena de São Paulo, São Paulo"
+      "ground": "Arena de São Paulo, São Paulo",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 2",
@@ -67,7 +71,11 @@
       ],
       "goals2": [],
       "group": "Group A",
-      "ground": "Estádio das Dunas, Natal"
+      "ground": "Estádio das Dunas, Natal",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 6",
@@ -79,10 +87,20 @@
         "ft": [
           0,
           0
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group A",
-      "ground": "Estádio Castelão, Fortaleza"
+      "ground": "Estádio Castelão, Fortaleza",
+      "goals1": [],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 7",
@@ -94,6 +112,10 @@
         "ft": [
           0,
           4
+        ],
+        "ht": [
+          0,
+          1
         ]
       },
       "goals1": [],
@@ -116,7 +138,11 @@
         }
       ],
       "group": "Group A",
-      "ground": "Arena Amazônia, Manaus"
+      "ground": "Arena Amazônia, Manaus",
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 12",
@@ -128,6 +154,10 @@
         "ft": [
           1,
           4
+        ],
+        "ht": [
+          1,
+          2
         ]
       },
       "goals1": [
@@ -155,7 +185,11 @@
         }
       ],
       "group": "Group A",
-      "ground": "Estádio Nacional Mané Garrincha, Brasília"
+      "ground": "Estádio Nacional Mané Garrincha, Brasília",
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 12",
@@ -167,6 +201,10 @@
         "ft": [
           1,
           3
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "goals1": [
@@ -190,7 +228,11 @@
         }
       ],
       "group": "Group A",
-      "ground": "Arena Pernambuco, Recife"
+      "ground": "Arena Pernambuco, Recife",
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 2",
@@ -238,7 +280,11 @@
         }
       ],
       "group": "Group B",
-      "ground": "Arena Fonte Nova, Salvador"
+      "ground": "Arena Fonte Nova, Salvador",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 2",
@@ -278,7 +324,11 @@
         }
       ],
       "group": "Group B",
-      "ground": "Arena Pantanal, Cuiabá"
+      "ground": "Arena Pantanal, Cuiabá",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 7",
@@ -290,6 +340,10 @@
         "ft": [
           2,
           3
+        ],
+        "ht": [
+          1,
+          1
         ]
       },
       "goals1": [
@@ -318,7 +372,11 @@
         }
       ],
       "group": "Group B",
-      "ground": "Estádio Beira-Rio, Porto Alegre"
+      "ground": "Estádio Beira-Rio, Porto Alegre",
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 7",
@@ -328,6 +386,10 @@
       "team2": "Chile",
       "score": {
         "ft": [
+          0,
+          2
+        ],
+        "ht": [
           0,
           2
         ]
@@ -344,7 +406,11 @@
         }
       ],
       "group": "Group B",
-      "ground": "Estádio do Maracanã, Rio de Janeiro"
+      "ground": "Estádio do Maracanã, Rio de Janeiro",
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 12",
@@ -356,6 +422,10 @@
         "ft": [
           0,
           3
+        ],
+        "ht": [
+          0,
+          1
         ]
       },
       "goals1": [],
@@ -374,7 +444,11 @@
         }
       ],
       "group": "Group B",
-      "ground": "Arena da Baixada, Curitiba"
+      "ground": "Arena da Baixada, Curitiba",
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 12",
@@ -385,6 +459,10 @@
       "score": {
         "ft": [
           2,
+          0
+        ],
+        "ht": [
+          0,
           0
         ]
       },
@@ -401,7 +479,11 @@
       ],
       "goals2": [],
       "group": "Group B",
-      "ground": "Arena de São Paulo, São Paulo"
+      "ground": "Arena de São Paulo, São Paulo",
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 3",
@@ -412,6 +494,10 @@
       "score": {
         "ft": [
           3,
+          0
+        ],
+        "ht": [
+          1,
           0
         ]
       },
@@ -432,7 +518,11 @@
       ],
       "goals2": [],
       "group": "Group C",
-      "ground": "Estádio Mineirão, Belo Horizonte"
+      "ground": "Estádio Mineirão, Belo Horizonte",
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 3",
@@ -443,6 +533,10 @@
       "score": {
         "ft": [
           2,
+          1
+        ],
+        "ht": [
+          0,
           1
         ]
       },
@@ -463,7 +557,11 @@
         }
       ],
       "group": "Group C",
-      "ground": "Arena Pernambuco, Recife"
+      "ground": "Arena Pernambuco, Recife",
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 8",
@@ -475,6 +573,10 @@
         "ft": [
           2,
           1
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "goals1": [
@@ -494,7 +596,11 @@
         }
       ],
       "group": "Group C",
-      "ground": "Estádio Nacional Mané Garrincha, Brasília"
+      "ground": "Estádio Nacional Mané Garrincha, Brasília",
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 8",
@@ -506,10 +612,20 @@
         "ft": [
           0,
           0
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group C",
-      "ground": "Estádio das Dunas, Natal"
+      "ground": "Estádio das Dunas, Natal",
+      "goals1": [],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 13",
@@ -521,6 +637,10 @@
         "ft": [
           1,
           4
+        ],
+        "ht": [
+          1,
+          1
         ]
       },
       "goals1": [
@@ -550,7 +670,11 @@
         }
       ],
       "group": "Group C",
-      "ground": "Arena Pantanal, Cuiabá"
+      "ground": "Arena Pantanal, Cuiabá",
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 13",
@@ -562,6 +686,10 @@
         "ft": [
           2,
           1
+        ],
+        "ht": [
+          1,
+          0
         ]
       },
       "goals1": [
@@ -583,7 +711,11 @@
         }
       ],
       "group": "Group C",
-      "ground": "Estádio Castelão, Fortaleza"
+      "ground": "Estádio Castelão, Fortaleza",
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 3",
@@ -595,6 +727,10 @@
         "ft": [
           1,
           3
+        ],
+        "ht": [
+          1,
+          0
         ]
       },
       "goals1": [
@@ -619,7 +755,11 @@
         }
       ],
       "group": "Group D",
-      "ground": "Estádio Castelão, Fortaleza"
+      "ground": "Estádio Castelão, Fortaleza",
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 3",
@@ -631,6 +771,10 @@
         "ft": [
           1,
           2
+        ],
+        "ht": [
+          1,
+          1
         ]
       },
       "goals1": [
@@ -650,7 +794,11 @@
         }
       ],
       "group": "Group D",
-      "ground": "Arena Amazônia, Manaus"
+      "ground": "Arena Amazônia, Manaus",
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 8",
@@ -662,6 +810,10 @@
         "ft": [
           2,
           1
+        ],
+        "ht": [
+          1,
+          0
         ]
       },
       "goals1": [
@@ -681,7 +833,11 @@
         }
       ],
       "group": "Group D",
-      "ground": "Arena de São Paulo, São Paulo"
+      "ground": "Arena de São Paulo, São Paulo",
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 9",
@@ -691,6 +847,10 @@
       "team2": "Costa Rica",
       "score": {
         "ft": [
+          0,
+          1
+        ],
+        "ht": [
           0,
           1
         ]
@@ -703,7 +863,11 @@
         }
       ],
       "group": "Group D",
-      "ground": "Arena Pernambuco, Recife"
+      "ground": "Arena Pernambuco, Recife",
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 13",
@@ -715,6 +879,10 @@
         "ft": [
           0,
           1
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "goals1": [],
@@ -725,7 +893,11 @@
         }
       ],
       "group": "Group D",
-      "ground": "Estádio das Dunas, Natal"
+      "ground": "Estádio das Dunas, Natal",
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 13",
@@ -737,10 +909,20 @@
         "ft": [
           0,
           0
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group D",
-      "ground": "Estádio Mineirão, Belo Horizonte"
+      "ground": "Estádio Mineirão, Belo Horizonte",
+      "goals1": [],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 4",
@@ -751,6 +933,10 @@
       "score": {
         "ft": [
           2,
+          1
+        ],
+        "ht": [
+          0,
           1
         ]
       },
@@ -772,7 +958,11 @@
         }
       ],
       "group": "Group E",
-      "ground": "Estádio Nacional Mané Garrincha, Brasília"
+      "ground": "Estádio Nacional Mané Garrincha, Brasília",
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 4",
@@ -783,6 +973,10 @@
       "score": {
         "ft": [
           3,
+          0
+        ],
+        "ht": [
+          1,
           0
         ]
       },
@@ -804,7 +998,11 @@
       ],
       "goals2": [],
       "group": "Group E",
-      "ground": "Estádio Beira-Rio, Porto Alegre"
+      "ground": "Estádio Beira-Rio, Porto Alegre",
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 9",
@@ -816,6 +1014,10 @@
         "ft": [
           2,
           5
+        ],
+        "ht": [
+          0,
+          3
         ]
       },
       "goals1": [
@@ -851,7 +1053,11 @@
         }
       ],
       "group": "Group E",
-      "ground": "Arena Fonte Nova, Salvador"
+      "ground": "Arena Fonte Nova, Salvador",
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 9",
@@ -863,6 +1069,10 @@
         "ft": [
           1,
           2
+        ],
+        "ht": [
+          1,
+          1
         ]
       },
       "goals1": [
@@ -882,7 +1092,11 @@
         }
       ],
       "group": "Group E",
-      "ground": "Arena da Baixada, Curitiba"
+      "ground": "Arena da Baixada, Curitiba",
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 14",
@@ -894,6 +1108,10 @@
         "ft": [
           0,
           3
+        ],
+        "ht": [
+          0,
+          2
         ]
       },
       "goals1": [],
@@ -912,7 +1130,11 @@
         }
       ],
       "group": "Group E",
-      "ground": "Arena Amazônia, Manaus"
+      "ground": "Arena Amazônia, Manaus",
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 14",
@@ -924,10 +1146,20 @@
         "ft": [
           0,
           0
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group E",
-      "ground": "Estádio do Maracanã, Rio de Janeiro"
+      "ground": "Estádio do Maracanã, Rio de Janeiro",
+      "goals1": [],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 4",
@@ -939,6 +1171,10 @@
         "ft": [
           2,
           1
+        ],
+        "ht": [
+          1,
+          0
         ]
       },
       "goals1": [
@@ -959,7 +1195,11 @@
         }
       ],
       "group": "Group F",
-      "ground": "Estádio do Maracanã, Rio de Janeiro"
+      "ground": "Estádio do Maracanã, Rio de Janeiro",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 5",
@@ -971,10 +1211,20 @@
         "ft": [
           0,
           0
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group F",
-      "ground": "Arena da Baixada, Curitiba"
+      "ground": "Arena da Baixada, Curitiba",
+      "goals1": [],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 10",
@@ -986,6 +1236,10 @@
         "ft": [
           1,
           0
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "goals1": [
@@ -996,7 +1250,11 @@
       ],
       "goals2": [],
       "group": "Group F",
-      "ground": "Estádio Mineirão, Belo Horizonte"
+      "ground": "Estádio Mineirão, Belo Horizonte",
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 10",
@@ -1006,6 +1264,10 @@
       "team2": "Bosnia-Herzegovina",
       "score": {
         "ft": [
+          1,
+          0
+        ],
+        "ht": [
           1,
           0
         ]
@@ -1018,7 +1280,11 @@
       ],
       "goals2": [],
       "group": "Group F",
-      "ground": "Arena Pantanal, Cuiabá"
+      "ground": "Arena Pantanal, Cuiabá",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 14",
@@ -1030,6 +1296,10 @@
         "ft": [
           2,
           3
+        ],
+        "ht": [
+          1,
+          2
         ]
       },
       "goals1": [
@@ -1058,7 +1328,11 @@
         }
       ],
       "group": "Group F",
-      "ground": "Estádio Beira-Rio, Porto Alegre"
+      "ground": "Estádio Beira-Rio, Porto Alegre",
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 14",
@@ -1070,6 +1344,10 @@
         "ft": [
           3,
           1
+        ],
+        "ht": [
+          1,
+          0
         ]
       },
       "goals1": [
@@ -1093,7 +1371,11 @@
         }
       ],
       "group": "Group F",
-      "ground": "Arena Fonte Nova, Salvador"
+      "ground": "Arena Fonte Nova, Salvador",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 5",
@@ -1104,6 +1386,10 @@
       "score": {
         "ft": [
           4,
+          0
+        ],
+        "ht": [
+          3,
           0
         ]
       },
@@ -1129,7 +1415,11 @@
       ],
       "goals2": [],
       "group": "Group G",
-      "ground": "Arena Fonte Nova, Salvador"
+      "ground": "Arena Fonte Nova, Salvador",
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 5",
@@ -1141,6 +1431,10 @@
         "ft": [
           1,
           2
+        ],
+        "ht": [
+          0,
+          1
         ]
       },
       "goals1": [
@@ -1160,7 +1454,11 @@
         }
       ],
       "group": "Group G",
-      "ground": "Estádio das Dunas, Natal"
+      "ground": "Estádio das Dunas, Natal",
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 10",
@@ -1172,6 +1470,10 @@
         "ft": [
           2,
           2
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "goals1": [
@@ -1195,7 +1497,11 @@
         }
       ],
       "group": "Group G",
-      "ground": "Estádio Castelão, Fortaleza"
+      "ground": "Estádio Castelão, Fortaleza",
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 11",
@@ -1207,6 +1513,10 @@
         "ft": [
           2,
           2
+        ],
+        "ht": [
+          0,
+          1
         ]
       },
       "goals1": [
@@ -1231,7 +1541,11 @@
         }
       ],
       "group": "Group G",
-      "ground": "Arena Amazônia, Manaus"
+      "ground": "Arena Amazônia, Manaus",
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 15",
@@ -1243,6 +1557,10 @@
         "ft": [
           0,
           1
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "goals1": [],
@@ -1253,7 +1571,11 @@
         }
       ],
       "group": "Group G",
-      "ground": "Arena Pernambuco, Recife"
+      "ground": "Arena Pernambuco, Recife",
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 15",
@@ -1265,6 +1587,10 @@
         "ft": [
           2,
           1
+        ],
+        "ht": [
+          1,
+          0
         ]
       },
       "goals1": [
@@ -1285,7 +1611,11 @@
         }
       ],
       "group": "Group G",
-      "ground": "Estádio Nacional Mané Garrincha, Brasília"
+      "ground": "Estádio Nacional Mané Garrincha, Brasília",
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 6",
@@ -1296,6 +1626,10 @@
       "score": {
         "ft": [
           2,
+          1
+        ],
+        "ht": [
+          0,
           1
         ]
       },
@@ -1317,7 +1651,11 @@
         }
       ],
       "group": "Group H",
-      "ground": "Estádio Mineirão, Belo Horizonte"
+      "ground": "Estádio Mineirão, Belo Horizonte",
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 6",
@@ -1329,6 +1667,10 @@
         "ft": [
           1,
           1
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "goals1": [
@@ -1344,7 +1686,11 @@
         }
       ],
       "group": "Group H",
-      "ground": "Arena Pantanal, Cuiabá"
+      "ground": "Arena Pantanal, Cuiabá",
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 11",
@@ -1356,6 +1702,10 @@
         "ft": [
           1,
           0
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "goals1": [
@@ -1366,7 +1716,11 @@
       ],
       "goals2": [],
       "group": "Group H",
-      "ground": "Estádio do Maracanã, Rio de Janeiro"
+      "ground": "Estádio do Maracanã, Rio de Janeiro",
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 11",
@@ -1378,6 +1732,10 @@
         "ft": [
           2,
           4
+        ],
+        "ht": [
+          0,
+          3
         ]
       },
       "goals1": [
@@ -1409,7 +1767,11 @@
         }
       ],
       "group": "Group H",
-      "ground": "Estádio Beira-Rio, Porto Alegre"
+      "ground": "Estádio Beira-Rio, Porto Alegre",
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 15",
@@ -1421,6 +1783,10 @@
         "ft": [
           0,
           1
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "goals1": [],
@@ -1431,7 +1797,11 @@
         }
       ],
       "group": "Group H",
-      "ground": "Arena de São Paulo, São Paulo"
+      "ground": "Arena de São Paulo, São Paulo",
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 15",
@@ -1442,6 +1812,10 @@
       "score": {
         "ft": [
           1,
+          1
+        ],
+        "ht": [
+          0,
           1
         ]
       },
@@ -1458,7 +1832,11 @@
         }
       ],
       "group": "Group H",
-      "ground": "Arena da Baixada, Curitiba"
+      "ground": "Arena da Baixada, Curitiba",
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Round of 16",
@@ -1496,7 +1874,11 @@
           "minute": 32
         }
       ],
-      "ground": "Estádio Mineirão, Belo Horizonte"
+      "ground": "Estádio Mineirão, Belo Horizonte",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Round of 16",
@@ -1525,7 +1907,11 @@
         }
       ],
       "goals2": [],
-      "ground": "Estádio do Maracanã, Rio de Janeiro"
+      "ground": "Estádio do Maracanã, Rio de Janeiro",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Round of 16",
@@ -1560,7 +1946,11 @@
           "minute": 48
         }
       ],
-      "ground": "Estádio Castelão, Fortaleza"
+      "ground": "Estádio Castelão, Fortaleza",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Round of 16",
@@ -1598,7 +1988,11 @@
           "minute": 90
         }
       ],
-      "ground": "Arena Pernambuco, Recife"
+      "ground": "Arena Pernambuco, Recife",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Round of 16",
@@ -1629,7 +2023,11 @@
         }
       ],
       "goals2": [],
-      "ground": "Estádio Nacional Mané Garrincha, Brasília"
+      "ground": "Estádio Nacional Mané Garrincha, Brasília",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Round of 16",
@@ -1667,7 +2065,11 @@
           "minute": 121
         }
       ],
-      "ground": "Estádio Beira-Rio, Porto Alegre"
+      "ground": "Estádio Beira-Rio, Porto Alegre",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Round of 16",
@@ -1696,7 +2098,11 @@
         }
       ],
       "goals2": [],
-      "ground": "Arena de São Paulo, São Paulo"
+      "ground": "Arena de São Paulo, São Paulo",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Round of 16",
@@ -1734,7 +2140,11 @@
           "minute": 107
         }
       ],
-      "ground": "Arena Fonte Nova, Salvador"
+      "ground": "Arena Fonte Nova, Salvador",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Quarter-finals",
@@ -1759,7 +2169,11 @@
           "minute": 13
         }
       ],
-      "ground": "Estádio do Maracanã, Rio de Janeiro"
+      "ground": "Estádio do Maracanã, Rio de Janeiro",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Quarter-finals",
@@ -1794,7 +2208,11 @@
           "penalty": true
         }
       ],
-      "ground": "Estádio Castelão, Fortaleza"
+      "ground": "Estádio Castelão, Fortaleza",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Quarter-finals",
@@ -1819,7 +2237,11 @@
         }
       ],
       "goals2": [],
-      "ground": "Estádio Nacional Mané Garrincha, Brasília"
+      "ground": "Estádio Nacional Mané Garrincha, Brasília",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Quarter-finals",
@@ -1845,7 +2267,13 @@
           0
         ]
       },
-      "ground": "Arena Fonte Nova, Salvador"
+      "ground": "Arena Fonte Nova, Salvador",
+      "goals1": [],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Semi-finals",
@@ -1899,7 +2327,11 @@
           "minute": 79
         }
       ],
-      "ground": "Estádio Mineirão, Belo Horizonte"
+      "ground": "Estádio Mineirão, Belo Horizonte",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Semi-finals",
@@ -1925,7 +2357,13 @@
           0
         ]
       },
-      "ground": "Arena de São Paulo, São Paulo"
+      "ground": "Arena de São Paulo, São Paulo",
+      "goals1": [],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Match for third place",
@@ -1960,7 +2398,11 @@
           "offset": 1
         }
       ],
-      "ground": "Estádio Nacional Mané Garrincha, Brasília"
+      "ground": "Estádio Nacional Mané Garrincha, Brasília",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Final",
@@ -1989,7 +2431,11 @@
         }
       ],
       "goals2": [],
-      "ground": "Estádio do Maracanã, Rio de Janeiro"
+      "ground": "Estádio do Maracanã, Rio de Janeiro",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     }
   ]
 }

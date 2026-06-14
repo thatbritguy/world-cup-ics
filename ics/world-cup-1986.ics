@@ -16,9 +16,9 @@ GEO:19.303056;-99.150556
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Azteca, Mexico Cit
  y";X-APPLE-RADIUS=100;X-TITLE="Estadio Azteca, Mexico City":geo:19.303056,
  -99.150556
-DESCRIPTION:Group A | Matchday 1 | 1986 FIFA World Cup - Mexico\nBulgaria 1
- -1 Italy
-URL:https://en.wikipedia.org/wiki/1986_FIFA_World_Cup
+DESCRIPTION:1986 FIFA World Cup - Mexico\nGroup A | Matchday 1\nBulgaria 1-
+ 1 Italy\nFT: 1-1
+URL:https://www.fifa.com/en/match-centre/match/17/68/308/459
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1986
@@ -34,9 +34,9 @@ GEO:21.115556;-101.657778
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Nou Camp, León";X
  -APPLE-RADIUS=100;X-TITLE="Estadio Nou Camp, León":geo:21.115556,-101.657
  778
-DESCRIPTION:Group C | Matchday 1 | 1986 FIFA World Cup - Mexico\nCanada 0-1
-  France
-URL:https://en.wikipedia.org/wiki/1986_FIFA_World_Cup
+DESCRIPTION:1986 FIFA World Cup - Mexico\nGroup C | Matchday 1\nCanada 0-1 
+ France\nHT: 0-0\nFT: 0-1\nGoals:\nFRA 🇫🇷: Papin 79'
+URL:https://www.fifa.com/en/match-centre/match/17/68/308/468
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1986
@@ -52,9 +52,9 @@ GEO:20.705000;-103.328056
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Jalisco, Guadalaja
  ra";X-APPLE-RADIUS=100;X-TITLE="Estadio Jalisco, Guadalajara":geo:20.70500
  0,-103.328056
-DESCRIPTION:Group D | Matchday 1 | 1986 FIFA World Cup - Mexico\nSpain 0-1 
- Brazil
-URL:https://en.wikipedia.org/wiki/1986_FIFA_World_Cup
+DESCRIPTION:1986 FIFA World Cup - Mexico\nGroup D | Matchday 1\nSpain 0-1 B
+ razil\nHT: 0-0\nFT: 0-1\nGoals:\nBRA 🇧🇷: Socrates 63'
+URL:https://www.fifa.com/en/match-centre/match/17/68/308/439
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1986
@@ -70,9 +70,10 @@ GEO:19.331944;-99.192222
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Olímpico Universi
  tario, Mexico City";X-APPLE-RADIUS=100;X-TITLE="Estadio Olímpico Universi
  tario, Mexico City":geo:19.331944,-99.192222
-DESCRIPTION:Group A | Matchday 1 | 1986 FIFA World Cup - Mexico\nArgentina 
- 3-1 South Korea
-URL:https://en.wikipedia.org/wiki/1986_FIFA_World_Cup
+DESCRIPTION:1986 FIFA World Cup - Mexico\nGroup A | Matchday 1\nArgentina 3
+ -1 South Korea\nHT: 2-0\nFT: 3-1\nGoals:\nARG 🇦🇷: Valdano 8'\, Rugge
+ ri 19'\, Valdano 47'\nKOR 🇰🇷: Park Chang-sun 72'
+URL:https://www.fifa.com/en/match-centre/match/17/68/308/395
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1986
@@ -88,9 +89,10 @@ GEO:20.684500;-101.356300
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Sergio León Chave
  z, Irapuato";X-APPLE-RADIUS=100;X-TITLE="Estadio Sergio León Chavez, Irap
  uato":geo:20.684500,-101.356300
-DESCRIPTION:Group C | Matchday 1 | 1986 FIFA World Cup - Mexico\nSoviet Uni
- on 6-0 Hungary
-URL:https://en.wikipedia.org/wiki/1986_FIFA_World_Cup
+DESCRIPTION:1986 FIFA World Cup - Mexico\nGroup C | Matchday 1\nSoviet Unio
+ n 6-0 Hungary\nHT: 3-0\nFT: 6-0\nGoals:\nURS: Yakovienko 2'\, Aleinikov 4'
+ \, Belanov 25' pen\, Yaremchuk 65'\, Yaremuchuk 73'\, Rodionov 80'
+URL:https://www.fifa.com/en/match-centre/match/17/68/308/610
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1986
@@ -106,9 +108,9 @@ GEO:25.723000;-100.312000
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Universitario, Mon
  terrey";X-APPLE-RADIUS=100;X-TITLE="Estadio Universitario, Monterrey":geo:
  25.723000,-100.312000
-DESCRIPTION:Group F | Matchday 1 | 1986 FIFA World Cup - Mexico\nMorocco 0-
- 0 Poland
-URL:https://en.wikipedia.org/wiki/1986_FIFA_World_Cup
+DESCRIPTION:1986 FIFA World Cup - Mexico\nGroup F | Matchday 1\nMorocco 0-0
+  Poland\nHT: 0-0\nFT: 0-0
+URL:https://www.fifa.com/en/match-centre/match/17/68/308/674
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1986
@@ -124,9 +126,10 @@ GEO:19.303056;-99.150556
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Azteca, Mexico Cit
  y";X-APPLE-RADIUS=100;X-TITLE="Estadio Azteca, Mexico City":geo:19.303056,
  -99.150556
-DESCRIPTION:Group B | Matchday 1 | 1986 FIFA World Cup - Mexico\nBelgium 1-
- 2 Mexico
-URL:https://en.wikipedia.org/wiki/1986_FIFA_World_Cup
+DESCRIPTION:1986 FIFA World Cup - Mexico\nGroup B | Matchday 1\nBelgium 1-2
+  Mexico\nHT: 1-2\nFT: 1-2\nGoals:\nBEL 🇧🇪: van den Bergh 45'\nMEX 
+ 🇲🇽: Quirarte 23'\, Sánchez 39'
+URL:https://www.fifa.com/en/match-centre/match/17/68/308/428
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1986
@@ -142,9 +145,10 @@ GEO:20.693700;-103.416300
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Tres de Marzo, Gua
  dalajara";X-APPLE-RADIUS=100;X-TITLE="Estadio Tres de Marzo, Guadalajara":
  geo:20.693700,-103.416300
-DESCRIPTION:Group D | Matchday 1 | 1986 FIFA World Cup - Mexico\nAlgeria 1-
- 1 Northern Ireland
-URL:https://en.wikipedia.org/wiki/1986_FIFA_World_Cup
+DESCRIPTION:1986 FIFA World Cup - Mexico\nGroup D | Matchday 1\nAlgeria 1-1
+  Northern Ireland\nHT: 0-1\nFT: 1-1\nGoals:\nALG 🇩🇿: Zidane 59'\nNIR
+ : Whiteside 6'
+URL:https://www.fifa.com/en/match-centre/match/17/68/308/379
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1986
@@ -160,9 +164,9 @@ GEO:25.652250;-100.286417
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Tecnológico, Mont
  errey";X-APPLE-RADIUS=100;X-TITLE="Estadio Tecnológico, Monterrey":geo:25
  .652250,-100.286417
-DESCRIPTION:Group F | Matchday 1 | 1986 FIFA World Cup - Mexico\nPortugal 1
- -0 England
-URL:https://en.wikipedia.org/wiki/1986_FIFA_World_Cup
+DESCRIPTION:1986 FIFA World Cup - Mexico\nGroup F | Matchday 1\nPortugal 1-
+ 0 England\nHT: 0-0\nFT: 1-0\nGoals:\nPOR 🇵🇹: Carlos Manuel 75'
+URL:https://www.fifa.com/en/match-centre/match/17/68/308/538
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1986
@@ -178,9 +182,9 @@ GEO:19.287222;-99.666667
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Nemesio Díez, Tol
  uca";X-APPLE-RADIUS=100;X-TITLE="Estadio Nemesio Díez, Toluca":geo:19.287
  222,-99.666667
-DESCRIPTION:Group B | Matchday 1 | 1986 FIFA World Cup - Mexico\nParaguay 1
- -0 Iraq
-URL:https://en.wikipedia.org/wiki/1986_FIFA_World_Cup
+DESCRIPTION:1986 FIFA World Cup - Mexico\nGroup B | Matchday 1\nParaguay 1-
+ 0 Iraq\nHT: 1-0\nFT: 1-0\nGoals:\nPAR 🇵🇾: Romero 36'
+URL:https://www.fifa.com/en/match-centre/match/17/68/308/628
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1986
@@ -196,9 +200,10 @@ GEO:20.577778;-100.366389
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio La Corregidora, Qu
  erétaro";X-APPLE-RADIUS=100;X-TITLE="Estadio La Corregidora, Querétaro":
  geo:20.577778,-100.366389
-DESCRIPTION:Group E | Matchday 1 | 1986 FIFA World Cup - Mexico\nUruguay 1-
- 1 West Germany
-URL:https://en.wikipedia.org/wiki/1986_FIFA_World_Cup
+DESCRIPTION:1986 FIFA World Cup - Mexico\nGroup E | Matchday 1\nUruguay 1-1
+  West Germany\nHT: 1-0\nFT: 1-1\nGoals:\nURU 🇺🇾: Alzamendi 4'\nFRG 
+ 🇩🇪: K.Allofs 85'
+URL:https://www.fifa.com/en/match-centre/match/17/68/308/585
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1986
@@ -214,9 +219,9 @@ GEO:19.405833;-98.986944
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Neza 86, Nezahualc
  óyotl";X-APPLE-RADIUS=100;X-TITLE="Estadio Neza 86, Nezahualcóyotl":geo:
  19.405833,-98.986944
-DESCRIPTION:Group E | Matchday 1 | 1986 FIFA World Cup - Mexico\nScotland 0
- -1 Denmark
-URL:https://en.wikipedia.org/wiki/1986_FIFA_World_Cup
+DESCRIPTION:1986 FIFA World Cup - Mexico\nGroup E | Matchday 1\nScotland 0-
+ 1 Denmark\nHT: 0-0\nFT: 0-1\nGoals:\nDEN 🇩🇰: Eljkær-Larsen 58'
+URL:https://www.fifa.com/en/match-centre/match/17/68/308/517
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1986
@@ -232,9 +237,10 @@ GEO:19.078056;-98.164444
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Cuauhtémoc, Puebl
  a";X-APPLE-RADIUS=100;X-TITLE="Estadio Cuauhtémoc, Puebla":geo:19.078056,
  -98.164444
-DESCRIPTION:Group A | Matchday 2 | 1986 FIFA World Cup - Mexico\nItaly 1-1 
- Argentina
-URL:https://en.wikipedia.org/wiki/1986_FIFA_World_Cup
+DESCRIPTION:1986 FIFA World Cup - Mexico\nGroup A | Matchday 2\nItaly 1-1 A
+ rgentina\nHT: 1-1\nFT: 1-1\nGoals:\nITA 🇮🇹: Altobelli 7' pen\nARG 
+ 🇦🇷: Maradona 34'
+URL:https://www.fifa.com/en/match-centre/match/17/68/308/394
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1986
@@ -250,9 +256,10 @@ GEO:19.331944;-99.192222
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Olímpico Universi
  tario, Mexico City";X-APPLE-RADIUS=100;X-TITLE="Estadio Olímpico Universi
  tario, Mexico City":geo:19.331944,-99.192222
-DESCRIPTION:Group A | Matchday 2 | 1986 FIFA World Cup - Mexico\nSouth Kore
- a 1-1 Bulgaria
-URL:https://en.wikipedia.org/wiki/1986_FIFA_World_Cup
+DESCRIPTION:1986 FIFA World Cup - Mexico\nGroup A | Matchday 2\nSouth Korea
+  1-1 Bulgaria\nHT: 0-1\nFT: 1-1\nGoals:\nKOR 🇰🇷: Kim Jong-boo 70'\nB
+ UL 🇧🇬: Getov 12'
+URL:https://www.fifa.com/en/match-centre/match/17/68/308/460
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1986
@@ -268,9 +275,10 @@ GEO:21.115556;-101.657778
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Nou Camp, León";X
  -APPLE-RADIUS=100;X-TITLE="Estadio Nou Camp, León":geo:21.115556,-101.657
  778
-DESCRIPTION:Group C | Matchday 2 | 1986 FIFA World Cup - Mexico\nFrance 1-1
-  Soviet Union
-URL:https://en.wikipedia.org/wiki/1986_FIFA_World_Cup
+DESCRIPTION:1986 FIFA World Cup - Mexico\nGroup C | Matchday 2\nFrance 1-1 
+ Soviet Union\nHT: 0-0\nFT: 1-1\nGoals:\nFRA 🇫🇷: Fernandez 62'\nURS: 
+ Rats 54'
+URL:https://www.fifa.com/en/match-centre/match/17/68/308/571
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1986
@@ -286,9 +294,10 @@ GEO:20.684500;-101.356300
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Sergio León Chave
  z, Irapuato";X-APPLE-RADIUS=100;X-TITLE="Estadio Sergio León Chavez, Irap
  uato":geo:20.684500,-101.356300
-DESCRIPTION:Group C | Matchday 2 | 1986 FIFA World Cup - Mexico\nHungary 2-
- 0 Canada
-URL:https://en.wikipedia.org/wiki/1986_FIFA_World_Cup
+DESCRIPTION:1986 FIFA World Cup - Mexico\nGroup C | Matchday 2\nHungary 2-0
+  Canada\nHT: 1-0\nFT: 2-0\nGoals:\nHUN 🇭🇺: Esterházy 2'\, Détári 
+ 76'
+URL:https://www.fifa.com/en/match-centre/match/17/68/308/475
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1986
@@ -304,9 +313,9 @@ GEO:20.705000;-103.328056
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Jalisco, Guadalaja
  ra";X-APPLE-RADIUS=100;X-TITLE="Estadio Jalisco, Guadalajara":geo:20.70500
  0,-103.328056
-DESCRIPTION:Group D | Matchday 2 | 1986 FIFA World Cup - Mexico\nBrazil 1-0
-  Algeria
-URL:https://en.wikipedia.org/wiki/1986_FIFA_World_Cup
+DESCRIPTION:1986 FIFA World Cup - Mexico\nGroup D | Matchday 2\nBrazil 1-0 
+ Algeria\nHT: 1-0\nFT: 1-0\nGoals:\nBRA 🇧🇷: Careca 67'
+URL:https://www.fifa.com/en/match-centre/match/17/68/308/377
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1986
@@ -322,9 +331,9 @@ GEO:25.652250;-100.286417
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Tecnológico, Mont
  errey";X-APPLE-RADIUS=100;X-TITLE="Estadio Tecnológico, Monterrey":geo:25
  .652250,-100.286417
-DESCRIPTION:Group F | Matchday 2 | 1986 FIFA World Cup - Mexico\nEngland 0-
- 0 Morocco
-URL:https://en.wikipedia.org/wiki/1986_FIFA_World_Cup
+DESCRIPTION:1986 FIFA World Cup - Mexico\nGroup F | Matchday 2\nEngland 0-0
+  Morocco\nHT: 0-0\nFT: 0-0
+URL:https://www.fifa.com/en/match-centre/match/17/68/308/533
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1986
@@ -340,9 +349,10 @@ GEO:19.303056;-99.150556
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Azteca, Mexico Cit
  y";X-APPLE-RADIUS=100;X-TITLE="Estadio Azteca, Mexico City":geo:19.303056,
  -99.150556
-DESCRIPTION:Group B | Matchday 2 | 1986 FIFA World Cup - Mexico\nMexico 1-1
-  Paraguay
-URL:https://en.wikipedia.org/wiki/1986_FIFA_World_Cup
+DESCRIPTION:1986 FIFA World Cup - Mexico\nGroup B | Matchday 2\nMexico 1-1 
+ Paraguay\nHT: 1-1\nFT: 1-1\nGoals:\nMEX 🇲🇽: Flóres 3'\nPAR 🇵🇾
+ : Romero 86'
+URL:https://www.fifa.com/en/match-centre/match/17/68/308/680
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1986
@@ -358,9 +368,10 @@ GEO:20.693700;-103.416300
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Tres de Marzo, Gua
  dalajara";X-APPLE-RADIUS=100;X-TITLE="Estadio Tres de Marzo, Guadalajara":
  geo:20.693700,-103.416300
-DESCRIPTION:Group D | Matchday 2 | 1986 FIFA World Cup - Mexico\nNorthern I
- reland 1-2 Spain
-URL:https://en.wikipedia.org/wiki/1986_FIFA_World_Cup
+DESCRIPTION:1986 FIFA World Cup - Mexico\nGroup D | Matchday 2\nNorthern Ir
+ eland 1-2 Spain\nHT: 0-2\nFT: 1-2\nGoals:\nNIR: Clarke 48'\nESP 🇪🇸: 
+ Butragueño 2'\, Julio Salinas 18'
+URL:https://www.fifa.com/en/match-centre/match/17/68/308/551
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1986
@@ -376,9 +387,9 @@ GEO:25.723000;-100.312000
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Universitario, Mon
  terrey";X-APPLE-RADIUS=100;X-TITLE="Estadio Universitario, Monterrey":geo:
  25.723000,-100.312000
-DESCRIPTION:Group F | Matchday 2 | 1986 FIFA World Cup - Mexico\nPoland 1-0
-  Portugal
-URL:https://en.wikipedia.org/wiki/1986_FIFA_World_Cup
+DESCRIPTION:1986 FIFA World Cup - Mexico\nGroup F | Matchday 2\nPoland 1-0 
+ Portugal\nHT: 0-0\nFT: 1-0\nGoals:\nPOL 🇵🇱: Smolarek 64'
+URL:https://www.fifa.com/en/match-centre/match/17/68/308/701
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1986
@@ -394,9 +405,10 @@ GEO:19.287222;-99.666667
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Nemesio Díez, Tol
  uca";X-APPLE-RADIUS=100;X-TITLE="Estadio Nemesio Díez, Toluca":geo:19.287
  222,-99.666667
-DESCRIPTION:Group B | Matchday 2 | 1986 FIFA World Cup - Mexico\nIraq 1-2 B
- elgium
-URL:https://en.wikipedia.org/wiki/1986_FIFA_World_Cup
+DESCRIPTION:1986 FIFA World Cup - Mexico\nGroup B | Matchday 2\nIraq 1-2 Be
+ lgium\nHT: 0-2\nFT: 1-2\nGoals:\nIRQ 🇮🇶: Ammaiesh 67'\nBEL 🇧🇪:
+  Scifo 16'\, Claesen 22' pen
+URL:https://www.fifa.com/en/match-centre/match/17/68/308/427
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1986
@@ -412,9 +424,10 @@ GEO:20.577778;-100.366389
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio La Corregidora, Qu
  erétaro";X-APPLE-RADIUS=100;X-TITLE="Estadio La Corregidora, Querétaro":
  geo:20.577778,-100.366389
-DESCRIPTION:Group E | Matchday 2 | 1986 FIFA World Cup - Mexico\nWest Germa
- ny 2-1 Scotland
-URL:https://en.wikipedia.org/wiki/1986_FIFA_World_Cup
+DESCRIPTION:1986 FIFA World Cup - Mexico\nGroup E | Matchday 2\nWest German
+ y 2-1 Scotland\nHT: 1-1\nFT: 2-1\nGoals:\nFRG 🇩🇪: Völler 22'\, K.Al
+ lofs 50'\nSCO 🏴󠁧󠁢󠁳󠁣󠁴󠁿: Strachan 18'
+URL:https://www.fifa.com/en/match-centre/match/17/68/308/580
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1986
@@ -430,9 +443,11 @@ GEO:19.405833;-98.986944
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Neza 86, Nezahualc
  óyotl";X-APPLE-RADIUS=100;X-TITLE="Estadio Neza 86, Nezahualcóyotl":geo:
  19.405833,-98.986944
-DESCRIPTION:Group E | Matchday 2 | 1986 FIFA World Cup - Mexico\nDenmark 6-
- 1 Uruguay
-URL:https://en.wikipedia.org/wiki/1986_FIFA_World_Cup
+DESCRIPTION:1986 FIFA World Cup - Mexico\nGroup E | Matchday 2\nDenmark 6-1
+  Uruguay\nHT: 2-1\nFT: 6-1\nGoals:\nDEN 🇩🇰: Elkjær-Larsen 11'\, Ler
+ by 41'\, Laudrup 52'\, Elkjær-Larsen 69'\, Elkjær-Larsen 79'\, J.Olsen 8
+ 8'\nURU 🇺🇾: Francescoli 45'
+URL:https://www.fifa.com/en/match-centre/match/17/68/308/522
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1986
@@ -448,9 +463,10 @@ GEO:21.115556;-101.657778
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Nou Camp, León";X
  -APPLE-RADIUS=100;X-TITLE="Estadio Nou Camp, León":geo:21.115556,-101.657
  778
-DESCRIPTION:Group C | Matchday 3 | 1986 FIFA World Cup - Mexico\nHungary 0-
- 3 France
-URL:https://en.wikipedia.org/wiki/1986_FIFA_World_Cup
+DESCRIPTION:1986 FIFA World Cup - Mexico\nGroup C | Matchday 3\nHungary 0-3
+  France\nHT: 0-1\nFT: 0-3\nGoals:\nFRA 🇫🇷: Stopyra 30'\, Tigana 64'\
+ , Rocheteau 85'
+URL:https://www.fifa.com/en/match-centre/match/17/68/308/567
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1986
@@ -466,9 +482,9 @@ GEO:20.684500;-101.356300
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Sergio León Chave
  z, Irapuato";X-APPLE-RADIUS=100;X-TITLE="Estadio Sergio León Chavez, Irap
  uato":geo:20.684500,-101.356300
-DESCRIPTION:Group C | Matchday 3 | 1986 FIFA World Cup - Mexico\nSoviet Uni
- on 2-0 Canada
-URL:https://en.wikipedia.org/wiki/1986_FIFA_World_Cup
+DESCRIPTION:1986 FIFA World Cup - Mexico\nGroup C | Matchday 3\nSoviet Unio
+ n 2-0 Canada\nHT: 0-0\nFT: 2-0\nGoals:\nURS: Blokhin 59'\, Zavarov 75'
+URL:https://www.fifa.com/en/match-centre/match/17/68/308/476
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1986
@@ -484,9 +500,11 @@ GEO:19.078056;-98.164444
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Cuauhtémoc, Puebl
  a";X-APPLE-RADIUS=100;X-TITLE="Estadio Cuauhtémoc, Puebla":geo:19.078056,
  -98.164444
-DESCRIPTION:Group A | Matchday 3 | 1986 FIFA World Cup - Mexico\nSouth Kore
- a 2-3 Italy
-URL:https://en.wikipedia.org/wiki/1986_FIFA_World_Cup
+DESCRIPTION:1986 FIFA World Cup - Mexico\nGroup A | Matchday 3\nSouth Korea
+  2-3 Italy\nHT: 0-1\nFT: 2-3\nGoals:\nKOR 🇰🇷: Choi Song-hoo 62'\, Hu
+ h Jung-moo 89'\nITA 🇮🇹: Altobelli 18'\, Altobelli 73'\, Choi Kwang-r
+ ae 82' og
+URL:https://www.fifa.com/en/match-centre/match/17/68/308/643
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1986
@@ -502,9 +520,10 @@ GEO:19.331944;-99.192222
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Olímpico Universi
  tario, Mexico City";X-APPLE-RADIUS=100;X-TITLE="Estadio Olímpico Universi
  tario, Mexico City":geo:19.331944,-99.192222
-DESCRIPTION:Group A | Matchday 3 | 1986 FIFA World Cup - Mexico\nArgentina 
- 2-0 Bulgaria
-URL:https://en.wikipedia.org/wiki/1986_FIFA_World_Cup
+DESCRIPTION:1986 FIFA World Cup - Mexico\nGroup A | Matchday 3\nArgentina 2
+ -0 Bulgaria\nHT: 1-0\nFT: 2-0\nGoals:\nARG 🇦🇷: Valdano 4'\, Burrucha
+ ga 77'
+URL:https://www.fifa.com/en/match-centre/match/17/68/308/389
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1986
@@ -520,9 +539,9 @@ GEO:19.303056;-99.150556
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Azteca, Mexico Cit
  y";X-APPLE-RADIUS=100;X-TITLE="Estadio Azteca, Mexico City":geo:19.303056,
  -99.150556
-DESCRIPTION:Group B | Matchday 3 | 1986 FIFA World Cup - Mexico\nIraq 0-1 M
- exico
-URL:https://en.wikipedia.org/wiki/1986_FIFA_World_Cup
+DESCRIPTION:1986 FIFA World Cup - Mexico\nGroup B | Matchday 3\nIraq 0-1 Me
+ xico\nHT: 0-0\nFT: 0-1\nGoals:\nMEX 🇲🇽: Quirarte 54'
+URL:https://www.fifa.com/en/match-centre/match/17/68/308/627
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1986
@@ -538,9 +557,10 @@ GEO:19.287222;-99.666667
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Nemesio Díez, Tol
  uca";X-APPLE-RADIUS=100;X-TITLE="Estadio Nemesio Díez, Toluca":geo:19.287
  222,-99.666667
-DESCRIPTION:Group B | Matchday 3 | 1986 FIFA World Cup - Mexico\nParaguay 2
- -2 Belgium
-URL:https://en.wikipedia.org/wiki/1986_FIFA_World_Cup
+DESCRIPTION:1986 FIFA World Cup - Mexico\nGroup B | Matchday 3\nParaguay 2-
+ 2 Belgium\nHT: 0-1\nFT: 2-2\nGoals:\nPAR 🇵🇾: Cabañas 50'\, Cabañas
+  76'\nBEL 🇧🇪: Vercauteren 32'\, Veyt 60'
+URL:https://www.fifa.com/en/match-centre/match/17/68/308/429
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1986
@@ -556,9 +576,10 @@ GEO:20.693700;-103.416300
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Tres de Marzo, Gua
  dalajara";X-APPLE-RADIUS=100;X-TITLE="Estadio Tres de Marzo, Guadalajara":
  geo:20.693700,-103.416300
-DESCRIPTION:Group F | Matchday 3 | 1986 FIFA World Cup - Mexico\nPortugal 1
- -3 Morocco
-URL:https://en.wikipedia.org/wiki/1986_FIFA_World_Cup
+DESCRIPTION:1986 FIFA World Cup - Mexico\nGroup F | Matchday 3\nPortugal 1-
+ 3 Morocco\nHT: 0-2\nFT: 1-3\nGoals:\nPOR 🇵🇹: Diamantino 90'\nMAR 
+ 🇲🇦: Khairi 19'\, Khairi 28'\, Krimau 62'
+URL:https://www.fifa.com/en/match-centre/match/17/68/308/675
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1986
@@ -574,9 +595,10 @@ GEO:25.652250;-100.286417
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Tecnológico, Mont
  errey";X-APPLE-RADIUS=100;X-TITLE="Estadio Tecnológico, Monterrey":geo:25
  .652250,-100.286417
-DESCRIPTION:Group F | Matchday 3 | 1986 FIFA World Cup - Mexico\nEngland 3-
- 0 Poland
-URL:https://en.wikipedia.org/wiki/1986_FIFA_World_Cup
+DESCRIPTION:1986 FIFA World Cup - Mexico\nGroup F | Matchday 3\nEngland 3-0
+  Poland\nHT: 3-0\nFT: 3-0\nGoals:\nENG 🏴󠁧󠁢󠁥󠁮󠁧󠁿: Linek
+ er 8'\, Lineker 14'\, Lineker 36'
+URL:https://www.fifa.com/en/match-centre/match/17/68/308/537
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1986
@@ -592,9 +614,10 @@ GEO:20.705000;-103.328056
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Jalisco, Guadalaja
  ra";X-APPLE-RADIUS=100;X-TITLE="Estadio Jalisco, Guadalajara":geo:20.70500
  0,-103.328056
-DESCRIPTION:Group D | Matchday 3 | 1986 FIFA World Cup - Mexico\nNorthern I
- reland 0-3 Brazil
-URL:https://en.wikipedia.org/wiki/1986_FIFA_World_Cup
+DESCRIPTION:1986 FIFA World Cup - Mexico\nGroup D | Matchday 3\nNorthern Ir
+ eland 0-3 Brazil\nHT: 0-2\nFT: 0-3\nGoals:\nBRA 🇧🇷: Careca 18'\, Jos
+ imar 42'\, Careca 88'
+URL:https://www.fifa.com/en/match-centre/match/17/68/308/441
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1986
@@ -610,9 +633,10 @@ GEO:25.652250;-100.286417
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Tecnológico, Mont
  errey";X-APPLE-RADIUS=100;X-TITLE="Estadio Tecnológico, Monterrey":geo:25
  .652250,-100.286417
-DESCRIPTION:Group D | Matchday 3 | 1986 FIFA World Cup - Mexico\nAlgeria 0-
- 3 Spain
-URL:https://en.wikipedia.org/wiki/1986_FIFA_World_Cup
+DESCRIPTION:1986 FIFA World Cup - Mexico\nGroup D | Matchday 3\nAlgeria 0-3
+  Spain\nHT: 0-1\nFT: 0-3\nGoals:\nESP 🇪🇸: Calderé 17'\, Calderé 68
+ '\, Eloy 71'
+URL:https://www.fifa.com/en/match-centre/match/17/68/308/378
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1986
@@ -628,9 +652,10 @@ GEO:20.577778;-100.366389
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio La Corregidora, Qu
  erétaro";X-APPLE-RADIUS=100;X-TITLE="Estadio La Corregidora, Querétaro":
  geo:20.577778,-100.366389
-DESCRIPTION:Group E | Matchday 3 | 1986 FIFA World Cup - Mexico\nDenmark 2-
- 0 West Germany
-URL:https://en.wikipedia.org/wiki/1986_FIFA_World_Cup
+DESCRIPTION:1986 FIFA World Cup - Mexico\nGroup E | Matchday 3\nDenmark 2-0
+  West Germany\nHT: 1-0\nFT: 2-0\nGoals:\nDEN 🇩🇰: J.Olsen 44' pen\, E
+ riksen 83'
+URL:https://www.fifa.com/en/match-centre/match/17/68/308/512
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1986
@@ -646,9 +671,9 @@ GEO:19.405833;-98.986944
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Neza 86, Nezahualc
  óyotl";X-APPLE-RADIUS=100;X-TITLE="Estadio Neza 86, Nezahualcóyotl":geo:
  19.405833,-98.986944
-DESCRIPTION:Group E | Matchday 3 | 1986 FIFA World Cup - Mexico\nScotland 0
- -0 Uruguay
-URL:https://en.wikipedia.org/wiki/1986_FIFA_World_Cup
+DESCRIPTION:1986 FIFA World Cup - Mexico\nGroup E | Matchday 3\nScotland 0-
+ 0 Uruguay\nHT: 0-0\nFT: 0-0
+URL:https://www.fifa.com/en/match-centre/match/17/68/308/712
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1986
@@ -664,8 +689,9 @@ GEO:19.303056;-99.150556
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Azteca, Mexico Cit
  y";X-APPLE-RADIUS=100;X-TITLE="Estadio Azteca, Mexico City":geo:19.303056,
  -99.150556
-DESCRIPTION:Round of 16 | 1986 FIFA World Cup - Mexico\nMexico 2-0 Bulgaria
-URL:https://en.wikipedia.org/wiki/1986_FIFA_World_Cup
+DESCRIPTION:1986 FIFA World Cup - Mexico\nRound of 16\nMexico 2-0 Bulgaria\
+ nHT: 1-0\nFT: 2-0\nGoals:\nMEX 🇲🇽: Negrete 35'\, Sarvin 61'
+URL:https://www.fifa.com/en/match-centre/match/17/68/309/463
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1986
@@ -681,9 +707,11 @@ GEO:21.115556;-101.657778
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Nou Camp, León";X
  -APPLE-RADIUS=100;X-TITLE="Estadio Nou Camp, León":geo:21.115556,-101.657
  778
-DESCRIPTION:Round of 16 | 1986 FIFA World Cup - Mexico\nSoviet Union 3-4 Be
- lgium\nFT: 2-2\nAET: 3-4
-URL:https://en.wikipedia.org/wiki/1986_FIFA_World_Cup
+DESCRIPTION:1986 FIFA World Cup - Mexico\nRound of 16\nSoviet Union 3-4 Bel
+ gium\nHT: 1-0\nFT: 2-2\nAET: 3-4\nGoals:\nURS: Belanov 28'\, Belanov 70'\,
+  Belanov 111' pen\nBEL 🇧🇪: Scifo 56'\, Ceulemans 78'\, Demol 102'\, 
+ Claesen 109'
+URL:https://www.fifa.com/en/match-centre/match/17/68/309/432
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1986
@@ -699,9 +727,9 @@ GEO:19.078056;-98.164444
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Cuauhtémoc, Puebl
  a";X-APPLE-RADIUS=100;X-TITLE="Estadio Cuauhtémoc, Puebla":geo:19.078056,
  -98.164444
-DESCRIPTION:Round of 16 | 1986 FIFA World Cup - Mexico\nArgentina 1-0 Urugu
- ay
-URL:https://en.wikipedia.org/wiki/1986_FIFA_World_Cup
+DESCRIPTION:1986 FIFA World Cup - Mexico\nRound of 16\nArgentina 1-0 Urugua
+ y\nHT: 0-0\nFT: 1-0\nGoals:\nARG 🇦🇷: Pasculli 42'
+URL:https://www.fifa.com/en/match-centre/match/17/68/309/398
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1986
@@ -717,8 +745,10 @@ GEO:20.705000;-103.328056
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Jalisco, Guadalaja
  ra";X-APPLE-RADIUS=100;X-TITLE="Estadio Jalisco, Guadalajara":geo:20.70500
  0,-103.328056
-DESCRIPTION:Round of 16 | 1986 FIFA World Cup - Mexico\nBrazil 4-0 Poland
-URL:https://en.wikipedia.org/wiki/1986_FIFA_World_Cup
+DESCRIPTION:1986 FIFA World Cup - Mexico\nRound of 16\nBrazil 4-0 Poland\nH
+ T: 1-0\nFT: 4-0\nGoals:\nBRA 🇧🇷: Socrates 30' pen\, Josimar 54'\, Ed
+ inho 78'\, Careca 82' pen
+URL:https://www.fifa.com/en/match-centre/match/17/68/309/444
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1986
@@ -734,8 +764,9 @@ GEO:19.331944;-99.192222
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Olímpico Universi
  tario, Mexico City";X-APPLE-RADIUS=100;X-TITLE="Estadio Olímpico Universi
  tario, Mexico City":geo:19.331944,-99.192222
-DESCRIPTION:Round of 16 | 1986 FIFA World Cup - Mexico\nItaly 0-2 France
-URL:https://en.wikipedia.org/wiki/1986_FIFA_World_Cup
+DESCRIPTION:1986 FIFA World Cup - Mexico\nRound of 16\nItaly 0-2 France\nHT
+ : 0-1\nFT: 0-2\nGoals:\nFRA 🇫🇷: Platini 16'\, Stopyra 56'
+URL:https://www.fifa.com/en/match-centre/match/17/68/309/568
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1986
@@ -751,9 +782,9 @@ GEO:25.723000;-100.312000
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Universitario, Mon
  terrey";X-APPLE-RADIUS=100;X-TITLE="Estadio Universitario, Monterrey":geo:
  25.723000,-100.312000
-DESCRIPTION:Round of 16 | 1986 FIFA World Cup - Mexico\nMorocco 0-1 West Ge
- rmany
-URL:https://en.wikipedia.org/wiki/1986_FIFA_World_Cup
+DESCRIPTION:1986 FIFA World Cup - Mexico\nRound of 16\nMorocco 0-1 West Ger
+ many\nHT: 0-0\nFT: 0-1\nGoals:\nFRG 🇩🇪: Matthäus 89'
+URL:https://www.fifa.com/en/match-centre/match/17/68/309/574
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1986
@@ -769,9 +800,10 @@ GEO:19.303056;-99.150556
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Azteca, Mexico Cit
  y";X-APPLE-RADIUS=100;X-TITLE="Estadio Azteca, Mexico City":geo:19.303056,
  -99.150556
-DESCRIPTION:Round of 16 | 1986 FIFA World Cup - Mexico\nEngland 3-0 Paragua
- y
-URL:https://en.wikipedia.org/wiki/1986_FIFA_World_Cup
+DESCRIPTION:1986 FIFA World Cup - Mexico\nRound of 16\nEngland 3-0 Paraguay
+ \nHT: 1-0\nFT: 3-0\nGoals:\nENG 🏴󠁧󠁢󠁥󠁮󠁧󠁿: Lineker 32'\
+ , Beardsley 56'\, Lineker 72'
+URL:https://www.fifa.com/en/match-centre/match/17/68/309/536
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1986
@@ -787,8 +819,11 @@ GEO:20.577778;-100.366389
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio La Corregidora, Qu
  erétaro";X-APPLE-RADIUS=100;X-TITLE="Estadio La Corregidora, Querétaro":
  geo:20.577778,-100.366389
-DESCRIPTION:Round of 16 | 1986 FIFA World Cup - Mexico\nDenmark 1-5 Spain
-URL:https://en.wikipedia.org/wiki/1986_FIFA_World_Cup
+DESCRIPTION:1986 FIFA World Cup - Mexico\nRound of 16\nDenmark 1-5 Spain\nH
+ T: 1-1\nFT: 1-5\nGoals:\nDEN 🇩🇰: J.Olsen 33' pen\nESP 🇪🇸: Butr
+ agueno 43'\, Butragueno 56'\, Goicoechea 69' pen\, Butragueno 80'\, Butrag
+ ueno 90' pen
+URL:https://www.fifa.com/en/match-centre/match/17/68/309/511
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1986
@@ -804,9 +839,10 @@ GEO:20.705000;-103.328056
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Jalisco, Guadalaja
  ra";X-APPLE-RADIUS=100;X-TITLE="Estadio Jalisco, Guadalajara":geo:20.70500
  0,-103.328056
-DESCRIPTION:Quarter-finals | 1986 FIFA World Cup - Mexico\nBrazil 1-1 Franc
- e\nFT: 1-1\nAET: 1-1\nPenalties: 3-4
-URL:https://en.wikipedia.org/wiki/1986_FIFA_World_Cup
+DESCRIPTION:1986 FIFA World Cup - Mexico\nQuarter-finals\nBrazil 1-1 France
+ \nHT: 1-1\nFT: 1-1\nAET: 1-1\nPenalties: 3-4\nGoals:\nBRA 🇧🇷: Careca
+  18'\nFRA 🇫🇷: Platini 42'
+URL:https://www.fifa.com/en/match-centre/match/17/68/714/440
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1986
@@ -822,9 +858,9 @@ GEO:25.723000;-100.312000
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Universitario, Mon
  terrey";X-APPLE-RADIUS=100;X-TITLE="Estadio Universitario, Monterrey":geo:
  25.723000,-100.312000
-DESCRIPTION:Quarter-finals | 1986 FIFA World Cup - Mexico\nWest Germany 0-0
-  Mexico\nFT: 0-0\nAET: 0-0\nPenalties: 4-1
-URL:https://en.wikipedia.org/wiki/1986_FIFA_World_Cup
+DESCRIPTION:1986 FIFA World Cup - Mexico\nQuarter-finals\nWest Germany 0-0 
+ Mexico\nHT: 0-0\nFT: 0-0\nAET: 0-0\nPenalties: 4-1
+URL:https://www.fifa.com/en/match-centre/match/17/68/714/575
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1986
@@ -840,9 +876,10 @@ GEO:19.078056;-98.164444
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Cuauhtémoc, Puebl
  a";X-APPLE-RADIUS=100;X-TITLE="Estadio Cuauhtémoc, Puebla":geo:19.078056,
  -98.164444
-DESCRIPTION:Quarter-finals | 1986 FIFA World Cup - Mexico\nSpain 1-1 Belgiu
- m\nFT: 1-1\nAET: 1-1\nPenalties: 4-5
-URL:https://en.wikipedia.org/wiki/1986_FIFA_World_Cup
+DESCRIPTION:1986 FIFA World Cup - Mexico\nQuarter-finals\nSpain 1-1 Belgium
+ \nHT: 0-1\nFT: 1-1\nAET: 1-1\nPenalties: 4-5\nGoals:\nESP 🇪🇸: Señor
+  85'\nBEL 🇧🇪: Ceulemans 34'
+URL:https://www.fifa.com/en/match-centre/match/17/68/714/421
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1986
@@ -858,9 +895,10 @@ GEO:19.303056;-99.150556
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Azteca, Mexico Cit
  y";X-APPLE-RADIUS=100;X-TITLE="Estadio Azteca, Mexico City":geo:19.303056,
  -99.150556
-DESCRIPTION:Quarter-finals | 1986 FIFA World Cup - Mexico\nArgentina 2-1 En
- gland
-URL:https://en.wikipedia.org/wiki/1986_FIFA_World_Cup
+DESCRIPTION:1986 FIFA World Cup - Mexico\nQuarter-finals\nArgentina 2-1 Eng
+ land\nHT: 0-0\nFT: 2-1\nGoals:\nARG 🇦🇷: Maradona 51'\, Maradona 56'\
+ nENG 🏴󠁧󠁢󠁥󠁮󠁧󠁿: Lineker 81'
+URL:https://www.fifa.com/en/match-centre/match/17/68/714/392
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1986
@@ -876,9 +914,9 @@ GEO:19.303056;-99.150556
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Azteca, Mexico Cit
  y";X-APPLE-RADIUS=100;X-TITLE="Estadio Azteca, Mexico City":geo:19.303056,
  -99.150556
-DESCRIPTION:Semi-finals | 1986 FIFA World Cup - Mexico\nArgentina 2-0 Belgi
- um
-URL:https://en.wikipedia.org/wiki/1986_FIFA_World_Cup
+DESCRIPTION:1986 FIFA World Cup - Mexico\nSemi-finals\nArgentina 2-0 Belgiu
+ m\nFT: 2-0
+URL:https://www.fifa.com/en/match-centre/match/17/68/3469/388
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1986
@@ -894,9 +932,9 @@ GEO:20.705000;-103.328056
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Jalisco, Guadalaja
  ra";X-APPLE-RADIUS=100;X-TITLE="Estadio Jalisco, Guadalajara":geo:20.70500
  0,-103.328056
-DESCRIPTION:Semi-finals | 1986 FIFA World Cup - Mexico\nFrance 0-2 West Ger
- many
-URL:https://en.wikipedia.org/wiki/1986_FIFA_World_Cup
+DESCRIPTION:1986 FIFA World Cup - Mexico\nSemi-finals\nFrance 0-2 West Germ
+ any\nHT: 0-1\nFT: 0-2\nGoals:\nFRG 🇩🇪: Brehme 9'\, Völler 90'
+URL:https://www.fifa.com/en/match-centre/match/17/68/3469/564
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1986
@@ -912,9 +950,11 @@ GEO:19.078056;-98.164444
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Cuauhtémoc, Puebl
  a";X-APPLE-RADIUS=100;X-TITLE="Estadio Cuauhtémoc, Puebla":geo:19.078056,
  -98.164444
-DESCRIPTION:Third place match | 1986 FIFA World Cup - Mexico\nFrance 4-2 Be
- lgium\nFT: 2-2\nAET: 4-2
-URL:https://en.wikipedia.org/wiki/1986_FIFA_World_Cup
+DESCRIPTION:1986 FIFA World Cup - Mexico\nThird place match\nFrance 4-2 Bel
+ gium\nHT: 2-1\nFT: 2-2\nAET: 4-2\nGoals:\nFRA 🇫🇷: Ferreri 27'\, Papi
+ n 43'\, Genghini 103'\, Amoros 109' pen\nBEL 🇧🇪: Ceulemans 11'\, Cla
+ esen 73'
+URL:https://www.fifa.com/en/match-centre/match/17/68/3468/422
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1986
@@ -930,9 +970,10 @@ GEO:19.303056;-99.150556
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Azteca, Mexico Cit
  y";X-APPLE-RADIUS=100;X-TITLE="Estadio Azteca, Mexico City":geo:19.303056,
  -99.150556
-DESCRIPTION:Final | 1986 FIFA World Cup - Mexico\nArgentina 3-2 West German
- y
-URL:https://en.wikipedia.org/wiki/1986_FIFA_World_Cup
+DESCRIPTION:1986 FIFA World Cup - Mexico\nFinal\nArgentina 3-2 West Germany
+ \nHT: 1-0\nFT: 3-2\nGoals:\nARG 🇦🇷: Brown 23'\, Valdano 56'\, Burruc
+ haga 88'\nFRG 🇩🇪: Rummenige 74'\, Völler 82'
+URL:https://www.fifa.com/en/match-centre/match/17/68/3467/393
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1986

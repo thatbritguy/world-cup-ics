@@ -11,10 +11,30 @@
         "ft": [
           1,
           1
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group A",
-      "ground": "Soccer City, Johannesburg"
+      "ground": "Soccer City, Johannesburg",
+      "goals1": [
+        {
+          "name": "Siphiwe Tshabalala",
+          "minute": 55
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Rafael Márquez",
+          "minute": 79
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 1",
@@ -26,10 +46,20 @@
         "ft": [
           0,
           0
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group A",
-      "ground": "Cape Town Stadium, Cape Town"
+      "ground": "Cape Town Stadium, Cape Town",
+      "goals1": [],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 6",
@@ -41,10 +71,34 @@
         "ft": [
           0,
           3
+        ],
+        "ht": [
+          0,
+          1
         ]
       },
       "group": "Group A",
-      "ground": "Loftus Versfeld Stadium, Pretoria"
+      "ground": "Loftus Versfeld Stadium, Pretoria",
+      "goals1": [],
+      "goals2": [
+        {
+          "name": "Diego Forlán",
+          "minute": 24
+        },
+        {
+          "name": "Diego Forlán",
+          "minute": 80,
+          "penalty": true
+        },
+        {
+          "name": "Álvaro Pereira",
+          "minute": 90
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 7",
@@ -56,10 +110,30 @@
         "ft": [
           0,
           2
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group A",
-      "ground": "Peter Mokaba Stadium, Polokwane"
+      "ground": "Peter Mokaba Stadium, Polokwane",
+      "goals1": [],
+      "goals2": [
+        {
+          "name": "Javier Hernández",
+          "minute": 64
+        },
+        {
+          "name": "Cuauhtémoc Blanco",
+          "minute": 79,
+          "penalty": true
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 12",
@@ -71,10 +145,25 @@
         "ft": [
           0,
           1
+        ],
+        "ht": [
+          0,
+          1
         ]
       },
       "group": "Group A",
-      "ground": "Royal Bafokeng Stadium, Rustenburg"
+      "ground": "Royal Bafokeng Stadium, Rustenburg",
+      "goals1": [],
+      "goals2": [
+        {
+          "name": "Luis Suárez",
+          "minute": 43
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 12",
@@ -86,10 +175,34 @@
         "ft": [
           1,
           2
+        ],
+        "ht": [
+          0,
+          2
         ]
       },
       "group": "Group A",
-      "ground": "Free State Stadium, Bloemfontein"
+      "ground": "Free State Stadium, Bloemfontein",
+      "goals1": [
+        {
+          "name": "Florent Malouda",
+          "minute": 70
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Bongani Khumalo",
+          "minute": 20
+        },
+        {
+          "name": "Katlego Mphela",
+          "minute": 37
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 2",
@@ -101,10 +214,29 @@
         "ft": [
           2,
           0
+        ],
+        "ht": [
+          1,
+          0
         ]
       },
       "group": "Group B",
-      "ground": "Nelson Mandela Bay Stadium, Port Elizabeth"
+      "ground": "Nelson Mandela Bay Stadium, Port Elizabeth",
+      "goals1": [
+        {
+          "name": "Lee Jung-Soo",
+          "minute": 7
+        },
+        {
+          "name": "Park Ji-Sung",
+          "minute": 52
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 2",
@@ -116,10 +248,25 @@
         "ft": [
           1,
           0
+        ],
+        "ht": [
+          1,
+          0
         ]
       },
       "group": "Group B",
-      "ground": "Ellis Park Stadium, Johannesburg"
+      "ground": "Ellis Park Stadium, Johannesburg",
+      "goals1": [
+        {
+          "name": "Gabriel Heinze",
+          "minute": 6
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 7",
@@ -131,10 +278,43 @@
         "ft": [
           4,
           1
+        ],
+        "ht": [
+          2,
+          1
         ]
       },
       "group": "Group B",
-      "ground": "Soccer City, Johannesburg"
+      "ground": "Soccer City, Johannesburg",
+      "goals1": [
+        {
+          "name": "Park Chu-Young",
+          "minute": 16,
+          "owngoal": true
+        },
+        {
+          "name": "Gonzalo Higuaín",
+          "minute": 33
+        },
+        {
+          "name": "Gonzalo Higuaín",
+          "minute": 76
+        },
+        {
+          "name": "Gonzalo Higuaín",
+          "minute": 80
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Lee Chung-Yong",
+          "minute": 45
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 7",
@@ -146,10 +326,34 @@
         "ft": [
           2,
           1
+        ],
+        "ht": [
+          1,
+          1
         ]
       },
       "group": "Group B",
-      "ground": "Free State Stadium, Bloemfontein"
+      "ground": "Free State Stadium, Bloemfontein",
+      "goals1": [
+        {
+          "name": "Dhimítris Salpingyídhis",
+          "minute": 44
+        },
+        {
+          "name": "Vasílyis Torosídhis",
+          "minute": 71
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Kalu Uche",
+          "minute": 16
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 12",
@@ -161,10 +365,39 @@
         "ft": [
           2,
           2
+        ],
+        "ht": [
+          1,
+          1
         ]
       },
       "group": "Group B",
-      "ground": "Moses Mabhida Stadium, Durban"
+      "ground": "Moses Mabhida Stadium, Durban",
+      "goals1": [
+        {
+          "name": "Kalu Uche",
+          "minute": 12
+        },
+        {
+          "name": "Yakubu Aiyegbeni",
+          "minute": 69,
+          "penalty": true
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Lee Jung-Soo",
+          "minute": 38
+        },
+        {
+          "name": "Park Chu-Young",
+          "minute": 49
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 12",
@@ -176,10 +409,29 @@
         "ft": [
           0,
           2
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group B",
-      "ground": "Peter Mokaba Stadium, Polokwane"
+      "ground": "Peter Mokaba Stadium, Polokwane",
+      "goals1": [],
+      "goals2": [
+        {
+          "name": "Martín Demichelis",
+          "minute": 77
+        },
+        {
+          "name": "Martín Palermo",
+          "minute": 89
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 2",
@@ -191,10 +443,30 @@
         "ft": [
           1,
           1
+        ],
+        "ht": [
+          1,
+          1
         ]
       },
       "group": "Group C",
-      "ground": "Royal Bafokeng Stadium, Rustenburg"
+      "ground": "Royal Bafokeng Stadium, Rustenburg",
+      "goals1": [
+        {
+          "name": "Steven Gerrard",
+          "minute": 4
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Clint Dempsey",
+          "minute": 40
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 3",
@@ -206,10 +478,25 @@
         "ft": [
           0,
           1
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group C",
-      "ground": "Peter Mokaba Stadium, Polokwane"
+      "ground": "Peter Mokaba Stadium, Polokwane",
+      "goals1": [],
+      "goals2": [
+        {
+          "name": "Robert Koren",
+          "minute": 79
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 8",
@@ -221,10 +508,38 @@
         "ft": [
           2,
           2
+        ],
+        "ht": [
+          2,
+          0
         ]
       },
       "group": "Group C",
-      "ground": "Ellis Park Stadium, Johannesburg"
+      "ground": "Ellis Park Stadium, Johannesburg",
+      "goals1": [
+        {
+          "name": "Valter Birsa",
+          "minute": 13
+        },
+        {
+          "name": "Zlatan Ljubijankič",
+          "minute": 42
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Landon Donovan",
+          "minute": 48
+        },
+        {
+          "name": "Michael Bradley",
+          "minute": 82
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 8",
@@ -236,10 +551,20 @@
         "ft": [
           0,
           0
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group C",
-      "ground": "Cape Town Stadium, Cape Town"
+      "ground": "Cape Town Stadium, Cape Town",
+      "goals1": [],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 13",
@@ -251,10 +576,25 @@
         "ft": [
           1,
           0
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group C",
-      "ground": "Loftus Versfeld Stadium, Pretoria"
+      "ground": "Loftus Versfeld Stadium, Pretoria",
+      "goals1": [
+        {
+          "name": "Landon Donovan",
+          "minute": 90
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 13",
@@ -266,10 +606,25 @@
         "ft": [
           0,
           1
+        ],
+        "ht": [
+          0,
+          1
         ]
       },
       "group": "Group C",
-      "ground": "Nelson Mandela Bay Stadium, Port Elizabeth"
+      "ground": "Nelson Mandela Bay Stadium, Port Elizabeth",
+      "goals1": [],
+      "goals2": [
+        {
+          "name": "Jermain Defoe",
+          "minute": 22
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 3",
@@ -281,10 +636,26 @@
         "ft": [
           0,
           1
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group D",
-      "ground": "Loftus Versfeld Stadium, Pretoria"
+      "ground": "Loftus Versfeld Stadium, Pretoria",
+      "goals1": [],
+      "goals2": [
+        {
+          "name": "Asamoah Gyan",
+          "minute": 84,
+          "penalty": true
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 3",
@@ -296,10 +667,37 @@
         "ft": [
           4,
           0
+        ],
+        "ht": [
+          2,
+          0
         ]
       },
       "group": "Group D",
-      "ground": "Moses Mabhida Stadium, Durban"
+      "ground": "Moses Mabhida Stadium, Durban",
+      "goals1": [
+        {
+          "name": "Lukas Podolski",
+          "minute": 8
+        },
+        {
+          "name": "Miroslav Klose",
+          "minute": 26
+        },
+        {
+          "name": "Thomas Müller",
+          "minute": 68
+        },
+        {
+          "name": "Claudemir Barreto 'Cacau'",
+          "minute": 70
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 8",
@@ -311,10 +709,25 @@
         "ft": [
           0,
           1
+        ],
+        "ht": [
+          0,
+          1
         ]
       },
       "group": "Group D",
-      "ground": "Nelson Mandela Bay Stadium, Port Elizabeth"
+      "ground": "Nelson Mandela Bay Stadium, Port Elizabeth",
+      "goals1": [],
+      "goals2": [
+        {
+          "name": "Milan Jovanović",
+          "minute": 38
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 9",
@@ -326,10 +739,31 @@
         "ft": [
           1,
           1
+        ],
+        "ht": [
+          1,
+          1
         ]
       },
       "group": "Group D",
-      "ground": "Royal Bafokeng Stadium, Rustenburg"
+      "ground": "Royal Bafokeng Stadium, Rustenburg",
+      "goals1": [
+        {
+          "name": "Asamoah Gyan",
+          "minute": 25,
+          "penalty": true
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Brett Holman",
+          "minute": 11
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 13",
@@ -341,10 +775,34 @@
         "ft": [
           2,
           1
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group D",
-      "ground": "Mbombela Stadium, Nelspruit"
+      "ground": "Mbombela Stadium, Nelspruit",
+      "goals1": [
+        {
+          "name": "Tim Cahill",
+          "minute": 69
+        },
+        {
+          "name": "Brett Holman",
+          "minute": 73
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Marko Pantelić",
+          "minute": 84
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 13",
@@ -356,10 +814,25 @@
         "ft": [
           0,
           1
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group D",
-      "ground": "Soccer City, Johannesburg"
+      "ground": "Soccer City, Johannesburg",
+      "goals1": [],
+      "goals2": [
+        {
+          "name": "Mesut Özil",
+          "minute": 60
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 4",
@@ -371,10 +844,30 @@
         "ft": [
           2,
           0
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group E",
-      "ground": "Soccer City, Johannesburg"
+      "ground": "Soccer City, Johannesburg",
+      "goals1": [
+        {
+          "name": "Daniel Agger",
+          "minute": 46,
+          "owngoal": true
+        },
+        {
+          "name": "Dirk Kuĳt",
+          "minute": 85
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 4",
@@ -386,10 +879,25 @@
         "ft": [
           1,
           0
+        ],
+        "ht": [
+          1,
+          0
         ]
       },
       "group": "Group E",
-      "ground": "Free State Stadium, Bloemfontein"
+      "ground": "Free State Stadium, Bloemfontein",
+      "goals1": [
+        {
+          "name": "Keisuke Honda",
+          "minute": 38
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 9",
@@ -401,10 +909,25 @@
         "ft": [
           1,
           0
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group E",
-      "ground": "Moses Mabhida Stadium, Durban"
+      "ground": "Moses Mabhida Stadium, Durban",
+      "goals1": [
+        {
+          "name": "Wesley Sneĳder",
+          "minute": 53
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 9",
@@ -416,10 +939,34 @@
         "ft": [
           1,
           2
+        ],
+        "ht": [
+          1,
+          1
         ]
       },
       "group": "Group E",
-      "ground": "Loftus Versfeld Stadium, Pretoria"
+      "ground": "Loftus Versfeld Stadium, Pretoria",
+      "goals1": [
+        {
+          "name": "Samuel Eto'o",
+          "minute": 10
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Nicklas Bendtner",
+          "minute": 33
+        },
+        {
+          "name": "Dennis Rommedahl",
+          "minute": 61
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 14",
@@ -431,10 +978,38 @@
         "ft": [
           1,
           3
+        ],
+        "ht": [
+          0,
+          2
         ]
       },
       "group": "Group E",
-      "ground": "Royal Bafokeng Stadium, Rustenburg"
+      "ground": "Royal Bafokeng Stadium, Rustenburg",
+      "goals1": [
+        {
+          "name": "Jon Dahl Tomasson",
+          "minute": 81
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Keisuke Honda",
+          "minute": 17
+        },
+        {
+          "name": "Yasuhito Endo",
+          "minute": 30
+        },
+        {
+          "name": "Shinji Okazaki",
+          "minute": 87
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 14",
@@ -446,10 +1021,35 @@
         "ft": [
           1,
           2
+        ],
+        "ht": [
+          0,
+          1
         ]
       },
       "group": "Group E",
-      "ground": "Cape Town Stadium, Cape Town"
+      "ground": "Cape Town Stadium, Cape Town",
+      "goals1": [
+        {
+          "name": "Samuel Eto'o",
+          "minute": 65,
+          "penalty": true
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Robin van Persie",
+          "minute": 36
+        },
+        {
+          "name": "Klaas-Jan Huntelaar",
+          "minute": 83
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 4",
@@ -461,10 +1061,30 @@
         "ft": [
           1,
           1
+        ],
+        "ht": [
+          0,
+          1
         ]
       },
       "group": "Group F",
-      "ground": "Cape Town Stadium, Cape Town"
+      "ground": "Cape Town Stadium, Cape Town",
+      "goals1": [
+        {
+          "name": "Daniele De Rossi",
+          "minute": 63
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Antolín Alcaraz",
+          "minute": 39
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 5",
@@ -476,10 +1096,30 @@
         "ft": [
           1,
           1
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group F",
-      "ground": "Royal Bafokeng Stadium, Rustenburg"
+      "ground": "Royal Bafokeng Stadium, Rustenburg",
+      "goals1": [
+        {
+          "name": "Winston Reid",
+          "minute": 90
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Róbert Vittek",
+          "minute": 50
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 10",
@@ -491,10 +1131,29 @@
         "ft": [
           0,
           2
+        ],
+        "ht": [
+          0,
+          1
         ]
       },
       "group": "Group F",
-      "ground": "Free State Stadium, Bloemfontein"
+      "ground": "Free State Stadium, Bloemfontein",
+      "goals1": [],
+      "goals2": [
+        {
+          "name": "Enrique Vera",
+          "minute": 27
+        },
+        {
+          "name": "Cristian Riveros",
+          "minute": 86
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 10",
@@ -506,10 +1165,31 @@
         "ft": [
           1,
           1
+        ],
+        "ht": [
+          1,
+          1
         ]
       },
       "group": "Group F",
-      "ground": "Mbombela Stadium, Nelspruit"
+      "ground": "Mbombela Stadium, Nelspruit",
+      "goals1": [
+        {
+          "name": "Vincenzo Iaquinta",
+          "minute": 29,
+          "penalty": true
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Shane Smeltz",
+          "minute": 7
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 14",
@@ -521,10 +1201,42 @@
         "ft": [
           3,
           2
+        ],
+        "ht": [
+          1,
+          0
         ]
       },
       "group": "Group F",
-      "ground": "Ellis Park Stadium, Johannesburg"
+      "ground": "Ellis Park Stadium, Johannesburg",
+      "goals1": [
+        {
+          "name": "Róbert Vittek",
+          "minute": 25
+        },
+        {
+          "name": "Róbert Vittek",
+          "minute": 73
+        },
+        {
+          "name": "Kamil Kopúnek",
+          "minute": 89
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Antonio Di Natale",
+          "minute": 81
+        },
+        {
+          "name": "Fabio Quagliarella",
+          "minute": 90
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 14",
@@ -536,10 +1248,20 @@
         "ft": [
           0,
           0
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group F",
-      "ground": "Peter Mokaba Stadium, Polokwane"
+      "ground": "Peter Mokaba Stadium, Polokwane",
+      "goals1": [],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 5",
@@ -551,10 +1273,20 @@
         "ft": [
           0,
           0
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group G",
-      "ground": "Nelson Mandela Bay Stadium, Port Elizabeth"
+      "ground": "Nelson Mandela Bay Stadium, Port Elizabeth",
+      "goals1": [],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 5",
@@ -566,10 +1298,34 @@
         "ft": [
           2,
           1
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group G",
-      "ground": "Ellis Park Stadium, Johannesburg"
+      "ground": "Ellis Park Stadium, Johannesburg",
+      "goals1": [
+        {
+          "name": "Maicon Sisenando",
+          "minute": 55
+        },
+        {
+          "name": "Elano Blumer",
+          "minute": 72
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Ji Yun-Nam",
+          "minute": 89
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 10",
@@ -581,10 +1337,38 @@
         "ft": [
           3,
           1
+        ],
+        "ht": [
+          1,
+          0
         ]
       },
       "group": "Group G",
-      "ground": "Soccer City, Johannesburg"
+      "ground": "Soccer City, Johannesburg",
+      "goals1": [
+        {
+          "name": "Luís Fabiano Clemente",
+          "minute": 25
+        },
+        {
+          "name": "Luís Fabiano Clemente",
+          "minute": 50
+        },
+        {
+          "name": "Elano Blumer",
+          "minute": 62
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Didier Drogba",
+          "minute": 79
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 11",
@@ -596,10 +1380,49 @@
         "ft": [
           7,
           0
+        ],
+        "ht": [
+          1,
+          0
         ]
       },
       "group": "Group G",
-      "ground": "Cape Town Stadium, Cape Town"
+      "ground": "Cape Town Stadium, Cape Town",
+      "goals1": [
+        {
+          "name": "Raul Meireles",
+          "minute": 29
+        },
+        {
+          "name": "Simão Sabrosa",
+          "minute": 53
+        },
+        {
+          "name": "Hugo Almeida",
+          "minute": 56
+        },
+        {
+          "name": "Tiago Mendes",
+          "minute": 60
+        },
+        {
+          "name": "Tiago Mendes",
+          "minute": 89
+        },
+        {
+          "name": "Liédson Muniz",
+          "minute": 81
+        },
+        {
+          "name": "Cristiano Ronaldo Aveiro",
+          "minute": 87
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 15",
@@ -611,10 +1434,20 @@
         "ft": [
           0,
           0
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group G",
-      "ground": "Moses Mabhida Stadium, Durban"
+      "ground": "Moses Mabhida Stadium, Durban",
+      "goals1": [],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 15",
@@ -626,10 +1459,33 @@
         "ft": [
           0,
           3
+        ],
+        "ht": [
+          0,
+          2
         ]
       },
       "group": "Group G",
-      "ground": "Mbombela Stadium, Nelspruit"
+      "ground": "Mbombela Stadium, Nelspruit",
+      "goals1": [],
+      "goals2": [
+        {
+          "name": "Yaya Touré",
+          "minute": 14
+        },
+        {
+          "name": "Romaric N'Dri",
+          "minute": 20
+        },
+        {
+          "name": "Salomon Kalou",
+          "minute": 82
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 6",
@@ -641,10 +1497,25 @@
         "ft": [
           0,
           1
+        ],
+        "ht": [
+          0,
+          1
         ]
       },
       "group": "Group H",
-      "ground": "Mbombela Stadium, Nelspruit"
+      "ground": "Mbombela Stadium, Nelspruit",
+      "goals1": [],
+      "goals2": [
+        {
+          "name": "Jean Beausejour",
+          "minute": 34
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 6",
@@ -656,10 +1527,25 @@
         "ft": [
           0,
           1
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group H",
-      "ground": "Moses Mabhida Stadium, Durban"
+      "ground": "Moses Mabhida Stadium, Durban",
+      "goals1": [],
+      "goals2": [
+        {
+          "name": "Gelson Fernandes",
+          "minute": 52
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 11",
@@ -671,10 +1557,25 @@
         "ft": [
           1,
           0
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group H",
-      "ground": "Nelson Mandela Bay Stadium, Port Elizabeth"
+      "ground": "Nelson Mandela Bay Stadium, Port Elizabeth",
+      "goals1": [
+        {
+          "name": "Mark González",
+          "minute": 75
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 11",
@@ -686,10 +1587,29 @@
         "ft": [
           2,
           0
+        ],
+        "ht": [
+          1,
+          0
         ]
       },
       "group": "Group H",
-      "ground": "Ellis Park Stadium, Johannesburg"
+      "ground": "Ellis Park Stadium, Johannesburg",
+      "goals1": [
+        {
+          "name": "David Villa",
+          "minute": 17
+        },
+        {
+          "name": "David Villa",
+          "minute": 51
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 15",
@@ -701,10 +1621,35 @@
         "ft": [
           1,
           2
+        ],
+        "ht": [
+          0,
+          2
         ]
       },
       "group": "Group H",
-      "ground": "Loftus Versfeld Stadium, Pretoria"
+      "ground": "Loftus Versfeld Stadium, Pretoria",
+      "goals1": [
+        {
+          "name": "Gerard Piqué",
+          "minute": 47,
+          "owngoal": true
+        }
+      ],
+      "goals2": [
+        {
+          "name": "David Villa",
+          "minute": 24
+        },
+        {
+          "name": "Andrés Iniesta",
+          "minute": 37
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 15",
@@ -716,10 +1661,20 @@
         "ft": [
           0,
           0
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group H",
-      "ground": "Free State Stadium, Bloemfontein"
+      "ground": "Free State Stadium, Bloemfontein",
+      "goals1": [],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Round of 16",
@@ -731,9 +1686,33 @@
         "ft": [
           2,
           1
+        ],
+        "ht": [
+          1,
+          0
         ]
       },
-      "ground": "Nelson Mandela Bay Stadium, Port Elizabeth"
+      "ground": "Nelson Mandela Bay Stadium, Port Elizabeth",
+      "goals1": [
+        {
+          "name": "Luis Suárez",
+          "minute": 8
+        },
+        {
+          "name": "Luis Suárez",
+          "minute": 80
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Lee Chung-Yong",
+          "minute": 68
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Round of 16",
@@ -749,9 +1728,34 @@
         "ft": [
           1,
           1
+        ],
+        "ht": [
+          0,
+          1
         ]
       },
-      "ground": "Royal Bafokeng Stadium, Rustenburg"
+      "ground": "Royal Bafokeng Stadium, Rustenburg",
+      "goals1": [
+        {
+          "name": "Landon Donovan",
+          "minute": 62,
+          "penalty": true
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Kevin-Prince Boateng",
+          "minute": 5
+        },
+        {
+          "name": "Asamoah Gyan",
+          "minute": 93
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Round of 16",
@@ -763,9 +1767,41 @@
         "ft": [
           4,
           1
+        ],
+        "ht": [
+          2,
+          1
         ]
       },
-      "ground": "Free State Stadium, Bloemfontein"
+      "ground": "Free State Stadium, Bloemfontein",
+      "goals1": [
+        {
+          "name": "Miroslav Klose",
+          "minute": 20
+        },
+        {
+          "name": "Lukas Podolski",
+          "minute": 32
+        },
+        {
+          "name": "Thomas Müller",
+          "minute": 67
+        },
+        {
+          "name": "Thomas Müller",
+          "minute": 70
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Matthew Upson",
+          "minute": 37
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Round of 16",
@@ -777,9 +1813,37 @@
         "ft": [
           3,
           1
+        ],
+        "ht": [
+          2,
+          0
         ]
       },
-      "ground": "Soccer City, Johannesburg"
+      "ground": "Soccer City, Johannesburg",
+      "goals1": [
+        {
+          "name": "Carlos Tévez",
+          "minute": 25
+        },
+        {
+          "name": "Carlos Tévez",
+          "minute": 52
+        },
+        {
+          "name": "Gonzalo Higuaín",
+          "minute": 33
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Javier Hernández",
+          "minute": 71
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Round of 16",
@@ -791,9 +1855,33 @@
         "ft": [
           2,
           1
+        ],
+        "ht": [
+          1,
+          0
         ]
       },
-      "ground": "Moses Mabhida Stadium, Durban"
+      "ground": "Moses Mabhida Stadium, Durban",
+      "goals1": [
+        {
+          "name": "Arjen Robben",
+          "minute": 18
+        },
+        {
+          "name": "Wesley Sneĳder",
+          "minute": 84
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Róbert Vittek",
+          "minute": 90
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Round of 16",
@@ -805,9 +1893,32 @@
         "ft": [
           3,
           0
+        ],
+        "ht": [
+          2,
+          0
         ]
       },
-      "ground": "Ellis Park Stadium, Johannesburg"
+      "ground": "Ellis Park Stadium, Johannesburg",
+      "goals1": [
+        {
+          "name": "Juan dos Santos",
+          "minute": 34
+        },
+        {
+          "name": "Luís Fabiano Clemente",
+          "minute": 38
+        },
+        {
+          "name": "Róbson de Souza 'Robinho'",
+          "minute": 59
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Round of 16",
@@ -827,9 +1938,19 @@
         "ft": [
           0,
           0
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
-      "ground": "Loftus Versfeld Stadium, Pretoria"
+      "ground": "Loftus Versfeld Stadium, Pretoria",
+      "goals1": [],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Round of 16",
@@ -841,9 +1962,24 @@
         "ft": [
           1,
           0
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
-      "ground": "Cape Town Stadium, Cape Town"
+      "ground": "Cape Town Stadium, Cape Town",
+      "goals1": [
+        {
+          "name": "David Villa",
+          "minute": 63
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Quarterfinals",
@@ -855,9 +1991,33 @@
         "ft": [
           2,
           1
+        ],
+        "ht": [
+          0,
+          1
         ]
       },
-      "ground": "Nelson Mandela Bay Stadium, Port Elizabeth"
+      "ground": "Nelson Mandela Bay Stadium, Port Elizabeth",
+      "goals1": [
+        {
+          "name": "Wesley Sneĳder",
+          "minute": 53
+        },
+        {
+          "name": "Wesley Sneĳder",
+          "minute": 68
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Róbson de Souza 'Robinho'",
+          "minute": 10
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Quarterfinals",
@@ -877,9 +2037,29 @@
         "ft": [
           1,
           1
+        ],
+        "ht": [
+          0,
+          1
         ]
       },
-      "ground": "Soccer City, Johannesburg"
+      "ground": "Soccer City, Johannesburg",
+      "goals1": [
+        {
+          "name": "Diego Forlán",
+          "minute": 55
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Sulley Muntari",
+          "minute": 45
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Quarterfinals",
@@ -891,9 +2071,36 @@
         "ft": [
           0,
           4
+        ],
+        "ht": [
+          0,
+          1
         ]
       },
-      "ground": "Cape Town Stadium, Cape Town"
+      "ground": "Cape Town Stadium, Cape Town",
+      "goals1": [],
+      "goals2": [
+        {
+          "name": "Thomas Müller",
+          "minute": 3
+        },
+        {
+          "name": "Miroslav Klose",
+          "minute": 68
+        },
+        {
+          "name": "Miroslav Klose",
+          "minute": 89
+        },
+        {
+          "name": "Arne Friedrich",
+          "minute": 74
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Quarterfinals",
@@ -905,9 +2112,24 @@
         "ft": [
           0,
           1
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
-      "ground": "Ellis Park Stadium, Johannesburg"
+      "ground": "Ellis Park Stadium, Johannesburg",
+      "goals1": [],
+      "goals2": [
+        {
+          "name": "David Villa",
+          "minute": 83
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Semifinals",
@@ -919,9 +2141,41 @@
         "ft": [
           2,
           3
+        ],
+        "ht": [
+          1,
+          1
         ]
       },
-      "ground": "Cape Town Stadium, Cape Town"
+      "ground": "Cape Town Stadium, Cape Town",
+      "goals1": [
+        {
+          "name": "Diego Forlán",
+          "minute": 41
+        },
+        {
+          "name": "Maxi Pereira",
+          "minute": 90
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Giovanni van Bronckhorst",
+          "minute": 18
+        },
+        {
+          "name": "Wesley Sneĳder",
+          "minute": 70
+        },
+        {
+          "name": "Arjen Robben",
+          "minute": 73
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Semifinals",
@@ -933,9 +2187,24 @@
         "ft": [
           0,
           1
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
-      "ground": "Moses Mabhida Stadium, Durban"
+      "ground": "Moses Mabhida Stadium, Durban",
+      "goals1": [],
+      "goals2": [
+        {
+          "name": "Carles Puyol",
+          "minute": 73
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Third-place play-off",
@@ -947,9 +2216,41 @@
         "ft": [
           2,
           3
+        ],
+        "ht": [
+          1,
+          1
         ]
       },
-      "ground": "Nelson Mandela Bay Stadium, Port Elizabeth"
+      "ground": "Nelson Mandela Bay Stadium, Port Elizabeth",
+      "goals1": [
+        {
+          "name": "Edinson Cavani",
+          "minute": 28
+        },
+        {
+          "name": "Diego Forlán",
+          "minute": 51
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Thomas Müller",
+          "minute": 19
+        },
+        {
+          "name": "Marcell Jansen",
+          "minute": 56
+        },
+        {
+          "name": "Sami Khedira",
+          "minute": 82
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Final",
@@ -965,9 +2266,24 @@
         "ft": [
           0,
           0
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
-      "ground": "Soccer City, Johannesburg"
+      "ground": "Soccer City, Johannesburg",
+      "goals1": [],
+      "goals2": [
+        {
+          "name": "Andrés Iniesta",
+          "minute": 116
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     }
   ]
 }

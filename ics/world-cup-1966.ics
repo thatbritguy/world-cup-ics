@@ -16,9 +16,9 @@ GEO:51.555556;-0.279722
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Wembley Stadium, London";X
  -APPLE-RADIUS=100;X-TITLE="Wembley Stadium, London":geo:51.555556,-0.27972
  2
-DESCRIPTION:Group 1 | Matchday 1 | 1966 FIFA World Cup - England\nEngland 0
- -0 Uruguay
-URL:https://en.wikipedia.org/wiki/1966_FIFA_World_Cup
+DESCRIPTION:1966 FIFA World Cup - England\nGroup 1 | Matchday 1\nEngland 0-
+ 0 Uruguay\nHT: 0-0\nFT: 0-0
+URL:https://www.fifa.com/en/match-centre/match/17/26/238/1636
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1966
@@ -34,9 +34,10 @@ GEO:53.411389;-1.500833
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Hillsborough Stadium, Shef
  field";X-APPLE-RADIUS=100;X-TITLE="Hillsborough Stadium, Sheffield":geo:53
  .411389,-1.500833
-DESCRIPTION:Group 2 | Matchday 1 | 1966 FIFA World Cup - England\nWest Germ
- any 5-0 Switzerland
-URL:https://en.wikipedia.org/wiki/1966_FIFA_World_Cup
+DESCRIPTION:1966 FIFA World Cup - England\nGroup 2 | Matchday 1\nWest Germa
+ ny 5-0 Switzerland\nHT: 3-0\nFT: 5-0\nGoals:\nFRG 🇩🇪: Held 16'\, Hal
+ ler 20'\, Beckenbauer 40'\, Beckenbauer 52'\, Haller 78' pen
+URL:https://www.fifa.com/en/match-centre/match/17/26/238/1656
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1966
@@ -52,9 +53,10 @@ GEO:53.438889;-2.966389
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Goodison Park, Liverpool";
  X-APPLE-RADIUS=100;X-TITLE="Goodison Park, Liverpool":geo:53.438889,-2.966
  389
-DESCRIPTION:Group 3 | Matchday 1 | 1966 FIFA World Cup - England\nBrazil 2-
- 0 Bulgaria
-URL:https://en.wikipedia.org/wiki/1966_FIFA_World_Cup
+DESCRIPTION:1966 FIFA World Cup - England\nGroup 3 | Matchday 1\nBrazil 2-0
+  Bulgaria\nHT: 1-0\nFT: 2-0\nGoals:\nBRA 🇧🇷: Pelé 14'\, Garrincha 6
+ 3'
+URL:https://www.fifa.com/en/match-centre/match/17/26/238/1596
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1966
@@ -70,9 +72,10 @@ GEO:54.564167;-1.246944
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Ayresome Park, Middlesbrou
  gh";X-APPLE-RADIUS=100;X-TITLE="Ayresome Park, Middlesbrough":geo:54.56416
  7,-1.246944
-DESCRIPTION:Group 4 | Matchday 1 | 1966 FIFA World Cup - England\nSoviet Un
- ion 3-0 North Korea
-URL:https://en.wikipedia.org/wiki/1966_FIFA_World_Cup
+DESCRIPTION:1966 FIFA World Cup - England\nGroup 4 | Matchday 1\nSoviet Uni
+ on 3-0 North Korea\nHT: 2-0\nFT: 3-0\nGoals:\nURS: Malafeev 31'\, Banichev
+ ski 33'\, Malafeev 88'
+URL:https://www.fifa.com/en/match-centre/match/17/26/238/1710
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1966
@@ -88,9 +91,10 @@ GEO:51.555556;-0.279722
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Wembley Stadium, London";X
  -APPLE-RADIUS=100;X-TITLE="Wembley Stadium, London":geo:51.555556,-0.27972
  2
-DESCRIPTION:Group 1 | Matchday 1 | 1966 FIFA World Cup - England\nFrance 1-
- 1 Mexico
-URL:https://en.wikipedia.org/wiki/1966_FIFA_World_Cup
+DESCRIPTION:1966 FIFA World Cup - England\nGroup 1 | Matchday 1\nFrance 1-1
+  Mexico\nHT: 0-0\nFT: 1-1\nGoals:\nFRA 🇫🇷: Hausser 62'\nMEX 🇲🇽
+ : Borja 40'
+URL:https://www.fifa.com/en/match-centre/match/17/26/238/1650
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1966
@@ -105,9 +109,10 @@ LOCATION:Villa Park\, Birmingham
 GEO:52.509167;-1.884722
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Villa Park, Birmingham";X-
  APPLE-RADIUS=100;X-TITLE="Villa Park, Birmingham":geo:52.509167,-1.884722
-DESCRIPTION:Group 2 | Matchday 1 | 1966 FIFA World Cup - England\nArgentina
-  2-1 Spain
-URL:https://en.wikipedia.org/wiki/1966_FIFA_World_Cup
+DESCRIPTION:1966 FIFA World Cup - England\nGroup 2 | Matchday 1\nArgentina 
+ 2-1 Spain\nHT: 0-0\nFT: 2-1\nGoals:\nARG 🇦🇷: Artime 65'\, Artime 79'
+ \nESP 🇪🇸: Pirri 72'
+URL:https://www.fifa.com/en/match-centre/match/17/26/238/1578
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1966
@@ -123,9 +128,10 @@ GEO:53.463056;-2.291389
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Old Trafford, Manchester";
  X-APPLE-RADIUS=100;X-TITLE="Old Trafford, Manchester":geo:53.463056,-2.291
  389
-DESCRIPTION:Group 3 | Matchday 1 | 1966 FIFA World Cup - England\nPortugal 
- 3-1 Hungary
-URL:https://en.wikipedia.org/wiki/1966_FIFA_World_Cup
+DESCRIPTION:1966 FIFA World Cup - England\nGroup 3 | Matchday 1\nPortugal 3
+ -1 Hungary\nHT: 1-0\nFT: 3-1\nGoals:\nPOR 🇵🇹: Augusto 2'\, Augusto 6
+ 5'\, Torres 89'\nHUN 🇭🇺: Bene 59'
+URL:https://www.fifa.com/en/match-centre/match/17/26/238/1675
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1966
@@ -140,9 +146,9 @@ LOCATION:Roker Park\, Sunderland
 GEO:54.921300;-1.375481
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Roker Park, Sunderland";X-
  APPLE-RADIUS=100;X-TITLE="Roker Park, Sunderland":geo:54.921300,-1.375481
-DESCRIPTION:Group 4 | Matchday 1 | 1966 FIFA World Cup - England\nItaly 2-0
-  Chile
-URL:https://en.wikipedia.org/wiki/1966_FIFA_World_Cup
+DESCRIPTION:1966 FIFA World Cup - England\nGroup 4 | Matchday 1\nItaly 2-0 
+ Chile\nHT: 1-0\nFT: 2-0\nGoals:\nITA 🇮🇹: Mazzola 9'\, Barison 86'
+URL:https://www.fifa.com/en/match-centre/match/17/26/238/1608
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1966
@@ -158,9 +164,10 @@ GEO:51.513000;-0.227000
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="White City Stadium, London
  ";X-APPLE-RADIUS=100;X-TITLE="White City Stadium, London":geo:51.513000,-0
  .227000
-DESCRIPTION:Group 1 | Matchday 2 | 1966 FIFA World Cup - England\nUruguay 2
- -1 France
-URL:https://en.wikipedia.org/wiki/1966_FIFA_World_Cup
+DESCRIPTION:1966 FIFA World Cup - England\nGroup 1 | Matchday 2\nUruguay 2-
+ 1 France\nHT: 2-1\nFT: 2-1\nGoals:\nURU 🇺🇾: Rocha 27'\, Cortés 32'\
+ nFRA 🇫🇷: de Bourgoing 15' pen
+URL:https://www.fifa.com/en/match-centre/match/17/26/238/1653
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1966
@@ -176,9 +183,10 @@ GEO:53.411389;-1.500833
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Hillsborough Stadium, Shef
  field";X-APPLE-RADIUS=100;X-TITLE="Hillsborough Stadium, Sheffield":geo:53
  .411389,-1.500833
-DESCRIPTION:Group 2 | Matchday 2 | 1966 FIFA World Cup - England\nSpain 2-1
-  Switzerland
-URL:https://en.wikipedia.org/wiki/1966_FIFA_World_Cup
+DESCRIPTION:1966 FIFA World Cup - England\nGroup 2 | Matchday 2\nSpain 2-1 
+ Switzerland\nHT: 0-1\nFT: 2-1\nGoals:\nESP 🇪🇸: Sanchis 58'\, Amancio
+  75'\nSUI 🇨🇭: Quentin 29'
+URL:https://www.fifa.com/en/match-centre/match/17/26/238/1641
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1966
@@ -194,9 +202,10 @@ GEO:53.438889;-2.966389
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Goodison Park, Liverpool";
  X-APPLE-RADIUS=100;X-TITLE="Goodison Park, Liverpool":geo:53.438889,-2.966
  389
-DESCRIPTION:Group 3 | Matchday 2 | 1966 FIFA World Cup - England\nHungary 3
- -1 Brazil
-URL:https://en.wikipedia.org/wiki/1966_FIFA_World_Cup
+DESCRIPTION:1966 FIFA World Cup - England\nGroup 3 | Matchday 2\nHungary 3-
+ 1 Brazil\nHT: 1-1\nFT: 3-1\nGoals:\nHUN 🇭🇺: Bene 2'\, Farkas 64'\, M
+ észöly 72' pen\nBRA 🇧🇷: Tostão 14'
+URL:https://www.fifa.com/en/match-centre/match/17/26/238/1597
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1966
@@ -212,9 +221,10 @@ GEO:54.564167;-1.246944
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Ayresome Park, Middlesbrou
  gh";X-APPLE-RADIUS=100;X-TITLE="Ayresome Park, Middlesbrough":geo:54.56416
  7,-1.246944
-DESCRIPTION:Group 4 | Matchday 2 | 1966 FIFA World Cup - England\nChile 1-1
-  North Korea
-URL:https://en.wikipedia.org/wiki/1966_FIFA_World_Cup
+DESCRIPTION:1966 FIFA World Cup - England\nGroup 4 | Matchday 2\nChile 1-1 
+ North Korea\nHT: 1-0\nFT: 1-1\nGoals:\nCHI 🇨🇱: Marcos 26' pen\nPRK 
+ 🇰🇵: Park Seung-zin 88'
+URL:https://www.fifa.com/en/match-centre/match/17/26/238/1609
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1966
@@ -230,9 +240,10 @@ GEO:51.555556;-0.279722
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Wembley Stadium, London";X
  -APPLE-RADIUS=100;X-TITLE="Wembley Stadium, London":geo:51.555556,-0.27972
  2
-DESCRIPTION:Group 1 | Matchday 2 | 1966 FIFA World Cup - England\nEngland 2
- -0 Mexico
-URL:https://en.wikipedia.org/wiki/1966_FIFA_World_Cup
+DESCRIPTION:1966 FIFA World Cup - England\nGroup 1 | Matchday 2\nEngland 2-
+ 0 Mexico\nHT: 1-0\nFT: 2-0\nGoals:\nENG 🏴󠁧󠁢󠁥󠁮󠁧󠁿: R.Ch
+ arlton 38'\, Hunt 75'
+URL:https://www.fifa.com/en/match-centre/match/17/26/238/1634
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1966
@@ -247,9 +258,9 @@ LOCATION:Villa Park\, Birmingham
 GEO:52.509167;-1.884722
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Villa Park, Birmingham";X-
  APPLE-RADIUS=100;X-TITLE="Villa Park, Birmingham":geo:52.509167,-1.884722
-DESCRIPTION:Group 2 | Matchday 2 | 1966 FIFA World Cup - England\nArgentina
-  0-0 West Germany
-URL:https://en.wikipedia.org/wiki/1966_FIFA_World_Cup
+DESCRIPTION:1966 FIFA World Cup - England\nGroup 2 | Matchday 2\nArgentina 
+ 0-0 West Germany\nHT: 0-0\nFT: 0-0
+URL:https://www.fifa.com/en/match-centre/match/17/26/238/1579
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1966
@@ -265,9 +276,10 @@ GEO:53.463056;-2.291389
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Old Trafford, Manchester";
  X-APPLE-RADIUS=100;X-TITLE="Old Trafford, Manchester":geo:53.463056,-2.291
  389
-DESCRIPTION:Group 3 | Matchday 2 | 1966 FIFA World Cup - England\nPortugal 
- 3-0 Bulgaria
-URL:https://en.wikipedia.org/wiki/1966_FIFA_World_Cup
+DESCRIPTION:1966 FIFA World Cup - England\nGroup 3 | Matchday 2\nPortugal 3
+ -0 Bulgaria\nHT: 2-0\nFT: 3-0\nGoals:\nPOR 🇵🇹: Vutzov 7'\, Eusebio 3
+ 8'\, Torres 82'
+URL:https://www.fifa.com/en/match-centre/match/17/26/238/1602
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1966
@@ -282,9 +294,9 @@ LOCATION:Roker Park\, Sunderland
 GEO:54.921300;-1.375481
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Roker Park, Sunderland";X-
  APPLE-RADIUS=100;X-TITLE="Roker Park, Sunderland":geo:54.921300,-1.375481
-DESCRIPTION:Group 4 | Matchday 2 | 1966 FIFA World Cup - England\nSoviet Un
- ion 1-0 Italy
-URL:https://en.wikipedia.org/wiki/1966_FIFA_World_Cup
+DESCRIPTION:1966 FIFA World Cup - England\nGroup 4 | Matchday 2\nSoviet Uni
+ on 1-0 Italy\nHT: 0-0\nFT: 1-0\nGoals:\nURS: Chislenko 57'
+URL:https://www.fifa.com/en/match-centre/match/17/26/238/1682
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1966
@@ -300,9 +312,9 @@ GEO:51.555556;-0.279722
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Wembley Stadium, London";X
  -APPLE-RADIUS=100;X-TITLE="Wembley Stadium, London":geo:51.555556,-0.27972
  2
-DESCRIPTION:Group 1 | Matchday 3 | 1966 FIFA World Cup - England\nMexico 0-
- 0 Uruguay
-URL:https://en.wikipedia.org/wiki/1966_FIFA_World_Cup
+DESCRIPTION:1966 FIFA World Cup - England\nGroup 1 | Matchday 3\nMexico 0-0
+  Uruguay\nHT: 0-0\nFT: 0-0
+URL:https://www.fifa.com/en/match-centre/match/17/26/238/1689
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1966
@@ -318,9 +330,10 @@ GEO:53.411389;-1.500833
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Hillsborough Stadium, Shef
  field";X-APPLE-RADIUS=100;X-TITLE="Hillsborough Stadium, Sheffield":geo:53
  .411389,-1.500833
-DESCRIPTION:Group 2 | Matchday 3 | 1966 FIFA World Cup - England\nArgentina
-  2-0 Switzerland
-URL:https://en.wikipedia.org/wiki/1966_FIFA_World_Cup
+DESCRIPTION:1966 FIFA World Cup - England\nGroup 2 | Matchday 3\nArgentina 
+ 2-0 Switzerland\nHT: 0-0\nFT: 2-0\nGoals:\nARG 🇦🇷: Artime 52'\, Oneg
+ a 81'
+URL:https://www.fifa.com/en/match-centre/match/17/26/238/1582
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1966
@@ -336,9 +349,10 @@ GEO:53.438889;-2.966389
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Goodison Park, Liverpool";
  X-APPLE-RADIUS=100;X-TITLE="Goodison Park, Liverpool":geo:53.438889,-2.966
  389
-DESCRIPTION:Group 3 | Matchday 3 | 1966 FIFA World Cup - England\nPortugal 
- 3-1 Brazil
-URL:https://en.wikipedia.org/wiki/1966_FIFA_World_Cup
+DESCRIPTION:1966 FIFA World Cup - England\nGroup 3 | Matchday 3\nPortugal 3
+ -1 Brazil\nHT: 2-0\nFT: 3-1\nGoals:\nPOR 🇵🇹: Simóes 15'\, Eusebio 3
+ 6'\, Eusebio 85'\nBRA 🇧🇷: Rildo 73'
+URL:https://www.fifa.com/en/match-centre/match/17/26/238/1598
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1966
@@ -354,9 +368,9 @@ GEO:54.564167;-1.246944
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Ayresome Park, Middlesbrou
  gh";X-APPLE-RADIUS=100;X-TITLE="Ayresome Park, Middlesbrough":geo:54.56416
  7,-1.246944
-DESCRIPTION:Group 4 | Matchday 3 | 1966 FIFA World Cup - England\nNorth Kor
- ea 1-0 Italy
-URL:https://en.wikipedia.org/wiki/1966_FIFA_World_Cup
+DESCRIPTION:1966 FIFA World Cup - England\nGroup 4 | Matchday 3\nNorth Kore
+ a 1-0 Italy\nHT: 1-0\nFT: 1-0\nGoals:\nPRK 🇰🇵: Park Doo-ik 41'
+URL:https://www.fifa.com/en/match-centre/match/17/26/238/1679
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1966
@@ -372,9 +386,10 @@ GEO:51.555556;-0.279722
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Wembley Stadium, London";X
  -APPLE-RADIUS=100;X-TITLE="Wembley Stadium, London":geo:51.555556,-0.27972
  2
-DESCRIPTION:Group 1 | Matchday 3 | 1966 FIFA World Cup - England\nEngland 2
- -0 France
-URL:https://en.wikipedia.org/wiki/1966_FIFA_World_Cup
+DESCRIPTION:1966 FIFA World Cup - England\nGroup 1 | Matchday 3\nEngland 2-
+ 0 France\nHT: 1-0\nFT: 2-0\nGoals:\nENG 🏴󠁧󠁢󠁥󠁮󠁧󠁿: Hunt
+  39'\, Hunt 76'
+URL:https://www.fifa.com/en/match-centre/match/17/26/238/1632
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1966
@@ -389,9 +404,10 @@ LOCATION:Villa Park\, Birmingham
 GEO:52.509167;-1.884722
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Villa Park, Birmingham";X-
  APPLE-RADIUS=100;X-TITLE="Villa Park, Birmingham":geo:52.509167,-1.884722
-DESCRIPTION:Group 2 | Matchday 3 | 1966 FIFA World Cup - England\nWest Germ
- any 2-1 Spain
-URL:https://en.wikipedia.org/wiki/1966_FIFA_World_Cup
+DESCRIPTION:1966 FIFA World Cup - England\nGroup 2 | Matchday 3\nWest Germa
+ ny 2-1 Spain\nHT: 1-1\nFT: 2-1\nGoals:\nFRG 🇩🇪: Emmerich 39'\, Seele
+ r 63'\nESP 🇪🇸: Fuste 24'
+URL:https://www.fifa.com/en/match-centre/match/17/26/238/1637
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1966
@@ -407,9 +423,10 @@ GEO:53.463056;-2.291389
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Old Trafford, Manchester";
  X-APPLE-RADIUS=100;X-TITLE="Old Trafford, Manchester":geo:53.463056,-2.291
  389
-DESCRIPTION:Group 3 | Matchday 3 | 1966 FIFA World Cup - England\nHungary 3
- -1 Bulgaria
-URL:https://en.wikipedia.org/wiki/1966_FIFA_World_Cup
+DESCRIPTION:1966 FIFA World Cup - England\nGroup 3 | Matchday 3\nHungary 3-
+ 1 Bulgaria\nHT: 2-1\nFT: 3-1\nGoals:\nHUN 🇭🇺: Davidov 42' og\, Mész
+ öly 45'\, Bene 54'\nBUL 🇧🇬: Asparoukhov 14'
+URL:https://www.fifa.com/en/match-centre/match/17/26/238/1599
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1966
@@ -424,9 +441,10 @@ LOCATION:Roker Park\, Sunderland
 GEO:54.921300;-1.375481
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Roker Park, Sunderland";X-
  APPLE-RADIUS=100;X-TITLE="Roker Park, Sunderland":geo:54.921300,-1.375481
-DESCRIPTION:Group 4 | Matchday 3 | 1966 FIFA World Cup - England\nSoviet Un
- ion 2-1 Chile
-URL:https://en.wikipedia.org/wiki/1966_FIFA_World_Cup
+DESCRIPTION:1966 FIFA World Cup - England\nGroup 4 | Matchday 3\nSoviet Uni
+ on 2-1 Chile\nHT: 1-1\nFT: 2-1\nGoals:\nURS: Porkuyan 29'\, Porkuyan 85'\n
+ CHI 🇨🇱: Marcos 32'
+URL:https://www.fifa.com/en/match-centre/match/17/26/238/1610
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1966
@@ -442,9 +460,10 @@ GEO:51.555556;-0.279722
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Wembley Stadium, London";X
  -APPLE-RADIUS=100;X-TITLE="Wembley Stadium, London":geo:51.555556,-0.27972
  2
-DESCRIPTION:Quarter-finals | 1966 FIFA World Cup - England\nEngland 1-0 Arg
- entina
-URL:https://en.wikipedia.org/wiki/1966_FIFA_World_Cup
+DESCRIPTION:1966 FIFA World Cup - England\nQuarter-finals\nEngland 1-0 Arge
+ ntina\nHT: 0-0\nFT: 1-0\nGoals:\nENG 🏴󠁧󠁢󠁥󠁮󠁧󠁿: Hurst 7
+ 9'
+URL:https://www.fifa.com/en/match-centre/match/17/26/239/1577
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1966
@@ -460,9 +479,10 @@ GEO:53.411389;-1.500833
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Hillsborough Stadium, Shef
  field";X-APPLE-RADIUS=100;X-TITLE="Hillsborough Stadium, Sheffield":geo:53
  .411389,-1.500833
-DESCRIPTION:Quarter-finals | 1966 FIFA World Cup - England\nWest Germany 4-
- 0 Uruguay
-URL:https://en.wikipedia.org/wiki/1966_FIFA_World_Cup
+DESCRIPTION:1966 FIFA World Cup - England\nQuarter-finals\nWest Germany 4-0
+  Uruguay\nHT: 1-0\nFT: 4-0\nGoals:\nFRG 🇩🇪: Haller 10'\, Beckenbauer
+  70'\, Seeler 75'\, Haller 84'
+URL:https://www.fifa.com/en/match-centre/match/17/26/239/1660
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1966
@@ -477,9 +497,10 @@ LOCATION:Roker Park\, Sunderland
 GEO:54.921300;-1.375481
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Roker Park, Sunderland";X-
  APPLE-RADIUS=100;X-TITLE="Roker Park, Sunderland":geo:54.921300,-1.375481
-DESCRIPTION:Quarter-finals | 1966 FIFA World Cup - England\nSoviet Union 2-
- 1 Hungary
-URL:https://en.wikipedia.org/wiki/1966_FIFA_World_Cup
+DESCRIPTION:1966 FIFA World Cup - England\nQuarter-finals\nSoviet Union 2-1
+  Hungary\nHT: 1-0\nFT: 2-1\nGoals:\nURS: Chislenko 5'\, Porkuyan 49'\nHUN 
+ 🇭🇺: Bene 58'
+URL:https://www.fifa.com/en/match-centre/match/17/26/239/1676
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1966
@@ -495,9 +516,11 @@ GEO:53.438889;-2.966389
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Goodison Park, Liverpool";
  X-APPLE-RADIUS=100;X-TITLE="Goodison Park, Liverpool":geo:53.438889,-2.966
  389
-DESCRIPTION:Quarter-finals | 1966 FIFA World Cup - England\nPortugal 5-3 No
- rth Korea
-URL:https://en.wikipedia.org/wiki/1966_FIFA_World_Cup
+DESCRIPTION:1966 FIFA World Cup - England\nQuarter-finals\nPortugal 5-3 Nor
+ th Korea\nHT: 2-3\nFT: 5-3\nGoals:\nPOR 🇵🇹: Eusebio 27'\, Eusebio 42
+ ' pen\, Eusebio 57'\, Eusebio 59' pen\, Augusto 79'\nPRK 🇰🇵: Park Se
+ ung-zin 1'\, Lee Dong-woon 22'\, Yang Seung-kook 24'
+URL:https://www.fifa.com/en/match-centre/match/17/26/239/1702
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1966
@@ -513,9 +536,10 @@ GEO:53.438889;-2.966389
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Goodison Park, Liverpool";
  X-APPLE-RADIUS=100;X-TITLE="Goodison Park, Liverpool":geo:53.438889,-2.966
  389
-DESCRIPTION:Semi-finals | 1966 FIFA World Cup - England\nWest Germany 2-1 S
- oviet Union
-URL:https://en.wikipedia.org/wiki/1966_FIFA_World_Cup
+DESCRIPTION:1966 FIFA World Cup - England\nSemi-finals\nWest Germany 2-1 So
+ viet Union\nHT: 1-0\nFT: 2-1\nGoals:\nFRG 🇩🇪: Haller 44'\, Beckenbau
+ er 68'\nURS: Porkujan 88'
+URL:https://www.fifa.com/en/match-centre/match/17/26/536/1659
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1966
@@ -531,9 +555,10 @@ GEO:51.555556;-0.279722
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Wembley Stadium, London";X
  -APPLE-RADIUS=100;X-TITLE="Wembley Stadium, London":geo:51.555556,-0.27972
  2
-DESCRIPTION:Semi-finals | 1966 FIFA World Cup - England\nEngland 2-1 Portug
- al
-URL:https://en.wikipedia.org/wiki/1966_FIFA_World_Cup
+DESCRIPTION:1966 FIFA World Cup - England\nSemi-finals\nEngland 2-1 Portuga
+ l\nHT: 1-0\nFT: 2-1\nGoals:\nENG 🏴󠁧󠁢󠁥󠁮󠁧󠁿: R.Charlton 
+ 30'\, R.Charlton 79'\nPOR 🇵🇹: Eusebio 82' pen
+URL:https://www.fifa.com/en/match-centre/match/17/26/536/1635
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1966
@@ -549,9 +574,10 @@ GEO:51.555556;-0.279722
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Wembley Stadium, London";X
  -APPLE-RADIUS=100;X-TITLE="Wembley Stadium, London":geo:51.555556,-0.27972
  2
-DESCRIPTION:Third-place match | 1966 FIFA World Cup - England\nPortugal 2-1
-  Soviet Union
-URL:https://en.wikipedia.org/wiki/1966_FIFA_World_Cup
+DESCRIPTION:1966 FIFA World Cup - England\nThird-place match\nPortugal 2-1 
+ Soviet Union\nHT: 1-1\nFT: 2-1\nGoals:\nPOR 🇵🇹: Eusebio 12' pen\, To
+ rres 88'\nURS: Malafeev 43'
+URL:https://www.fifa.com/en/match-centre/match/17/26/3479/1709
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1966
@@ -568,9 +594,11 @@ GEO:51.555556;-0.279722
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Wembley Stadium, London";X
  -APPLE-RADIUS=100;X-TITLE="Wembley Stadium, London":geo:51.555556,-0.27972
  2
-DESCRIPTION:Final | 1966 FIFA World Cup - England\nEngland 4-2 West Germany
- \nFT: 2-2\nAET: 4-2
-URL:https://en.wikipedia.org/wiki/1966_FIFA_World_Cup
+DESCRIPTION:1966 FIFA World Cup - England\nFinal\nEngland 4-2 West Germany\
+ nHT: 1-1\nFT: 2-2\nAET: 4-2\nGoals:\nENG 🏴󠁧󠁢󠁥󠁮󠁧󠁿: Hur
+ st 18'\, Peters 78'\, Hurst 101'\, Hurst 120'\nFRG 🇩🇪: Haller 12'\, 
+ Weber 90'
+URL:https://www.fifa.com/en/match-centre/match/17/26/3478/1633
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1966

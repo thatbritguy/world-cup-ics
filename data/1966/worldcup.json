@@ -10,10 +10,18 @@
         "ft": [
           0,
           0
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group 1",
-      "ground": "Wembley Stadium, London"
+      "ground": "Wembley Stadium, London",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 1",
@@ -24,10 +32,30 @@
         "ft": [
           1,
           1
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group 1",
-      "ground": "Wembley Stadium, London"
+      "ground": "Wembley Stadium, London",
+      "goals1": [
+        {
+          "name": "Hausser",
+          "minute": 62
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Borja",
+          "minute": 40
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 2",
@@ -38,10 +66,35 @@
         "ft": [
           2,
           1
+        ],
+        "ht": [
+          2,
+          1
         ]
       },
       "group": "Group 1",
-      "ground": "White City Stadium, London"
+      "ground": "White City Stadium, London",
+      "goals1": [
+        {
+          "name": "Rocha",
+          "minute": 27
+        },
+        {
+          "name": "Cortés",
+          "minute": 32
+        }
+      ],
+      "goals2": [
+        {
+          "name": "de Bourgoing",
+          "minute": 15,
+          "penalty": true
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 2",
@@ -52,10 +105,29 @@
         "ft": [
           2,
           0
+        ],
+        "ht": [
+          1,
+          0
         ]
       },
       "group": "Group 1",
-      "ground": "Wembley Stadium, London"
+      "ground": "Wembley Stadium, London",
+      "goals1": [
+        {
+          "name": "R.Charlton",
+          "minute": 38
+        },
+        {
+          "name": "Hunt",
+          "minute": 75
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 3",
@@ -66,10 +138,18 @@
         "ft": [
           0,
           0
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group 1",
-      "ground": "Wembley Stadium, London"
+      "ground": "Wembley Stadium, London",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 3",
@@ -80,10 +160,29 @@
         "ft": [
           2,
           0
+        ],
+        "ht": [
+          1,
+          0
         ]
       },
       "group": "Group 1",
-      "ground": "Wembley Stadium, London"
+      "ground": "Wembley Stadium, London",
+      "goals1": [
+        {
+          "name": "Hunt",
+          "minute": 39
+        },
+        {
+          "name": "Hunt",
+          "minute": 76
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 1",
@@ -94,10 +193,42 @@
         "ft": [
           5,
           0
+        ],
+        "ht": [
+          3,
+          0
         ]
       },
       "group": "Group 2",
-      "ground": "Hillsborough Stadium, Sheffield"
+      "ground": "Hillsborough Stadium, Sheffield",
+      "goals1": [
+        {
+          "name": "Held",
+          "minute": 16
+        },
+        {
+          "name": "Haller",
+          "minute": 20
+        },
+        {
+          "name": "Beckenbauer",
+          "minute": 40
+        },
+        {
+          "name": "Beckenbauer",
+          "minute": 52
+        },
+        {
+          "name": "Haller",
+          "minute": 78,
+          "penalty": true
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 1",
@@ -108,10 +239,34 @@
         "ft": [
           2,
           1
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group 2",
-      "ground": "Villa Park, Birmingham"
+      "ground": "Villa Park, Birmingham",
+      "goals1": [
+        {
+          "name": "Artime",
+          "minute": 65
+        },
+        {
+          "name": "Artime",
+          "minute": 79
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Pirri",
+          "minute": 72
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 2",
@@ -122,10 +277,34 @@
         "ft": [
           2,
           1
+        ],
+        "ht": [
+          0,
+          1
         ]
       },
       "group": "Group 2",
-      "ground": "Hillsborough Stadium, Sheffield"
+      "ground": "Hillsborough Stadium, Sheffield",
+      "goals1": [
+        {
+          "name": "Sanchis",
+          "minute": 58
+        },
+        {
+          "name": "Amancio",
+          "minute": 75
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Quentin",
+          "minute": 29
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 2",
@@ -136,10 +315,18 @@
         "ft": [
           0,
           0
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group 2",
-      "ground": "Villa Park, Birmingham"
+      "ground": "Villa Park, Birmingham",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 3",
@@ -150,10 +337,29 @@
         "ft": [
           2,
           0
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group 2",
-      "ground": "Hillsborough Stadium, Sheffield"
+      "ground": "Hillsborough Stadium, Sheffield",
+      "goals1": [
+        {
+          "name": "Artime",
+          "minute": 52
+        },
+        {
+          "name": "Onega",
+          "minute": 81
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 3",
@@ -164,10 +370,34 @@
         "ft": [
           2,
           1
+        ],
+        "ht": [
+          1,
+          1
         ]
       },
       "group": "Group 2",
-      "ground": "Villa Park, Birmingham"
+      "ground": "Villa Park, Birmingham",
+      "goals1": [
+        {
+          "name": "Emmerich",
+          "minute": 39
+        },
+        {
+          "name": "Seeler",
+          "minute": 63
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Fuste",
+          "minute": 24
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 1",
@@ -178,10 +408,29 @@
         "ft": [
           2,
           0
+        ],
+        "ht": [
+          1,
+          0
         ]
       },
       "group": "Group 3",
-      "ground": "Goodison Park, Liverpool"
+      "ground": "Goodison Park, Liverpool",
+      "goals1": [
+        {
+          "name": "Pelé",
+          "minute": 14
+        },
+        {
+          "name": "Garrincha",
+          "minute": 63
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 1",
@@ -192,10 +441,38 @@
         "ft": [
           3,
           1
+        ],
+        "ht": [
+          1,
+          0
         ]
       },
       "group": "Group 3",
-      "ground": "Old Trafford, Manchester"
+      "ground": "Old Trafford, Manchester",
+      "goals1": [
+        {
+          "name": "Augusto",
+          "minute": 2
+        },
+        {
+          "name": "Augusto",
+          "minute": 65
+        },
+        {
+          "name": "Torres",
+          "minute": 89
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Bene",
+          "minute": 59
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 2",
@@ -206,10 +483,39 @@
         "ft": [
           3,
           1
+        ],
+        "ht": [
+          1,
+          1
         ]
       },
       "group": "Group 3",
-      "ground": "Goodison Park, Liverpool"
+      "ground": "Goodison Park, Liverpool",
+      "goals1": [
+        {
+          "name": "Bene",
+          "minute": 2
+        },
+        {
+          "name": "Farkas",
+          "minute": 64
+        },
+        {
+          "name": "Mészöly",
+          "minute": 72,
+          "penalty": true
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Tostão",
+          "minute": 14
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 2",
@@ -220,10 +526,33 @@
         "ft": [
           3,
           0
+        ],
+        "ht": [
+          2,
+          0
         ]
       },
       "group": "Group 3",
-      "ground": "Old Trafford, Manchester"
+      "ground": "Old Trafford, Manchester",
+      "goals1": [
+        {
+          "name": "Vutzov",
+          "minute": 7
+        },
+        {
+          "name": "Eusebio",
+          "minute": 38
+        },
+        {
+          "name": "Torres",
+          "minute": 82
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 3",
@@ -234,10 +563,38 @@
         "ft": [
           3,
           1
+        ],
+        "ht": [
+          2,
+          0
         ]
       },
       "group": "Group 3",
-      "ground": "Goodison Park, Liverpool"
+      "ground": "Goodison Park, Liverpool",
+      "goals1": [
+        {
+          "name": "Simóes",
+          "minute": 15
+        },
+        {
+          "name": "Eusebio",
+          "minute": 36
+        },
+        {
+          "name": "Eusebio",
+          "minute": 85
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Rildo",
+          "minute": 73
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 3",
@@ -248,10 +605,39 @@
         "ft": [
           3,
           1
+        ],
+        "ht": [
+          2,
+          1
         ]
       },
       "group": "Group 3",
-      "ground": "Old Trafford, Manchester"
+      "ground": "Old Trafford, Manchester",
+      "goals1": [
+        {
+          "name": "Davidov",
+          "minute": 42,
+          "owngoal": true
+        },
+        {
+          "name": "Mészöly",
+          "minute": 45
+        },
+        {
+          "name": "Bene",
+          "minute": 54
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Asparoukhov",
+          "minute": 14
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 1",
@@ -262,10 +648,33 @@
         "ft": [
           3,
           0
+        ],
+        "ht": [
+          2,
+          0
         ]
       },
       "group": "Group 4",
-      "ground": "Ayresome Park, Middlesbrough"
+      "ground": "Ayresome Park, Middlesbrough",
+      "goals1": [
+        {
+          "name": "Malafeev",
+          "minute": 31
+        },
+        {
+          "name": "Banichevski",
+          "minute": 33
+        },
+        {
+          "name": "Malafeev",
+          "minute": 88
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 1",
@@ -276,10 +685,29 @@
         "ft": [
           2,
           0
+        ],
+        "ht": [
+          1,
+          0
         ]
       },
       "group": "Group 4",
-      "ground": "Roker Park, Sunderland"
+      "ground": "Roker Park, Sunderland",
+      "goals1": [
+        {
+          "name": "Mazzola",
+          "minute": 9
+        },
+        {
+          "name": "Barison",
+          "minute": 86
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 2",
@@ -290,10 +718,31 @@
         "ft": [
           1,
           1
+        ],
+        "ht": [
+          1,
+          0
         ]
       },
       "group": "Group 4",
-      "ground": "Ayresome Park, Middlesbrough"
+      "ground": "Ayresome Park, Middlesbrough",
+      "goals1": [
+        {
+          "name": "Marcos",
+          "minute": 26,
+          "penalty": true
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Park Seung-zin",
+          "minute": 88
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 2",
@@ -304,10 +753,25 @@
         "ft": [
           1,
           0
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group 4",
-      "ground": "Roker Park, Sunderland"
+      "ground": "Roker Park, Sunderland",
+      "goals1": [
+        {
+          "name": "Chislenko",
+          "minute": 57
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 3",
@@ -318,10 +782,25 @@
         "ft": [
           1,
           0
+        ],
+        "ht": [
+          1,
+          0
         ]
       },
       "group": "Group 4",
-      "ground": "Ayresome Park, Middlesbrough"
+      "ground": "Ayresome Park, Middlesbrough",
+      "goals1": [
+        {
+          "name": "Park Doo-ik",
+          "minute": 41
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 3",
@@ -332,10 +811,34 @@
         "ft": [
           2,
           1
+        ],
+        "ht": [
+          1,
+          1
         ]
       },
       "group": "Group 4",
-      "ground": "Roker Park, Sunderland"
+      "ground": "Roker Park, Sunderland",
+      "goals1": [
+        {
+          "name": "Porkuyan",
+          "minute": 29
+        },
+        {
+          "name": "Porkuyan",
+          "minute": 85
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Marcos",
+          "minute": 32
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Quarter-finals",
@@ -346,9 +849,24 @@
         "ft": [
           1,
           0
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
-      "ground": "Wembley Stadium, London"
+      "ground": "Wembley Stadium, London",
+      "goals1": [
+        {
+          "name": "Hurst",
+          "minute": 79
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Quarter-finals",
@@ -359,9 +877,36 @@
         "ft": [
           4,
           0
+        ],
+        "ht": [
+          1,
+          0
         ]
       },
-      "ground": "Hillsborough Stadium, Sheffield"
+      "ground": "Hillsborough Stadium, Sheffield",
+      "goals1": [
+        {
+          "name": "Haller",
+          "minute": 10
+        },
+        {
+          "name": "Beckenbauer",
+          "minute": 70
+        },
+        {
+          "name": "Seeler",
+          "minute": 75
+        },
+        {
+          "name": "Haller",
+          "minute": 84
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Quarter-finals",
@@ -372,9 +917,33 @@
         "ft": [
           2,
           1
+        ],
+        "ht": [
+          1,
+          0
         ]
       },
-      "ground": "Roker Park, Sunderland"
+      "ground": "Roker Park, Sunderland",
+      "goals1": [
+        {
+          "name": "Chislenko",
+          "minute": 5
+        },
+        {
+          "name": "Porkuyan",
+          "minute": 49
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Bene",
+          "minute": 58
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Quarter-finals",
@@ -385,9 +954,55 @@
         "ft": [
           5,
           3
+        ],
+        "ht": [
+          2,
+          3
         ]
       },
-      "ground": "Goodison Park, Liverpool"
+      "ground": "Goodison Park, Liverpool",
+      "goals1": [
+        {
+          "name": "Eusebio",
+          "minute": 27
+        },
+        {
+          "name": "Eusebio",
+          "minute": 42,
+          "penalty": true
+        },
+        {
+          "name": "Eusebio",
+          "minute": 57
+        },
+        {
+          "name": "Eusebio",
+          "minute": 59,
+          "penalty": true
+        },
+        {
+          "name": "Augusto",
+          "minute": 79
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Park Seung-zin",
+          "minute": 1
+        },
+        {
+          "name": "Lee Dong-woon",
+          "minute": 22
+        },
+        {
+          "name": "Yang Seung-kook",
+          "minute": 24
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Semi-finals",
@@ -398,9 +1013,33 @@
         "ft": [
           2,
           1
+        ],
+        "ht": [
+          1,
+          0
         ]
       },
-      "ground": "Goodison Park, Liverpool"
+      "ground": "Goodison Park, Liverpool",
+      "goals1": [
+        {
+          "name": "Haller",
+          "minute": 44
+        },
+        {
+          "name": "Beckenbauer",
+          "minute": 68
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Porkujan",
+          "minute": 88
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Semi-finals",
@@ -411,9 +1050,34 @@
         "ft": [
           2,
           1
+        ],
+        "ht": [
+          1,
+          0
         ]
       },
-      "ground": "Wembley Stadium, London"
+      "ground": "Wembley Stadium, London",
+      "goals1": [
+        {
+          "name": "R.Charlton",
+          "minute": 30
+        },
+        {
+          "name": "R.Charlton",
+          "minute": 79
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Eusebio",
+          "minute": 82,
+          "penalty": true
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Third-place match",
@@ -424,9 +1088,34 @@
         "ft": [
           2,
           1
+        ],
+        "ht": [
+          1,
+          1
         ]
       },
-      "ground": "Wembley Stadium, London"
+      "ground": "Wembley Stadium, London",
+      "goals1": [
+        {
+          "name": "Eusebio",
+          "minute": 12,
+          "penalty": true
+        },
+        {
+          "name": "Torres",
+          "minute": 88
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Malafeev",
+          "minute": 43
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Final",
@@ -441,9 +1130,45 @@
         "ft": [
           2,
           2
+        ],
+        "ht": [
+          1,
+          1
         ]
       },
-      "ground": "Wembley Stadium, London"
+      "ground": "Wembley Stadium, London",
+      "goals1": [
+        {
+          "name": "Hurst",
+          "minute": 18
+        },
+        {
+          "name": "Peters",
+          "minute": 78
+        },
+        {
+          "name": "Hurst",
+          "minute": 101
+        },
+        {
+          "name": "Hurst",
+          "minute": 120
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Haller",
+          "minute": 12
+        },
+        {
+          "name": "Weber",
+          "minute": 90
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     }
   ]
 }

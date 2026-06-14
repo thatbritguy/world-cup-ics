@@ -20,7 +20,7 @@
       "kickoff_utc": "2014-06-12T20:00:00Z",
       "official_match_number": 1,
       "fifa_match_id": "300186456",
-      "fifa_url": "https://en.wikipedia.org/wiki/2014_FIFA_World_Cup",
+      "fifa_url": "https://www.fifa.com/en/match-centre/match/17/251164/255931/300186456",
       "ground": "Arena de São Paulo, São Paulo"
     },
     {
@@ -41,7 +41,7 @@
       "kickoff_utc": "2014-06-13T16:00:00Z",
       "official_match_number": 2,
       "fifa_match_id": "300186492",
-      "fifa_url": "https://en.wikipedia.org/wiki/2014_FIFA_World_Cup",
+      "fifa_url": "https://www.fifa.com/en/match-centre/match/17/251164/255931/300186492",
       "ground": "Estádio das Dunas, Natal"
     },
     {
@@ -62,7 +62,7 @@
       "kickoff_utc": "2014-06-13T19:00:00Z",
       "official_match_number": 3,
       "fifa_match_id": "300186510",
-      "fifa_url": "https://en.wikipedia.org/wiki/2014_FIFA_World_Cup",
+      "fifa_url": "https://www.fifa.com/en/match-centre/match/17/251164/255931/300186510",
       "ground": "Arena Fonte Nova, Salvador"
     },
     {
@@ -83,7 +83,7 @@
       "kickoff_utc": "2014-06-13T22:00:00Z",
       "official_match_number": 4,
       "fifa_match_id": "300186473",
-      "fifa_url": "https://en.wikipedia.org/wiki/2014_FIFA_World_Cup",
+      "fifa_url": "https://www.fifa.com/en/match-centre/match/17/251164/255931/300186473",
       "ground": "Arena Pantanal, Cuiabá"
     },
     {
@@ -104,7 +104,7 @@
       "kickoff_utc": "2014-06-14T16:00:00Z",
       "official_match_number": 5,
       "fifa_match_id": "300186471",
-      "fifa_url": "https://en.wikipedia.org/wiki/2014_FIFA_World_Cup",
+      "fifa_url": "https://www.fifa.com/en/match-centre/match/17/251164/255931/300186471",
       "ground": "Estádio Mineirão, Belo Horizonte"
     },
     {
@@ -125,7 +125,7 @@
       "kickoff_utc": "2014-06-15T01:00:00Z",
       "official_match_number": 6,
       "fifa_match_id": "300186507",
-      "fifa_url": "https://en.wikipedia.org/wiki/2014_FIFA_World_Cup",
+      "fifa_url": "https://www.fifa.com/en/match-centre/match/17/251164/255931/300186507",
       "ground": "Arena Pernambuco, Recife"
     },
     {
@@ -146,7 +146,7 @@
       "kickoff_utc": "2014-06-14T19:00:00Z",
       "official_match_number": 7,
       "fifa_match_id": "300186489",
-      "fifa_url": "https://en.wikipedia.org/wiki/2014_FIFA_World_Cup",
+      "fifa_url": "https://www.fifa.com/en/match-centre/match/17/251164/255931/300186489",
       "ground": "Estádio Castelão, Fortaleza"
     },
     {
@@ -167,7 +167,7 @@
       "kickoff_utc": "2014-06-14T22:00:00Z",
       "official_match_number": 8,
       "fifa_match_id": "300186513",
-      "fifa_url": "https://en.wikipedia.org/wiki/2014_FIFA_World_Cup",
+      "fifa_url": "https://www.fifa.com/en/match-centre/match/17/251164/255931/300186513",
       "ground": "Arena Amazônia, Manaus"
     },
     {
@@ -188,7 +188,7 @@
       "kickoff_utc": "2014-06-15T16:00:00Z",
       "official_match_number": 9,
       "fifa_match_id": "300186494",
-      "fifa_url": "https://en.wikipedia.org/wiki/2014_FIFA_World_Cup",
+      "fifa_url": "https://www.fifa.com/en/match-centre/match/17/251164/255931/300186494",
       "ground": "Estádio Nacional Mané Garrincha, Brasília"
     },
     {
@@ -209,7 +209,7 @@
       "kickoff_utc": "2014-06-15T19:00:00Z",
       "official_match_number": 10,
       "fifa_match_id": "300186496",
-      "fifa_url": "https://en.wikipedia.org/wiki/2014_FIFA_World_Cup",
+      "fifa_url": "https://www.fifa.com/en/match-centre/match/17/251164/255931/300186496",
       "ground": "Estádio Beira-Rio, Porto Alegre"
     },
     {
@@ -229,8 +229,8 @@
       },
       "kickoff_utc": "2014-06-15T22:00:00Z",
       "official_match_number": 11,
-      "fifa_match_id": null,
-      "fifa_url": "https://en.wikipedia.org/wiki/2014_FIFA_World_Cup",
+      "fifa_match_id": "300186477",
+      "fifa_url": "https://www.fifa.com/en/match-centre/match/17/251164/255931/300186477",
       "ground": "Estádio do Maracanã, Rio de Janeiro"
     },
     {
@@ -251,7 +251,7 @@
       "kickoff_utc": "2014-06-16T19:00:00Z",
       "official_match_number": 12,
       "fifa_match_id": "300186505",
-      "fifa_url": "https://en.wikipedia.org/wiki/2014_FIFA_World_Cup",
+      "fifa_url": "https://www.fifa.com/en/match-centre/match/17/251164/255931/300186505",
       "ground": "Arena da Baixada, Curitiba"
     },
     {
@@ -272,7 +272,7 @@
       "kickoff_utc": "2014-06-16T16:00:00Z",
       "official_match_number": 13,
       "fifa_match_id": "300186475",
-      "fifa_url": "https://en.wikipedia.org/wiki/2014_FIFA_World_Cup",
+      "fifa_url": "https://www.fifa.com/en/match-centre/match/17/251164/255931/300186475",
       "ground": "Arena Fonte Nova, Salvador"
     },
     {
@@ -293,7 +293,7 @@
       "kickoff_utc": "2014-06-16T22:00:00Z",
       "official_match_number": 14,
       "fifa_match_id": "300186512",
-      "fifa_url": "https://en.wikipedia.org/wiki/2014_FIFA_World_Cup",
+      "fifa_url": "https://www.fifa.com/en/match-centre/match/17/251164/255931/300186512",
       "ground": "Estádio das Dunas, Natal"
     },
     {
@@ -314,7 +314,7 @@
       "kickoff_utc": "2014-06-17T16:00:00Z",
       "official_match_number": 15,
       "fifa_match_id": "300186479",
-      "fifa_url": "https://en.wikipedia.org/wiki/2014_FIFA_World_Cup",
+      "fifa_url": "https://www.fifa.com/en/match-centre/match/17/251164/255931/300186479",
       "ground": "Estádio Mineirão, Belo Horizonte"
     },
     {
@@ -335,7 +335,7 @@
       "kickoff_utc": "2014-06-17T22:00:00Z",
       "official_match_number": 16,
       "fifa_match_id": "300186499",
-      "fifa_url": "https://en.wikipedia.org/wiki/2014_FIFA_World_Cup",
+      "fifa_url": "https://www.fifa.com/en/match-centre/match/17/251164/255931/300186499",
       "ground": "Arena Pantanal, Cuiabá"
     },
     {
@@ -356,7 +356,7 @@
       "kickoff_utc": "2014-06-17T19:00:00Z",
       "official_match_number": 17,
       "fifa_match_id": "300186509",
-      "fifa_url": "https://en.wikipedia.org/wiki/2014_FIFA_World_Cup",
+      "fifa_url": "https://www.fifa.com/en/match-centre/match/17/251164/255931/300186509",
       "ground": "Estádio Castelão, Fortaleza"
     },
     {
@@ -377,7 +377,7 @@
       "kickoff_utc": "2014-06-18T22:00:00Z",
       "official_match_number": 18,
       "fifa_match_id": "300186453",
-      "fifa_url": "https://en.wikipedia.org/wiki/2014_FIFA_World_Cup",
+      "fifa_url": "https://www.fifa.com/en/match-centre/match/17/251164/255931/300186453",
       "ground": "Arena Amazônia, Manaus"
     },
     {
@@ -398,7 +398,7 @@
       "kickoff_utc": "2014-06-18T19:00:00Z",
       "official_match_number": 19,
       "fifa_match_id": "300186498",
-      "fifa_url": "https://en.wikipedia.org/wiki/2014_FIFA_World_Cup",
+      "fifa_url": "https://www.fifa.com/en/match-centre/match/17/251164/255931/300186498",
       "ground": "Estádio do Maracanã, Rio de Janeiro"
     },
     {
@@ -419,7 +419,7 @@
       "kickoff_utc": "2014-06-18T16:00:00Z",
       "official_match_number": 20,
       "fifa_match_id": "300186478",
-      "fifa_url": "https://en.wikipedia.org/wiki/2014_FIFA_World_Cup",
+      "fifa_url": "https://www.fifa.com/en/match-centre/match/17/251164/255931/300186478",
       "ground": "Estádio Beira-Rio, Porto Alegre"
     },
     {
@@ -440,7 +440,7 @@
       "kickoff_utc": "2014-06-19T16:00:00Z",
       "official_match_number": 21,
       "fifa_match_id": "300186468",
-      "fifa_url": "https://en.wikipedia.org/wiki/2014_FIFA_World_Cup",
+      "fifa_url": "https://www.fifa.com/en/match-centre/match/17/251164/255931/300186468",
       "ground": "Estádio Nacional Mané Garrincha, Brasília"
     },
     {
@@ -461,7 +461,7 @@
       "kickoff_utc": "2014-06-19T22:00:00Z",
       "official_match_number": 22,
       "fifa_match_id": "300186454",
-      "fifa_url": "https://en.wikipedia.org/wiki/2014_FIFA_World_Cup",
+      "fifa_url": "https://www.fifa.com/en/match-centre/match/17/251164/255931/300186454",
       "ground": "Estádio das Dunas, Natal"
     },
     {
@@ -482,7 +482,7 @@
       "kickoff_utc": "2014-06-19T19:00:00Z",
       "official_match_number": 23,
       "fifa_match_id": "300186486",
-      "fifa_url": "https://en.wikipedia.org/wiki/2014_FIFA_World_Cup",
+      "fifa_url": "https://www.fifa.com/en/match-centre/match/17/251164/255931/300186486",
       "ground": "Arena de São Paulo, São Paulo"
     },
     {
@@ -503,7 +503,7 @@
       "kickoff_utc": "2014-06-20T16:00:00Z",
       "official_match_number": 24,
       "fifa_match_id": "300186500",
-      "fifa_url": "https://en.wikipedia.org/wiki/2014_FIFA_World_Cup",
+      "fifa_url": "https://www.fifa.com/en/match-centre/match/17/251164/255931/300186500",
       "ground": "Arena Pernambuco, Recife"
     },
     {
@@ -524,7 +524,7 @@
       "kickoff_utc": "2014-06-20T19:00:00Z",
       "official_match_number": 25,
       "fifa_match_id": "300186514",
-      "fifa_url": "https://en.wikipedia.org/wiki/2014_FIFA_World_Cup",
+      "fifa_url": "https://www.fifa.com/en/match-centre/match/17/251164/255931/300186514",
       "ground": "Arena Fonte Nova, Salvador"
     },
     {
@@ -545,7 +545,7 @@
       "kickoff_utc": "2014-06-20T22:00:00Z",
       "official_match_number": 26,
       "fifa_match_id": "300186463",
-      "fifa_url": "https://en.wikipedia.org/wiki/2014_FIFA_World_Cup",
+      "fifa_url": "https://www.fifa.com/en/match-centre/match/17/251164/255931/300186463",
       "ground": "Arena da Baixada, Curitiba"
     },
     {
@@ -566,7 +566,7 @@
       "kickoff_utc": "2014-06-21T16:00:00Z",
       "official_match_number": 27,
       "fifa_match_id": "300186466",
-      "fifa_url": "https://en.wikipedia.org/wiki/2014_FIFA_World_Cup",
+      "fifa_url": "https://www.fifa.com/en/match-centre/match/17/251164/255931/300186466",
       "ground": "Estádio Mineirão, Belo Horizonte"
     },
     {
@@ -586,8 +586,8 @@
       },
       "kickoff_utc": "2014-06-21T22:00:00Z",
       "official_match_number": 28,
-      "fifa_match_id": null,
-      "fifa_url": "https://en.wikipedia.org/wiki/2014_FIFA_World_Cup",
+      "fifa_match_id": "300186464",
+      "fifa_url": "https://www.fifa.com/en/match-centre/match/17/251164/255931/300186464",
       "ground": "Arena Pantanal, Cuiabá"
     },
     {
@@ -608,7 +608,7 @@
       "kickoff_utc": "2014-06-21T19:00:00Z",
       "official_match_number": 29,
       "fifa_match_id": "300186493",
-      "fifa_url": "https://en.wikipedia.org/wiki/2014_FIFA_World_Cup",
+      "fifa_url": "https://www.fifa.com/en/match-centre/match/17/251164/255931/300186493",
       "ground": "Estádio Castelão, Fortaleza"
     },
     {
@@ -629,7 +629,7 @@
       "kickoff_utc": "2014-06-22T22:00:00Z",
       "official_match_number": 30,
       "fifa_match_id": "300186483",
-      "fifa_url": "https://en.wikipedia.org/wiki/2014_FIFA_World_Cup",
+      "fifa_url": "https://www.fifa.com/en/match-centre/match/17/251164/255931/300186483",
       "ground": "Arena Amazônia, Manaus"
     },
     {
@@ -650,7 +650,7 @@
       "kickoff_utc": "2014-06-22T16:00:00Z",
       "official_match_number": 31,
       "fifa_match_id": "300186481",
-      "fifa_url": "https://en.wikipedia.org/wiki/2014_FIFA_World_Cup",
+      "fifa_url": "https://www.fifa.com/en/match-centre/match/17/251164/255931/300186481",
       "ground": "Estádio do Maracanã, Rio de Janeiro"
     },
     {
@@ -671,7 +671,7 @@
       "kickoff_utc": "2014-06-22T19:00:00Z",
       "official_match_number": 32,
       "fifa_match_id": "300186495",
-      "fifa_url": "https://en.wikipedia.org/wiki/2014_FIFA_World_Cup",
+      "fifa_url": "https://www.fifa.com/en/match-centre/match/17/251164/255931/300186495",
       "ground": "Estádio Beira-Rio, Porto Alegre"
     },
     {
@@ -692,7 +692,7 @@
       "kickoff_utc": "2014-06-23T20:00:00Z",
       "official_match_number": 33,
       "fifa_match_id": "300186472",
-      "fifa_url": "https://en.wikipedia.org/wiki/2014_FIFA_World_Cup",
+      "fifa_url": "https://www.fifa.com/en/match-centre/match/17/251164/255931/300186472",
       "ground": "Estádio Nacional Mané Garrincha, Brasília"
     },
     {
@@ -713,7 +713,7 @@
       "kickoff_utc": "2014-06-23T20:00:00Z",
       "official_match_number": 34,
       "fifa_match_id": "300186452",
-      "fifa_url": "https://en.wikipedia.org/wiki/2014_FIFA_World_Cup",
+      "fifa_url": "https://www.fifa.com/en/match-centre/match/17/251164/255931/300186452",
       "ground": "Arena Pernambuco, Recife"
     },
     {
@@ -734,7 +734,7 @@
       "kickoff_utc": "2014-06-23T16:00:00Z",
       "official_match_number": 35,
       "fifa_match_id": "300186467",
-      "fifa_url": "https://en.wikipedia.org/wiki/2014_FIFA_World_Cup",
+      "fifa_url": "https://www.fifa.com/en/match-centre/match/17/251164/255931/300186467",
       "ground": "Arena da Baixada, Curitiba"
     },
     {
@@ -755,7 +755,7 @@
       "kickoff_utc": "2014-06-23T16:00:00Z",
       "official_match_number": 36,
       "fifa_match_id": "300186470",
-      "fifa_url": "https://en.wikipedia.org/wiki/2014_FIFA_World_Cup",
+      "fifa_url": "https://www.fifa.com/en/match-centre/match/17/251164/255931/300186470",
       "ground": "Arena de São Paulo, São Paulo"
     },
     {
@@ -776,7 +776,7 @@
       "kickoff_utc": "2014-06-24T20:00:00Z",
       "official_match_number": 37,
       "fifa_match_id": "300186457",
-      "fifa_url": "https://en.wikipedia.org/wiki/2014_FIFA_World_Cup",
+      "fifa_url": "https://www.fifa.com/en/match-centre/match/17/251164/255931/300186457",
       "ground": "Arena Pantanal, Cuiabá"
     },
     {
@@ -797,7 +797,7 @@
       "kickoff_utc": "2014-06-24T20:00:00Z",
       "official_match_number": 38,
       "fifa_match_id": "300186455",
-      "fifa_url": "https://en.wikipedia.org/wiki/2014_FIFA_World_Cup",
+      "fifa_url": "https://www.fifa.com/en/match-centre/match/17/251164/255931/300186455",
       "ground": "Estádio Castelão, Fortaleza"
     },
     {
@@ -818,7 +818,7 @@
       "kickoff_utc": "2014-06-24T16:00:00Z",
       "official_match_number": 39,
       "fifa_match_id": "300186465",
-      "fifa_url": "https://en.wikipedia.org/wiki/2014_FIFA_World_Cup",
+      "fifa_url": "https://www.fifa.com/en/match-centre/match/17/251164/255931/300186465",
       "ground": "Estádio das Dunas, Natal"
     },
     {
@@ -839,7 +839,7 @@
       "kickoff_utc": "2014-06-24T16:00:00Z",
       "official_match_number": 40,
       "fifa_match_id": "300186484",
-      "fifa_url": "https://en.wikipedia.org/wiki/2014_FIFA_World_Cup",
+      "fifa_url": "https://www.fifa.com/en/match-centre/match/17/251164/255931/300186484",
       "ground": "Estádio Mineirão, Belo Horizonte"
     },
     {
@@ -860,7 +860,7 @@
       "kickoff_utc": "2014-06-25T20:00:00Z",
       "official_match_number": 41,
       "fifa_match_id": "300186482",
-      "fifa_url": "https://en.wikipedia.org/wiki/2014_FIFA_World_Cup",
+      "fifa_url": "https://www.fifa.com/en/match-centre/match/17/251164/255931/300186482",
       "ground": "Arena Amazônia, Manaus"
     },
     {
@@ -881,7 +881,7 @@
       "kickoff_utc": "2014-06-25T20:00:00Z",
       "official_match_number": 42,
       "fifa_match_id": "300186515",
-      "fifa_url": "https://en.wikipedia.org/wiki/2014_FIFA_World_Cup",
+      "fifa_url": "https://www.fifa.com/en/match-centre/match/17/251164/255931/300186515",
       "ground": "Estádio do Maracanã, Rio de Janeiro"
     },
     {
@@ -902,7 +902,7 @@
       "kickoff_utc": "2014-06-25T16:00:00Z",
       "official_match_number": 43,
       "fifa_match_id": "300186458",
-      "fifa_url": "https://en.wikipedia.org/wiki/2014_FIFA_World_Cup",
+      "fifa_url": "https://www.fifa.com/en/match-centre/match/17/251164/255931/300186458",
       "ground": "Estádio Beira-Rio, Porto Alegre"
     },
     {
@@ -922,8 +922,8 @@
       },
       "kickoff_utc": "2014-06-25T16:00:00Z",
       "official_match_number": 44,
-      "fifa_match_id": null,
-      "fifa_url": "https://en.wikipedia.org/wiki/2014_FIFA_World_Cup",
+      "fifa_match_id": "300186511",
+      "fifa_url": "https://www.fifa.com/en/match-centre/match/17/251164/255931/300186511",
       "ground": "Arena Fonte Nova, Salvador"
     },
     {
@@ -944,7 +944,7 @@
       "kickoff_utc": "2014-06-26T16:00:00Z",
       "official_match_number": 45,
       "fifa_match_id": "300186469",
-      "fifa_url": "https://en.wikipedia.org/wiki/2014_FIFA_World_Cup",
+      "fifa_url": "https://www.fifa.com/en/match-centre/match/17/251164/255931/300186469",
       "ground": "Arena Pernambuco, Recife"
     },
     {
@@ -965,7 +965,7 @@
       "kickoff_utc": "2014-06-26T16:00:00Z",
       "official_match_number": 46,
       "fifa_match_id": "300186476",
-      "fifa_url": "https://en.wikipedia.org/wiki/2014_FIFA_World_Cup",
+      "fifa_url": "https://www.fifa.com/en/match-centre/match/17/251164/255931/300186476",
       "ground": "Estádio Nacional Mané Garrincha, Brasília"
     },
     {
@@ -986,7 +986,7 @@
       "kickoff_utc": "2014-06-26T20:00:00Z",
       "official_match_number": 47,
       "fifa_match_id": "300186480",
-      "fifa_url": "https://en.wikipedia.org/wiki/2014_FIFA_World_Cup",
+      "fifa_url": "https://www.fifa.com/en/match-centre/match/17/251164/255931/300186480",
       "ground": "Arena de São Paulo, São Paulo"
     },
     {
@@ -1007,7 +1007,7 @@
       "kickoff_utc": "2014-06-26T20:00:00Z",
       "official_match_number": 48,
       "fifa_match_id": "300186506",
-      "fifa_url": "https://en.wikipedia.org/wiki/2014_FIFA_World_Cup",
+      "fifa_url": "https://www.fifa.com/en/match-centre/match/17/251164/255931/300186506",
       "ground": "Arena da Baixada, Curitiba"
     },
     {
@@ -1028,7 +1028,7 @@
       "kickoff_utc": "2014-06-28T16:00:00Z",
       "official_match_number": 49,
       "fifa_match_id": "300186487",
-      "fifa_url": "https://en.wikipedia.org/wiki/2014_FIFA_World_Cup",
+      "fifa_url": "https://www.fifa.com/en/match-centre/match/17/251164/255951/300186487",
       "ground": "Estádio Mineirão, Belo Horizonte"
     },
     {
@@ -1049,7 +1049,7 @@
       "kickoff_utc": "2014-06-28T20:00:00Z",
       "official_match_number": 50,
       "fifa_match_id": "300186491",
-      "fifa_url": "https://en.wikipedia.org/wiki/2014_FIFA_World_Cup",
+      "fifa_url": "https://www.fifa.com/en/match-centre/match/17/251164/255951/300186491",
       "ground": "Estádio do Maracanã, Rio de Janeiro"
     },
     {
@@ -1070,7 +1070,7 @@
       "kickoff_utc": "2014-06-29T16:00:00Z",
       "official_match_number": 51,
       "fifa_match_id": "300186508",
-      "fifa_url": "https://en.wikipedia.org/wiki/2014_FIFA_World_Cup",
+      "fifa_url": "https://www.fifa.com/en/match-centre/match/17/251164/255951/300186508",
       "ground": "Estádio Castelão, Fortaleza"
     },
     {
@@ -1091,7 +1091,7 @@
       "kickoff_utc": "2014-06-29T20:00:00Z",
       "official_match_number": 52,
       "fifa_match_id": "300186459",
-      "fifa_url": "https://en.wikipedia.org/wiki/2014_FIFA_World_Cup",
+      "fifa_url": "https://www.fifa.com/en/match-centre/match/17/251164/255951/300186459",
       "ground": "Arena Pernambuco, Recife"
     },
     {
@@ -1112,7 +1112,7 @@
       "kickoff_utc": "2014-06-30T16:00:00Z",
       "official_match_number": 53,
       "fifa_match_id": "300186462",
-      "fifa_url": "https://en.wikipedia.org/wiki/2014_FIFA_World_Cup",
+      "fifa_url": "https://www.fifa.com/en/match-centre/match/17/251164/255951/300186462",
       "ground": "Estádio Nacional Mané Garrincha, Brasília"
     },
     {
@@ -1133,7 +1133,7 @@
       "kickoff_utc": "2014-06-30T20:00:00Z",
       "official_match_number": 54,
       "fifa_match_id": "300186460",
-      "fifa_url": "https://en.wikipedia.org/wiki/2014_FIFA_World_Cup",
+      "fifa_url": "https://www.fifa.com/en/match-centre/match/17/251164/255951/300186460",
       "ground": "Estádio Beira-Rio, Porto Alegre"
     },
     {
@@ -1154,7 +1154,7 @@
       "kickoff_utc": "2014-07-01T16:00:00Z",
       "official_match_number": 55,
       "fifa_match_id": "300186503",
-      "fifa_url": "https://en.wikipedia.org/wiki/2014_FIFA_World_Cup",
+      "fifa_url": "https://www.fifa.com/en/match-centre/match/17/251164/255951/300186503",
       "ground": "Arena de São Paulo, São Paulo"
     },
     {
@@ -1175,7 +1175,7 @@
       "kickoff_utc": "2014-07-01T20:00:00Z",
       "official_match_number": 56,
       "fifa_match_id": "300186497",
-      "fifa_url": "https://en.wikipedia.org/wiki/2014_FIFA_World_Cup",
+      "fifa_url": "https://www.fifa.com/en/match-centre/match/17/251164/255951/300186497",
       "ground": "Arena Fonte Nova, Salvador"
     },
     {
@@ -1196,7 +1196,7 @@
       "kickoff_utc": "2014-07-04T20:00:00Z",
       "official_match_number": 57,
       "fifa_match_id": "300186461",
-      "fifa_url": "https://en.wikipedia.org/wiki/2014_FIFA_World_Cup",
+      "fifa_url": "https://www.fifa.com/en/match-centre/match/17/251164/255953/300186461",
       "ground": "Estádio Castelão, Fortaleza"
     },
     {
@@ -1217,7 +1217,7 @@
       "kickoff_utc": "2014-07-04T16:00:00Z",
       "official_match_number": 58,
       "fifa_match_id": "300186485",
-      "fifa_url": "https://en.wikipedia.org/wiki/2014_FIFA_World_Cup",
+      "fifa_url": "https://www.fifa.com/en/match-centre/match/17/251164/255953/300186485",
       "ground": "Estádio do Maracanã, Rio de Janeiro"
     },
     {
@@ -1238,7 +1238,7 @@
       "kickoff_utc": "2014-07-05T20:00:00Z",
       "official_match_number": 59,
       "fifa_match_id": "300186488",
-      "fifa_url": "https://en.wikipedia.org/wiki/2014_FIFA_World_Cup",
+      "fifa_url": "https://www.fifa.com/en/match-centre/match/17/251164/255953/300186488",
       "ground": "Arena Fonte Nova, Salvador"
     },
     {
@@ -1259,7 +1259,7 @@
       "kickoff_utc": "2014-07-05T16:00:00Z",
       "official_match_number": 60,
       "fifa_match_id": "300186504",
-      "fifa_url": "https://en.wikipedia.org/wiki/2014_FIFA_World_Cup",
+      "fifa_url": "https://www.fifa.com/en/match-centre/match/17/251164/255953/300186504",
       "ground": "Estádio Nacional Mané Garrincha, Brasília"
     },
     {
@@ -1280,7 +1280,7 @@
       "kickoff_utc": "2014-07-08T20:00:00Z",
       "official_match_number": 61,
       "fifa_match_id": "300186474",
-      "fifa_url": "https://en.wikipedia.org/wiki/2014_FIFA_World_Cup",
+      "fifa_url": "https://www.fifa.com/en/match-centre/match/17/251164/255955/300186474",
       "ground": "Estádio Mineirão, Belo Horizonte"
     },
     {
@@ -1301,7 +1301,7 @@
       "kickoff_utc": "2014-07-09T20:00:00Z",
       "official_match_number": 62,
       "fifa_match_id": "300186490",
-      "fifa_url": "https://en.wikipedia.org/wiki/2014_FIFA_World_Cup",
+      "fifa_url": "https://www.fifa.com/en/match-centre/match/17/251164/255955/300186490",
       "ground": "Arena de São Paulo, São Paulo"
     },
     {
@@ -1322,7 +1322,7 @@
       "kickoff_utc": "2014-07-12T20:00:00Z",
       "official_match_number": 63,
       "fifa_match_id": "300186502",
-      "fifa_url": "https://en.wikipedia.org/wiki/2014_FIFA_World_Cup",
+      "fifa_url": "https://www.fifa.com/en/match-centre/match/17/251164/255957/300186502",
       "ground": "Estádio Nacional Mané Garrincha, Brasília"
     },
     {
@@ -1343,7 +1343,7 @@
       "kickoff_utc": "2014-07-13T19:00:00Z",
       "official_match_number": 64,
       "fifa_match_id": "300186501",
-      "fifa_url": "https://en.wikipedia.org/wiki/2014_FIFA_World_Cup",
+      "fifa_url": "https://www.fifa.com/en/match-centre/match/17/251164/255959/300186501",
       "ground": "Estádio do Maracanã, Rio de Janeiro"
     }
   ]

@@ -16,9 +16,11 @@ GEO:48.218775;11.624753
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Allianz Arena, München";X
  -APPLE-RADIUS=100;X-TITLE="Allianz Arena, München":geo:48.218775,11.62475
  3
-DESCRIPTION:Group A | Matchday 1 | 2006 FIFA World Cup - Germany\nGermany 4
- -2 Costa Rica\nHT: 2-1
-URL:https://en.wikipedia.org/wiki/2006_FIFA_World_Cup
+DESCRIPTION:2006 FIFA World Cup - Germany\nGroup A | Matchday 1\nGermany 4-
+ 2 Costa Rica\nHT: 2-1\nFT: 4-2\nGoals:\nGER 🇩🇪: Philipp Lahm 6'\, Mi
+ roslav Klose 17'\, Miroslav Klose 61'\, Torsten Frings 87'\nCRC 🇨🇷: 
+ Paulo Wanchope 12'\, Paulo Wanchope 73'
+URL:https://www.fifa.com/en/match-centre/match/17/9741/10172/97410001
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2006
@@ -34,9 +36,10 @@ GEO:51.554444;7.067500
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Veltins-Arena, Gelsenkirch
  en";X-APPLE-RADIUS=100;X-TITLE="Veltins-Arena, Gelsenkirchen":geo:51.55444
  4,7.067500
-DESCRIPTION:Group A | Matchday 1 | 2006 FIFA World Cup - Germany\nPoland 0-
- 2 Ecuador\nHT: 0-1
-URL:https://en.wikipedia.org/wiki/2006_FIFA_World_Cup
+DESCRIPTION:2006 FIFA World Cup - Germany\nGroup A | Matchday 1\nPoland 0-2
+  Ecuador\nHT: 0-1\nFT: 0-2\nGoals:\nECU 🇪🇨: Carlos Tenorio 24'\, Agu
+ stin Delgado 80'
+URL:https://www.fifa.com/en/match-centre/match/17/9741/10172/97410002
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2006
@@ -52,9 +55,10 @@ GEO:50.068056;8.645806
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Commerzbank-Arena, Frankfu
  rt";X-APPLE-RADIUS=100;X-TITLE="Commerzbank-Arena, Frankfurt":geo:50.06805
  6,8.645806
-DESCRIPTION:Group B | Matchday 2 | 2006 FIFA World Cup - Germany\nEngland 1
- -0 Paraguay\nHT: 1-0
-URL:https://en.wikipedia.org/wiki/2006_FIFA_World_Cup
+DESCRIPTION:2006 FIFA World Cup - Germany\nGroup B | Matchday 2\nEngland 1-
+ 0 Paraguay\nHT: 1-0\nFT: 1-0\nGoals:\nENG 🏴󠁧󠁢󠁥󠁮󠁧󠁿: Ca
+ rlos Gamarra og 3'
+URL:https://www.fifa.com/en/match-centre/match/17/9741/10172/97410003
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2006
@@ -70,9 +74,9 @@ GEO:51.492500;7.451667
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Signal Iduna Park, Dortmun
  d";X-APPLE-RADIUS=100;X-TITLE="Signal Iduna Park, Dortmund":geo:51.492500,
  7.451667
-DESCRIPTION:Group B | Matchday 2 | 2006 FIFA World Cup - Germany\nTrinidad 
- and Tobago 0-0 Sweden
-URL:https://en.wikipedia.org/wiki/2006_FIFA_World_Cup
+DESCRIPTION:2006 FIFA World Cup - Germany\nGroup B | Matchday 2\nTrinidad a
+ nd Tobago 0-0 Sweden\nHT: 0-0\nFT: 0-0
+URL:https://www.fifa.com/en/match-centre/match/17/9741/10172/97410004
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2006
@@ -87,9 +91,10 @@ LOCATION:AOL Arena\, Hamburg
 GEO:53.587222;9.898611
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="AOL Arena, Hamburg";X-APPL
  E-RADIUS=100;X-TITLE="AOL Arena, Hamburg":geo:53.587222,9.898611
-DESCRIPTION:Group C | Matchday 2 | 2006 FIFA World Cup - Germany\nArgentina
-  2-1 Ivory Coast\nHT: 2-0
-URL:https://en.wikipedia.org/wiki/2006_FIFA_World_Cup
+DESCRIPTION:2006 FIFA World Cup - Germany\nGroup C | Matchday 2\nArgentina 
+ 2-1 Ivory Coast\nHT: 2-0\nFT: 2-1\nGoals:\nARG 🇦🇷: Hernan Crespo 24'
+ \, Javier Saviola 38'\nCIV 🇨🇮: Didier Drogba 82'
+URL:https://www.fifa.com/en/match-centre/match/17/9741/10172/97410005
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2006
@@ -105,9 +110,10 @@ GEO:51.345833;12.348333
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Zentralstadion, Leipzig";X
  -APPLE-RADIUS=100;X-TITLE="Zentralstadion, Leipzig":geo:51.345833,12.34833
  3
-DESCRIPTION:Group C | Matchday 3 | 2006 FIFA World Cup - Germany\nSerbia an
- d Montenegro 0-1 Netherlands\nHT: 0-1
-URL:https://en.wikipedia.org/wiki/2006_FIFA_World_Cup
+DESCRIPTION:2006 FIFA World Cup - Germany\nGroup C | Matchday 3\nSerbia and
+  Montenegro 0-1 Netherlands\nHT: 0-1\nFT: 0-1\nGoals:\nNED 🇳🇱: Arjen
+  Robben 18'
+URL:https://www.fifa.com/en/match-centre/match/17/9741/10172/97410006
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2006
@@ -123,9 +129,10 @@ GEO:49.426111;11.125833
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Frankenstadion, Nürnberg"
  ;X-APPLE-RADIUS=100;X-TITLE="Frankenstadion, Nürnberg":geo:49.426111,11.1
  25833
-DESCRIPTION:Group D | Matchday 3 | 2006 FIFA World Cup - Germany\nMexico 3-
- 1 Iran\nHT: 1-1
-URL:https://en.wikipedia.org/wiki/2006_FIFA_World_Cup
+DESCRIPTION:2006 FIFA World Cup - Germany\nGroup D | Matchday 3\nMexico 3-1
+  Iran\nHT: 1-1\nFT: 3-1\nGoals:\nMEX 🇲🇽: Omar Bravo 28'\, Omar Bravo
+  76'\, Antonio Naelson 'Zinha' 79'\nIRN 🇮🇷: Yahya Golmohammadi 36'
+URL:https://www.fifa.com/en/match-centre/match/17/9741/10172/97410007
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2006
@@ -141,9 +148,9 @@ GEO:50.933611;6.875000
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="RheinEnergieStadion, Köln
  ";X-APPLE-RADIUS=100;X-TITLE="RheinEnergieStadion, Köln":geo:50.933611,6.
  875000
-DESCRIPTION:Group D | Matchday 3 | 2006 FIFA World Cup - Germany\nAngola 0-
- 1 Portugal\nHT: 0-1
-URL:https://en.wikipedia.org/wiki/2006_FIFA_World_Cup
+DESCRIPTION:2006 FIFA World Cup - Germany\nGroup D | Matchday 3\nAngola 0-1
+  Portugal\nHT: 0-1\nFT: 0-1\nGoals:\nPOR 🇵🇹: Pedro Pauleta 4'
+URL:https://www.fifa.com/en/match-centre/match/17/9741/10172/97410008
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2006
@@ -158,9 +165,10 @@ LOCATION:AWD-Arena\, Hannover
 GEO:52.360000;9.731111
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="AWD-Arena, Hannover";X-APP
  LE-RADIUS=100;X-TITLE="AWD-Arena, Hannover":geo:52.360000,9.731111
-DESCRIPTION:Group E | Matchday 4 | 2006 FIFA World Cup - Germany\nItaly 2-0
-  Ghana\nHT: 1-0
-URL:https://en.wikipedia.org/wiki/2006_FIFA_World_Cup
+DESCRIPTION:2006 FIFA World Cup - Germany\nGroup E | Matchday 4\nItaly 2-0 
+ Ghana\nHT: 1-0\nFT: 2-0\nGoals:\nITA 🇮🇹: Andrea Pirlo 40'\, Vincenzo
+  Iaquinta 83'
+URL:https://www.fifa.com/en/match-centre/match/17/9741/10172/97410009
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2006
@@ -176,9 +184,10 @@ GEO:51.554444;7.067500
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Veltins-Arena, Gelsenkirch
  en";X-APPLE-RADIUS=100;X-TITLE="Veltins-Arena, Gelsenkirchen":geo:51.55444
  4,7.067500
-DESCRIPTION:Group E | Matchday 4 | 2006 FIFA World Cup - Germany\nUSA 0-3 C
- zech Republic\nHT: 0-2
-URL:https://en.wikipedia.org/wiki/2006_FIFA_World_Cup
+DESCRIPTION:2006 FIFA World Cup - Germany\nGroup E | Matchday 4\nUSA 0-3 Cz
+ ech Republic\nHT: 0-2\nFT: 0-3\nGoals:\nCZE 🇨🇿: Jan Koller 5'\, Toma
+ s Rosicky 36'\, Tomas Rosicky 76'
+URL:https://www.fifa.com/en/match-centre/match/17/9741/10172/97410010
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2006
@@ -193,9 +202,9 @@ LOCATION:Olympiastadion\, Berlin
 GEO:52.514722;13.239444
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Olympiastadion, Berlin";X-
  APPLE-RADIUS=100;X-TITLE="Olympiastadion, Berlin":geo:52.514722,13.239444
-DESCRIPTION:Group F | Matchday 5 | 2006 FIFA World Cup - Germany\nBrazil 1-
- 0 Croatia\nHT: 1-0
-URL:https://en.wikipedia.org/wiki/2006_FIFA_World_Cup
+DESCRIPTION:2006 FIFA World Cup - Germany\nGroup F | Matchday 5\nBrazil 1-0
+  Croatia\nHT: 1-0\nFT: 1-0\nGoals:\nBRA 🇧🇷: Kaka 44'
+URL:https://www.fifa.com/en/match-centre/match/17/9741/10172/97410011
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2006
@@ -211,9 +220,10 @@ GEO:49.434722;7.776667
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Fritz-Walter-Stadion, Kais
  erslautern";X-APPLE-RADIUS=100;X-TITLE="Fritz-Walter-Stadion, Kaiserslaute
  rn":geo:49.434722,7.776667
-DESCRIPTION:Group F | Matchday 4 | 2006 FIFA World Cup - Germany\nAustralia
-  3-1 Japan\nHT: 0-1
-URL:https://en.wikipedia.org/wiki/2006_FIFA_World_Cup
+DESCRIPTION:2006 FIFA World Cup - Germany\nGroup F | Matchday 4\nAustralia 
+ 3-1 Japan\nHT: 0-1\nFT: 3-1\nGoals:\nAUS 🇦🇺: Tim Cahill 84'\, Tim Ca
+ hill 89'\, John Aloisi 90+2'\nJPN 🇯🇵: Shunsuke Nakamura 26'
+URL:https://www.fifa.com/en/match-centre/match/17/9741/10172/97410012
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2006
@@ -229,9 +239,9 @@ GEO:48.792222;9.231944
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Gottlieb-Daimler-Stadion, 
  Stuttgart";X-APPLE-RADIUS=100;X-TITLE="Gottlieb-Daimler-Stadion, Stuttgart
  ":geo:48.792222,9.231944
-DESCRIPTION:Group G | Matchday 5 | 2006 FIFA World Cup - Germany\nFrance 0-
- 0 Switzerland
-URL:https://en.wikipedia.org/wiki/2006_FIFA_World_Cup
+DESCRIPTION:2006 FIFA World Cup - Germany\nGroup G | Matchday 5\nFrance 0-0
+  Switzerland\nHT: 0-0\nFT: 0-0
+URL:https://www.fifa.com/en/match-centre/match/17/9741/10172/97410013
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2006
@@ -247,9 +257,10 @@ GEO:50.068056;8.645806
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Commerzbank-Arena, Frankfu
  rt";X-APPLE-RADIUS=100;X-TITLE="Commerzbank-Arena, Frankfurt":geo:50.06805
  6,8.645806
-DESCRIPTION:Group G | Matchday 5 | 2006 FIFA World Cup - Germany\nSouth Kor
- ea 2-1 Togo\nHT: 0-1
-URL:https://en.wikipedia.org/wiki/2006_FIFA_World_Cup
+DESCRIPTION:2006 FIFA World Cup - Germany\nGroup G | Matchday 5\nSouth Kore
+ a 2-1 Togo\nHT: 0-1\nFT: 2-1\nGoals:\nKOR 🇰🇷: Lee Chun-soo 54'\, Ahn
+  Jung-hwan 72'\nTOG 🇹🇬: Abdelkader Coubadja 31'
+URL:https://www.fifa.com/en/match-centre/match/17/9741/10172/97410014
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2006
@@ -265,9 +276,10 @@ GEO:51.345833;12.348333
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Zentralstadion, Leipzig";X
  -APPLE-RADIUS=100;X-TITLE="Zentralstadion, Leipzig":geo:51.345833,12.34833
  3
-DESCRIPTION:Group H | Matchday 6 | 2006 FIFA World Cup - Germany\nSpain 4-0
-  Ukraine\nHT: 2-0
-URL:https://en.wikipedia.org/wiki/2006_FIFA_World_Cup
+DESCRIPTION:2006 FIFA World Cup - Germany\nGroup H | Matchday 6\nSpain 4-0 
+ Ukraine\nHT: 2-0\nFT: 4-0\nGoals:\nESP 🇪🇸: Xabi Alonso 13'\, David V
+ illa 17'\, David Villa 48' pen\, Fernando Torres 81'
+URL:https://www.fifa.com/en/match-centre/match/17/9741/10172/97410015
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2006
@@ -283,9 +295,10 @@ GEO:48.218775;11.624753
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Allianz Arena, München";X
  -APPLE-RADIUS=100;X-TITLE="Allianz Arena, München":geo:48.218775,11.62475
  3
-DESCRIPTION:Group H | Matchday 6 | 2006 FIFA World Cup - Germany\nTunisia 2
- -2 Saudi Arabia\nHT: 1-0
-URL:https://en.wikipedia.org/wiki/2006_FIFA_World_Cup
+DESCRIPTION:2006 FIFA World Cup - Germany\nGroup H | Matchday 6\nTunisia 2-
+ 2 Saudi Arabia\nHT: 1-0\nFT: 2-2\nGoals:\nTUN 🇹🇳: Zied Jaziri 23'\, 
+ Radhi Jaidi 90+3'\nKSA 🇸🇦: Yassir Al Qahtani 57'\, Sami Al Jaber 84'
+URL:https://www.fifa.com/en/match-centre/match/17/9741/10172/97410016
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2006
@@ -301,9 +314,9 @@ GEO:51.492500;7.451667
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Signal Iduna Park, Dortmun
  d";X-APPLE-RADIUS=100;X-TITLE="Signal Iduna Park, Dortmund":geo:51.492500,
  7.451667
-DESCRIPTION:Group A | Matchday 6 | 2006 FIFA World Cup - Germany\nGermany 1
- -0 Poland\nHT: 0-0
-URL:https://en.wikipedia.org/wiki/2006_FIFA_World_Cup
+DESCRIPTION:2006 FIFA World Cup - Germany\nGroup A | Matchday 6\nGermany 1-
+ 0 Poland\nHT: 0-0\nFT: 1-0\nGoals:\nGER 🇩🇪: Oliver Neuville 90+1'
+URL:https://www.fifa.com/en/match-centre/match/17/9741/10172/97410017
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2006
@@ -318,9 +331,10 @@ LOCATION:AOL Arena\, Hamburg
 GEO:53.587222;9.898611
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="AOL Arena, Hamburg";X-APPL
  E-RADIUS=100;X-TITLE="AOL Arena, Hamburg":geo:53.587222,9.898611
-DESCRIPTION:Group A | Matchday 7 | 2006 FIFA World Cup - Germany\nEcuador 3
- -0 Costa Rica\nHT: 1-0
-URL:https://en.wikipedia.org/wiki/2006_FIFA_World_Cup
+DESCRIPTION:2006 FIFA World Cup - Germany\nGroup A | Matchday 7\nEcuador 3-
+ 0 Costa Rica\nHT: 1-0\nFT: 3-0\nGoals:\nECU 🇪🇨: Carlos Tenorio 8'\, 
+ Agustin Delgado 54'\, Ivan Kaviedes 90+2'
+URL:https://www.fifa.com/en/match-centre/match/17/9741/10172/97410018
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2006
@@ -336,9 +350,10 @@ GEO:49.426111;11.125833
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Frankenstadion, Nürnberg"
  ;X-APPLE-RADIUS=100;X-TITLE="Frankenstadion, Nürnberg":geo:49.426111,11.1
  25833
-DESCRIPTION:Group B | Matchday 7 | 2006 FIFA World Cup - Germany\nEngland 2
- -0 Trinidad and Tobago\nHT: 0-0
-URL:https://en.wikipedia.org/wiki/2006_FIFA_World_Cup
+DESCRIPTION:2006 FIFA World Cup - Germany\nGroup B | Matchday 7\nEngland 2-
+ 0 Trinidad and Tobago\nHT: 0-0\nFT: 2-0\nGoals:\nENG 🏴󠁧󠁢󠁥󠁮
+ 󠁧󠁿: Peter Crouch 83'\, Steven Gerrard 90+1'
+URL:https://www.fifa.com/en/match-centre/match/17/9741/10172/97410019
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2006
@@ -353,9 +368,9 @@ LOCATION:Olympiastadion\, Berlin
 GEO:52.514722;13.239444
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Olympiastadion, Berlin";X-
  APPLE-RADIUS=100;X-TITLE="Olympiastadion, Berlin":geo:52.514722,13.239444
-DESCRIPTION:Group B | Matchday 7 | 2006 FIFA World Cup - Germany\nSweden 1-
- 0 Paraguay\nHT: 0-0
-URL:https://en.wikipedia.org/wiki/2006_FIFA_World_Cup
+DESCRIPTION:2006 FIFA World Cup - Germany\nGroup B | Matchday 7\nSweden 1-0
+  Paraguay\nHT: 0-0\nFT: 1-0\nGoals:\nSWE 🇸🇪: Freddie Ljungberg 89'
+URL:https://www.fifa.com/en/match-centre/match/17/9741/10172/97410020
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2006
@@ -371,9 +386,11 @@ GEO:51.554444;7.067500
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Veltins-Arena, Gelsenkirch
  en";X-APPLE-RADIUS=100;X-TITLE="Veltins-Arena, Gelsenkirchen":geo:51.55444
  4,7.067500
-DESCRIPTION:Group C | Matchday 8 | 2006 FIFA World Cup - Germany\nArgentina
-  6-0 Serbia and Montenegro\nHT: 3-0
-URL:https://en.wikipedia.org/wiki/2006_FIFA_World_Cup
+DESCRIPTION:2006 FIFA World Cup - Germany\nGroup C | Matchday 8\nArgentina 
+ 6-0 Serbia and Montenegro\nHT: 3-0\nFT: 6-0\nGoals:\nARG 🇦🇷: Maxi Ro
+ driguez 6'\, Maxi Rodriguez 41'\, Esteban Cambiasso 31'\, Hernan Crespo 78
+ '\, Carlos Tevez 84'\, Lionel Messi 88'
+URL:https://www.fifa.com/en/match-centre/match/17/9741/10172/97410021
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2006
@@ -389,9 +406,10 @@ GEO:48.792222;9.231944
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Gottlieb-Daimler-Stadion, 
  Stuttgart";X-APPLE-RADIUS=100;X-TITLE="Gottlieb-Daimler-Stadion, Stuttgart
  ":geo:48.792222,9.231944
-DESCRIPTION:Group C | Matchday 8 | 2006 FIFA World Cup - Germany\nNetherlan
- ds 2-1 Ivory Coast\nHT: 2-1
-URL:https://en.wikipedia.org/wiki/2006_FIFA_World_Cup
+DESCRIPTION:2006 FIFA World Cup - Germany\nGroup C | Matchday 8\nNetherland
+ s 2-1 Ivory Coast\nHT: 2-1\nFT: 2-1\nGoals:\nNED 🇳🇱: Robin van Persi
+ e 23'\, Ruud van Nistelrooy 26'\nCIV 🇨🇮: Bakary Kone 38'
+URL:https://www.fifa.com/en/match-centre/match/17/9741/10172/97410022
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2006
@@ -406,9 +424,9 @@ LOCATION:AWD-Arena\, Hannover
 GEO:52.360000;9.731111
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="AWD-Arena, Hannover";X-APP
  LE-RADIUS=100;X-TITLE="AWD-Arena, Hannover":geo:52.360000,9.731111
-DESCRIPTION:Group D | Matchday 8 | 2006 FIFA World Cup - Germany\nMexico 0-
- 0 Angola
-URL:https://en.wikipedia.org/wiki/2006_FIFA_World_Cup
+DESCRIPTION:2006 FIFA World Cup - Germany\nGroup D | Matchday 8\nMexico 0-0
+  Angola\nHT: 0-0\nFT: 0-0
+URL:https://www.fifa.com/en/match-centre/match/17/9741/10172/97410023
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2006
@@ -424,9 +442,10 @@ GEO:50.068056;8.645806
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Commerzbank-Arena, Frankfu
  rt";X-APPLE-RADIUS=100;X-TITLE="Commerzbank-Arena, Frankfurt":geo:50.06805
  6,8.645806
-DESCRIPTION:Group D | Matchday 9 | 2006 FIFA World Cup - Germany\nPortugal 
- 2-0 Iran\nHT: 0-0
-URL:https://en.wikipedia.org/wiki/2006_FIFA_World_Cup
+DESCRIPTION:2006 FIFA World Cup - Germany\nGroup D | Matchday 9\nPortugal 2
+ -0 Iran\nHT: 0-0\nFT: 2-0\nGoals:\nPOR 🇵🇹: Deco 63'\, Cristiano Rona
+ ldo 80' pen
+URL:https://www.fifa.com/en/match-centre/match/17/9741/10172/97410024
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2006
@@ -442,9 +461,10 @@ GEO:49.434722;7.776667
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Fritz-Walter-Stadion, Kais
  erslautern";X-APPLE-RADIUS=100;X-TITLE="Fritz-Walter-Stadion, Kaiserslaute
  rn":geo:49.434722,7.776667
-DESCRIPTION:Group E | Matchday 9 | 2006 FIFA World Cup - Germany\nItaly 1-1
-  USA\nHT: 1-1
-URL:https://en.wikipedia.org/wiki/2006_FIFA_World_Cup
+DESCRIPTION:2006 FIFA World Cup - Germany\nGroup E | Matchday 9\nItaly 1-1 
+ USA\nHT: 1-1\nFT: 1-1\nGoals:\nITA 🇮🇹: Alberto Gilardino 22'\nUSA 
+ 🇺🇸: Cristian Zaccardo og 27'
+URL:https://www.fifa.com/en/match-centre/match/17/9741/10172/97410025
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2006
@@ -460,9 +480,10 @@ GEO:50.933611;6.875000
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="RheinEnergieStadion, Köln
  ";X-APPLE-RADIUS=100;X-TITLE="RheinEnergieStadion, Köln":geo:50.933611,6.
  875000
-DESCRIPTION:Group E | Matchday 9 | 2006 FIFA World Cup - Germany\nCzech Rep
- ublic 0-2 Ghana\nHT: 0-1
-URL:https://en.wikipedia.org/wiki/2006_FIFA_World_Cup
+DESCRIPTION:2006 FIFA World Cup - Germany\nGroup E | Matchday 9\nCzech Repu
+ blic 0-2 Ghana\nHT: 0-1\nFT: 0-2\nGoals:\nGHA 🇬🇭: Asamoah Gyan 2'\, 
+ Sulley Muntari 82'
+URL:https://www.fifa.com/en/match-centre/match/17/9741/10172/97410026
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2006
@@ -478,9 +499,10 @@ GEO:48.218775;11.624753
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Allianz Arena, München";X
  -APPLE-RADIUS=100;X-TITLE="Allianz Arena, München":geo:48.218775,11.62475
  3
-DESCRIPTION:Group F | Matchday 10 | 2006 FIFA World Cup - Germany\nBrazil 2
- -0 Australia\nHT: 0-0
-URL:https://en.wikipedia.org/wiki/2006_FIFA_World_Cup
+DESCRIPTION:2006 FIFA World Cup - Germany\nGroup F | Matchday 10\nBrazil 2-
+ 0 Australia\nHT: 0-0\nFT: 2-0\nGoals:\nBRA 🇧🇷: Adriano 49'\, Fred 89
+ '
+URL:https://www.fifa.com/en/match-centre/match/17/9741/10172/97410027
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2006
@@ -496,9 +518,9 @@ GEO:49.426111;11.125833
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Frankenstadion, Nürnberg"
  ;X-APPLE-RADIUS=100;X-TITLE="Frankenstadion, Nürnberg":geo:49.426111,11.1
  25833
-DESCRIPTION:Group F | Matchday 10 | 2006 FIFA World Cup - Germany\nJapan 0-
- 0 Croatia
-URL:https://en.wikipedia.org/wiki/2006_FIFA_World_Cup
+DESCRIPTION:2006 FIFA World Cup - Germany\nGroup F | Matchday 10\nJapan 0-0
+  Croatia\nHT: 0-0\nFT: 0-0
+URL:https://www.fifa.com/en/match-centre/match/17/9741/10172/97410028
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2006
@@ -514,9 +536,10 @@ GEO:51.345833;12.348333
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Zentralstadion, Leipzig";X
  -APPLE-RADIUS=100;X-TITLE="Zentralstadion, Leipzig":geo:51.345833,12.34833
  3
-DESCRIPTION:Group G | Matchday 10 | 2006 FIFA World Cup - Germany\nFrance 1
- -1 South Korea\nHT: 1-0
-URL:https://en.wikipedia.org/wiki/2006_FIFA_World_Cup
+DESCRIPTION:2006 FIFA World Cup - Germany\nGroup G | Matchday 10\nFrance 1-
+ 1 South Korea\nHT: 1-0\nFT: 1-1\nGoals:\nFRA 🇫🇷: Thierry Henry 9'\nK
+ OR 🇰🇷: Park Ji-sung 81'
+URL:https://www.fifa.com/en/match-centre/match/17/9741/10172/97410029
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2006
@@ -532,9 +555,10 @@ GEO:51.492500;7.451667
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Signal Iduna Park, Dortmun
  d";X-APPLE-RADIUS=100;X-TITLE="Signal Iduna Park, Dortmund":geo:51.492500,
  7.451667
-DESCRIPTION:Group G | Matchday 11 | 2006 FIFA World Cup - Germany\nTogo 0-2
-  Switzerland\nHT: 0-1
-URL:https://en.wikipedia.org/wiki/2006_FIFA_World_Cup
+DESCRIPTION:2006 FIFA World Cup - Germany\nGroup G | Matchday 11\nTogo 0-2 
+ Switzerland\nHT: 0-1\nFT: 0-2\nGoals:\nSUI 🇨🇭: Alexander Frei 16'\, 
+ Tranquillo Barnetta 88'
+URL:https://www.fifa.com/en/match-centre/match/17/9741/10172/97410030
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2006
@@ -550,9 +574,10 @@ GEO:48.792222;9.231944
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Gottlieb-Daimler-Stadion, 
  Stuttgart";X-APPLE-RADIUS=100;X-TITLE="Gottlieb-Daimler-Stadion, Stuttgart
  ":geo:48.792222,9.231944
-DESCRIPTION:Group H | Matchday 11 | 2006 FIFA World Cup - Germany\nSpain 3-
- 1 Tunisia\nHT: 0-1
-URL:https://en.wikipedia.org/wiki/2006_FIFA_World_Cup
+DESCRIPTION:2006 FIFA World Cup - Germany\nGroup H | Matchday 11\nSpain 3-1
+  Tunisia\nHT: 0-1\nFT: 3-1\nGoals:\nESP 🇪🇸: Raul 71'\, Fernando Torr
+ es 76'\, Fernando Torres 90+1' pen\nTUN 🇹🇳: Jaouhar Mnari 8'
+URL:https://www.fifa.com/en/match-centre/match/17/9741/10172/97410031
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2006
@@ -567,9 +592,10 @@ LOCATION:AOL Arena\, Hamburg
 GEO:53.587222;9.898611
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="AOL Arena, Hamburg";X-APPL
  E-RADIUS=100;X-TITLE="AOL Arena, Hamburg":geo:53.587222,9.898611
-DESCRIPTION:Group H | Matchday 11 | 2006 FIFA World Cup - Germany\nSaudi Ar
- abia 0-4 Ukraine\nHT: 0-2
-URL:https://en.wikipedia.org/wiki/2006_FIFA_World_Cup
+DESCRIPTION:2006 FIFA World Cup - Germany\nGroup H | Matchday 11\nSaudi Ara
+ bia 0-4 Ukraine\nHT: 0-2\nFT: 0-4\nGoals:\nUKR 🇺🇦: Andriy Rusol 4'\,
+  Serhiy Rebrov 36'\, Andriy Shevchenko 46'\, Maksym Kalinichenko 84'
+URL:https://www.fifa.com/en/match-centre/match/17/9741/10172/97410032
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2006
@@ -584,9 +610,10 @@ LOCATION:Olympiastadion\, Berlin
 GEO:52.514722;13.239444
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Olympiastadion, Berlin";X-
  APPLE-RADIUS=100;X-TITLE="Olympiastadion, Berlin":geo:52.514722,13.239444
-DESCRIPTION:Group A | Matchday 12 | 2006 FIFA World Cup - Germany\nEcuador 
- 0-3 Germany\nHT: 0-2
-URL:https://en.wikipedia.org/wiki/2006_FIFA_World_Cup
+DESCRIPTION:2006 FIFA World Cup - Germany\nGroup A | Matchday 12\nEcuador 0
+ -3 Germany\nHT: 0-2\nFT: 0-3\nGoals:\nGER 🇩🇪: Miroslav Klose 4'\, Mi
+ roslav Klose 44'\, Lukas Podolski 57'
+URL:https://www.fifa.com/en/match-centre/match/17/9741/10172/97410033
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2006
@@ -601,9 +628,10 @@ LOCATION:AWD-Arena\, Hannover
 GEO:52.360000;9.731111
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="AWD-Arena, Hannover";X-APP
  LE-RADIUS=100;X-TITLE="AWD-Arena, Hannover":geo:52.360000,9.731111
-DESCRIPTION:Group A | Matchday 12 | 2006 FIFA World Cup - Germany\nCosta Ri
- ca 1-2 Poland\nHT: 1-1
-URL:https://en.wikipedia.org/wiki/2006_FIFA_World_Cup
+DESCRIPTION:2006 FIFA World Cup - Germany\nGroup A | Matchday 12\nCosta Ric
+ a 1-2 Poland\nHT: 1-1\nFT: 1-2\nGoals:\nCRC 🇨🇷: Ronald Gomez 24'\nPO
+ L 🇵🇱: Bartosz Bosacki 33'\, Bartosz Bosacki 66'
+URL:https://www.fifa.com/en/match-centre/match/17/9741/10172/97410034
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2006
@@ -619,9 +647,11 @@ GEO:50.933611;6.875000
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="RheinEnergieStadion, Köln
  ";X-APPLE-RADIUS=100;X-TITLE="RheinEnergieStadion, Köln":geo:50.933611,6.
  875000
-DESCRIPTION:Group B | Matchday 12 | 2006 FIFA World Cup - Germany\nSweden 2
- -2 England\nHT: 0-1
-URL:https://en.wikipedia.org/wiki/2006_FIFA_World_Cup
+DESCRIPTION:2006 FIFA World Cup - Germany\nGroup B | Matchday 12\nSweden 2-
+ 2 England\nHT: 0-1\nFT: 2-2\nGoals:\nSWE 🇸🇪: Marcus Allback 51'\, He
+ nrik Larsson 90'\nENG 🏴󠁧󠁢󠁥󠁮󠁧󠁿: Joe Cole 34'\, Steven 
+ Gerrard 85'
+URL:https://www.fifa.com/en/match-centre/match/17/9741/10172/97410035
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2006
@@ -637,9 +667,10 @@ GEO:49.434722;7.776667
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Fritz-Walter-Stadion, Kais
  erslautern";X-APPLE-RADIUS=100;X-TITLE="Fritz-Walter-Stadion, Kaiserslaute
  rn":geo:49.434722,7.776667
-DESCRIPTION:Group B | Matchday 12 | 2006 FIFA World Cup - Germany\nParaguay
-  2-0 Trinidad and Tobago\nHT: 1-0
-URL:https://en.wikipedia.org/wiki/2006_FIFA_World_Cup
+DESCRIPTION:2006 FIFA World Cup - Germany\nGroup B | Matchday 12\nParaguay 
+ 2-0 Trinidad and Tobago\nHT: 1-0\nFT: 2-0\nGoals:\nPAR 🇵🇾: Brent San
+ cho og 25'\, Nelson Cuevas 86'
+URL:https://www.fifa.com/en/match-centre/match/17/9741/10172/97410036
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2006
@@ -655,9 +686,9 @@ GEO:50.068056;8.645806
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Commerzbank-Arena, Frankfu
  rt";X-APPLE-RADIUS=100;X-TITLE="Commerzbank-Arena, Frankfurt":geo:50.06805
  6,8.645806
-DESCRIPTION:Group C | Matchday 13 | 2006 FIFA World Cup - Germany\nNetherla
- nds 0-0 Argentina
-URL:https://en.wikipedia.org/wiki/2006_FIFA_World_Cup
+DESCRIPTION:2006 FIFA World Cup - Germany\nGroup C | Matchday 13\nNetherlan
+ ds 0-0 Argentina\nHT: 0-0\nFT: 0-0
+URL:https://www.fifa.com/en/match-centre/match/17/9741/10172/97410037
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2006
@@ -673,9 +704,11 @@ GEO:48.218775;11.624753
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Allianz Arena, München";X
  -APPLE-RADIUS=100;X-TITLE="Allianz Arena, München":geo:48.218775,11.62475
  3
-DESCRIPTION:Group C | Matchday 13 | 2006 FIFA World Cup - Germany\nIvory Co
- ast 3-2 Serbia and Montenegro\nHT: 1-2
-URL:https://en.wikipedia.org/wiki/2006_FIFA_World_Cup
+DESCRIPTION:2006 FIFA World Cup - Germany\nGroup C | Matchday 13\nIvory Coa
+ st 3-2 Serbia and Montenegro\nHT: 1-2\nFT: 3-2\nGoals:\nCIV 🇨🇮: Arun
+ a Dindane 36' pen\, Aruna Dindane 67'\, Bonaventure Kalou 86' pen\nSCG: Ni
+ kola Zigic 10'\, Sasa Ilic 20'
+URL:https://www.fifa.com/en/match-centre/match/17/9741/10172/97410038
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2006
@@ -691,9 +724,10 @@ GEO:51.554444;7.067500
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Veltins-Arena, Gelsenkirch
  en";X-APPLE-RADIUS=100;X-TITLE="Veltins-Arena, Gelsenkirchen":geo:51.55444
  4,7.067500
-DESCRIPTION:Group D | Matchday 13 | 2006 FIFA World Cup - Germany\nPortugal
-  2-1 Mexico\nHT: 2-1
-URL:https://en.wikipedia.org/wiki/2006_FIFA_World_Cup
+DESCRIPTION:2006 FIFA World Cup - Germany\nGroup D | Matchday 13\nPortugal 
+ 2-1 Mexico\nHT: 2-1\nFT: 2-1\nGoals:\nPOR 🇵🇹: Maniche 6'\, Simao Sab
+ rosa 24' pen\nMEX 🇲🇽: Jose Fonseca 29'
+URL:https://www.fifa.com/en/match-centre/match/17/9741/10172/97410039
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2006
@@ -709,9 +743,10 @@ GEO:51.345833;12.348333
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Zentralstadion, Leipzig";X
  -APPLE-RADIUS=100;X-TITLE="Zentralstadion, Leipzig":geo:51.345833,12.34833
  3
-DESCRIPTION:Group D | Matchday 13 | 2006 FIFA World Cup - Germany\nIran 1-1
-  Angola\nHT: 0-0
-URL:https://en.wikipedia.org/wiki/2006_FIFA_World_Cup
+DESCRIPTION:2006 FIFA World Cup - Germany\nGroup D | Matchday 13\nIran 1-1 
+ Angola\nHT: 0-0\nFT: 1-1\nGoals:\nIRN 🇮🇷: Sohrab Bakhtiarizadeh 75'\
+ nANG 🇦🇴: Flavio 60'
+URL:https://www.fifa.com/en/match-centre/match/17/9741/10172/97410040
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2006
@@ -726,9 +761,10 @@ LOCATION:AOL Arena\, Hamburg
 GEO:53.587222;9.898611
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="AOL Arena, Hamburg";X-APPL
  E-RADIUS=100;X-TITLE="AOL Arena, Hamburg":geo:53.587222,9.898611
-DESCRIPTION:Group E | Matchday 14 | 2006 FIFA World Cup - Germany\nCzech Re
- public 0-2 Italy\nHT: 0-1
-URL:https://en.wikipedia.org/wiki/2006_FIFA_World_Cup
+DESCRIPTION:2006 FIFA World Cup - Germany\nGroup E | Matchday 14\nCzech Rep
+ ublic 0-2 Italy\nHT: 0-1\nFT: 0-2\nGoals:\nITA 🇮🇹: Marco Materazzi 2
+ 6'\, Filippo Inzaghi 87'
+URL:https://www.fifa.com/en/match-centre/match/17/9741/10172/97410041
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2006
@@ -744,9 +780,10 @@ GEO:49.426111;11.125833
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Frankenstadion, Nürnberg"
  ;X-APPLE-RADIUS=100;X-TITLE="Frankenstadion, Nürnberg":geo:49.426111,11.1
  25833
-DESCRIPTION:Group E | Matchday 14 | 2006 FIFA World Cup - Germany\nGhana 2-
- 1 USA\nHT: 2-1
-URL:https://en.wikipedia.org/wiki/2006_FIFA_World_Cup
+DESCRIPTION:2006 FIFA World Cup - Germany\nGroup E | Matchday 14\nGhana 2-1
+  USA\nHT: 2-1\nFT: 2-1\nGoals:\nGHA 🇬🇭: Haminu Dramani 22'\, Stephen
+  Appiah 45+2' pen\nUSA 🇺🇸: Clint Dempsey 43'
+URL:https://www.fifa.com/en/match-centre/match/17/9741/10172/97410042
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2006
@@ -762,9 +799,11 @@ GEO:51.492500;7.451667
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Signal Iduna Park, Dortmun
  d";X-APPLE-RADIUS=100;X-TITLE="Signal Iduna Park, Dortmund":geo:51.492500,
  7.451667
-DESCRIPTION:Group F | Matchday 14 | 2006 FIFA World Cup - Germany\nJapan 1-
- 4 Brazil\nHT: 1-1
-URL:https://en.wikipedia.org/wiki/2006_FIFA_World_Cup
+DESCRIPTION:2006 FIFA World Cup - Germany\nGroup F | Matchday 14\nJapan 1-4
+  Brazil\nHT: 1-1\nFT: 1-4\nGoals:\nJPN 🇯🇵: Keiji Tamada 34'\nBRA 
+ 🇧🇷: Ronaldo 45+1'\, Ronaldo 81'\, Juninho Pernambucano 53'\, Gilbert
+ o 59'
+URL:https://www.fifa.com/en/match-centre/match/17/9741/10172/97410043
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2006
@@ -780,9 +819,10 @@ GEO:48.792222;9.231944
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Gottlieb-Daimler-Stadion, 
  Stuttgart";X-APPLE-RADIUS=100;X-TITLE="Gottlieb-Daimler-Stadion, Stuttgart
  ":geo:48.792222,9.231944
-DESCRIPTION:Group F | Matchday 14 | 2006 FIFA World Cup - Germany\nCroatia 
- 2-2 Australia\nHT: 1-1
-URL:https://en.wikipedia.org/wiki/2006_FIFA_World_Cup
+DESCRIPTION:2006 FIFA World Cup - Germany\nGroup F | Matchday 14\nCroatia 2
+ -2 Australia\nHT: 1-1\nFT: 2-2\nGoals:\nCRO 🇭🇷: Darijo Srna 2'\, Nik
+ o Kovac 56'\nAUS 🇦🇺: Craig Moore 38' pen\, Harry Kewell 79'
+URL:https://www.fifa.com/en/match-centre/match/17/9741/10172/97410044
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2006
@@ -798,9 +838,10 @@ GEO:50.933611;6.875000
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="RheinEnergieStadion, Köln
  ";X-APPLE-RADIUS=100;X-TITLE="RheinEnergieStadion, Köln":geo:50.933611,6.
  875000
-DESCRIPTION:Group G | Matchday 15 | 2006 FIFA World Cup - Germany\nTogo 0-2
-  France\nHT: 0-0
-URL:https://en.wikipedia.org/wiki/2006_FIFA_World_Cup
+DESCRIPTION:2006 FIFA World Cup - Germany\nGroup G | Matchday 15\nTogo 0-2 
+ France\nHT: 0-0\nFT: 0-2\nGoals:\nFRA 🇫🇷: Patrick Vieira 55'\, Thier
+ ry Henry 61'
+URL:https://www.fifa.com/en/match-centre/match/17/9741/10172/97410045
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2006
@@ -815,9 +856,10 @@ LOCATION:AWD-Arena\, Hannover
 GEO:52.360000;9.731111
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="AWD-Arena, Hannover";X-APP
  LE-RADIUS=100;X-TITLE="AWD-Arena, Hannover":geo:52.360000,9.731111
-DESCRIPTION:Group G | Matchday 15 | 2006 FIFA World Cup - Germany\nSwitzerl
- and 2-0 South Korea\nHT: 1-0
-URL:https://en.wikipedia.org/wiki/2006_FIFA_World_Cup
+DESCRIPTION:2006 FIFA World Cup - Germany\nGroup G | Matchday 15\nSwitzerla
+ nd 2-0 South Korea\nHT: 1-0\nFT: 2-0\nGoals:\nSUI 🇨🇭: Philippe Sende
+ ros 23'\, Alexander Frei 77'
+URL:https://www.fifa.com/en/match-centre/match/17/9741/10172/97410046
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2006
@@ -833,9 +875,9 @@ GEO:49.434722;7.776667
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Fritz-Walter-Stadion, Kais
  erslautern";X-APPLE-RADIUS=100;X-TITLE="Fritz-Walter-Stadion, Kaiserslaute
  rn":geo:49.434722,7.776667
-DESCRIPTION:Group H | Matchday 15 | 2006 FIFA World Cup - Germany\nSaudi Ar
- abia 0-1 Spain\nHT: 0-1
-URL:https://en.wikipedia.org/wiki/2006_FIFA_World_Cup
+DESCRIPTION:2006 FIFA World Cup - Germany\nGroup H | Matchday 15\nSaudi Ara
+ bia 0-1 Spain\nHT: 0-1\nFT: 0-1\nGoals:\nESP 🇪🇸: Juanito 36'
+URL:https://www.fifa.com/en/match-centre/match/17/9741/10172/97410047
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2006
@@ -850,9 +892,10 @@ LOCATION:Olympiastadion\, Berlin
 GEO:52.514722;13.239444
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Olympiastadion, Berlin";X-
  APPLE-RADIUS=100;X-TITLE="Olympiastadion, Berlin":geo:52.514722,13.239444
-DESCRIPTION:Group H | Matchday 15 | 2006 FIFA World Cup - Germany\nUkraine 
- 1-0 Tunisia\nHT: 0-0
-URL:https://en.wikipedia.org/wiki/2006_FIFA_World_Cup
+DESCRIPTION:2006 FIFA World Cup - Germany\nGroup H | Matchday 15\nUkraine 1
+ -0 Tunisia\nHT: 0-0\nFT: 1-0\nGoals:\nUKR 🇺🇦: Andriy Shevchenko 70' 
+ pen
+URL:https://www.fifa.com/en/match-centre/match/17/9741/10172/97410048
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2006
@@ -868,9 +911,10 @@ GEO:48.218775;11.624753
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Allianz Arena, München";X
  -APPLE-RADIUS=100;X-TITLE="Allianz Arena, München":geo:48.218775,11.62475
  3
-DESCRIPTION:Round of 16 | 2006 FIFA World Cup - Germany\nGermany 2-0 Sweden
- \nHT: 2-0
-URL:https://en.wikipedia.org/wiki/2006_FIFA_World_Cup
+DESCRIPTION:2006 FIFA World Cup - Germany\nRound of 16\nGermany 2-0 Sweden\
+ nHT: 2-0\nFT: 2-0\nGoals:\nGER 🇩🇪: Lukas Podolski 4'\, Lukas Podolsk
+ i 12'
+URL:https://www.fifa.com/en/match-centre/match/17/9741/10162/97410049
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2006
@@ -886,9 +930,10 @@ GEO:51.345833;12.348333
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Zentralstadion, Leipzig";X
  -APPLE-RADIUS=100;X-TITLE="Zentralstadion, Leipzig":geo:51.345833,12.34833
  3
-DESCRIPTION:Round of 16 | 2006 FIFA World Cup - Germany\nArgentina 2-1 Mexi
- co\nHT: 1-1\nFT: 1-1\nAET: 2-1
-URL:https://en.wikipedia.org/wiki/2006_FIFA_World_Cup
+DESCRIPTION:2006 FIFA World Cup - Germany\nRound of 16\nArgentina 2-1 Mexic
+ o\nHT: 1-1\nFT: 1-1\nAET: 2-1\nGoals:\nARG 🇦🇷: Hernan Crespo 10'\, M
+ axi Rodriguez 98'\nMEX 🇲🇽: Rafael Marquez 6'
+URL:https://www.fifa.com/en/match-centre/match/17/9741/10162/97410050
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2006
@@ -904,9 +949,10 @@ GEO:48.792222;9.231944
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Gottlieb-Daimler-Stadion, 
  Stuttgart";X-APPLE-RADIUS=100;X-TITLE="Gottlieb-Daimler-Stadion, Stuttgart
  ":geo:48.792222,9.231944
-DESCRIPTION:Round of 16 | 2006 FIFA World Cup - Germany\nEngland 1-0 Ecuado
- r\nHT: 0-0
-URL:https://en.wikipedia.org/wiki/2006_FIFA_World_Cup
+DESCRIPTION:2006 FIFA World Cup - Germany\nRound of 16\nEngland 1-0 Ecuador
+ \nHT: 0-0\nFT: 1-0\nGoals:\nENG 🏴󠁧󠁢󠁥󠁮󠁧󠁿: David Beckha
+ m 60'
+URL:https://www.fifa.com/en/match-centre/match/17/9741/10162/97410051
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2006
@@ -922,9 +968,9 @@ GEO:49.426111;11.125833
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Frankenstadion, Nürnberg"
  ;X-APPLE-RADIUS=100;X-TITLE="Frankenstadion, Nürnberg":geo:49.426111,11.1
  25833
-DESCRIPTION:Round of 16 | 2006 FIFA World Cup - Germany\nPortugal 1-0 Nethe
- rlands\nHT: 1-0
-URL:https://en.wikipedia.org/wiki/2006_FIFA_World_Cup
+DESCRIPTION:2006 FIFA World Cup - Germany\nRound of 16\nPortugal 1-0 Nether
+ lands\nHT: 1-0\nFT: 1-0\nGoals:\nPOR 🇵🇹: Maniche Ribeiro 23'
+URL:https://www.fifa.com/en/match-centre/match/17/9741/10162/97410052
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2006
@@ -940,9 +986,9 @@ GEO:49.434722;7.776667
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Fritz-Walter-Stadion, Kais
  erslautern";X-APPLE-RADIUS=100;X-TITLE="Fritz-Walter-Stadion, Kaiserslaute
  rn":geo:49.434722,7.776667
-DESCRIPTION:Round of 16 | 2006 FIFA World Cup - Germany\nItaly 1-0 Australi
- a\nHT: 0-0
-URL:https://en.wikipedia.org/wiki/2006_FIFA_World_Cup
+DESCRIPTION:2006 FIFA World Cup - Germany\nRound of 16\nItaly 1-0 Australia
+ \nHT: 0-0\nFT: 1-0\nGoals:\nITA 🇮🇹: Francesco Totti 90+4' pen
+URL:https://www.fifa.com/en/match-centre/match/17/9741/10162/97410053
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2006
@@ -958,9 +1004,9 @@ GEO:50.933611;6.875000
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="RheinEnergieStadion, Köln
  ";X-APPLE-RADIUS=100;X-TITLE="RheinEnergieStadion, Köln":geo:50.933611,6.
  875000
-DESCRIPTION:Round of 16 | 2006 FIFA World Cup - Germany\nSwitzerland 0-0 Uk
- raine\nFT: 0-0\nAET: 0-0\nPenalties: 0-3
-URL:https://en.wikipedia.org/wiki/2006_FIFA_World_Cup
+DESCRIPTION:2006 FIFA World Cup - Germany\nRound of 16\nSwitzerland 0-0 Ukr
+ aine\nHT: 0-0\nFT: 0-0\nAET: 0-0\nPenalties: 0-3
+URL:https://www.fifa.com/en/match-centre/match/17/9741/10162/97410054
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2006
@@ -976,9 +1022,10 @@ GEO:51.492500;7.451667
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Signal Iduna Park, Dortmun
  d";X-APPLE-RADIUS=100;X-TITLE="Signal Iduna Park, Dortmund":geo:51.492500,
  7.451667
-DESCRIPTION:Round of 16 | 2006 FIFA World Cup - Germany\nBrazil 3-0 Ghana\n
- HT: 2-0
-URL:https://en.wikipedia.org/wiki/2006_FIFA_World_Cup
+DESCRIPTION:2006 FIFA World Cup - Germany\nRound of 16\nBrazil 3-0 Ghana\nH
+ T: 2-0\nFT: 3-0\nGoals:\nBRA 🇧🇷: Ronaldo 5'\, Adriano 45+1'\, Ze Rob
+ erto 84'
+URL:https://www.fifa.com/en/match-centre/match/17/9741/10162/97410055
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2006
@@ -993,9 +1040,10 @@ LOCATION:AWD-Arena\, Hannover
 GEO:52.360000;9.731111
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="AWD-Arena, Hannover";X-APP
  LE-RADIUS=100;X-TITLE="AWD-Arena, Hannover":geo:52.360000,9.731111
-DESCRIPTION:Round of 16 | 2006 FIFA World Cup - Germany\nSpain 1-3 France\n
- HT: 1-1
-URL:https://en.wikipedia.org/wiki/2006_FIFA_World_Cup
+DESCRIPTION:2006 FIFA World Cup - Germany\nRound of 16\nSpain 1-3 France\nH
+ T: 1-1\nFT: 1-3\nGoals:\nESP 🇪🇸: David Villa 28' pen\nFRA 🇫🇷: 
+ Franck Ribery 41'\, Patrick Vieira 83'\, Zinedine Zidane 90+2'
+URL:https://www.fifa.com/en/match-centre/match/17/9741/10162/97410056
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2006
@@ -1010,9 +1058,10 @@ LOCATION:Olympiastadion\, Berlin
 GEO:52.514722;13.239444
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Olympiastadion, Berlin";X-
  APPLE-RADIUS=100;X-TITLE="Olympiastadion, Berlin":geo:52.514722,13.239444
-DESCRIPTION:Quarterfinals | 2006 FIFA World Cup - Germany\nGermany 1-1 Arge
- ntina\nHT: 0-0\nFT: 1-1\nAET: 1-1\nPenalties: 4-2
-URL:https://en.wikipedia.org/wiki/2006_FIFA_World_Cup
+DESCRIPTION:2006 FIFA World Cup - Germany\nQuarterfinals\nGermany 1-1 Argen
+ tina\nHT: 0-0\nFT: 1-1\nAET: 1-1\nPenalties: 4-2\nGoals:\nGER 🇩🇪: Mi
+ roslav Klose 80'\nARG 🇦🇷: Roberto Ayala 49'
+URL:https://www.fifa.com/en/match-centre/match/17/9741/10163/97410057
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2006
@@ -1027,9 +1076,10 @@ LOCATION:AOL Arena\, Hamburg
 GEO:53.587222;9.898611
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="AOL Arena, Hamburg";X-APPL
  E-RADIUS=100;X-TITLE="AOL Arena, Hamburg":geo:53.587222,9.898611
-DESCRIPTION:Quarterfinals | 2006 FIFA World Cup - Germany\nItaly 3-0 Ukrain
- e\nHT: 1-0
-URL:https://en.wikipedia.org/wiki/2006_FIFA_World_Cup
+DESCRIPTION:2006 FIFA World Cup - Germany\nQuarterfinals\nItaly 3-0 Ukraine
+ \nHT: 1-0\nFT: 3-0\nGoals:\nITA 🇮🇹: Gianluca Zambrotta 6'\, Luca Ton
+ i 59'\, Luca Toni 69'
+URL:https://www.fifa.com/en/match-centre/match/17/9741/10163/97410058
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2006
@@ -1046,9 +1096,9 @@ GEO:51.554444;7.067500
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Veltins-Arena, Gelsenkirch
  en";X-APPLE-RADIUS=100;X-TITLE="Veltins-Arena, Gelsenkirchen":geo:51.55444
  4,7.067500
-DESCRIPTION:Quarterfinals | 2006 FIFA World Cup - Germany\nEngland 0-0 Port
- ugal\nFT: 0-0\nAET: 0-0\nPenalties: 1-3
-URL:https://en.wikipedia.org/wiki/2006_FIFA_World_Cup
+DESCRIPTION:2006 FIFA World Cup - Germany\nQuarterfinals\nEngland 0-0 Portu
+ gal\nHT: 0-0\nFT: 0-0\nAET: 0-0\nPenalties: 1-3
+URL:https://www.fifa.com/en/match-centre/match/17/9741/10163/97410059
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2006
@@ -1064,9 +1114,9 @@ GEO:50.068056;8.645806
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Commerzbank-Arena, Frankfu
  rt";X-APPLE-RADIUS=100;X-TITLE="Commerzbank-Arena, Frankfurt":geo:50.06805
  6,8.645806
-DESCRIPTION:Quarterfinals | 2006 FIFA World Cup - Germany\nBrazil 0-1 Franc
- e\nHT: 0-0
-URL:https://en.wikipedia.org/wiki/2006_FIFA_World_Cup
+DESCRIPTION:2006 FIFA World Cup - Germany\nQuarterfinals\nBrazil 0-1 France
+ \nHT: 0-0\nFT: 0-1\nGoals:\nFRA 🇫🇷: Thierry Henry 57'
+URL:https://www.fifa.com/en/match-centre/match/17/9741/10163/97410060
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2006
@@ -1082,9 +1132,10 @@ GEO:51.492500;7.451667
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Signal Iduna Park, Dortmun
  d";X-APPLE-RADIUS=100;X-TITLE="Signal Iduna Park, Dortmund":geo:51.492500,
  7.451667
-DESCRIPTION:Semifinals | 2006 FIFA World Cup - Germany\nGermany 0-2 Italy\n
- FT: 0-0\nAET: 0-2\nGoals:\nITA 🇮🇹: Grosso 119'\, Del Piero 120'
-URL:https://en.wikipedia.org/wiki/2006_FIFA_World_Cup
+DESCRIPTION:2006 FIFA World Cup - Germany\nSemifinals\nGermany 0-2 Italy\nH
+ T: 0-0\nFT: 0-0\nAET: 0-2\nGoals:\nITA 🇮🇹: Grosso 119'\, Del Piero 1
+ 20+1'
+URL:https://www.fifa.com/en/match-centre/match/17/9741/10164/97410061
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2006
@@ -1100,9 +1151,9 @@ GEO:48.218775;11.624753
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Allianz Arena, München";X
  -APPLE-RADIUS=100;X-TITLE="Allianz Arena, München":geo:48.218775,11.62475
  3
-DESCRIPTION:Semifinals | 2006 FIFA World Cup - Germany\nPortugal 0-1 France
- \nHT: 0-1\nGoals:\nFRA 🇫🇷: Zidane 33' pen
-URL:https://en.wikipedia.org/wiki/2006_FIFA_World_Cup
+DESCRIPTION:2006 FIFA World Cup - Germany\nSemifinals\nPortugal 0-1 France\
+ nHT: 0-1\nFT: 0-1\nGoals:\nFRA 🇫🇷: Zidane 33' pen
+URL:https://www.fifa.com/en/match-centre/match/17/9741/10164/97410062
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2006
@@ -1118,10 +1169,10 @@ GEO:48.792222;9.231944
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Gottlieb-Daimler-Stadion, 
  Stuttgart";X-APPLE-RADIUS=100;X-TITLE="Gottlieb-Daimler-Stadion, Stuttgart
  ":geo:48.792222,9.231944
-DESCRIPTION:Third-place play-off | 2006 FIFA World Cup - Germany\nGermany 3
- -1 Portugal\nHT: 0-0\nGoals:\nGER 🇩🇪: Schweinsteiger 56'\, Schweinst
- eiger 78'\, Petit 60' og\nPOR 🇵🇹: Nuno Gomes 88'
-URL:https://en.wikipedia.org/wiki/2006_FIFA_World_Cup
+DESCRIPTION:2006 FIFA World Cup - Germany\nThird-place play-off\nGermany 3-
+ 1 Portugal\nHT: 0-0\nFT: 3-1\nGoals:\nGER 🇩🇪: Schweinsteiger 56'\, S
+ chweinsteiger 78'\, Petit 60' og\nPOR 🇵🇹: Nuno Gomes 88'
+URL:https://www.fifa.com/en/match-centre/match/17/9741/10165/97410063
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2006
@@ -1136,10 +1187,10 @@ LOCATION:Olympiastadion\, Berlin
 GEO:52.514722;13.239444
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Olympiastadion, Berlin";X-
  APPLE-RADIUS=100;X-TITLE="Olympiastadion, Berlin":geo:52.514722,13.239444
-DESCRIPTION:Final | 2006 FIFA World Cup - Germany\nItaly 1-1 France\nHT: 1-
- 1\nFT: 1-1\nAET: 1-1\nPenalties: 5-3\nGoals:\nITA 🇮🇹: Materazzi 19'\
- nFRA 🇫🇷: Zidane 7' pen
-URL:https://en.wikipedia.org/wiki/2006_FIFA_World_Cup
+DESCRIPTION:2006 FIFA World Cup - Germany\nFinal\nItaly 1-1 France\nHT: 1-1
+ \nFT: 1-1\nAET: 1-1\nPenalties: 5-3\nGoals:\nITA 🇮🇹: Materazzi 19'\n
+ FRA 🇫🇷: Zidane 7' pen
+URL:https://www.fifa.com/en/match-centre/match/17/9741/10166/97410064
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2006

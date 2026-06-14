@@ -11,6 +11,7 @@ sys.path.insert(0, str(ROOT / "scripts"))
 from common import country_index, load_json, normalize_name  # noqa: E402
 from generate_master_calendar import validated_years  # noqa: E402
 from generate_historical_calendar import description, stage_label  # noqa: E402
+from enrich_historical_results import grouped_goals  # noqa: E402
 
 
 class HistoricalCalendarTests(unittest.TestCase):
@@ -21,7 +22,14 @@ class HistoricalCalendarTests(unittest.TestCase):
             {"name": "Italy", "code": "ITA", "flag": "🇮🇹"},
             {"name": "Czechoslovakia", "code": "TCH", "flag": ""},
         )
-        self.assertEqual(text.splitlines()[0], "Final | 1934 FIFA World Cup - Italy")
+        self.assertEqual(text.splitlines()[:2], ["1934 FIFA World Cup - Italy", "Final"])
+        self.assertIn("FT: 2-1", text)
+
+    def test_rsssf_shirt_numbers_are_not_goal_minutes(self) -> None:
+        goals = grouped_goals("14 Javier Hernández 64', 10 Cuauhtémoc Blanco 79' pen")
+        self.assertEqual([item["minute"] for item in goals], [64, 79])
+        self.assertEqual([item["name"] for item in goals], ["Javier Hernández", "Cuauhtémoc Blanco"])
+        self.assertTrue(goals[1]["penalty"])
 
     def test_historical_stage_labels_cover_group_formats(self) -> None:
         self.assertEqual(
@@ -149,18 +157,25 @@ class HistoricalCalendarTests(unittest.TestCase):
         self.assertNotIn("UID:wc2026-match-001@world-cup-ics", master)
         self.assertIn("X-WR-CALNAME:FIFA World Cup Complete", master)
 
-    def test_missing_fifa_records_receive_unique_fallback_numbers(self) -> None:
-        expected = {1954: {25, 26}, 2014: {11, 28, 44}}
-        for year, fallback_numbers in expected.items():
+    def test_wikipedia_fills_fifa_archive_record_gaps(self) -> None:
+        for year in (1954, 2014):
             manifest = load_json(ROOT / "data" / str(year) / "worldcup.manifest.json")
             numbers = [item["official_match_number"] for item in manifest["matches"]]
             self.assertEqual(len(numbers), len(set(numbers)))
-            missing_archive = {
-                item["official_match_number"]
-                for item in manifest["matches"]
-                if item["fifa_match_id"] is None
-            }
-            self.assertEqual(missing_archive, fallback_numbers)
+            self.assertTrue(all(item["fifa_match_id"] for item in manifest["matches"]))
+
+    def test_historical_events_use_unique_current_fifa_links(self) -> None:
+        for year in range(1954, 2023, 4):
+            if year not in (1954, 1958, 1962, 1966, 1970, 1974, 1978, 1982,
+                            1986, 1990, 1994, 1998, 2002, 2006, 2010, 2014,
+                            2018, 2022):
+                continue
+            matches = load_json(
+                ROOT / "data" / str(year) / "worldcup.enrichment.json"
+            )["matches"]
+            urls = [item["fifa_url"] for item in matches]
+            self.assertTrue(all(url.startswith("https://www.fifa.com/en/match-centre/match/") for url in urls))
+            self.assertEqual(len(urls), len(set(urls)))
 
     def test_1938_excludes_cancelled_fixture_and_confirms_opening_time(self) -> None:
         manifest = load_json(ROOT / "data" / "1938" / "worldcup.manifest.json")

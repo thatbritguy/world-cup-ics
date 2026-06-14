@@ -15,9 +15,9 @@ LOCATION:Camp Nou\, Barcelona
 GEO:41.380800;2.122800
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Camp Nou, Barcelona";X-APP
  LE-RADIUS=100;X-TITLE="Camp Nou, Barcelona":geo:41.380800,2.122800
-DESCRIPTION:Group 3 | Matchday 1 | 1982 FIFA World Cup - Spain\nArgentina 0
- -1 Belgium
-URL:https://en.wikipedia.org/wiki/1982_FIFA_World_Cup
+DESCRIPTION:1982 FIFA World Cup - Spain\nGroup 3 | Matchday 1\nArgentina 0-
+ 1 Belgium\nHT: 0-0\nFT: 0-1\nGoals:\nBEL 🇧🇪: van den Bergh 62'
+URL:https://www.fifa.com/en/match-centre/match/17/59/293/749
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1982
@@ -32,9 +32,9 @@ LOCATION:Balaídos\, Vigo
 GEO:42.211833;-8.739694
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Balaídos, Vigo";X-APPLE-R
  ADIUS=100;X-TITLE="Balaídos, Vigo":geo:42.211833,-8.739694
-DESCRIPTION:Group 1 | Matchday 1 | 1982 FIFA World Cup - Spain\nItaly 0-0 P
- oland
-URL:https://en.wikipedia.org/wiki/1982_FIFA_World_Cup
+DESCRIPTION:1982 FIFA World Cup - Spain\nGroup 1 | Matchday 1\nItaly 0-0 Po
+ land\nHT: 0-0\nFT: 0-0
+URL:https://www.fifa.com/en/match-centre/match/17/59/293/995
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1982
@@ -50,9 +50,10 @@ GEO:37.384000;-5.970500
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Ramón Sánchez Pi
  zjuán, Seville";X-APPLE-RADIUS=100;X-TITLE="Estadio Ramón Sánchez Pizju
  án, Seville":geo:37.384000,-5.970500
-DESCRIPTION:Group 6 | Matchday 1 | 1982 FIFA World Cup - Spain\nBrazil 2-1 
- Soviet Union
-URL:https://en.wikipedia.org/wiki/1982_FIFA_World_Cup
+DESCRIPTION:1982 FIFA World Cup - Spain\nGroup 6 | Matchday 1\nBrazil 2-1 S
+ oviet Union\nHT: 0-1\nFT: 2-1\nGoals:\nBRA 🇧🇷: Socrates 75'\, Eder 8
+ 8'\nURS: Bal 34'
+URL:https://www.fifa.com/en/match-centre/match/17/59/293/791
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1982
@@ -68,9 +69,9 @@ GEO:43.368611;-8.417500
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio de Riazor, A Coru
  ña";X-APPLE-RADIUS=100;X-TITLE="Estadio de Riazor, A Coruña":geo:43.3686
  11,-8.417500
-DESCRIPTION:Group 1 | Matchday 1 | 1982 FIFA World Cup - Spain\nPeru 0-0 Ca
- meroon
-URL:https://en.wikipedia.org/wiki/1982_FIFA_World_Cup
+DESCRIPTION:1982 FIFA World Cup - Spain\nGroup 1 | Matchday 1\nPeru 0-0 Cam
+ eroon\nHT: 0-0\nFT: 0-0
+URL:https://www.fifa.com/en/match-centre/match/17/59/293/833
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1982
@@ -85,9 +86,11 @@ LOCATION:Nuevo Estadio\, Elche
 GEO:38.266944;-0.663333
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Nuevo Estadio, Elche";X-AP
  PLE-RADIUS=100;X-TITLE="Nuevo Estadio, Elche":geo:38.266944,-0.663333
-DESCRIPTION:Group 3 | Matchday 1 | 1982 FIFA World Cup - Spain\nHungary 10-
- 1 El Salvador
-URL:https://en.wikipedia.org/wiki/1982_FIFA_World_Cup
+DESCRIPTION:1982 FIFA World Cup - Spain\nGroup 3 | Matchday 1\nHungary 10-1
+  El Salvador\nHT: 3-0\nFT: 10-1\nGoals:\nHUN 🇭🇺: Nyilasi 4'\, Pölö
+ skei 11'\, Fazekas 23'\, Tóth 50'\, Fazekas 54'\, Kiss 70'\, Szentes 71'\
+ , Kiss 73'\, Kiss 78'\, Nyilasi 83'\nSLV 🇸🇻: Ramirez 64'
+URL:https://www.fifa.com/en/match-centre/match/17/59/293/896
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1982
@@ -103,9 +106,11 @@ GEO:36.734200;-4.426600
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio La Rosaleda, Mála
  ga";X-APPLE-RADIUS=100;X-TITLE="Estadio La Rosaleda, Málaga":geo:36.73420
  0,-4.426600
-DESCRIPTION:Group 6 | Matchday 1 | 1982 FIFA World Cup - Spain\nScotland 5-
- 2 New Zealand
-URL:https://en.wikipedia.org/wiki/1982_FIFA_World_Cup
+DESCRIPTION:1982 FIFA World Cup - Spain\nGroup 6 | Matchday 1\nScotland 5-2
+  New Zealand\nHT: 3-0\nFT: 5-2\nGoals:\nSCO 🏴󠁧󠁢󠁳󠁣󠁴󠁿: 
+ Dalglish 18'\, Wark 29'\, Wark 32'\, Robertson 73'\, Archibald 79'\nNZL 
+ 🇳🇿: Sumner 54'\, Woodin 64'
+URL:https://www.fifa.com/en/match-centre/match/17/59/293/1051
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1982
@@ -120,9 +125,10 @@ LOCATION:El Molinón\, Gijón
 GEO:43.536111;-5.637222
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="El Molinón, Gijón";X-APP
  LE-RADIUS=100;X-TITLE="El Molinón, Gijón":geo:43.536111,-5.637222
-DESCRIPTION:Group 2 | Matchday 1 | 1982 FIFA World Cup - Spain\nWest German
- y 1-2 Algeria
-URL:https://en.wikipedia.org/wiki/1982_FIFA_World_Cup
+DESCRIPTION:1982 FIFA World Cup - Spain\nGroup 2 | Matchday 1\nWest Germany
+  1-2 Algeria\nHT: 0-0\nFT: 1-2\nGoals:\nFRG 🇩🇪: Rummenige 67'\nALG 
+ 🇩🇿: Madjer 52'\, Belloumi 88'
+URL:https://www.fifa.com/en/match-centre/match/17/59/293/741
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1982
@@ -138,9 +144,10 @@ GEO:43.263506;-2.948392
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio San Mamés, Bilbao
  ";X-APPLE-RADIUS=100;X-TITLE="Estadio San Mamés, Bilbao":geo:43.263506,-2
  .948392
-DESCRIPTION:Group 4 | Matchday 1 | 1982 FIFA World Cup - Spain\nEngland 3-1
-  France
-URL:https://en.wikipedia.org/wiki/1982_FIFA_World_Cup
+DESCRIPTION:1982 FIFA World Cup - Spain\nGroup 4 | Matchday 1\nEngland 3-1 
+ France\nHT: 1-1\nFT: 3-1\nGoals:\nENG 🏴󠁧󠁢󠁥󠁮󠁧󠁿: Robson
+  1'\, Robson 67'\, Mariner 83'\nFRA 🇫🇷: Soler 26'
+URL:https://www.fifa.com/en/match-centre/match/17/59/293/878
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1982
@@ -156,9 +163,10 @@ GEO:39.474656;-0.358361
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Luis Casanova, Val
  encia";X-APPLE-RADIUS=100;X-TITLE="Estadio Luis Casanova, Valencia":geo:39
  .474656,-0.358361
-DESCRIPTION:Group 5 | Matchday 1 | 1982 FIFA World Cup - Spain\nSpain 1-1 H
- onduras
-URL:https://en.wikipedia.org/wiki/1982_FIFA_World_Cup
+DESCRIPTION:1982 FIFA World Cup - Spain\nGroup 5 | Matchday 1\nSpain 1-1 Ho
+ nduras\nHT: 0-1\nFT: 1-1\nGoals:\nESP 🇪🇸: López Ufarte 66' pen\nHON
+  🇭🇳: Zelaya 7'
+URL:https://www.fifa.com/en/match-centre/match/17/59/293/901
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1982
@@ -174,9 +182,9 @@ GEO:43.360783;-5.870222
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Carlos Tartiere, O
  viedo";X-APPLE-RADIUS=100;X-TITLE="Estadio Carlos Tartiere, Oviedo":geo:43
  .360783,-5.870222
-DESCRIPTION:Group 2 | Matchday 1 | 1982 FIFA World Cup - Spain\nChile 0-1 A
- ustria
-URL:https://en.wikipedia.org/wiki/1982_FIFA_World_Cup
+DESCRIPTION:1982 FIFA World Cup - Spain\nGroup 2 | Matchday 1\nChile 0-1 Au
+ stria\nHT: 0-1\nFT: 0-1\nGoals:\nAUT 🇦🇹: Schachner 21'
+URL:https://www.fifa.com/en/match-centre/match/17/59/293/764
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1982
@@ -192,9 +200,10 @@ GEO:41.644444;-4.761111
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio José Zorrilla, Va
  lladolid";X-APPLE-RADIUS=100;X-TITLE="Estadio José Zorrilla, Valladolid":
  geo:41.644444,-4.761111
-DESCRIPTION:Group 4 | Matchday 1 | 1982 FIFA World Cup - Spain\nCzechoslova
- kia 1-1 Kuwait
-URL:https://en.wikipedia.org/wiki/1982_FIFA_World_Cup
+DESCRIPTION:1982 FIFA World Cup - Spain\nGroup 4 | Matchday 1\nCzechoslovak
+ ia 1-1 Kuwait\nHT: 1-0\nFT: 1-1\nGoals:\nTCH 🇨🇿: Panenka 21' pen\nKU
+ W 🇰🇼: Al Dakheel 27'
+URL:https://www.fifa.com/en/match-centre/match/17/59/293/1012
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1982
@@ -209,9 +218,9 @@ LOCATION:La Romareda\, Zaragoza
 GEO:41.636667;-0.901944
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="La Romareda, Zaragoza";X-A
  PPLE-RADIUS=100;X-TITLE="La Romareda, Zaragoza":geo:41.636667,-0.901944
-DESCRIPTION:Group 5 | Matchday 1 | 1982 FIFA World Cup - Spain\nYugoslavia 
- 0-0 Northern Ireland
-URL:https://en.wikipedia.org/wiki/1982_FIFA_World_Cup
+DESCRIPTION:1982 FIFA World Cup - Spain\nGroup 5 | Matchday 1\nYugoslavia 0
+ -0 Northern Ireland\nHT: 0-0\nFT: 0-0
+URL:https://www.fifa.com/en/match-centre/match/17/59/293/1044
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1982
@@ -226,9 +235,10 @@ LOCATION:Balaídos\, Vigo
 GEO:42.211833;-8.739694
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Balaídos, Vigo";X-APPLE-R
  ADIUS=100;X-TITLE="Balaídos, Vigo":geo:42.211833,-8.739694
-DESCRIPTION:Group 1 | Matchday 2 | 1982 FIFA World Cup - Spain\nItaly 1-1 P
- eru
-URL:https://en.wikipedia.org/wiki/1982_FIFA_World_Cup
+DESCRIPTION:1982 FIFA World Cup - Spain\nGroup 1 | Matchday 2\nItaly 1-1 Pe
+ ru\nHT: 1-0\nFT: 1-1\nGoals:\nITA 🇮🇹: Conti 18'\nPER 🇵🇪: Collo
+ vati 84' og
+URL:https://www.fifa.com/en/match-centre/match/17/59/293/994
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1982
@@ -244,9 +254,10 @@ GEO:38.357222;-0.492500
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio José Rico Pérez,
   Alicante";X-APPLE-RADIUS=100;X-TITLE="Estadio José Rico Pérez, Alicante
  ":geo:38.357222,-0.492500
-DESCRIPTION:Group 3 | Matchday 2 | 1982 FIFA World Cup - Spain\nArgentina 4
- -1 Hungary
-URL:https://en.wikipedia.org/wiki/1982_FIFA_World_Cup
+DESCRIPTION:1982 FIFA World Cup - Spain\nGroup 3 | Matchday 2\nArgentina 4-
+ 1 Hungary\nHT: 2-0\nFT: 4-1\nGoals:\nARG 🇦🇷: Bertoni 26'\, Maradona 
+ 28'\, Maradona 57'\, Ardiles 60'\nHUN 🇭🇺: Pölöskei 76'
+URL:https://www.fifa.com/en/match-centre/match/17/59/293/752
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1982
@@ -262,9 +273,10 @@ GEO:37.356389;-5.981389
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Benito Villamarín
  , Seville";X-APPLE-RADIUS=100;X-TITLE="Estadio Benito Villamarín, Seville
  ":geo:37.356389,-5.981389
-DESCRIPTION:Group 6 | Matchday 2 | 1982 FIFA World Cup - Spain\nBrazil 4-1 
- Scotland
-URL:https://en.wikipedia.org/wiki/1982_FIFA_World_Cup
+DESCRIPTION:1982 FIFA World Cup - Spain\nGroup 6 | Matchday 2\nBrazil 4-1 S
+ cotland\nHT: 1-1\nFT: 4-1\nGoals:\nBRA 🇧🇷: Zico 33'\, Oscar 46'\, Ed
+ er 63'\, Falção 87'\nSCO 🏴󠁧󠁢󠁳󠁣󠁴󠁿: Narey 18'
+URL:https://www.fifa.com/en/match-centre/match/17/59/293/790
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1982
@@ -280,9 +292,9 @@ GEO:43.368611;-8.417500
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio de Riazor, A Coru
  ña";X-APPLE-RADIUS=100;X-TITLE="Estadio de Riazor, A Coruña":geo:43.3686
  11,-8.417500
-DESCRIPTION:Group 1 | Matchday 2 | 1982 FIFA World Cup - Spain\nPoland 0-0 
- Cameroon
-URL:https://en.wikipedia.org/wiki/1982_FIFA_World_Cup
+DESCRIPTION:1982 FIFA World Cup - Spain\nGroup 1 | Matchday 2\nPoland 0-0 C
+ ameroon\nHT: 0-0\nFT: 0-0
+URL:https://www.fifa.com/en/match-centre/match/17/59/293/834
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1982
@@ -297,9 +309,9 @@ LOCATION:Nuevo Estadio\, Elche
 GEO:38.266944;-0.663333
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Nuevo Estadio, Elche";X-AP
  PLE-RADIUS=100;X-TITLE="Nuevo Estadio, Elche":geo:38.266944,-0.663333
-DESCRIPTION:Group 3 | Matchday 2 | 1982 FIFA World Cup - Spain\nBelgium 1-0
-  El Salvador
-URL:https://en.wikipedia.org/wiki/1982_FIFA_World_Cup
+DESCRIPTION:1982 FIFA World Cup - Spain\nGroup 3 | Matchday 2\nBelgium 1-0 
+ El Salvador\nHT: 1-0\nFT: 1-0\nGoals:\nBEL 🇧🇪: Coeck 19'
+URL:https://www.fifa.com/en/match-centre/match/17/59/293/774
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1982
@@ -315,9 +327,10 @@ GEO:36.734200;-4.426600
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio La Rosaleda, Mála
  ga";X-APPLE-RADIUS=100;X-TITLE="Estadio La Rosaleda, Málaga":geo:36.73420
  0,-4.426600
-DESCRIPTION:Group 6 | Matchday 2 | 1982 FIFA World Cup - Spain\nSoviet Unio
- n 3-0 New Zealand
-URL:https://en.wikipedia.org/wiki/1982_FIFA_World_Cup
+DESCRIPTION:1982 FIFA World Cup - Spain\nGroup 6 | Matchday 2\nSoviet Union
+  3-0 New Zealand\nHT: 1-0\nFT: 3-0\nGoals:\nURS: Gavrilov 24'\, Blokhin 48
+ '\, Baltacha 68'
+URL:https://www.fifa.com/en/match-centre/match/17/59/293/1054
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1982
@@ -332,9 +345,10 @@ LOCATION:El Molinón\, Gijón
 GEO:43.536111;-5.637222
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="El Molinón, Gijón";X-APP
  LE-RADIUS=100;X-TITLE="El Molinón, Gijón":geo:43.536111,-5.637222
-DESCRIPTION:Group 2 | Matchday 2 | 1982 FIFA World Cup - Spain\nWest German
- y 4-1 Chile
-URL:https://en.wikipedia.org/wiki/1982_FIFA_World_Cup
+DESCRIPTION:1982 FIFA World Cup - Spain\nGroup 2 | Matchday 2\nWest Germany
+  4-1 Chile\nHT: 1-0\nFT: 4-1\nGoals:\nFRG 🇩🇪: Rummenige 9'\, Rummeni
+ ge 57'\, Rummenige 66'\, Reinders 81'\nCHI 🇨🇱: Moscoso 90'
+URL:https://www.fifa.com/en/match-centre/match/17/59/293/813
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1982
@@ -350,9 +364,10 @@ GEO:43.263506;-2.948392
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio San Mamés, Bilbao
  ";X-APPLE-RADIUS=100;X-TITLE="Estadio San Mamés, Bilbao":geo:43.263506,-2
  .948392
-DESCRIPTION:Group 4 | Matchday 2 | 1982 FIFA World Cup - Spain\nEngland 2-0
-  Czechoslovakia
-URL:https://en.wikipedia.org/wiki/1982_FIFA_World_Cup
+DESCRIPTION:1982 FIFA World Cup - Spain\nGroup 4 | Matchday 2\nEngland 2-0 
+ Czechoslovakia\nHT: 0-0\nFT: 2-0\nGoals:\nENG 🏴󠁧󠁢󠁥󠁮󠁧󠁿
+ : Francis 62'\, Barmoš 66' og
+URL:https://www.fifa.com/en/match-centre/match/17/59/293/889
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1982
@@ -368,9 +383,10 @@ GEO:39.474656;-0.358361
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Luis Casanova, Val
  encia";X-APPLE-RADIUS=100;X-TITLE="Estadio Luis Casanova, Valencia":geo:39
  .474656,-0.358361
-DESCRIPTION:Group 5 | Matchday 2 | 1982 FIFA World Cup - Spain\nSpain 2-1 Y
- ugoslavia
-URL:https://en.wikipedia.org/wiki/1982_FIFA_World_Cup
+DESCRIPTION:1982 FIFA World Cup - Spain\nGroup 5 | Matchday 2\nSpain 2-1 Yu
+ goslavia\nHT: 1-1\nFT: 2-1\nGoals:\nESP 🇪🇸: Juanito 14' pen\, Saura 
+ 66'\nYUG: Gudelj 10'
+URL:https://www.fifa.com/en/match-centre/match/17/59/293/903
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1982
@@ -386,9 +402,10 @@ GEO:43.360783;-5.870222
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Carlos Tartiere, O
  viedo";X-APPLE-RADIUS=100;X-TITLE="Estadio Carlos Tartiere, Oviedo":geo:43
  .360783,-5.870222
-DESCRIPTION:Group 2 | Matchday 2 | 1982 FIFA World Cup - Spain\nAlgeria 0-2
-  Austria
-URL:https://en.wikipedia.org/wiki/1982_FIFA_World_Cup
+DESCRIPTION:1982 FIFA World Cup - Spain\nGroup 2 | Matchday 2\nAlgeria 0-2 
+ Austria\nHT: 0-0\nFT: 0-2\nGoals:\nAUT 🇦🇹: Schachner 55'\, Krankl 67
+ '
+URL:https://www.fifa.com/en/match-centre/match/17/59/293/739
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1982
@@ -404,9 +421,10 @@ GEO:41.644444;-4.761111
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio José Zorrilla, Va
  lladolid";X-APPLE-RADIUS=100;X-TITLE="Estadio José Zorrilla, Valladolid":
  geo:41.644444,-4.761111
-DESCRIPTION:Group 4 | Matchday 2 | 1982 FIFA World Cup - Spain\nFrance 4-1 
- Kuwait
-URL:https://en.wikipedia.org/wiki/1982_FIFA_World_Cup
+DESCRIPTION:1982 FIFA World Cup - Spain\nGroup 4 | Matchday 2\nFrance 4-1 K
+ uwait\nHT: 2-0\nFT: 4-1\nGoals:\nFRA 🇫🇷: Genghini 31'\, Platini 43'\
+ , Six 48'\, Bossis 89'\nKUW 🇰🇼: Al Buloushi 75'
+URL:https://www.fifa.com/en/match-centre/match/17/59/293/919
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1982
@@ -421,9 +439,10 @@ LOCATION:La Romareda\, Zaragoza
 GEO:41.636667;-0.901944
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="La Romareda, Zaragoza";X-A
  PPLE-RADIUS=100;X-TITLE="La Romareda, Zaragoza":geo:41.636667,-0.901944
-DESCRIPTION:Group 5 | Matchday 2 | 1982 FIFA World Cup - Spain\nHonduras 1-
- 1 Northern Ireland
-URL:https://en.wikipedia.org/wiki/1982_FIFA_World_Cup
+DESCRIPTION:1982 FIFA World Cup - Spain\nGroup 5 | Matchday 2\nHonduras 1-1
+  Northern Ireland\nHT: 0-1\nFT: 1-1\nGoals:\nHON 🇭🇳: Laing 60'\nNIR:
+  Armstrong 9'
+URL:https://www.fifa.com/en/match-centre/match/17/59/293/959
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1982
@@ -439,9 +458,10 @@ GEO:43.368611;-8.417500
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio de Riazor, A Coru
  ña";X-APPLE-RADIUS=100;X-TITLE="Estadio de Riazor, A Coruña":geo:43.3686
  11,-8.417500
-DESCRIPTION:Group 1 | Matchday 3 | 1982 FIFA World Cup - Spain\nPoland 5-1 
- Peru
-URL:https://en.wikipedia.org/wiki/1982_FIFA_World_Cup
+DESCRIPTION:1982 FIFA World Cup - Spain\nGroup 1 | Matchday 3\nPoland 5-1 P
+ eru\nHT: 0-0\nFT: 5-1\nGoals:\nPOL 🇵🇱: Smolarek 55'\, Lato 58'\, Bon
+ iek 61'\, Buncol 69'\, Ciołek 76'\nPER 🇵🇪: La Rosa 83'
+URL:https://www.fifa.com/en/match-centre/match/17/59/293/1055
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1982
@@ -456,9 +476,10 @@ LOCATION:Nuevo Estadio\, Elche
 GEO:38.266944;-0.663333
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Nuevo Estadio, Elche";X-AP
  PLE-RADIUS=100;X-TITLE="Nuevo Estadio, Elche":geo:38.266944,-0.663333
-DESCRIPTION:Group 3 | Matchday 3 | 1982 FIFA World Cup - Spain\nBelgium 1-1
-  Hungary
-URL:https://en.wikipedia.org/wiki/1982_FIFA_World_Cup
+DESCRIPTION:1982 FIFA World Cup - Spain\nGroup 3 | Matchday 3\nBelgium 1-1 
+ Hungary\nHT: 0-1\nFT: 1-1\nGoals:\nBEL 🇧🇪: Czerniatynski 76'\nHUN 
+ 🇭🇺: Varga 27'
+URL:https://www.fifa.com/en/match-centre/match/17/59/293/779
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1982
@@ -474,9 +495,10 @@ GEO:36.734200;-4.426600
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio La Rosaleda, Mála
  ga";X-APPLE-RADIUS=100;X-TITLE="Estadio La Rosaleda, Málaga":geo:36.73420
  0,-4.426600
-DESCRIPTION:Group 6 | Matchday 3 | 1982 FIFA World Cup - Spain\nSoviet Unio
- n 2-2 Scotland
-URL:https://en.wikipedia.org/wiki/1982_FIFA_World_Cup
+DESCRIPTION:1982 FIFA World Cup - Spain\nGroup 6 | Matchday 3\nSoviet Union
+  2-2 Scotland\nHT: 0-1\nFT: 2-2\nGoals:\nURS: Chivadze 59'\, Shengelia 84'
+ \nSCO 🏴󠁧󠁢󠁳󠁣󠁴󠁿: Jordan 15'\, Souness 86'
+URL:https://www.fifa.com/en/match-centre/match/17/59/293/1071
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1982
@@ -491,9 +513,10 @@ LOCATION:Balaídos\, Vigo
 GEO:42.211833;-8.739694
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Balaídos, Vigo";X-APPLE-R
  ADIUS=100;X-TITLE="Balaídos, Vigo":geo:42.211833,-8.739694
-DESCRIPTION:Group 1 | Matchday 3 | 1982 FIFA World Cup - Spain\nItaly 1-1 C
- ameroon
-URL:https://en.wikipedia.org/wiki/1982_FIFA_World_Cup
+DESCRIPTION:1982 FIFA World Cup - Spain\nGroup 1 | Matchday 3\nItaly 1-1 Ca
+ meroon\nHT: 1-0\nFT: 1-1\nGoals:\nITA 🇮🇹: Graziani 60'\nCMR 🇨🇲
+ : M'Bida 61'
+URL:https://www.fifa.com/en/match-centre/match/17/59/293/828
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1982
@@ -509,9 +532,10 @@ GEO:38.357222;-0.492500
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio José Rico Pérez,
   Alicante";X-APPLE-RADIUS=100;X-TITLE="Estadio José Rico Pérez, Alicante
  ":geo:38.357222,-0.492500
-DESCRIPTION:Group 3 | Matchday 3 | 1982 FIFA World Cup - Spain\nArgentina 2
- -0 El Salvador
-URL:https://en.wikipedia.org/wiki/1982_FIFA_World_Cup
+DESCRIPTION:1982 FIFA World Cup - Spain\nGroup 3 | Matchday 3\nArgentina 2-
+ 0 El Salvador\nHT: 1-0\nFT: 2-0\nGoals:\nARG 🇦🇷: Passarella 22' pen\
+ , Bertoni 52'
+URL:https://www.fifa.com/en/match-centre/match/17/59/293/751
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1982
@@ -527,9 +551,10 @@ GEO:37.356389;-5.981389
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Benito Villamarín
  , Seville";X-APPLE-RADIUS=100;X-TITLE="Estadio Benito Villamarín, Seville
  ":geo:37.356389,-5.981389
-DESCRIPTION:Group 6 | Matchday 3 | 1982 FIFA World Cup - Spain\nBrazil 4-0 
- New Zealand
-URL:https://en.wikipedia.org/wiki/1982_FIFA_World_Cup
+DESCRIPTION:1982 FIFA World Cup - Spain\nGroup 6 | Matchday 3\nBrazil 4-0 N
+ ew Zealand\nHT: 2-0\nFT: 4-0\nGoals:\nBRA 🇧🇷: Zico 28'\, Zico 31'\, 
+ Falção 64'\, Serginho 70'
+URL:https://www.fifa.com/en/match-centre/match/17/59/293/789
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1982
@@ -545,9 +570,10 @@ GEO:43.360783;-5.870222
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Carlos Tartiere, O
  viedo";X-APPLE-RADIUS=100;X-TITLE="Estadio Carlos Tartiere, Oviedo":geo:43
  .360783,-5.870222
-DESCRIPTION:Group 2 | Matchday 3 | 1982 FIFA World Cup - Spain\nAlgeria 3-2
-  Chile
-URL:https://en.wikipedia.org/wiki/1982_FIFA_World_Cup
+DESCRIPTION:1982 FIFA World Cup - Spain\nGroup 2 | Matchday 3\nAlgeria 3-2 
+ Chile\nHT: 3-0\nFT: 3-2\nGoals:\nALG 🇩🇿: Assad 7'\, Assad 31'\, Bens
+ soula 35'\nCHI 🇨🇱: Neira 59' pen\, Letelier 73'
+URL:https://www.fifa.com/en/match-centre/match/17/59/293/740
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1982
@@ -563,9 +589,10 @@ GEO:41.644444;-4.761111
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio José Zorrilla, Va
  lladolid";X-APPLE-RADIUS=100;X-TITLE="Estadio José Zorrilla, Valladolid":
  geo:41.644444,-4.761111
-DESCRIPTION:Group 4 | Matchday 3 | 1982 FIFA World Cup - Spain\nFrance 1-1 
- Czechoslovakia
-URL:https://en.wikipedia.org/wiki/1982_FIFA_World_Cup
+DESCRIPTION:1982 FIFA World Cup - Spain\nGroup 4 | Matchday 3\nFrance 1-1 C
+ zechoslovakia\nHT: 0-0\nFT: 1-1\nGoals:\nFRA 🇫🇷: Six 66'\nTCH 🇨
+ 🇿: Panenka 84' pen
+URL:https://www.fifa.com/en/match-centre/match/17/59/293/922
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1982
@@ -580,9 +607,9 @@ LOCATION:La Romareda\, Zaragoza
 GEO:41.636667;-0.901944
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="La Romareda, Zaragoza";X-A
  PPLE-RADIUS=100;X-TITLE="La Romareda, Zaragoza":geo:41.636667,-0.901944
-DESCRIPTION:Group 5 | Matchday 3 | 1982 FIFA World Cup - Spain\nHonduras 0-
- 1 Yugoslavia
-URL:https://en.wikipedia.org/wiki/1982_FIFA_World_Cup
+DESCRIPTION:1982 FIFA World Cup - Spain\nGroup 5 | Matchday 3\nHonduras 0-1
+  Yugoslavia\nHT: 0-0\nFT: 0-1\nGoals:\nYUG: Petrović 88' pen
+URL:https://www.fifa.com/en/match-centre/match/17/59/293/962
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1982
@@ -597,9 +624,9 @@ LOCATION:El Molinón\, Gijón
 GEO:43.536111;-5.637222
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="El Molinón, Gijón";X-APP
  LE-RADIUS=100;X-TITLE="El Molinón, Gijón":geo:43.536111,-5.637222
-DESCRIPTION:Group 2 | Matchday 3 | 1982 FIFA World Cup - Spain\nWest German
- y 1-0 Austria
-URL:https://en.wikipedia.org/wiki/1982_FIFA_World_Cup
+DESCRIPTION:1982 FIFA World Cup - Spain\nGroup 2 | Matchday 3\nWest Germany
+  1-0 Austria\nHT: 1-0\nFT: 1-0\nGoals:\nFRG 🇩🇪: Hrubesch 10'
+URL:https://www.fifa.com/en/match-centre/match/17/59/293/770
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1982
@@ -615,9 +642,10 @@ GEO:43.263506;-2.948392
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio San Mamés, Bilbao
  ";X-APPLE-RADIUS=100;X-TITLE="Estadio San Mamés, Bilbao":geo:43.263506,-2
  .948392
-DESCRIPTION:Group 4 | Matchday 3 | 1982 FIFA World Cup - Spain\nEngland 1-0
-  Kuwait
-URL:https://en.wikipedia.org/wiki/1982_FIFA_World_Cup
+DESCRIPTION:1982 FIFA World Cup - Spain\nGroup 4 | Matchday 3\nEngland 1-0 
+ Kuwait\nHT: 1-0\nFT: 1-0\nGoals:\nENG 🏴󠁧󠁢󠁥󠁮󠁧󠁿: Franci
+ s 27'
+URL:https://www.fifa.com/en/match-centre/match/17/59/293/882
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1982
@@ -633,9 +661,9 @@ GEO:39.474656;-0.358361
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Luis Casanova, Val
  encia";X-APPLE-RADIUS=100;X-TITLE="Estadio Luis Casanova, Valencia":geo:39
  .474656,-0.358361
-DESCRIPTION:Group 5 | Matchday 3 | 1982 FIFA World Cup - Spain\nSpain 0-1 N
- orthern Ireland
-URL:https://en.wikipedia.org/wiki/1982_FIFA_World_Cup
+DESCRIPTION:1982 FIFA World Cup - Spain\nGroup 5 | Matchday 3\nSpain 0-1 No
+ rthern Ireland\nHT: 0-0\nFT: 0-1\nGoals:\nNIR: Armstrong 48'
+URL:https://www.fifa.com/en/match-centre/match/17/59/293/902
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1982
@@ -651,9 +679,9 @@ GEO:40.401719;-3.720606
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Vicente Calderón,
   Madrid";X-APPLE-RADIUS=100;X-TITLE="Estadio Vicente Calderón, Madrid":ge
  o:40.401719,-3.720606
-DESCRIPTION:Group D | Matchday 4 | 1982 FIFA World Cup - Spain\nAustria 0-1
-  France
-URL:https://en.wikipedia.org/wiki/1982_FIFA_World_Cup
+DESCRIPTION:1982 FIFA World Cup - Spain\nGroup D | Matchday 4\nAustria 0-1 
+ France\nHT: 0-1\nFT: 0-1\nGoals:\nFRA 🇫🇷: Genghini 39'
+URL:https://www.fifa.com/en/match-centre/match/17/59/294/767
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1982
@@ -668,9 +696,10 @@ LOCATION:Camp Nou\, Barcelona
 GEO:41.380800;2.122800
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Camp Nou, Barcelona";X-APP
  LE-RADIUS=100;X-TITLE="Camp Nou, Barcelona":geo:41.380800,2.122800
-DESCRIPTION:Group A | Matchday 4 | 1982 FIFA World Cup - Spain\nPoland 3-0 
- Belgium
-URL:https://en.wikipedia.org/wiki/1982_FIFA_World_Cup
+DESCRIPTION:1982 FIFA World Cup - Spain\nGroup A | Matchday 4\nPoland 3-0 B
+ elgium\nHT: 2-0\nFT: 3-0\nGoals:\nPOL 🇵🇱: Boniek 3'\, Boniek 25'\, B
+ oniek 54'
+URL:https://www.fifa.com/en/match-centre/match/17/59/294/782
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1982
@@ -686,9 +715,10 @@ GEO:41.393111;2.133169
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Sarriá, Barcelona
  ";X-APPLE-RADIUS=100;X-TITLE="Estadio Sarriá, Barcelona":geo:41.393111,2.
  133169
-DESCRIPTION:Group C | Matchday 4 | 1982 FIFA World Cup - Spain\nItaly 2-1 A
- rgentina
-URL:https://en.wikipedia.org/wiki/1982_FIFA_World_Cup
+DESCRIPTION:1982 FIFA World Cup - Spain\nGroup C | Matchday 4\nItaly 2-1 Ar
+ gentina\nHT: 0-0\nFT: 2-1\nGoals:\nITA 🇮🇹: Tardelli 55'\, Cabrini 67
+ '\nARG 🇦🇷: Passarella 83'
+URL:https://www.fifa.com/en/match-centre/match/17/59/294/753
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1982
@@ -704,9 +734,9 @@ GEO:40.453060;-3.688350
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Santiago Bernabéu
  , Madrid";X-APPLE-RADIUS=100;X-TITLE="Estadio Santiago Bernabéu, Madrid":
  geo:40.453060,-3.688350
-DESCRIPTION:Group B | Matchday 4 | 1982 FIFA World Cup - Spain\nWest German
- y 0-0 England
-URL:https://en.wikipedia.org/wiki/1982_FIFA_World_Cup
+DESCRIPTION:1982 FIFA World Cup - Spain\nGroup B | Matchday 4\nWest Germany
+  0-0 England\nHT: 0-0\nFT: 0-0
+URL:https://www.fifa.com/en/match-centre/match/17/59/294/879
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1982
@@ -722,9 +752,10 @@ GEO:40.401719;-3.720606
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Vicente Calderón,
   Madrid";X-APPLE-RADIUS=100;X-TITLE="Estadio Vicente Calderón, Madrid":ge
  o:40.401719,-3.720606
-DESCRIPTION:Group D | Matchday 5 | 1982 FIFA World Cup - Spain\nAustria 2-2
-  Northern Ireland
-URL:https://en.wikipedia.org/wiki/1982_FIFA_World_Cup
+DESCRIPTION:1982 FIFA World Cup - Spain\nGroup D | Matchday 5\nAustria 2-2 
+ Northern Ireland\nHT: 0-1\nFT: 2-2\nGoals:\nAUT 🇦🇹: Pezzey 50'\, Hin
+ termayer 68'\nNIR: Hamilton 27'\, Hamilton 75'
+URL:https://www.fifa.com/en/match-centre/match/17/59/294/771
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1982
@@ -739,9 +770,9 @@ LOCATION:Camp Nou\, Barcelona
 GEO:41.380800;2.122800
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Camp Nou, Barcelona";X-APP
  LE-RADIUS=100;X-TITLE="Camp Nou, Barcelona":geo:41.380800,2.122800
-DESCRIPTION:Group A | Matchday 5 | 1982 FIFA World Cup - Spain\nBelgium 0-1
-  Soviet Union
-URL:https://en.wikipedia.org/wiki/1982_FIFA_World_Cup
+DESCRIPTION:1982 FIFA World Cup - Spain\nGroup A | Matchday 5\nBelgium 0-1 
+ Soviet Union\nHT: 0-0\nFT: 0-1\nGoals:\nURS: Oganesian 46'
+URL:https://www.fifa.com/en/match-centre/match/17/59/294/783
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1982
@@ -757,9 +788,10 @@ GEO:41.393111;2.133169
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Sarriá, Barcelona
  ";X-APPLE-RADIUS=100;X-TITLE="Estadio Sarriá, Barcelona":geo:41.393111,2.
  133169
-DESCRIPTION:Group C | Matchday 5 | 1982 FIFA World Cup - Spain\nArgentina 1
- -3 Brazil
-URL:https://en.wikipedia.org/wiki/1982_FIFA_World_Cup
+DESCRIPTION:1982 FIFA World Cup - Spain\nGroup C | Matchday 5\nArgentina 1-
+ 3 Brazil\nHT: 0-1\nFT: 1-3\nGoals:\nARG 🇦🇷: Diaz 89'\nBRA 🇧🇷: 
+ Zico 11'\, Serginho 66'\, Junior 75'
+URL:https://www.fifa.com/en/match-centre/match/17/59/294/750
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1982
@@ -775,9 +807,10 @@ GEO:40.453060;-3.688350
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Santiago Bernabéu
  , Madrid";X-APPLE-RADIUS=100;X-TITLE="Estadio Santiago Bernabéu, Madrid":
  geo:40.453060,-3.688350
-DESCRIPTION:Group B | Matchday 5 | 1982 FIFA World Cup - Spain\nWest German
- y 2-1 Spain
-URL:https://en.wikipedia.org/wiki/1982_FIFA_World_Cup
+DESCRIPTION:1982 FIFA World Cup - Spain\nGroup B | Matchday 5\nWest Germany
+  2-1 Spain\nHT: 0-0\nFT: 2-1\nGoals:\nFRG 🇩🇪: Littbarski 60'\, Fisch
+ er 75'\nESP 🇪🇸: Zamora 82'
+URL:https://www.fifa.com/en/match-centre/match/17/59/294/900
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1982
@@ -793,9 +826,10 @@ GEO:40.401719;-3.720606
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Vicente Calderón,
   Madrid";X-APPLE-RADIUS=100;X-TITLE="Estadio Vicente Calderón, Madrid":ge
  o:40.401719,-3.720606
-DESCRIPTION:Group D | Matchday 6 | 1982 FIFA World Cup - Spain\nNorthern Ir
- eland 1-4 France
-URL:https://en.wikipedia.org/wiki/1982_FIFA_World_Cup
+DESCRIPTION:1982 FIFA World Cup - Spain\nGroup D | Matchday 6\nNorthern Ire
+ land 1-4 France\nHT: 0-1\nFT: 1-4\nGoals:\nNIR: Armstrong 75'\nFRA 🇫
+ 🇷: Giresse 33'\, Rocheteau 46'\, Rocheteau 68'\, Giresse 80'
+URL:https://www.fifa.com/en/match-centre/match/17/59/294/920
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1982
@@ -810,9 +844,9 @@ LOCATION:Camp Nou\, Barcelona
 GEO:41.380800;2.122800
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Camp Nou, Barcelona";X-APP
  LE-RADIUS=100;X-TITLE="Camp Nou, Barcelona":geo:41.380800,2.122800
-DESCRIPTION:Group A | Matchday 6 | 1982 FIFA World Cup - Spain\nSoviet Unio
- n 0-0 Poland
-URL:https://en.wikipedia.org/wiki/1982_FIFA_World_Cup
+DESCRIPTION:1982 FIFA World Cup - Spain\nGroup A | Matchday 6\nSoviet Union
+  0-0 Poland\nHT: 0-0\nFT: 0-0
+URL:https://www.fifa.com/en/match-centre/match/17/59/294/1058
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1982
@@ -828,9 +862,10 @@ GEO:41.393111;2.133169
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Sarriá, Barcelona
  ";X-APPLE-RADIUS=100;X-TITLE="Estadio Sarriá, Barcelona":geo:41.393111,2.
  133169
-DESCRIPTION:Group C | Matchday 6 | 1982 FIFA World Cup - Spain\nItaly 3-2 B
- razil
-URL:https://en.wikipedia.org/wiki/1982_FIFA_World_Cup
+DESCRIPTION:1982 FIFA World Cup - Spain\nGroup C | Matchday 6\nItaly 3-2 Br
+ azil\nHT: 2-1\nFT: 3-2\nGoals:\nITA 🇮🇹: Rossi 8'\, Rossi 25'\, Rossi
+  74'\nBRA 🇧🇷: Socrates 12'\, Falção 68'
+URL:https://www.fifa.com/en/match-centre/match/17/59/294/788
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1982
@@ -846,9 +881,9 @@ GEO:40.453060;-3.688350
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Santiago Bernabéu
  , Madrid";X-APPLE-RADIUS=100;X-TITLE="Estadio Santiago Bernabéu, Madrid":
  geo:40.453060,-3.688350
-DESCRIPTION:Group B | Matchday 6 | 1982 FIFA World Cup - Spain\nSpain 0-0 E
- ngland
-URL:https://en.wikipedia.org/wiki/1982_FIFA_World_Cup
+DESCRIPTION:1982 FIFA World Cup - Spain\nGroup B | Matchday 6\nSpain 0-0 En
+ gland\nHT: 0-0\nFT: 0-0
+URL:https://www.fifa.com/en/match-centre/match/17/59/294/877
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1982
@@ -863,8 +898,9 @@ LOCATION:Camp Nou\, Barcelona
 GEO:41.380800;2.122800
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Camp Nou, Barcelona";X-APP
  LE-RADIUS=100;X-TITLE="Camp Nou, Barcelona":geo:41.380800,2.122800
-DESCRIPTION:Semi-finals | 1982 FIFA World Cup - Spain\nPoland 0-2 Italy
-URL:https://en.wikipedia.org/wiki/1982_FIFA_World_Cup
+DESCRIPTION:1982 FIFA World Cup - Spain\nSemi-finals\nPoland 0-2 Italy\nHT:
+  0-1\nFT: 0-2\nGoals:\nITA 🇮🇹: Rossi 22'\, Rossi 73'
+URL:https://www.fifa.com/en/match-centre/match/17/59/295/996
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1982
@@ -880,9 +916,11 @@ GEO:37.384000;-5.970500
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Ramón Sánchez Pi
  zjuán, Seville";X-APPLE-RADIUS=100;X-TITLE="Estadio Ramón Sánchez Pizju
  án, Seville":geo:37.384000,-5.970500
-DESCRIPTION:Semi-finals | 1982 FIFA World Cup - Spain\nWest Germany 3-3 Fra
- nce\nFT: 1-1\nAET: 3-3\nPenalties: 5-4
-URL:https://en.wikipedia.org/wiki/1982_FIFA_World_Cup
+DESCRIPTION:1982 FIFA World Cup - Spain\nSemi-finals\nWest Germany 3-3 Fran
+ ce\nHT: 1-1\nFT: 1-1\nAET: 3-3\nPenalties: 5-4\nGoals:\nFRG 🇩🇪: Litt
+ barski 17'\, Rummenige 102'\, Fischer 108'\nFRA 🇫🇷: Platini 26' pen\
+ , Tresor 92'\, Giresse 98'
+URL:https://www.fifa.com/en/match-centre/match/17/59/295/914
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1982
@@ -898,9 +936,10 @@ GEO:38.357222;-0.492500
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio José Rico Pérez,
   Alicante";X-APPLE-RADIUS=100;X-TITLE="Estadio José Rico Pérez, Alicante
  ":geo:38.357222,-0.492500
-DESCRIPTION:Third place match | 1982 FIFA World Cup - Spain\nPoland 3-2 Fra
- nce
-URL:https://en.wikipedia.org/wiki/1982_FIFA_World_Cup
+DESCRIPTION:1982 FIFA World Cup - Spain\nThird place match\nPoland 3-2 Fran
+ ce\nHT: 2-1\nFT: 3-2\nGoals:\nPOL 🇵🇱: Szarmach 41'\, Majewski 44'\, 
+ Kupcewicz 46'\nFRA 🇫🇷: Girard 13'\, Couriol 73'
+URL:https://www.fifa.com/en/match-centre/match/17/59/676/921
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1982
@@ -916,8 +955,10 @@ GEO:40.453060;-3.688350
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Santiago Bernabéu
  ";X-APPLE-RADIUS=100;X-TITLE="Estadio Santiago Bernabéu":geo:40.453060,-3
  .688350
-DESCRIPTION:Final | 1982 FIFA World Cup - Spain\nItaly 3-1 West Germany
-URL:https://en.wikipedia.org/wiki/1982_FIFA_World_Cup
+DESCRIPTION:1982 FIFA World Cup - Spain\nFinal\nItaly 3-1 West Germany\nHT:
+  0-0\nFT: 3-1\nGoals:\nITA 🇮🇹: Rossi 57'\, Tardelli 69'\, Altobelli 
+ 81'\nFRG 🇩🇪: Breitner 83'
+URL:https://www.fifa.com/en/match-centre/match/17/59/3475/923
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1982

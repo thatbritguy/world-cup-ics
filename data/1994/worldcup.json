@@ -10,10 +10,30 @@
         "ft": [
           1,
           1
+        ],
+        "ht": [
+          1,
+          1
         ]
       },
       "group": "Group A",
-      "ground": "Pontiac Silverdome, Pontiac"
+      "ground": "Pontiac Silverdome, Pontiac",
+      "goals1": [
+        {
+          "name": "Wynalda",
+          "minute": 45
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Brégy",
+          "minute": 39
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 1",
@@ -24,10 +44,38 @@
         "ft": [
           1,
           3
+        ],
+        "ht": [
+          1,
+          2
         ]
       },
       "group": "Group A",
-      "ground": "Rose Bowl, Pasadena"
+      "ground": "Rose Bowl, Pasadena",
+      "goals1": [
+        {
+          "name": "Valencia",
+          "minute": 43
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Răducioiu",
+          "minute": 16
+        },
+        {
+          "name": "Hagi",
+          "minute": 34
+        },
+        {
+          "name": "Răducioiu",
+          "minute": 88
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 2",
@@ -38,10 +86,42 @@
         "ft": [
           1,
           4
+        ],
+        "ht": [
+          1,
+          1
         ]
       },
       "group": "Group A",
-      "ground": "Pontiac Silverdome, Pontiac"
+      "ground": "Pontiac Silverdome, Pontiac",
+      "goals1": [
+        {
+          "name": "Hagi",
+          "minute": 36
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Sutter",
+          "minute": 16
+        },
+        {
+          "name": "Chapuisat",
+          "minute": 53
+        },
+        {
+          "name": "Knup",
+          "minute": 66
+        },
+        {
+          "name": "Knup",
+          "minute": 73
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 2",
@@ -52,10 +132,35 @@
         "ft": [
           2,
           1
+        ],
+        "ht": [
+          1,
+          0
         ]
       },
       "group": "Group A",
-      "ground": "Rose Bowl, Pasadena"
+      "ground": "Rose Bowl, Pasadena",
+      "goals1": [
+        {
+          "name": "Escobar",
+          "minute": 34,
+          "owngoal": true
+        },
+        {
+          "name": "Stewart",
+          "minute": 52
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Valencia",
+          "minute": 90
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 2",
@@ -66,10 +171,25 @@
         "ft": [
           0,
           1
+        ],
+        "ht": [
+          0,
+          1
         ]
       },
       "group": "Group A",
-      "ground": "Rose Bowl, Pasadena"
+      "ground": "Rose Bowl, Pasadena",
+      "goals1": [],
+      "goals2": [
+        {
+          "name": "Petrescu",
+          "minute": 17
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 2",
@@ -80,10 +200,29 @@
         "ft": [
           0,
           2
+        ],
+        "ht": [
+          0,
+          1
         ]
       },
       "group": "Group A",
-      "ground": "Stanford Stadium, Stanford"
+      "ground": "Stanford Stadium, Stanford",
+      "goals1": [],
+      "goals2": [
+        {
+          "name": "Gaviria",
+          "minute": 44
+        },
+        {
+          "name": "Lozano",
+          "minute": 90
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 1",
@@ -94,10 +233,38 @@
         "ft": [
           2,
           2
+        ],
+        "ht": [
+          1,
+          1
         ]
       },
       "group": "Group B",
-      "ground": "Rose Bowl, Pasadena"
+      "ground": "Rose Bowl, Pasadena",
+      "goals1": [
+        {
+          "name": "Embe",
+          "minute": 30
+        },
+        {
+          "name": "Omam-Biyik",
+          "minute": 46
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Ljung",
+          "minute": 8
+        },
+        {
+          "name": "Dahlin",
+          "minute": 75
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 1",
@@ -108,10 +275,30 @@
         "ft": [
           2,
           0
+        ],
+        "ht": [
+          1,
+          0
         ]
       },
       "group": "Group B",
-      "ground": "Stanford Stadium, Stanford"
+      "ground": "Stanford Stadium, Stanford",
+      "goals1": [
+        {
+          "name": "Romário",
+          "minute": 27
+        },
+        {
+          "name": "Rai",
+          "minute": 53,
+          "penalty": true
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 2",
@@ -122,10 +309,33 @@
         "ft": [
           3,
           0
+        ],
+        "ht": [
+          1,
+          0
         ]
       },
       "group": "Group B",
-      "ground": "Stanford Stadium, Stanford"
+      "ground": "Stanford Stadium, Stanford",
+      "goals1": [
+        {
+          "name": "Romário",
+          "minute": 39
+        },
+        {
+          "name": "Marcio Santos",
+          "minute": 62
+        },
+        {
+          "name": "Bebeto",
+          "minute": 72
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 2",
@@ -136,10 +346,40 @@
         "ft": [
           3,
           1
+        ],
+        "ht": [
+          1,
+          1
         ]
       },
       "group": "Group B",
-      "ground": "Pontiac Silverdome, Pontiac"
+      "ground": "Pontiac Silverdome, Pontiac",
+      "goals1": [
+        {
+          "name": "Brolin",
+          "minute": 39,
+          "penalty": true
+        },
+        {
+          "name": "Dahlin",
+          "minute": 60
+        },
+        {
+          "name": "Dahlin",
+          "minute": 82
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Salenko",
+          "minute": 4,
+          "penalty": true
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 3",
@@ -150,10 +390,51 @@
         "ft": [
           6,
           1
+        ],
+        "ht": [
+          3,
+          0
         ]
       },
       "group": "Group B",
-      "ground": "Stanford Stadium, Stanford"
+      "ground": "Stanford Stadium, Stanford",
+      "goals1": [
+        {
+          "name": "Salenko",
+          "minute": 16
+        },
+        {
+          "name": "Salenko",
+          "minute": 41
+        },
+        {
+          "name": "Salenko",
+          "minute": 45,
+          "penalty": true
+        },
+        {
+          "name": "Salenko",
+          "minute": 72
+        },
+        {
+          "name": "Salenko",
+          "minute": 75
+        },
+        {
+          "name": "Radchenko",
+          "minute": 82
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Milla",
+          "minute": 47
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 3",
@@ -164,10 +445,30 @@
         "ft": [
           1,
           1
+        ],
+        "ht": [
+          0,
+          1
         ]
       },
       "group": "Group B",
-      "ground": "Pontiac Silverdome, Pontiac"
+      "ground": "Pontiac Silverdome, Pontiac",
+      "goals1": [
+        {
+          "name": "Romário",
+          "minute": 47
+        }
+      ],
+      "goals2": [
+        {
+          "name": "K.Andersson",
+          "minute": 24
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 1",
@@ -181,7 +482,15 @@
         ]
       },
       "group": "Group C",
-      "ground": "Soldier Field, Chicago"
+      "ground": "Soldier Field, Chicago",
+      "result_enrichment": {
+        "source": "none",
+        "score_reconciled": false,
+        "missing_fields": [
+          "goalscorers",
+          "half_time_score"
+        ]
+      }
     },
     {
       "round": "Matchday 1",
@@ -192,10 +501,38 @@
         "ft": [
           2,
           2
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group C",
-      "ground": "Cotton Bowl, Dallas"
+      "ground": "Cotton Bowl, Dallas",
+      "goals1": [
+        {
+          "name": "Salinas",
+          "minute": 51
+        },
+        {
+          "name": "Goikoetxea",
+          "minute": 56
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Hong Myung-bo",
+          "minute": 85
+        },
+        {
+          "name": "Seo Jung-woon",
+          "minute": 90
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 1",
@@ -209,7 +546,15 @@
         ]
       },
       "group": "Group C",
-      "ground": "Soldier Field, Chicago"
+      "ground": "Soldier Field, Chicago",
+      "result_enrichment": {
+        "source": "none",
+        "score_reconciled": false,
+        "missing_fields": [
+          "goalscorers",
+          "half_time_score"
+        ]
+      }
     },
     {
       "round": "Matchday 2",
@@ -220,10 +565,18 @@
         "ft": [
           0,
           0
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group C",
-      "ground": "Foxboro Stadium, Foxborough"
+      "ground": "Foxboro Stadium, Foxborough",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 3",
@@ -234,10 +587,39 @@
         "ft": [
           1,
           3
+        ],
+        "ht": [
+          0,
+          1
         ]
       },
       "group": "Group C",
-      "ground": "Soldier Field, Chicago"
+      "ground": "Soldier Field, Chicago",
+      "goals1": [
+        {
+          "name": "Sánchez",
+          "minute": 67
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Guardiola",
+          "minute": 19,
+          "penalty": true
+        },
+        {
+          "name": "Caminero",
+          "minute": 65
+        },
+        {
+          "name": "Caminero",
+          "minute": 71
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 3",
@@ -248,10 +630,42 @@
         "ft": [
           3,
           2
+        ],
+        "ht": [
+          3,
+          0
         ]
       },
       "group": "Group C",
-      "ground": "Cotton Bowl, Dallas"
+      "ground": "Cotton Bowl, Dallas",
+      "goals1": [
+        {
+          "name": "Klinsmann",
+          "minute": 12
+        },
+        {
+          "name": "Riedle",
+          "minute": 20
+        },
+        {
+          "name": "Klinsmann",
+          "minute": 37
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Hwang Sun-hong",
+          "minute": 51
+        },
+        {
+          "name": "Hong Myung-bo",
+          "minute": 63
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 1",
@@ -262,10 +676,38 @@
         "ft": [
           4,
           0
+        ],
+        "ht": [
+          2,
+          0
         ]
       },
       "group": "Group D",
-      "ground": "Foxboro Stadium, Foxborough"
+      "ground": "Foxboro Stadium, Foxborough",
+      "goals1": [
+        {
+          "name": "Batistuta",
+          "minute": 2
+        },
+        {
+          "name": "Batistuta",
+          "minute": 45
+        },
+        {
+          "name": "Maradona",
+          "minute": 60
+        },
+        {
+          "name": "Batistuta",
+          "minute": 90,
+          "penalty": true
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 1",
@@ -276,10 +718,33 @@
         "ft": [
           3,
           0
+        ],
+        "ht": [
+          2,
+          0
         ]
       },
       "group": "Group D",
-      "ground": "Cotton Bowl, Dallas"
+      "ground": "Cotton Bowl, Dallas",
+      "goals1": [
+        {
+          "name": "Yekini",
+          "minute": 21
+        },
+        {
+          "name": "Amokachi",
+          "minute": 43
+        },
+        {
+          "name": "Amunike",
+          "minute": 55
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 2",
@@ -290,10 +755,34 @@
         "ft": [
           2,
           1
+        ],
+        "ht": [
+          2,
+          1
         ]
       },
       "group": "Group D",
-      "ground": "Foxboro Stadium, Foxborough"
+      "ground": "Foxboro Stadium, Foxborough",
+      "goals1": [
+        {
+          "name": "Caniggia",
+          "minute": 22
+        },
+        {
+          "name": "Caniggia",
+          "minute": 29
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Siasia",
+          "minute": 10
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 2",
@@ -304,10 +793,39 @@
         "ft": [
           0,
           4
+        ],
+        "ht": [
+          0,
+          1
         ]
       },
       "group": "Group D",
-      "ground": "Soldier Field, Chicago"
+      "ground": "Soldier Field, Chicago",
+      "goals1": [],
+      "goals2": [
+        {
+          "name": "Stoichkov",
+          "minute": 5,
+          "penalty": true
+        },
+        {
+          "name": "Stoichkov",
+          "minute": 55,
+          "penalty": true
+        },
+        {
+          "name": "Letchkov",
+          "minute": 66
+        },
+        {
+          "name": "Borimirov",
+          "minute": 90
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 3",
@@ -318,10 +836,29 @@
         "ft": [
           0,
           2
+        ],
+        "ht": [
+          0,
+          1
         ]
       },
       "group": "Group D",
-      "ground": "Foxboro Stadium, Foxborough"
+      "ground": "Foxboro Stadium, Foxborough",
+      "goals1": [],
+      "goals2": [
+        {
+          "name": "Finidi",
+          "minute": 45
+        },
+        {
+          "name": "Amokachi",
+          "minute": 90
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 3",
@@ -332,10 +869,29 @@
         "ft": [
           0,
           2
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group D",
-      "ground": "Cotton Bowl, Dallas"
+      "ground": "Cotton Bowl, Dallas",
+      "goals1": [],
+      "goals2": [
+        {
+          "name": "Stoichkov",
+          "minute": 61
+        },
+        {
+          "name": "Sirakov",
+          "minute": 90
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 1",
@@ -346,10 +902,25 @@
         "ft": [
           0,
           1
+        ],
+        "ht": [
+          0,
+          1
         ]
       },
       "group": "Group E",
-      "ground": "Giants Stadium, East Rutherford"
+      "ground": "Giants Stadium, East Rutherford",
+      "goals1": [],
+      "goals2": [
+        {
+          "name": "Houghton",
+          "minute": 12
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 1",
@@ -360,10 +931,25 @@
         "ft": [
           1,
           0
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group E",
-      "ground": "RFK Stadium, Washington"
+      "ground": "RFK Stadium, Washington",
+      "goals1": [
+        {
+          "name": "Rekdal",
+          "minute": 85
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 2",
@@ -374,10 +960,25 @@
         "ft": [
           1,
           0
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group E",
-      "ground": "Giants Stadium, East Rutherford"
+      "ground": "Giants Stadium, East Rutherford",
+      "goals1": [
+        {
+          "name": "D.Baggio",
+          "minute": 69
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 2",
@@ -388,10 +989,34 @@
         "ft": [
           2,
           1
+        ],
+        "ht": [
+          1,
+          0
         ]
       },
       "group": "Group E",
-      "ground": "Citrus Bowl, Orlando"
+      "ground": "Citrus Bowl, Orlando",
+      "goals1": [
+        {
+          "name": "Luis Garcia",
+          "minute": 44
+        },
+        {
+          "name": "Luis Garcia",
+          "minute": 66
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Aldridge",
+          "minute": 84
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 3",
@@ -402,10 +1027,18 @@
         "ft": [
           0,
           0
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group E",
-      "ground": "Giants Stadium, East Rutherford"
+      "ground": "Giants Stadium, East Rutherford",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 3",
@@ -416,10 +1049,30 @@
         "ft": [
           1,
           1
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group E",
-      "ground": "RFK Stadium, Washington"
+      "ground": "RFK Stadium, Washington",
+      "goals1": [
+        {
+          "name": "Massaro",
+          "minute": 48
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Bernal",
+          "minute": 56
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 1",
@@ -430,10 +1083,25 @@
         "ft": [
           1,
           0
+        ],
+        "ht": [
+          1,
+          0
         ]
       },
       "group": "Group F",
-      "ground": "Citrus Bowl, Orlando"
+      "ground": "Citrus Bowl, Orlando",
+      "goals1": [
+        {
+          "name": "Degryse",
+          "minute": 11
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 1",
@@ -444,10 +1112,34 @@
         "ft": [
           2,
           1
+        ],
+        "ht": [
+          0,
+          1
         ]
       },
       "group": "Group F",
-      "ground": "RFK Stadium, Washington"
+      "ground": "RFK Stadium, Washington",
+      "goals1": [
+        {
+          "name": "Jonk",
+          "minute": 50
+        },
+        {
+          "name": "Taument",
+          "minute": 86
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Anim",
+          "minute": 19
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 2",
@@ -458,10 +1150,25 @@
         "ft": [
           1,
           0
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group F",
-      "ground": "Citrus Bowl, Orlando"
+      "ground": "Citrus Bowl, Orlando",
+      "goals1": [
+        {
+          "name": "Albert",
+          "minute": 65
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 2",
@@ -472,10 +1179,35 @@
         "ft": [
           2,
           1
+        ],
+        "ht": [
+          2,
+          1
         ]
       },
       "group": "Group F",
-      "ground": "Giants Stadium, East Rutherford"
+      "ground": "Giants Stadium, East Rutherford",
+      "goals1": [
+        {
+          "name": "Al Jaber",
+          "minute": 8,
+          "penalty": true
+        },
+        {
+          "name": "Amin",
+          "minute": 45
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Chaouch",
+          "minute": 27
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 3",
@@ -486,10 +1218,34 @@
         "ft": [
           1,
           2
+        ],
+        "ht": [
+          0,
+          1
         ]
       },
       "group": "Group F",
-      "ground": "Citrus Bowl, Orlando"
+      "ground": "Citrus Bowl, Orlando",
+      "goals1": [
+        {
+          "name": "Nader",
+          "minute": 47
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Bergkamp",
+          "minute": 43
+        },
+        {
+          "name": "Roy",
+          "minute": 78
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 3",
@@ -500,10 +1256,25 @@
         "ft": [
           0,
           1
+        ],
+        "ht": [
+          0,
+          1
         ]
       },
       "group": "Group F",
-      "ground": "RFK Stadium, Washington"
+      "ground": "RFK Stadium, Washington",
+      "goals1": [],
+      "goals2": [
+        {
+          "name": "Al Owairan",
+          "minute": 5
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Round of 16",
@@ -514,9 +1285,41 @@
         "ft": [
           3,
           2
+        ],
+        "ht": [
+          3,
+          1
         ]
       },
-      "ground": "Soldier Field, Chicago"
+      "ground": "Soldier Field, Chicago",
+      "goals1": [
+        {
+          "name": "Völler",
+          "minute": 5
+        },
+        {
+          "name": "Klinsmann",
+          "minute": 10
+        },
+        {
+          "name": "Völler",
+          "minute": 39
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Grun",
+          "minute": 7
+        },
+        {
+          "name": "Albert",
+          "minute": 90
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Round of 16",
@@ -527,9 +1330,33 @@
         "ft": [
           3,
           0
+        ],
+        "ht": [
+          1,
+          0
         ]
       },
-      "ground": "RFK Stadium, Washington"
+      "ground": "RFK Stadium, Washington",
+      "goals1": [
+        {
+          "name": "Hierro",
+          "minute": 15
+        },
+        {
+          "name": "Luis Enrique",
+          "minute": 73
+        },
+        {
+          "name": "Begurristain",
+          "minute": 86,
+          "penalty": true
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Round of 16",
@@ -540,9 +1367,37 @@
         "ft": [
           1,
           3
+        ],
+        "ht": [
+          0,
+          1
         ]
       },
-      "ground": "Cotton Bowl, Dallas"
+      "ground": "Cotton Bowl, Dallas",
+      "goals1": [
+        {
+          "name": "Al Gheshayan",
+          "minute": 85
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Dahlin",
+          "minute": 5
+        },
+        {
+          "name": "K.Andersson",
+          "minute": 50
+        },
+        {
+          "name": "K.Andersson",
+          "minute": 87
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Round of 16",
@@ -553,9 +1408,42 @@
         "ft": [
           3,
           2
+        ],
+        "ht": [
+          2,
+          1
         ]
       },
-      "ground": "Rose Bowl, Pasadena"
+      "ground": "Rose Bowl, Pasadena",
+      "goals1": [
+        {
+          "name": "Dumitrescu",
+          "minute": 9
+        },
+        {
+          "name": "Dumitrescu",
+          "minute": 17
+        },
+        {
+          "name": "Hagi",
+          "minute": 57
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Batistuta",
+          "minute": 15,
+          "penalty": true
+        },
+        {
+          "name": "Balbo",
+          "minute": 74
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Round of 16",
@@ -566,9 +1454,28 @@
         "ft": [
           2,
           0
+        ],
+        "ht": [
+          2,
+          0
         ]
       },
-      "ground": "Citrus Bowl, Orlando"
+      "ground": "Citrus Bowl, Orlando",
+      "goals1": [
+        {
+          "name": "Bergkamp",
+          "minute": 11
+        },
+        {
+          "name": "Jonk",
+          "minute": 41
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Round of 16",
@@ -579,9 +1486,24 @@
         "ft": [
           1,
           0
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
-      "ground": "Stanford Stadium, Stanford"
+      "ground": "Stanford Stadium, Stanford",
+      "goals1": [
+        {
+          "name": "Bebeto",
+          "minute": 73
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Round of 16",
@@ -596,9 +1518,34 @@
         "ft": [
           1,
           1
+        ],
+        "ht": [
+          1,
+          0
         ]
       },
-      "ground": "Foxboro Stadium, Foxborough"
+      "ground": "Foxboro Stadium, Foxborough",
+      "goals1": [
+        {
+          "name": "Amunike",
+          "minute": 26
+        }
+      ],
+      "goals2": [
+        {
+          "name": "R.Baggio",
+          "minute": 89
+        },
+        {
+          "name": "R.Baggio",
+          "minute": 103,
+          "penalty": true
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Round of 16",
@@ -617,9 +1564,30 @@
         "ft": [
           1,
           1
+        ],
+        "ht": [
+          1,
+          1
         ]
       },
-      "ground": "Giants Stadium, East Rutherford"
+      "ground": "Giants Stadium, East Rutherford",
+      "goals1": [
+        {
+          "name": "Garcia Aspe",
+          "minute": 18,
+          "penalty": true
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Stoichkov",
+          "minute": 7
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Quarter-finals",
@@ -630,9 +1598,33 @@
         "ft": [
           2,
           1
+        ],
+        "ht": [
+          1,
+          0
         ]
       },
-      "ground": "Foxboro Stadium, Foxborough"
+      "ground": "Foxboro Stadium, Foxborough",
+      "goals1": [
+        {
+          "name": "D.Baggio",
+          "minute": 26
+        },
+        {
+          "name": "R.Baggio",
+          "minute": 88
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Caminero",
+          "minute": 59
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Quarter-finals",
@@ -643,9 +1635,41 @@
         "ft": [
           2,
           3
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
-      "ground": "Cotton Bowl, Dallas"
+      "ground": "Cotton Bowl, Dallas",
+      "goals1": [
+        {
+          "name": "Bergkamp",
+          "minute": 64
+        },
+        {
+          "name": "Winter",
+          "minute": 76
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Romário",
+          "minute": 52
+        },
+        {
+          "name": "Bebeto",
+          "minute": 61
+        },
+        {
+          "name": "Branco",
+          "minute": 81
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Quarter-finals",
@@ -656,9 +1680,34 @@
         "ft": [
           2,
           1
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
-      "ground": "Giants Stadium, East Rutherford"
+      "ground": "Giants Stadium, East Rutherford",
+      "goals1": [
+        {
+          "name": "Stoichkov",
+          "minute": 76
+        },
+        {
+          "name": "Letchkov",
+          "minute": 78
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Matthäus",
+          "minute": 48,
+          "penalty": true
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Quarter-finals",
@@ -677,9 +1726,37 @@
         "ft": [
           1,
           1
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
-      "ground": "Stanford Stadium, Stanford"
+      "ground": "Stanford Stadium, Stanford",
+      "goals1": [
+        {
+          "name": "Răducioiu",
+          "minute": 88
+        },
+        {
+          "name": "Răducioiu",
+          "minute": 100
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Brolin",
+          "minute": 78
+        },
+        {
+          "name": "K.Andersson",
+          "minute": 115
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Semi-finals",
@@ -690,9 +1767,34 @@
         "ft": [
           1,
           2
+        ],
+        "ht": [
+          1,
+          2
         ]
       },
-      "ground": "Giants Stadium, East Rutherford"
+      "ground": "Giants Stadium, East Rutherford",
+      "goals1": [
+        {
+          "name": "Stoichkov",
+          "minute": 42,
+          "penalty": true
+        }
+      ],
+      "goals2": [
+        {
+          "name": "R.Baggio",
+          "minute": 20
+        },
+        {
+          "name": "R.Baggio",
+          "minute": 25
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Semi-finals",
@@ -703,9 +1805,24 @@
         "ft": [
           0,
           1
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
-      "ground": "Rose Bowl, Pasadena"
+      "ground": "Rose Bowl, Pasadena",
+      "goals1": [],
+      "goals2": [
+        {
+          "name": "Romário",
+          "minute": 80
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Third-place match",
@@ -716,9 +1833,36 @@
         "ft": [
           4,
           0
+        ],
+        "ht": [
+          4,
+          0
         ]
       },
-      "ground": "Rose Bowl, Pasadena"
+      "ground": "Rose Bowl, Pasadena",
+      "goals1": [
+        {
+          "name": "Brolin",
+          "minute": 8
+        },
+        {
+          "name": "Mild",
+          "minute": 30
+        },
+        {
+          "name": "Larsson",
+          "minute": 37
+        },
+        {
+          "name": "K.Andersson",
+          "minute": 39
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Final",
@@ -737,9 +1881,17 @@
         "ft": [
           0,
           0
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
-      "ground": "Rose Bowl, Pasadena"
+      "ground": "Rose Bowl, Pasadena",
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     }
   ]
 }

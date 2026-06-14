@@ -43,7 +43,11 @@
       ],
       "goals2": [],
       "group": "Group A",
-      "ground": "Luzhniki Stadium, Moscow"
+      "ground": "Luzhniki Stadium, Moscow",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 2",
@@ -69,7 +73,11 @@
         }
       ],
       "group": "Group A",
-      "ground": "Ekaterinburg Arena, Ekaterinburg"
+      "ground": "Ekaterinburg Arena, Ekaterinburg",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 6",
@@ -110,7 +118,11 @@
         }
       ],
       "group": "Group A",
-      "ground": "Saint Petersburg Stadium, Saint Petersburg"
+      "ground": "Saint Petersburg Stadium, Saint Petersburg",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 7",
@@ -136,7 +148,11 @@
       ],
       "goals2": [],
       "group": "Group A",
-      "ground": "Rostov Arena, Rostov-on-Don"
+      "ground": "Rostov Arena, Rostov-on-Don",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 12",
@@ -171,7 +187,11 @@
       ],
       "goals2": [],
       "group": "Group A",
-      "ground": "Samara Arena, Samara"
+      "ground": "Samara Arena, Samara",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 12",
@@ -209,7 +229,11 @@
         }
       ],
       "group": "Group A",
-      "ground": "Volgograd Arena, Volgograd"
+      "ground": "Volgograd Arena, Volgograd",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 2",
@@ -237,7 +261,11 @@
         }
       ],
       "group": "Group B",
-      "ground": "Saint Petersburg Stadium, Saint Petersburg"
+      "ground": "Saint Petersburg Stadium, Saint Petersburg",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 2",
@@ -285,7 +313,11 @@
         }
       ],
       "group": "Group B",
-      "ground": "Fisht Stadium, Sochi"
+      "ground": "Fisht Stadium, Sochi",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 7",
@@ -311,7 +343,11 @@
       ],
       "goals2": [],
       "group": "Group B",
-      "ground": "Luzhniki Stadium, Moscow"
+      "ground": "Luzhniki Stadium, Moscow",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 7",
@@ -337,7 +373,11 @@
         }
       ],
       "group": "Group B",
-      "ground": "Kazan Arena, Kazan"
+      "ground": "Kazan Arena, Kazan",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 12",
@@ -370,7 +410,11 @@
         }
       ],
       "group": "Group B",
-      "ground": "Mordovia Arena, Saransk"
+      "ground": "Mordovia Arena, Saransk",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 12",
@@ -410,7 +454,11 @@
         }
       ],
       "group": "Group B",
-      "ground": "Kaliningrad Stadium, Kaliningrad"
+      "ground": "Kaliningrad Stadium, Kaliningrad",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 3",
@@ -448,7 +496,11 @@
         }
       ],
       "group": "Group C",
-      "ground": "Kazan Arena, Kazan"
+      "ground": "Kazan Arena, Kazan",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 3",
@@ -474,7 +526,11 @@
         }
       ],
       "group": "Group C",
-      "ground": "Mordovia Arena, Saransk"
+      "ground": "Mordovia Arena, Saransk",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 8",
@@ -506,7 +562,11 @@
         }
       ],
       "group": "Group C",
-      "ground": "Samara Arena, Samara"
+      "ground": "Samara Arena, Samara",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 8",
@@ -532,7 +592,11 @@
       ],
       "goals2": [],
       "group": "Group C",
-      "ground": "Ekaterinburg Arena, Ekaterinburg"
+      "ground": "Ekaterinburg Arena, Ekaterinburg",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 13",
@@ -551,7 +615,11 @@
         ]
       },
       "group": "Group C",
-      "ground": "Luzhniki Stadium, Moscow"
+      "ground": "Luzhniki Stadium, Moscow",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 13",
@@ -581,7 +649,11 @@
         }
       ],
       "group": "Group C",
-      "ground": "Fisht Stadium, Sochi"
+      "ground": "Fisht Stadium, Sochi",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 3",
@@ -612,7 +684,11 @@
         }
       ],
       "group": "Group D",
-      "ground": "Spartak Stadium, Moscow"
+      "ground": "Spartak Stadium, Moscow",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 3",
@@ -644,7 +720,11 @@
       ],
       "goals2": [],
       "group": "Group D",
-      "ground": "Kaliningrad Stadium, Kaliningrad"
+      "ground": "Kaliningrad Stadium, Kaliningrad",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 8",
@@ -679,7 +759,11 @@
         }
       ],
       "group": "Group D",
-      "ground": "Nizhny Novgorod Stadium, Nizhny Novgorod"
+      "ground": "Nizhny Novgorod Stadium, Nizhny Novgorod",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 9",
@@ -709,7 +793,11 @@
       ],
       "goals2": [],
       "group": "Group D",
-      "ground": "Volgograd Arena, Volgograd"
+      "ground": "Volgograd Arena, Volgograd",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 13",
@@ -745,7 +833,11 @@
         }
       ],
       "group": "Group D",
-      "ground": "Saint Petersburg Stadium, Saint Petersburg"
+      "ground": "Saint Petersburg Stadium, Saint Petersburg",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 13",
@@ -781,7 +873,11 @@
         }
       ],
       "group": "Group D",
-      "ground": "Rostov Arena, Rostov-on-Don"
+      "ground": "Rostov Arena, Rostov-on-Don",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 4",
@@ -807,7 +903,11 @@
         }
       ],
       "group": "Group E",
-      "ground": "Samara Arena, Samara"
+      "ground": "Samara Arena, Samara",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 4",
@@ -838,7 +938,11 @@
         }
       ],
       "group": "Group E",
-      "ground": "Rostov Arena, Rostov-on-Don"
+      "ground": "Rostov Arena, Rostov-on-Don",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 9",
@@ -870,7 +974,11 @@
       ],
       "goals2": [],
       "group": "Group E",
-      "ground": "Saint Petersburg Stadium, Saint Petersburg"
+      "ground": "Saint Petersburg Stadium, Saint Petersburg",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 9",
@@ -905,7 +1013,11 @@
         }
       ],
       "group": "Group E",
-      "ground": "Kaliningrad Stadium, Kaliningrad"
+      "ground": "Kaliningrad Stadium, Kaliningrad",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 14",
@@ -935,7 +1047,11 @@
         }
       ],
       "group": "Group E",
-      "ground": "Spartak Stadium, Moscow"
+      "ground": "Spartak Stadium, Moscow",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 14",
@@ -976,7 +1092,11 @@
         }
       ],
       "group": "Group E",
-      "ground": "Nizhny Novgorod Stadium, Nizhny Novgorod"
+      "ground": "Nizhny Novgorod Stadium, Nizhny Novgorod",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 4",
@@ -1002,7 +1122,11 @@
         }
       ],
       "group": "Group F",
-      "ground": "Luzhniki Stadium, Moscow"
+      "ground": "Luzhniki Stadium, Moscow",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 5",
@@ -1029,7 +1153,11 @@
       ],
       "goals2": [],
       "group": "Group F",
-      "ground": "Nizhny Novgorod Stadium, Nizhny Novgorod"
+      "ground": "Nizhny Novgorod Stadium, Nizhny Novgorod",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 10",
@@ -1066,7 +1194,11 @@
         }
       ],
       "group": "Group F",
-      "ground": "Rostov Arena, Rostov-on-Don"
+      "ground": "Rostov Arena, Rostov-on-Don",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 10",
@@ -1102,7 +1234,11 @@
         }
       ],
       "group": "Group F",
-      "ground": "Fisht Stadium, Sochi"
+      "ground": "Fisht Stadium, Sochi",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 14",
@@ -1134,7 +1270,11 @@
       ],
       "goals2": [],
       "group": "Group F",
-      "ground": "Kazan Arena, Kazan"
+      "ground": "Kazan Arena, Kazan",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 14",
@@ -1170,7 +1310,11 @@
         }
       ],
       "group": "Group F",
-      "ground": "Ekaterinburg Arena, Ekaterinburg"
+      "ground": "Ekaterinburg Arena, Ekaterinburg",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 5",
@@ -1204,7 +1348,11 @@
       ],
       "goals2": [],
       "group": "Group G",
-      "ground": "Fisht Stadium, Sochi"
+      "ground": "Fisht Stadium, Sochi",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 5",
@@ -1241,7 +1389,11 @@
         }
       ],
       "group": "Group G",
-      "ground": "Volgograd Arena, Volgograd"
+      "ground": "Volgograd Arena, Volgograd",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 10",
@@ -1295,7 +1447,11 @@
         }
       ],
       "group": "Group G",
-      "ground": "Spartak Stadium, Moscow"
+      "ground": "Spartak Stadium, Moscow",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 11",
@@ -1349,7 +1505,11 @@
         }
       ],
       "group": "Group G",
-      "ground": "Nizhny Novgorod Stadium, Nizhny Novgorod"
+      "ground": "Nizhny Novgorod Stadium, Nizhny Novgorod",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 15",
@@ -1375,7 +1535,11 @@
         }
       ],
       "group": "Group G",
-      "ground": "Kaliningrad Stadium, Kaliningrad"
+      "ground": "Kaliningrad Stadium, Kaliningrad",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 15",
@@ -1411,7 +1575,11 @@
         }
       ],
       "group": "Group G",
-      "ground": "Mordovia Arena, Saransk"
+      "ground": "Mordovia Arena, Saransk",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 6",
@@ -1447,7 +1615,11 @@
         }
       ],
       "group": "Group H",
-      "ground": "Mordovia Arena, Saransk"
+      "ground": "Mordovia Arena, Saransk",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 6",
@@ -1483,7 +1655,11 @@
         }
       ],
       "group": "Group H",
-      "ground": "Spartak Stadium, Moscow"
+      "ground": "Spartak Stadium, Moscow",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 11",
@@ -1522,7 +1698,11 @@
         }
       ],
       "group": "Group H",
-      "ground": "Ekaterinburg Arena, Ekaterinburg"
+      "ground": "Ekaterinburg Arena, Ekaterinburg",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 11",
@@ -1556,7 +1736,11 @@
         }
       ],
       "group": "Group H",
-      "ground": "Kazan Arena, Kazan"
+      "ground": "Kazan Arena, Kazan",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 15",
@@ -1582,7 +1766,11 @@
         }
       ],
       "group": "Group H",
-      "ground": "Volgograd Arena, Volgograd"
+      "ground": "Volgograd Arena, Volgograd",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 15",
@@ -1608,7 +1796,11 @@
         }
       ],
       "group": "Group H",
-      "ground": "Samara Arena, Samara"
+      "ground": "Samara Arena, Samara",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Round of 16",
@@ -1660,7 +1852,11 @@
           "offset": 3
         }
       ],
-      "ground": "Kazan Arena, Kazan"
+      "ground": "Kazan Arena, Kazan",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Round of 16",
@@ -1694,7 +1890,11 @@
           "minute": 55
         }
       ],
-      "ground": "Fisht Stadium, Sochi"
+      "ground": "Fisht Stadium, Sochi",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Round of 16",
@@ -1734,7 +1934,11 @@
           "penalty": true
         }
       ],
-      "ground": "Luzhniki Stadium, Moscow"
+      "ground": "Luzhniki Stadium, Moscow",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Round of 16",
@@ -1772,7 +1976,11 @@
           "minute": 1
         }
       ],
-      "ground": "Nizhny Novgorod Stadium, Nizhny Novgorod"
+      "ground": "Nizhny Novgorod Stadium, Nizhny Novgorod",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Round of 16",
@@ -1801,7 +2009,11 @@
         }
       ],
       "goals2": [],
-      "ground": "Samara Arena, Samara"
+      "ground": "Samara Arena, Samara",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Round of 16",
@@ -1844,7 +2056,11 @@
           "minute": 52
         }
       ],
-      "ground": "Rostov Arena, Rostov-on-Don"
+      "ground": "Rostov Arena, Rostov-on-Don",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Round of 16",
@@ -1869,7 +2085,11 @@
         }
       ],
       "goals2": [],
-      "ground": "Saint Petersburg Stadium, Saint Petersburg"
+      "ground": "Saint Petersburg Stadium, Saint Petersburg",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Round of 16",
@@ -1909,7 +2129,11 @@
           "penalty": true
         }
       ],
-      "ground": "Spartak Stadium, Moscow"
+      "ground": "Spartak Stadium, Moscow",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Quarter-finals",
@@ -1938,7 +2162,11 @@
           "minute": 61
         }
       ],
-      "ground": "Nizhny Novgorod Stadium, Nizhny Novgorod"
+      "ground": "Nizhny Novgorod Stadium, Nizhny Novgorod",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Quarter-finals",
@@ -1973,7 +2201,11 @@
           "minute": 31
         }
       ],
-      "ground": "Kazan Arena, Kazan"
+      "ground": "Kazan Arena, Kazan",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Quarter-finals",
@@ -2002,7 +2234,11 @@
           "minute": 58
         }
       ],
-      "ground": "Samara Arena, Samara"
+      "ground": "Samara Arena, Samara",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Quarter-finals",
@@ -2048,7 +2284,11 @@
           "minute": 100
         }
       ],
-      "ground": "Fisht Stadium, Sochi"
+      "ground": "Fisht Stadium, Sochi",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Semi-finals",
@@ -2073,7 +2313,11 @@
         }
       ],
       "goals2": [],
-      "ground": "Saint Petersburg Stadium, St. Petersburg"
+      "ground": "Saint Petersburg Stadium, St. Petersburg",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Semi-finals",
@@ -2111,7 +2355,11 @@
           "minute": 5
         }
       ],
-      "ground": "Luzhniki Stadium, Moscow"
+      "ground": "Luzhniki Stadium, Moscow",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Match for third place",
@@ -2140,7 +2388,11 @@
         }
       ],
       "goals2": [],
-      "ground": "Saint Petersburg Stadium, St. Petersburg"
+      "ground": "Saint Petersburg Stadium, St. Petersburg",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Final",
@@ -2188,7 +2440,11 @@
           "minute": 69
         }
       ],
-      "ground": "Luzhniki Stadium, Moscow"
+      "ground": "Luzhniki Stadium, Moscow",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     }
   ]
 }

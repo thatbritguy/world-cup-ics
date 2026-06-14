@@ -252,7 +252,7 @@
       "team1": "Switzerland",
       "team2": "Italy",
       "official_match_number": 25,
-      "fifa_match_id": null
+      "fifa_match_id": "1301"
     },
     {
       "sequence": 26,
@@ -262,7 +262,7 @@
       "team1": "Austria",
       "team2": "Switzerland",
       "official_match_number": 26,
-      "fifa_match_id": null
+      "fifa_match_id": "1237"
     }
   ]
 }

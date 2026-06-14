@@ -3,6 +3,7 @@ from __future__ import annotations
 
 import argparse
 import json
+import re
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from zoneinfo import ZoneInfo
@@ -17,11 +18,53 @@ FIXED_OFFSETS = {
     2002: 9,
     2022: 3,
 }
+FIFA_URL_OVERRIDES = {
+    identity("1954-06-23", "Switzerland", "Italy"): "https://www.fifa.com/en/match-centre/match/17/9/211/1301",
+    identity("1954-06-26", "Austria", "Switzerland"): "https://www.fifa.com/en/match-centre/match/17/9/212/1237",
+    identity("2014-06-15", "Argentina", "Bosnia-Herzegovina"): "https://www.fifa.com/en/match-centre/match/17/251164/255931/300186477",
+    identity("2014-06-21", "Nigeria", "Bosnia-Herzegovina"): "https://www.fifa.com/en/match-centre/match/17/251164/255931/300186464",
+    identity("2014-06-25", "Bosnia-Herzegovina", "Iran"): "https://www.fifa.com/en/match-centre/match/17/251164/255931/300186511",
+    identity("2018-07-15", "France", "Croatia"): "https://www.fifa.com/en/match-centre/match/17/254645/275101/300331552",
+    identity("2022-11-23", "Spain", "Costa Rica"): "https://www.fifa.com/en/match-centre/match/17/255711/285063/400235472",
+    identity("2022-11-27", "Spain", "Germany"): "https://www.fifa.com/en/match-centre/match/17/255711/285063/400235474",
+    identity("2022-12-01", "Japan", "Spain"): "https://www.fifa.com/en/match-centre/match/17/255711/285063/400235475",
+    identity("2022-12-09", "Netherlands", "Argentina"): "https://www.fifa.com/en/match-centre/match/17/255711/285074/400128139",
+    identity("2022-12-18", "Argentina", "France"): "https://www.fifa.com/en/match-centre/match/17/255711/285077/400128145",
+}
 
 
 def fifa_records(year: int) -> dict[tuple[str, frozenset[str]], dict[str, object]]:
     path = ROOT / "data" / "historical-sources" / str(year) / "fifa-match-centre.html"
     return parse_fifa_records(path.read_text(encoding="utf-8"), fifa_team_codes()) if path.exists() else {}
+
+
+def wikipedia_fifa_records(year: int) -> dict[tuple[str, frozenset[str]], dict[str, object]]:
+    path = ROOT / "data" / "historical-sources" / str(year) / "wikipedia-matches.txt"
+    if not path.exists():
+        return {}
+    codes = fifa_team_codes()
+    records: dict[tuple[str, frozenset[str]], dict[str, object]] = {}
+    current: dict[str, str] = {}
+    for line in path.read_text(encoding="utf-8").splitlines():
+        date = re.match(r"\|date=\{\{Start date\|(\d{4})\|(\d{1,2})\|(\d{1,2})", line)
+        team1 = re.match(r"\|team1=(?:\{\{fb(?:-rt)?\|([A-Z]{3})|.*\|([A-Z]{3})\}\})", line)
+        team2 = re.match(r"\|team2=(?:\{\{fb(?:-rt)?\|([A-Z]{3})|.*\|([A-Z]{3})\}\})", line)
+        url = re.search(r"https://www\.fifa\.com/en/match-centre/match/([0-9/]+)", line)
+        if date:
+            current = {"date": f"{int(date.group(1)):04d}-{int(date.group(2)):02d}-{int(date.group(3)):02d}"}
+        elif team1:
+            current["team1"] = team1.group(1) or team1.group(2)
+        elif team2:
+            current["team2"] = team2.group(1) or team2.group(2)
+        elif url and all(field in current for field in ("date", "team1", "team2")):
+            parts = url.group(1).split("/")
+            if current["team1"] in codes and current["team2"] in codes and len(parts) == 4:
+                records[identity(current["date"], codes[current["team1"]], codes[current["team2"]])] = {
+                    "competition_id": parts[0], "season_id": parts[1], "stage_id": parts[2],
+                    "match_id": parts[3], "match_number": None,
+                }
+            current = {}
+    return records
 
 
 def kickoff_utc(year: int, match: dict[str, object], fifa: dict[str, object] | None) -> str:
@@ -50,13 +93,17 @@ def prepare(year: int) -> None:
     worldcup = json.loads((source_dir / "openfootball.json").read_text(encoding="utf-8"))
     report = json.loads((ROOT / "reports" / "historical" / f"{year}.json").read_text(encoding="utf-8"))
     fifa = fifa_records(year)
+    for key, value in wikipedia_fifa_records(year).items():
+        fifa.setdefault(key, value)
     enriched: list[dict[str, object]] = []
     provisional: list[tuple[str, dict[str, object], str]] = []
     for item in report["matches"]:
         key = identity(item["date"], item["team1"], item["team2"])
         fifa_item = fifa.get(key)
         utc = kickoff_utc(year, item, fifa_item)
-        provisional.append((utc, item, str(fifa_item["match_number"]) if fifa_item else ""))
+        provisional.append(
+            (utc, item, str(fifa_item["match_number"]) if fifa_item and fifa_item.get("match_number") else "")
+        )
     used_numbers = {int(number) for _, _, number in provisional if number}
     available_numbers = iter(
         number for number in range(1, len(provisional) + 1) if number not in used_numbers
@@ -68,8 +115,20 @@ def prepare(year: int) -> None:
     }
     for utc, item, fifa_number in provisional:
         key = identity(item["date"], item["team1"], item["team2"])
+        fifa_item = fifa.get(key)
         number = int(fifa_number) if fifa_number else fallback_numbers[key]
-        match_id = item.get("fifa_match_id")
+        match_id = fifa_item.get("match_id") if fifa_item else item.get("fifa_match_id")
+        if fifa_item and all(fifa_item.get(field) for field in ("competition_id", "season_id", "stage_id")):
+            fifa_url = (
+                "https://www.fifa.com/en/match-centre/match/"
+                f"{fifa_item['competition_id']}/{fifa_item['season_id']}/"
+                f"{fifa_item['stage_id']}/{match_id}"
+            )
+        else:
+            fifa_url = f"https://en.wikipedia.org/wiki/{year}_FIFA_World_Cup"
+        fifa_url = FIFA_URL_OVERRIDES.get(key, fifa_url)
+        if fifa_url.startswith("https://www.fifa.com/"):
+            match_id = fifa_url.rsplit("/", 1)[-1]
         enriched.append(
             {
                 "date": item["date"],
@@ -89,7 +148,7 @@ def prepare(year: int) -> None:
                 "kickoff_utc": utc,
                 "official_match_number": number,
                 "fifa_match_id": match_id,
-                "fifa_url": f"https://en.wikipedia.org/wiki/{year}_FIFA_World_Cup",
+                "fifa_url": fifa_url,
                 "ground": item["ground"],
             }
         )

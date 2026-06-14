@@ -13,7 +13,15 @@
         ]
       },
       "group": "Group A",
-      "ground": "Estadio Azteca, Mexico City"
+      "ground": "Estadio Azteca, Mexico City",
+      "result_enrichment": {
+        "source": "none",
+        "score_reconciled": false,
+        "missing_fields": [
+          "goalscorers",
+          "half_time_score"
+        ]
+      }
     },
     {
       "round": "Matchday 1",
@@ -24,10 +32,38 @@
         "ft": [
           3,
           1
+        ],
+        "ht": [
+          2,
+          0
         ]
       },
       "group": "Group A",
-      "ground": "Estadio Olímpico Universitario, Mexico City"
+      "ground": "Estadio Olímpico Universitario, Mexico City",
+      "goals1": [
+        {
+          "name": "Valdano",
+          "minute": 8
+        },
+        {
+          "name": "Ruggeri",
+          "minute": 19
+        },
+        {
+          "name": "Valdano",
+          "minute": 47
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Park Chang-sun",
+          "minute": 72
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 2",
@@ -38,10 +74,31 @@
         "ft": [
           1,
           1
+        ],
+        "ht": [
+          1,
+          1
         ]
       },
       "group": "Group A",
-      "ground": "Estadio Cuauhtémoc, Puebla"
+      "ground": "Estadio Cuauhtémoc, Puebla",
+      "goals1": [
+        {
+          "name": "Altobelli",
+          "minute": 7,
+          "penalty": true
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Maradona",
+          "minute": 34
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 2",
@@ -52,10 +109,30 @@
         "ft": [
           1,
           1
+        ],
+        "ht": [
+          0,
+          1
         ]
       },
       "group": "Group A",
-      "ground": "Estadio Olímpico Universitario, Mexico City"
+      "ground": "Estadio Olímpico Universitario, Mexico City",
+      "goals1": [
+        {
+          "name": "Kim Jong-boo",
+          "minute": 70
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Getov",
+          "minute": 12
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 3",
@@ -66,10 +143,43 @@
         "ft": [
           2,
           3
+        ],
+        "ht": [
+          0,
+          1
         ]
       },
       "group": "Group A",
-      "ground": "Estadio Cuauhtémoc, Puebla"
+      "ground": "Estadio Cuauhtémoc, Puebla",
+      "goals1": [
+        {
+          "name": "Choi Song-hoo",
+          "minute": 62
+        },
+        {
+          "name": "Huh Jung-moo",
+          "minute": 89
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Altobelli",
+          "minute": 18
+        },
+        {
+          "name": "Altobelli",
+          "minute": 73
+        },
+        {
+          "name": "Choi Kwang-rae",
+          "minute": 82,
+          "owngoal": true
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 3",
@@ -80,10 +190,29 @@
         "ft": [
           2,
           0
+        ],
+        "ht": [
+          1,
+          0
         ]
       },
       "group": "Group A",
-      "ground": "Estadio Olímpico Universitario, Mexico City"
+      "ground": "Estadio Olímpico Universitario, Mexico City",
+      "goals1": [
+        {
+          "name": "Valdano",
+          "minute": 4
+        },
+        {
+          "name": "Burruchaga",
+          "minute": 77
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 1",
@@ -94,10 +223,34 @@
         "ft": [
           1,
           2
+        ],
+        "ht": [
+          1,
+          2
         ]
       },
       "group": "Group B",
-      "ground": "Estadio Azteca, Mexico City"
+      "ground": "Estadio Azteca, Mexico City",
+      "goals1": [
+        {
+          "name": "van den Bergh",
+          "minute": 45
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Quirarte",
+          "minute": 23
+        },
+        {
+          "name": "Sánchez",
+          "minute": 39
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 1",
@@ -108,10 +261,25 @@
         "ft": [
           1,
           0
+        ],
+        "ht": [
+          1,
+          0
         ]
       },
       "group": "Group B",
-      "ground": "Estadio Nemesio Díez, Toluca"
+      "ground": "Estadio Nemesio Díez, Toluca",
+      "goals1": [
+        {
+          "name": "Romero",
+          "minute": 36
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 2",
@@ -122,10 +290,30 @@
         "ft": [
           1,
           1
+        ],
+        "ht": [
+          1,
+          1
         ]
       },
       "group": "Group B",
-      "ground": "Estadio Azteca, Mexico City"
+      "ground": "Estadio Azteca, Mexico City",
+      "goals1": [
+        {
+          "name": "Flóres",
+          "minute": 3
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Romero",
+          "minute": 86
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 2",
@@ -136,10 +324,35 @@
         "ft": [
           1,
           2
+        ],
+        "ht": [
+          0,
+          2
         ]
       },
       "group": "Group B",
-      "ground": "Estadio Nemesio Díez, Toluca"
+      "ground": "Estadio Nemesio Díez, Toluca",
+      "goals1": [
+        {
+          "name": "Ammaiesh",
+          "minute": 67
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Scifo",
+          "minute": 16
+        },
+        {
+          "name": "Claesen",
+          "minute": 22,
+          "penalty": true
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 3",
@@ -150,10 +363,25 @@
         "ft": [
           0,
           1
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group B",
-      "ground": "Estadio Azteca, Mexico City"
+      "ground": "Estadio Azteca, Mexico City",
+      "goals1": [],
+      "goals2": [
+        {
+          "name": "Quirarte",
+          "minute": 54
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 3",
@@ -164,10 +392,38 @@
         "ft": [
           2,
           2
+        ],
+        "ht": [
+          0,
+          1
         ]
       },
       "group": "Group B",
-      "ground": "Estadio Nemesio Díez, Toluca"
+      "ground": "Estadio Nemesio Díez, Toluca",
+      "goals1": [
+        {
+          "name": "Cabañas",
+          "minute": 50
+        },
+        {
+          "name": "Cabañas",
+          "minute": 76
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Vercauteren",
+          "minute": 32
+        },
+        {
+          "name": "Veyt",
+          "minute": 60
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 1",
@@ -178,10 +434,25 @@
         "ft": [
           0,
           1
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group C",
-      "ground": "Estadio Nou Camp, León"
+      "ground": "Estadio Nou Camp, León",
+      "goals1": [],
+      "goals2": [
+        {
+          "name": "Papin",
+          "minute": 79
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 1",
@@ -192,10 +463,46 @@
         "ft": [
           6,
           0
+        ],
+        "ht": [
+          3,
+          0
         ]
       },
       "group": "Group C",
-      "ground": "Estadio Sergio León Chavez, Irapuato"
+      "ground": "Estadio Sergio León Chavez, Irapuato",
+      "goals1": [
+        {
+          "name": "Yakovienko",
+          "minute": 2
+        },
+        {
+          "name": "Aleinikov",
+          "minute": 4
+        },
+        {
+          "name": "Belanov",
+          "minute": 25,
+          "penalty": true
+        },
+        {
+          "name": "Yaremchuk",
+          "minute": 65
+        },
+        {
+          "name": "Yaremuchuk",
+          "minute": 73
+        },
+        {
+          "name": "Rodionov",
+          "minute": 80
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 2",
@@ -206,10 +513,30 @@
         "ft": [
           1,
           1
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group C",
-      "ground": "Estadio Nou Camp, León"
+      "ground": "Estadio Nou Camp, León",
+      "goals1": [
+        {
+          "name": "Fernandez",
+          "minute": 62
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Rats",
+          "minute": 54
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 2",
@@ -220,10 +547,29 @@
         "ft": [
           2,
           0
+        ],
+        "ht": [
+          1,
+          0
         ]
       },
       "group": "Group C",
-      "ground": "Estadio Sergio León Chavez, Irapuato"
+      "ground": "Estadio Sergio León Chavez, Irapuato",
+      "goals1": [
+        {
+          "name": "Esterházy",
+          "minute": 2
+        },
+        {
+          "name": "Détári",
+          "minute": 76
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 3",
@@ -234,10 +580,33 @@
         "ft": [
           0,
           3
+        ],
+        "ht": [
+          0,
+          1
         ]
       },
       "group": "Group C",
-      "ground": "Estadio Nou Camp, León"
+      "ground": "Estadio Nou Camp, León",
+      "goals1": [],
+      "goals2": [
+        {
+          "name": "Stopyra",
+          "minute": 30
+        },
+        {
+          "name": "Tigana",
+          "minute": 64
+        },
+        {
+          "name": "Rocheteau",
+          "minute": 85
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 3",
@@ -248,10 +617,29 @@
         "ft": [
           2,
           0
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group C",
-      "ground": "Estadio Sergio León Chavez, Irapuato"
+      "ground": "Estadio Sergio León Chavez, Irapuato",
+      "goals1": [
+        {
+          "name": "Blokhin",
+          "minute": 59
+        },
+        {
+          "name": "Zavarov",
+          "minute": 75
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 1",
@@ -262,10 +650,25 @@
         "ft": [
           0,
           1
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group D",
-      "ground": "Estadio Jalisco, Guadalajara"
+      "ground": "Estadio Jalisco, Guadalajara",
+      "goals1": [],
+      "goals2": [
+        {
+          "name": "Socrates",
+          "minute": 63
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 1",
@@ -276,10 +679,30 @@
         "ft": [
           1,
           1
+        ],
+        "ht": [
+          0,
+          1
         ]
       },
       "group": "Group D",
-      "ground": "Estadio Tres de Marzo, Guadalajara"
+      "ground": "Estadio Tres de Marzo, Guadalajara",
+      "goals1": [
+        {
+          "name": "Zidane",
+          "minute": 59
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Whiteside",
+          "minute": 6
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 2",
@@ -290,10 +713,25 @@
         "ft": [
           1,
           0
+        ],
+        "ht": [
+          1,
+          0
         ]
       },
       "group": "Group D",
-      "ground": "Estadio Jalisco, Guadalajara"
+      "ground": "Estadio Jalisco, Guadalajara",
+      "goals1": [
+        {
+          "name": "Careca",
+          "minute": 67
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 2",
@@ -304,10 +742,34 @@
         "ft": [
           1,
           2
+        ],
+        "ht": [
+          0,
+          2
         ]
       },
       "group": "Group D",
-      "ground": "Estadio Tres de Marzo, Guadalajara"
+      "ground": "Estadio Tres de Marzo, Guadalajara",
+      "goals1": [
+        {
+          "name": "Clarke",
+          "minute": 48
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Butragueño",
+          "minute": 2
+        },
+        {
+          "name": "Julio Salinas",
+          "minute": 18
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 3",
@@ -318,10 +780,33 @@
         "ft": [
           0,
           3
+        ],
+        "ht": [
+          0,
+          2
         ]
       },
       "group": "Group D",
-      "ground": "Estadio Jalisco, Guadalajara"
+      "ground": "Estadio Jalisco, Guadalajara",
+      "goals1": [],
+      "goals2": [
+        {
+          "name": "Careca",
+          "minute": 18
+        },
+        {
+          "name": "Josimar",
+          "minute": 42
+        },
+        {
+          "name": "Careca",
+          "minute": 88
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 3",
@@ -332,10 +817,33 @@
         "ft": [
           0,
           3
+        ],
+        "ht": [
+          0,
+          1
         ]
       },
       "group": "Group D",
-      "ground": "Estadio Tecnológico, Monterrey"
+      "ground": "Estadio Tecnológico, Monterrey",
+      "goals1": [],
+      "goals2": [
+        {
+          "name": "Calderé",
+          "minute": 17
+        },
+        {
+          "name": "Calderé",
+          "minute": 68
+        },
+        {
+          "name": "Eloy",
+          "minute": 71
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 1",
@@ -346,10 +854,30 @@
         "ft": [
           1,
           1
+        ],
+        "ht": [
+          1,
+          0
         ]
       },
       "group": "Group E",
-      "ground": "Estadio La Corregidora, Querétaro"
+      "ground": "Estadio La Corregidora, Querétaro",
+      "goals1": [
+        {
+          "name": "Alzamendi",
+          "minute": 4
+        }
+      ],
+      "goals2": [
+        {
+          "name": "K.Allofs",
+          "minute": 85
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 1",
@@ -360,10 +888,25 @@
         "ft": [
           0,
           1
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group E",
-      "ground": "Estadio Neza 86, Nezahualcóyotl"
+      "ground": "Estadio Neza 86, Nezahualcóyotl",
+      "goals1": [],
+      "goals2": [
+        {
+          "name": "Eljkær-Larsen",
+          "minute": 58
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 2",
@@ -374,10 +917,34 @@
         "ft": [
           2,
           1
+        ],
+        "ht": [
+          1,
+          1
         ]
       },
       "group": "Group E",
-      "ground": "Estadio La Corregidora, Querétaro"
+      "ground": "Estadio La Corregidora, Querétaro",
+      "goals1": [
+        {
+          "name": "Völler",
+          "minute": 22
+        },
+        {
+          "name": "K.Allofs",
+          "minute": 50
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Strachan",
+          "minute": 18
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 2",
@@ -388,10 +955,50 @@
         "ft": [
           6,
           1
+        ],
+        "ht": [
+          2,
+          1
         ]
       },
       "group": "Group E",
-      "ground": "Estadio Neza 86, Nezahualcóyotl"
+      "ground": "Estadio Neza 86, Nezahualcóyotl",
+      "goals1": [
+        {
+          "name": "Elkjær-Larsen",
+          "minute": 11
+        },
+        {
+          "name": "Lerby",
+          "minute": 41
+        },
+        {
+          "name": "Laudrup",
+          "minute": 52
+        },
+        {
+          "name": "Elkjær-Larsen",
+          "minute": 69
+        },
+        {
+          "name": "Elkjær-Larsen",
+          "minute": 79
+        },
+        {
+          "name": "J.Olsen",
+          "minute": 88
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Francescoli",
+          "minute": 45
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 3",
@@ -402,10 +1009,30 @@
         "ft": [
           2,
           0
+        ],
+        "ht": [
+          1,
+          0
         ]
       },
       "group": "Group E",
-      "ground": "Estadio La Corregidora, Querétaro"
+      "ground": "Estadio La Corregidora, Querétaro",
+      "goals1": [
+        {
+          "name": "J.Olsen",
+          "minute": 44,
+          "penalty": true
+        },
+        {
+          "name": "Eriksen",
+          "minute": 83
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 3",
@@ -416,10 +1043,18 @@
         "ft": [
           0,
           0
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group E",
-      "ground": "Estadio Neza 86, Nezahualcóyotl"
+      "ground": "Estadio Neza 86, Nezahualcóyotl",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 1",
@@ -430,10 +1065,18 @@
         "ft": [
           0,
           0
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group F",
-      "ground": "Estadio Universitario, Monterrey"
+      "ground": "Estadio Universitario, Monterrey",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 1",
@@ -444,10 +1087,25 @@
         "ft": [
           1,
           0
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group F",
-      "ground": "Estadio Tecnológico, Monterrey"
+      "ground": "Estadio Tecnológico, Monterrey",
+      "goals1": [
+        {
+          "name": "Carlos Manuel",
+          "minute": 75
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 2",
@@ -458,10 +1116,18 @@
         "ft": [
           0,
           0
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group F",
-      "ground": "Estadio Tecnológico, Monterrey"
+      "ground": "Estadio Tecnológico, Monterrey",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 2",
@@ -472,10 +1138,25 @@
         "ft": [
           1,
           0
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group F",
-      "ground": "Estadio Universitario, Monterrey"
+      "ground": "Estadio Universitario, Monterrey",
+      "goals1": [
+        {
+          "name": "Smolarek",
+          "minute": 64
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 3",
@@ -486,10 +1167,38 @@
         "ft": [
           1,
           3
+        ],
+        "ht": [
+          0,
+          2
         ]
       },
       "group": "Group F",
-      "ground": "Estadio Tres de Marzo, Guadalajara"
+      "ground": "Estadio Tres de Marzo, Guadalajara",
+      "goals1": [
+        {
+          "name": "Diamantino",
+          "minute": 90
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Khairi",
+          "minute": 19
+        },
+        {
+          "name": "Khairi",
+          "minute": 28
+        },
+        {
+          "name": "Krimau",
+          "minute": 62
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 3",
@@ -500,10 +1209,33 @@
         "ft": [
           3,
           0
+        ],
+        "ht": [
+          3,
+          0
         ]
       },
       "group": "Group F",
-      "ground": "Estadio Tecnológico, Monterrey"
+      "ground": "Estadio Tecnológico, Monterrey",
+      "goals1": [
+        {
+          "name": "Lineker",
+          "minute": 8
+        },
+        {
+          "name": "Lineker",
+          "minute": 14
+        },
+        {
+          "name": "Lineker",
+          "minute": 36
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Round of 16",
@@ -514,9 +1246,28 @@
         "ft": [
           2,
           0
+        ],
+        "ht": [
+          1,
+          0
         ]
       },
-      "ground": "Estadio Azteca, Mexico City"
+      "ground": "Estadio Azteca, Mexico City",
+      "goals1": [
+        {
+          "name": "Negrete",
+          "minute": 35
+        },
+        {
+          "name": "Sarvin",
+          "minute": 61
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Round of 16",
@@ -531,9 +1282,50 @@
         "ft": [
           2,
           2
+        ],
+        "ht": [
+          1,
+          0
         ]
       },
-      "ground": "Estadio Nou Camp, León"
+      "ground": "Estadio Nou Camp, León",
+      "goals1": [
+        {
+          "name": "Belanov",
+          "minute": 28
+        },
+        {
+          "name": "Belanov",
+          "minute": 70
+        },
+        {
+          "name": "Belanov",
+          "minute": 111,
+          "penalty": true
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Scifo",
+          "minute": 56
+        },
+        {
+          "name": "Ceulemans",
+          "minute": 78
+        },
+        {
+          "name": "Demol",
+          "minute": 102
+        },
+        {
+          "name": "Claesen",
+          "minute": 109
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Round of 16",
@@ -544,9 +1336,24 @@
         "ft": [
           1,
           0
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
-      "ground": "Estadio Cuauhtémoc, Puebla"
+      "ground": "Estadio Cuauhtémoc, Puebla",
+      "goals1": [
+        {
+          "name": "Pasculli",
+          "minute": 42
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Round of 16",
@@ -557,9 +1364,38 @@
         "ft": [
           4,
           0
+        ],
+        "ht": [
+          1,
+          0
         ]
       },
-      "ground": "Estadio Jalisco, Guadalajara"
+      "ground": "Estadio Jalisco, Guadalajara",
+      "goals1": [
+        {
+          "name": "Socrates",
+          "minute": 30,
+          "penalty": true
+        },
+        {
+          "name": "Josimar",
+          "minute": 54
+        },
+        {
+          "name": "Edinho",
+          "minute": 78
+        },
+        {
+          "name": "Careca",
+          "minute": 82,
+          "penalty": true
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Round of 16",
@@ -570,9 +1406,28 @@
         "ft": [
           0,
           2
+        ],
+        "ht": [
+          0,
+          1
         ]
       },
-      "ground": "Estadio Olímpico Universitario, Mexico City"
+      "ground": "Estadio Olímpico Universitario, Mexico City",
+      "goals1": [],
+      "goals2": [
+        {
+          "name": "Platini",
+          "minute": 16
+        },
+        {
+          "name": "Stopyra",
+          "minute": 56
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Round of 16",
@@ -583,9 +1438,24 @@
         "ft": [
           0,
           1
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
-      "ground": "Estadio Universitario, Monterrey"
+      "ground": "Estadio Universitario, Monterrey",
+      "goals1": [],
+      "goals2": [
+        {
+          "name": "Matthäus",
+          "minute": 89
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Round of 16",
@@ -596,9 +1466,32 @@
         "ft": [
           3,
           0
+        ],
+        "ht": [
+          1,
+          0
         ]
       },
-      "ground": "Estadio Azteca, Mexico City"
+      "ground": "Estadio Azteca, Mexico City",
+      "goals1": [
+        {
+          "name": "Lineker",
+          "minute": 32
+        },
+        {
+          "name": "Beardsley",
+          "minute": 56
+        },
+        {
+          "name": "Lineker",
+          "minute": 72
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Round of 16",
@@ -609,9 +1502,48 @@
         "ft": [
           1,
           5
+        ],
+        "ht": [
+          1,
+          1
         ]
       },
-      "ground": "Estadio La Corregidora, Querétaro"
+      "ground": "Estadio La Corregidora, Querétaro",
+      "goals1": [
+        {
+          "name": "J.Olsen",
+          "minute": 33,
+          "penalty": true
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Butragueno",
+          "minute": 43
+        },
+        {
+          "name": "Butragueno",
+          "minute": 56
+        },
+        {
+          "name": "Goicoechea",
+          "minute": 69,
+          "penalty": true
+        },
+        {
+          "name": "Butragueno",
+          "minute": 80
+        },
+        {
+          "name": "Butragueno",
+          "minute": 90,
+          "penalty": true
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Quarter-finals",
@@ -630,9 +1562,29 @@
         "ft": [
           1,
           1
+        ],
+        "ht": [
+          1,
+          1
         ]
       },
-      "ground": "Estadio Jalisco, Guadalajara"
+      "ground": "Estadio Jalisco, Guadalajara",
+      "goals1": [
+        {
+          "name": "Careca",
+          "minute": 18
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Platini",
+          "minute": 42
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Quarter-finals",
@@ -651,9 +1603,17 @@
         "ft": [
           0,
           0
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
-      "ground": "Estadio Universitario, Monterrey"
+      "ground": "Estadio Universitario, Monterrey",
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Quarter-finals",
@@ -672,9 +1632,29 @@
         "ft": [
           1,
           1
+        ],
+        "ht": [
+          0,
+          1
         ]
       },
-      "ground": "Estadio Cuauhtémoc, Puebla"
+      "ground": "Estadio Cuauhtémoc, Puebla",
+      "goals1": [
+        {
+          "name": "Señor",
+          "minute": 85
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Ceulemans",
+          "minute": 34
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Quarter-finals",
@@ -685,9 +1665,33 @@
         "ft": [
           2,
           1
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
-      "ground": "Estadio Azteca, Mexico City"
+      "ground": "Estadio Azteca, Mexico City",
+      "goals1": [
+        {
+          "name": "Maradona",
+          "minute": 51
+        },
+        {
+          "name": "Maradona",
+          "minute": 56
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Lineker",
+          "minute": 81
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Semi-finals",
@@ -700,7 +1704,15 @@
           0
         ]
       },
-      "ground": "Estadio Azteca, Mexico City"
+      "ground": "Estadio Azteca, Mexico City",
+      "result_enrichment": {
+        "source": "none",
+        "score_reconciled": false,
+        "missing_fields": [
+          "goalscorers",
+          "half_time_score"
+        ]
+      }
     },
     {
       "round": "Semi-finals",
@@ -711,9 +1723,28 @@
         "ft": [
           0,
           2
+        ],
+        "ht": [
+          0,
+          1
         ]
       },
-      "ground": "Estadio Jalisco, Guadalajara"
+      "ground": "Estadio Jalisco, Guadalajara",
+      "goals1": [],
+      "goals2": [
+        {
+          "name": "Brehme",
+          "minute": 9
+        },
+        {
+          "name": "Völler",
+          "minute": 90
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Third place match",
@@ -728,9 +1759,46 @@
         "ft": [
           2,
           2
+        ],
+        "ht": [
+          2,
+          1
         ]
       },
-      "ground": "Estadio Cuauhtémoc, Puebla"
+      "ground": "Estadio Cuauhtémoc, Puebla",
+      "goals1": [
+        {
+          "name": "Ferreri",
+          "minute": 27
+        },
+        {
+          "name": "Papin",
+          "minute": 43
+        },
+        {
+          "name": "Genghini",
+          "minute": 103
+        },
+        {
+          "name": "Amoros",
+          "minute": 109,
+          "penalty": true
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Ceulemans",
+          "minute": 11
+        },
+        {
+          "name": "Claesen",
+          "minute": 73
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Final",
@@ -741,9 +1809,41 @@
         "ft": [
           3,
           2
+        ],
+        "ht": [
+          1,
+          0
         ]
       },
-      "ground": "Estadio Azteca, Mexico City"
+      "ground": "Estadio Azteca, Mexico City",
+      "goals1": [
+        {
+          "name": "Brown",
+          "minute": 23
+        },
+        {
+          "name": "Valdano",
+          "minute": 56
+        },
+        {
+          "name": "Burruchaga",
+          "minute": 88
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Rummenige",
+          "minute": 74
+        },
+        {
+          "name": "Völler",
+          "minute": 82
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     }
   ]
 }

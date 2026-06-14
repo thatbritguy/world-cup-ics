@@ -15,9 +15,9 @@ LOCATION:Soldier Field\, Chicago
 GEO:41.862300;-87.616700
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Soldier Field, Chicago";X-
  APPLE-RADIUS=100;X-TITLE="Soldier Field, Chicago":geo:41.862300,-87.616700
-DESCRIPTION:Group C | Matchday 1 | 1994 FIFA World Cup - United States\nGer
- many 1-0 Bolivia
-URL:https://en.wikipedia.org/wiki/1994_FIFA_World_Cup
+DESCRIPTION:1994 FIFA World Cup - United States\nGroup C | Matchday 1\nGerm
+ any 1-0 Bolivia\nFT: 1-0
+URL:https://www.fifa.com/en/match-centre/match/17/84/337/3049
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1994
@@ -32,9 +32,10 @@ LOCATION:Cotton Bowl\, Dallas
 GEO:32.779444;-96.759722
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Cotton Bowl, Dallas";X-APP
  LE-RADIUS=100;X-TITLE="Cotton Bowl, Dallas":geo:32.779444,-96.759722
-DESCRIPTION:Group C | Matchday 1 | 1994 FIFA World Cup - United States\nSpa
- in 2-2 South Korea
-URL:https://en.wikipedia.org/wiki/1994_FIFA_World_Cup
+DESCRIPTION:1994 FIFA World Cup - United States\nGroup C | Matchday 1\nSpai
+ n 2-2 South Korea\nHT: 0-0\nFT: 2-2\nGoals:\nESP 🇪🇸: Salinas 51'\, G
+ oikoetxea 56'\nKOR 🇰🇷: Hong Myung-bo 85'\, Seo Jung-woon 90'
+URL:https://www.fifa.com/en/match-centre/match/17/84/337/3050
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1994
@@ -50,9 +51,10 @@ GEO:42.645833;-83.255000
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Pontiac Silverdome, Pontia
  c";X-APPLE-RADIUS=100;X-TITLE="Pontiac Silverdome, Pontiac":geo:42.645833,
  -83.255000
-DESCRIPTION:Group A | Matchday 1 | 1994 FIFA World Cup - United States\nUSA
-  1-1 Switzerland
-URL:https://en.wikipedia.org/wiki/1994_FIFA_World_Cup
+DESCRIPTION:1994 FIFA World Cup - United States\nGroup A | Matchday 1\nUSA 
+ 1-1 Switzerland\nHT: 1-1\nFT: 1-1\nGoals:\nUSA 🇺🇸: Wynalda 45'\nSUI 
+ 🇨🇭: Brégy 39'
+URL:https://www.fifa.com/en/match-centre/match/17/84/337/3051
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1994
@@ -68,9 +70,10 @@ GEO:40.812222;-74.076944
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Giants Stadium, East Ruthe
  rford";X-APPLE-RADIUS=100;X-TITLE="Giants Stadium, East Rutherford":geo:40
  .812222,-74.076944
-DESCRIPTION:Group E | Matchday 1 | 1994 FIFA World Cup - United States\nIta
- ly 0-1 Republic of Ireland
-URL:https://en.wikipedia.org/wiki/1994_FIFA_World_Cup
+DESCRIPTION:1994 FIFA World Cup - United States\nGroup E | Matchday 1\nItal
+ y 0-1 Republic of Ireland\nHT: 0-1\nFT: 0-1\nGoals:\nIRL 🇮🇪: Houghto
+ n 12'
+URL:https://www.fifa.com/en/match-centre/match/17/84/337/3052
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1994
@@ -85,9 +88,10 @@ LOCATION:Rose Bowl\, Pasadena
 GEO:34.161000;-118.168000
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Rose Bowl, Pasadena";X-APP
  LE-RADIUS=100;X-TITLE="Rose Bowl, Pasadena":geo:34.161000,-118.168000
-DESCRIPTION:Group A | Matchday 1 | 1994 FIFA World Cup - United States\nCol
- ombia 1-3 Romania
-URL:https://en.wikipedia.org/wiki/1994_FIFA_World_Cup
+DESCRIPTION:1994 FIFA World Cup - United States\nGroup A | Matchday 1\nColo
+ mbia 1-3 Romania\nHT: 1-2\nFT: 1-3\nGoals:\nCOL 🇨🇴: Valencia 43'\nRO
+ U 🇷🇴: Răducioiu 16'\, Hagi 34'\, Răducioiu 88'
+URL:https://www.fifa.com/en/match-centre/match/17/84/337/3053
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1994
@@ -102,9 +106,9 @@ LOCATION:Citrus Bowl\, Orlando
 GEO:28.538889;-81.402778
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Citrus Bowl, Orlando";X-AP
  PLE-RADIUS=100;X-TITLE="Citrus Bowl, Orlando":geo:28.538889,-81.402778
-DESCRIPTION:Group F | Matchday 1 | 1994 FIFA World Cup - United States\nBel
- gium 1-0 Morocco
-URL:https://en.wikipedia.org/wiki/1994_FIFA_World_Cup
+DESCRIPTION:1994 FIFA World Cup - United States\nGroup F | Matchday 1\nBelg
+ ium 1-0 Morocco\nHT: 1-0\nFT: 1-0\nGoals:\nBEL 🇧🇪: Degryse 11'
+URL:https://www.fifa.com/en/match-centre/match/17/84/337/3054
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1994
@@ -120,9 +124,9 @@ GEO:38.889722;-76.971667
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="RFK Stadium, Washington";X
  -APPLE-RADIUS=100;X-TITLE="RFK Stadium, Washington":geo:38.889722,-76.9716
  67
-DESCRIPTION:Group E | Matchday 1 | 1994 FIFA World Cup - United States\nNor
- way 1-0 Mexico
-URL:https://en.wikipedia.org/wiki/1994_FIFA_World_Cup
+DESCRIPTION:1994 FIFA World Cup - United States\nGroup E | Matchday 1\nNorw
+ ay 1-0 Mexico\nHT: 0-0\nFT: 1-0\nGoals:\nNOR 🇳🇴: Rekdal 85'
+URL:https://www.fifa.com/en/match-centre/match/17/84/337/3055
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1994
@@ -137,9 +141,10 @@ LOCATION:Rose Bowl\, Pasadena
 GEO:34.161000;-118.168000
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Rose Bowl, Pasadena";X-APP
  LE-RADIUS=100;X-TITLE="Rose Bowl, Pasadena":geo:34.161000,-118.168000
-DESCRIPTION:Group B | Matchday 1 | 1994 FIFA World Cup - United States\nCam
- eroon 2-2 Sweden
-URL:https://en.wikipedia.org/wiki/1994_FIFA_World_Cup
+DESCRIPTION:1994 FIFA World Cup - United States\nGroup B | Matchday 1\nCame
+ roon 2-2 Sweden\nHT: 1-1\nFT: 2-2\nGoals:\nCMR 🇨🇲: Embe 30'\, Omam-B
+ iyik 46'\nSWE 🇸🇪: Ljung 8'\, Dahlin 75'
+URL:https://www.fifa.com/en/match-centre/match/17/84/337/3056
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1994
@@ -155,9 +160,10 @@ GEO:37.434444;-122.161111
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stanford Stadium, Stanford
  ";X-APPLE-RADIUS=100;X-TITLE="Stanford Stadium, Stanford":geo:37.434444,-1
  22.161111
-DESCRIPTION:Group B | Matchday 1 | 1994 FIFA World Cup - United States\nBra
- zil 2-0 Russia
-URL:https://en.wikipedia.org/wiki/1994_FIFA_World_Cup
+DESCRIPTION:1994 FIFA World Cup - United States\nGroup B | Matchday 1\nBraz
+ il 2-0 Russia\nHT: 1-0\nFT: 2-0\nGoals:\nBRA 🇧🇷: Romário 27'\, Rai 
+ 53' pen
+URL:https://www.fifa.com/en/match-centre/match/17/84/337/3057
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1994
@@ -173,9 +179,10 @@ GEO:38.889722;-76.971667
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="RFK Stadium, Washington";X
  -APPLE-RADIUS=100;X-TITLE="RFK Stadium, Washington":geo:38.889722,-76.9716
  67
-DESCRIPTION:Group F | Matchday 1 | 1994 FIFA World Cup - United States\nNet
- herlands 2-1 Saudi Arabia
-URL:https://en.wikipedia.org/wiki/1994_FIFA_World_Cup
+DESCRIPTION:1994 FIFA World Cup - United States\nGroup F | Matchday 1\nNeth
+ erlands 2-1 Saudi Arabia\nHT: 0-1\nFT: 2-1\nGoals:\nNED 🇳🇱: Jonk 50'
+ \, Taument 86'\nKSA 🇸🇦: Anim 19'
+URL:https://www.fifa.com/en/match-centre/match/17/84/337/3058
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1994
@@ -191,9 +198,10 @@ GEO:42.092778;-71.267500
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Foxboro Stadium, Foxboroug
  h";X-APPLE-RADIUS=100;X-TITLE="Foxboro Stadium, Foxborough":geo:42.092778,
  -71.267500
-DESCRIPTION:Group D | Matchday 1 | 1994 FIFA World Cup - United States\nArg
- entina 4-0 Greece
-URL:https://en.wikipedia.org/wiki/1994_FIFA_World_Cup
+DESCRIPTION:1994 FIFA World Cup - United States\nGroup D | Matchday 1\nArge
+ ntina 4-0 Greece\nHT: 2-0\nFT: 4-0\nGoals:\nARG 🇦🇷: Batistuta 2'\, B
+ atistuta 45'\, Maradona 60'\, Batistuta 90' pen
+URL:https://www.fifa.com/en/match-centre/match/17/84/337/3059
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1994
@@ -208,9 +216,9 @@ LOCATION:Soldier Field\, Chicago
 GEO:41.862300;-87.616700
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Soldier Field, Chicago";X-
  APPLE-RADIUS=100;X-TITLE="Soldier Field, Chicago":geo:41.862300,-87.616700
-DESCRIPTION:Group C | Matchday 1 | 1994 FIFA World Cup - United States\nGer
- many 1-1 Spain
-URL:https://en.wikipedia.org/wiki/1994_FIFA_World_Cup
+DESCRIPTION:1994 FIFA World Cup - United States\nGroup C | Matchday 1\nGerm
+ any 1-1 Spain\nFT: 1-1
+URL:https://www.fifa.com/en/match-centre/match/17/84/337/3060
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1994
@@ -225,9 +233,10 @@ LOCATION:Cotton Bowl\, Dallas
 GEO:32.779444;-96.759722
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Cotton Bowl, Dallas";X-APP
  LE-RADIUS=100;X-TITLE="Cotton Bowl, Dallas":geo:32.779444,-96.759722
-DESCRIPTION:Group D | Matchday 1 | 1994 FIFA World Cup - United States\nNig
- eria 3-0 Bulgaria
-URL:https://en.wikipedia.org/wiki/1994_FIFA_World_Cup
+DESCRIPTION:1994 FIFA World Cup - United States\nGroup D | Matchday 1\nNige
+ ria 3-0 Bulgaria\nHT: 2-0\nFT: 3-0\nGoals:\nNGA 🇳🇬: Yekini 21'\, Amo
+ kachi 43'\, Amunike 55'
+URL:https://www.fifa.com/en/match-centre/match/17/84/337/3061
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1994
@@ -243,9 +252,10 @@ GEO:42.645833;-83.255000
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Pontiac Silverdome, Pontia
  c";X-APPLE-RADIUS=100;X-TITLE="Pontiac Silverdome, Pontiac":geo:42.645833,
  -83.255000
-DESCRIPTION:Group A | Matchday 2 | 1994 FIFA World Cup - United States\nRom
- ania 1-4 Switzerland
-URL:https://en.wikipedia.org/wiki/1994_FIFA_World_Cup
+DESCRIPTION:1994 FIFA World Cup - United States\nGroup A | Matchday 2\nRoma
+ nia 1-4 Switzerland\nHT: 1-1\nFT: 1-4\nGoals:\nROU 🇷🇴: Hagi 36'\nSUI
+  🇨🇭: Sutter 16'\, Chapuisat 53'\, Knup 66'\, Knup 73'
+URL:https://www.fifa.com/en/match-centre/match/17/84/337/3062
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1994
@@ -260,9 +270,10 @@ LOCATION:Rose Bowl\, Pasadena
 GEO:34.161000;-118.168000
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Rose Bowl, Pasadena";X-APP
  LE-RADIUS=100;X-TITLE="Rose Bowl, Pasadena":geo:34.161000,-118.168000
-DESCRIPTION:Group A | Matchday 2 | 1994 FIFA World Cup - United States\nUSA
-  2-1 Colombia
-URL:https://en.wikipedia.org/wiki/1994_FIFA_World_Cup
+DESCRIPTION:1994 FIFA World Cup - United States\nGroup A | Matchday 2\nUSA 
+ 2-1 Colombia\nHT: 1-0\nFT: 2-1\nGoals:\nUSA 🇺🇸: Escobar 34' og\, Ste
+ wart 52'\nCOL 🇨🇴: Valencia 90'
+URL:https://www.fifa.com/en/match-centre/match/17/84/337/3063
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1994
@@ -278,9 +289,9 @@ GEO:40.812222;-74.076944
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Giants Stadium, East Ruthe
  rford";X-APPLE-RADIUS=100;X-TITLE="Giants Stadium, East Rutherford":geo:40
  .812222,-74.076944
-DESCRIPTION:Group E | Matchday 2 | 1994 FIFA World Cup - United States\nIta
- ly 1-0 Norway
-URL:https://en.wikipedia.org/wiki/1994_FIFA_World_Cup
+DESCRIPTION:1994 FIFA World Cup - United States\nGroup E | Matchday 2\nItal
+ y 1-0 Norway\nHT: 0-0\nFT: 1-0\nGoals:\nITA 🇮🇹: D.Baggio 69'
+URL:https://www.fifa.com/en/match-centre/match/17/84/337/3064
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1994
@@ -296,9 +307,9 @@ GEO:42.092778;-71.267500
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Foxboro Stadium, Foxboroug
  h";X-APPLE-RADIUS=100;X-TITLE="Foxboro Stadium, Foxborough":geo:42.092778,
  -71.267500
-DESCRIPTION:Group C | Matchday 2 | 1994 FIFA World Cup - United States\nSou
- th Korea 0-0 Bolivia
-URL:https://en.wikipedia.org/wiki/1994_FIFA_World_Cup
+DESCRIPTION:1994 FIFA World Cup - United States\nGroup C | Matchday 2\nSout
+ h Korea 0-0 Bolivia\nHT: 0-0\nFT: 0-0
+URL:https://www.fifa.com/en/match-centre/match/17/84/337/3065
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1994
@@ -313,9 +324,10 @@ LOCATION:Citrus Bowl\, Orlando
 GEO:28.538889;-81.402778
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Citrus Bowl, Orlando";X-AP
  PLE-RADIUS=100;X-TITLE="Citrus Bowl, Orlando":geo:28.538889,-81.402778
-DESCRIPTION:Group E | Matchday 2 | 1994 FIFA World Cup - United States\nMex
- ico 2-1 Republic of Ireland
-URL:https://en.wikipedia.org/wiki/1994_FIFA_World_Cup
+DESCRIPTION:1994 FIFA World Cup - United States\nGroup E | Matchday 2\nMexi
+ co 2-1 Republic of Ireland\nHT: 1-0\nFT: 2-1\nGoals:\nMEX 🇲🇽: Luis G
+ arcia 44'\, Luis Garcia 66'\nIRL 🇮🇪: Aldridge 84'
+URL:https://www.fifa.com/en/match-centre/match/17/84/337/3066
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1994
@@ -331,9 +343,10 @@ GEO:37.434444;-122.161111
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stanford Stadium, Stanford
  ";X-APPLE-RADIUS=100;X-TITLE="Stanford Stadium, Stanford":geo:37.434444,-1
  22.161111
-DESCRIPTION:Group B | Matchday 2 | 1994 FIFA World Cup - United States\nBra
- zil 3-0 Cameroon
-URL:https://en.wikipedia.org/wiki/1994_FIFA_World_Cup
+DESCRIPTION:1994 FIFA World Cup - United States\nGroup B | Matchday 2\nBraz
+ il 3-0 Cameroon\nHT: 1-0\nFT: 3-0\nGoals:\nBRA 🇧🇷: Romário 39'\, Ma
+ rcio Santos 62'\, Bebeto 72'
+URL:https://www.fifa.com/en/match-centre/match/17/84/337/3067
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1994
@@ -349,9 +362,10 @@ GEO:42.645833;-83.255000
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Pontiac Silverdome, Pontia
  c";X-APPLE-RADIUS=100;X-TITLE="Pontiac Silverdome, Pontiac":geo:42.645833,
  -83.255000
-DESCRIPTION:Group B | Matchday 2 | 1994 FIFA World Cup - United States\nSwe
- den 3-1 Russia
-URL:https://en.wikipedia.org/wiki/1994_FIFA_World_Cup
+DESCRIPTION:1994 FIFA World Cup - United States\nGroup B | Matchday 2\nSwed
+ en 3-1 Russia\nHT: 1-1\nFT: 3-1\nGoals:\nSWE 🇸🇪: Brolin 39' pen\, Da
+ hlin 60'\, Dahlin 82'\nRUS 🇷🇺: Salenko 4' pen
+URL:https://www.fifa.com/en/match-centre/match/17/84/337/3068
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1994
@@ -366,9 +380,9 @@ LOCATION:Citrus Bowl\, Orlando
 GEO:28.538889;-81.402778
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Citrus Bowl, Orlando";X-AP
  PLE-RADIUS=100;X-TITLE="Citrus Bowl, Orlando":geo:28.538889,-81.402778
-DESCRIPTION:Group F | Matchday 2 | 1994 FIFA World Cup - United States\nBel
- gium 1-0 Netherlands
-URL:https://en.wikipedia.org/wiki/1994_FIFA_World_Cup
+DESCRIPTION:1994 FIFA World Cup - United States\nGroup F | Matchday 2\nBelg
+ ium 1-0 Netherlands\nHT: 0-0\nFT: 1-0\nGoals:\nBEL 🇧🇪: Albert 65'
+URL:https://www.fifa.com/en/match-centre/match/17/84/337/3069
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1994
@@ -384,9 +398,10 @@ GEO:40.812222;-74.076944
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Giants Stadium, East Ruthe
  rford";X-APPLE-RADIUS=100;X-TITLE="Giants Stadium, East Rutherford":geo:40
  .812222,-74.076944
-DESCRIPTION:Group F | Matchday 2 | 1994 FIFA World Cup - United States\nSau
- di Arabia 2-1 Morocco
-URL:https://en.wikipedia.org/wiki/1994_FIFA_World_Cup
+DESCRIPTION:1994 FIFA World Cup - United States\nGroup F | Matchday 2\nSaud
+ i Arabia 2-1 Morocco\nHT: 2-1\nFT: 2-1\nGoals:\nKSA 🇸🇦: Al Jaber 8' 
+ pen\, Amin 45'\nMAR 🇲🇦: Chaouch 27'
+URL:https://www.fifa.com/en/match-centre/match/17/84/337/3070
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1994
@@ -402,9 +417,10 @@ GEO:42.092778;-71.267500
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Foxboro Stadium, Foxboroug
  h";X-APPLE-RADIUS=100;X-TITLE="Foxboro Stadium, Foxborough":geo:42.092778,
  -71.267500
-DESCRIPTION:Group D | Matchday 2 | 1994 FIFA World Cup - United States\nArg
- entina 2-1 Nigeria
-URL:https://en.wikipedia.org/wiki/1994_FIFA_World_Cup
+DESCRIPTION:1994 FIFA World Cup - United States\nGroup D | Matchday 2\nArge
+ ntina 2-1 Nigeria\nHT: 2-1\nFT: 2-1\nGoals:\nARG 🇦🇷: Caniggia 22'\, 
+ Caniggia 29'\nNGA 🇳🇬: Siasia 10'
+URL:https://www.fifa.com/en/match-centre/match/17/84/337/3071
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1994
@@ -419,9 +435,10 @@ LOCATION:Soldier Field\, Chicago
 GEO:41.862300;-87.616700
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Soldier Field, Chicago";X-
  APPLE-RADIUS=100;X-TITLE="Soldier Field, Chicago":geo:41.862300,-87.616700
-DESCRIPTION:Group D | Matchday 2 | 1994 FIFA World Cup - United States\nGre
- ece 0-4 Bulgaria
-URL:https://en.wikipedia.org/wiki/1994_FIFA_World_Cup
+DESCRIPTION:1994 FIFA World Cup - United States\nGroup D | Matchday 2\nGree
+ ce 0-4 Bulgaria\nHT: 0-1\nFT: 0-4\nGoals:\nBUL 🇧🇬: Stoichkov 5' pen\
+ , Stoichkov 55' pen\, Letchkov 66'\, Borimirov 90'
+URL:https://www.fifa.com/en/match-centre/match/17/84/337/3072
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1994
@@ -436,9 +453,9 @@ LOCATION:Rose Bowl\, Pasadena
 GEO:34.161000;-118.168000
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Rose Bowl, Pasadena";X-APP
  LE-RADIUS=100;X-TITLE="Rose Bowl, Pasadena":geo:34.161000,-118.168000
-DESCRIPTION:Group A | Matchday 2 | 1994 FIFA World Cup - United States\nUSA
-  0-1 Romania
-URL:https://en.wikipedia.org/wiki/1994_FIFA_World_Cup
+DESCRIPTION:1994 FIFA World Cup - United States\nGroup A | Matchday 2\nUSA 
+ 0-1 Romania\nHT: 0-1\nFT: 0-1\nGoals:\nROU 🇷🇴: Petrescu 17'
+URL:https://www.fifa.com/en/match-centre/match/17/84/337/3073
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1994
@@ -454,9 +471,10 @@ GEO:37.434444;-122.161111
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stanford Stadium, Stanford
  ";X-APPLE-RADIUS=100;X-TITLE="Stanford Stadium, Stanford":geo:37.434444,-1
  22.161111
-DESCRIPTION:Group A | Matchday 2 | 1994 FIFA World Cup - United States\nSwi
- tzerland 0-2 Colombia
-URL:https://en.wikipedia.org/wiki/1994_FIFA_World_Cup
+DESCRIPTION:1994 FIFA World Cup - United States\nGroup A | Matchday 2\nSwit
+ zerland 0-2 Colombia\nHT: 0-1\nFT: 0-2\nGoals:\nCOL 🇨🇴: Gaviria 44'\
+ , Lozano 90'
+URL:https://www.fifa.com/en/match-centre/match/17/84/337/3074
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1994
@@ -471,9 +489,10 @@ LOCATION:Soldier Field\, Chicago
 GEO:41.862300;-87.616700
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Soldier Field, Chicago";X-
  APPLE-RADIUS=100;X-TITLE="Soldier Field, Chicago":geo:41.862300,-87.616700
-DESCRIPTION:Group C | Matchday 3 | 1994 FIFA World Cup - United States\nBol
- ivia 1-3 Spain
-URL:https://en.wikipedia.org/wiki/1994_FIFA_World_Cup
+DESCRIPTION:1994 FIFA World Cup - United States\nGroup C | Matchday 3\nBoli
+ via 1-3 Spain\nHT: 0-1\nFT: 1-3\nGoals:\nBOL 🇧🇴: Sánchez 67'\nESP 
+ 🇪🇸: Guardiola 19' pen\, Caminero 65'\, Caminero 71'
+URL:https://www.fifa.com/en/match-centre/match/17/84/337/3075
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1994
@@ -488,9 +507,11 @@ LOCATION:Cotton Bowl\, Dallas
 GEO:32.779444;-96.759722
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Cotton Bowl, Dallas";X-APP
  LE-RADIUS=100;X-TITLE="Cotton Bowl, Dallas":geo:32.779444,-96.759722
-DESCRIPTION:Group C | Matchday 3 | 1994 FIFA World Cup - United States\nGer
- many 3-2 South Korea
-URL:https://en.wikipedia.org/wiki/1994_FIFA_World_Cup
+DESCRIPTION:1994 FIFA World Cup - United States\nGroup C | Matchday 3\nGerm
+ any 3-2 South Korea\nHT: 3-0\nFT: 3-2\nGoals:\nGER 🇩🇪: Klinsmann 12'
+ \, Riedle 20'\, Klinsmann 37'\nKOR 🇰🇷: Hwang Sun-hong 51'\, Hong Myu
+ ng-bo 63'
+URL:https://www.fifa.com/en/match-centre/match/17/84/337/3076
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1994
@@ -506,9 +527,9 @@ GEO:40.812222;-74.076944
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Giants Stadium, East Ruthe
  rford";X-APPLE-RADIUS=100;X-TITLE="Giants Stadium, East Rutherford":geo:40
  .812222,-74.076944
-DESCRIPTION:Group E | Matchday 3 | 1994 FIFA World Cup - United States\nRep
- ublic of Ireland 0-0 Norway
-URL:https://en.wikipedia.org/wiki/1994_FIFA_World_Cup
+DESCRIPTION:1994 FIFA World Cup - United States\nGroup E | Matchday 3\nRepu
+ blic of Ireland 0-0 Norway\nHT: 0-0\nFT: 0-0
+URL:https://www.fifa.com/en/match-centre/match/17/84/337/3077
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1994
@@ -524,9 +545,10 @@ GEO:38.889722;-76.971667
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="RFK Stadium, Washington";X
  -APPLE-RADIUS=100;X-TITLE="RFK Stadium, Washington":geo:38.889722,-76.9716
  67
-DESCRIPTION:Group E | Matchday 3 | 1994 FIFA World Cup - United States\nIta
- ly 1-1 Mexico
-URL:https://en.wikipedia.org/wiki/1994_FIFA_World_Cup
+DESCRIPTION:1994 FIFA World Cup - United States\nGroup E | Matchday 3\nItal
+ y 1-1 Mexico\nHT: 0-0\nFT: 1-1\nGoals:\nITA 🇮🇹: Massaro 48'\nMEX 
+ 🇲🇽: Bernal 56'
+URL:https://www.fifa.com/en/match-centre/match/17/84/337/3078
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1994
@@ -542,9 +564,11 @@ GEO:37.434444;-122.161111
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stanford Stadium, Stanford
  ";X-APPLE-RADIUS=100;X-TITLE="Stanford Stadium, Stanford":geo:37.434444,-1
  22.161111
-DESCRIPTION:Group B | Matchday 3 | 1994 FIFA World Cup - United States\nRus
- sia 6-1 Cameroon
-URL:https://en.wikipedia.org/wiki/1994_FIFA_World_Cup
+DESCRIPTION:1994 FIFA World Cup - United States\nGroup B | Matchday 3\nRuss
+ ia 6-1 Cameroon\nHT: 3-0\nFT: 6-1\nGoals:\nRUS 🇷🇺: Salenko 16'\, Sal
+ enko 41'\, Salenko 45' pen\, Salenko 72'\, Salenko 75'\, Radchenko 82'\nCM
+ R 🇨🇲: Milla 47'
+URL:https://www.fifa.com/en/match-centre/match/17/84/337/3079
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1994
@@ -560,9 +584,10 @@ GEO:42.645833;-83.255000
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Pontiac Silverdome, Pontia
  c";X-APPLE-RADIUS=100;X-TITLE="Pontiac Silverdome, Pontiac":geo:42.645833,
  -83.255000
-DESCRIPTION:Group B | Matchday 3 | 1994 FIFA World Cup - United States\nBra
- zil 1-1 Sweden
-URL:https://en.wikipedia.org/wiki/1994_FIFA_World_Cup
+DESCRIPTION:1994 FIFA World Cup - United States\nGroup B | Matchday 3\nBraz
+ il 1-1 Sweden\nHT: 0-1\nFT: 1-1\nGoals:\nBRA 🇧🇷: Romário 47'\nSWE 
+ 🇸🇪: K.Andersson 24'
+URL:https://www.fifa.com/en/match-centre/match/17/84/337/3080
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1994
@@ -577,9 +602,10 @@ LOCATION:Citrus Bowl\, Orlando
 GEO:28.538889;-81.402778
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Citrus Bowl, Orlando";X-AP
  PLE-RADIUS=100;X-TITLE="Citrus Bowl, Orlando":geo:28.538889,-81.402778
-DESCRIPTION:Group F | Matchday 3 | 1994 FIFA World Cup - United States\nMor
- occo 1-2 Netherlands
-URL:https://en.wikipedia.org/wiki/1994_FIFA_World_Cup
+DESCRIPTION:1994 FIFA World Cup - United States\nGroup F | Matchday 3\nMoro
+ cco 1-2 Netherlands\nHT: 0-1\nFT: 1-2\nGoals:\nMAR 🇲🇦: Nader 47'\nNE
+ D 🇳🇱: Bergkamp 43'\, Roy 78'
+URL:https://www.fifa.com/en/match-centre/match/17/84/337/3081
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1994
@@ -595,9 +621,10 @@ GEO:38.889722;-76.971667
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="RFK Stadium, Washington";X
  -APPLE-RADIUS=100;X-TITLE="RFK Stadium, Washington":geo:38.889722,-76.9716
  67
-DESCRIPTION:Group F | Matchday 3 | 1994 FIFA World Cup - United States\nBel
- gium 0-1 Saudi Arabia
-URL:https://en.wikipedia.org/wiki/1994_FIFA_World_Cup
+DESCRIPTION:1994 FIFA World Cup - United States\nGroup F | Matchday 3\nBelg
+ ium 0-1 Saudi Arabia\nHT: 0-1\nFT: 0-1\nGoals:\nKSA 🇸🇦: Al Owairan 5
+ '
+URL:https://www.fifa.com/en/match-centre/match/17/84/337/3082
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1994
@@ -613,9 +640,10 @@ GEO:42.092778;-71.267500
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Foxboro Stadium, Foxboroug
  h";X-APPLE-RADIUS=100;X-TITLE="Foxboro Stadium, Foxborough":geo:42.092778,
  -71.267500
-DESCRIPTION:Group D | Matchday 3 | 1994 FIFA World Cup - United States\nGre
- ece 0-2 Nigeria
-URL:https://en.wikipedia.org/wiki/1994_FIFA_World_Cup
+DESCRIPTION:1994 FIFA World Cup - United States\nGroup D | Matchday 3\nGree
+ ce 0-2 Nigeria\nHT: 0-1\nFT: 0-2\nGoals:\nNGA 🇳🇬: Finidi 45'\, Amoka
+ chi 90'
+URL:https://www.fifa.com/en/match-centre/match/17/84/337/3083
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1994
@@ -630,9 +658,10 @@ LOCATION:Cotton Bowl\, Dallas
 GEO:32.779444;-96.759722
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Cotton Bowl, Dallas";X-APP
  LE-RADIUS=100;X-TITLE="Cotton Bowl, Dallas":geo:32.779444,-96.759722
-DESCRIPTION:Group D | Matchday 3 | 1994 FIFA World Cup - United States\nArg
- entina 0-2 Bulgaria
-URL:https://en.wikipedia.org/wiki/1994_FIFA_World_Cup
+DESCRIPTION:1994 FIFA World Cup - United States\nGroup D | Matchday 3\nArge
+ ntina 0-2 Bulgaria\nHT: 0-0\nFT: 0-2\nGoals:\nBUL 🇧🇬: Stoichkov 61'\
+ , Sirakov 90'
+URL:https://www.fifa.com/en/match-centre/match/17/84/337/3084
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1994
@@ -647,9 +676,10 @@ LOCATION:Soldier Field\, Chicago
 GEO:41.862300;-87.616700
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Soldier Field, Chicago";X-
  APPLE-RADIUS=100;X-TITLE="Soldier Field, Chicago":geo:41.862300,-87.616700
-DESCRIPTION:Round of 16 | 1994 FIFA World Cup - United States\nGermany 3-2 
- Belgium
-URL:https://en.wikipedia.org/wiki/1994_FIFA_World_Cup
+DESCRIPTION:1994 FIFA World Cup - United States\nRound of 16\nGermany 3-2 B
+ elgium\nHT: 3-1\nFT: 3-2\nGoals:\nGER 🇩🇪: Völler 5'\, Klinsmann 10'
+ \, Völler 39'\nBEL 🇧🇪: Grun 7'\, Albert 90'
+URL:https://www.fifa.com/en/match-centre/match/17/84/338/3085
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1994
@@ -665,9 +695,10 @@ GEO:38.889722;-76.971667
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="RFK Stadium, Washington";X
  -APPLE-RADIUS=100;X-TITLE="RFK Stadium, Washington":geo:38.889722,-76.9716
  67
-DESCRIPTION:Round of 16 | 1994 FIFA World Cup - United States\nSpain 3-0 Sw
- itzerland
-URL:https://en.wikipedia.org/wiki/1994_FIFA_World_Cup
+DESCRIPTION:1994 FIFA World Cup - United States\nRound of 16\nSpain 3-0 Swi
+ tzerland\nHT: 1-0\nFT: 3-0\nGoals:\nESP 🇪🇸: Hierro 15'\, Luis Enriqu
+ e 73'\, Begurristain 86' pen
+URL:https://www.fifa.com/en/match-centre/match/17/84/338/3086
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1994
@@ -682,9 +713,10 @@ LOCATION:Cotton Bowl\, Dallas
 GEO:32.779444;-96.759722
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Cotton Bowl, Dallas";X-APP
  LE-RADIUS=100;X-TITLE="Cotton Bowl, Dallas":geo:32.779444,-96.759722
-DESCRIPTION:Round of 16 | 1994 FIFA World Cup - United States\nSaudi Arabia
-  1-3 Sweden
-URL:https://en.wikipedia.org/wiki/1994_FIFA_World_Cup
+DESCRIPTION:1994 FIFA World Cup - United States\nRound of 16\nSaudi Arabia 
+ 1-3 Sweden\nHT: 0-1\nFT: 1-3\nGoals:\nKSA 🇸🇦: Al Gheshayan 85'\nSWE 
+ 🇸🇪: Dahlin 5'\, K.Andersson 50'\, K.Andersson 87'
+URL:https://www.fifa.com/en/match-centre/match/17/84/338/3087
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1994
@@ -699,9 +731,10 @@ LOCATION:Rose Bowl\, Pasadena
 GEO:34.161000;-118.168000
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Rose Bowl, Pasadena";X-APP
  LE-RADIUS=100;X-TITLE="Rose Bowl, Pasadena":geo:34.161000,-118.168000
-DESCRIPTION:Round of 16 | 1994 FIFA World Cup - United States\nRomania 3-2 
- Argentina
-URL:https://en.wikipedia.org/wiki/1994_FIFA_World_Cup
+DESCRIPTION:1994 FIFA World Cup - United States\nRound of 16\nRomania 3-2 A
+ rgentina\nHT: 2-1\nFT: 3-2\nGoals:\nROU 🇷🇴: Dumitrescu 9'\, Dumitres
+ cu 17'\, Hagi 57'\nARG 🇦🇷: Batistuta 15' pen\, Balbo 74'
+URL:https://www.fifa.com/en/match-centre/match/17/84/338/3088
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1994
@@ -716,9 +749,10 @@ LOCATION:Citrus Bowl\, Orlando
 GEO:28.538889;-81.402778
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Citrus Bowl, Orlando";X-AP
  PLE-RADIUS=100;X-TITLE="Citrus Bowl, Orlando":geo:28.538889,-81.402778
-DESCRIPTION:Round of 16 | 1994 FIFA World Cup - United States\nNetherlands 
- 2-0 Republic of Ireland
-URL:https://en.wikipedia.org/wiki/1994_FIFA_World_Cup
+DESCRIPTION:1994 FIFA World Cup - United States\nRound of 16\nNetherlands 2
+ -0 Republic of Ireland\nHT: 2-0\nFT: 2-0\nGoals:\nNED 🇳🇱: Bergkamp 1
+ 1'\, Jonk 41'
+URL:https://www.fifa.com/en/match-centre/match/17/84/338/3089
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1994
@@ -734,9 +768,9 @@ GEO:37.434444;-122.161111
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stanford Stadium, Stanford
  ";X-APPLE-RADIUS=100;X-TITLE="Stanford Stadium, Stanford":geo:37.434444,-1
  22.161111
-DESCRIPTION:Round of 16 | 1994 FIFA World Cup - United States\nBrazil 1-0 U
- SA
-URL:https://en.wikipedia.org/wiki/1994_FIFA_World_Cup
+DESCRIPTION:1994 FIFA World Cup - United States\nRound of 16\nBrazil 1-0 US
+ A\nHT: 0-0\nFT: 1-0\nGoals:\nBRA 🇧🇷: Bebeto 73'
+URL:https://www.fifa.com/en/match-centre/match/17/84/338/3090
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1994
@@ -752,9 +786,10 @@ GEO:42.092778;-71.267500
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Foxboro Stadium, Foxboroug
  h";X-APPLE-RADIUS=100;X-TITLE="Foxboro Stadium, Foxborough":geo:42.092778,
  -71.267500
-DESCRIPTION:Round of 16 | 1994 FIFA World Cup - United States\nNigeria 1-2 
- Italy\nFT: 1-1\nAET: 1-2
-URL:https://en.wikipedia.org/wiki/1994_FIFA_World_Cup
+DESCRIPTION:1994 FIFA World Cup - United States\nRound of 16\nNigeria 1-2 I
+ taly\nHT: 1-0\nFT: 1-1\nAET: 1-2\nGoals:\nNGA 🇳🇬: Amunike 26'\nITA 
+ 🇮🇹: R.Baggio 89'\, R.Baggio 103' pen
+URL:https://www.fifa.com/en/match-centre/match/17/84/338/3091
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1994
@@ -770,9 +805,10 @@ GEO:40.812222;-74.076944
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Giants Stadium, East Ruthe
  rford";X-APPLE-RADIUS=100;X-TITLE="Giants Stadium, East Rutherford":geo:40
  .812222,-74.076944
-DESCRIPTION:Round of 16 | 1994 FIFA World Cup - United States\nMexico 1-1 B
- ulgaria\nFT: 1-1\nAET: 1-1\nPenalties: 1-3
-URL:https://en.wikipedia.org/wiki/1994_FIFA_World_Cup
+DESCRIPTION:1994 FIFA World Cup - United States\nRound of 16\nMexico 1-1 Bu
+ lgaria\nHT: 1-1\nFT: 1-1\nAET: 1-1\nPenalties: 1-3\nGoals:\nMEX 🇲🇽: 
+ Garcia Aspe 18' pen\nBUL 🇧🇬: Stoichkov 7'
+URL:https://www.fifa.com/en/match-centre/match/17/84/338/3092
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1994
@@ -788,9 +824,10 @@ GEO:42.092778;-71.267500
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Foxboro Stadium, Foxboroug
  h";X-APPLE-RADIUS=100;X-TITLE="Foxboro Stadium, Foxborough":geo:42.092778,
  -71.267500
-DESCRIPTION:Quarter-finals | 1994 FIFA World Cup - United States\nItaly 2-1
-  Spain
-URL:https://en.wikipedia.org/wiki/1994_FIFA_World_Cup
+DESCRIPTION:1994 FIFA World Cup - United States\nQuarter-finals\nItaly 2-1 
+ Spain\nHT: 1-0\nFT: 2-1\nGoals:\nITA 🇮🇹: D.Baggio 26'\, R.Baggio 88'
+ \nESP 🇪🇸: Caminero 59'
+URL:https://www.fifa.com/en/match-centre/match/17/84/796/3097
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1994
@@ -805,9 +842,10 @@ LOCATION:Cotton Bowl\, Dallas
 GEO:32.779444;-96.759722
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Cotton Bowl, Dallas";X-APP
  LE-RADIUS=100;X-TITLE="Cotton Bowl, Dallas":geo:32.779444,-96.759722
-DESCRIPTION:Quarter-finals | 1994 FIFA World Cup - United States\nNetherlan
- ds 2-3 Brazil
-URL:https://en.wikipedia.org/wiki/1994_FIFA_World_Cup
+DESCRIPTION:1994 FIFA World Cup - United States\nQuarter-finals\nNetherland
+ s 2-3 Brazil\nHT: 0-0\nFT: 2-3\nGoals:\nNED 🇳🇱: Bergkamp 64'\, Winte
+ r 76'\nBRA 🇧🇷: Romário 52'\, Bebeto 61'\, Branco 81'
+URL:https://www.fifa.com/en/match-centre/match/17/84/796/3098
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1994
@@ -823,9 +861,10 @@ GEO:40.812222;-74.076944
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Giants Stadium, East Ruthe
  rford";X-APPLE-RADIUS=100;X-TITLE="Giants Stadium, East Rutherford":geo:40
  .812222,-74.076944
-DESCRIPTION:Quarter-finals | 1994 FIFA World Cup - United States\nBulgaria 
- 2-1 Germany
-URL:https://en.wikipedia.org/wiki/1994_FIFA_World_Cup
+DESCRIPTION:1994 FIFA World Cup - United States\nQuarter-finals\nBulgaria 2
+ -1 Germany\nHT: 0-0\nFT: 2-1\nGoals:\nBUL 🇧🇬: Stoichkov 76'\, Letchk
+ ov 78'\nGER 🇩🇪: Matthäus 48' pen
+URL:https://www.fifa.com/en/match-centre/match/17/84/796/3096
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1994
@@ -841,9 +880,11 @@ GEO:37.434444;-122.161111
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Stanford Stadium, Stanford
  ";X-APPLE-RADIUS=100;X-TITLE="Stanford Stadium, Stanford":geo:37.434444,-1
  22.161111
-DESCRIPTION:Quarter-finals | 1994 FIFA World Cup - United States\nRomania 2
- -2 Sweden\nFT: 1-1\nAET: 2-2\nPenalties: 4-5
-URL:https://en.wikipedia.org/wiki/1994_FIFA_World_Cup
+DESCRIPTION:1994 FIFA World Cup - United States\nQuarter-finals\nRomania 2-
+ 2 Sweden\nHT: 0-0\nFT: 1-1\nAET: 2-2\nPenalties: 4-5\nGoals:\nROU 🇷🇴
+ : Răducioiu 88'\, Răducioiu 100'\nSWE 🇸🇪: Brolin 78'\, K.Andersson
+  115'
+URL:https://www.fifa.com/en/match-centre/match/17/84/796/3095
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1994
@@ -859,9 +900,10 @@ GEO:40.812222;-74.076944
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Giants Stadium, East Ruthe
  rford";X-APPLE-RADIUS=100;X-TITLE="Giants Stadium, East Rutherford":geo:40
  .812222,-74.076944
-DESCRIPTION:Semi-finals | 1994 FIFA World Cup - United States\nBulgaria 1-2
-  Italy
-URL:https://en.wikipedia.org/wiki/1994_FIFA_World_Cup
+DESCRIPTION:1994 FIFA World Cup - United States\nSemi-finals\nBulgaria 1-2 
+ Italy\nHT: 1-2\nFT: 1-2\nGoals:\nBUL 🇧🇬: Stoichkov 42' pen\nITA 🇮
+ 🇹: R.Baggio 20'\, R.Baggio 25'
+URL:https://www.fifa.com/en/match-centre/match/17/84/3461/3100
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1994
@@ -876,9 +918,9 @@ LOCATION:Rose Bowl\, Pasadena
 GEO:34.161000;-118.168000
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Rose Bowl, Pasadena";X-APP
  LE-RADIUS=100;X-TITLE="Rose Bowl, Pasadena":geo:34.161000,-118.168000
-DESCRIPTION:Semi-finals | 1994 FIFA World Cup - United States\nSweden 0-1 B
- razil
-URL:https://en.wikipedia.org/wiki/1994_FIFA_World_Cup
+DESCRIPTION:1994 FIFA World Cup - United States\nSemi-finals\nSweden 0-1 Br
+ azil\nHT: 0-0\nFT: 0-1\nGoals:\nBRA 🇧🇷: Romário 80'
+URL:https://www.fifa.com/en/match-centre/match/17/84/3461/3099
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1994
@@ -893,9 +935,10 @@ LOCATION:Rose Bowl\, Pasadena
 GEO:34.161000;-118.168000
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Rose Bowl, Pasadena";X-APP
  LE-RADIUS=100;X-TITLE="Rose Bowl, Pasadena":geo:34.161000,-118.168000
-DESCRIPTION:Third-place match | 1994 FIFA World Cup - United States\nSweden
-  4-0 Bulgaria
-URL:https://en.wikipedia.org/wiki/1994_FIFA_World_Cup
+DESCRIPTION:1994 FIFA World Cup - United States\nThird-place match\nSweden 
+ 4-0 Bulgaria\nHT: 4-0\nFT: 4-0\nGoals:\nSWE 🇸🇪: Brolin 8'\, Mild 30'
+ \, Larsson 37'\, K.Andersson 39'
+URL:https://www.fifa.com/en/match-centre/match/17/84/3460/3103
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1994
@@ -910,9 +953,9 @@ LOCATION:Rose Bowl\, Pasadena
 GEO:34.161000;-118.168000
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Rose Bowl, Pasadena";X-APP
  LE-RADIUS=100;X-TITLE="Rose Bowl, Pasadena":geo:34.161000,-118.168000
-DESCRIPTION:Final | 1994 FIFA World Cup - United States\nBrazil 0-0 Italy\n
- FT: 0-0\nAET: 0-0\nPenalties: 3-2
-URL:https://en.wikipedia.org/wiki/1994_FIFA_World_Cup
+DESCRIPTION:1994 FIFA World Cup - United States\nFinal\nBrazil 0-0 Italy\nH
+ T: 0-0\nFT: 0-0\nAET: 0-0\nPenalties: 3-2
+URL:https://www.fifa.com/en/match-centre/match/17/84/3459/3104
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 1994

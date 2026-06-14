@@ -16,9 +16,10 @@ GEO:37.568222;126.897361
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Seoul World Cup Stadium, S
  eoul";X-APPLE-RADIUS=100;X-TITLE="Seoul World Cup Stadium, Seoul":geo:37.5
  68222,126.897361
-DESCRIPTION:Group A | Matchday 1 | 2002 FIFA World Cup - South Korea & Japa
- n\nFrance 0-1 Senegal
-URL:https://en.wikipedia.org/wiki/2002_FIFA_World_Cup
+DESCRIPTION:2002 FIFA World Cup - South Korea & Japan\nGroup A | Matchday 1
+ \nFrance 0-1 Senegal\nHT: 0-1\nFT: 0-1\nGoals:\nSEN 🇸🇳: Papa Bouba D
+ iop 30'
+URL:https://www.fifa.com/en/match-centre/match/17/4395/5928/43950001
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2002
@@ -34,9 +35,10 @@ GEO:37.882500;139.059167
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Niigata Stadium, Niigata";
  X-APPLE-RADIUS=100;X-TITLE="Niigata Stadium, Niigata":geo:37.882500,139.05
  9167
-DESCRIPTION:Group E | Matchday 1 | 2002 FIFA World Cup - South Korea & Japa
- n\nRepublic of Ireland 1-1 Cameroon
-URL:https://en.wikipedia.org/wiki/2002_FIFA_World_Cup
+DESCRIPTION:2002 FIFA World Cup - South Korea & Japan\nGroup E | Matchday 1
+ \nRepublic of Ireland 1-1 Cameroon\nHT: 0-1\nFT: 1-1\nGoals:\nIRL 🇮🇪
+ : Matt Holland 52'\nCMR 🇨🇲: Patrick Mboma 39'
+URL:https://www.fifa.com/en/match-centre/match/17/4395/5928/43950002
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2002
@@ -52,9 +54,10 @@ GEO:35.535278;129.259444
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Munsu Cup Stadium, Ulsan";
  X-APPLE-RADIUS=100;X-TITLE="Munsu Cup Stadium, Ulsan":geo:35.535278,129.25
  9444
-DESCRIPTION:Group A | Matchday 1 | 2002 FIFA World Cup - South Korea & Japa
- n\nUruguay 1-2 Denmark
-URL:https://en.wikipedia.org/wiki/2002_FIFA_World_Cup
+DESCRIPTION:2002 FIFA World Cup - South Korea & Japan\nGroup A | Matchday 1
+ \nUruguay 1-2 Denmark\nHT: 0-1\nFT: 1-2\nGoals:\nURU 🇺🇾: Darío Rodr
+ íguez 47'\nDEN 🇩🇰: Jon Dahl Tomasson 45'\, Jon Dahl Tomasson 83'
+URL:https://www.fifa.com/en/match-centre/match/17/4395/5928/43950003
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2002
@@ -69,9 +72,12 @@ LOCATION:Sapporo Dome\, Sapporo
 GEO:43.015200;141.409800
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Sapporo Dome, Sapporo";X-A
  PPLE-RADIUS=100;X-TITLE="Sapporo Dome, Sapporo":geo:43.015200,141.409800
-DESCRIPTION:Group E | Matchday 1 | 2002 FIFA World Cup - South Korea & Japa
- n\nGermany 8-0 Saudi Arabia
-URL:https://en.wikipedia.org/wiki/2002_FIFA_World_Cup
+DESCRIPTION:2002 FIFA World Cup - South Korea & Japan\nGroup E | Matchday 1
+ \nGermany 8-0 Saudi Arabia\nHT: 4-0\nFT: 8-0\nGoals:\nGER 🇩🇪: Mirosl
+ av Klose 20'\, Miroslav Klose 25'\, Miroslav Klose 70'\, Michael Ballack 4
+ 0'\, Carsten Jancker 45'\, +'\, Thomas Linke 73'\, Oliver Bierhoff 84'\, B
+ ernd Schneider 90'
+URL:https://www.fifa.com/en/match-centre/match/17/4395/5928/43950004
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2002
@@ -87,9 +93,10 @@ GEO:35.903056;139.717778
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Saitama Stadium, Saitama";
  X-APPLE-RADIUS=100;X-TITLE="Saitama Stadium, Saitama":geo:35.903056,139.71
  7778
-DESCRIPTION:Group F | Matchday 1 | 2002 FIFA World Cup - South Korea & Japa
- n\nEngland 1-1 Sweden
-URL:https://en.wikipedia.org/wiki/2002_FIFA_World_Cup
+DESCRIPTION:2002 FIFA World Cup - South Korea & Japan\nGroup F | Matchday 1
+ \nEngland 1-1 Sweden\nHT: 1-0\nFT: 1-1\nGoals:\nENG 🏴󠁧󠁢󠁥󠁮
+ 󠁧󠁿: Sol Campbell 24'\nSWE 🇸🇪: Niclas Alexandersson 59'
+URL:https://www.fifa.com/en/match-centre/match/17/4395/5928/43950005
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2002
@@ -105,9 +112,11 @@ GEO:35.190000;129.058222
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Asiad Main Stadium, Busan"
  ;X-APPLE-RADIUS=100;X-TITLE="Asiad Main Stadium, Busan":geo:35.190000,129.
  058222
-DESCRIPTION:Group B | Matchday 1 | 2002 FIFA World Cup - South Korea & Japa
- n\nParaguay 2-2 South Africa
-URL:https://en.wikipedia.org/wiki/2002_FIFA_World_Cup
+DESCRIPTION:2002 FIFA World Cup - South Korea & Japan\nGroup B | Matchday 1
+ \nParaguay 2-2 South Africa\nHT: 1-0\nFT: 2-2\nGoals:\nPAR 🇵🇾: Roque
+  Santa Cruz 39'\, Francisco Arce 55'\nRSA 🇿🇦: Teboho Mokoena 63'\, Q
+ uinton Fortune 90'
+URL:https://www.fifa.com/en/match-centre/match/17/4395/5928/43950006
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2002
@@ -123,9 +132,10 @@ GEO:35.992256;140.636293
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Kashima Soccer Stadium, Ib
  araki";X-APPLE-RADIUS=100;X-TITLE="Kashima Soccer Stadium, Ibaraki":geo:35
  .992256,140.636293
-DESCRIPTION:Group F | Matchday 1 | 2002 FIFA World Cup - South Korea & Japa
- n\nArgentina 1-0 Nigeria
-URL:https://en.wikipedia.org/wiki/2002_FIFA_World_Cup
+DESCRIPTION:2002 FIFA World Cup - South Korea & Japan\nGroup F | Matchday 1
+ \nArgentina 1-0 Nigeria\nHT: 0-0\nFT: 1-0\nGoals:\nARG 🇦🇷: Gabriel B
+ atistuta 63'
+URL:https://www.fifa.com/en/match-centre/match/17/4395/5928/43950007
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2002
@@ -141,9 +151,10 @@ GEO:35.133667;126.874861
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Gwangju World Cup Stadium,
   Gwangju";X-APPLE-RADIUS=100;X-TITLE="Gwangju World Cup Stadium, Gwangju":
  geo:35.133667,126.874861
-DESCRIPTION:Group B | Matchday 1 | 2002 FIFA World Cup - South Korea & Japa
- n\nSpain 3-1 Slovenia
-URL:https://en.wikipedia.org/wiki/2002_FIFA_World_Cup
+DESCRIPTION:2002 FIFA World Cup - South Korea & Japan\nGroup B | Matchday 1
+ \nSpain 3-1 Slovenia\nHT: 1-0\nFT: 3-1\nGoals:\nESP 🇪🇸: Raúl 44'\, 
+ Valerón 74'\, Hierro 87' pen\nSVN 🇸🇮: Sebastjan Cimirotič 82'
+URL:https://www.fifa.com/en/match-centre/match/17/4395/5928/43950008
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2002
@@ -159,9 +170,10 @@ GEO:37.882500;139.059167
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Niigata Stadium, Niigata";
  X-APPLE-RADIUS=100;X-TITLE="Niigata Stadium, Niigata":geo:37.882500,139.05
  9167
-DESCRIPTION:Group G | Matchday 1 | 2002 FIFA World Cup - South Korea & Japa
- n\nCroatia 0-1 Mexico
-URL:https://en.wikipedia.org/wiki/2002_FIFA_World_Cup
+DESCRIPTION:2002 FIFA World Cup - South Korea & Japan\nGroup G | Matchday 1
+ \nCroatia 0-1 Mexico\nHT: 0-0\nFT: 0-1\nGoals:\nMEX 🇲🇽: Cuauhtémoc 
+ Blanco 60' pen
+URL:https://www.fifa.com/en/match-centre/match/17/4395/5928/43950009
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2002
@@ -177,9 +189,10 @@ GEO:35.535278;129.259444
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Munsu Cup Stadium, Ulsan";
  X-APPLE-RADIUS=100;X-TITLE="Munsu Cup Stadium, Ulsan":geo:35.535278,129.25
  9444
-DESCRIPTION:Group C | Matchday 1 | 2002 FIFA World Cup - South Korea & Japa
- n\nBrazil 2-1 Turkey
-URL:https://en.wikipedia.org/wiki/2002_FIFA_World_Cup
+DESCRIPTION:2002 FIFA World Cup - South Korea & Japan\nGroup C | Matchday 1
+ \nBrazil 2-1 Turkey\nHT: 0-1\nFT: 2-1\nGoals:\nBRA 🇧🇷: Ronaldo 50'\,
+  Rivaldo 87' pen\nTUR 🇹🇷: Hasan Şaş 45'
+URL:https://www.fifa.com/en/match-centre/match/17/4395/5928/43950010
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2002
@@ -194,9 +207,10 @@ LOCATION:Sapporo Dome\, Sapporo
 GEO:43.015200;141.409800
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Sapporo Dome, Sapporo";X-A
  PPLE-RADIUS=100;X-TITLE="Sapporo Dome, Sapporo":geo:43.015200,141.409800
-DESCRIPTION:Group G | Matchday 1 | 2002 FIFA World Cup - South Korea & Japa
- n\nItaly 2-0 Ecuador
-URL:https://en.wikipedia.org/wiki/2002_FIFA_World_Cup
+DESCRIPTION:2002 FIFA World Cup - South Korea & Japan\nGroup G | Matchday 1
+ \nItaly 2-0 Ecuador\nHT: 2-0\nFT: 2-0\nGoals:\nITA 🇮🇹: Christian Vie
+ ri 7'\, Christian Vieri 27'
+URL:https://www.fifa.com/en/match-centre/match/17/4395/5928/43950011
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2002
@@ -212,9 +226,10 @@ GEO:35.133667;126.874861
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Gwangju World Cup Stadium,
   Gwangju";X-APPLE-RADIUS=100;X-TITLE="Gwangju World Cup Stadium, Gwangju":
  geo:35.133667,126.874861
-DESCRIPTION:Group C | Matchday 1 | 2002 FIFA World Cup - South Korea & Japa
- n\nChina 0-2 Costa Rica
-URL:https://en.wikipedia.org/wiki/2002_FIFA_World_Cup
+DESCRIPTION:2002 FIFA World Cup - South Korea & Japan\nGroup C | Matchday 1
+ \nChina 0-2 Costa Rica\nHT: 0-0\nFT: 0-2\nGoals:\nCRC 🇨🇷: Rónald G
+ ómez 61'\, Mauricio Wright 65'
+URL:https://www.fifa.com/en/match-centre/match/17/4395/5928/43950012
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2002
@@ -230,9 +245,11 @@ GEO:35.903056;139.717778
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Saitama Stadium, Saitama";
  X-APPLE-RADIUS=100;X-TITLE="Saitama Stadium, Saitama":geo:35.903056,139.71
  7778
-DESCRIPTION:Group H | Matchday 1 | 2002 FIFA World Cup - South Korea & Japa
- n\nJapan 2-2 Belgium
-URL:https://en.wikipedia.org/wiki/2002_FIFA_World_Cup
+DESCRIPTION:2002 FIFA World Cup - South Korea & Japan\nGroup H | Matchday 1
+ \nJapan 2-2 Belgium\nHT: 0-0\nFT: 2-2\nGoals:\nJPN 🇯🇵: Takayuji Suzu
+ ki 59'\, Junichi Inamoto 67'\nBEL 🇧🇪: Marc Wilmots 57'\, Peter van d
+ er Heyden 75'
+URL:https://www.fifa.com/en/match-centre/match/17/4395/5928/43950013
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2002
@@ -248,9 +265,10 @@ GEO:35.190000;129.058222
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Asiad Main Stadium, Busan"
  ;X-APPLE-RADIUS=100;X-TITLE="Asiad Main Stadium, Busan":geo:35.190000,129.
  058222
-DESCRIPTION:Group D | Matchday 1 | 2002 FIFA World Cup - South Korea & Japa
- n\nSouth Korea 2-0 Poland
-URL:https://en.wikipedia.org/wiki/2002_FIFA_World_Cup
+DESCRIPTION:2002 FIFA World Cup - South Korea & Japan\nGroup D | Matchday 1
+ \nSouth Korea 2-0 Poland\nHT: 1-0\nFT: 2-0\nGoals:\nKOR 🇰🇷: Hwang Se
+ on-Hong 26'\, Yoo Sang-Cheol 53'
+URL:https://www.fifa.com/en/match-centre/match/17/4395/5928/43950014
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2002
@@ -266,9 +284,10 @@ GEO:34.656667;135.168889
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Kobe Wing Stadium, Kobe";X
  -APPLE-RADIUS=100;X-TITLE="Kobe Wing Stadium, Kobe":geo:34.656667,135.1688
  89
-DESCRIPTION:Group H | Matchday 1 | 2002 FIFA World Cup - South Korea & Japa
- n\nRussia 2-0 Tunisia
-URL:https://en.wikipedia.org/wiki/2002_FIFA_World_Cup
+DESCRIPTION:2002 FIFA World Cup - South Korea & Japan\nGroup H | Matchday 1
+ \nRussia 2-0 Tunisia\nHT: 0-0\nFT: 2-0\nGoals:\nRUS 🇷🇺: Egor Titov 5
+ 9'\, Valery Karpin 64' pen
+URL:https://www.fifa.com/en/match-centre/match/17/4395/5928/43950015
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2002
@@ -284,9 +303,11 @@ GEO:37.286278;127.036889
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Suwon World Cup Stadium, S
  uwon";X-APPLE-RADIUS=100;X-TITLE="Suwon World Cup Stadium, Suwon":geo:37.2
  86278,127.036889
-DESCRIPTION:Group D | Matchday 1 | 2002 FIFA World Cup - South Korea & Japa
- n\nUSA 3-2 Portugal
-URL:https://en.wikipedia.org/wiki/2002_FIFA_World_Cup
+DESCRIPTION:2002 FIFA World Cup - South Korea & Japan\nGroup D | Matchday 1
+ \nUSA 3-2 Portugal\nHT: 3-1\nFT: 3-2\nGoals:\nUSA 🇺🇸: John O'Brien 4
+ '\, Jorge Costa 29' og\, Brian McBride 36'\nPOR 🇵🇹: Beto 39'\, Jeff 
+ Agoos 71' og
+URL:https://www.fifa.com/en/match-centre/match/17/4395/5928/43950016
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2002
@@ -302,9 +323,10 @@ GEO:35.992256;140.636293
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Kashima Soccer Stadium, Ib
  araki";X-APPLE-RADIUS=100;X-TITLE="Kashima Soccer Stadium, Ibaraki":geo:35
  .992256,140.636293
-DESCRIPTION:Group E | Matchday 1 | 2002 FIFA World Cup - South Korea & Japa
- n\nGermany 1-1 Republic of Ireland
-URL:https://en.wikipedia.org/wiki/2002_FIFA_World_Cup
+DESCRIPTION:2002 FIFA World Cup - South Korea & Japan\nGroup E | Matchday 1
+ \nGermany 1-1 Republic of Ireland\nHT: 1-0\nFT: 1-1\nGoals:\nGER 🇩🇪:
+  Miroslav Klose 19'\nIRL 🇮🇪: Robbie Keane 90'
+URL:https://www.fifa.com/en/match-centre/match/17/4395/5928/43950017
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2002
@@ -320,9 +342,9 @@ GEO:35.190000;129.058222
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Asiad Main Stadium, Busan"
  ;X-APPLE-RADIUS=100;X-TITLE="Asiad Main Stadium, Busan":geo:35.190000,129.
  058222
-DESCRIPTION:Group A | Matchday 2 | 2002 FIFA World Cup - South Korea & Japa
- n\nFrance 0-0 Uruguay
-URL:https://en.wikipedia.org/wiki/2002_FIFA_World_Cup
+DESCRIPTION:2002 FIFA World Cup - South Korea & Japan\nGroup A | Matchday 2
+ \nFrance 0-0 Uruguay\nHT: 0-0\nFT: 0-0
+URL:https://www.fifa.com/en/match-centre/match/17/4395/5928/43950018
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2002
@@ -338,9 +360,10 @@ GEO:35.903056;139.717778
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Saitama Stadium, Saitama";
  X-APPLE-RADIUS=100;X-TITLE="Saitama Stadium, Saitama":geo:35.903056,139.71
  7778
-DESCRIPTION:Group E | Matchday 2 | 2002 FIFA World Cup - South Korea & Japa
- n\nCameroon 1-0 Saudi Arabia
-URL:https://en.wikipedia.org/wiki/2002_FIFA_World_Cup
+DESCRIPTION:2002 FIFA World Cup - South Korea & Japan\nGroup E | Matchday 2
+ \nCameroon 1-0 Saudi Arabia\nHT: 0-0\nFT: 1-0\nGoals:\nCMR 🇨🇲: Samue
+ l Eto'o 66'
+URL:https://www.fifa.com/en/match-centre/match/17/4395/5928/43950019
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2002
@@ -356,9 +379,10 @@ GEO:35.829722;128.690278
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Daegu World Cup Stadium, D
  aegu";X-APPLE-RADIUS=100;X-TITLE="Daegu World Cup Stadium, Daegu":geo:35.8
  29722,128.690278
-DESCRIPTION:Group A | Matchday 2 | 2002 FIFA World Cup - South Korea & Japa
- n\nDenmark 1-1 Senegal
-URL:https://en.wikipedia.org/wiki/2002_FIFA_World_Cup
+DESCRIPTION:2002 FIFA World Cup - South Korea & Japan\nGroup A | Matchday 2
+ \nDenmark 1-1 Senegal\nHT: 1-0\nFT: 1-1\nGoals:\nDEN 🇩🇰: Jon Dahl To
+ masson 16' pen\nSEN 🇸🇳: Salif Diao 52'
+URL:https://www.fifa.com/en/match-centre/match/17/4395/5928/43950020
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2002
@@ -374,9 +398,10 @@ GEO:34.656667;135.168889
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Kobe Wing Stadium, Kobe";X
  -APPLE-RADIUS=100;X-TITLE="Kobe Wing Stadium, Kobe":geo:34.656667,135.1688
  89
-DESCRIPTION:Group F | Matchday 2 | 2002 FIFA World Cup - South Korea & Japa
- n\nSweden 2-1 Nigeria
-URL:https://en.wikipedia.org/wiki/2002_FIFA_World_Cup
+DESCRIPTION:2002 FIFA World Cup - South Korea & Japan\nGroup F | Matchday 2
+ \nSweden 2-1 Nigeria\nHT: 1-1\nFT: 2-1\nGoals:\nSWE 🇸🇪: Henrik Larss
+ on 35'\, Henrik Larsson 63' pen\nNGA 🇳🇬: Julius Aghahowa 27'
+URL:https://www.fifa.com/en/match-centre/match/17/4395/5928/43950021
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2002
@@ -392,9 +417,10 @@ GEO:35.868209;127.064551
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Jeonju World Cup Stadium, 
  Jeonju";X-APPLE-RADIUS=100;X-TITLE="Jeonju World Cup Stadium, Jeonju":geo:
  35.868209,127.064551
-DESCRIPTION:Group B | Matchday 2 | 2002 FIFA World Cup - South Korea & Japa
- n\nSpain 3-1 Paraguay
-URL:https://en.wikipedia.org/wiki/2002_FIFA_World_Cup
+DESCRIPTION:2002 FIFA World Cup - South Korea & Japan\nGroup B | Matchday 2
+ \nSpain 3-1 Paraguay\nHT: 0-1\nFT: 3-1\nGoals:\nESP 🇪🇸: Morientes 53
+ '\, Morientes 69'\, Hierro 83' pen\nPAR 🇵🇾: Puyol 10' og
+URL:https://www.fifa.com/en/match-centre/match/17/4395/5928/43950022
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2002
@@ -409,9 +435,10 @@ LOCATION:Sapporo Dome\, Sapporo
 GEO:43.015200;141.409800
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Sapporo Dome, Sapporo";X-A
  PPLE-RADIUS=100;X-TITLE="Sapporo Dome, Sapporo":geo:43.015200,141.409800
-DESCRIPTION:Group F | Matchday 2 | 2002 FIFA World Cup - South Korea & Japa
- n\nArgentina 0-1 England
-URL:https://en.wikipedia.org/wiki/2002_FIFA_World_Cup
+DESCRIPTION:2002 FIFA World Cup - South Korea & Japan\nGroup F | Matchday 2
+ \nArgentina 0-1 England\nHT: 0-1\nFT: 0-1\nGoals:\nENG 🏴󠁧󠁢󠁥
+ 󠁮󠁧󠁿: David Beckham 44' pen
+URL:https://www.fifa.com/en/match-centre/match/17/4395/5928/43950023
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2002
@@ -427,9 +454,10 @@ GEO:35.829722;128.690278
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Daegu World Cup Stadium, D
  aegu";X-APPLE-RADIUS=100;X-TITLE="Daegu World Cup Stadium, Daegu":geo:35.8
  29722,128.690278
-DESCRIPTION:Group B | Matchday 2 | 2002 FIFA World Cup - South Korea & Japa
- n\nSouth Africa 1-0 Slovenia
-URL:https://en.wikipedia.org/wiki/2002_FIFA_World_Cup
+DESCRIPTION:2002 FIFA World Cup - South Korea & Japan\nGroup B | Matchday 2
+ \nSouth Africa 1-0 Slovenia\nHT: 1-0\nFT: 1-0\nGoals:\nRSA 🇿🇦: Siyab
+ onga Nomvete 4'
+URL:https://www.fifa.com/en/match-centre/match/17/4395/5928/43950024
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2002
@@ -445,9 +473,10 @@ GEO:35.992256;140.636293
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Kashima Soccer Stadium, Ib
  araki";X-APPLE-RADIUS=100;X-TITLE="Kashima Soccer Stadium, Ibaraki":geo:35
  .992256,140.636293
-DESCRIPTION:Group G | Matchday 2 | 2002 FIFA World Cup - South Korea & Japa
- n\nItaly 1-2 Croatia
-URL:https://en.wikipedia.org/wiki/2002_FIFA_World_Cup
+DESCRIPTION:2002 FIFA World Cup - South Korea & Japan\nGroup G | Matchday 2
+ \nItaly 1-2 Croatia\nHT: 0-0\nFT: 1-2\nGoals:\nITA 🇮🇹: Christian Vie
+ ri 55'\nCRO 🇭🇷: Ivica Olić 73'\, Milan Rapaić 76'
+URL:https://www.fifa.com/en/match-centre/match/17/4395/5928/43950025
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2002
@@ -463,9 +492,10 @@ GEO:33.246139;126.509206
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Jeju World Cup Stadium, Je
  ju";X-APPLE-RADIUS=100;X-TITLE="Jeju World Cup Stadium, Jeju":geo:33.24613
  9,126.509206
-DESCRIPTION:Group C | Matchday 2 | 2002 FIFA World Cup - South Korea & Japa
- n\nBrazil 4-0 China
-URL:https://en.wikipedia.org/wiki/2002_FIFA_World_Cup
+DESCRIPTION:2002 FIFA World Cup - South Korea & Japan\nGroup C | Matchday 2
+ \nBrazil 4-0 China\nHT: 3-0\nFT: 4-0\nGoals:\nBRA 🇧🇷: Roberto Carlos
+  15'\, Rivaldo 32'\, Ronaldinho Gaúcho 45' pen\, Ronaldo 55'
+URL:https://www.fifa.com/en/match-centre/match/17/4395/5928/43950026
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2002
@@ -480,9 +510,10 @@ LOCATION:Miyagi Stadium\, Miyagi
 GEO:38.335400;140.950400
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Miyagi Stadium, Miyagi";X-
  APPLE-RADIUS=100;X-TITLE="Miyagi Stadium, Miyagi":geo:38.335400,140.950400
-DESCRIPTION:Group G | Matchday 2 | 2002 FIFA World Cup - South Korea & Japa
- n\nMexico 2-1 Ecuador
-URL:https://en.wikipedia.org/wiki/2002_FIFA_World_Cup
+DESCRIPTION:2002 FIFA World Cup - South Korea & Japan\nGroup G | Matchday 2
+ \nMexico 2-1 Ecuador\nHT: 1-1\nFT: 2-1\nGoals:\nMEX 🇲🇽: Jared Borget
+ ti 28'\, Gerardo Torrado 57'\nECU 🇪🇨: Agustín Delgado 5'
+URL:https://www.fifa.com/en/match-centre/match/17/4395/5928/43950027
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2002
@@ -498,9 +529,10 @@ GEO:37.435077;126.690752
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Incheon Munhak Stadium, In
  cheon";X-APPLE-RADIUS=100;X-TITLE="Incheon Munhak Stadium, Incheon":geo:37
  .435077,126.690752
-DESCRIPTION:Group C | Matchday 2 | 2002 FIFA World Cup - South Korea & Japa
- n\nCosta Rica 1-1 Turkey
-URL:https://en.wikipedia.org/wiki/2002_FIFA_World_Cup
+DESCRIPTION:2002 FIFA World Cup - South Korea & Japan\nGroup C | Matchday 2
+ \nCosta Rica 1-1 Turkey\nHT: 0-0\nFT: 1-1\nGoals:\nCRC 🇨🇷: Winston P
+ arks 86'\nTUR 🇹🇷: Emre Belözoğlu 56'
+URL:https://www.fifa.com/en/match-centre/match/17/4395/5928/43950028
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2002
@@ -516,9 +548,10 @@ GEO:35.510000;139.606389
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="International Stadium Yoko
  hama, Yokohama";X-APPLE-RADIUS=100;X-TITLE="International Stadium Yokohama
  , Yokohama":geo:35.510000,139.606389
-DESCRIPTION:Group H | Matchday 2 | 2002 FIFA World Cup - South Korea & Japa
- n\nJapan 1-0 Russia
-URL:https://en.wikipedia.org/wiki/2002_FIFA_World_Cup
+DESCRIPTION:2002 FIFA World Cup - South Korea & Japan\nGroup H | Matchday 2
+ \nJapan 1-0 Russia\nHT: 0-0\nFT: 1-0\nGoals:\nJPN 🇯🇵: Junichi Inamot
+ o 51'
+URL:https://www.fifa.com/en/match-centre/match/17/4395/5928/43950029
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2002
@@ -534,9 +567,10 @@ GEO:35.829722;128.690278
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Daegu World Cup Stadium, D
  aegu";X-APPLE-RADIUS=100;X-TITLE="Daegu World Cup Stadium, Daegu":geo:35.8
  29722,128.690278
-DESCRIPTION:Group D | Matchday 2 | 2002 FIFA World Cup - South Korea & Japa
- n\nSouth Korea 1-1 USA
-URL:https://en.wikipedia.org/wiki/2002_FIFA_World_Cup
+DESCRIPTION:2002 FIFA World Cup - South Korea & Japan\nGroup D | Matchday 2
+ \nSouth Korea 1-1 USA\nHT: 0-1\nFT: 1-1\nGoals:\nKOR 🇰🇷: Ahn Jung-Hw
+ an 78'\nUSA 🇺🇸: Clint Mathis 24'
+URL:https://www.fifa.com/en/match-centre/match/17/4395/5928/43950030
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2002
@@ -551,9 +585,10 @@ LOCATION:Ōita Stadium\, Ōita
 GEO:33.200556;131.657500
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Ōita Stadium, Ōita";X-AP
  PLE-RADIUS=100;X-TITLE="Ōita Stadium, Ōita":geo:33.200556,131.657500
-DESCRIPTION:Group H | Matchday 2 | 2002 FIFA World Cup - South Korea & Japa
- n\nTunisia 1-1 Belgium
-URL:https://en.wikipedia.org/wiki/2002_FIFA_World_Cup
+DESCRIPTION:2002 FIFA World Cup - South Korea & Japan\nGroup H | Matchday 2
+ \nTunisia 1-1 Belgium\nHT: 1-1\nFT: 1-1\nGoals:\nTUN 🇹🇳: Raouf Bouza
+ iène 17'\nBEL 🇧🇪: Marc Wilmots 13'
+URL:https://www.fifa.com/en/match-centre/match/17/4395/5928/43950031
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2002
@@ -569,9 +604,10 @@ GEO:35.868209;127.064551
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Jeonju World Cup Stadium, 
  Jeonju";X-APPLE-RADIUS=100;X-TITLE="Jeonju World Cup Stadium, Jeonju":geo:
  35.868209,127.064551
-DESCRIPTION:Group D | Matchday 2 | 2002 FIFA World Cup - South Korea & Japa
- n\nPortugal 4-0 Poland
-URL:https://en.wikipedia.org/wiki/2002_FIFA_World_Cup
+DESCRIPTION:2002 FIFA World Cup - South Korea & Japan\nGroup D | Matchday 2
+ \nPortugal 4-0 Poland\nHT: 1-0\nFT: 4-0\nGoals:\nPOR 🇵🇹: Pauleta 14'
+ \, Pauleta 65'\, Pauleta 77'\, Rui Costa 88'
+URL:https://www.fifa.com/en/match-centre/match/17/4395/5928/43950032
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2002
@@ -587,9 +623,10 @@ GEO:37.435077;126.690752
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Incheon Munhak Stadium, In
  cheon";X-APPLE-RADIUS=100;X-TITLE="Incheon Munhak Stadium, Incheon":geo:37
  .435077,126.690752
-DESCRIPTION:Group A | Matchday 3 | 2002 FIFA World Cup - South Korea & Japa
- n\nDenmark 2-0 France
-URL:https://en.wikipedia.org/wiki/2002_FIFA_World_Cup
+DESCRIPTION:2002 FIFA World Cup - South Korea & Japan\nGroup A | Matchday 3
+ \nDenmark 2-0 France\nHT: 1-0\nFT: 2-0\nGoals:\nDEN 🇩🇰: Dennis Romme
+ dahl 22'\, Jon Dahl Tomasson 67'
+URL:https://www.fifa.com/en/match-centre/match/17/4395/5928/43950033
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2002
@@ -605,9 +642,11 @@ GEO:37.286278;127.036889
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Suwon World Cup Stadium, S
  uwon";X-APPLE-RADIUS=100;X-TITLE="Suwon World Cup Stadium, Suwon":geo:37.2
  86278,127.036889
-DESCRIPTION:Group A | Matchday 3 | 2002 FIFA World Cup - South Korea & Japa
- n\nSenegal 3-3 Uruguay
-URL:https://en.wikipedia.org/wiki/2002_FIFA_World_Cup
+DESCRIPTION:2002 FIFA World Cup - South Korea & Japan\nGroup A | Matchday 3
+ \nSenegal 3-3 Uruguay\nHT: 3-0\nFT: 3-3\nGoals:\nSEN 🇸🇳: Khalilou Fa
+ diga 20' pen\, Papa Bouba Diop 26'\, Papa Bouba Diop 38'\nURU 🇺🇾: Ri
+ chard Morales 46'\, Diego Forlán 69'\, Álvaro Recoba 88' pen
+URL:https://www.fifa.com/en/match-centre/match/17/4395/5928/43950034
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2002
@@ -623,9 +662,10 @@ GEO:34.743333;137.970556
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Shizuoka Stadium, Shizuoka
  ";X-APPLE-RADIUS=100;X-TITLE="Shizuoka Stadium, Shizuoka":geo:34.743333,13
  7.970556
-DESCRIPTION:Group E | Matchday 3 | 2002 FIFA World Cup - South Korea & Japa
- n\nCameroon 0-2 Germany
-URL:https://en.wikipedia.org/wiki/2002_FIFA_World_Cup
+DESCRIPTION:2002 FIFA World Cup - South Korea & Japan\nGroup E | Matchday 3
+ \nCameroon 0-2 Germany\nHT: 0-0\nFT: 0-2\nGoals:\nGER 🇩🇪: Marco Bode
+  50'\, Miroslav Klose 79'
+URL:https://www.fifa.com/en/match-centre/match/17/4395/5928/43950035
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2002
@@ -641,9 +681,10 @@ GEO:35.510000;139.606389
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="International Stadium Yoko
  hama, Yokohama";X-APPLE-RADIUS=100;X-TITLE="International Stadium Yokohama
  , Yokohama":geo:35.510000,139.606389
-DESCRIPTION:Group E | Matchday 3 | 2002 FIFA World Cup - South Korea & Japa
- n\nSaudi Arabia 0-3 Republic of Ireland
-URL:https://en.wikipedia.org/wiki/2002_FIFA_World_Cup
+DESCRIPTION:2002 FIFA World Cup - South Korea & Japan\nGroup E | Matchday 3
+ \nSaudi Arabia 0-3 Republic of Ireland\nHT: 0-1\nFT: 0-3\nGoals:\nIRL 🇮
+ 🇪: Robbie Keane 7'\, Gary Breen 61'\, Damien Duff 87'
+URL:https://www.fifa.com/en/match-centre/match/17/4395/5928/43950036
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2002
@@ -658,9 +699,10 @@ LOCATION:Miyagi Stadium\, Miyagi
 GEO:38.335400;140.950400
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Miyagi Stadium, Miyagi";X-
  APPLE-RADIUS=100;X-TITLE="Miyagi Stadium, Miyagi":geo:38.335400,140.950400
-DESCRIPTION:Group F | Matchday 3 | 2002 FIFA World Cup - South Korea & Japa
- n\nSweden 1-1 Argentina
-URL:https://en.wikipedia.org/wiki/2002_FIFA_World_Cup
+DESCRIPTION:2002 FIFA World Cup - South Korea & Japan\nGroup F | Matchday 3
+ \nSweden 1-1 Argentina\nHT: 0-0\nFT: 1-1\nGoals:\nSWE 🇸🇪: Anders Sve
+ nsson 59'\nARG 🇦🇷: Hernán Crespo 88'
+URL:https://www.fifa.com/en/match-centre/match/17/4395/5928/43950037
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2002
@@ -675,9 +717,9 @@ LOCATION:Nagai Stadium\, Osaka
 GEO:34.614119;135.518450
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Nagai Stadium, Osaka";X-AP
  PLE-RADIUS=100;X-TITLE="Nagai Stadium, Osaka":geo:34.614119,135.518450
-DESCRIPTION:Group F | Matchday 3 | 2002 FIFA World Cup - South Korea & Japa
- n\nNigeria 0-0 England
-URL:https://en.wikipedia.org/wiki/2002_FIFA_World_Cup
+DESCRIPTION:2002 FIFA World Cup - South Korea & Japan\nGroup F | Matchday 3
+ \nNigeria 0-0 England\nHT: 0-0\nFT: 0-0
+URL:https://www.fifa.com/en/match-centre/match/17/4395/5928/43950038
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2002
@@ -693,9 +735,11 @@ GEO:36.365139;127.325167
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Daejeon World Cup Stadium,
   Daejeon";X-APPLE-RADIUS=100;X-TITLE="Daejeon World Cup Stadium, Daejeon":
  geo:36.365139,127.325167
-DESCRIPTION:Group B | Matchday 3 | 2002 FIFA World Cup - South Korea & Japa
- n\nSouth Africa 2-3 Spain
-URL:https://en.wikipedia.org/wiki/2002_FIFA_World_Cup
+DESCRIPTION:2002 FIFA World Cup - South Korea & Japan\nGroup B | Matchday 3
+ \nSouth Africa 2-3 Spain\nHT: 1-2\nFT: 2-3\nGoals:\nRSA 🇿🇦: Benedict
+  McCarthy 31'\, Lucas Radebe 53'\nESP 🇪🇸: Raúl 4'\, Raúl 56'\, Men
+ dieta 45'
+URL:https://www.fifa.com/en/match-centre/match/17/4395/5928/43950039
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2002
@@ -711,9 +755,11 @@ GEO:33.246139;126.509206
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Jeju World Cup Stadium, Je
  ju";X-APPLE-RADIUS=100;X-TITLE="Jeju World Cup Stadium, Jeju":geo:33.24613
  9,126.509206
-DESCRIPTION:Group B | Matchday 3 | 2002 FIFA World Cup - South Korea & Japa
- n\nSlovenia 1-3 Paraguay
-URL:https://en.wikipedia.org/wiki/2002_FIFA_World_Cup
+DESCRIPTION:2002 FIFA World Cup - South Korea & Japan\nGroup B | Matchday 3
+ \nSlovenia 1-3 Paraguay\nHT: 1-0\nFT: 1-3\nGoals:\nSVN 🇸🇮: Milenko A
+ čimovič 45'\nPAR 🇵🇾: Nelson Cuevas 65'\, Nelson Cuevas 84'\, Jorge
+  Campos 73'
+URL:https://www.fifa.com/en/match-centre/match/17/4395/5928/43950040
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2002
@@ -729,9 +775,11 @@ GEO:37.286278;127.036889
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Suwon World Cup Stadium, S
  uwon";X-APPLE-RADIUS=100;X-TITLE="Suwon World Cup Stadium, Suwon":geo:37.2
  86278,127.036889
-DESCRIPTION:Group C | Matchday 3 | 2002 FIFA World Cup - South Korea & Japa
- n\nCosta Rica 2-5 Brazil
-URL:https://en.wikipedia.org/wiki/2002_FIFA_World_Cup
+DESCRIPTION:2002 FIFA World Cup - South Korea & Japan\nGroup C | Matchday 3
+ \nCosta Rica 2-5 Brazil\nHT: 1-3\nFT: 2-5\nGoals:\nCRC 🇨🇷: Paulo Wan
+ chope 39'\, Rónald Gómez 56'\nBRA 🇧🇷: Ronaldo 10'\, Ronaldo 13'\, 
+ Edmílson 38'\, Rivaldo 62'\, Júnior 64'
+URL:https://www.fifa.com/en/match-centre/match/17/4395/5928/43950041
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2002
@@ -747,9 +795,10 @@ GEO:37.568222;126.897361
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Seoul World Cup Stadium, S
  eoul";X-APPLE-RADIUS=100;X-TITLE="Seoul World Cup Stadium, Seoul":geo:37.5
  68222,126.897361
-DESCRIPTION:Group C | Matchday 3 | 2002 FIFA World Cup - South Korea & Japa
- n\nTurkey 3-0 China
-URL:https://en.wikipedia.org/wiki/2002_FIFA_World_Cup
+DESCRIPTION:2002 FIFA World Cup - South Korea & Japan\nGroup C | Matchday 3
+ \nTurkey 3-0 China\nHT: 2-0\nFT: 3-0\nGoals:\nTUR 🇹🇷: Hasan Şaş 6'
+ \, Bülent Korkmaz 9'\, Ümit Davala 85'
+URL:https://www.fifa.com/en/match-centre/match/17/4395/5928/43950042
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2002
@@ -764,9 +813,10 @@ LOCATION:Ōita Stadium\, Ōita
 GEO:33.200556;131.657500
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Ōita Stadium, Ōita";X-AP
  PLE-RADIUS=100;X-TITLE="Ōita Stadium, Ōita":geo:33.200556,131.657500
-DESCRIPTION:Group G | Matchday 3 | 2002 FIFA World Cup - South Korea & Japa
- n\nMexico 1-1 Italy
-URL:https://en.wikipedia.org/wiki/2002_FIFA_World_Cup
+DESCRIPTION:2002 FIFA World Cup - South Korea & Japan\nGroup G | Matchday 3
+ \nMexico 1-1 Italy\nHT: 1-0\nFT: 1-1\nGoals:\nMEX 🇲🇽: Jared Borgetti
+  34'\nITA 🇮🇹: Alessandro Del Piero 85'
+URL:https://www.fifa.com/en/match-centre/match/17/4395/5928/43950043
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2002
@@ -782,9 +832,10 @@ GEO:35.510000;139.606389
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="International Stadium Yoko
  hama, Yokohama";X-APPLE-RADIUS=100;X-TITLE="International Stadium Yokohama
  , Yokohama":geo:35.510000,139.606389
-DESCRIPTION:Group G | Matchday 3 | 2002 FIFA World Cup - South Korea & Japa
- n\nEcuador 1-0 Croatia
-URL:https://en.wikipedia.org/wiki/2002_FIFA_World_Cup
+DESCRIPTION:2002 FIFA World Cup - South Korea & Japan\nGroup G | Matchday 3
+ \nEcuador 1-0 Croatia\nHT: 0-0\nFT: 1-0\nGoals:\nECU 🇪🇨: Edison Mén
+ dez 48'
+URL:https://www.fifa.com/en/match-centre/match/17/4395/5928/43950044
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2002
@@ -799,9 +850,10 @@ LOCATION:Nagai Stadium\, Osaka
 GEO:34.614119;135.518450
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Nagai Stadium, Osaka";X-AP
  PLE-RADIUS=100;X-TITLE="Nagai Stadium, Osaka":geo:34.614119,135.518450
-DESCRIPTION:Group H | Matchday 3 | 2002 FIFA World Cup - South Korea & Japa
- n\nTunisia 0-2 Japan
-URL:https://en.wikipedia.org/wiki/2002_FIFA_World_Cup
+DESCRIPTION:2002 FIFA World Cup - South Korea & Japan\nGroup H | Matchday 3
+ \nTunisia 0-2 Japan\nHT: 0-0\nFT: 0-2\nGoals:\nJPN 🇯🇵: Hiroaki Moris
+ hima 48'\, Hidetoshi Nakata 75'
+URL:https://www.fifa.com/en/match-centre/match/17/4395/5928/43950045
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2002
@@ -817,9 +869,11 @@ GEO:34.743333;137.970556
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Shizuoka Stadium, Shizuoka
  ";X-APPLE-RADIUS=100;X-TITLE="Shizuoka Stadium, Shizuoka":geo:34.743333,13
  7.970556
-DESCRIPTION:Group H | Matchday 3 | 2002 FIFA World Cup - South Korea & Japa
- n\nBelgium 3-2 Russia
-URL:https://en.wikipedia.org/wiki/2002_FIFA_World_Cup
+DESCRIPTION:2002 FIFA World Cup - South Korea & Japan\nGroup H | Matchday 3
+ \nBelgium 3-2 Russia\nHT: 1-0\nFT: 3-2\nGoals:\nBEL 🇧🇪: Johan Walem 
+ 7'\, Wesley Sonck 78'\, Marc Wilmots 82'\nRUS 🇷🇺: Vladimir Beschastn
+ ykh 52'\, Dmitri Sychev 88'
+URL:https://www.fifa.com/en/match-centre/match/17/4395/5928/43950046
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2002
@@ -835,9 +889,10 @@ GEO:37.435077;126.690752
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Incheon Munhak Stadium, In
  cheon";X-APPLE-RADIUS=100;X-TITLE="Incheon Munhak Stadium, Incheon":geo:37
  .435077,126.690752
-DESCRIPTION:Group D | Matchday 3 | 2002 FIFA World Cup - South Korea & Japa
- n\nPortugal 0-1 South Korea
-URL:https://en.wikipedia.org/wiki/2002_FIFA_World_Cup
+DESCRIPTION:2002 FIFA World Cup - South Korea & Japan\nGroup D | Matchday 3
+ \nPortugal 0-1 South Korea\nHT: 0-0\nFT: 0-1\nGoals:\nKOR 🇰🇷: Park J
+ i-Sung 70'
+URL:https://www.fifa.com/en/match-centre/match/17/4395/5928/43950047
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2002
@@ -853,9 +908,11 @@ GEO:36.365139;127.325167
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Daejeon World Cup Stadium,
   Daejeon";X-APPLE-RADIUS=100;X-TITLE="Daejeon World Cup Stadium, Daejeon":
  geo:36.365139,127.325167
-DESCRIPTION:Group D | Matchday 3 | 2002 FIFA World Cup - South Korea & Japa
- n\nPoland 3-1 USA
-URL:https://en.wikipedia.org/wiki/2002_FIFA_World_Cup
+DESCRIPTION:2002 FIFA World Cup - South Korea & Japan\nGroup D | Matchday 3
+ \nPoland 3-1 USA\nHT: 2-0\nFT: 3-1\nGoals:\nPOL 🇵🇱: Emmanuel Olisade
+ be 3'\, Paweł Kryszałowicz 5'\, Marcin Żewłakow 66'\nUSA 🇺🇸: Lan
+ don Donovan 83'
+URL:https://www.fifa.com/en/match-centre/match/17/4395/5928/43950048
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2002
@@ -871,9 +928,9 @@ GEO:33.246139;126.509206
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Jeju World Cup Stadium, Je
  ju";X-APPLE-RADIUS=100;X-TITLE="Jeju World Cup Stadium, Jeju":geo:33.24613
  9,126.509206
-DESCRIPTION:Round of 16 | 2002 FIFA World Cup - South Korea & Japan\nGerman
- y 1-0 Paraguay
-URL:https://en.wikipedia.org/wiki/2002_FIFA_World_Cup
+DESCRIPTION:2002 FIFA World Cup - South Korea & Japan\nRound of 16\nGermany
+  1-0 Paraguay\nHT: 0-0\nFT: 1-0\nGoals:\nGER 🇩🇪: Oliver Neuville 88'
+URL:https://www.fifa.com/en/match-centre/match/17/4395/5941/43950049
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2002
@@ -889,9 +946,10 @@ GEO:37.882500;139.059167
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Niigata Stadium, Niigata";
  X-APPLE-RADIUS=100;X-TITLE="Niigata Stadium, Niigata":geo:37.882500,139.05
  9167
-DESCRIPTION:Round of 16 | 2002 FIFA World Cup - South Korea & Japan\nDenmar
- k 0-3 England
-URL:https://en.wikipedia.org/wiki/2002_FIFA_World_Cup
+DESCRIPTION:2002 FIFA World Cup - South Korea & Japan\nRound of 16\nDenmark
+  0-3 England\nHT: 0-3\nFT: 0-3\nGoals:\nENG 🏴󠁧󠁢󠁥󠁮󠁧󠁿: 
+ Rio Ferdinand 5'\, Michael Owen 22'\, Emile Heskey 44'
+URL:https://www.fifa.com/en/match-centre/match/17/4395/5941/43950050
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2002
@@ -906,9 +964,10 @@ LOCATION:Ōita Stadium\, Ōita
 GEO:33.200556;131.657500
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Ōita Stadium, Ōita";X-AP
  PLE-RADIUS=100;X-TITLE="Ōita Stadium, Ōita":geo:33.200556,131.657500
-DESCRIPTION:Round of 16 | 2002 FIFA World Cup - South Korea & Japan\nSweden
-  1-2 Senegal\nFT: 1-1\nAET: 1-2
-URL:https://en.wikipedia.org/wiki/2002_FIFA_World_Cup
+DESCRIPTION:2002 FIFA World Cup - South Korea & Japan\nRound of 16\nSweden 
+ 1-2 Senegal\nHT: 1-1\nFT: 1-1\nAET: 1-2\nGoals:\nSWE 🇸🇪: Henrik Lars
+ son 11'\nSEN 🇸🇳: Henri Camara 37'\, Henri Camara 104'
+URL:https://www.fifa.com/en/match-centre/match/17/4395/5941/43950051
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2002
@@ -924,9 +983,10 @@ GEO:37.286278;127.036889
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Suwon World Cup Stadium, S
  uwon";X-APPLE-RADIUS=100;X-TITLE="Suwon World Cup Stadium, Suwon":geo:37.2
  86278,127.036889
-DESCRIPTION:Round of 16 | 2002 FIFA World Cup - South Korea & Japan\nSpain 
- 1-1 Republic of Ireland\nFT: 1-1\nAET: 1-1\nPenalties: 3-2
-URL:https://en.wikipedia.org/wiki/2002_FIFA_World_Cup
+DESCRIPTION:2002 FIFA World Cup - South Korea & Japan\nRound of 16\nSpain 1
+ -1 Republic of Ireland\nHT: 1-0\nFT: 1-1\nAET: 1-1\nPenalties: 3-2\nGoals:
+ \nESP 🇪🇸: Fernando Morientes 8'\nIRL 🇮🇪: Robbie Keane 90' pen
+URL:https://www.fifa.com/en/match-centre/match/17/4395/5941/43950052
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2002
@@ -942,9 +1002,10 @@ GEO:35.868209;127.064551
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Jeonju World Cup Stadium, 
  Jeonju";X-APPLE-RADIUS=100;X-TITLE="Jeonju World Cup Stadium, Jeonju":geo:
  35.868209,127.064551
-DESCRIPTION:Round of 16 | 2002 FIFA World Cup - South Korea & Japan\nMexico
-  0-2 USA
-URL:https://en.wikipedia.org/wiki/2002_FIFA_World_Cup
+DESCRIPTION:2002 FIFA World Cup - South Korea & Japan\nRound of 16\nMexico 
+ 0-2 USA\nHT: 0-1\nFT: 0-2\nGoals:\nUSA 🇺🇸: Brian McBride 8'\, Landon
+  Donovan 65'
+URL:https://www.fifa.com/en/match-centre/match/17/4395/5941/43950053
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2002
@@ -960,9 +1021,10 @@ GEO:34.656667;135.168889
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Kobe Wing Stadium, Kobe";X
  -APPLE-RADIUS=100;X-TITLE="Kobe Wing Stadium, Kobe":geo:34.656667,135.1688
  89
-DESCRIPTION:Round of 16 | 2002 FIFA World Cup - South Korea & Japan\nBrazil
-  2-0 Belgium
-URL:https://en.wikipedia.org/wiki/2002_FIFA_World_Cup
+DESCRIPTION:2002 FIFA World Cup - South Korea & Japan\nRound of 16\nBrazil 
+ 2-0 Belgium\nHT: 0-0\nFT: 2-0\nGoals:\nBRA 🇧🇷: Rivaldo 67'\, Ronaldo
+  87'
+URL:https://www.fifa.com/en/match-centre/match/17/4395/5941/43950054
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2002
@@ -977,9 +1039,9 @@ LOCATION:Miyagi Stadium\, Miyagi
 GEO:38.335400;140.950400
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Miyagi Stadium, Miyagi";X-
  APPLE-RADIUS=100;X-TITLE="Miyagi Stadium, Miyagi":geo:38.335400,140.950400
-DESCRIPTION:Round of 16 | 2002 FIFA World Cup - South Korea & Japan\nJapan 
- 0-1 Turkey
-URL:https://en.wikipedia.org/wiki/2002_FIFA_World_Cup
+DESCRIPTION:2002 FIFA World Cup - South Korea & Japan\nRound of 16\nJapan 0
+ -1 Turkey\nHT: 0-1\nFT: 0-1\nGoals:\nTUR 🇹🇷: Ümit Davala 12'
+URL:https://www.fifa.com/en/match-centre/match/17/4395/5941/43950055
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2002
@@ -995,9 +1057,10 @@ GEO:36.365139;127.325167
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Daejeon World Cup Stadium,
   Daejeon";X-APPLE-RADIUS=100;X-TITLE="Daejeon World Cup Stadium, Daejeon":
  geo:36.365139,127.325167
-DESCRIPTION:Round of 16 | 2002 FIFA World Cup - South Korea & Japan\nSouth 
- Korea 2-1 Italy\nFT: 1-1\nAET: 2-1
-URL:https://en.wikipedia.org/wiki/2002_FIFA_World_Cup
+DESCRIPTION:2002 FIFA World Cup - South Korea & Japan\nRound of 16\nSouth K
+ orea 2-1 Italy\nHT: 0-1\nFT: 1-1\nAET: 2-1\nGoals:\nKOR 🇰🇷: Seol Ki-
+ Hyun 88'\, Ahn Jung-Hwan 117'\nITA 🇮🇹: Christian Vieri 18'
+URL:https://www.fifa.com/en/match-centre/match/17/4395/5941/43950056
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2002
@@ -1013,9 +1076,11 @@ GEO:34.743333;137.970556
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Shizuoka Stadium, Shizuoka
  ";X-APPLE-RADIUS=100;X-TITLE="Shizuoka Stadium, Shizuoka":geo:34.743333,13
  7.970556
-DESCRIPTION:Quarter-finals | 2002 FIFA World Cup - South Korea & Japan\nEng
- land 1-2 Brazil
-URL:https://en.wikipedia.org/wiki/2002_FIFA_World_Cup
+DESCRIPTION:2002 FIFA World Cup - South Korea & Japan\nQuarter-finals\nEngl
+ and 1-2 Brazil\nHT: 1-1\nFT: 1-2\nGoals:\nENG 🏴󠁧󠁢󠁥󠁮󠁧󠁿
+ : Michael Owen 23'\nBRA 🇧🇷: Rivaldo 45'\, +'\, Ronaldinho Gaúcho 50
+ '
+URL:https://www.fifa.com/en/match-centre/match/17/4395/5942/43950057
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2002
@@ -1031,9 +1096,9 @@ GEO:35.535278;129.259444
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Munsu Cup Stadium, Ulsan";
  X-APPLE-RADIUS=100;X-TITLE="Munsu Cup Stadium, Ulsan":geo:35.535278,129.25
  9444
-DESCRIPTION:Quarter-finals | 2002 FIFA World Cup - South Korea & Japan\nGer
- many 1-0 USA
-URL:https://en.wikipedia.org/wiki/2002_FIFA_World_Cup
+DESCRIPTION:2002 FIFA World Cup - South Korea & Japan\nQuarter-finals\nGerm
+ any 1-0 USA\nHT: 1-0\nFT: 1-0\nGoals:\nGER 🇩🇪: Michael Ballack 39'
+URL:https://www.fifa.com/en/match-centre/match/17/4395/5942/43950058
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2002
@@ -1049,9 +1114,9 @@ GEO:35.133667;126.874861
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Gwangju World Cup Stadium,
   Gwangju";X-APPLE-RADIUS=100;X-TITLE="Gwangju World Cup Stadium, Gwangju":
  geo:35.133667,126.874861
-DESCRIPTION:Quarter-finals | 2002 FIFA World Cup - South Korea & Japan\nSpa
- in 0-0 South Korea\nFT: 0-0\nAET: 0-0\nPenalties: 3-5
-URL:https://en.wikipedia.org/wiki/2002_FIFA_World_Cup
+DESCRIPTION:2002 FIFA World Cup - South Korea & Japan\nQuarter-finals\nSpai
+ n 0-0 South Korea\nHT: 0-0\nFT: 0-0\nAET: 0-0\nPenalties: 3-5
+URL:https://www.fifa.com/en/match-centre/match/17/4395/5942/43950059
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2002
@@ -1066,9 +1131,10 @@ LOCATION:Nagai Stadium\, Osaka
 GEO:34.614119;135.518450
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Nagai Stadium, Osaka";X-AP
  PLE-RADIUS=100;X-TITLE="Nagai Stadium, Osaka":geo:34.614119,135.518450
-DESCRIPTION:Quarter-finals | 2002 FIFA World Cup - South Korea & Japan\nSen
- egal 0-1 Turkey\nFT: 0-0\nAET: 0-1
-URL:https://en.wikipedia.org/wiki/2002_FIFA_World_Cup
+DESCRIPTION:2002 FIFA World Cup - South Korea & Japan\nQuarter-finals\nSene
+ gal 0-1 Turkey\nHT: 0-0\nFT: 0-0\nAET: 0-1\nGoals:\nTUR 🇹🇷: İlhan M
+ ansız 94'
+URL:https://www.fifa.com/en/match-centre/match/17/4395/5942/43950060
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2002
@@ -1084,9 +1150,10 @@ GEO:37.568222;126.897361
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Seoul World Cup Stadium, S
  eoul";X-APPLE-RADIUS=100;X-TITLE="Seoul World Cup Stadium, Seoul":geo:37.5
  68222,126.897361
-DESCRIPTION:Semi-finals | 2002 FIFA World Cup - South Korea & Japan\nGerman
- y 1-0 South Korea
-URL:https://en.wikipedia.org/wiki/2002_FIFA_World_Cup
+DESCRIPTION:2002 FIFA World Cup - South Korea & Japan\nSemi-finals\nGermany
+  1-0 South Korea\nHT: 0-0\nFT: 1-0\nGoals:\nGER 🇩🇪: Michael Ballack 
+ 75'
+URL:https://www.fifa.com/en/match-centre/match/17/4395/5943/43950061
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2002
@@ -1102,9 +1169,9 @@ GEO:35.903056;139.717778
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Saitama Stadium, Saitama";
  X-APPLE-RADIUS=100;X-TITLE="Saitama Stadium, Saitama":geo:35.903056,139.71
  7778
-DESCRIPTION:Semi-finals | 2002 FIFA World Cup - South Korea & Japan\nBrazil
-  1-0 Turkey
-URL:https://en.wikipedia.org/wiki/2002_FIFA_World_Cup
+DESCRIPTION:2002 FIFA World Cup - South Korea & Japan\nSemi-finals\nBrazil 
+ 1-0 Turkey\nHT: 0-0\nFT: 1-0\nGoals:\nBRA 🇧🇷: Ronaldo 49'
+URL:https://www.fifa.com/en/match-centre/match/17/4395/5943/43950062
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2002
@@ -1120,9 +1187,11 @@ GEO:35.829722;128.690278
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Daegu World Cup Stadium, D
  aegu";X-APPLE-RADIUS=100;X-TITLE="Daegu World Cup Stadium, Daegu":geo:35.8
  29722,128.690278
-DESCRIPTION:Third place play-off | 2002 FIFA World Cup - South Korea & Japa
- n\nSouth Korea 2-3 Turkey
-URL:https://en.wikipedia.org/wiki/2002_FIFA_World_Cup
+DESCRIPTION:2002 FIFA World Cup - South Korea & Japan\nThird place play-off
+ \nSouth Korea 2-3 Turkey\nHT: 1-3\nFT: 2-3\nGoals:\nKOR 🇰🇷: Lee Eul-
+ Yong 9'\, Song Jong-Gook 90'\nTUR 🇹🇷: Hakan Şükür 1'\, İlhan Man
+ sız 13'\, İlhan Mansız 32'
+URL:https://www.fifa.com/en/match-centre/match/17/4395/5944/43950063
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2002
@@ -1138,9 +1207,9 @@ GEO:35.510000;139.606389
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="International Stadium Yoko
  hama, Yokohama";X-APPLE-RADIUS=100;X-TITLE="International Stadium Yokohama
  , Yokohama":geo:35.510000,139.606389
-DESCRIPTION:Final | 2002 FIFA World Cup - South Korea & Japan\nGermany 0-2 
- Brazil
-URL:https://en.wikipedia.org/wiki/2002_FIFA_World_Cup
+DESCRIPTION:2002 FIFA World Cup - South Korea & Japan\nFinal\nGermany 0-2 B
+ razil\nHT: 0-0\nFT: 0-2\nGoals:\nBRA 🇧🇷: Ronaldo 67'\, Ronaldo 79'
+URL:https://www.fifa.com/en/match-centre/match/17/4395/5945/43950064
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2002

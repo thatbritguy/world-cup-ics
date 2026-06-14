@@ -10,10 +10,38 @@
         "ft": [
           3,
           1
+        ],
+        "ht": [
+          2,
+          1
         ]
       },
       "group": "Group 1",
-      "ground": "Malmö Stadion, Malmö"
+      "ground": "Malmö Stadion, Malmö",
+      "goals1": [
+        {
+          "name": "Rahn",
+          "minute": 33
+        },
+        {
+          "name": "Seeler",
+          "minute": 42
+        },
+        {
+          "name": "Rahn",
+          "minute": 79
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Carbatta",
+          "minute": 3
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 1",
@@ -24,10 +52,25 @@
         "ft": [
           1,
           0
+        ],
+        "ht": [
+          1,
+          0
         ]
       },
       "group": "Group 1",
-      "ground": "Örjans Vall, Halmstad"
+      "ground": "Örjans Vall, Halmstad",
+      "goals1": [
+        {
+          "name": "Cush",
+          "minute": 20
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 2",
@@ -38,10 +81,39 @@
         "ft": [
           3,
           1
+        ],
+        "ht": [
+          1,
+          1
         ]
       },
       "group": "Group 1",
-      "ground": "Örjans Vall, Halmstad"
+      "ground": "Örjans Vall, Halmstad",
+      "goals1": [
+        {
+          "name": "Corbatta",
+          "minute": 36,
+          "penalty": true
+        },
+        {
+          "name": "Menéndez",
+          "minute": 66
+        },
+        {
+          "name": "Avio",
+          "minute": 80
+        }
+      ],
+      "goals2": [
+        {
+          "name": "McParland",
+          "minute": 4
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 2",
@@ -52,10 +124,39 @@
         "ft": [
           2,
           2
+        ],
+        "ht": [
+          0,
+          2
         ]
       },
       "group": "Group 1",
-      "ground": "Olympiastadion, Helsingborg"
+      "ground": "Olympiastadion, Helsingborg",
+      "goals1": [
+        {
+          "name": "Schäfer",
+          "minute": 60
+        },
+        {
+          "name": "Rahn",
+          "minute": 70
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Dvořák",
+          "minute": 24,
+          "penalty": true
+        },
+        {
+          "name": "Zikan",
+          "minute": 42
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 3",
@@ -66,10 +167,38 @@
         "ft": [
           2,
           2
+        ],
+        "ht": [
+          1,
+          1
         ]
       },
       "group": "Group 1",
-      "ground": "Malmö Stadion, Malmö"
+      "ground": "Malmö Stadion, Malmö",
+      "goals1": [
+        {
+          "name": "Rahn",
+          "minute": 21
+        },
+        {
+          "name": "Seeler",
+          "minute": 79
+        }
+      ],
+      "goals2": [
+        {
+          "name": "McParland",
+          "minute": 19
+        },
+        {
+          "name": "McParland",
+          "minute": 60
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 3",
@@ -80,10 +209,51 @@
         "ft": [
           6,
           1
+        ],
+        "ht": [
+          3,
+          0
         ]
       },
       "group": "Group 1",
-      "ground": "Olympiastadion, Helsingborg"
+      "ground": "Olympiastadion, Helsingborg",
+      "goals1": [
+        {
+          "name": "Dvořák",
+          "minute": 8
+        },
+        {
+          "name": "Zikan",
+          "minute": 17
+        },
+        {
+          "name": "Hovorka",
+          "minute": 39
+        },
+        {
+          "name": "Feureisl",
+          "minute": 69
+        },
+        {
+          "name": "Zikan",
+          "minute": 82
+        },
+        {
+          "name": "Hovorka",
+          "minute": 89
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Corbatta",
+          "minute": 65,
+          "penalty": true
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Group 1 Play-off",
@@ -98,9 +268,20 @@
         "ft": [
           1,
           1
+        ],
+        "ht": [
+          1,
+          1
         ]
       },
-      "ground": "Malmö Stadion, Malmö"
+      "ground": "Malmö Stadion, Malmö",
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": false,
+        "missing_fields": [
+          "goalscorers"
+        ]
+      }
     },
     {
       "round": "Matchday 1",
@@ -111,10 +292,63 @@
         "ft": [
           7,
           3
+        ],
+        "ht": [
+          2,
+          2
         ]
       },
       "group": "Group 2",
-      "ground": "Idrottsparken, Norrköping"
+      "ground": "Idrottsparken, Norrköping",
+      "goals1": [
+        {
+          "name": "Fontaine",
+          "minute": 25
+        },
+        {
+          "name": "Fontaine",
+          "minute": 30
+        },
+        {
+          "name": "Piantoni",
+          "minute": 31
+        },
+        {
+          "name": "Wisnieski",
+          "minute": 62
+        },
+        {
+          "name": "Fontaine",
+          "minute": 66
+        },
+        {
+          "name": "Kopa",
+          "minute": 70
+        },
+        {
+          "name": "Vincent",
+          "minute": 84
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Amarilla",
+          "minute": 21
+        },
+        {
+          "name": "Amarilla",
+          "minute": 42,
+          "penalty": true
+        },
+        {
+          "name": "Romero",
+          "minute": 50
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 1",
@@ -125,10 +359,30 @@
         "ft": [
           1,
           1
+        ],
+        "ht": [
+          1,
+          0
         ]
       },
       "group": "Group 2",
-      "ground": "Arosvallen, Västerås"
+      "ground": "Arosvallen, Västerås",
+      "goals1": [
+        {
+          "name": "Petaković",
+          "minute": 13
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Murray",
+          "minute": 48
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 2",
@@ -139,10 +393,42 @@
         "ft": [
           3,
           2
+        ],
+        "ht": [
+          1,
+          1
         ]
       },
       "group": "Group 2",
-      "ground": "Arosvallen, Västerås"
+      "ground": "Arosvallen, Västerås",
+      "goals1": [
+        {
+          "name": "Petaković",
+          "minute": 16
+        },
+        {
+          "name": "Vaselinović",
+          "minute": 65
+        },
+        {
+          "name": "Vaselinović",
+          "minute": 87
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Fontaine",
+          "minute": 5
+        },
+        {
+          "name": "Fontaine",
+          "minute": 85
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 2",
@@ -153,10 +439,42 @@
         "ft": [
           3,
           2
+        ],
+        "ht": [
+          2,
+          1
         ]
       },
       "group": "Group 2",
-      "ground": "Idrottsparken, Norrköping"
+      "ground": "Idrottsparken, Norrköping",
+      "goals1": [
+        {
+          "name": "Aguero",
+          "minute": 4
+        },
+        {
+          "name": "Re",
+          "minute": 44
+        },
+        {
+          "name": "Parodi",
+          "minute": 74
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Mudie",
+          "minute": 23
+        },
+        {
+          "name": "Collins",
+          "minute": 76
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 3",
@@ -167,10 +485,34 @@
         "ft": [
           2,
           1
+        ],
+        "ht": [
+          2,
+          0
         ]
       },
       "group": "Group 2",
-      "ground": "Eyravallen, Örebro"
+      "ground": "Eyravallen, Örebro",
+      "goals1": [
+        {
+          "name": "Kopa",
+          "minute": 22
+        },
+        {
+          "name": "Fontaine",
+          "minute": 45
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Baird",
+          "minute": 66
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 3",
@@ -181,10 +523,46 @@
         "ft": [
           3,
           3
+        ],
+        "ht": [
+          1,
+          2
         ]
       },
       "group": "Group 2",
-      "ground": "Tunavallen, Eskilstuna"
+      "ground": "Tunavallen, Eskilstuna",
+      "goals1": [
+        {
+          "name": "Parodi",
+          "minute": 21
+        },
+        {
+          "name": "Aguero",
+          "minute": 49
+        },
+        {
+          "name": "Romero",
+          "minute": 90
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Ognjanović",
+          "minute": 12
+        },
+        {
+          "name": "Veselinović",
+          "minute": 29
+        },
+        {
+          "name": "Rajkov",
+          "minute": 74
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 1",
@@ -195,10 +573,34 @@
         "ft": [
           3,
           0
+        ],
+        "ht": [
+          1,
+          0
         ]
       },
       "group": "Group 3",
-      "ground": "Råsunda Stadium, Solna"
+      "ground": "Råsunda Stadium, Solna",
+      "goals1": [
+        {
+          "name": "Simonsson",
+          "minute": 17
+        },
+        {
+          "name": "Liedholm",
+          "minute": 58,
+          "penalty": true
+        },
+        {
+          "name": "Simonsson",
+          "minute": 64
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 1",
@@ -209,10 +611,30 @@
         "ft": [
           1,
           1
+        ],
+        "ht": [
+          1,
+          1
         ]
       },
       "group": "Group 3",
-      "ground": "Jernvallen, Sandviken"
+      "ground": "Jernvallen, Sandviken",
+      "goals1": [
+        {
+          "name": "Bozsik",
+          "minute": 4
+        }
+      ],
+      "goals2": [
+        {
+          "name": "J.Charles",
+          "minute": 26
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 2",
@@ -223,10 +645,30 @@
         "ft": [
           1,
           1
+        ],
+        "ht": [
+          0,
+          1
         ]
       },
       "group": "Group 3",
-      "ground": "Råsunda Stadium, Solna"
+      "ground": "Råsunda Stadium, Solna",
+      "goals1": [
+        {
+          "name": "Belmonte",
+          "minute": 69
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Allchurch",
+          "minute": 32
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 2",
@@ -237,10 +679,34 @@
         "ft": [
           2,
           1
+        ],
+        "ht": [
+          1,
+          0
         ]
       },
       "group": "Group 3",
-      "ground": "Råsunda Stadium, Solna"
+      "ground": "Råsunda Stadium, Solna",
+      "goals1": [
+        {
+          "name": "Hamrin",
+          "minute": 34
+        },
+        {
+          "name": "Hamrin",
+          "minute": 55
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Tichy",
+          "minute": 78
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 3",
@@ -251,10 +717,18 @@
         "ft": [
           0,
           0
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group 3",
-      "ground": "Råsunda Stadium, Solna"
+      "ground": "Råsunda Stadium, Solna",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 3",
@@ -265,10 +739,37 @@
         "ft": [
           4,
           0
+        ],
+        "ht": [
+          1,
+          0
         ]
       },
       "group": "Group 3",
-      "ground": "Jernvallen, Sandviken"
+      "ground": "Jernvallen, Sandviken",
+      "goals1": [
+        {
+          "name": "Tichy",
+          "minute": 19
+        },
+        {
+          "name": "Tichy",
+          "minute": 46
+        },
+        {
+          "name": "Sándor",
+          "minute": 54
+        },
+        {
+          "name": "Benecsis",
+          "minute": 69
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Group 3 Play-off",
@@ -281,7 +782,15 @@
           1
         ]
       },
-      "ground": "Råsunda Stadium, Solna"
+      "ground": "Råsunda Stadium, Solna",
+      "result_enrichment": {
+        "source": "none",
+        "score_reconciled": false,
+        "missing_fields": [
+          "goalscorers",
+          "half_time_score"
+        ]
+      }
     },
     {
       "round": "Matchday 1",
@@ -292,10 +801,33 @@
         "ft": [
           3,
           0
+        ],
+        "ht": [
+          1,
+          0
         ]
       },
       "group": "Group 4",
-      "ground": "Rimnersvallen, Uddevalla"
+      "ground": "Rimnersvallen, Uddevalla",
+      "goals1": [
+        {
+          "name": "Atlafini",
+          "minute": 37
+        },
+        {
+          "name": "N.Santos",
+          "minute": 48
+        },
+        {
+          "name": "Atlafini",
+          "minute": 80
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 1",
@@ -306,10 +838,39 @@
         "ft": [
           2,
           2
+        ],
+        "ht": [
+          1,
+          0
         ]
       },
       "group": "Group 4",
-      "ground": "Ullevi, Gothenburg"
+      "ground": "Ullevi, Gothenburg",
+      "goals1": [
+        {
+          "name": "Simonian",
+          "minute": 13
+        },
+        {
+          "name": "A.Ivanov",
+          "minute": 56
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Kevan",
+          "minute": 65
+        },
+        {
+          "name": "Finney",
+          "minute": 84,
+          "penalty": true
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 2",
@@ -320,10 +881,18 @@
         "ft": [
           0,
           0
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
       "group": "Group 4",
-      "ground": "Ullevi, Gothenburg"
+      "ground": "Ullevi, Gothenburg",
+      "result_enrichment": {
+        "source": "openfootball",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 2",
@@ -334,10 +903,29 @@
         "ft": [
           2,
           0
+        ],
+        "ht": [
+          1,
+          0
         ]
       },
       "group": "Group 4",
-      "ground": "Ryavallen, Borås"
+      "ground": "Ryavallen, Borås",
+      "goals1": [
+        {
+          "name": "A.Ivanov",
+          "minute": 15
+        },
+        {
+          "name": "Ilyin",
+          "minute": 65
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 3",
@@ -348,10 +936,38 @@
         "ft": [
           2,
           2
+        ],
+        "ht": [
+          0,
+          1
         ]
       },
       "group": "Group 4",
-      "ground": "Ryavallen, Borås"
+      "ground": "Ryavallen, Borås",
+      "goals1": [
+        {
+          "name": "Haynes",
+          "minute": 56
+        },
+        {
+          "name": "Kevan",
+          "minute": 74
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Koller",
+          "minute": 15
+        },
+        {
+          "name": "A.Körner",
+          "minute": 71
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Matchday 3",
@@ -362,10 +978,29 @@
         "ft": [
           2,
           0
+        ],
+        "ht": [
+          1,
+          0
         ]
       },
       "group": "Group 4",
-      "ground": "Ullevi, Gothenburg"
+      "ground": "Ullevi, Gothenburg",
+      "goals1": [
+        {
+          "name": "Vává",
+          "minute": 3
+        },
+        {
+          "name": "Vává",
+          "minute": 77
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Group 4 Play-off",
@@ -376,9 +1011,24 @@
         "ft": [
           1,
           0
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
-      "ground": "Ullevi, Gothenburg"
+      "ground": "Ullevi, Gothenburg",
+      "goals1": [
+        {
+          "name": "Ilyin",
+          "minute": 68
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Quarter-finals",
@@ -389,9 +1039,36 @@
         "ft": [
           4,
           0
+        ],
+        "ht": [
+          1,
+          0
         ]
       },
-      "ground": "Idrottsparken, Norrköping"
+      "ground": "Idrottsparken, Norrköping",
+      "goals1": [
+        {
+          "name": "Wisnieski",
+          "minute": 43
+        },
+        {
+          "name": "Fontaine",
+          "minute": 55
+        },
+        {
+          "name": "Fontaine",
+          "minute": 63
+        },
+        {
+          "name": "Plantoni",
+          "minute": 70
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Quarter-finals",
@@ -402,9 +1079,28 @@
         "ft": [
           2,
           0
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
-      "ground": "Råsunda Stadium, Solna"
+      "ground": "Råsunda Stadium, Solna",
+      "goals1": [
+        {
+          "name": "Hamrin",
+          "minute": 48
+        },
+        {
+          "name": "Simonsson",
+          "minute": 87
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Quarter-finals",
@@ -415,9 +1111,24 @@
         "ft": [
           1,
           0
+        ],
+        "ht": [
+          0,
+          0
         ]
       },
-      "ground": "Ullevi, Gothenburg"
+      "ground": "Ullevi, Gothenburg",
+      "goals1": [
+        {
+          "name": "Pelé",
+          "minute": 73
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Quarter-finals",
@@ -428,9 +1139,24 @@
         "ft": [
           1,
           0
+        ],
+        "ht": [
+          1,
+          0
         ]
       },
-      "ground": "Malmö Stadion, Malmö"
+      "ground": "Malmö Stadion, Malmö",
+      "goals1": [
+        {
+          "name": "Rahn",
+          "minute": 12
+        }
+      ],
+      "goals2": [],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Semi-finals",
@@ -441,9 +1167,49 @@
         "ft": [
           2,
           5
+        ],
+        "ht": [
+          1,
+          2
         ]
       },
-      "ground": "Råsunda Stadium, Solna"
+      "ground": "Råsunda Stadium, Solna",
+      "goals1": [
+        {
+          "name": "Fontaine",
+          "minute": 9
+        },
+        {
+          "name": "Plantoni",
+          "minute": 83
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Vává",
+          "minute": 2
+        },
+        {
+          "name": "Didi",
+          "minute": 39
+        },
+        {
+          "name": "Pelé",
+          "minute": 53
+        },
+        {
+          "name": "Pelé",
+          "minute": 64
+        },
+        {
+          "name": "Pelé",
+          "minute": 76
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Semi-finals",
@@ -454,9 +1220,37 @@
         "ft": [
           1,
           3
+        ],
+        "ht": [
+          1,
+          1
         ]
       },
-      "ground": "Ullevi, Gothenburg"
+      "ground": "Ullevi, Gothenburg",
+      "goals1": [
+        {
+          "name": "Schäfer",
+          "minute": 24
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Skoglund",
+          "minute": 33
+        },
+        {
+          "name": "Gren",
+          "minute": 50
+        },
+        {
+          "name": "Hamrin",
+          "minute": 88
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Match for third place",
@@ -467,9 +1261,58 @@
         "ft": [
           3,
           6
+        ],
+        "ht": [
+          1,
+          3
         ]
       },
-      "ground": "Ullevi, Gothenburg"
+      "ground": "Ullevi, Gothenburg",
+      "goals1": [
+        {
+          "name": "Cieslarczyk",
+          "minute": 18
+        },
+        {
+          "name": "Rahn",
+          "minute": 52
+        },
+        {
+          "name": "Schäfer",
+          "minute": 84
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Fontaine",
+          "minute": 16
+        },
+        {
+          "name": "Kopa",
+          "minute": 27,
+          "penalty": true
+        },
+        {
+          "name": "Fontaine",
+          "minute": 36
+        },
+        {
+          "name": "Douis",
+          "minute": 50
+        },
+        {
+          "name": "Fontaine",
+          "minute": 78
+        },
+        {
+          "name": "Fontaine",
+          "minute": 89
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     },
     {
       "round": "Final",
@@ -480,9 +1323,49 @@
         "ft": [
           2,
           5
+        ],
+        "ht": [
+          1,
+          2
         ]
       },
-      "ground": "Råsunda Stadium, Solna"
+      "ground": "Råsunda Stadium, Solna",
+      "goals1": [
+        {
+          "name": "Liedholm",
+          "minute": 4
+        },
+        {
+          "name": "Simonsson",
+          "minute": 80
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Vavá",
+          "minute": 9
+        },
+        {
+          "name": "Vavá",
+          "minute": 32
+        },
+        {
+          "name": "Pelé",
+          "minute": 55
+        },
+        {
+          "name": "Zagalo",
+          "minute": 68
+        },
+        {
+          "name": "Pelé",
+          "minute": 90
+        }
+      ],
+      "result_enrichment": {
+        "source": "rsssf-full",
+        "score_reconciled": true
+      }
     }
   ]
 }
