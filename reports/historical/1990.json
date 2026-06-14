@@ -9,8 +9,8 @@
   },
   "match_count": 52,
   "status_counts": {
-    "conflict": 1,
     "corroborated": 50,
+    "resolved": 1,
     "single-source": 1
   },
   "existing_calendar_status": null,
@@ -638,8 +638,14 @@
         "openfootball": null,
         "openfootball_utc_offset": null
       },
-      "selected_local_time": "17:00",
-      "status": "conflict",
+      "selected_local_time": "21:00",
+      "status": "resolved",
+      "resolution": {
+        "time": "21:00",
+        "selected_source": "FIFA/Wikipedia scheduled kickoff",
+        "evidence": "Contemporary UK television listing begins coverage at 19:30 BST; the scheduled 20:00 BST kickoff equals 21:00 CEST in Italy.",
+        "rejected_value": "RSSSF records malformed '17..00'; both punctuation and value are inconsistent with the contemporary broadcast schedule."
+      },
       "date_mismatch": false,
       "fifa_match_id": "160",
       "fifa_match_number": 21

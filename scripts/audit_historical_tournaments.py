@@ -148,6 +148,22 @@ def identity(date: str, team1: str, team2: str) -> tuple[str, frozenset[str]]:
     return date, frozenset((team_identity(team1), team_identity(team2)))
 
 
+AUDIT_RESOLUTIONS = {
+    identity("1990-06-16", "England", "Netherlands"): {
+        "time": "21:00",
+        "selected_source": "FIFA/Wikipedia scheduled kickoff",
+        "evidence": (
+            "Contemporary UK television listing begins coverage at 19:30 BST; "
+            "the scheduled 20:00 BST kickoff equals 21:00 CEST in Italy."
+        ),
+        "rejected_value": (
+            "RSSSF records malformed '17..00'; both punctuation and value are "
+            "inconsistent with the contemporary broadcast schedule."
+        ),
+    }
+}
+
+
 def parse_openfootball_time(value: str | None) -> tuple[str | None, str | None]:
     if not value:
         return None, None
@@ -335,6 +351,10 @@ def audit_year(year: int, cache_dir: Path) -> dict[str, object]:
                 "openfootball": openfootball_time,
             }
         )
+        resolution = AUDIT_RESOLUTIONS.get(key)
+        if resolution:
+            status = "resolved"
+            selected = str(resolution["time"])
         matches.append(
             {
                 "date": match["date"],
@@ -351,6 +371,7 @@ def audit_year(year: int, cache_dir: Path) -> dict[str, object]:
                 },
                 "selected_local_time": selected,
                 "status": status,
+                **({"resolution": resolution} if resolution else {}),
                 "date_mismatch": any(
                     source_date and source_date != match["date"]
                     for source_date in (rsssf_date, fifa_date)

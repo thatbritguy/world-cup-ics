@@ -28,8 +28,9 @@
   ],
   "status_totals": {
     "accepted-modern-source": 259,
-    "conflict": 135,
+    "conflict": 134,
     "corroborated": 548,
+    "resolved": 1,
     "single-source": 22
   },
   "tournaments": [
@@ -173,8 +174,8 @@
       "year": 1990,
       "match_count": 52,
       "status_counts": {
-        "conflict": 1,
         "corroborated": 50,
+        "resolved": 1,
         "single-source": 1
       },
       "requires_review": true,

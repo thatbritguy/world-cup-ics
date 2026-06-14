@@ -9,6 +9,7 @@ ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / "scripts"))
 
 from audit_historical_tournaments import (  # noqa: E402
+    AUDIT_RESOLUTIONS,
     classify,
     identity,
     fifa_team_codes,
@@ -68,6 +69,12 @@ class HistoricalAuditTests(unittest.TestCase):
             identity("2006-06-10", "Côte d'Ivoire", "Argentina"),
             identity("2006-06-10", "Ivory Coast", "Argentina"),
         )
+
+    def test_1990_england_netherlands_resolution_uses_scheduled_time(self) -> None:
+        resolution = AUDIT_RESOLUTIONS[
+            identity("1990-06-16", "England", "Netherlands")
+        ]
+        self.assertEqual(resolution["time"], "21:00")
 
 
 if __name__ == "__main__":
