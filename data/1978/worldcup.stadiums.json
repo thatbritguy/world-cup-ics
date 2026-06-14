@@ -11,7 +11,8 @@
       "coordinate_source": "https://en.wikipedia.org/wiki/Estadio_Mario_Alberto_Kempes",
       "coordinate_source_title": "Estadio Mario Alberto Kempes",
       "match_score": 0,
-      "coordinate_status": "candidate"
+      "coordinate_status": "verified",
+      "coordinate_review": "Manual source-title and location review"
     },
     {
       "name": "Estadio Ciudad de Mendoza",
@@ -24,7 +25,8 @@
       "coordinate_source": "https://en.wikipedia.org/wiki/Estadio_Malvinas_Argentinas",
       "coordinate_source_title": "Estadio Malvinas Argentinas",
       "match_score": 0,
-      "coordinate_status": "candidate"
+      "coordinate_status": "verified",
+      "coordinate_review": "Manual source-title and location review"
     },
     {
       "name": "Estadio Gigante de Arroyito",
@@ -37,7 +39,8 @@
       "coordinate_source": "https://en.wikipedia.org/wiki/Estadio_Gigante_de_Arroyito",
       "coordinate_source_title": "Estadio Gigante de Arroyito",
       "match_score": 25,
-      "coordinate_status": "candidate"
+      "coordinate_status": "verified",
+      "coordinate_review": "Manual source-title and location review"
     },
     {
       "name": "Estadio José Amalfitani",
@@ -45,12 +48,11 @@
       "ground_aliases": [
         "Estadio José Amalfitani, Buenos Aires"
       ],
-      "latitude": -34.5625,
-      "longitude": -58.45833333,
-      "coordinate_source": "https://en.wikipedia.org/wiki/Belgrano,_Buenos_Aires",
-      "coordinate_source_title": "Belgrano, Buenos Aires",
-      "match_score": 20,
-      "coordinate_status": "candidate"
+      "latitude": -34.635278,
+      "longitude": -58.520556,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Jos%C3%A9_Amalfitani_Stadium",
+      "coordinate_source_title": "José Amalfitani Stadium",
+      "coordinate_status": "verified"
     },
     {
       "name": "Estadio José Maria Minella",
@@ -63,7 +65,8 @@
       "coordinate_source": "https://en.wikipedia.org/wiki/Estadio_Jos%C3%A9_Mar%C3%ADa_Minella",
       "coordinate_source_title": "Estadio José María Minella",
       "match_score": 35,
-      "coordinate_status": "candidate"
+      "coordinate_status": "verified",
+      "coordinate_review": "Manual source-title and location review"
     },
     {
       "name": "Estadio José María Minella",
@@ -76,7 +79,8 @@
       "coordinate_source": "https://en.wikipedia.org/wiki/Estadio_Jos%C3%A9_Mar%C3%ADa_Minella",
       "coordinate_source_title": "Estadio José María Minella",
       "match_score": 35,
-      "coordinate_status": "candidate"
+      "coordinate_status": "verified",
+      "coordinate_review": "Manual source-title and location review"
     },
     {
       "name": "Estadio Monumental",
@@ -89,7 +93,8 @@
       "coordinate_source": "https://en.wikipedia.org/wiki/Estadio_Monumental_(Buenos_Aires)",
       "coordinate_source_title": "Estadio Monumental (Buenos Aires)",
       "match_score": 35,
-      "coordinate_status": "candidate"
+      "coordinate_status": "verified",
+      "coordinate_review": "Manual source-title and location review"
     },
     {
       "name": "Estadio Olímpico Chateau Carreras",
@@ -102,7 +107,8 @@
       "coordinate_source": "https://en.wikipedia.org/wiki/Estadio_Mario_Alberto_Kempes",
       "coordinate_source_title": "Estadio Mario Alberto Kempes",
       "match_score": 0,
-      "coordinate_status": "candidate"
+      "coordinate_status": "verified",
+      "coordinate_review": "Manual source-title and location review"
     }
   ]
 }

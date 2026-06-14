@@ -11,7 +11,8 @@
       "coordinate_source": "https://en.wikipedia.org/wiki/Charmilles_Stadium",
       "coordinate_source_title": "Charmilles Stadium",
       "match_score": 15,
-      "coordinate_status": "candidate"
+      "coordinate_status": "verified",
+      "coordinate_review": "Manual source-title and location review"
     },
     {
       "name": "Cornaredo Stadium",
@@ -24,7 +25,8 @@
       "coordinate_source": "https://en.wikipedia.org/wiki/Cornaredo_Stadium",
       "coordinate_source_title": "Cornaredo Stadium",
       "match_score": 15,
-      "coordinate_status": "candidate"
+      "coordinate_status": "verified",
+      "coordinate_review": "Manual source-title and location review"
     },
     {
       "name": "Hardturm Stadium",
@@ -37,7 +39,8 @@
       "coordinate_source": "https://en.wikipedia.org/wiki/Hardturm",
       "coordinate_source_title": "Hardturm",
       "match_score": 15,
-      "coordinate_status": "candidate"
+      "coordinate_status": "verified",
+      "coordinate_review": "Manual source-title and location review"
     },
     {
       "name": "St. Jakob Stadium",
@@ -50,7 +53,8 @@
       "coordinate_source": "https://en.wikipedia.org/wiki/St._Jakob_Stadium",
       "coordinate_source_title": "St. Jakob Stadium",
       "match_score": 25,
-      "coordinate_status": "candidate"
+      "coordinate_status": "verified",
+      "coordinate_review": "Manual source-title and location review"
     },
     {
       "name": "Stade Olympique de la Pontaise",
@@ -63,7 +67,8 @@
       "coordinate_source": "https://www.openstreetmap.org/w/45746506",
       "coordinate_source_title": "Stade Olympique de la Pontaise",
       "match_score": 35,
-      "coordinate_status": "candidate"
+      "coordinate_status": "verified",
+      "coordinate_review": "Manual source-title and location review"
     },
     {
       "name": "Wankdorf Stadium",
@@ -76,7 +81,8 @@
       "coordinate_source": "https://en.wikipedia.org/wiki/Wankdorf_Stadium",
       "coordinate_source_title": "Wankdorf Stadium",
       "match_score": 15,
-      "coordinate_status": "candidate"
+      "coordinate_status": "verified",
+      "coordinate_review": "Manual source-title and location review"
     }
   ]
 }

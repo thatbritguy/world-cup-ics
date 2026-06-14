@@ -1,0 +1,648 @@
+{
+  "year": 1998,
+  "status": "validated",
+  "calendar_profile": "archive",
+  "numbering": "FIFA official match numbers",
+  "matches": [
+    {
+      "sequence": 1,
+      "key": "wc1998-match-001",
+      "uid": "wc1998-match-001@world-cup-ics",
+      "date": "1998-06-10",
+      "team1": "Brazil",
+      "team2": "Scotland",
+      "official_match_number": 1,
+      "fifa_match_id": "4000"
+    },
+    {
+      "sequence": 2,
+      "key": "wc1998-match-002",
+      "uid": "wc1998-match-002@world-cup-ics",
+      "date": "1998-06-10",
+      "team1": "Morocco",
+      "team2": "Norway",
+      "official_match_number": 2,
+      "fifa_match_id": "8725"
+    },
+    {
+      "sequence": 3,
+      "key": "wc1998-match-003",
+      "uid": "wc1998-match-003@world-cup-ics",
+      "date": "1998-06-11",
+      "team1": "Cameroon",
+      "team2": "Austria",
+      "official_match_number": 3,
+      "fifa_match_id": "8727"
+    },
+    {
+      "sequence": 4,
+      "key": "wc1998-match-004",
+      "uid": "wc1998-match-004@world-cup-ics",
+      "date": "1998-06-11",
+      "team1": "Italy",
+      "team2": "Chile",
+      "official_match_number": 4,
+      "fifa_match_id": "8726"
+    },
+    {
+      "sequence": 5,
+      "key": "wc1998-match-005",
+      "uid": "wc1998-match-005@world-cup-ics",
+      "date": "1998-06-12",
+      "team1": "Saudi Arabia",
+      "team2": "Denmark",
+      "official_match_number": 5,
+      "fifa_match_id": "8729"
+    },
+    {
+      "sequence": 6,
+      "key": "wc1998-match-006",
+      "uid": "wc1998-match-006@world-cup-ics",
+      "date": "1998-06-12",
+      "team1": "France",
+      "team2": "South Africa",
+      "official_match_number": 6,
+      "fifa_match_id": "8730"
+    },
+    {
+      "sequence": 7,
+      "key": "wc1998-match-007",
+      "uid": "wc1998-match-007@world-cup-ics",
+      "date": "1998-06-12",
+      "team1": "Paraguay",
+      "team2": "Bulgaria",
+      "official_match_number": 7,
+      "fifa_match_id": "8728"
+    },
+    {
+      "sequence": 8,
+      "key": "wc1998-match-008",
+      "uid": "wc1998-match-008@world-cup-ics",
+      "date": "1998-06-13",
+      "team1": "Netherlands",
+      "team2": "Belgium",
+      "official_match_number": 8,
+      "fifa_match_id": "8733"
+    },
+    {
+      "sequence": 9,
+      "key": "wc1998-match-009",
+      "uid": "wc1998-match-009@world-cup-ics",
+      "date": "1998-06-13",
+      "team1": "South Korea",
+      "team2": "Mexico",
+      "official_match_number": 9,
+      "fifa_match_id": "8732"
+    },
+    {
+      "sequence": 10,
+      "key": "wc1998-match-010",
+      "uid": "wc1998-match-010@world-cup-ics",
+      "date": "1998-06-13",
+      "team1": "Spain",
+      "team2": "Nigeria",
+      "official_match_number": 10,
+      "fifa_match_id": "8731"
+    },
+    {
+      "sequence": 11,
+      "key": "wc1998-match-011",
+      "uid": "wc1998-match-011@world-cup-ics",
+      "date": "1998-06-14",
+      "team1": "Jamaica",
+      "team2": "Croatia",
+      "official_match_number": 11,
+      "fifa_match_id": "8736"
+    },
+    {
+      "sequence": 12,
+      "key": "wc1998-match-012",
+      "uid": "wc1998-match-012@world-cup-ics",
+      "date": "1998-06-14",
+      "team1": "Yugoslavia",
+      "team2": "Iran",
+      "official_match_number": 12,
+      "fifa_match_id": "8735"
+    },
+    {
+      "sequence": 13,
+      "key": "wc1998-match-013",
+      "uid": "wc1998-match-013@world-cup-ics",
+      "date": "1998-06-14",
+      "team1": "Argentina",
+      "team2": "Japan",
+      "official_match_number": 13,
+      "fifa_match_id": "8734"
+    },
+    {
+      "sequence": 14,
+      "key": "wc1998-match-014",
+      "uid": "wc1998-match-014@world-cup-ics",
+      "date": "1998-06-15",
+      "team1": "Germany",
+      "team2": "USA",
+      "official_match_number": 14,
+      "fifa_match_id": "8738"
+    },
+    {
+      "sequence": 15,
+      "key": "wc1998-match-015",
+      "uid": "wc1998-match-015@world-cup-ics",
+      "date": "1998-06-15",
+      "team1": "Romania",
+      "team2": "Colombia",
+      "official_match_number": 15,
+      "fifa_match_id": "8739"
+    },
+    {
+      "sequence": 16,
+      "key": "wc1998-match-016",
+      "uid": "wc1998-match-016@world-cup-ics",
+      "date": "1998-06-15",
+      "team1": "England",
+      "team2": "Tunisia",
+      "official_match_number": 16,
+      "fifa_match_id": "8740"
+    },
+    {
+      "sequence": 17,
+      "key": "wc1998-match-017",
+      "uid": "wc1998-match-017@world-cup-ics",
+      "date": "1998-06-16",
+      "team1": "Scotland",
+      "team2": "Norway",
+      "official_match_number": 17,
+      "fifa_match_id": "8741"
+    },
+    {
+      "sequence": 18,
+      "key": "wc1998-match-018",
+      "uid": "wc1998-match-018@world-cup-ics",
+      "date": "1998-06-16",
+      "team1": "Brazil",
+      "team2": "Morocco",
+      "official_match_number": 18,
+      "fifa_match_id": "8742"
+    },
+    {
+      "sequence": 19,
+      "key": "wc1998-match-019",
+      "uid": "wc1998-match-019@world-cup-ics",
+      "date": "1998-06-17",
+      "team1": "Chile",
+      "team2": "Austria",
+      "official_match_number": 19,
+      "fifa_match_id": "8743"
+    },
+    {
+      "sequence": 20,
+      "key": "wc1998-match-020",
+      "uid": "wc1998-match-020@world-cup-ics",
+      "date": "1998-06-17",
+      "team1": "Italy",
+      "team2": "Cameroon",
+      "official_match_number": 20,
+      "fifa_match_id": "8744"
+    },
+    {
+      "sequence": 21,
+      "key": "wc1998-match-021",
+      "uid": "wc1998-match-021@world-cup-ics",
+      "date": "1998-06-18",
+      "team1": "France",
+      "team2": "Saudi Arabia",
+      "official_match_number": 21,
+      "fifa_match_id": "8745"
+    },
+    {
+      "sequence": 22,
+      "key": "wc1998-match-022",
+      "uid": "wc1998-match-022@world-cup-ics",
+      "date": "1998-06-18",
+      "team1": "South Africa",
+      "team2": "Denmark",
+      "official_match_number": 22,
+      "fifa_match_id": "8746"
+    },
+    {
+      "sequence": 23,
+      "key": "wc1998-match-023",
+      "uid": "wc1998-match-023@world-cup-ics",
+      "date": "1998-06-19",
+      "team1": "Nigeria",
+      "team2": "Bulgaria",
+      "official_match_number": 23,
+      "fifa_match_id": "8747"
+    },
+    {
+      "sequence": 24,
+      "key": "wc1998-match-024",
+      "uid": "wc1998-match-024@world-cup-ics",
+      "date": "1998-06-19",
+      "team1": "Spain",
+      "team2": "Paraguay",
+      "official_match_number": 24,
+      "fifa_match_id": "8748"
+    },
+    {
+      "sequence": 25,
+      "key": "wc1998-match-025",
+      "uid": "wc1998-match-025@world-cup-ics",
+      "date": "1998-06-20",
+      "team1": "Netherlands",
+      "team2": "South Korea",
+      "official_match_number": 25,
+      "fifa_match_id": "8749"
+    },
+    {
+      "sequence": 26,
+      "key": "wc1998-match-026",
+      "uid": "wc1998-match-026@world-cup-ics",
+      "date": "1998-06-20",
+      "team1": "Belgium",
+      "team2": "Mexico",
+      "official_match_number": 26,
+      "fifa_match_id": "8750"
+    },
+    {
+      "sequence": 27,
+      "key": "wc1998-match-027",
+      "uid": "wc1998-match-027@world-cup-ics",
+      "date": "1998-06-20",
+      "team1": "Japan",
+      "team2": "Croatia",
+      "official_match_number": 27,
+      "fifa_match_id": "8751"
+    },
+    {
+      "sequence": 28,
+      "key": "wc1998-match-028",
+      "uid": "wc1998-match-028@world-cup-ics",
+      "date": "1998-06-21",
+      "team1": "Argentina",
+      "team2": "Jamaica",
+      "official_match_number": 28,
+      "fifa_match_id": "8752"
+    },
+    {
+      "sequence": 29,
+      "key": "wc1998-match-029",
+      "uid": "wc1998-match-029@world-cup-ics",
+      "date": "1998-06-21",
+      "team1": "Germany",
+      "team2": "Yugoslavia",
+      "official_match_number": 29,
+      "fifa_match_id": "8753"
+    },
+    {
+      "sequence": 30,
+      "key": "wc1998-match-030",
+      "uid": "wc1998-match-030@world-cup-ics",
+      "date": "1998-06-21",
+      "team1": "USA",
+      "team2": "Iran",
+      "official_match_number": 30,
+      "fifa_match_id": "8754"
+    },
+    {
+      "sequence": 31,
+      "key": "wc1998-match-031",
+      "uid": "wc1998-match-031@world-cup-ics",
+      "date": "1998-06-22",
+      "team1": "Colombia",
+      "team2": "Tunisia",
+      "official_match_number": 31,
+      "fifa_match_id": "8755"
+    },
+    {
+      "sequence": 32,
+      "key": "wc1998-match-032",
+      "uid": "wc1998-match-032@world-cup-ics",
+      "date": "1998-06-22",
+      "team1": "Romania",
+      "team2": "England",
+      "official_match_number": 32,
+      "fifa_match_id": "8756"
+    },
+    {
+      "sequence": 33,
+      "key": "wc1998-match-033",
+      "uid": "wc1998-match-033@world-cup-ics",
+      "date": "1998-06-23",
+      "team1": "Italy",
+      "team2": "Austria",
+      "official_match_number": 33,
+      "fifa_match_id": "8757"
+    },
+    {
+      "sequence": 34,
+      "key": "wc1998-match-034",
+      "uid": "wc1998-match-034@world-cup-ics",
+      "date": "1998-06-23",
+      "team1": "Scotland",
+      "team2": "Morocco",
+      "official_match_number": 34,
+      "fifa_match_id": "8758"
+    },
+    {
+      "sequence": 35,
+      "key": "wc1998-match-035",
+      "uid": "wc1998-match-035@world-cup-ics",
+      "date": "1998-06-23",
+      "team1": "Brazil",
+      "team2": "Norway",
+      "official_match_number": 35,
+      "fifa_match_id": "8759"
+    },
+    {
+      "sequence": 36,
+      "key": "wc1998-match-036",
+      "uid": "wc1998-match-036@world-cup-ics",
+      "date": "1998-06-23",
+      "team1": "Chile",
+      "team2": "Cameroon",
+      "official_match_number": 36,
+      "fifa_match_id": "8760"
+    },
+    {
+      "sequence": 37,
+      "key": "wc1998-match-037",
+      "uid": "wc1998-match-037@world-cup-ics",
+      "date": "1998-06-24",
+      "team1": "Spain",
+      "team2": "Bulgaria",
+      "official_match_number": 37,
+      "fifa_match_id": "8761"
+    },
+    {
+      "sequence": 38,
+      "key": "wc1998-match-038",
+      "uid": "wc1998-match-038@world-cup-ics",
+      "date": "1998-06-24",
+      "team1": "France",
+      "team2": "Denmark",
+      "official_match_number": 38,
+      "fifa_match_id": "8762"
+    },
+    {
+      "sequence": 39,
+      "key": "wc1998-match-039",
+      "uid": "wc1998-match-039@world-cup-ics",
+      "date": "1998-06-24",
+      "team1": "Nigeria",
+      "team2": "Paraguay",
+      "official_match_number": 39,
+      "fifa_match_id": "8763"
+    },
+    {
+      "sequence": 40,
+      "key": "wc1998-match-040",
+      "uid": "wc1998-match-040@world-cup-ics",
+      "date": "1998-06-24",
+      "team1": "South Africa",
+      "team2": "Saudi Arabia",
+      "official_match_number": 40,
+      "fifa_match_id": "8764"
+    },
+    {
+      "sequence": 41,
+      "key": "wc1998-match-041",
+      "uid": "wc1998-match-041@world-cup-ics",
+      "date": "1998-06-25",
+      "team1": "Belgium",
+      "team2": "South Korea",
+      "official_match_number": 41,
+      "fifa_match_id": "8765"
+    },
+    {
+      "sequence": 42,
+      "key": "wc1998-match-042",
+      "uid": "wc1998-match-042@world-cup-ics",
+      "date": "1998-06-25",
+      "team1": "Netherlands",
+      "team2": "Mexico",
+      "official_match_number": 42,
+      "fifa_match_id": "8766"
+    },
+    {
+      "sequence": 43,
+      "key": "wc1998-match-043",
+      "uid": "wc1998-match-043@world-cup-ics",
+      "date": "1998-06-25",
+      "team1": "Germany",
+      "team2": "Iran",
+      "official_match_number": 43,
+      "fifa_match_id": "8767"
+    },
+    {
+      "sequence": 44,
+      "key": "wc1998-match-044",
+      "uid": "wc1998-match-044@world-cup-ics",
+      "date": "1998-06-25",
+      "team1": "USA",
+      "team2": "Yugoslavia",
+      "official_match_number": 44,
+      "fifa_match_id": "8768"
+    },
+    {
+      "sequence": 45,
+      "key": "wc1998-match-045",
+      "uid": "wc1998-match-045@world-cup-ics",
+      "date": "1998-06-26",
+      "team1": "Romania",
+      "team2": "Tunisia",
+      "official_match_number": 45,
+      "fifa_match_id": "8769"
+    },
+    {
+      "sequence": 46,
+      "key": "wc1998-match-046",
+      "uid": "wc1998-match-046@world-cup-ics",
+      "date": "1998-06-26",
+      "team1": "Colombia",
+      "team2": "England",
+      "official_match_number": 46,
+      "fifa_match_id": "8770"
+    },
+    {
+      "sequence": 47,
+      "key": "wc1998-match-047",
+      "uid": "wc1998-match-047@world-cup-ics",
+      "date": "1998-06-26",
+      "team1": "Japan",
+      "team2": "Jamaica",
+      "official_match_number": 47,
+      "fifa_match_id": "8771"
+    },
+    {
+      "sequence": 48,
+      "key": "wc1998-match-048",
+      "uid": "wc1998-match-048@world-cup-ics",
+      "date": "1998-06-26",
+      "team1": "Argentina",
+      "team2": "Croatia",
+      "official_match_number": 48,
+      "fifa_match_id": "8772"
+    },
+    {
+      "sequence": 49,
+      "key": "wc1998-match-049",
+      "uid": "wc1998-match-049@world-cup-ics",
+      "date": "1998-06-27",
+      "team1": "Brazil",
+      "team2": "Chile",
+      "official_match_number": 49,
+      "fifa_match_id": "8773"
+    },
+    {
+      "sequence": 50,
+      "key": "wc1998-match-050",
+      "uid": "wc1998-match-050@world-cup-ics",
+      "date": "1998-06-27",
+      "team1": "Italy",
+      "team2": "Norway",
+      "official_match_number": 50,
+      "fifa_match_id": "8774"
+    },
+    {
+      "sequence": 51,
+      "key": "wc1998-match-051",
+      "uid": "wc1998-match-051@world-cup-ics",
+      "date": "1998-06-28",
+      "team1": "Nigeria",
+      "team2": "Denmark",
+      "official_match_number": 51,
+      "fifa_match_id": "8775"
+    },
+    {
+      "sequence": 52,
+      "key": "wc1998-match-052",
+      "uid": "wc1998-match-052@world-cup-ics",
+      "date": "1998-06-28",
+      "team1": "France",
+      "team2": "Paraguay",
+      "official_match_number": 52,
+      "fifa_match_id": "8776"
+    },
+    {
+      "sequence": 53,
+      "key": "wc1998-match-053",
+      "uid": "wc1998-match-053@world-cup-ics",
+      "date": "1998-06-29",
+      "team1": "Germany",
+      "team2": "Mexico",
+      "official_match_number": 53,
+      "fifa_match_id": "8777"
+    },
+    {
+      "sequence": 54,
+      "key": "wc1998-match-054",
+      "uid": "wc1998-match-054@world-cup-ics",
+      "date": "1998-06-29",
+      "team1": "Netherlands",
+      "team2": "Yugoslavia",
+      "official_match_number": 54,
+      "fifa_match_id": "8778"
+    },
+    {
+      "sequence": 55,
+      "key": "wc1998-match-055",
+      "uid": "wc1998-match-055@world-cup-ics",
+      "date": "1998-06-30",
+      "team1": "Argentina",
+      "team2": "England",
+      "official_match_number": 55,
+      "fifa_match_id": "8779"
+    },
+    {
+      "sequence": 56,
+      "key": "wc1998-match-056",
+      "uid": "wc1998-match-056@world-cup-ics",
+      "date": "1998-06-30",
+      "team1": "Romania",
+      "team2": "Croatia",
+      "official_match_number": 56,
+      "fifa_match_id": "8780"
+    },
+    {
+      "sequence": 57,
+      "key": "wc1998-match-057",
+      "uid": "wc1998-match-057@world-cup-ics",
+      "date": "1998-07-03",
+      "team1": "Italy",
+      "team2": "France",
+      "official_match_number": 57,
+      "fifa_match_id": "8781"
+    },
+    {
+      "sequence": 58,
+      "key": "wc1998-match-058",
+      "uid": "wc1998-match-058@world-cup-ics",
+      "date": "1998-07-03",
+      "team1": "Brazil",
+      "team2": "Denmark",
+      "official_match_number": 58,
+      "fifa_match_id": "8782"
+    },
+    {
+      "sequence": 59,
+      "key": "wc1998-match-059",
+      "uid": "wc1998-match-059@world-cup-ics",
+      "date": "1998-07-04",
+      "team1": "Germany",
+      "team2": "Croatia",
+      "official_match_number": 59,
+      "fifa_match_id": "8783"
+    },
+    {
+      "sequence": 60,
+      "key": "wc1998-match-060",
+      "uid": "wc1998-match-060@world-cup-ics",
+      "date": "1998-07-04",
+      "team1": "Netherlands",
+      "team2": "Argentina",
+      "official_match_number": 60,
+      "fifa_match_id": "8784"
+    },
+    {
+      "sequence": 61,
+      "key": "wc1998-match-061",
+      "uid": "wc1998-match-061@world-cup-ics",
+      "date": "1998-07-07",
+      "team1": "Brazil",
+      "team2": "Netherlands",
+      "official_match_number": 61,
+      "fifa_match_id": "8785"
+    },
+    {
+      "sequence": 62,
+      "key": "wc1998-match-062",
+      "uid": "wc1998-match-062@world-cup-ics",
+      "date": "1998-07-08",
+      "team1": "France",
+      "team2": "Croatia",
+      "official_match_number": 62,
+      "fifa_match_id": "8786"
+    },
+    {
+      "sequence": 63,
+      "key": "wc1998-match-063",
+      "uid": "wc1998-match-063@world-cup-ics",
+      "date": "1998-07-11",
+      "team1": "Netherlands",
+      "team2": "Croatia",
+      "official_match_number": 63,
+      "fifa_match_id": "8787"
+    },
+    {
+      "sequence": 64,
+      "key": "wc1998-match-064",
+      "uid": "wc1998-match-064@world-cup-ics",
+      "date": "1998-07-12",
+      "team1": "Brazil",
+      "team2": "France",
+      "official_match_number": 64,
+      "fifa_match_id": "8788"
+    }
+  ]
+}

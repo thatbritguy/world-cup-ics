@@ -11,7 +11,8 @@
       "coordinate_source": "https://en.wikipedia.org/wiki/Camping_World_Stadium",
       "coordinate_source_title": "Camping World Stadium",
       "match_score": 0,
-      "coordinate_status": "candidate"
+      "coordinate_status": "verified",
+      "coordinate_review": "Manual source-title and location review"
     },
     {
       "name": "Cotton Bowl",
@@ -24,7 +25,8 @@
       "coordinate_source": "https://en.wikipedia.org/wiki/Cotton_Bowl_(stadium)",
       "coordinate_source_title": "Cotton Bowl (stadium)",
       "match_score": 20,
-      "coordinate_status": "candidate"
+      "coordinate_status": "verified",
+      "coordinate_review": "Manual source-title and location review"
     },
     {
       "name": "Foxboro Stadium",
@@ -37,7 +39,8 @@
       "coordinate_source": "https://en.wikipedia.org/wiki/Foxboro_Stadium",
       "coordinate_source_title": "Foxboro Stadium",
       "match_score": 15,
-      "coordinate_status": "candidate"
+      "coordinate_status": "verified",
+      "coordinate_review": "Manual source-title and location review"
     },
     {
       "name": "Giants Stadium",
@@ -45,12 +48,11 @@
       "ground_aliases": [
         "Giants Stadium, East Rutherford"
       ],
-      "latitude": 40.8126637,
-      "longitude": -74.0856264,
-      "coordinate_source": "https://www.openstreetmap.org/w/230056154",
-      "coordinate_source_title": "New York Giants Main Offices",
-      "match_score": 10,
-      "coordinate_status": "candidate"
+      "latitude": 40.812222,
+      "longitude": -74.076944,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Giants_Stadium",
+      "coordinate_source_title": "Giants Stadium",
+      "coordinate_status": "verified"
     },
     {
       "name": "Pontiac Silverdome",
@@ -63,7 +65,8 @@
       "coordinate_source": "https://en.wikipedia.org/wiki/Pontiac_Silverdome",
       "coordinate_source_title": "Pontiac Silverdome",
       "match_score": 25,
-      "coordinate_status": "candidate"
+      "coordinate_status": "verified",
+      "coordinate_review": "Manual source-title and location review"
     },
     {
       "name": "RFK Stadium",
@@ -71,12 +74,11 @@
       "ground_aliases": [
         "RFK Stadium, Washington"
       ],
-      "latitude": 38.89,
-      "longitude": -76.9719,
-      "coordinate_source": "https://en.wikipedia.org/wiki/New_Stadium_at_RFK_Campus",
-      "coordinate_source_title": "New Stadium at RFK Campus",
-      "match_score": 10,
-      "coordinate_status": "candidate"
+      "latitude": 38.889722,
+      "longitude": -76.971667,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Robert_F._Kennedy_Memorial_Stadium",
+      "coordinate_source_title": "Robert F. Kennedy Memorial Stadium",
+      "coordinate_status": "verified"
     },
     {
       "name": "Rose Bowl",
@@ -89,7 +91,8 @@
       "coordinate_source": "https://en.wikipedia.org/wiki/Rose_Bowl_(stadium)",
       "coordinate_source_title": "Rose Bowl (stadium)",
       "match_score": 20,
-      "coordinate_status": "candidate"
+      "coordinate_status": "verified",
+      "coordinate_review": "Manual source-title and location review"
     },
     {
       "name": "Soldier Field",
@@ -102,7 +105,8 @@
       "coordinate_source": "https://en.wikipedia.org/wiki/Soldier_Field",
       "coordinate_source_title": "Soldier Field",
       "match_score": 25,
-      "coordinate_status": "candidate"
+      "coordinate_status": "verified",
+      "coordinate_review": "Manual source-title and location review"
     },
     {
       "name": "Stanford Stadium",
@@ -115,7 +119,8 @@
       "coordinate_source": "https://en.wikipedia.org/wiki/Stanford_Stadium",
       "coordinate_source_title": "Stanford Stadium",
       "match_score": 15,
-      "coordinate_status": "candidate"
+      "coordinate_status": "verified",
+      "coordinate_review": "Manual source-title and location review"
     }
   ]
 }

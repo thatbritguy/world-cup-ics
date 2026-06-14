@@ -1,8 +1,8 @@
 {
   "year": 2014,
-  "status": "review",
+  "status": "validated",
   "calendar_profile": "archive",
-  "numbering": "Chronological match numbers where FIFA archive numbering is unavailable",
+  "numbering": "FIFA official match numbers with deterministic fallback numbers where archive records are unavailable",
   "matches": [
     {
       "sequence": 1,
@@ -281,7 +281,7 @@
       "date": "2014-06-21",
       "team1": "Nigeria",
       "team2": "Bosnia-Herzegovina",
-      "official_match_number": 29,
+      "official_match_number": 28,
       "fifa_match_id": null
     },
     {
@@ -419,30 +419,30 @@
       "key": "wc2014-match-042",
       "uid": "wc2014-match-042@world-cup-ics",
       "date": "2014-06-25",
-      "team1": "Bosnia-Herzegovina",
-      "team2": "Iran",
-      "official_match_number": 41,
-      "fifa_match_id": null
-    },
-    {
-      "sequence": 43,
-      "key": "wc2014-match-043",
-      "uid": "wc2014-match-043@world-cup-ics",
-      "date": "2014-06-25",
       "team1": "Ecuador",
       "team2": "France",
       "official_match_number": 42,
       "fifa_match_id": "300186515"
     },
     {
-      "sequence": 44,
-      "key": "wc2014-match-044",
-      "uid": "wc2014-match-044@world-cup-ics",
+      "sequence": 43,
+      "key": "wc2014-match-043",
+      "uid": "wc2014-match-043@world-cup-ics",
       "date": "2014-06-25",
       "team1": "Nigeria",
       "team2": "Argentina",
       "official_match_number": 43,
       "fifa_match_id": "300186458"
+    },
+    {
+      "sequence": 44,
+      "key": "wc2014-match-044",
+      "uid": "wc2014-match-044@world-cup-ics",
+      "date": "2014-06-25",
+      "team1": "Bosnia-Herzegovina",
+      "team2": "Iran",
+      "official_match_number": 44,
+      "fifa_match_id": null
     },
     {
       "sequence": 45,

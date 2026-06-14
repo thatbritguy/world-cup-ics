@@ -30,10 +30,10 @@ DTSTART:20020601T063000Z
 DTEND:20020601T083000Z
 SUMMARY:[E1] 🇮🇪 IRL 1-1 CMR 🇨🇲 [002]
 LOCATION:Niigata Stadium\, Niigata
-GEO:37.446194;138.851250
+GEO:37.882500;139.059167
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Niigata Stadium, Niigata";
- X-APPLE-RADIUS=100;X-TITLE="Niigata Stadium, Niigata":geo:37.446194,138.85
- 1250
+ X-APPLE-RADIUS=100;X-TITLE="Niigata Stadium, Niigata":geo:37.882500,139.05
+ 9167
 DESCRIPTION:Group E | Matchday 1 | 2002 FIFA World Cup - South Korea & Japa
  n\nRepublic of Ireland 1-1 Cameroon
 URL:https://en.wikipedia.org/wiki/2002_FIFA_World_Cup
@@ -83,10 +83,10 @@ DTSTART:20020602T093000Z
 DTEND:20020602T113000Z
 SUMMARY:[F1] 🏴󠁧󠁢󠁥󠁮󠁧󠁿 ENG 1-1 SWE 🇸🇪 [005]
 LOCATION:Saitama Stadium\, Saitama
-GEO:35.861389;139.645556
+GEO:35.903056;139.717778
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Saitama Stadium, Saitama";
- X-APPLE-RADIUS=100;X-TITLE="Saitama Stadium, Saitama":geo:35.861389,139.64
- 5556
+ X-APPLE-RADIUS=100;X-TITLE="Saitama Stadium, Saitama":geo:35.903056,139.71
+ 7778
 DESCRIPTION:Group F | Matchday 1 | 2002 FIFA World Cup - South Korea & Japa
  n\nEngland 1-1 Sweden
 URL:https://en.wikipedia.org/wiki/2002_FIFA_World_Cup
@@ -155,10 +155,10 @@ DTSTART:20020603T063000Z
 DTEND:20020603T083000Z
 SUMMARY:[G1] 🇭🇷 CRO 0-1 MEX 🇲🇽 [009]
 LOCATION:Niigata Stadium\, Niigata
-GEO:37.446194;138.851250
+GEO:37.882500;139.059167
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Niigata Stadium, Niigata";
- X-APPLE-RADIUS=100;X-TITLE="Niigata Stadium, Niigata":geo:37.446194,138.85
- 1250
+ X-APPLE-RADIUS=100;X-TITLE="Niigata Stadium, Niigata":geo:37.882500,139.05
+ 9167
 DESCRIPTION:Group G | Matchday 1 | 2002 FIFA World Cup - South Korea & Japa
  n\nCroatia 0-1 Mexico
 URL:https://en.wikipedia.org/wiki/2002_FIFA_World_Cup
@@ -226,10 +226,10 @@ DTSTART:20020604T090000Z
 DTEND:20020604T110000Z
 SUMMARY:[H1] 🇯🇵 JPN 2-2 BEL 🇧🇪 [013]
 LOCATION:Saitama Stadium\, Saitama
-GEO:35.861389;139.645556
+GEO:35.903056;139.717778
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Saitama Stadium, Saitama";
- X-APPLE-RADIUS=100;X-TITLE="Saitama Stadium, Saitama":geo:35.861389,139.64
- 5556
+ X-APPLE-RADIUS=100;X-TITLE="Saitama Stadium, Saitama":geo:35.903056,139.71
+ 7778
 DESCRIPTION:Group H | Matchday 1 | 2002 FIFA World Cup - South Korea & Japa
  n\nJapan 2-2 Belgium
 URL:https://en.wikipedia.org/wiki/2002_FIFA_World_Cup
@@ -262,10 +262,10 @@ DTSTART:20020605T063000Z
 DTEND:20020605T083000Z
 SUMMARY:[H1] 🇷🇺 RUS 2-0 TUN 🇹🇳 [015]
 LOCATION:Kobe Wing Stadium\, Kobe
-GEO:34.690000;135.195556
+GEO:34.656667;135.168889
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Kobe Wing Stadium, Kobe";X
- -APPLE-RADIUS=100;X-TITLE="Kobe Wing Stadium, Kobe":geo:34.690000,135.1955
- 56
+ -APPLE-RADIUS=100;X-TITLE="Kobe Wing Stadium, Kobe":geo:34.656667,135.1688
+ 89
 DESCRIPTION:Group H | Matchday 1 | 2002 FIFA World Cup - South Korea & Japa
  n\nRussia 2-0 Tunisia
 URL:https://en.wikipedia.org/wiki/2002_FIFA_World_Cup
@@ -334,10 +334,10 @@ DTSTART:20020606T090000Z
 DTEND:20020606T110000Z
 SUMMARY:[E2] 🇨🇲 CMR 1-0 KSA 🇸🇦 [019]
 LOCATION:Saitama Stadium\, Saitama
-GEO:35.861389;139.645556
+GEO:35.903056;139.717778
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Saitama Stadium, Saitama";
- X-APPLE-RADIUS=100;X-TITLE="Saitama Stadium, Saitama":geo:35.861389,139.64
- 5556
+ X-APPLE-RADIUS=100;X-TITLE="Saitama Stadium, Saitama":geo:35.903056,139.71
+ 7778
 DESCRIPTION:Group E | Matchday 2 | 2002 FIFA World Cup - South Korea & Japa
  n\nCameroon 1-0 Saudi Arabia
 URL:https://en.wikipedia.org/wiki/2002_FIFA_World_Cup
@@ -352,10 +352,10 @@ DTSTART:20020606T063000Z
 DTEND:20020606T083000Z
 SUMMARY:[A2] 🇩🇰 DEN 1-1 SEN 🇸🇳 [020]
 LOCATION:Daegu World Cup Stadium\, Daegu
-GEO:35.871667;128.601667
+GEO:35.829722;128.690278
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Daegu World Cup Stadium, D
  aegu";X-APPLE-RADIUS=100;X-TITLE="Daegu World Cup Stadium, Daegu":geo:35.8
- 71667,128.601667
+ 29722,128.690278
 DESCRIPTION:Group A | Matchday 2 | 2002 FIFA World Cup - South Korea & Japa
  n\nDenmark 1-1 Senegal
 URL:https://en.wikipedia.org/wiki/2002_FIFA_World_Cup
@@ -370,10 +370,10 @@ DTSTART:20020607T063000Z
 DTEND:20020607T083000Z
 SUMMARY:[F2] 🇸🇪 SWE 2-1 NGA 🇳🇬 [021]
 LOCATION:Kobe Wing Stadium\, Kobe
-GEO:34.690000;135.195556
+GEO:34.656667;135.168889
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Kobe Wing Stadium, Kobe";X
- -APPLE-RADIUS=100;X-TITLE="Kobe Wing Stadium, Kobe":geo:34.690000,135.1955
- 56
+ -APPLE-RADIUS=100;X-TITLE="Kobe Wing Stadium, Kobe":geo:34.656667,135.1688
+ 89
 DESCRIPTION:Group F | Matchday 2 | 2002 FIFA World Cup - South Korea & Japa
  n\nSweden 2-1 Nigeria
 URL:https://en.wikipedia.org/wiki/2002_FIFA_World_Cup
@@ -423,10 +423,10 @@ DTSTART:20020608T063000Z
 DTEND:20020608T083000Z
 SUMMARY:[B2] 🇿🇦 RSA 1-0 SVN 🇸🇮 [024]
 LOCATION:Daegu World Cup Stadium\, Daegu
-GEO:35.871667;128.601667
+GEO:35.829722;128.690278
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Daegu World Cup Stadium, D
  aegu";X-APPLE-RADIUS=100;X-TITLE="Daegu World Cup Stadium, Daegu":geo:35.8
- 71667,128.601667
+ 29722,128.690278
 DESCRIPTION:Group B | Matchday 2 | 2002 FIFA World Cup - South Korea & Japa
  n\nSouth Africa 1-0 Slovenia
 URL:https://en.wikipedia.org/wiki/2002_FIFA_World_Cup
@@ -512,10 +512,10 @@ DTSTART:20020609T113000Z
 DTEND:20020609T133000Z
 SUMMARY:[H2] 🇯🇵 JPN 1-0 RUS 🇷🇺 [029]
 LOCATION:International Stadium Yokohama\, Yokohama
-GEO:35.444167;139.638056
+GEO:35.510000;139.606389
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="International Stadium Yoko
  hama, Yokohama";X-APPLE-RADIUS=100;X-TITLE="International Stadium Yokohama
- , Yokohama":geo:35.444167,139.638056
+ , Yokohama":geo:35.510000,139.606389
 DESCRIPTION:Group H | Matchday 2 | 2002 FIFA World Cup - South Korea & Japa
  n\nJapan 1-0 Russia
 URL:https://en.wikipedia.org/wiki/2002_FIFA_World_Cup
@@ -530,10 +530,10 @@ DTSTART:20020610T063000Z
 DTEND:20020610T083000Z
 SUMMARY:[D2] 🇰🇷 KOR 1-1 USA 🇺🇸 [030]
 LOCATION:Daegu World Cup Stadium\, Daegu
-GEO:35.871667;128.601667
+GEO:35.829722;128.690278
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Daegu World Cup Stadium, D
  aegu";X-APPLE-RADIUS=100;X-TITLE="Daegu World Cup Stadium, Daegu":geo:35.8
- 71667,128.601667
+ 29722,128.690278
 DESCRIPTION:Group D | Matchday 2 | 2002 FIFA World Cup - South Korea & Japa
  n\nSouth Korea 1-1 USA
 URL:https://en.wikipedia.org/wiki/2002_FIFA_World_Cup
@@ -637,10 +637,10 @@ DTSTART:20020611T113000Z
 DTEND:20020611T133000Z
 SUMMARY:[E3] 🇸🇦 KSA 0-3 IRL 🇮🇪 [036]
 LOCATION:International Stadium Yokohama\, Yokohama
-GEO:35.444167;139.638056
+GEO:35.510000;139.606389
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="International Stadium Yoko
  hama, Yokohama";X-APPLE-RADIUS=100;X-TITLE="International Stadium Yokohama
- , Yokohama":geo:35.444167,139.638056
+ , Yokohama":geo:35.510000,139.606389
 DESCRIPTION:Group E | Matchday 3 | 2002 FIFA World Cup - South Korea & Japa
  n\nSaudi Arabia 0-3 Republic of Ireland
 URL:https://en.wikipedia.org/wiki/2002_FIFA_World_Cup
@@ -778,10 +778,10 @@ DTSTART:20020613T113000Z
 DTEND:20020613T133000Z
 SUMMARY:[G3] 🇪🇨 ECU 1-0 CRO 🇭🇷 [044]
 LOCATION:International Stadium Yokohama\, Yokohama
-GEO:35.444167;139.638056
+GEO:35.510000;139.606389
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="International Stadium Yoko
  hama, Yokohama";X-APPLE-RADIUS=100;X-TITLE="International Stadium Yokohama
- , Yokohama":geo:35.444167,139.638056
+ , Yokohama":geo:35.510000,139.606389
 DESCRIPTION:Group G | Matchday 3 | 2002 FIFA World Cup - South Korea & Japa
  n\nEcuador 1-0 Croatia
 URL:https://en.wikipedia.org/wiki/2002_FIFA_World_Cup
@@ -885,10 +885,10 @@ DTSTART:20020615T113000Z
 DTEND:20020615T143000Z
 SUMMARY:[R16] 🇩🇰 DEN 0-3 ENG 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [050]
 LOCATION:Niigata Stadium\, Niigata
-GEO:37.446194;138.851250
+GEO:37.882500;139.059167
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Niigata Stadium, Niigata";
- X-APPLE-RADIUS=100;X-TITLE="Niigata Stadium, Niigata":geo:37.446194,138.85
- 1250
+ X-APPLE-RADIUS=100;X-TITLE="Niigata Stadium, Niigata":geo:37.882500,139.05
+ 9167
 DESCRIPTION:Round of 16 | 2002 FIFA World Cup - South Korea & Japan\nDenmar
  k 0-3 England
 URL:https://en.wikipedia.org/wiki/2002_FIFA_World_Cup
@@ -956,10 +956,10 @@ DTSTART:20020617T113000Z
 DTEND:20020617T143000Z
 SUMMARY:[R16] 🇧🇷 BRA 2-0 BEL 🇧🇪 [054]
 LOCATION:Kobe Wing Stadium\, Kobe
-GEO:34.690000;135.195556
+GEO:34.656667;135.168889
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Kobe Wing Stadium, Kobe";X
- -APPLE-RADIUS=100;X-TITLE="Kobe Wing Stadium, Kobe":geo:34.690000,135.1955
- 56
+ -APPLE-RADIUS=100;X-TITLE="Kobe Wing Stadium, Kobe":geo:34.656667,135.1688
+ 89
 DESCRIPTION:Round of 16 | 2002 FIFA World Cup - South Korea & Japan\nBrazil
   2-0 Belgium
 URL:https://en.wikipedia.org/wiki/2002_FIFA_World_Cup
@@ -1098,10 +1098,10 @@ DTSTART:20020626T113000Z
 DTEND:20020626T143000Z
 SUMMARY:[SF2] 🇧🇷 BRA 1-0 TUR 🇹🇷 [062]
 LOCATION:Saitama Stadium\, Saitama
-GEO:35.861389;139.645556
+GEO:35.903056;139.717778
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Saitama Stadium, Saitama";
- X-APPLE-RADIUS=100;X-TITLE="Saitama Stadium, Saitama":geo:35.861389,139.64
- 5556
+ X-APPLE-RADIUS=100;X-TITLE="Saitama Stadium, Saitama":geo:35.903056,139.71
+ 7778
 DESCRIPTION:Semi-finals | 2002 FIFA World Cup - South Korea & Japan\nBrazil
   1-0 Turkey
 URL:https://en.wikipedia.org/wiki/2002_FIFA_World_Cup
@@ -1116,10 +1116,10 @@ DTSTART:20020629T110000Z
 DTEND:20020629T140000Z
 SUMMARY:[THIRD-PLACE-PLAY-OFF] 🇰🇷 KOR 2-3 TUR 🇹🇷 [063]
 LOCATION:Daegu World Cup Stadium\, Daegu
-GEO:35.871667;128.601667
+GEO:35.829722;128.690278
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Daegu World Cup Stadium, D
  aegu";X-APPLE-RADIUS=100;X-TITLE="Daegu World Cup Stadium, Daegu":geo:35.8
- 71667,128.601667
+ 29722,128.690278
 DESCRIPTION:Third place play-off | 2002 FIFA World Cup - South Korea & Japa
  n\nSouth Korea 2-3 Turkey
 URL:https://en.wikipedia.org/wiki/2002_FIFA_World_Cup
@@ -1134,10 +1134,10 @@ DTSTART:20020630T110000Z
 DTEND:20020630T140000Z
 SUMMARY:[FINAL] 🇩🇪 GER 0-2 BRA 🇧🇷 [064]
 LOCATION:International Stadium Yokohama\, Yokohama
-GEO:35.444167;139.638056
+GEO:35.510000;139.606389
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="International Stadium Yoko
  hama, Yokohama";X-APPLE-RADIUS=100;X-TITLE="International Stadium Yokohama
- , Yokohama":geo:35.444167,139.638056
+ , Yokohama":geo:35.510000,139.606389
 DESCRIPTION:Final | 2002 FIFA World Cup - South Korea & Japan\nGermany 0-2 
  Brazil
 URL:https://en.wikipedia.org/wiki/2002_FIFA_World_Cup

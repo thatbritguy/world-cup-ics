@@ -6,11 +6,11 @@
       "ground_aliases": [
         "Cape Town Stadium, Cape Town"
       ],
-      "latitude": -33.92527778,
-      "longitude": 18.42388889,
-      "coordinate_source": "https://en.wikipedia.org/wiki/Cape_Town",
-      "coordinate_source_title": "Cape Town",
-      "match_score": 25
+      "latitude": -33.903611,
+      "longitude": 18.411111,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Cape_Town_Stadium",
+      "coordinate_source_title": "Cape Town Stadium",
+      "coordinate_status": "verified"
     },
     {
       "name": "Ellis Park Stadium",
@@ -22,7 +22,9 @@
       "longitude": 28.06083333,
       "coordinate_source": "https://en.wikipedia.org/wiki/Ellis_Park_Stadium",
       "coordinate_source_title": "Ellis Park Stadium",
-      "match_score": 25
+      "match_score": 25,
+      "coordinate_status": "verified",
+      "coordinate_review": "Manual source-title and location review"
     },
     {
       "name": "Free State Stadium",
@@ -34,7 +36,9 @@
       "longitude": 26.20888889,
       "coordinate_source": "https://en.wikipedia.org/wiki/Free_State_Stadium",
       "coordinate_source_title": "Free State Stadium",
-      "match_score": 25
+      "match_score": 25,
+      "coordinate_status": "verified",
+      "coordinate_review": "Manual source-title and location review"
     },
     {
       "name": "Loftus Versfeld Stadium",
@@ -46,7 +50,9 @@
       "longitude": 28.22277778,
       "coordinate_source": "https://en.wikipedia.org/wiki/Loftus_Versfeld_Stadium",
       "coordinate_source_title": "Loftus Versfeld Stadium",
-      "match_score": 25
+      "match_score": 25,
+      "coordinate_status": "verified",
+      "coordinate_review": "Manual source-title and location review"
     },
     {
       "name": "Mbombela Stadium",
@@ -54,11 +60,11 @@
       "ground_aliases": [
         "Mbombela Stadium, Nelspruit"
       ],
-      "latitude": -25.46583333,
-      "longitude": 30.98527778,
-      "coordinate_source": "https://en.wikipedia.org/wiki/Mbombela",
-      "coordinate_source_title": "Mbombela",
-      "match_score": 15
+      "latitude": -25.461944,
+      "longitude": 30.929722,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Mbombela_Stadium",
+      "coordinate_source_title": "Mbombela Stadium",
+      "coordinate_status": "verified"
     },
     {
       "name": "Moses Mabhida Stadium",
@@ -70,7 +76,9 @@
       "longitude": 31.0303,
       "coordinate_source": "https://en.wikipedia.org/wiki/Moses_Mabhida_Stadium",
       "coordinate_source_title": "Moses Mabhida Stadium",
-      "match_score": 25
+      "match_score": 25,
+      "coordinate_status": "verified",
+      "coordinate_review": "Manual source-title and location review"
     },
     {
       "name": "Nelson Mandela Bay Stadium",
@@ -82,7 +90,9 @@
       "longitude": 25.59888889,
       "coordinate_source": "https://en.wikipedia.org/wiki/Nelson_Mandela_Bay_Stadium",
       "coordinate_source_title": "Nelson Mandela Bay Stadium",
-      "match_score": 35
+      "match_score": 35,
+      "coordinate_status": "verified",
+      "coordinate_review": "Manual source-title and location review"
     },
     {
       "name": "Peter Mokaba Stadium",
@@ -94,7 +104,9 @@
       "longitude": 29.468765,
       "coordinate_source": "https://en.wikipedia.org/wiki/Peter_Mokaba_Stadium",
       "coordinate_source_title": "Peter Mokaba Stadium",
-      "match_score": 25
+      "match_score": 25,
+      "coordinate_status": "verified",
+      "coordinate_review": "Manual source-title and location review"
     },
     {
       "name": "Royal Bafokeng Stadium",
@@ -106,7 +118,9 @@
       "longitude": 27.1607,
       "coordinate_source": "https://en.wikipedia.org/wiki/Royal_Bafokeng_Stadium",
       "coordinate_source_title": "Royal Bafokeng Stadium",
-      "match_score": 25
+      "match_score": 25,
+      "coordinate_status": "verified",
+      "coordinate_review": "Manual source-title and location review"
     },
     {
       "name": "Soccer City",
@@ -114,11 +128,11 @@
       "ground_aliases": [
         "Soccer City, Johannesburg"
       ],
-      "latitude": -26.20444444,
-      "longitude": 28.04555556,
-      "coordinate_source": "https://en.wikipedia.org/wiki/Johannesburg",
-      "coordinate_source_title": "Johannesburg",
-      "match_score": 15
+      "latitude": -26.234797,
+      "longitude": 27.982667,
+      "coordinate_source": "https://en.wikipedia.org/wiki/FNB_Stadium",
+      "coordinate_source_title": "FNB Stadium",
+      "coordinate_status": "verified"
     }
   ]
 }

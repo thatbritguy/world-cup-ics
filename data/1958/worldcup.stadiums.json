@@ -11,7 +11,8 @@
       "coordinate_source": "https://en.wikipedia.org/wiki/Arosvallen",
       "coordinate_source_title": "Arosvallen",
       "match_score": 15,
-      "coordinate_status": "candidate"
+      "coordinate_status": "verified",
+      "coordinate_review": "Manual source-title and location review"
     },
     {
       "name": "Eyravallen",
@@ -24,7 +25,8 @@
       "coordinate_source": "https://en.wikipedia.org/wiki/Eyravallen",
       "coordinate_source_title": "Eyravallen",
       "match_score": 15,
-      "coordinate_status": "candidate"
+      "coordinate_status": "verified",
+      "coordinate_review": "Manual source-title and location review"
     },
     {
       "name": "Idrottsparken",
@@ -37,7 +39,8 @@
       "coordinate_source": "https://en.wikipedia.org/wiki/Idrottsparken_(Norrk%C3%B6ping)",
       "coordinate_source_title": "Idrottsparken (Norrköping)",
       "match_score": 25,
-      "coordinate_status": "candidate"
+      "coordinate_status": "verified",
+      "coordinate_review": "Manual source-title and location review"
     },
     {
       "name": "Jernvallen",
@@ -50,7 +53,8 @@
       "coordinate_source": "https://en.wikipedia.org/wiki/Jernvallen",
       "coordinate_source_title": "Jernvallen",
       "match_score": 15,
-      "coordinate_status": "candidate"
+      "coordinate_status": "verified",
+      "coordinate_review": "Manual source-title and location review"
     },
     {
       "name": "Malmö Stadion",
@@ -63,7 +67,8 @@
       "coordinate_source": "https://en.wikipedia.org/wiki/Malm%C3%B6_Stadion",
       "coordinate_source_title": "Malmö Stadion",
       "match_score": 25,
-      "coordinate_status": "candidate"
+      "coordinate_status": "verified",
+      "coordinate_review": "Manual source-title and location review"
     },
     {
       "name": "Olympiastadion",
@@ -76,7 +81,8 @@
       "coordinate_source": "https://en.wikipedia.org/wiki/Olympia_(Helsingborg)",
       "coordinate_source_title": "Olympia (Helsingborg)",
       "match_score": 10,
-      "coordinate_status": "candidate"
+      "coordinate_status": "verified",
+      "coordinate_review": "Manual source-title and location review"
     },
     {
       "name": "Rimnersvallen",
@@ -89,7 +95,8 @@
       "coordinate_source": "https://en.wikipedia.org/wiki/Rimnersvallen",
       "coordinate_source_title": "Rimnersvallen",
       "match_score": 15,
-      "coordinate_status": "candidate"
+      "coordinate_status": "verified",
+      "coordinate_review": "Manual source-title and location review"
     },
     {
       "name": "Ryavallen",
@@ -97,12 +104,11 @@
       "ground_aliases": [
         "Ryavallen, Borås"
       ],
-      "latitude": 57.72111111,
-      "longitude": 12.94027778,
-      "coordinate_source": "https://en.wikipedia.org/wiki/Bor%C3%A5s",
-      "coordinate_source_title": "Borås",
-      "match_score": 15,
-      "coordinate_status": "candidate"
+      "latitude": 57.734167,
+      "longitude": 12.934444,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Ryavallen",
+      "coordinate_source_title": "Ryavallen",
+      "coordinate_status": "verified"
     },
     {
       "name": "Råsunda Stadium",
@@ -115,7 +121,8 @@
       "coordinate_source": "https://en.wikipedia.org/wiki/R%C3%A5sunda_Stadium",
       "coordinate_source_title": "Råsunda Stadium",
       "match_score": 15,
-      "coordinate_status": "candidate"
+      "coordinate_status": "verified",
+      "coordinate_review": "Manual source-title and location review"
     },
     {
       "name": "Tunavallen",
@@ -123,12 +130,11 @@
       "ground_aliases": [
         "Tunavallen, Eskilstuna"
       ],
-      "latitude": 59.37083333,
-      "longitude": 16.50972222,
-      "coordinate_source": "https://en.wikipedia.org/wiki/Eskilstuna",
-      "coordinate_source_title": "Eskilstuna",
-      "match_score": 15,
-      "coordinate_status": "candidate"
+      "latitude": 59.366667,
+      "longitude": 16.500556,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Tunavallen",
+      "coordinate_source_title": "Tunavallen",
+      "coordinate_status": "verified"
     },
     {
       "name": "Ullevi",
@@ -141,7 +147,8 @@
       "coordinate_source": "https://en.wikipedia.org/wiki/Ullevi",
       "coordinate_source_title": "Ullevi",
       "match_score": 15,
-      "coordinate_status": "candidate"
+      "coordinate_status": "verified",
+      "coordinate_review": "Manual source-title and location review"
     },
     {
       "name": "Örjans Vall",
@@ -154,7 +161,8 @@
       "coordinate_source": "https://en.wikipedia.org/wiki/%C3%96rjans_Vall",
       "coordinate_source_title": "Örjans Vall",
       "match_score": 25,
-      "coordinate_status": "candidate"
+      "coordinate_status": "verified",
+      "coordinate_review": "Manual source-title and location review"
     }
   ]
 }

@@ -64,10 +64,10 @@ DTSTART:19940618T200000Z
 DTEND:19940618T220000Z
 SUMMARY:[E1] 🇮🇹 ITA 0-1 IRL 🇮🇪 [004]
 LOCATION:Giants Stadium\, East Rutherford
-GEO:40.812664;-74.085626
+GEO:40.812222;-74.076944
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Giants Stadium, East Ruthe
  rford";X-APPLE-RADIUS=100;X-TITLE="Giants Stadium, East Rutherford":geo:40
- .812664,-74.085626
+ .812222,-74.076944
 DESCRIPTION:Group E | Matchday 1 | 1994 FIFA World Cup - United States\nIta
  ly 0-1 Republic of Ireland
 URL:https://en.wikipedia.org/wiki/1994_FIFA_World_Cup
@@ -116,10 +116,10 @@ DTSTART:19940619T200000Z
 DTEND:19940619T220000Z
 SUMMARY:[E1] 🇳🇴 NOR 1-0 MEX 🇲🇽 [007]
 LOCATION:RFK Stadium\, Washington
-GEO:38.890000;-76.971900
+GEO:38.889722;-76.971667
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="RFK Stadium, Washington";X
- -APPLE-RADIUS=100;X-TITLE="RFK Stadium, Washington":geo:38.890000,-76.9719
- 00
+ -APPLE-RADIUS=100;X-TITLE="RFK Stadium, Washington":geo:38.889722,-76.9716
+ 67
 DESCRIPTION:Group E | Matchday 1 | 1994 FIFA World Cup - United States\nNor
  way 1-0 Mexico
 URL:https://en.wikipedia.org/wiki/1994_FIFA_World_Cup
@@ -169,10 +169,10 @@ DTSTART:19940620T233000Z
 DTEND:19940621T013000Z
 SUMMARY:[F1] 🇳🇱 NED 2-1 KSA 🇸🇦 [010]
 LOCATION:RFK Stadium\, Washington
-GEO:38.890000;-76.971900
+GEO:38.889722;-76.971667
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="RFK Stadium, Washington";X
- -APPLE-RADIUS=100;X-TITLE="RFK Stadium, Washington":geo:38.890000,-76.9719
- 00
+ -APPLE-RADIUS=100;X-TITLE="RFK Stadium, Washington":geo:38.889722,-76.9716
+ 67
 DESCRIPTION:Group F | Matchday 1 | 1994 FIFA World Cup - United States\nNet
  herlands 2-1 Saudi Arabia
 URL:https://en.wikipedia.org/wiki/1994_FIFA_World_Cup
@@ -274,10 +274,10 @@ DTSTART:19940623T200000Z
 DTEND:19940623T220000Z
 SUMMARY:[E2] 🇮🇹 ITA 1-0 NOR 🇳🇴 [016]
 LOCATION:Giants Stadium\, East Rutherford
-GEO:40.812664;-74.085626
+GEO:40.812222;-74.076944
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Giants Stadium, East Ruthe
  rford";X-APPLE-RADIUS=100;X-TITLE="Giants Stadium, East Rutherford":geo:40
- .812664,-74.085626
+ .812222,-74.076944
 DESCRIPTION:Group E | Matchday 2 | 1994 FIFA World Cup - United States\nIta
  ly 1-0 Norway
 URL:https://en.wikipedia.org/wiki/1994_FIFA_World_Cup
@@ -380,10 +380,10 @@ DTSTART:19940625T163000Z
 DTEND:19940625T183000Z
 SUMMARY:[F2] 🇸🇦 KSA 2-1 MAR 🇲🇦 [022]
 LOCATION:Giants Stadium\, East Rutherford
-GEO:40.812664;-74.085626
+GEO:40.812222;-74.076944
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Giants Stadium, East Ruthe
  rford";X-APPLE-RADIUS=100;X-TITLE="Giants Stadium, East Rutherford":geo:40
- .812664,-74.085626
+ .812222,-74.076944
 DESCRIPTION:Group F | Matchday 2 | 1994 FIFA World Cup - United States\nSau
  di Arabia 2-1 Morocco
 URL:https://en.wikipedia.org/wiki/1994_FIFA_World_Cup
@@ -502,10 +502,10 @@ DTSTART:19940628T163000Z
 DTEND:19940628T183000Z
 SUMMARY:[E3] 🇮🇪 IRL 0-0 NOR 🇳🇴 [029]
 LOCATION:Giants Stadium\, East Rutherford
-GEO:40.812664;-74.085626
+GEO:40.812222;-74.076944
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Giants Stadium, East Ruthe
  rford";X-APPLE-RADIUS=100;X-TITLE="Giants Stadium, East Rutherford":geo:40
- .812664,-74.085626
+ .812222,-74.076944
 DESCRIPTION:Group E | Matchday 3 | 1994 FIFA World Cup - United States\nRep
  ublic of Ireland 0-0 Norway
 URL:https://en.wikipedia.org/wiki/1994_FIFA_World_Cup
@@ -520,10 +520,10 @@ DTSTART:19940628T163000Z
 DTEND:19940628T183000Z
 SUMMARY:[E3] 🇮🇹 ITA 1-1 MEX 🇲🇽 [030]
 LOCATION:RFK Stadium\, Washington
-GEO:38.890000;-76.971900
+GEO:38.889722;-76.971667
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="RFK Stadium, Washington";X
- -APPLE-RADIUS=100;X-TITLE="RFK Stadium, Washington":geo:38.890000,-76.9719
- 00
+ -APPLE-RADIUS=100;X-TITLE="RFK Stadium, Washington":geo:38.889722,-76.9716
+ 67
 DESCRIPTION:Group E | Matchday 3 | 1994 FIFA World Cup - United States\nIta
  ly 1-1 Mexico
 URL:https://en.wikipedia.org/wiki/1994_FIFA_World_Cup
@@ -591,10 +591,10 @@ DTSTART:19940629T163000Z
 DTEND:19940629T183000Z
 SUMMARY:[F3] 🇧🇪 BEL 0-1 KSA 🇸🇦 [034]
 LOCATION:RFK Stadium\, Washington
-GEO:38.890000;-76.971900
+GEO:38.889722;-76.971667
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="RFK Stadium, Washington";X
- -APPLE-RADIUS=100;X-TITLE="RFK Stadium, Washington":geo:38.890000,-76.9719
- 00
+ -APPLE-RADIUS=100;X-TITLE="RFK Stadium, Washington":geo:38.889722,-76.9716
+ 67
 DESCRIPTION:Group F | Matchday 3 | 1994 FIFA World Cup - United States\nBel
  gium 0-1 Saudi Arabia
 URL:https://en.wikipedia.org/wiki/1994_FIFA_World_Cup
@@ -661,10 +661,10 @@ DTSTART:19940702T203000Z
 DTEND:19940702T233000Z
 SUMMARY:[R16] 🇪🇸 ESP 3-0 SUI 🇨🇭 [038]
 LOCATION:RFK Stadium\, Washington
-GEO:38.890000;-76.971900
+GEO:38.889722;-76.971667
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="RFK Stadium, Washington";X
- -APPLE-RADIUS=100;X-TITLE="RFK Stadium, Washington":geo:38.890000,-76.9719
- 00
+ -APPLE-RADIUS=100;X-TITLE="RFK Stadium, Washington":geo:38.889722,-76.9716
+ 67
 DESCRIPTION:Round of 16 | 1994 FIFA World Cup - United States\nSpain 3-0 Sw
  itzerland
 URL:https://en.wikipedia.org/wiki/1994_FIFA_World_Cup
@@ -766,10 +766,10 @@ DTSTART:19940705T203000Z
 DTEND:19940705T233000Z
 SUMMARY:[R16] 🇲🇽 MEX 1-1 (aet) (p) BUL 🇧🇬 [044]
 LOCATION:Giants Stadium\, East Rutherford
-GEO:40.812664;-74.085626
+GEO:40.812222;-74.076944
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Giants Stadium, East Ruthe
  rford";X-APPLE-RADIUS=100;X-TITLE="Giants Stadium, East Rutherford":geo:40
- .812664,-74.085626
+ .812222,-74.076944
 DESCRIPTION:Round of 16 | 1994 FIFA World Cup - United States\nMexico 1-1 B
  ulgaria\nFT: 1-1\nAET: 1-1\nPenalties: 1-3
 URL:https://en.wikipedia.org/wiki/1994_FIFA_World_Cup
@@ -819,10 +819,10 @@ DTSTART:19940710T160000Z
 DTEND:19940710T190000Z
 SUMMARY:[QF3] 🇧🇬 BUL 2-1 GER 🇩🇪 [047]
 LOCATION:Giants Stadium\, East Rutherford
-GEO:40.812664;-74.085626
+GEO:40.812222;-74.076944
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Giants Stadium, East Ruthe
  rford";X-APPLE-RADIUS=100;X-TITLE="Giants Stadium, East Rutherford":geo:40
- .812664,-74.085626
+ .812222,-74.076944
 DESCRIPTION:Quarter-finals | 1994 FIFA World Cup - United States\nBulgaria 
  2-1 Germany
 URL:https://en.wikipedia.org/wiki/1994_FIFA_World_Cup
@@ -855,10 +855,10 @@ DTSTART:19940713T200000Z
 DTEND:19940713T230000Z
 SUMMARY:[SF1] 🇧🇬 BUL 1-2 ITA 🇮🇹 [049]
 LOCATION:Giants Stadium\, East Rutherford
-GEO:40.812664;-74.085626
+GEO:40.812222;-74.076944
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Giants Stadium, East Ruthe
  rford";X-APPLE-RADIUS=100;X-TITLE="Giants Stadium, East Rutherford":geo:40
- .812664,-74.085626
+ .812222,-74.076944
 DESCRIPTION:Semi-finals | 1994 FIFA World Cup - United States\nBulgaria 1-2
   Italy
 URL:https://en.wikipedia.org/wiki/1994_FIFA_World_Cup

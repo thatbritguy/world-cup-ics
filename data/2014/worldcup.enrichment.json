@@ -1,6 +1,6 @@
 {
   "year": 2014,
-  "numbering": "Chronological match numbers where FIFA archive numbering is unavailable",
+  "numbering": "FIFA official match numbers with deterministic fallback numbers where archive records are unavailable",
   "matches": [
     {
       "date": "2014-06-12",
@@ -585,7 +585,7 @@
         "openfootball_utc_offset": "-4"
       },
       "kickoff_utc": "2014-06-21T22:00:00Z",
-      "official_match_number": 29,
+      "official_match_number": 28,
       "fifa_match_id": null,
       "fifa_url": "https://en.wikipedia.org/wiki/2014_FIFA_World_Cup",
       "ground": "Arena Pantanal, Cuiabá"
@@ -865,27 +865,6 @@
     },
     {
       "date": "2014-06-25",
-      "team1": "Bosnia-Herzegovina",
-      "team2": "Iran",
-      "local_time": "13:00",
-      "local_time_sources": {
-        "selected": "accepted-modern-source",
-        "confidence": "accepted-modern-source",
-        "rsssf": null,
-        "rsssf_date": null,
-        "fifa_archive": null,
-        "fifa_archive_date": null,
-        "openfootball": "13:00",
-        "openfootball_utc_offset": "-3"
-      },
-      "kickoff_utc": "2014-06-25T16:00:00Z",
-      "official_match_number": 41,
-      "fifa_match_id": null,
-      "fifa_url": "https://en.wikipedia.org/wiki/2014_FIFA_World_Cup",
-      "ground": "Arena Fonte Nova, Salvador"
-    },
-    {
-      "date": "2014-06-25",
       "team1": "Ecuador",
       "team2": "France",
       "local_time": "17:00",
@@ -925,6 +904,27 @@
       "fifa_match_id": "300186458",
       "fifa_url": "https://en.wikipedia.org/wiki/2014_FIFA_World_Cup",
       "ground": "Estádio Beira-Rio, Porto Alegre"
+    },
+    {
+      "date": "2014-06-25",
+      "team1": "Bosnia-Herzegovina",
+      "team2": "Iran",
+      "local_time": "13:00",
+      "local_time_sources": {
+        "selected": "accepted-modern-source",
+        "confidence": "accepted-modern-source",
+        "rsssf": null,
+        "rsssf_date": null,
+        "fifa_archive": null,
+        "fifa_archive_date": null,
+        "openfootball": "13:00",
+        "openfootball_utc_offset": "-3"
+      },
+      "kickoff_utc": "2014-06-25T16:00:00Z",
+      "official_match_number": 44,
+      "fifa_match_id": null,
+      "fifa_url": "https://en.wikipedia.org/wiki/2014_FIFA_World_Cup",
+      "ground": "Arena Fonte Nova, Salvador"
     },
     {
       "date": "2014-06-26",

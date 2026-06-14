@@ -12,10 +12,10 @@ DTSTART:20100611T140000Z
 DTEND:20100611T160000Z
 SUMMARY:[A1] 🇿🇦 RSA 1-1 MEX 🇲🇽 [001]
 LOCATION:Soccer City\, Johannesburg
-GEO:-26.204444;28.045556
+GEO:-26.234797;27.982667
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Soccer City, Johannesburg"
- ;X-APPLE-RADIUS=100;X-TITLE="Soccer City, Johannesburg":geo:-26.204444,28.
- 045556
+ ;X-APPLE-RADIUS=100;X-TITLE="Soccer City, Johannesburg":geo:-26.234797,27.
+ 982667
 DESCRIPTION:Group A | Matchday 1 | 2010 FIFA World Cup - South Africa\nSout
  h Africa 1-1 Mexico
 URL:https://en.wikipedia.org/wiki/2010_FIFA_World_Cup
@@ -30,10 +30,10 @@ DTSTART:20100611T183000Z
 DTEND:20100611T203000Z
 SUMMARY:[A1] 🇺🇾 URU 0-0 FRA 🇫🇷 [002]
 LOCATION:Cape Town Stadium\, Cape Town
-GEO:-33.925278;18.423889
+GEO:-33.903611;18.411111
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Cape Town Stadium, Cape To
- wn";X-APPLE-RADIUS=100;X-TITLE="Cape Town Stadium, Cape Town":geo:-33.9252
- 78,18.423889
+ wn";X-APPLE-RADIUS=100;X-TITLE="Cape Town Stadium, Cape Town":geo:-33.9036
+ 11,18.411111
 DESCRIPTION:Group A | Matchday 1 | 2010 FIFA World Cup - South Africa\nUrug
  uay 0-0 France
 URL:https://en.wikipedia.org/wiki/2010_FIFA_World_Cup
@@ -156,10 +156,10 @@ DTSTART:20100614T113000Z
 DTEND:20100614T133000Z
 SUMMARY:[E1] 🇳🇱 NED 2-0 DEN 🇩🇰 [009]
 LOCATION:Soccer City\, Johannesburg
-GEO:-26.204444;28.045556
+GEO:-26.234797;27.982667
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Soccer City, Johannesburg"
- ;X-APPLE-RADIUS=100;X-TITLE="Soccer City, Johannesburg":geo:-26.204444,28.
- 045556
+ ;X-APPLE-RADIUS=100;X-TITLE="Soccer City, Johannesburg":geo:-26.234797,27.
+ 982667
 DESCRIPTION:Group E | Matchday 4 | 2010 FIFA World Cup - South Africa\nNeth
  erlands 2-0 Denmark
 URL:https://en.wikipedia.org/wiki/2010_FIFA_World_Cup
@@ -192,10 +192,10 @@ DTSTART:20100614T183000Z
 DTEND:20100614T203000Z
 SUMMARY:[F1] 🇮🇹 ITA 1-1 PAR 🇵🇾 [011]
 LOCATION:Cape Town Stadium\, Cape Town
-GEO:-33.925278;18.423889
+GEO:-33.903611;18.411111
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Cape Town Stadium, Cape To
- wn";X-APPLE-RADIUS=100;X-TITLE="Cape Town Stadium, Cape Town":geo:-33.9252
- 78,18.423889
+ wn";X-APPLE-RADIUS=100;X-TITLE="Cape Town Stadium, Cape Town":geo:-33.9036
+ 11,18.411111
 DESCRIPTION:Group F | Matchday 4 | 2010 FIFA World Cup - South Africa\nItal
  y 1-1 Paraguay
 URL:https://en.wikipedia.org/wiki/2010_FIFA_World_Cup
@@ -264,10 +264,10 @@ DTSTART:20100616T113000Z
 DTEND:20100616T133000Z
 SUMMARY:[H1] 🇭🇳 HON 0-1 CHI 🇨🇱 [015]
 LOCATION:Mbombela Stadium\, Nelspruit
-GEO:-25.465833;30.985278
+GEO:-25.461944;30.929722
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Mbombela Stadium, Nelsprui
- t";X-APPLE-RADIUS=100;X-TITLE="Mbombela Stadium, Nelspruit":geo:-25.465833
- ,30.985278
+ t";X-APPLE-RADIUS=100;X-TITLE="Mbombela Stadium, Nelspruit":geo:-25.461944
+ ,30.929722
 DESCRIPTION:Group H | Matchday 6 | 2010 FIFA World Cup - South Africa\nHond
  uras 0-1 Chile
 URL:https://en.wikipedia.org/wiki/2010_FIFA_World_Cup
@@ -354,10 +354,10 @@ DTSTART:20100617T113000Z
 DTEND:20100617T133000Z
 SUMMARY:[B2] 🇦🇷 ARG 4-1 KOR 🇰🇷 [020]
 LOCATION:Soccer City\, Johannesburg
-GEO:-26.204444;28.045556
+GEO:-26.234797;27.982667
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Soccer City, Johannesburg"
- ;X-APPLE-RADIUS=100;X-TITLE="Soccer City, Johannesburg":geo:-26.204444,28.
- 045556
+ ;X-APPLE-RADIUS=100;X-TITLE="Soccer City, Johannesburg":geo:-26.234797,27.
+ 982667
 DESCRIPTION:Group B | Matchday 7 | 2010 FIFA World Cup - South Africa\nArge
  ntina 4-1 South Korea
 URL:https://en.wikipedia.org/wiki/2010_FIFA_World_Cup
@@ -408,10 +408,10 @@ DTSTART:20100618T183000Z
 DTEND:20100618T203000Z
 SUMMARY:[C2] 🏴󠁧󠁢󠁥󠁮󠁧󠁿 ENG 0-0 ALG 🇩🇿 [023]
 LOCATION:Cape Town Stadium\, Cape Town
-GEO:-33.925278;18.423889
+GEO:-33.903611;18.411111
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Cape Town Stadium, Cape To
- wn";X-APPLE-RADIUS=100;X-TITLE="Cape Town Stadium, Cape Town":geo:-33.9252
- 78,18.423889
+ wn";X-APPLE-RADIUS=100;X-TITLE="Cape Town Stadium, Cape Town":geo:-33.9036
+ 11,18.411111
 DESCRIPTION:Group C | Matchday 8 | 2010 FIFA World Cup - South Africa\nEngl
  and 0-0 Algeria
 URL:https://en.wikipedia.org/wiki/2010_FIFA_World_Cup
@@ -498,10 +498,10 @@ DTSTART:20100620T140000Z
 DTEND:20100620T160000Z
 SUMMARY:[F2] 🇮🇹 ITA 1-1 NZL 🇳🇿 [028]
 LOCATION:Mbombela Stadium\, Nelspruit
-GEO:-25.465833;30.985278
+GEO:-25.461944;30.929722
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Mbombela Stadium, Nelsprui
- t";X-APPLE-RADIUS=100;X-TITLE="Mbombela Stadium, Nelspruit":geo:-25.465833
- ,30.985278
+ t";X-APPLE-RADIUS=100;X-TITLE="Mbombela Stadium, Nelspruit":geo:-25.461944
+ ,30.929722
 DESCRIPTION:Group F | Matchday 10 | 2010 FIFA World Cup - South Africa\nIta
  ly 1-1 New Zealand
 URL:https://en.wikipedia.org/wiki/2010_FIFA_World_Cup
@@ -516,10 +516,10 @@ DTSTART:20100620T183000Z
 DTEND:20100620T203000Z
 SUMMARY:[G2] 🇧🇷 BRA 3-1 CIV 🇨🇮 [029]
 LOCATION:Soccer City\, Johannesburg
-GEO:-26.204444;28.045556
+GEO:-26.234797;27.982667
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Soccer City, Johannesburg"
- ;X-APPLE-RADIUS=100;X-TITLE="Soccer City, Johannesburg":geo:-26.204444,28.
- 045556
+ ;X-APPLE-RADIUS=100;X-TITLE="Soccer City, Johannesburg":geo:-26.234797,27.
+ 982667
 DESCRIPTION:Group G | Matchday 10 | 2010 FIFA World Cup - South Africa\nBra
  zil 3-1 Ivory Coast
 URL:https://en.wikipedia.org/wiki/2010_FIFA_World_Cup
@@ -534,10 +534,10 @@ DTSTART:20100621T113000Z
 DTEND:20100621T133000Z
 SUMMARY:[G2] 🇵🇹 POR 7-0 PRK 🇰🇵 [030]
 LOCATION:Cape Town Stadium\, Cape Town
-GEO:-33.925278;18.423889
+GEO:-33.903611;18.411111
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Cape Town Stadium, Cape To
- wn";X-APPLE-RADIUS=100;X-TITLE="Cape Town Stadium, Cape Town":geo:-33.9252
- 78,18.423889
+ wn";X-APPLE-RADIUS=100;X-TITLE="Cape Town Stadium, Cape Town":geo:-33.9036
+ 11,18.411111
 DESCRIPTION:Group G | Matchday 11 | 2010 FIFA World Cup - South Africa\nPor
  tugal 7-0 North Korea
 URL:https://en.wikipedia.org/wiki/2010_FIFA_World_Cup
@@ -696,10 +696,10 @@ DTSTART:20100623T183000Z
 DTEND:20100623T203000Z
 SUMMARY:[D3] 🇬🇭 GHA 0-1 GER 🇩🇪 [039]
 LOCATION:Soccer City\, Johannesburg
-GEO:-26.204444;28.045556
+GEO:-26.234797;27.982667
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Soccer City, Johannesburg"
- ;X-APPLE-RADIUS=100;X-TITLE="Soccer City, Johannesburg":geo:-26.204444,28.
- 045556
+ ;X-APPLE-RADIUS=100;X-TITLE="Soccer City, Johannesburg":geo:-26.234797,27.
+ 982667
 DESCRIPTION:Group D | Matchday 13 | 2010 FIFA World Cup - South Africa\nGha
  na 0-1 Germany
 URL:https://en.wikipedia.org/wiki/2010_FIFA_World_Cup
@@ -714,10 +714,10 @@ DTSTART:20100623T183000Z
 DTEND:20100623T203000Z
 SUMMARY:[D3] 🇦🇺 AUS 2-1 SRB 🇷🇸 [040]
 LOCATION:Mbombela Stadium\, Nelspruit
-GEO:-25.465833;30.985278
+GEO:-25.461944;30.929722
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Mbombela Stadium, Nelsprui
- t";X-APPLE-RADIUS=100;X-TITLE="Mbombela Stadium, Nelspruit":geo:-25.465833
- ,30.985278
+ t";X-APPLE-RADIUS=100;X-TITLE="Mbombela Stadium, Nelspruit":geo:-25.461944
+ ,30.929722
 DESCRIPTION:Group D | Matchday 13 | 2010 FIFA World Cup - South Africa\nAus
  tralia 2-1 Serbia
 URL:https://en.wikipedia.org/wiki/2010_FIFA_World_Cup
@@ -786,10 +786,10 @@ DTSTART:20100624T183000Z
 DTEND:20100624T203000Z
 SUMMARY:[E3] 🇨🇲 CMR 1-2 NED 🇳🇱 [044]
 LOCATION:Cape Town Stadium\, Cape Town
-GEO:-33.925278;18.423889
+GEO:-33.903611;18.411111
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Cape Town Stadium, Cape To
- wn";X-APPLE-RADIUS=100;X-TITLE="Cape Town Stadium, Cape Town":geo:-33.9252
- 78,18.423889
+ wn";X-APPLE-RADIUS=100;X-TITLE="Cape Town Stadium, Cape Town":geo:-33.9036
+ 11,18.411111
 DESCRIPTION:Group E | Matchday 14 | 2010 FIFA World Cup - South Africa\nCam
  eroon 1-2 Netherlands
 URL:https://en.wikipedia.org/wiki/2010_FIFA_World_Cup
@@ -822,10 +822,10 @@ DTSTART:20100625T140000Z
 DTEND:20100625T160000Z
 SUMMARY:[G3] 🇰🇵 PRK 0-3 CIV 🇨🇮 [046]
 LOCATION:Mbombela Stadium\, Nelspruit
-GEO:-25.465833;30.985278
+GEO:-25.461944;30.929722
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Mbombela Stadium, Nelsprui
- t";X-APPLE-RADIUS=100;X-TITLE="Mbombela Stadium, Nelspruit":geo:-25.465833
- ,30.985278
+ t";X-APPLE-RADIUS=100;X-TITLE="Mbombela Stadium, Nelspruit":geo:-25.461944
+ ,30.929722
 DESCRIPTION:Group G | Matchday 15 | 2010 FIFA World Cup - South Africa\nNor
  th Korea 0-3 Ivory Coast
 URL:https://en.wikipedia.org/wiki/2010_FIFA_World_Cup
@@ -930,10 +930,10 @@ DTSTART:20100627T183000Z
 DTEND:20100627T213000Z
 SUMMARY:[R16] 🇦🇷 ARG 3-1 MEX 🇲🇽 [052]
 LOCATION:Soccer City\, Johannesburg
-GEO:-26.204444;28.045556
+GEO:-26.234797;27.982667
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Soccer City, Johannesburg"
- ;X-APPLE-RADIUS=100;X-TITLE="Soccer City, Johannesburg":geo:-26.204444,28.
- 045556
+ ;X-APPLE-RADIUS=100;X-TITLE="Soccer City, Johannesburg":geo:-26.234797,27.
+ 982667
 DESCRIPTION:Round of 16 | 2010 FIFA World Cup - South Africa\nArgentina 3-1
   Mexico
 URL:https://en.wikipedia.org/wiki/2010_FIFA_World_Cup
@@ -1002,10 +1002,10 @@ DTSTART:20100629T183000Z
 DTEND:20100629T213000Z
 SUMMARY:[R16] 🇪🇸 ESP 1-0 POR 🇵🇹 [056]
 LOCATION:Cape Town Stadium\, Cape Town
-GEO:-33.925278;18.423889
+GEO:-33.903611;18.411111
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Cape Town Stadium, Cape To
- wn";X-APPLE-RADIUS=100;X-TITLE="Cape Town Stadium, Cape Town":geo:-33.9252
- 78,18.423889
+ wn";X-APPLE-RADIUS=100;X-TITLE="Cape Town Stadium, Cape Town":geo:-33.9036
+ 11,18.411111
 DESCRIPTION:Round of 16 | 2010 FIFA World Cup - South Africa\nSpain 1-0 Por
  tugal
 URL:https://en.wikipedia.org/wiki/2010_FIFA_World_Cup
@@ -1038,10 +1038,10 @@ DTSTART:20100702T183000Z
 DTEND:20100702T213000Z
 SUMMARY:[QF2] 🇺🇾 URU (p) 1-1 (aet) GHA 🇬🇭 [058]
 LOCATION:Soccer City\, Johannesburg
-GEO:-26.204444;28.045556
+GEO:-26.234797;27.982667
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Soccer City, Johannesburg"
- ;X-APPLE-RADIUS=100;X-TITLE="Soccer City, Johannesburg":geo:-26.204444,28.
- 045556
+ ;X-APPLE-RADIUS=100;X-TITLE="Soccer City, Johannesburg":geo:-26.234797,27.
+ 982667
 DESCRIPTION:Quarterfinals | 2010 FIFA World Cup - South Africa\nUruguay 1-1
   Ghana\nFT: 1-1\nAET: 1-1\nPenalties: 4-2
 URL:https://en.wikipedia.org/wiki/2010_FIFA_World_Cup
@@ -1056,10 +1056,10 @@ DTSTART:20100703T140000Z
 DTEND:20100703T170000Z
 SUMMARY:[QF3] 🇦🇷 ARG 0-4 GER 🇩🇪 [059]
 LOCATION:Cape Town Stadium\, Cape Town
-GEO:-33.925278;18.423889
+GEO:-33.903611;18.411111
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Cape Town Stadium, Cape To
- wn";X-APPLE-RADIUS=100;X-TITLE="Cape Town Stadium, Cape Town":geo:-33.9252
- 78,18.423889
+ wn";X-APPLE-RADIUS=100;X-TITLE="Cape Town Stadium, Cape Town":geo:-33.9036
+ 11,18.411111
 DESCRIPTION:Quarterfinals | 2010 FIFA World Cup - South Africa\nArgentina 0
  -4 Germany
 URL:https://en.wikipedia.org/wiki/2010_FIFA_World_Cup
@@ -1092,10 +1092,10 @@ DTSTART:20100706T183000Z
 DTEND:20100706T213000Z
 SUMMARY:[SF1] 🇺🇾 URU 2-3 NED 🇳🇱 [061]
 LOCATION:Cape Town Stadium\, Cape Town
-GEO:-33.925278;18.423889
+GEO:-33.903611;18.411111
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Cape Town Stadium, Cape To
- wn";X-APPLE-RADIUS=100;X-TITLE="Cape Town Stadium, Cape Town":geo:-33.9252
- 78,18.423889
+ wn";X-APPLE-RADIUS=100;X-TITLE="Cape Town Stadium, Cape Town":geo:-33.9036
+ 11,18.411111
 DESCRIPTION:Semifinals | 2010 FIFA World Cup - South Africa\nUruguay 2-3 Ne
  therlands
 URL:https://en.wikipedia.org/wiki/2010_FIFA_World_Cup
@@ -1146,10 +1146,10 @@ DTSTART:20100711T183000Z
 DTEND:20100711T213000Z
 SUMMARY:[FINAL] 🇳🇱 NED 0-1 (aet) ESP 🇪🇸 [064]
 LOCATION:Soccer City\, Johannesburg
-GEO:-26.204444;28.045556
+GEO:-26.234797;27.982667
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Soccer City, Johannesburg"
- ;X-APPLE-RADIUS=100;X-TITLE="Soccer City, Johannesburg":geo:-26.204444,28.
- 045556
+ ;X-APPLE-RADIUS=100;X-TITLE="Soccer City, Johannesburg":geo:-26.234797,27.
+ 982667
 DESCRIPTION:Final | 2010 FIFA World Cup - South Africa\nNetherlands 0-1 Spa
  in\nFT: 0-0\nAET: 0-1
 URL:https://en.wikipedia.org/wiki/2010_FIFA_World_Cup

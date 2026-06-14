@@ -10,7 +10,9 @@
       "longitude": -60.02805556,
       "coordinate_source": "https://en.wikipedia.org/wiki/Arena_da_Amaz%C3%B4nia",
       "coordinate_source_title": "Arena da Amazônia",
-      "match_score": 20
+      "match_score": 20,
+      "coordinate_status": "verified",
+      "coordinate_review": "Manual source-title and location review"
     },
     {
       "name": "Arena Fonte Nova",
@@ -20,7 +22,8 @@
       ],
       "latitude": -12.97861111111111,
       "longitude": -38.50416666666667,
-      "coordinate_source": "https://github.com/openfootball/worldcup.json/blob/master/2014/worldcup.stadiums.json"
+      "coordinate_source": "https://github.com/openfootball/worldcup.json/blob/master/2014/worldcup.stadiums.json",
+      "coordinate_status": "source"
     },
     {
       "name": "Arena Pantanal",
@@ -28,11 +31,11 @@
       "ground_aliases": [
         "Arena Pantanal, Cuiabá"
       ],
-      "latitude": -15.59583333,
-      "longitude": -56.09694444,
-      "coordinate_source": "https://en.wikipedia.org/wiki/Cuiab%C3%A1",
-      "coordinate_source_title": "Cuiabá",
-      "match_score": 15
+      "latitude": -15.603056,
+      "longitude": -56.120556,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Arena_Pantanal",
+      "coordinate_source_title": "Arena Pantanal",
+      "coordinate_status": "verified"
     },
     {
       "name": "Arena Pernambuco",
@@ -42,7 +45,8 @@
       ],
       "latitude": -8.040555555555555,
       "longitude": -35.00833333333333,
-      "coordinate_source": "https://github.com/openfootball/worldcup.json/blob/master/2014/worldcup.stadiums.json"
+      "coordinate_source": "https://github.com/openfootball/worldcup.json/blob/master/2014/worldcup.stadiums.json",
+      "coordinate_status": "source"
     },
     {
       "name": "Arena da Baixada",
@@ -52,7 +56,8 @@
       ],
       "latitude": -25.448333333333334,
       "longitude": -49.276944444444446,
-      "coordinate_source": "https://github.com/openfootball/worldcup.json/blob/master/2014/worldcup.stadiums.json"
+      "coordinate_source": "https://github.com/openfootball/worldcup.json/blob/master/2014/worldcup.stadiums.json",
+      "coordinate_status": "source"
     },
     {
       "name": "Arena de São Paulo",
@@ -60,11 +65,11 @@
       "ground_aliases": [
         "Arena de São Paulo, São Paulo"
       ],
-      "latitude": -22.73861111,
-      "longitude": -47.33111111,
-      "coordinate_source": "https://en.wikipedia.org/wiki/Americana,_S%C3%A3o_Paulo",
-      "coordinate_source_title": "Americana, São Paulo",
-      "match_score": 20
+      "latitude": -23.54525,
+      "longitude": -46.474278,
+      "coordinate_source": "https://github.com/openfootball/worldcup.json/blob/master/2014/worldcup.stadiums.json",
+      "coordinate_source_title": "Arena Corinthians",
+      "coordinate_status": "source"
     },
     {
       "name": "Estádio Beira-Rio",
@@ -74,7 +79,8 @@
       ],
       "latitude": -30.06561388888889,
       "longitude": -51.23608611111111,
-      "coordinate_source": "https://github.com/openfootball/worldcup.json/blob/master/2014/worldcup.stadiums.json"
+      "coordinate_source": "https://github.com/openfootball/worldcup.json/blob/master/2014/worldcup.stadiums.json",
+      "coordinate_status": "source"
     },
     {
       "name": "Estádio Castelão",
@@ -84,7 +90,8 @@
       ],
       "latitude": -3.807222222222222,
       "longitude": -38.5225,
-      "coordinate_source": "https://github.com/openfootball/worldcup.json/blob/master/2014/worldcup.stadiums.json"
+      "coordinate_source": "https://github.com/openfootball/worldcup.json/blob/master/2014/worldcup.stadiums.json",
+      "coordinate_status": "source"
     },
     {
       "name": "Estádio Mineirão",
@@ -94,7 +101,8 @@
       ],
       "latitude": -19.865833333333335,
       "longitude": -43.97083333333334,
-      "coordinate_source": "https://github.com/openfootball/worldcup.json/blob/master/2014/worldcup.stadiums.json"
+      "coordinate_source": "https://github.com/openfootball/worldcup.json/blob/master/2014/worldcup.stadiums.json",
+      "coordinate_status": "source"
     },
     {
       "name": "Estádio Nacional (Mané Garrincha)",
@@ -105,7 +113,8 @@
       ],
       "latitude": -15.7835,
       "longitude": -47.899163888888886,
-      "coordinate_source": "https://github.com/openfootball/worldcup.json/blob/master/2014/worldcup.stadiums.json"
+      "coordinate_source": "https://github.com/openfootball/worldcup.json/blob/master/2014/worldcup.stadiums.json",
+      "coordinate_status": "source"
     },
     {
       "name": "Estádio das Dunas",
@@ -117,7 +126,9 @@
       "longitude": -35.2124,
       "coordinate_source": "https://en.wikipedia.org/wiki/Arena_das_Dunas",
       "coordinate_source_title": "Arena das Dunas",
-      "match_score": 20
+      "match_score": 20,
+      "coordinate_status": "verified",
+      "coordinate_review": "Manual source-title and location review"
     },
     {
       "name": "Estádio do Maracanã",
@@ -127,7 +138,8 @@
       ],
       "latitude": -22.91222222222222,
       "longitude": -43.23027777777778,
-      "coordinate_source": "https://github.com/openfootball/worldcup.json/blob/master/2014/worldcup.stadiums.json"
+      "coordinate_source": "https://github.com/openfootball/worldcup.json/blob/master/2014/worldcup.stadiums.json",
+      "coordinate_status": "source"
     }
   ]
 }

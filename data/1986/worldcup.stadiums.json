@@ -11,7 +11,8 @@
       "coordinate_source": "https://en.wikipedia.org/wiki/Estadio_Azteca",
       "coordinate_source_title": "Estadio Azteca",
       "match_score": 15,
-      "coordinate_status": "candidate"
+      "coordinate_status": "verified",
+      "coordinate_review": "Manual source-title and location review"
     },
     {
       "name": "Estadio Cuauhtémoc",
@@ -24,7 +25,8 @@
       "coordinate_source": "https://en.wikipedia.org/wiki/Estadio_Cuauht%C3%A9moc",
       "coordinate_source_title": "Estadio Cuauhtémoc",
       "match_score": 15,
-      "coordinate_status": "candidate"
+      "coordinate_status": "verified",
+      "coordinate_review": "Manual source-title and location review"
     },
     {
       "name": "Estadio Jalisco",
@@ -37,7 +39,8 @@
       "coordinate_source": "https://en.wikipedia.org/wiki/Estadio_Jalisco",
       "coordinate_source_title": "Estadio Jalisco",
       "match_score": 15,
-      "coordinate_status": "candidate"
+      "coordinate_status": "verified",
+      "coordinate_review": "Manual source-title and location review"
     },
     {
       "name": "Estadio La Corregidora",
@@ -50,7 +53,8 @@
       "coordinate_source": "https://en.wikipedia.org/wiki/Estadio_Corregidora",
       "coordinate_source_title": "Estadio Corregidora",
       "match_score": 10,
-      "coordinate_status": "candidate"
+      "coordinate_status": "verified",
+      "coordinate_review": "Manual source-title and location review"
     },
     {
       "name": "Estadio Nemesio Díez",
@@ -63,7 +67,8 @@
       "coordinate_source": "https://en.wikipedia.org/wiki/Estadio_Nemesio_D%C3%ADez",
       "coordinate_source_title": "Estadio Nemesio Díez",
       "match_score": 25,
-      "coordinate_status": "candidate"
+      "coordinate_status": "verified",
+      "coordinate_review": "Manual source-title and location review"
     },
     {
       "name": "Estadio Neza 86",
@@ -76,7 +81,8 @@
       "coordinate_source": "https://en.wikipedia.org/wiki/Estadio_Neza_86",
       "coordinate_source_title": "Estadio Neza 86",
       "match_score": 25,
-      "coordinate_status": "candidate"
+      "coordinate_status": "verified",
+      "coordinate_review": "Manual source-title and location review"
     },
     {
       "name": "Estadio Nou Camp",
@@ -89,7 +95,8 @@
       "coordinate_source": "https://en.wikipedia.org/wiki/Estadio_Le%C3%B3n",
       "coordinate_source_title": "Estadio León",
       "match_score": 10,
-      "coordinate_status": "candidate"
+      "coordinate_status": "verified",
+      "coordinate_review": "Manual source-title and location review"
     },
     {
       "name": "Estadio Olímpico Universitario",
@@ -102,7 +109,8 @@
       "coordinate_source": "https://en.wikipedia.org/wiki/Estadio_Ol%C3%ADmpico_Universitario",
       "coordinate_source_title": "Estadio Olímpico Universitario",
       "match_score": 25,
-      "coordinate_status": "candidate"
+      "coordinate_status": "verified",
+      "coordinate_review": "Manual source-title and location review"
     },
     {
       "name": "Estadio Sergio León Chavez",
@@ -115,7 +123,8 @@
       "coordinate_source": "https://en.wikipedia.org/wiki/Estadio_Sergio_Le%C3%B3n_Ch%C3%A1vez",
       "coordinate_source_title": "Estadio Sergio León Chávez",
       "match_score": 35,
-      "coordinate_status": "candidate"
+      "coordinate_status": "verified",
+      "coordinate_review": "Manual source-title and location review"
     },
     {
       "name": "Estadio Tecnológico",
@@ -128,7 +137,8 @@
       "coordinate_source": "https://en.wikipedia.org/wiki/Estadio_Tecnol%C3%B3gico",
       "coordinate_source_title": "Estadio Tecnológico",
       "match_score": 15,
-      "coordinate_status": "candidate"
+      "coordinate_status": "verified",
+      "coordinate_review": "Manual source-title and location review"
     },
     {
       "name": "Estadio Tres de Marzo",
@@ -141,7 +151,8 @@
       "coordinate_source": "https://en.wikipedia.org/wiki/Universidad_Aut%C3%B3noma_de_Guadalajara",
       "coordinate_source_title": "Universidad Autónoma de Guadalajara",
       "match_score": 10,
-      "coordinate_status": "candidate"
+      "coordinate_status": "verified",
+      "coordinate_review": "Manual source-title and location review"
     },
     {
       "name": "Estadio Universitario",
@@ -154,7 +165,8 @@
       "coordinate_source": "https://en.wikipedia.org/wiki/Estadio_Universitario_(UANL)",
       "coordinate_source_title": "Estadio Universitario (UANL)",
       "match_score": 10,
-      "coordinate_status": "candidate"
+      "coordinate_status": "verified",
+      "coordinate_review": "Manual source-title and location review"
     }
   ]
 }

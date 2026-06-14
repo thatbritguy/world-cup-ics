@@ -21,17 +21,19 @@ webcal://raw.githubusercontent.com/thatbritguy/world-cup-ics/master/ics/world-cu
 Static historical calendars are available at:
 
 ```text
-https://raw.githubusercontent.com/thatbritguy/world-cup-ics/master/ics/world-cup-1930.ics
-https://raw.githubusercontent.com/thatbritguy/world-cup-ics/master/ics/world-cup-1934.ics
-https://raw.githubusercontent.com/thatbritguy/world-cup-ics/master/ics/world-cup-1938.ics
-https://raw.githubusercontent.com/thatbritguy/world-cup-ics/master/ics/world-cup-1950.ics
 https://raw.githubusercontent.com/thatbritguy/world-cup-ics/master/ics/world-cup.ics
+https://raw.githubusercontent.com/thatbritguy/world-cup-ics/master/ics/world-cup-{YEAR}.ics
 ```
 
-Each event includes the kickoff time, stadium, geographic coordinates for map
-integration, UK broadcaster, a Forza Football match link, and alerts 15 minutes
-before kickoff and at kickoff. Results and goalscorers are added when they
-appear in the upstream fixture data.
+The complete feed contains all 964 matches from the 22 tournaments held from
+1930 through 2022. Replace `{YEAR}` with a tournament year for a standalone
+edition calendar.
+
+The live 2026 events include kickoff time, stadium, geographic coordinates for
+map integration, UK broadcaster, a Forza Football match link, and alerts 15
+minutes before kickoff and at kickoff. Results and goalscorers are added when
+they appear in the upstream fixture data. Historical events retain results,
+goalscorers, stadium coordinates and FIFA match links, without alerts.
 
 ## Event format
 
@@ -116,6 +118,8 @@ candidate venue catalogues with:
 ```bash
 python3 scripts/prepare_historical_tournaments.py
 python3 scripts/resolve_historical_venues.py
+python3 scripts/approve_historical_venues.py 1954 1958 1962 1966 1970 1974 1978 1982 1986 1990 1994 1998 2002 2006 2010 2014
+python3 scripts/promote_historical_tournaments.py 1954 1958 1962 1966 1970 1974 1978 1982 1986 1990 1994 1998 2002 2006 2010 2014 2018 2022
 ```
 
 New manifests and calendars remain in `review` status. Candidate coordinates
@@ -172,9 +176,6 @@ data/{YEAR}/worldcup.stadiums.json     Historical venue coordinates
 reports/historical/{YEAR}.json         Non-publishing source comparison report
 reports/historical/summary.json        Consolidated historical review queue
 ics/world-cup-2026.ics                 Published calendar feed
-ics/world-cup-1930.ics                 Static historical calendar proof
-ics/world-cup-1934.ics                 Static 1934 historical calendar
-ics/world-cup-1938.ics                 Static 1938 historical calendar
-ics/world-cup-1950.ics                 Static 1950 historical calendar
-ics/world-cup.ics                      Validated historical master calendar
+ics/world-cup-{YEAR}.ics               Static tournament calendar, 1930-2022
+ics/world-cup.ics                      Complete validated historical calendar
 ```

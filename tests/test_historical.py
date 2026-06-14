@@ -131,15 +131,36 @@ class HistoricalCalendarTests(unittest.TestCase):
         self.assertEqual(third_place["kickoff_utc"], "1934-06-07T16:30:00Z")
 
     def test_master_includes_only_validated_archive_tournaments(self) -> None:
-        self.assertEqual(validated_years(), [1930, 1934, 1938, 1950])
+        self.assertEqual(
+            validated_years(),
+            [
+                1930, 1934, 1938, 1950, 1954, 1958, 1962, 1966, 1970, 1974,
+                1978, 1982, 1986, 1990, 1994, 1998, 2002, 2006, 2010, 2014,
+                2018, 2022,
+            ],
+        )
         master = (ROOT / "ics" / "world-cup.ics").read_text(encoding="utf-8")
-        self.assertEqual(master.count("BEGIN:VEVENT"), 75)
+        self.assertEqual(master.count("BEGIN:VEVENT"), 964)
         self.assertIn("UID:wc1930-match-001@world-cup-ics", master)
         self.assertIn("UID:wc1934-match-017@world-cup-ics", master)
         self.assertIn("UID:wc1938-match-018@world-cup-ics", master)
         self.assertIn("UID:wc1950-match-022@world-cup-ics", master)
+        self.assertIn("UID:wc2022-match-064@world-cup-ics", master)
         self.assertNotIn("UID:wc2026-match-001@world-cup-ics", master)
         self.assertIn("X-WR-CALNAME:FIFA World Cup Complete", master)
+
+    def test_missing_fifa_records_receive_unique_fallback_numbers(self) -> None:
+        expected = {1954: {25, 26}, 2014: {11, 28, 44}}
+        for year, fallback_numbers in expected.items():
+            manifest = load_json(ROOT / "data" / str(year) / "worldcup.manifest.json")
+            numbers = [item["official_match_number"] for item in manifest["matches"]]
+            self.assertEqual(len(numbers), len(set(numbers)))
+            missing_archive = {
+                item["official_match_number"]
+                for item in manifest["matches"]
+                if item["fifa_match_id"] is None
+            }
+            self.assertEqual(missing_archive, fallback_numbers)
 
     def test_1938_excludes_cancelled_fixture_and_confirms_opening_time(self) -> None:
         manifest = load_json(ROOT / "data" / "1938" / "worldcup.manifest.json")

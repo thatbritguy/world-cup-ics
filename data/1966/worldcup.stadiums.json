@@ -11,7 +11,8 @@
       "coordinate_source": "https://en.wikipedia.org/wiki/Ayresome_Park",
       "coordinate_source_title": "Ayresome Park",
       "match_score": 25,
-      "coordinate_status": "candidate"
+      "coordinate_status": "verified",
+      "coordinate_review": "Manual source-title and location review"
     },
     {
       "name": "Goodison Park",
@@ -24,7 +25,8 @@
       "coordinate_source": "https://en.wikipedia.org/wiki/Goodison_Park",
       "coordinate_source_title": "Goodison Park",
       "match_score": 25,
-      "coordinate_status": "candidate"
+      "coordinate_status": "verified",
+      "coordinate_review": "Manual source-title and location review"
     },
     {
       "name": "Hillsborough Stadium",
@@ -32,12 +34,11 @@
       "ground_aliases": [
         "Hillsborough Stadium, Sheffield"
       ],
-      "latitude": 53.413829,
-      "longitude": -1.500492,
-      "coordinate_source": "https://en.wikipedia.org/wiki/Hillsborough,_Sheffield",
-      "coordinate_source_title": "Hillsborough, Sheffield",
-      "match_score": 20,
-      "coordinate_status": "candidate"
+      "latitude": 53.411389,
+      "longitude": -1.500833,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Hillsborough_Stadium",
+      "coordinate_source_title": "Hillsborough Stadium",
+      "coordinate_status": "verified"
     },
     {
       "name": "Old Trafford",
@@ -50,7 +51,8 @@
       "coordinate_source": "https://en.wikipedia.org/wiki/Old_Trafford",
       "coordinate_source_title": "Old Trafford",
       "match_score": 25,
-      "coordinate_status": "candidate"
+      "coordinate_status": "verified",
+      "coordinate_review": "Manual source-title and location review"
     },
     {
       "name": "Roker Park",
@@ -63,7 +65,8 @@
       "coordinate_source": "https://en.wikipedia.org/wiki/Roker_Park",
       "coordinate_source_title": "Roker Park",
       "match_score": 25,
-      "coordinate_status": "candidate"
+      "coordinate_status": "verified",
+      "coordinate_review": "Manual source-title and location review"
     },
     {
       "name": "Villa Park",
@@ -76,7 +79,8 @@
       "coordinate_source": "https://en.wikipedia.org/wiki/Villa_Park",
       "coordinate_source_title": "Villa Park",
       "match_score": 25,
-      "coordinate_status": "candidate"
+      "coordinate_status": "verified",
+      "coordinate_review": "Manual source-title and location review"
     },
     {
       "name": "Wembley Stadium",
@@ -84,12 +88,11 @@
       "ground_aliases": [
         "Wembley Stadium, London"
       ],
-      "latitude": 51.5528,
-      "longitude": -0.2979,
-      "coordinate_source": "https://en.wikipedia.org/wiki/Wembley",
-      "coordinate_source_title": "Wembley",
-      "match_score": 15,
-      "coordinate_status": "candidate"
+      "latitude": 51.555556,
+      "longitude": -0.279722,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Wembley_Stadium_(1923)",
+      "coordinate_source_title": "Wembley Stadium (1923)",
+      "coordinate_status": "verified"
     },
     {
       "name": "White City Stadium",
@@ -97,12 +100,11 @@
       "ground_aliases": [
         "White City Stadium, London"
       ],
-      "latitude": 51.511,
-      "longitude": -0.238,
-      "coordinate_source": "https://en.wikipedia.org/wiki/White_City,_London",
-      "coordinate_source_title": "White City, London",
-      "match_score": 30,
-      "coordinate_status": "candidate"
+      "latitude": 51.513,
+      "longitude": -0.227,
+      "coordinate_source": "https://en.wikipedia.org/wiki/White_City_Stadium",
+      "coordinate_source_title": "White City Stadium",
+      "coordinate_status": "verified"
     }
   ]
 }

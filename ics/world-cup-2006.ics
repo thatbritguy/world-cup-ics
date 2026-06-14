@@ -48,10 +48,10 @@ DTSTART:20060610T130000Z
 DTEND:20060610T150000Z
 SUMMARY:[B1] 🏴󠁧󠁢󠁥󠁮󠁧󠁿 ENG 1-0 PAR 🇵🇾 [003]
 LOCATION:Commerzbank-Arena\, Frankfurt
-GEO:50.138151;8.581535
+GEO:50.068056;8.645806
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Commerzbank-Arena, Frankfu
- rt";X-APPLE-RADIUS=100;X-TITLE="Commerzbank-Arena, Frankfurt":geo:50.13815
- 1,8.581535
+ rt";X-APPLE-RADIUS=100;X-TITLE="Commerzbank-Arena, Frankfurt":geo:50.06805
+ 6,8.645806
 DESCRIPTION:Group B | Matchday 2 | 2006 FIFA World Cup - Germany\nEngland 1
  -0 Paraguay\nHT: 1-0
 URL:https://en.wikipedia.org/wiki/2006_FIFA_World_Cup
@@ -66,10 +66,10 @@ DTSTART:20060610T160000Z
 DTEND:20060610T180000Z
 SUMMARY:[B1] 🇹🇹 TRI 0-0 SWE 🇸🇪 [004]
 LOCATION:Signal Iduna Park\, Dortmund
-GEO:51.490556;7.457500
+GEO:51.492500;7.451667
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Signal Iduna Park, Dortmun
- d";X-APPLE-RADIUS=100;X-TITLE="Signal Iduna Park, Dortmund":geo:51.490556,
- 7.457500
+ d";X-APPLE-RADIUS=100;X-TITLE="Signal Iduna Park, Dortmund":geo:51.492500,
+ 7.451667
 DESCRIPTION:Group B | Matchday 2 | 2006 FIFA World Cup - Germany\nTrinidad 
  and Tobago 0-0 Sweden
 URL:https://en.wikipedia.org/wiki/2006_FIFA_World_Cup
@@ -84,9 +84,9 @@ DTSTART:20060610T190000Z
 DTEND:20060610T210000Z
 SUMMARY:[C1] 🇦🇷 ARG 2-1 CIV 🇨🇮 [005]
 LOCATION:AOL Arena\, Hamburg
-GEO:53.543368;9.991798
+GEO:53.587222;9.898611
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="AOL Arena, Hamburg";X-APPL
- E-RADIUS=100;X-TITLE="AOL Arena, Hamburg":geo:53.543368,9.991798
+ E-RADIUS=100;X-TITLE="AOL Arena, Hamburg":geo:53.587222,9.898611
 DESCRIPTION:Group C | Matchday 2 | 2006 FIFA World Cup - Germany\nArgentina
   2-1 Ivory Coast\nHT: 2-0
 URL:https://en.wikipedia.org/wiki/2006_FIFA_World_Cup
@@ -119,10 +119,10 @@ DTSTART:20060611T160000Z
 DTEND:20060611T180000Z
 SUMMARY:[D1] 🇲🇽 MEX 3-1 IRN 🇮🇷 [007]
 LOCATION:Frankenstadion\, Nürnberg
-GEO:49.430914;11.129835
+GEO:49.426111;11.125833
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Frankenstadion, Nürnberg"
- ;X-APPLE-RADIUS=100;X-TITLE="Frankenstadion, Nürnberg":geo:49.430914,11.1
- 29835
+ ;X-APPLE-RADIUS=100;X-TITLE="Frankenstadion, Nürnberg":geo:49.426111,11.1
+ 25833
 DESCRIPTION:Group D | Matchday 3 | 2006 FIFA World Cup - Germany\nMexico 3-
  1 Iran\nHT: 1-1
 URL:https://en.wikipedia.org/wiki/2006_FIFA_World_Cup
@@ -155,9 +155,9 @@ DTSTART:20060612T190000Z
 DTEND:20060612T210000Z
 SUMMARY:[E1] 🇮🇹 ITA 2-0 GHA 🇬🇭 [009]
 LOCATION:AWD-Arena\, Hannover
-GEO:52.360026;9.731016
+GEO:52.360000;9.731111
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="AWD-Arena, Hannover";X-APP
- LE-RADIUS=100;X-TITLE="AWD-Arena, Hannover":geo:52.360026,9.731016
+ LE-RADIUS=100;X-TITLE="AWD-Arena, Hannover":geo:52.360000,9.731111
 DESCRIPTION:Group E | Matchday 4 | 2006 FIFA World Cup - Germany\nItaly 2-0
   Ghana\nHT: 1-0
 URL:https://en.wikipedia.org/wiki/2006_FIFA_World_Cup
@@ -190,9 +190,9 @@ DTSTART:20060613T190000Z
 DTEND:20060613T210000Z
 SUMMARY:[F1] 🇧🇷 BRA 1-0 CRO 🇭🇷 [011]
 LOCATION:Olympiastadion\, Berlin
-GEO:52.514585;13.239814
+GEO:52.514722;13.239444
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Olympiastadion, Berlin";X-
- APPLE-RADIUS=100;X-TITLE="Olympiastadion, Berlin":geo:52.514585,13.239814
+ APPLE-RADIUS=100;X-TITLE="Olympiastadion, Berlin":geo:52.514722,13.239444
 DESCRIPTION:Group F | Matchday 5 | 2006 FIFA World Cup - Germany\nBrazil 1-
  0 Croatia\nHT: 1-0
 URL:https://en.wikipedia.org/wiki/2006_FIFA_World_Cup
@@ -207,10 +207,10 @@ DTSTART:20060612T130000Z
 DTEND:20060612T150000Z
 SUMMARY:[F1] 🇦🇺 AUS 3-1 JPN 🇯🇵 [012]
 LOCATION:Fritz-Walter-Stadion\, Kaiserslautern
-GEO:49.444722;7.768889
+GEO:49.434722;7.776667
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Fritz-Walter-Stadion, Kais
  erslautern";X-APPLE-RADIUS=100;X-TITLE="Fritz-Walter-Stadion, Kaiserslaute
- rn":geo:49.444722,7.768889
+ rn":geo:49.434722,7.776667
 DESCRIPTION:Group F | Matchday 4 | 2006 FIFA World Cup - Germany\nAustralia
   3-1 Japan\nHT: 0-1
 URL:https://en.wikipedia.org/wiki/2006_FIFA_World_Cup
@@ -225,10 +225,10 @@ DTSTART:20060613T160000Z
 DTEND:20060613T180000Z
 SUMMARY:[G1] 🇫🇷 FRA 0-0 SUI 🇨🇭 [013]
 LOCATION:Gottlieb-Daimler-Stadion\, Stuttgart
-GEO:48.791816;9.241173
+GEO:48.792222;9.231944
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Gottlieb-Daimler-Stadion, 
  Stuttgart";X-APPLE-RADIUS=100;X-TITLE="Gottlieb-Daimler-Stadion, Stuttgart
- ":geo:48.791816,9.241173
+ ":geo:48.792222,9.231944
 DESCRIPTION:Group G | Matchday 5 | 2006 FIFA World Cup - Germany\nFrance 0-
  0 Switzerland
 URL:https://en.wikipedia.org/wiki/2006_FIFA_World_Cup
@@ -243,10 +243,10 @@ DTSTART:20060613T130000Z
 DTEND:20060613T150000Z
 SUMMARY:[G1] 🇰🇷 KOR 2-1 TOG 🇹🇬 [014]
 LOCATION:Commerzbank-Arena\, Frankfurt
-GEO:50.138151;8.581535
+GEO:50.068056;8.645806
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Commerzbank-Arena, Frankfu
- rt";X-APPLE-RADIUS=100;X-TITLE="Commerzbank-Arena, Frankfurt":geo:50.13815
- 1,8.581535
+ rt";X-APPLE-RADIUS=100;X-TITLE="Commerzbank-Arena, Frankfurt":geo:50.06805
+ 6,8.645806
 DESCRIPTION:Group G | Matchday 5 | 2006 FIFA World Cup - Germany\nSouth Kor
  ea 2-1 Togo\nHT: 0-1
 URL:https://en.wikipedia.org/wiki/2006_FIFA_World_Cup
@@ -297,10 +297,10 @@ DTSTART:20060614T190000Z
 DTEND:20060614T210000Z
 SUMMARY:[A2] 🇩🇪 GER 1-0 POL 🇵🇱 [017]
 LOCATION:Signal Iduna Park\, Dortmund
-GEO:51.490556;7.457500
+GEO:51.492500;7.451667
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Signal Iduna Park, Dortmun
- d";X-APPLE-RADIUS=100;X-TITLE="Signal Iduna Park, Dortmund":geo:51.490556,
- 7.457500
+ d";X-APPLE-RADIUS=100;X-TITLE="Signal Iduna Park, Dortmund":geo:51.492500,
+ 7.451667
 DESCRIPTION:Group A | Matchday 6 | 2006 FIFA World Cup - Germany\nGermany 1
  -0 Poland\nHT: 0-0
 URL:https://en.wikipedia.org/wiki/2006_FIFA_World_Cup
@@ -315,9 +315,9 @@ DTSTART:20060615T130000Z
 DTEND:20060615T150000Z
 SUMMARY:[A2] 🇪🇨 ECU 3-0 CRC 🇨🇷 [018]
 LOCATION:AOL Arena\, Hamburg
-GEO:53.543368;9.991798
+GEO:53.587222;9.898611
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="AOL Arena, Hamburg";X-APPL
- E-RADIUS=100;X-TITLE="AOL Arena, Hamburg":geo:53.543368,9.991798
+ E-RADIUS=100;X-TITLE="AOL Arena, Hamburg":geo:53.587222,9.898611
 DESCRIPTION:Group A | Matchday 7 | 2006 FIFA World Cup - Germany\nEcuador 3
  -0 Costa Rica\nHT: 1-0
 URL:https://en.wikipedia.org/wiki/2006_FIFA_World_Cup
@@ -332,10 +332,10 @@ DTSTART:20060615T160000Z
 DTEND:20060615T180000Z
 SUMMARY:[B2] 🏴󠁧󠁢󠁥󠁮󠁧󠁿 ENG 2-0 TRI 🇹🇹 [019]
 LOCATION:Frankenstadion\, Nürnberg
-GEO:49.430914;11.129835
+GEO:49.426111;11.125833
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Frankenstadion, Nürnberg"
- ;X-APPLE-RADIUS=100;X-TITLE="Frankenstadion, Nürnberg":geo:49.430914,11.1
- 29835
+ ;X-APPLE-RADIUS=100;X-TITLE="Frankenstadion, Nürnberg":geo:49.426111,11.1
+ 25833
 DESCRIPTION:Group B | Matchday 7 | 2006 FIFA World Cup - Germany\nEngland 2
  -0 Trinidad and Tobago\nHT: 0-0
 URL:https://en.wikipedia.org/wiki/2006_FIFA_World_Cup
@@ -350,9 +350,9 @@ DTSTART:20060615T190000Z
 DTEND:20060615T210000Z
 SUMMARY:[B2] 🇸🇪 SWE 1-0 PAR 🇵🇾 [020]
 LOCATION:Olympiastadion\, Berlin
-GEO:52.514585;13.239814
+GEO:52.514722;13.239444
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Olympiastadion, Berlin";X-
- APPLE-RADIUS=100;X-TITLE="Olympiastadion, Berlin":geo:52.514585,13.239814
+ APPLE-RADIUS=100;X-TITLE="Olympiastadion, Berlin":geo:52.514722,13.239444
 DESCRIPTION:Group B | Matchday 7 | 2006 FIFA World Cup - Germany\nSweden 1-
  0 Paraguay\nHT: 0-0
 URL:https://en.wikipedia.org/wiki/2006_FIFA_World_Cup
@@ -385,10 +385,10 @@ DTSTART:20060616T160000Z
 DTEND:20060616T180000Z
 SUMMARY:[C2] 🇳🇱 NED 2-1 CIV 🇨🇮 [022]
 LOCATION:Gottlieb-Daimler-Stadion\, Stuttgart
-GEO:48.791816;9.241173
+GEO:48.792222;9.231944
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Gottlieb-Daimler-Stadion, 
  Stuttgart";X-APPLE-RADIUS=100;X-TITLE="Gottlieb-Daimler-Stadion, Stuttgart
- ":geo:48.791816,9.241173
+ ":geo:48.792222,9.231944
 DESCRIPTION:Group C | Matchday 8 | 2006 FIFA World Cup - Germany\nNetherlan
  ds 2-1 Ivory Coast\nHT: 2-1
 URL:https://en.wikipedia.org/wiki/2006_FIFA_World_Cup
@@ -403,9 +403,9 @@ DTSTART:20060616T190000Z
 DTEND:20060616T210000Z
 SUMMARY:[D2] 🇲🇽 MEX 0-0 ANG 🇦🇴 [023]
 LOCATION:AWD-Arena\, Hannover
-GEO:52.360026;9.731016
+GEO:52.360000;9.731111
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="AWD-Arena, Hannover";X-APP
- LE-RADIUS=100;X-TITLE="AWD-Arena, Hannover":geo:52.360026,9.731016
+ LE-RADIUS=100;X-TITLE="AWD-Arena, Hannover":geo:52.360000,9.731111
 DESCRIPTION:Group D | Matchday 8 | 2006 FIFA World Cup - Germany\nMexico 0-
  0 Angola
 URL:https://en.wikipedia.org/wiki/2006_FIFA_World_Cup
@@ -420,10 +420,10 @@ DTSTART:20060617T130000Z
 DTEND:20060617T150000Z
 SUMMARY:[D2] 🇵🇹 POR 2-0 IRN 🇮🇷 [024]
 LOCATION:Commerzbank-Arena\, Frankfurt
-GEO:50.138151;8.581535
+GEO:50.068056;8.645806
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Commerzbank-Arena, Frankfu
- rt";X-APPLE-RADIUS=100;X-TITLE="Commerzbank-Arena, Frankfurt":geo:50.13815
- 1,8.581535
+ rt";X-APPLE-RADIUS=100;X-TITLE="Commerzbank-Arena, Frankfurt":geo:50.06805
+ 6,8.645806
 DESCRIPTION:Group D | Matchday 9 | 2006 FIFA World Cup - Germany\nPortugal 
  2-0 Iran\nHT: 0-0
 URL:https://en.wikipedia.org/wiki/2006_FIFA_World_Cup
@@ -438,10 +438,10 @@ DTSTART:20060617T190000Z
 DTEND:20060617T210000Z
 SUMMARY:[E2] 🇮🇹 ITA 1-1 USA 🇺🇸 [025]
 LOCATION:Fritz-Walter-Stadion\, Kaiserslautern
-GEO:49.444722;7.768889
+GEO:49.434722;7.776667
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Fritz-Walter-Stadion, Kais
  erslautern";X-APPLE-RADIUS=100;X-TITLE="Fritz-Walter-Stadion, Kaiserslaute
- rn":geo:49.444722,7.768889
+ rn":geo:49.434722,7.776667
 DESCRIPTION:Group E | Matchday 9 | 2006 FIFA World Cup - Germany\nItaly 1-1
   USA\nHT: 1-1
 URL:https://en.wikipedia.org/wiki/2006_FIFA_World_Cup
@@ -492,10 +492,10 @@ DTSTART:20060618T130000Z
 DTEND:20060618T150000Z
 SUMMARY:[F2] 🇯🇵 JPN 0-0 CRO 🇭🇷 [028]
 LOCATION:Frankenstadion\, Nürnberg
-GEO:49.430914;11.129835
+GEO:49.426111;11.125833
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Frankenstadion, Nürnberg"
- ;X-APPLE-RADIUS=100;X-TITLE="Frankenstadion, Nürnberg":geo:49.430914,11.1
- 29835
+ ;X-APPLE-RADIUS=100;X-TITLE="Frankenstadion, Nürnberg":geo:49.426111,11.1
+ 25833
 DESCRIPTION:Group F | Matchday 10 | 2006 FIFA World Cup - Germany\nJapan 0-
  0 Croatia
 URL:https://en.wikipedia.org/wiki/2006_FIFA_World_Cup
@@ -528,10 +528,10 @@ DTSTART:20060619T130000Z
 DTEND:20060619T150000Z
 SUMMARY:[G2] 🇹🇬 TOG 0-2 SUI 🇨🇭 [030]
 LOCATION:Signal Iduna Park\, Dortmund
-GEO:51.490556;7.457500
+GEO:51.492500;7.451667
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Signal Iduna Park, Dortmun
- d";X-APPLE-RADIUS=100;X-TITLE="Signal Iduna Park, Dortmund":geo:51.490556,
- 7.457500
+ d";X-APPLE-RADIUS=100;X-TITLE="Signal Iduna Park, Dortmund":geo:51.492500,
+ 7.451667
 DESCRIPTION:Group G | Matchday 11 | 2006 FIFA World Cup - Germany\nTogo 0-2
   Switzerland\nHT: 0-1
 URL:https://en.wikipedia.org/wiki/2006_FIFA_World_Cup
@@ -546,10 +546,10 @@ DTSTART:20060619T190000Z
 DTEND:20060619T210000Z
 SUMMARY:[H2] 🇪🇸 ESP 3-1 TUN 🇹🇳 [031]
 LOCATION:Gottlieb-Daimler-Stadion\, Stuttgart
-GEO:48.791816;9.241173
+GEO:48.792222;9.231944
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Gottlieb-Daimler-Stadion, 
  Stuttgart";X-APPLE-RADIUS=100;X-TITLE="Gottlieb-Daimler-Stadion, Stuttgart
- ":geo:48.791816,9.241173
+ ":geo:48.792222,9.231944
 DESCRIPTION:Group H | Matchday 11 | 2006 FIFA World Cup - Germany\nSpain 3-
  1 Tunisia\nHT: 0-1
 URL:https://en.wikipedia.org/wiki/2006_FIFA_World_Cup
@@ -564,9 +564,9 @@ DTSTART:20060619T160000Z
 DTEND:20060619T180000Z
 SUMMARY:[H2] 🇸🇦 KSA 0-4 UKR 🇺🇦 [032]
 LOCATION:AOL Arena\, Hamburg
-GEO:53.543368;9.991798
+GEO:53.587222;9.898611
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="AOL Arena, Hamburg";X-APPL
- E-RADIUS=100;X-TITLE="AOL Arena, Hamburg":geo:53.543368,9.991798
+ E-RADIUS=100;X-TITLE="AOL Arena, Hamburg":geo:53.587222,9.898611
 DESCRIPTION:Group H | Matchday 11 | 2006 FIFA World Cup - Germany\nSaudi Ar
  abia 0-4 Ukraine\nHT: 0-2
 URL:https://en.wikipedia.org/wiki/2006_FIFA_World_Cup
@@ -581,9 +581,9 @@ DTSTART:20060620T140000Z
 DTEND:20060620T160000Z
 SUMMARY:[A3] 🇪🇨 ECU 0-3 GER 🇩🇪 [033]
 LOCATION:Olympiastadion\, Berlin
-GEO:52.514585;13.239814
+GEO:52.514722;13.239444
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Olympiastadion, Berlin";X-
- APPLE-RADIUS=100;X-TITLE="Olympiastadion, Berlin":geo:52.514585,13.239814
+ APPLE-RADIUS=100;X-TITLE="Olympiastadion, Berlin":geo:52.514722,13.239444
 DESCRIPTION:Group A | Matchday 12 | 2006 FIFA World Cup - Germany\nEcuador 
  0-3 Germany\nHT: 0-2
 URL:https://en.wikipedia.org/wiki/2006_FIFA_World_Cup
@@ -598,9 +598,9 @@ DTSTART:20060620T140000Z
 DTEND:20060620T160000Z
 SUMMARY:[A3] 🇨🇷 CRC 1-2 POL 🇵🇱 [034]
 LOCATION:AWD-Arena\, Hannover
-GEO:52.360026;9.731016
+GEO:52.360000;9.731111
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="AWD-Arena, Hannover";X-APP
- LE-RADIUS=100;X-TITLE="AWD-Arena, Hannover":geo:52.360026,9.731016
+ LE-RADIUS=100;X-TITLE="AWD-Arena, Hannover":geo:52.360000,9.731111
 DESCRIPTION:Group A | Matchday 12 | 2006 FIFA World Cup - Germany\nCosta Ri
  ca 1-2 Poland\nHT: 1-1
 URL:https://en.wikipedia.org/wiki/2006_FIFA_World_Cup
@@ -633,10 +633,10 @@ DTSTART:20060620T190000Z
 DTEND:20060620T210000Z
 SUMMARY:[B3] 🇵🇾 PAR 2-0 TRI 🇹🇹 [036]
 LOCATION:Fritz-Walter-Stadion\, Kaiserslautern
-GEO:49.444722;7.768889
+GEO:49.434722;7.776667
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Fritz-Walter-Stadion, Kais
  erslautern";X-APPLE-RADIUS=100;X-TITLE="Fritz-Walter-Stadion, Kaiserslaute
- rn":geo:49.444722,7.768889
+ rn":geo:49.434722,7.776667
 DESCRIPTION:Group B | Matchday 12 | 2006 FIFA World Cup - Germany\nParaguay
   2-0 Trinidad and Tobago\nHT: 1-0
 URL:https://en.wikipedia.org/wiki/2006_FIFA_World_Cup
@@ -651,10 +651,10 @@ DTSTART:20060621T190000Z
 DTEND:20060621T210000Z
 SUMMARY:[C3] 🇳🇱 NED 0-0 ARG 🇦🇷 [037]
 LOCATION:Commerzbank-Arena\, Frankfurt
-GEO:50.138151;8.581535
+GEO:50.068056;8.645806
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Commerzbank-Arena, Frankfu
- rt";X-APPLE-RADIUS=100;X-TITLE="Commerzbank-Arena, Frankfurt":geo:50.13815
- 1,8.581535
+ rt";X-APPLE-RADIUS=100;X-TITLE="Commerzbank-Arena, Frankfurt":geo:50.06805
+ 6,8.645806
 DESCRIPTION:Group C | Matchday 13 | 2006 FIFA World Cup - Germany\nNetherla
  nds 0-0 Argentina
 URL:https://en.wikipedia.org/wiki/2006_FIFA_World_Cup
@@ -723,9 +723,9 @@ DTSTART:20060622T140000Z
 DTEND:20060622T160000Z
 SUMMARY:[E3] 🇨🇿 CZE 0-2 ITA 🇮🇹 [041]
 LOCATION:AOL Arena\, Hamburg
-GEO:53.543368;9.991798
+GEO:53.587222;9.898611
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="AOL Arena, Hamburg";X-APPL
- E-RADIUS=100;X-TITLE="AOL Arena, Hamburg":geo:53.543368,9.991798
+ E-RADIUS=100;X-TITLE="AOL Arena, Hamburg":geo:53.587222,9.898611
 DESCRIPTION:Group E | Matchday 14 | 2006 FIFA World Cup - Germany\nCzech Re
  public 0-2 Italy\nHT: 0-1
 URL:https://en.wikipedia.org/wiki/2006_FIFA_World_Cup
@@ -740,10 +740,10 @@ DTSTART:20060622T140000Z
 DTEND:20060622T160000Z
 SUMMARY:[E3] 🇬🇭 GHA 2-1 USA 🇺🇸 [042]
 LOCATION:Frankenstadion\, Nürnberg
-GEO:49.430914;11.129835
+GEO:49.426111;11.125833
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Frankenstadion, Nürnberg"
- ;X-APPLE-RADIUS=100;X-TITLE="Frankenstadion, Nürnberg":geo:49.430914,11.1
- 29835
+ ;X-APPLE-RADIUS=100;X-TITLE="Frankenstadion, Nürnberg":geo:49.426111,11.1
+ 25833
 DESCRIPTION:Group E | Matchday 14 | 2006 FIFA World Cup - Germany\nGhana 2-
  1 USA\nHT: 2-1
 URL:https://en.wikipedia.org/wiki/2006_FIFA_World_Cup
@@ -758,10 +758,10 @@ DTSTART:20060622T190000Z
 DTEND:20060622T210000Z
 SUMMARY:[F3] 🇯🇵 JPN 1-4 BRA 🇧🇷 [043]
 LOCATION:Signal Iduna Park\, Dortmund
-GEO:51.490556;7.457500
+GEO:51.492500;7.451667
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Signal Iduna Park, Dortmun
- d";X-APPLE-RADIUS=100;X-TITLE="Signal Iduna Park, Dortmund":geo:51.490556,
- 7.457500
+ d";X-APPLE-RADIUS=100;X-TITLE="Signal Iduna Park, Dortmund":geo:51.492500,
+ 7.451667
 DESCRIPTION:Group F | Matchday 14 | 2006 FIFA World Cup - Germany\nJapan 1-
  4 Brazil\nHT: 1-1
 URL:https://en.wikipedia.org/wiki/2006_FIFA_World_Cup
@@ -776,10 +776,10 @@ DTSTART:20060622T190000Z
 DTEND:20060622T210000Z
 SUMMARY:[F3] 🇭🇷 CRO 2-2 AUS 🇦🇺 [044]
 LOCATION:Gottlieb-Daimler-Stadion\, Stuttgart
-GEO:48.791816;9.241173
+GEO:48.792222;9.231944
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Gottlieb-Daimler-Stadion, 
  Stuttgart";X-APPLE-RADIUS=100;X-TITLE="Gottlieb-Daimler-Stadion, Stuttgart
- ":geo:48.791816,9.241173
+ ":geo:48.792222,9.231944
 DESCRIPTION:Group F | Matchday 14 | 2006 FIFA World Cup - Germany\nCroatia 
  2-2 Australia\nHT: 1-1
 URL:https://en.wikipedia.org/wiki/2006_FIFA_World_Cup
@@ -812,9 +812,9 @@ DTSTART:20060623T190000Z
 DTEND:20060623T210000Z
 SUMMARY:[G3] 🇨🇭 SUI 2-0 KOR 🇰🇷 [046]
 LOCATION:AWD-Arena\, Hannover
-GEO:52.360026;9.731016
+GEO:52.360000;9.731111
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="AWD-Arena, Hannover";X-APP
- LE-RADIUS=100;X-TITLE="AWD-Arena, Hannover":geo:52.360026,9.731016
+ LE-RADIUS=100;X-TITLE="AWD-Arena, Hannover":geo:52.360000,9.731111
 DESCRIPTION:Group G | Matchday 15 | 2006 FIFA World Cup - Germany\nSwitzerl
  and 2-0 South Korea\nHT: 1-0
 URL:https://en.wikipedia.org/wiki/2006_FIFA_World_Cup
@@ -829,10 +829,10 @@ DTSTART:20060623T140000Z
 DTEND:20060623T160000Z
 SUMMARY:[H3] 🇸🇦 KSA 0-1 ESP 🇪🇸 [047]
 LOCATION:Fritz-Walter-Stadion\, Kaiserslautern
-GEO:49.444722;7.768889
+GEO:49.434722;7.776667
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Fritz-Walter-Stadion, Kais
  erslautern";X-APPLE-RADIUS=100;X-TITLE="Fritz-Walter-Stadion, Kaiserslaute
- rn":geo:49.444722,7.768889
+ rn":geo:49.434722,7.776667
 DESCRIPTION:Group H | Matchday 15 | 2006 FIFA World Cup - Germany\nSaudi Ar
  abia 0-1 Spain\nHT: 0-1
 URL:https://en.wikipedia.org/wiki/2006_FIFA_World_Cup
@@ -847,9 +847,9 @@ DTSTART:20060623T140000Z
 DTEND:20060623T160000Z
 SUMMARY:[H3] 🇺🇦 UKR 1-0 TUN 🇹🇳 [048]
 LOCATION:Olympiastadion\, Berlin
-GEO:52.514585;13.239814
+GEO:52.514722;13.239444
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Olympiastadion, Berlin";X-
- APPLE-RADIUS=100;X-TITLE="Olympiastadion, Berlin":geo:52.514585,13.239814
+ APPLE-RADIUS=100;X-TITLE="Olympiastadion, Berlin":geo:52.514722,13.239444
 DESCRIPTION:Group H | Matchday 15 | 2006 FIFA World Cup - Germany\nUkraine 
  1-0 Tunisia\nHT: 0-0
 URL:https://en.wikipedia.org/wiki/2006_FIFA_World_Cup
@@ -900,10 +900,10 @@ DTSTART:20060625T150000Z
 DTEND:20060625T180000Z
 SUMMARY:[R16] 🏴󠁧󠁢󠁥󠁮󠁧󠁿 ENG 1-0 ECU 🇪🇨 [051]
 LOCATION:Gottlieb-Daimler-Stadion\, Stuttgart
-GEO:48.791816;9.241173
+GEO:48.792222;9.231944
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Gottlieb-Daimler-Stadion, 
  Stuttgart";X-APPLE-RADIUS=100;X-TITLE="Gottlieb-Daimler-Stadion, Stuttgart
- ":geo:48.791816,9.241173
+ ":geo:48.792222,9.231944
 DESCRIPTION:Round of 16 | 2006 FIFA World Cup - Germany\nEngland 1-0 Ecuado
  r\nHT: 0-0
 URL:https://en.wikipedia.org/wiki/2006_FIFA_World_Cup
@@ -918,10 +918,10 @@ DTSTART:20060625T190000Z
 DTEND:20060625T220000Z
 SUMMARY:[R16] 🇵🇹 POR 1-0 NED 🇳🇱 [052]
 LOCATION:Frankenstadion\, Nürnberg
-GEO:49.430914;11.129835
+GEO:49.426111;11.125833
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Frankenstadion, Nürnberg"
- ;X-APPLE-RADIUS=100;X-TITLE="Frankenstadion, Nürnberg":geo:49.430914,11.1
- 29835
+ ;X-APPLE-RADIUS=100;X-TITLE="Frankenstadion, Nürnberg":geo:49.426111,11.1
+ 25833
 DESCRIPTION:Round of 16 | 2006 FIFA World Cup - Germany\nPortugal 1-0 Nethe
  rlands\nHT: 1-0
 URL:https://en.wikipedia.org/wiki/2006_FIFA_World_Cup
@@ -936,10 +936,10 @@ DTSTART:20060626T150000Z
 DTEND:20060626T180000Z
 SUMMARY:[R16] 🇮🇹 ITA 1-0 AUS 🇦🇺 [053]
 LOCATION:Fritz-Walter-Stadion\, Kaiserslautern
-GEO:49.444722;7.768889
+GEO:49.434722;7.776667
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Fritz-Walter-Stadion, Kais
  erslautern";X-APPLE-RADIUS=100;X-TITLE="Fritz-Walter-Stadion, Kaiserslaute
- rn":geo:49.444722,7.768889
+ rn":geo:49.434722,7.776667
 DESCRIPTION:Round of 16 | 2006 FIFA World Cup - Germany\nItaly 1-0 Australi
  a\nHT: 0-0
 URL:https://en.wikipedia.org/wiki/2006_FIFA_World_Cup
@@ -972,10 +972,10 @@ DTSTART:20060627T150000Z
 DTEND:20060627T180000Z
 SUMMARY:[R16] 🇧🇷 BRA 3-0 GHA 🇬🇭 [055]
 LOCATION:Signal Iduna Park\, Dortmund
-GEO:51.490556;7.457500
+GEO:51.492500;7.451667
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Signal Iduna Park, Dortmun
- d";X-APPLE-RADIUS=100;X-TITLE="Signal Iduna Park, Dortmund":geo:51.490556,
- 7.457500
+ d";X-APPLE-RADIUS=100;X-TITLE="Signal Iduna Park, Dortmund":geo:51.492500,
+ 7.451667
 DESCRIPTION:Round of 16 | 2006 FIFA World Cup - Germany\nBrazil 3-0 Ghana\n
  HT: 2-0
 URL:https://en.wikipedia.org/wiki/2006_FIFA_World_Cup
@@ -990,9 +990,9 @@ DTSTART:20060627T190000Z
 DTEND:20060627T220000Z
 SUMMARY:[R16] 🇪🇸 ESP 1-3 FRA 🇫🇷 [056]
 LOCATION:AWD-Arena\, Hannover
-GEO:52.360026;9.731016
+GEO:52.360000;9.731111
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="AWD-Arena, Hannover";X-APP
- LE-RADIUS=100;X-TITLE="AWD-Arena, Hannover":geo:52.360026,9.731016
+ LE-RADIUS=100;X-TITLE="AWD-Arena, Hannover":geo:52.360000,9.731111
 DESCRIPTION:Round of 16 | 2006 FIFA World Cup - Germany\nSpain 1-3 France\n
  HT: 1-1
 URL:https://en.wikipedia.org/wiki/2006_FIFA_World_Cup
@@ -1007,9 +1007,9 @@ DTSTART:20060630T150000Z
 DTEND:20060630T180000Z
 SUMMARY:[QF1] 🇩🇪 GER (p) 1-1 (aet) ARG 🇦🇷 [057]
 LOCATION:Olympiastadion\, Berlin
-GEO:52.514585;13.239814
+GEO:52.514722;13.239444
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Olympiastadion, Berlin";X-
- APPLE-RADIUS=100;X-TITLE="Olympiastadion, Berlin":geo:52.514585,13.239814
+ APPLE-RADIUS=100;X-TITLE="Olympiastadion, Berlin":geo:52.514722,13.239444
 DESCRIPTION:Quarterfinals | 2006 FIFA World Cup - Germany\nGermany 1-1 Arge
  ntina\nHT: 0-0\nFT: 1-1\nAET: 1-1\nPenalties: 4-2
 URL:https://en.wikipedia.org/wiki/2006_FIFA_World_Cup
@@ -1024,9 +1024,9 @@ DTSTART:20060630T190000Z
 DTEND:20060630T220000Z
 SUMMARY:[QF2] 🇮🇹 ITA 3-0 UKR 🇺🇦 [058]
 LOCATION:AOL Arena\, Hamburg
-GEO:53.543368;9.991798
+GEO:53.587222;9.898611
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="AOL Arena, Hamburg";X-APPL
- E-RADIUS=100;X-TITLE="AOL Arena, Hamburg":geo:53.543368,9.991798
+ E-RADIUS=100;X-TITLE="AOL Arena, Hamburg":geo:53.587222,9.898611
 DESCRIPTION:Quarterfinals | 2006 FIFA World Cup - Germany\nItaly 3-0 Ukrain
  e\nHT: 1-0
 URL:https://en.wikipedia.org/wiki/2006_FIFA_World_Cup
@@ -1060,10 +1060,10 @@ DTSTART:20060701T190000Z
 DTEND:20060701T220000Z
 SUMMARY:[QF4] 🇧🇷 BRA 0-1 FRA 🇫🇷 [060]
 LOCATION:Commerzbank-Arena\, Frankfurt
-GEO:50.138151;8.581535
+GEO:50.068056;8.645806
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Commerzbank-Arena, Frankfu
- rt";X-APPLE-RADIUS=100;X-TITLE="Commerzbank-Arena, Frankfurt":geo:50.13815
- 1,8.581535
+ rt";X-APPLE-RADIUS=100;X-TITLE="Commerzbank-Arena, Frankfurt":geo:50.06805
+ 6,8.645806
 DESCRIPTION:Quarterfinals | 2006 FIFA World Cup - Germany\nBrazil 0-1 Franc
  e\nHT: 0-0
 URL:https://en.wikipedia.org/wiki/2006_FIFA_World_Cup
@@ -1078,10 +1078,10 @@ DTSTART:20060704T190000Z
 DTEND:20060704T220000Z
 SUMMARY:[SF1] 🇩🇪 GER 0-2 (aet) ITA 🇮🇹 [061]
 LOCATION:Signal Iduna Park\, Dortmund
-GEO:51.490556;7.457500
+GEO:51.492500;7.451667
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Signal Iduna Park, Dortmun
- d";X-APPLE-RADIUS=100;X-TITLE="Signal Iduna Park, Dortmund":geo:51.490556,
- 7.457500
+ d";X-APPLE-RADIUS=100;X-TITLE="Signal Iduna Park, Dortmund":geo:51.492500,
+ 7.451667
 DESCRIPTION:Semifinals | 2006 FIFA World Cup - Germany\nGermany 0-2 Italy\n
  FT: 0-0\nAET: 0-2\nGoals:\nITA 🇮🇹: Grosso 119'\, Del Piero 120'
 URL:https://en.wikipedia.org/wiki/2006_FIFA_World_Cup
@@ -1114,10 +1114,10 @@ DTSTART:20060708T190000Z
 DTEND:20060708T220000Z
 SUMMARY:[3RD] 🇩🇪 GER 3-1 POR 🇵🇹 [063]
 LOCATION:Gottlieb-Daimler-Stadion\, Stuttgart
-GEO:48.791816;9.241173
+GEO:48.792222;9.231944
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Gottlieb-Daimler-Stadion, 
  Stuttgart";X-APPLE-RADIUS=100;X-TITLE="Gottlieb-Daimler-Stadion, Stuttgart
- ":geo:48.791816,9.241173
+ ":geo:48.792222,9.231944
 DESCRIPTION:Third-place play-off | 2006 FIFA World Cup - Germany\nGermany 3
  -1 Portugal\nHT: 0-0\nGoals:\nGER 🇩🇪: Schweinsteiger 56'\, Schweinst
  eiger 78'\, Petit 60' og\nPOR 🇵🇹: Nuno Gomes 88'
@@ -1133,9 +1133,9 @@ DTSTART:20060709T180000Z
 DTEND:20060709T210000Z
 SUMMARY:[FINAL] 🇮🇹 ITA (p) 1-1 (aet) FRA 🇫🇷 [064]
 LOCATION:Olympiastadion\, Berlin
-GEO:52.514585;13.239814
+GEO:52.514722;13.239444
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Olympiastadion, Berlin";X-
- APPLE-RADIUS=100;X-TITLE="Olympiastadion, Berlin":geo:52.514585,13.239814
+ APPLE-RADIUS=100;X-TITLE="Olympiastadion, Berlin":geo:52.514722,13.239444
 DESCRIPTION:Final | 2006 FIFA World Cup - Germany\nItaly 1-1 France\nHT: 1-
  1\nFT: 1-1\nAET: 1-1\nPenalties: 5-3\nGoals:\nITA 🇮🇹: Materazzi 19'\
  nFRA 🇫🇷: Zidane 7' pen

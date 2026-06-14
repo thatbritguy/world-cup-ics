@@ -9,7 +9,8 @@
       ],
       "latitude": 44.82917,
       "longitude": -0.598333,
-      "coordinate_source": "https://en.wikipedia.org/wiki/Stade_Chaban-Delmas"
+      "coordinate_source": "https://en.wikipedia.org/wiki/Stade_Chaban-Delmas",
+      "coordinate_status": "verified"
     },
     {
       "name": "Parc des Princes",
@@ -19,7 +20,20 @@
       ],
       "latitude": 48.841363,
       "longitude": 2.253069,
-      "coordinate_source": "https://fr.wikipedia.org/wiki/Parc_des_Princes"
+      "coordinate_source": "https://fr.wikipedia.org/wiki/Parc_des_Princes",
+      "coordinate_status": "verified"
+    },
+    {
+      "name": "Stade Félix Bollaert",
+      "city": "Lens",
+      "ground_aliases": [
+        "Stade Félix Bollaert, Lens"
+      ],
+      "latitude": 50.432778,
+      "longitude": 2.815,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Stade_Bollaert-Delelis",
+      "coordinate_source_title": "Stade Bollaert-Delelis",
+      "coordinate_status": "verified"
     },
     {
       "name": "Stade Geoffroy-Guichard",
@@ -31,7 +45,21 @@
       "longitude": 4.39027778,
       "coordinate_source": "https://en.wikipedia.org/wiki/Stade_Geoffroy-Guichard",
       "coordinate_source_title": "Stade Geoffroy-Guichard",
-      "match_score": 15
+      "match_score": 25,
+      "coordinate_status": "verified",
+      "coordinate_review": "Manual source-title and location review"
+    },
+    {
+      "name": "Stade Gerland",
+      "city": "Lyon",
+      "ground_aliases": [
+        "Stade Gerland, Lyon"
+      ],
+      "latitude": 45.72375,
+      "longitude": 4.8324,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Stade_de_Gerland",
+      "coordinate_source_title": "Stade de Gerland",
+      "coordinate_status": "verified"
     },
     {
       "name": "Stade Vélodrome",
@@ -41,7 +69,8 @@
       ],
       "latitude": 43.269722,
       "longitude": 5.395833,
-      "coordinate_source": "https://en.wikipedia.org/wiki/Stade_V%C3%A9lodrome"
+      "coordinate_source": "https://en.wikipedia.org/wiki/Stade_V%C3%A9lodrome",
+      "coordinate_status": "verified"
     },
     {
       "name": "Stade de France",
@@ -49,11 +78,37 @@
       "ground_aliases": [
         "Stade de France, Saint-Denis"
       ],
-      "latitude": 48.9244,
-      "longitude": 2.36,
-      "coordinate_source": "https://en.wikipedia.org/wiki/Stade_de_France",
-      "coordinate_source_title": "Stade de France",
-      "match_score": 15
+      "latitude": 48.9356,
+      "longitude": 2.3539,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Saint-Denis,_Seine-Saint-Denis",
+      "coordinate_source_title": "Saint-Denis, Seine-Saint-Denis",
+      "match_score": 20,
+      "coordinate_status": "verified",
+      "coordinate_review": "Manual source-title and location review"
+    },
+    {
+      "name": "Stade de Toulouse",
+      "city": "Toulouse",
+      "ground_aliases": [
+        "Stade de Toulouse, Toulouse"
+      ],
+      "latitude": 43.583333,
+      "longitude": 1.434167,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Stadium_de_Toulouse",
+      "coordinate_source_title": "Stadium de Toulouse",
+      "coordinate_status": "verified"
+    },
+    {
+      "name": "Stade de la Beaujoire",
+      "city": "Nantes",
+      "ground_aliases": [
+        "Stade de la Beaujoire, Nantes"
+      ],
+      "latitude": 47.255556,
+      "longitude": -1.525278,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Stade_de_la_Beaujoire",
+      "coordinate_source_title": "Stade de la Beaujoire",
+      "coordinate_status": "verified"
     },
     {
       "name": "Stade de la Mosson",
@@ -65,7 +120,9 @@
       "longitude": 3.81194444,
       "coordinate_source": "https://en.wikipedia.org/wiki/Stade_de_la_Mosson",
       "coordinate_source_title": "Stade de la Mosson",
-      "match_score": 15
+      "match_score": 25,
+      "coordinate_status": "verified",
+      "coordinate_review": "Manual source-title and location review"
     }
   ]
 }

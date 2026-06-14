@@ -30,10 +30,10 @@ DTSTART:19740614T183000Z
 DTEND:19740614T203000Z
 SUMMARY:[G1-1] GDR 2-0 AUS 🇦🇺 [002]
 LOCATION:Volksparkstadion\, Hamburg
-GEO:53.550000;10.000000
+GEO:53.587222;9.898611
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Volksparkstadion, Hamburg"
- ;X-APPLE-RADIUS=100;X-TITLE="Volksparkstadion, Hamburg":geo:53.550000,10.0
- 00000
+ ;X-APPLE-RADIUS=100;X-TITLE="Volksparkstadion, Hamburg":geo:53.587222,9.89
+ 8611
 DESCRIPTION:Group 1 | Matchday 1 | 1974 FIFA World Cup - West Germany\nEast
   Germany 2-0 Australia
 URL:https://en.wikipedia.org/wiki/1974_FIFA_World_Cup
@@ -83,10 +83,10 @@ DTSTART:19740615T150000Z
 DTEND:19740615T170000Z
 SUMMARY:[G3-1] 🇺🇾 URU 0-2 NED 🇳🇱 [005]
 LOCATION:Niedersachsenstadion\, Hanover
-GEO:52.366667;9.716667
+GEO:52.360000;9.731111
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Niedersachsenstadion, Hano
- ver";X-APPLE-RADIUS=100;X-TITLE="Niedersachsenstadion, Hanover":geo:52.366
- 667,9.716667
+ ver";X-APPLE-RADIUS=100;X-TITLE="Niedersachsenstadion, Hanover":geo:52.360
+ 000,9.731111
 DESCRIPTION:Group 3 | Matchday 1 | 1974 FIFA World Cup - West Germany\nUrug
  uay 0-2 Netherlands
 URL:https://en.wikipedia.org/wiki/1974_FIFA_World_Cup
@@ -119,10 +119,10 @@ DTSTART:19740615T170000Z
 DTEND:19740615T190000Z
 SUMMARY:[G4-1] 🇮🇹 ITA 3-1 HAI 🇭🇹 [007]
 LOCATION:Olympiastadion\, München
-GEO:52.514722;13.239444
+GEO:48.173056;11.546667
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Olympiastadion, München";
- X-APPLE-RADIUS=100;X-TITLE="Olympiastadion, München":geo:52.514722,13.239
- 444
+ X-APPLE-RADIUS=100;X-TITLE="Olympiastadion, München":geo:48.173056,11.546
+ 667
 DESCRIPTION:Group 4 | Matchday 1 | 1974 FIFA World Cup - West Germany\nItal
  y 3-1 Haiti
 URL:https://en.wikipedia.org/wiki/1974_FIFA_World_Cup
@@ -137,9 +137,9 @@ DTSTART:19740615T170000Z
 DTEND:19740615T190000Z
 SUMMARY:[G4-1] 🇵🇱 POL 3-2 ARG 🇦🇷 [008]
 LOCATION:Neckarstadion\, Stuttgart
-GEO:48.777500;9.180000
+GEO:48.792222;9.232000
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Neckarstadion, Stuttgart";
- X-APPLE-RADIUS=100;X-TITLE="Neckarstadion, Stuttgart":geo:48.777500,9.1800
+ X-APPLE-RADIUS=100;X-TITLE="Neckarstadion, Stuttgart":geo:48.792222,9.2320
  00
 DESCRIPTION:Group 4 | Matchday 1 | 1974 FIFA World Cup - West Germany\nPola
  nd 3-2 Argentina
@@ -173,10 +173,10 @@ DTSTART:19740618T150000Z
 DTEND:19740618T170000Z
 SUMMARY:[G1-2] 🇦🇺 AUS 0-3 FRG 🇩🇪 [010]
 LOCATION:Volksparkstadion\, Hamburg
-GEO:53.550000;10.000000
+GEO:53.587222;9.898611
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Volksparkstadion, Hamburg"
- ;X-APPLE-RADIUS=100;X-TITLE="Volksparkstadion, Hamburg":geo:53.550000,10.0
- 00000
+ ;X-APPLE-RADIUS=100;X-TITLE="Volksparkstadion, Hamburg":geo:53.587222,9.89
+ 8611
 DESCRIPTION:Group 1 | Matchday 2 | 1974 FIFA World Cup - West Germany\nAust
  ralia 0-3 West Germany
 URL:https://en.wikipedia.org/wiki/1974_FIFA_World_Cup
@@ -191,10 +191,10 @@ DTSTART:19740618T183000Z
 DTEND:19740618T203000Z
 SUMMARY:[G2-2] YUG 9-0 ZAI [011]
 LOCATION:Parkstadion\, Gelsenkirchen
-GEO:51.510278;7.094167
+GEO:51.559167;7.067778
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Parkstadion, Gelsenkirchen
- ";X-APPLE-RADIUS=100;X-TITLE="Parkstadion, Gelsenkirchen":geo:51.510278,7.
- 094167
+ ";X-APPLE-RADIUS=100;X-TITLE="Parkstadion, Gelsenkirchen":geo:51.559167,7.
+ 067778
 DESCRIPTION:Group 2 | Matchday 2 | 1974 FIFA World Cup - West Germany\nYugo
  slavia 9-0 Zaire
 URL:https://en.wikipedia.org/wiki/1974_FIFA_World_Cup
@@ -244,10 +244,10 @@ DTSTART:19740619T183000Z
 DTEND:19740619T203000Z
 SUMMARY:[G3-2] 🇺🇾 URU 1-1 BUL 🇧🇬 [014]
 LOCATION:Niedersachsenstadion\, Hanover
-GEO:52.366667;9.716667
+GEO:52.360000;9.731111
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Niedersachsenstadion, Hano
- ver";X-APPLE-RADIUS=100;X-TITLE="Niedersachsenstadion, Hanover":geo:52.366
- 667,9.716667
+ ver";X-APPLE-RADIUS=100;X-TITLE="Niedersachsenstadion, Hanover":geo:52.360
+ 000,9.731111
 DESCRIPTION:Group 3 | Matchday 2 | 1974 FIFA World Cup - West Germany\nUrug
  uay 1-1 Bulgaria
 URL:https://en.wikipedia.org/wiki/1974_FIFA_World_Cup
@@ -262,10 +262,10 @@ DTSTART:19740619T183000Z
 DTEND:19740619T203000Z
 SUMMARY:[G4-2] 🇭🇹 HAI 0-7 POL 🇵🇱 [015]
 LOCATION:Olympiastadion\, München
-GEO:52.514722;13.239444
+GEO:48.173056;11.546667
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Olympiastadion, München";
- X-APPLE-RADIUS=100;X-TITLE="Olympiastadion, München":geo:52.514722,13.239
- 444
+ X-APPLE-RADIUS=100;X-TITLE="Olympiastadion, München":geo:48.173056,11.546
+ 667
 DESCRIPTION:Group 4 | Matchday 2 | 1974 FIFA World Cup - West Germany\nHait
  i 0-7 Poland
 URL:https://en.wikipedia.org/wiki/1974_FIFA_World_Cup
@@ -280,9 +280,9 @@ DTSTART:19740619T183000Z
 DTEND:19740619T203000Z
 SUMMARY:[G4-2] 🇦🇷 ARG 1-1 ITA 🇮🇹 [016]
 LOCATION:Neckarstadion\, Stuttgart
-GEO:48.777500;9.180000
+GEO:48.792222;9.232000
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Neckarstadion, Stuttgart";
- X-APPLE-RADIUS=100;X-TITLE="Neckarstadion, Stuttgart":geo:48.777500,9.1800
+ X-APPLE-RADIUS=100;X-TITLE="Neckarstadion, Stuttgart":geo:48.792222,9.2320
  00
 DESCRIPTION:Group 4 | Matchday 2 | 1974 FIFA World Cup - West Germany\nArge
  ntina 1-1 Italy
@@ -316,10 +316,10 @@ DTSTART:19740622T183000Z
 DTEND:19740622T203000Z
 SUMMARY:[G1-3] GDR 1-0 FRG 🇩🇪 [018]
 LOCATION:Volksparkstadion\, Hamburg
-GEO:53.550000;10.000000
+GEO:53.587222;9.898611
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Volksparkstadion, Hamburg"
- ;X-APPLE-RADIUS=100;X-TITLE="Volksparkstadion, Hamburg":geo:53.550000,10.0
- 00000
+ ;X-APPLE-RADIUS=100;X-TITLE="Volksparkstadion, Hamburg":geo:53.587222,9.89
+ 8611
 DESCRIPTION:Group 1 | Matchday 3 | 1974 FIFA World Cup - West Germany\nEast
   Germany 1-0 West Germany
 URL:https://en.wikipedia.org/wiki/1974_FIFA_World_Cup
@@ -351,10 +351,10 @@ DTSTART:19740622T150000Z
 DTEND:19740622T170000Z
 SUMMARY:[G2-3] ZAI 0-3 BRA 🇧🇷 [020]
 LOCATION:Parkstadion\, Gelsenkirchen
-GEO:51.510278;7.094167
+GEO:51.559167;7.067778
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Parkstadion, Gelsenkirchen
- ";X-APPLE-RADIUS=100;X-TITLE="Parkstadion, Gelsenkirchen":geo:51.510278,7.
- 094167
+ ";X-APPLE-RADIUS=100;X-TITLE="Parkstadion, Gelsenkirchen":geo:51.559167,7.
+ 067778
 DESCRIPTION:Group 2 | Matchday 3 | 1974 FIFA World Cup - West Germany\nZair
  e 0-3 Brazil
 URL:https://en.wikipedia.org/wiki/1974_FIFA_World_Cup
@@ -405,10 +405,10 @@ DTSTART:19740623T150000Z
 DTEND:19740623T170000Z
 SUMMARY:[G4-3] 🇦🇷 ARG 4-1 HAI 🇭🇹 [023]
 LOCATION:Olympiastadion\, München
-GEO:52.514722;13.239444
+GEO:48.173056;11.546667
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Olympiastadion, München";
- X-APPLE-RADIUS=100;X-TITLE="Olympiastadion, München":geo:52.514722,13.239
- 444
+ X-APPLE-RADIUS=100;X-TITLE="Olympiastadion, München":geo:48.173056,11.546
+ 667
 DESCRIPTION:Group 4 | Matchday 3 | 1974 FIFA World Cup - West Germany\nArge
  ntina 4-1 Haiti
 URL:https://en.wikipedia.org/wiki/1974_FIFA_World_Cup
@@ -423,9 +423,9 @@ DTSTART:19740623T150000Z
 DTEND:19740623T170000Z
 SUMMARY:[G4-3] 🇵🇱 POL 2-1 ITA 🇮🇹 [024]
 LOCATION:Neckarstadion\, Stuttgart
-GEO:48.777500;9.180000
+GEO:48.792222;9.232000
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Neckarstadion, Stuttgart";
- X-APPLE-RADIUS=100;X-TITLE="Neckarstadion, Stuttgart":geo:48.777500,9.1800
+ X-APPLE-RADIUS=100;X-TITLE="Neckarstadion, Stuttgart":geo:48.792222,9.2320
  00
 DESCRIPTION:Group 4 | Matchday 3 | 1974 FIFA World Cup - West Germany\nPola
  nd 2-1 Italy
@@ -441,10 +441,10 @@ DTSTART:19740626T183000Z
 DTEND:19740626T203000Z
 SUMMARY:[A1] 🇧🇷 BRA 1-0 GDR [025]
 LOCATION:Niedersachsenstadion\, Hanover
-GEO:52.366667;9.716667
+GEO:52.360000;9.731111
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Niedersachsenstadion, Hano
- ver";X-APPLE-RADIUS=100;X-TITLE="Niedersachsenstadion, Hanover":geo:52.366
- 667,9.716667
+ ver";X-APPLE-RADIUS=100;X-TITLE="Niedersachsenstadion, Hanover":geo:52.360
+ 000,9.731111
 DESCRIPTION:Group A | Matchday 4 | 1974 FIFA World Cup - West Germany\nBraz
  il 1-0 East Germany
 URL:https://en.wikipedia.org/wiki/1974_FIFA_World_Cup
@@ -459,10 +459,10 @@ DTSTART:19740626T183000Z
 DTEND:19740626T203000Z
 SUMMARY:[A1] 🇳🇱 NED 4-0 ARG 🇦🇷 [026]
 LOCATION:Parkstadion\, Gelsenkirchen
-GEO:51.510278;7.094167
+GEO:51.559167;7.067778
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Parkstadion, Gelsenkirchen
- ";X-APPLE-RADIUS=100;X-TITLE="Parkstadion, Gelsenkirchen":geo:51.510278,7.
- 094167
+ ";X-APPLE-RADIUS=100;X-TITLE="Parkstadion, Gelsenkirchen":geo:51.559167,7.
+ 067778
 DESCRIPTION:Group A | Matchday 4 | 1974 FIFA World Cup - West Germany\nNeth
  erlands 4-0 Argentina
 URL:https://en.wikipedia.org/wiki/1974_FIFA_World_Cup
@@ -495,9 +495,9 @@ DTSTART:19740626T183000Z
 DTEND:19740626T203000Z
 SUMMARY:[B1] 🇸🇪 SWE 0-1 POL 🇵🇱 [028]
 LOCATION:Neckarstadion\, Stuttgart
-GEO:48.777500;9.180000
+GEO:48.792222;9.232000
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Neckarstadion, Stuttgart";
- X-APPLE-RADIUS=100;X-TITLE="Neckarstadion, Stuttgart":geo:48.777500,9.1800
+ X-APPLE-RADIUS=100;X-TITLE="Neckarstadion, Stuttgart":geo:48.792222,9.2320
  00
 DESCRIPTION:Group B | Matchday 4 | 1974 FIFA World Cup - West Germany\nSwed
  en 0-1 Poland
@@ -513,10 +513,10 @@ DTSTART:19740630T150000Z
 DTEND:19740630T170000Z
 SUMMARY:[A2] GDR 0-2 NED 🇳🇱 [029]
 LOCATION:Parkstadion\, Gelsenkirchen
-GEO:51.510278;7.094167
+GEO:51.559167;7.067778
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Parkstadion, Gelsenkirchen
- ";X-APPLE-RADIUS=100;X-TITLE="Parkstadion, Gelsenkirchen":geo:51.510278,7.
- 094167
+ ";X-APPLE-RADIUS=100;X-TITLE="Parkstadion, Gelsenkirchen":geo:51.559167,7.
+ 067778
 DESCRIPTION:Group A | Matchday 5 | 1974 FIFA World Cup - West Germany\nEast
   Germany 0-2 Netherlands
 URL:https://en.wikipedia.org/wiki/1974_FIFA_World_Cup
@@ -531,10 +531,10 @@ DTSTART:19740630T150000Z
 DTEND:19740630T170000Z
 SUMMARY:[A2] 🇦🇷 ARG 1-2 BRA 🇧🇷 [030]
 LOCATION:Niedersachsenstadion\, Hanover
-GEO:52.366667;9.716667
+GEO:52.360000;9.731111
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Niedersachsenstadion, Hano
- ver";X-APPLE-RADIUS=100;X-TITLE="Niedersachsenstadion, Hanover":geo:52.366
- 667,9.716667
+ ver";X-APPLE-RADIUS=100;X-TITLE="Niedersachsenstadion, Hanover":geo:52.360
+ 000,9.731111
 DESCRIPTION:Group A | Matchday 5 | 1974 FIFA World Cup - West Germany\nArge
  ntina 1-2 Brazil
 URL:https://en.wikipedia.org/wiki/1974_FIFA_World_Cup
@@ -584,10 +584,10 @@ DTSTART:19740703T183000Z
 DTEND:19740703T203000Z
 SUMMARY:[A3] 🇦🇷 ARG 1-1 GDR [033]
 LOCATION:Parkstadion\, Gelsenkirchen
-GEO:51.510278;7.094167
+GEO:51.559167;7.067778
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Parkstadion, Gelsenkirchen
- ";X-APPLE-RADIUS=100;X-TITLE="Parkstadion, Gelsenkirchen":geo:51.510278,7.
- 094167
+ ";X-APPLE-RADIUS=100;X-TITLE="Parkstadion, Gelsenkirchen":geo:51.559167,7.
+ 067778
 DESCRIPTION:Group A | Matchday 6 | 1974 FIFA World Cup - West Germany\nArge
  ntina 1-1 East Germany
 URL:https://en.wikipedia.org/wiki/1974_FIFA_World_Cup
@@ -655,10 +655,10 @@ DTSTART:19740706T150000Z
 DTEND:19740706T180000Z
 SUMMARY:[3RD] 🇧🇷 BRA 0-1 POL 🇵🇱 [037]
 LOCATION:Olympiastadion\, München
-GEO:52.514722;13.239444
+GEO:48.173056;11.546667
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Olympiastadion, München";
- X-APPLE-RADIUS=100;X-TITLE="Olympiastadion, München":geo:52.514722,13.239
- 444
+ X-APPLE-RADIUS=100;X-TITLE="Olympiastadion, München":geo:48.173056,11.546
+ 667
 DESCRIPTION:Match for third place | 1974 FIFA World Cup - West Germany\nBra
  zil 0-1 Poland
 URL:https://en.wikipedia.org/wiki/1974_FIFA_World_Cup
@@ -673,10 +673,10 @@ DTSTART:19740707T150000Z
 DTEND:19740707T180000Z
 SUMMARY:[FINAL] 🇳🇱 NED 1-2 FRG 🇩🇪 [038]
 LOCATION:Olympiastadion\, München
-GEO:52.514722;13.239444
+GEO:48.173056;11.546667
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Olympiastadion, München";
- X-APPLE-RADIUS=100;X-TITLE="Olympiastadion, München":geo:52.514722,13.239
- 444
+ X-APPLE-RADIUS=100;X-TITLE="Olympiastadion, München":geo:48.173056,11.546
+ 667
 DESCRIPTION:Final | 1974 FIFA World Cup - West Germany\nNetherlands 1-2 Wes
  t Germany
 URL:https://en.wikipedia.org/wiki/1974_FIFA_World_Cup

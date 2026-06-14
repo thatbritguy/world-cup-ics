@@ -6,12 +6,11 @@
       "ground_aliases": [
         "Neckarstadion, Stuttgart"
       ],
-      "latitude": 48.7775,
-      "longitude": 9.18,
-      "coordinate_source": "https://en.wikipedia.org/wiki/Stuttgart",
-      "coordinate_source_title": "Stuttgart",
-      "match_score": 15,
-      "coordinate_status": "candidate"
+      "latitude": 48.792222,
+      "longitude": 9.232,
+      "coordinate_source": "https://en.wikipedia.org/wiki/MHPArena",
+      "coordinate_source_title": "MHPArena",
+      "coordinate_status": "verified"
     },
     {
       "name": "Niedersachsenstadion",
@@ -19,12 +18,11 @@
       "ground_aliases": [
         "Niedersachsenstadion, Hanover"
       ],
-      "latitude": 52.36666667,
-      "longitude": 9.71666667,
-      "coordinate_source": "https://en.wikipedia.org/wiki/Hanover",
-      "coordinate_source_title": "Hanover",
-      "match_score": 15,
-      "coordinate_status": "candidate"
+      "latitude": 52.36,
+      "longitude": 9.731111,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Heinz_von_Heiden_Arena",
+      "coordinate_source_title": "Heinz von Heiden Arena",
+      "coordinate_status": "verified"
     },
     {
       "name": "Olympiastadion",
@@ -32,12 +30,11 @@
       "ground_aliases": [
         "Olympiastadion, München"
       ],
-      "latitude": 52.51472222,
-      "longitude": 13.23944444,
-      "coordinate_source": "https://en.wikipedia.org/wiki/Olympiastadion_(Berlin)",
-      "coordinate_source_title": "Olympiastadion (Berlin)",
-      "match_score": 10,
-      "coordinate_status": "candidate"
+      "latitude": 48.173056,
+      "longitude": 11.546667,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Olympiastadion_(Munich)",
+      "coordinate_source_title": "Olympiastadion (Munich)",
+      "coordinate_status": "verified"
     },
     {
       "name": "Olympiastadion",
@@ -50,7 +47,8 @@
       "coordinate_source": "https://en.wikipedia.org/wiki/Olympiastadion_(Berlin)",
       "coordinate_source_title": "Olympiastadion (Berlin)",
       "match_score": 20,
-      "coordinate_status": "candidate"
+      "coordinate_status": "verified",
+      "coordinate_review": "Manual source-title and location review"
     },
     {
       "name": "Parkstadion",
@@ -58,12 +56,11 @@
       "ground_aliases": [
         "Parkstadion, Gelsenkirchen"
       ],
-      "latitude": 51.51027778,
-      "longitude": 7.09416667,
-      "coordinate_source": "https://en.wikipedia.org/wiki/Gelsenkirchen",
-      "coordinate_source_title": "Gelsenkirchen",
-      "match_score": 15,
-      "coordinate_status": "candidate"
+      "latitude": 51.559167,
+      "longitude": 7.067778,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Parkstadion",
+      "coordinate_source_title": "Parkstadion",
+      "coordinate_status": "verified"
     },
     {
       "name": "Rheinstadion",
@@ -76,7 +73,8 @@
       "coordinate_source": "https://en.wikipedia.org/wiki/Rheinstadion",
       "coordinate_source_title": "Rheinstadion",
       "match_score": 15,
-      "coordinate_status": "candidate"
+      "coordinate_status": "verified",
+      "coordinate_review": "Manual source-title and location review"
     },
     {
       "name": "Volksparkstadion",
@@ -84,12 +82,11 @@
       "ground_aliases": [
         "Volksparkstadion, Hamburg"
       ],
-      "latitude": 53.55,
-      "longitude": 10,
-      "coordinate_source": "https://en.wikipedia.org/wiki/Hamburg",
-      "coordinate_source_title": "Hamburg",
-      "match_score": 15,
-      "coordinate_status": "candidate"
+      "latitude": 53.587222,
+      "longitude": 9.898611,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Volksparkstadion",
+      "coordinate_source_title": "Volksparkstadion",
+      "coordinate_status": "verified"
     },
     {
       "name": "Waldstadion",
@@ -102,7 +99,8 @@
       "coordinate_source": "https://en.wikipedia.org/wiki/Waldstadion_(Frankfurt)",
       "coordinate_source_title": "Waldstadion (Frankfurt)",
       "match_score": 25,
-      "coordinate_status": "candidate"
+      "coordinate_status": "verified",
+      "coordinate_review": "Manual source-title and location review"
     },
     {
       "name": "Westfalenstadion",
@@ -115,7 +113,8 @@
       "coordinate_source": "https://en.wikipedia.org/wiki/Westfalenstadion",
       "coordinate_source_title": "Westfalenstadion",
       "match_score": 15,
-      "coordinate_status": "candidate"
+      "coordinate_status": "verified",
+      "coordinate_review": "Manual source-title and location review"
     }
   ]
 }

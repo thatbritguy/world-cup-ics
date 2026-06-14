@@ -64,10 +64,10 @@ DTSTART:19820615T151500Z
 DTEND:19820615T171500Z
 SUMMARY:[G1-1] 🇵🇪 PER 0-0 CMR 🇨🇲 [004]
 LOCATION:Estadio de Riazor\, A Coruña
-GEO:43.365000;-8.410000
+GEO:43.368611;-8.417500
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio de Riazor, A Coru
- ña";X-APPLE-RADIUS=100;X-TITLE="Estadio de Riazor, A Coruña":geo:43.3650
- 00,-8.410000
+ ña";X-APPLE-RADIUS=100;X-TITLE="Estadio de Riazor, A Coruña":geo:43.3686
+ 11,-8.417500
 DESCRIPTION:Group 1 | Matchday 1 | 1982 FIFA World Cup - Spain\nPeru 0-0 Ca
  meroon
 URL:https://en.wikipedia.org/wiki/1982_FIFA_World_Cup
@@ -188,10 +188,10 @@ DTSTART:19820617T151500Z
 DTEND:19820617T171500Z
 SUMMARY:[G4-1] 🇨🇿 TCH 1-1 KUW 🇰🇼 [011]
 LOCATION:Estadio José Zorrilla\, Valladolid
-GEO:41.652778;-4.723611
+GEO:41.644444;-4.761111
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio José Zorrilla, Va
  lladolid";X-APPLE-RADIUS=100;X-TITLE="Estadio José Zorrilla, Valladolid":
- geo:41.652778,-4.723611
+ geo:41.644444,-4.761111
 DESCRIPTION:Group 4 | Matchday 1 | 1982 FIFA World Cup - Spain\nCzechoslova
  kia 1-1 Kuwait
 URL:https://en.wikipedia.org/wiki/1982_FIFA_World_Cup
@@ -276,10 +276,10 @@ DTSTART:19820619T151500Z
 DTEND:19820619T171500Z
 SUMMARY:[G1-2] 🇵🇱 POL 0-0 CMR 🇨🇲 [016]
 LOCATION:Estadio de Riazor\, A Coruña
-GEO:43.365000;-8.410000
+GEO:43.368611;-8.417500
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio de Riazor, A Coru
- ña";X-APPLE-RADIUS=100;X-TITLE="Estadio de Riazor, A Coruña":geo:43.3650
- 00,-8.410000
+ ña";X-APPLE-RADIUS=100;X-TITLE="Estadio de Riazor, A Coruña":geo:43.3686
+ 11,-8.417500
 DESCRIPTION:Group 1 | Matchday 2 | 1982 FIFA World Cup - Spain\nPoland 0-0 
  Cameroon
 URL:https://en.wikipedia.org/wiki/1982_FIFA_World_Cup
@@ -400,10 +400,10 @@ DTSTART:19820621T151500Z
 DTEND:19820621T171500Z
 SUMMARY:[G4-2] 🇫🇷 FRA 4-1 KUW 🇰🇼 [023]
 LOCATION:Estadio José Zorrilla\, Valladolid
-GEO:41.652778;-4.723611
+GEO:41.644444;-4.761111
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio José Zorrilla, Va
  lladolid";X-APPLE-RADIUS=100;X-TITLE="Estadio José Zorrilla, Valladolid":
- geo:41.652778,-4.723611
+ geo:41.644444,-4.761111
 DESCRIPTION:Group 4 | Matchday 2 | 1982 FIFA World Cup - Spain\nFrance 4-1 
  Kuwait
 URL:https://en.wikipedia.org/wiki/1982_FIFA_World_Cup
@@ -435,10 +435,10 @@ DTSTART:19820622T151500Z
 DTEND:19820622T171500Z
 SUMMARY:[G1-3] 🇵🇱 POL 5-1 PER 🇵🇪 [025]
 LOCATION:Estadio de Riazor\, A Coruña
-GEO:43.365000;-8.410000
+GEO:43.368611;-8.417500
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio de Riazor, A Coru
- ña";X-APPLE-RADIUS=100;X-TITLE="Estadio de Riazor, A Coruña":geo:43.3650
- 00,-8.410000
+ ña";X-APPLE-RADIUS=100;X-TITLE="Estadio de Riazor, A Coruña":geo:43.3686
+ 11,-8.417500
 DESCRIPTION:Group 1 | Matchday 3 | 1982 FIFA World Cup - Spain\nPoland 5-1 
  Peru
 URL:https://en.wikipedia.org/wiki/1982_FIFA_World_Cup
@@ -559,10 +559,10 @@ DTSTART:19820624T151500Z
 DTEND:19820624T171500Z
 SUMMARY:[G4-3] 🇫🇷 FRA 1-1 TCH 🇨🇿 [032]
 LOCATION:Estadio José Zorrilla\, Valladolid
-GEO:41.652778;-4.723611
+GEO:41.644444;-4.761111
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio José Zorrilla, Va
  lladolid";X-APPLE-RADIUS=100;X-TITLE="Estadio José Zorrilla, Valladolid":
- geo:41.652778,-4.723611
+ geo:41.644444,-4.761111
 DESCRIPTION:Group 4 | Matchday 3 | 1982 FIFA World Cup - Spain\nFrance 1-1 
  Czechoslovakia
 URL:https://en.wikipedia.org/wiki/1982_FIFA_World_Cup

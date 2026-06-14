@@ -1,6 +1,6 @@
 {
   "year": 1954,
-  "numbering": "Chronological match numbers where FIFA archive numbering is unavailable",
+  "numbering": "FIFA official match numbers with deterministic fallback numbers where archive records are unavailable",
   "matches": [
     {
       "date": "1954-06-16",
@@ -339,28 +339,6 @@
       "ground": "Cornaredo Stadium, Lugano"
     },
     {
-      "date": "1954-06-23",
-      "team1": "Switzerland",
-      "team2": "Italy",
-      "local_time": "18:00",
-      "local_time_sources": {
-        "selected": "RSSSF scheduled kickoff",
-        "confidence": "resolved",
-        "rsssf": "18:00",
-        "rsssf_date": "1954-06-23",
-        "fifa_archive": null,
-        "fifa_archive_date": null,
-        "openfootball": null,
-        "openfootball_utc_offset": null,
-        "resolution_note": "RSSSF records 18:00 and Wikipedia's tournament schedule agrees."
-      },
-      "kickoff_utc": "1954-06-23T17:00:00Z",
-      "official_match_number": 17,
-      "fifa_match_id": null,
-      "fifa_url": "https://en.wikipedia.org/wiki/1954_FIFA_World_Cup",
-      "ground": "St. Jakob Stadium, Basel"
-    },
-    {
       "date": "1954-06-27",
       "team1": "Yugoslavia",
       "team2": "West Germany",
@@ -422,28 +400,6 @@
       "fifa_match_id": "1284",
       "fifa_url": "https://en.wikipedia.org/wiki/1954_FIFA_World_Cup",
       "ground": "Hardturm Stadium, Zürich"
-    },
-    {
-      "date": "1954-06-26",
-      "team1": "Austria",
-      "team2": "Switzerland",
-      "local_time": "17:00",
-      "local_time_sources": {
-        "selected": "RSSSF scheduled kickoff",
-        "confidence": "resolved",
-        "rsssf": "17:00",
-        "rsssf_date": "1954-06-26",
-        "fifa_archive": null,
-        "fifa_archive_date": null,
-        "openfootball": null,
-        "openfootball_utc_offset": null,
-        "resolution_note": "RSSSF records 17:00 and Wikipedia's tournament schedule agrees."
-      },
-      "kickoff_utc": "1954-06-26T16:00:00Z",
-      "official_match_number": 19,
-      "fifa_match_id": null,
-      "fifa_url": "https://en.wikipedia.org/wiki/1954_FIFA_World_Cup",
-      "ground": "Stade Olympique de la Pontaise, Lausanne"
     },
     {
       "date": "1954-06-26",
@@ -549,6 +505,50 @@
       "fifa_match_id": "1278",
       "fifa_url": "https://en.wikipedia.org/wiki/1954_FIFA_World_Cup",
       "ground": "Wankdorf Stadium, Bern"
+    },
+    {
+      "date": "1954-06-23",
+      "team1": "Switzerland",
+      "team2": "Italy",
+      "local_time": "18:00",
+      "local_time_sources": {
+        "selected": "RSSSF scheduled kickoff",
+        "confidence": "resolved",
+        "rsssf": "18:00",
+        "rsssf_date": "1954-06-23",
+        "fifa_archive": null,
+        "fifa_archive_date": null,
+        "openfootball": null,
+        "openfootball_utc_offset": null,
+        "resolution_note": "RSSSF records 18:00 and Wikipedia's tournament schedule agrees."
+      },
+      "kickoff_utc": "1954-06-23T17:00:00Z",
+      "official_match_number": 25,
+      "fifa_match_id": null,
+      "fifa_url": "https://en.wikipedia.org/wiki/1954_FIFA_World_Cup",
+      "ground": "St. Jakob Stadium, Basel"
+    },
+    {
+      "date": "1954-06-26",
+      "team1": "Austria",
+      "team2": "Switzerland",
+      "local_time": "17:00",
+      "local_time_sources": {
+        "selected": "RSSSF scheduled kickoff",
+        "confidence": "resolved",
+        "rsssf": "17:00",
+        "rsssf_date": "1954-06-26",
+        "fifa_archive": null,
+        "fifa_archive_date": null,
+        "openfootball": null,
+        "openfootball_utc_offset": null,
+        "resolution_note": "RSSSF records 17:00 and Wikipedia's tournament schedule agrees."
+      },
+      "kickoff_utc": "1954-06-26T16:00:00Z",
+      "official_match_number": 26,
+      "fifa_match_id": null,
+      "fifa_url": "https://en.wikipedia.org/wiki/1954_FIFA_World_Cup",
+      "ground": "Stade Olympique de la Pontaise, Lausanne"
     }
   ]
 }

@@ -6,12 +6,11 @@
       "ground_aliases": [
         "San Siro, Milan"
       ],
-      "latitude": 45.476228,
-      "longitude": 9.118543,
-      "coordinate_source": "https://en.wikipedia.org/wiki/San_Siro_Stadio_(Milan_Metro)",
-      "coordinate_source_title": "San Siro Stadio (Milan Metro)",
-      "match_score": 30,
-      "coordinate_status": "candidate"
+      "latitude": 45.478056,
+      "longitude": 9.124167,
+      "coordinate_source": "https://en.wikipedia.org/wiki/San_Siro",
+      "coordinate_source_title": "San Siro",
+      "coordinate_status": "verified"
     },
     {
       "name": "Stadio Artemio Franchi",
@@ -24,7 +23,8 @@
       "coordinate_source": "https://en.wikipedia.org/wiki/Stadio_Artemio_Franchi",
       "coordinate_source_title": "Stadio Artemio Franchi",
       "match_score": 25,
-      "coordinate_status": "candidate"
+      "coordinate_status": "verified",
+      "coordinate_review": "Manual source-title and location review"
     },
     {
       "name": "Stadio Comunale",
@@ -37,7 +37,8 @@
       "coordinate_source": "https://en.wikipedia.org/wiki/Stadio_Artemio_Franchi",
       "coordinate_source_title": "Stadio Artemio Franchi",
       "match_score": 0,
-      "coordinate_status": "candidate"
+      "coordinate_status": "verified",
+      "coordinate_review": "Manual source-title and location review"
     },
     {
       "name": "Stadio Delle Alpi",
@@ -50,7 +51,8 @@
       "coordinate_source": "https://en.wikipedia.org/wiki/Stadio_Delle_Alpi",
       "coordinate_source_title": "Stadio Delle Alpi",
       "match_score": 25,
-      "coordinate_status": "candidate"
+      "coordinate_status": "verified",
+      "coordinate_review": "Manual source-title and location review"
     },
     {
       "name": "Stadio Friuli",
@@ -63,7 +65,8 @@
       "coordinate_source": "https://en.wikipedia.org/wiki/Stadio_Friuli",
       "coordinate_source_title": "Stadio Friuli",
       "match_score": 15,
-      "coordinate_status": "candidate"
+      "coordinate_status": "verified",
+      "coordinate_review": "Manual source-title and location review"
     },
     {
       "name": "Stadio La Favorita",
@@ -71,12 +74,11 @@
       "ground_aliases": [
         "Stadio La Favorita, Palermo"
       ],
-      "latitude": 38.1519,
-      "longitude": 13.3453,
-      "coordinate_source": "https://en.wikipedia.org/wiki/Ippodromo_della_Favorita",
-      "coordinate_source_title": "Ippodromo della Favorita",
-      "match_score": 10,
-      "coordinate_status": "candidate"
+      "latitude": 38.152778,
+      "longitude": 13.342222,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Stadio_Renzo_Barbera",
+      "coordinate_source_title": "Stadio Renzo Barbera",
+      "coordinate_status": "verified"
     },
     {
       "name": "Stadio Luigi Ferraris",
@@ -100,7 +102,8 @@
       "coordinate_source": "https://en.wikipedia.org/wiki/Stadio_Marcantonio_Bentegodi",
       "coordinate_source_title": "Stadio Marcantonio Bentegodi",
       "match_score": 15,
-      "coordinate_status": "candidate"
+      "coordinate_status": "verified",
+      "coordinate_review": "Manual source-title and location review"
     },
     {
       "name": "Stadio Olimpico",
@@ -113,7 +116,8 @@
       "coordinate_source": "https://en.wikipedia.org/wiki/Stadio_Olimpico",
       "coordinate_source_title": "Stadio Olimpico",
       "match_score": 15,
-      "coordinate_status": "candidate"
+      "coordinate_status": "verified",
+      "coordinate_review": "Manual source-title and location review"
     },
     {
       "name": "Stadio Renato Dall'Ara",
@@ -126,7 +130,8 @@
       "coordinate_source": "https://en.wikipedia.org/wiki/Stadio_Renato_Dall%27Ara",
       "coordinate_source_title": "Stadio Renato Dall'Ara",
       "match_score": 35,
-      "coordinate_status": "candidate"
+      "coordinate_status": "verified",
+      "coordinate_review": "Manual source-title and location review"
     },
     {
       "name": "Stadio San Nicola",
@@ -139,7 +144,8 @@
       "coordinate_source": "https://en.wikipedia.org/wiki/Stadio_San_Nicola",
       "coordinate_source_title": "Stadio San Nicola",
       "match_score": 25,
-      "coordinate_status": "candidate"
+      "coordinate_status": "verified",
+      "coordinate_review": "Manual source-title and location review"
     },
     {
       "name": "Stadio San Paolo",
@@ -152,7 +158,8 @@
       "coordinate_source": "https://en.wikipedia.org/wiki/Stadio_Diego_Armando_Maradona",
       "coordinate_source_title": "Stadio Diego Armando Maradona",
       "match_score": 0,
-      "coordinate_status": "candidate"
+      "coordinate_status": "verified",
+      "coordinate_review": "Manual source-title and location review"
     },
     {
       "name": "Stadio Sant'Elia",
@@ -165,7 +172,8 @@
       "coordinate_source": "https://en.wikipedia.org/wiki/Stadio_Sant%27Elia",
       "coordinate_source_title": "Stadio Sant'Elia",
       "match_score": 25,
-      "coordinate_status": "candidate"
+      "coordinate_status": "verified",
+      "coordinate_review": "Manual source-title and location review"
     },
     {
       "name": "Stadio delle Alpi",
@@ -178,7 +186,8 @@
       "coordinate_source": "https://en.wikipedia.org/wiki/Stadio_Delle_Alpi",
       "coordinate_source_title": "Stadio Delle Alpi",
       "match_score": 25,
-      "coordinate_status": "candidate"
+      "coordinate_status": "verified",
+      "coordinate_review": "Manual source-title and location review"
     }
   ]
 }

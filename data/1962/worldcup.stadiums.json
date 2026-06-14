@@ -11,7 +11,8 @@
       "coordinate_source": "https://en.wikipedia.org/wiki/Carlos_Dittborn_Stadium",
       "coordinate_source_title": "Carlos Dittborn Stadium",
       "match_score": 20,
-      "coordinate_status": "candidate"
+      "coordinate_status": "verified",
+      "coordinate_review": "Manual source-title and location review"
     },
     {
       "name": "Estadio El Teniente",
@@ -24,7 +25,8 @@
       "coordinate_source": "https://en.wikipedia.org/wiki/Estadio_El_Teniente",
       "coordinate_source_title": "Estadio El Teniente",
       "match_score": 25,
-      "coordinate_status": "candidate"
+      "coordinate_status": "verified",
+      "coordinate_review": "Manual source-title and location review"
     },
     {
       "name": "Estadio Nacional",
@@ -37,7 +39,8 @@
       "coordinate_source": "https://en.wikipedia.org/wiki/Estadio_Nacional_Julio_Mart%C3%ADnez_Pr%C3%A1danos",
       "coordinate_source_title": "Estadio Nacional Julio Martínez Prádanos",
       "match_score": 10,
-      "coordinate_status": "candidate"
+      "coordinate_status": "verified",
+      "coordinate_review": "Manual source-title and location review"
     },
     {
       "name": "Estadio Sausalito",
@@ -50,7 +53,8 @@
       "coordinate_source": "https://en.wikipedia.org/wiki/Sausalito_Stadium",
       "coordinate_source_title": "Sausalito Stadium",
       "match_score": 10,
-      "coordinate_status": "candidate"
+      "coordinate_status": "verified",
+      "coordinate_review": "Manual source-title and location review"
     }
   ]
 }

@@ -11,7 +11,8 @@
       "coordinate_source": "https://en.wikipedia.org/wiki/RC_Celta_de_Vigo",
       "coordinate_source_title": "RC Celta de Vigo",
       "match_score": 10,
-      "coordinate_status": "candidate"
+      "coordinate_status": "verified",
+      "coordinate_review": "Manual source-title and location review"
     },
     {
       "name": "Camp Nou",
@@ -24,7 +25,8 @@
       "coordinate_source": "https://en.wikipedia.org/wiki/Camp_Nou",
       "coordinate_source_title": "Camp Nou",
       "match_score": 25,
-      "coordinate_status": "candidate"
+      "coordinate_status": "verified",
+      "coordinate_review": "Manual source-title and location review"
     },
     {
       "name": "El Molinón",
@@ -37,7 +39,8 @@
       "coordinate_source": "https://en.wikipedia.org/wiki/El_Molin%C3%B3n",
       "coordinate_source_title": "El Molinón",
       "match_score": 25,
-      "coordinate_status": "candidate"
+      "coordinate_status": "verified",
+      "coordinate_review": "Manual source-title and location review"
     },
     {
       "name": "Estadio Benito Villamarín",
@@ -50,7 +53,8 @@
       "coordinate_source": "https://en.wikipedia.org/wiki/Estadio_Benito_Villamar%C3%ADn",
       "coordinate_source_title": "Estadio Benito Villamarín",
       "match_score": 25,
-      "coordinate_status": "candidate"
+      "coordinate_status": "verified",
+      "coordinate_review": "Manual source-title and location review"
     },
     {
       "name": "Estadio Carlos Tartiere",
@@ -63,7 +67,8 @@
       "coordinate_source": "https://en.wikipedia.org/wiki/Estadio_Carlos_Tartiere",
       "coordinate_source_title": "Estadio Carlos Tartiere",
       "match_score": 25,
-      "coordinate_status": "candidate"
+      "coordinate_status": "verified",
+      "coordinate_review": "Manual source-title and location review"
     },
     {
       "name": "Estadio José Rico Pérez",
@@ -76,7 +81,8 @@
       "coordinate_source": "https://en.wikipedia.org/wiki/Estadio_Jos%C3%A9_Rico_P%C3%A9rez",
       "coordinate_source_title": "Estadio José Rico Pérez",
       "match_score": 35,
-      "coordinate_status": "candidate"
+      "coordinate_status": "verified",
+      "coordinate_review": "Manual source-title and location review"
     },
     {
       "name": "Estadio José Zorrilla",
@@ -84,12 +90,11 @@
       "ground_aliases": [
         "Estadio José Zorrilla, Valladolid"
       ],
-      "latitude": 41.65277778,
-      "longitude": -4.72361111,
-      "coordinate_source": "https://en.wikipedia.org/wiki/Valladolid",
-      "coordinate_source_title": "Valladolid",
-      "match_score": 15,
-      "coordinate_status": "candidate"
+      "latitude": 41.644444,
+      "longitude": -4.761111,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Estadio_Jos%C3%A9_Zorrilla",
+      "coordinate_source_title": "Estadio José Zorrilla",
+      "coordinate_status": "verified"
     },
     {
       "name": "Estadio La Rosaleda",
@@ -102,7 +107,8 @@
       "coordinate_source": "https://en.wikipedia.org/wiki/Estadio_La_Rosaleda",
       "coordinate_source_title": "Estadio La Rosaleda",
       "match_score": 25,
-      "coordinate_status": "candidate"
+      "coordinate_status": "verified",
+      "coordinate_review": "Manual source-title and location review"
     },
     {
       "name": "Estadio Luis Casanova",
@@ -127,7 +133,8 @@
       "coordinate_source": "https://en.wikipedia.org/wiki/Ram%C3%B3n_S%C3%A1nchez-Pizju%C3%A1n_Stadium",
       "coordinate_source_title": "Ramón Sánchez-Pizjuán Stadium",
       "match_score": 30,
-      "coordinate_status": "candidate"
+      "coordinate_status": "verified",
+      "coordinate_review": "Manual source-title and location review"
     },
     {
       "name": "Estadio San Mamés",
@@ -140,7 +147,8 @@
       "coordinate_source": "https://en.wikipedia.org/wiki/San_Mam%C3%A9s_Stadium_(1913)",
       "coordinate_source_title": "San Mamés Stadium (1913)",
       "match_score": 20,
-      "coordinate_status": "candidate"
+      "coordinate_status": "verified",
+      "coordinate_review": "Manual source-title and location review"
     },
     {
       "name": "Estadio Santiago Bernabéu",
@@ -153,7 +161,8 @@
       "coordinate_source": "https://en.wikipedia.org/wiki/Bernab%C3%A9u_(stadium)",
       "coordinate_source_title": "Bernabéu (stadium)",
       "match_score": 10,
-      "coordinate_status": "candidate"
+      "coordinate_status": "verified",
+      "coordinate_review": "Manual source-title and location review"
     },
     {
       "name": "Estadio Santiago Bernabéu",
@@ -166,7 +175,8 @@
       "coordinate_source": "https://en.wikipedia.org/wiki/Bernab%C3%A9u_(stadium)",
       "coordinate_source_title": "Bernabéu (stadium)",
       "match_score": 10,
-      "coordinate_status": "candidate"
+      "coordinate_status": "verified",
+      "coordinate_review": "Manual source-title and location review"
     },
     {
       "name": "Estadio Sarriá",
@@ -191,7 +201,8 @@
       "coordinate_source": "https://en.wikipedia.org/wiki/Vicente_Calder%C3%B3n_Stadium",
       "coordinate_source_title": "Vicente Calderón Stadium",
       "match_score": 20,
-      "coordinate_status": "candidate"
+      "coordinate_status": "verified",
+      "coordinate_review": "Manual source-title and location review"
     },
     {
       "name": "Estadio de Riazor",
@@ -199,12 +210,11 @@
       "ground_aliases": [
         "Estadio de Riazor, A Coruña"
       ],
-      "latitude": 43.365,
-      "longitude": -8.41,
-      "coordinate_source": "https://en.wikipedia.org/wiki/A_Coru%C3%B1a",
-      "coordinate_source_title": "A Coruña",
-      "match_score": 25,
-      "coordinate_status": "candidate"
+      "latitude": 43.368611,
+      "longitude": -8.4175,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Estadio_Riazor",
+      "coordinate_source_title": "Estadio Riazor",
+      "coordinate_status": "verified"
     },
     {
       "name": "La Romareda",
@@ -217,7 +227,8 @@
       "coordinate_source": "https://en.wikipedia.org/wiki/La_Romareda",
       "coordinate_source_title": "La Romareda",
       "match_score": 25,
-      "coordinate_status": "candidate"
+      "coordinate_status": "verified",
+      "coordinate_review": "Manual source-title and location review"
     },
     {
       "name": "Nuevo Estadio",
@@ -230,7 +241,8 @@
       "coordinate_source": "https://en.wikipedia.org/wiki/Estadio_Mart%C3%ADnez_Valero",
       "coordinate_source_title": "Estadio Martínez Valero",
       "match_score": 0,
-      "coordinate_status": "candidate"
+      "coordinate_status": "verified",
+      "coordinate_review": "Manual source-title and location review"
     }
   ]
 }

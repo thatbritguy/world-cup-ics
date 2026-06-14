@@ -12,10 +12,10 @@ DTSTART:19660711T183000Z
 DTEND:19660711T203000Z
 SUMMARY:[G1-1] 🏴󠁧󠁢󠁥󠁮󠁧󠁿 ENG 0-0 URU 🇺🇾 [001]
 LOCATION:Wembley Stadium\, London
-GEO:51.552800;-0.297900
+GEO:51.555556;-0.279722
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Wembley Stadium, London";X
- -APPLE-RADIUS=100;X-TITLE="Wembley Stadium, London":geo:51.552800,-0.29790
- 0
+ -APPLE-RADIUS=100;X-TITLE="Wembley Stadium, London":geo:51.555556,-0.27972
+ 2
 DESCRIPTION:Group 1 | Matchday 1 | 1966 FIFA World Cup - England\nEngland 0
  -0 Uruguay
 URL:https://en.wikipedia.org/wiki/1966_FIFA_World_Cup
@@ -30,10 +30,10 @@ DTSTART:19660712T183000Z
 DTEND:19660712T203000Z
 SUMMARY:[G2-1] 🇩🇪 FRG 5-0 SUI 🇨🇭 [002]
 LOCATION:Hillsborough Stadium\, Sheffield
-GEO:53.413829;-1.500492
+GEO:53.411389;-1.500833
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Hillsborough Stadium, Shef
  field";X-APPLE-RADIUS=100;X-TITLE="Hillsborough Stadium, Sheffield":geo:53
- .413829,-1.500492
+ .411389,-1.500833
 DESCRIPTION:Group 2 | Matchday 1 | 1966 FIFA World Cup - England\nWest Germ
  any 5-0 Switzerland
 URL:https://en.wikipedia.org/wiki/1966_FIFA_World_Cup
@@ -84,10 +84,10 @@ DTSTART:19660713T183000Z
 DTEND:19660713T203000Z
 SUMMARY:[G1-1] 🇫🇷 FRA 1-1 MEX 🇲🇽 [005]
 LOCATION:Wembley Stadium\, London
-GEO:51.552800;-0.297900
+GEO:51.555556;-0.279722
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Wembley Stadium, London";X
- -APPLE-RADIUS=100;X-TITLE="Wembley Stadium, London":geo:51.552800,-0.29790
- 0
+ -APPLE-RADIUS=100;X-TITLE="Wembley Stadium, London":geo:51.555556,-0.27972
+ 2
 DESCRIPTION:Group 1 | Matchday 1 | 1966 FIFA World Cup - England\nFrance 1-
  1 Mexico
 URL:https://en.wikipedia.org/wiki/1966_FIFA_World_Cup
@@ -154,10 +154,10 @@ DTSTART:19660715T183000Z
 DTEND:19660715T203000Z
 SUMMARY:[G1-2] 🇺🇾 URU 2-1 FRA 🇫🇷 [009]
 LOCATION:White City Stadium\, London
-GEO:51.511000;-0.238000
+GEO:51.513000;-0.227000
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="White City Stadium, London
- ";X-APPLE-RADIUS=100;X-TITLE="White City Stadium, London":geo:51.511000,-0
- .238000
+ ";X-APPLE-RADIUS=100;X-TITLE="White City Stadium, London":geo:51.513000,-0
+ .227000
 DESCRIPTION:Group 1 | Matchday 2 | 1966 FIFA World Cup - England\nUruguay 2
  -1 France
 URL:https://en.wikipedia.org/wiki/1966_FIFA_World_Cup
@@ -172,10 +172,10 @@ DTSTART:19660715T183000Z
 DTEND:19660715T203000Z
 SUMMARY:[G2-2] 🇪🇸 ESP 2-1 SUI 🇨🇭 [010]
 LOCATION:Hillsborough Stadium\, Sheffield
-GEO:53.413829;-1.500492
+GEO:53.411389;-1.500833
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Hillsborough Stadium, Shef
  field";X-APPLE-RADIUS=100;X-TITLE="Hillsborough Stadium, Sheffield":geo:53
- .413829,-1.500492
+ .411389,-1.500833
 DESCRIPTION:Group 2 | Matchday 2 | 1966 FIFA World Cup - England\nSpain 2-1
   Switzerland
 URL:https://en.wikipedia.org/wiki/1966_FIFA_World_Cup
@@ -226,10 +226,10 @@ DTSTART:19660716T183000Z
 DTEND:19660716T203000Z
 SUMMARY:[G1-2] 🏴󠁧󠁢󠁥󠁮󠁧󠁿 ENG 2-0 MEX 🇲🇽 [013]
 LOCATION:Wembley Stadium\, London
-GEO:51.552800;-0.297900
+GEO:51.555556;-0.279722
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Wembley Stadium, London";X
- -APPLE-RADIUS=100;X-TITLE="Wembley Stadium, London":geo:51.552800,-0.29790
- 0
+ -APPLE-RADIUS=100;X-TITLE="Wembley Stadium, London":geo:51.555556,-0.27972
+ 2
 DESCRIPTION:Group 1 | Matchday 2 | 1966 FIFA World Cup - England\nEngland 2
  -0 Mexico
 URL:https://en.wikipedia.org/wiki/1966_FIFA_World_Cup
@@ -296,10 +296,10 @@ DTSTART:19660719T153000Z
 DTEND:19660719T173000Z
 SUMMARY:[G1-3] 🇲🇽 MEX 0-0 URU 🇺🇾 [017]
 LOCATION:Wembley Stadium\, London
-GEO:51.552800;-0.297900
+GEO:51.555556;-0.279722
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Wembley Stadium, London";X
- -APPLE-RADIUS=100;X-TITLE="Wembley Stadium, London":geo:51.552800,-0.29790
- 0
+ -APPLE-RADIUS=100;X-TITLE="Wembley Stadium, London":geo:51.555556,-0.27972
+ 2
 DESCRIPTION:Group 1 | Matchday 3 | 1966 FIFA World Cup - England\nMexico 0-
  0 Uruguay
 URL:https://en.wikipedia.org/wiki/1966_FIFA_World_Cup
@@ -314,10 +314,10 @@ DTSTART:19660719T183000Z
 DTEND:19660719T203000Z
 SUMMARY:[G2-3] 🇦🇷 ARG 2-0 SUI 🇨🇭 [018]
 LOCATION:Hillsborough Stadium\, Sheffield
-GEO:53.413829;-1.500492
+GEO:53.411389;-1.500833
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Hillsborough Stadium, Shef
  field";X-APPLE-RADIUS=100;X-TITLE="Hillsborough Stadium, Sheffield":geo:53
- .413829,-1.500492
+ .411389,-1.500833
 DESCRIPTION:Group 2 | Matchday 3 | 1966 FIFA World Cup - England\nArgentina
   2-0 Switzerland
 URL:https://en.wikipedia.org/wiki/1966_FIFA_World_Cup
@@ -368,10 +368,10 @@ DTSTART:19660720T183000Z
 DTEND:19660720T203000Z
 SUMMARY:[G1-3] 🏴󠁧󠁢󠁥󠁮󠁧󠁿 ENG 2-0 FRA 🇫🇷 [021]
 LOCATION:Wembley Stadium\, London
-GEO:51.552800;-0.297900
+GEO:51.555556;-0.279722
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Wembley Stadium, London";X
- -APPLE-RADIUS=100;X-TITLE="Wembley Stadium, London":geo:51.552800,-0.29790
- 0
+ -APPLE-RADIUS=100;X-TITLE="Wembley Stadium, London":geo:51.555556,-0.27972
+ 2
 DESCRIPTION:Group 1 | Matchday 3 | 1966 FIFA World Cup - England\nEngland 2
  -0 France
 URL:https://en.wikipedia.org/wiki/1966_FIFA_World_Cup
@@ -438,10 +438,10 @@ DTSTART:19660723T140000Z
 DTEND:19660723T170000Z
 SUMMARY:[QF1] 🏴󠁧󠁢󠁥󠁮󠁧󠁿 ENG 1-0 ARG 🇦🇷 [025]
 LOCATION:Wembley Stadium\, London
-GEO:51.552800;-0.297900
+GEO:51.555556;-0.279722
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Wembley Stadium, London";X
- -APPLE-RADIUS=100;X-TITLE="Wembley Stadium, London":geo:51.552800,-0.29790
- 0
+ -APPLE-RADIUS=100;X-TITLE="Wembley Stadium, London":geo:51.555556,-0.27972
+ 2
 DESCRIPTION:Quarter-finals | 1966 FIFA World Cup - England\nEngland 1-0 Arg
  entina
 URL:https://en.wikipedia.org/wiki/1966_FIFA_World_Cup
@@ -456,10 +456,10 @@ DTSTART:19660723T140000Z
 DTEND:19660723T170000Z
 SUMMARY:[QF2] 🇩🇪 FRG 4-0 URU 🇺🇾 [026]
 LOCATION:Hillsborough Stadium\, Sheffield
-GEO:53.413829;-1.500492
+GEO:53.411389;-1.500833
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Hillsborough Stadium, Shef
  field";X-APPLE-RADIUS=100;X-TITLE="Hillsborough Stadium, Sheffield":geo:53
- .413829,-1.500492
+ .411389,-1.500833
 DESCRIPTION:Quarter-finals | 1966 FIFA World Cup - England\nWest Germany 4-
  0 Uruguay
 URL:https://en.wikipedia.org/wiki/1966_FIFA_World_Cup
@@ -527,10 +527,10 @@ DTSTART:19660726T183000Z
 DTEND:19660726T213000Z
 SUMMARY:[SF2] 🏴󠁧󠁢󠁥󠁮󠁧󠁿 ENG 2-1 POR 🇵🇹 [030]
 LOCATION:Wembley Stadium\, London
-GEO:51.552800;-0.297900
+GEO:51.555556;-0.279722
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Wembley Stadium, London";X
- -APPLE-RADIUS=100;X-TITLE="Wembley Stadium, London":geo:51.552800,-0.29790
- 0
+ -APPLE-RADIUS=100;X-TITLE="Wembley Stadium, London":geo:51.555556,-0.27972
+ 2
 DESCRIPTION:Semi-finals | 1966 FIFA World Cup - England\nEngland 2-1 Portug
  al
 URL:https://en.wikipedia.org/wiki/1966_FIFA_World_Cup
@@ -545,10 +545,10 @@ DTSTART:19660728T183000Z
 DTEND:19660728T213000Z
 SUMMARY:[3RD] 🇵🇹 POR 2-1 URS [031]
 LOCATION:Wembley Stadium\, London
-GEO:51.552800;-0.297900
+GEO:51.555556;-0.279722
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Wembley Stadium, London";X
- -APPLE-RADIUS=100;X-TITLE="Wembley Stadium, London":geo:51.552800,-0.29790
- 0
+ -APPLE-RADIUS=100;X-TITLE="Wembley Stadium, London":geo:51.555556,-0.27972
+ 2
 DESCRIPTION:Third-place match | 1966 FIFA World Cup - England\nPortugal 2-1
   Soviet Union
 URL:https://en.wikipedia.org/wiki/1966_FIFA_World_Cup
@@ -564,10 +564,10 @@ DTEND:19660730T170000Z
 SUMMARY:[FINAL] 🏴󠁧󠁢󠁥󠁮󠁧󠁿 ENG 4-2 (aet) FRG 🇩🇪 [03
  2]
 LOCATION:Wembley Stadium\, London
-GEO:51.552800;-0.297900
+GEO:51.555556;-0.279722
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Wembley Stadium, London";X
- -APPLE-RADIUS=100;X-TITLE="Wembley Stadium, London":geo:51.552800,-0.29790
- 0
+ -APPLE-RADIUS=100;X-TITLE="Wembley Stadium, London":geo:51.555556,-0.27972
+ 2
 DESCRIPTION:Final | 1966 FIFA World Cup - England\nEngland 4-2 West Germany
  \nFT: 2-2\nAET: 4-2
 URL:https://en.wikipedia.org/wiki/1966_FIFA_World_Cup

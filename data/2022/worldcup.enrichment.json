@@ -1,6 +1,6 @@
 {
   "year": 2022,
-  "numbering": "Chronological match numbers where FIFA archive numbering is unavailable",
+  "numbering": "FIFA official match numbers with deterministic fallback numbers where archive records are unavailable",
   "matches": [
     {
       "date": "2022-11-20",

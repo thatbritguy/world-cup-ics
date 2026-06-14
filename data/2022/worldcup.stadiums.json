@@ -2,15 +2,15 @@
   "venues": [
     {
       "name": "Ahmad bin Ali Stadium",
-      "city": "Al Rayyan",
+      "city": "Al Rayyan (1)",
       "ground_aliases": [
-        "Ahmad bin Ali Stadium, Al Rayyan"
+        "Ahmad bin Ali Stadium, Al Rayyan",
+        "Ahmad bin Ali Stadium, Al Rayyan (1)"
       ],
-      "latitude": 25.32964,
-      "longitude": 51.342273,
-      "coordinate_source": "https://en.wikipedia.org/wiki/Ahmad_bin_Ali_Stadium",
-      "coordinate_source_title": "Ahmad bin Ali Stadium",
-      "match_score": 15
+      "latitude": 25.329722222222223,
+      "longitude": 51.342222222222226,
+      "coordinate_source": "https://github.com/openfootball/worldcup.json/blob/master/2022/worldcup.stadiums.json",
+      "coordinate_status": "source"
     },
     {
       "name": "Al Bayt Stadium",
@@ -20,7 +20,8 @@
       ],
       "latitude": 25.65222222222222,
       "longitude": 51.48777777777778,
-      "coordinate_source": "https://github.com/openfootball/worldcup.json/blob/master/2022/worldcup.stadiums.json"
+      "coordinate_source": "https://github.com/openfootball/worldcup.json/blob/master/2022/worldcup.stadiums.json",
+      "coordinate_status": "source"
     },
     {
       "name": "Al Janoub Stadium",
@@ -30,55 +31,68 @@
       ],
       "latitude": 25.159777777777776,
       "longitude": 51.574083333333334,
-      "coordinate_source": "https://github.com/openfootball/worldcup.json/blob/master/2022/worldcup.stadiums.json"
+      "coordinate_source": "https://github.com/openfootball/worldcup.json/blob/master/2022/worldcup.stadiums.json",
+      "coordinate_status": "source"
     },
     {
       "name": "Al Thumama Stadium",
-      "city": "Doha",
+      "city": "Doha (1)",
       "ground_aliases": [
-        "Al Thumama Stadium, Doha"
+        "Al Thumama Stadium, Doha",
+        "Al Thumama Stadium, Doha (1)"
       ],
-      "latitude": 25.235278,
-      "longitude": 51.532182,
-      "coordinate_source": "https://en.wikipedia.org/wiki/Al_Thumama_Stadium",
-      "coordinate_source_title": "Al Thumama Stadium",
-      "match_score": 15
+      "latitude": 25.235277777777778,
+      "longitude": 51.532222222222224,
+      "coordinate_source": "https://github.com/openfootball/worldcup.json/blob/master/2022/worldcup.stadiums.json",
+      "coordinate_status": "source"
     },
     {
       "name": "Education City Stadium",
-      "city": "Al Rayyan",
+      "city": "Al Rayyan (2)",
       "ground_aliases": [
-        "Education City Stadium, Al Rayyan"
+        "Education City Stadium, Al Rayyan",
+        "Education City Stadium, Al Rayyan (2)"
       ],
-      "latitude": 25.3108,
-      "longitude": 51.4244,
-      "coordinate_source": "https://en.wikipedia.org/wiki/Education_City_Stadium",
-      "coordinate_source_title": "Education City Stadium",
-      "match_score": 15
+      "latitude": 25.310833333333335,
+      "longitude": 51.42444444444444,
+      "coordinate_source": "https://github.com/openfootball/worldcup.json/blob/master/2022/worldcup.stadiums.json",
+      "coordinate_status": "source"
     },
     {
       "name": "Khalifa International Stadium",
-      "city": "Al Rayyan",
+      "city": "Al Rayyan (3)",
       "ground_aliases": [
-        "Khalifa International Stadium, Al Rayyan"
+        "Khalifa International Stadium, Al Rayyan",
+        "Khalifa International Stadium, Al Rayyan (3)"
       ],
-      "latitude": 25.26361111,
-      "longitude": 51.44805556,
-      "coordinate_source": "https://en.wikipedia.org/wiki/Khalifa_International_Stadium",
-      "coordinate_source_title": "Khalifa International Stadium",
-      "match_score": 15
+      "latitude": 25.26361111111111,
+      "longitude": 51.448055555555555,
+      "coordinate_source": "https://github.com/openfootball/worldcup.json/blob/master/2022/worldcup.stadiums.json",
+      "coordinate_status": "source"
+    },
+    {
+      "name": "Lusail Iconic Stadium",
+      "city": "Lusail",
+      "ground_aliases": [
+        "Lusail Iconic Stadium, Lusail"
+      ],
+      "latitude": 25.420861,
+      "longitude": 51.490389,
+      "coordinate_source": "https://github.com/openfootball/worldcup.json/blob/master/2022/worldcup.stadiums.json",
+      "coordinate_source_title": "Lusail Stadium",
+      "coordinate_status": "source"
     },
     {
       "name": "Stadium 974",
-      "city": "Doha",
+      "city": "Doha (2)",
       "ground_aliases": [
-        "Stadium 974, Doha"
+        "Stadium 974, Doha",
+        "Stadium 974, Doha (2)"
       ],
-      "latitude": 25.29,
+      "latitude": 25.290000000000003,
       "longitude": 51.565,
-      "coordinate_source": "https://en.wikipedia.org/wiki/Stadium_974",
-      "coordinate_source_title": "Stadium 974",
-      "match_score": 15
+      "coordinate_source": "https://github.com/openfootball/worldcup.json/blob/master/2022/worldcup.stadiums.json",
+      "coordinate_status": "source"
     }
   ]
 }

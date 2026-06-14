@@ -11,7 +11,8 @@
       "coordinate_source": "https://en.wikipedia.org/wiki/Estadio_Azteca",
       "coordinate_source_title": "Estadio Azteca",
       "match_score": 15,
-      "coordinate_status": "candidate"
+      "coordinate_status": "verified",
+      "coordinate_review": "Manual source-title and location review"
     },
     {
       "name": "Estadio Cuauhtémoc",
@@ -24,7 +25,8 @@
       "coordinate_source": "https://en.wikipedia.org/wiki/Estadio_Cuauht%C3%A9moc",
       "coordinate_source_title": "Estadio Cuauhtémoc",
       "match_score": 15,
-      "coordinate_status": "candidate"
+      "coordinate_status": "verified",
+      "coordinate_review": "Manual source-title and location review"
     },
     {
       "name": "Estadio Jalisco",
@@ -37,7 +39,8 @@
       "coordinate_source": "https://en.wikipedia.org/wiki/Estadio_Jalisco",
       "coordinate_source_title": "Estadio Jalisco",
       "match_score": 15,
-      "coordinate_status": "candidate"
+      "coordinate_status": "verified",
+      "coordinate_review": "Manual source-title and location review"
     },
     {
       "name": "Estadio Luis Dosal",
@@ -50,7 +53,8 @@
       "coordinate_source": "https://en.wikipedia.org/wiki/Toluca_FC",
       "coordinate_source_title": "Toluca FC",
       "match_score": 10,
-      "coordinate_status": "candidate"
+      "coordinate_status": "verified",
+      "coordinate_review": "Manual source-title and location review"
     },
     {
       "name": "Estadio Nou Camp",
@@ -63,7 +67,8 @@
       "coordinate_source": "https://en.wikipedia.org/wiki/Estadio_Le%C3%B3n",
       "coordinate_source_title": "Estadio León",
       "match_score": 10,
-      "coordinate_status": "candidate"
+      "coordinate_status": "verified",
+      "coordinate_review": "Manual source-title and location review"
     }
   ]
 }

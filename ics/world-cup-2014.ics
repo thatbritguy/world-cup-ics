@@ -12,10 +12,10 @@ DTSTART:20140612T200000Z
 DTEND:20140612T220000Z
 SUMMARY:[A1] 🇧🇷 BRA 3-1 CRO 🇭🇷 [001]
 LOCATION:Arena de São Paulo\, São Paulo
-GEO:-22.738611;-47.331111
+GEO:-23.545250;-46.474278
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Arena de São Paulo, São 
  Paulo";X-APPLE-RADIUS=100;X-TITLE="Arena de São Paulo, São Paulo":geo:-2
- 2.738611,-47.331111
+ 3.545250,-46.474278
 DESCRIPTION:Group A | Matchday 1 | 2014 FIFA World Cup - Brazil\nBrazil 3-1
   Croatia\nHT: 1-1\nGoals:\nBRA 🇧🇷: Neymar 29'\, Neymar 71' pen\, Osc
  ar 90'\nCRO 🇭🇷: Marcelo 11' og
@@ -69,10 +69,10 @@ DTSTART:20140613T220000Z
 DTEND:20140614T000000Z
 SUMMARY:[B1] 🇨🇱 CHI 3-1 AUS 🇦🇺 [004]
 LOCATION:Arena Pantanal\, Cuiabá
-GEO:-15.595833;-56.096944
+GEO:-15.603056;-56.120556
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Arena Pantanal, Cuiabá";X
- -APPLE-RADIUS=100;X-TITLE="Arena Pantanal, Cuiabá":geo:-15.595833,-56.096
- 944
+ -APPLE-RADIUS=100;X-TITLE="Arena Pantanal, Cuiabá":geo:-15.603056,-56.120
+ 556
 DESCRIPTION:Group B | Matchday 2 | 2014 FIFA World Cup - Brazil\nChile 3-1 
  Australia\nHT: 2-1\nGoals:\nCHI 🇨🇱: Alexis Sánchez 12'\, Jorge Vald
  ívia 14'\, Jean Beausejour 90'\nAUS 🇦🇺: Cahill 35'
@@ -296,10 +296,10 @@ DTSTART:20140617T220000Z
 DTEND:20140618T000000Z
 SUMMARY:[H1] 🇷🇺 RUS 1-1 KOR 🇰🇷 [016]
 LOCATION:Arena Pantanal\, Cuiabá
-GEO:-15.595833;-56.096944
+GEO:-15.603056;-56.120556
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Arena Pantanal, Cuiabá";X
- -APPLE-RADIUS=100;X-TITLE="Arena Pantanal, Cuiabá":geo:-15.595833,-56.096
- 944
+ -APPLE-RADIUS=100;X-TITLE="Arena Pantanal, Cuiabá":geo:-15.603056,-56.120
+ 556
 DESCRIPTION:Group H | Matchday 6 | 2014 FIFA World Cup - Brazil\nRussia 1-1
   South Korea\nGoals:\nRUS 🇷🇺: Alexander Kerzhakov 74'\nKOR 🇰🇷:
   Lee Keunho 68'
@@ -427,10 +427,10 @@ DTSTART:20140619T190000Z
 DTEND:20140619T210000Z
 SUMMARY:[D2] 🇺🇾 URU 2-1 ENG 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [023]
 LOCATION:Arena de São Paulo\, São Paulo
-GEO:-22.738611;-47.331111
+GEO:-23.545250;-46.474278
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Arena de São Paulo, São 
  Paulo";X-APPLE-RADIUS=100;X-TITLE="Arena de São Paulo, São Paulo":geo:-2
- 2.738611,-47.331111
+ 3.545250,-46.474278
 DESCRIPTION:Group D | Matchday 8 | 2014 FIFA World Cup - Brazil\nUruguay 2-
  1 England\nGoals:\nURU 🇺🇾: Luis Suárez 39'\, Luis Suárez 85'\nENG 
  🏴󠁧󠁢󠁥󠁮󠁧󠁿: Wayne Rooney 75'
@@ -519,12 +519,12 @@ UID:wc2014-match-028@world-cup-ics
 DTSTAMP:20140713T190000Z
 DTSTART:20140621T220000Z
 DTEND:20140622T000000Z
-SUMMARY:[F2] 🇳🇬 NGA 1-0 BIH 🇧🇦 [029]
+SUMMARY:[F2] 🇳🇬 NGA 1-0 BIH 🇧🇦 [028]
 LOCATION:Arena Pantanal\, Cuiabá
-GEO:-15.595833;-56.096944
+GEO:-15.603056;-56.120556
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Arena Pantanal, Cuiabá";X
- -APPLE-RADIUS=100;X-TITLE="Arena Pantanal, Cuiabá":geo:-15.595833,-56.096
- 944
+ -APPLE-RADIUS=100;X-TITLE="Arena Pantanal, Cuiabá":geo:-15.603056,-56.120
+ 556
 DESCRIPTION:Group F | Matchday 10 | 2014 FIFA World Cup - Brazil\nNigeria 1
  -0 Bosnia & Herzegovina\nGoals:\nNGA 🇳🇬: Peter Odemwingie 29'
 URL:https://en.wikipedia.org/wiki/2014_FIFA_World_Cup
@@ -672,10 +672,10 @@ DTSTART:20140623T160000Z
 DTEND:20140623T180000Z
 SUMMARY:[B3] 🇳🇱 NED 2-0 CHI 🇨🇱 [036]
 LOCATION:Arena de São Paulo\, São Paulo
-GEO:-22.738611;-47.331111
+GEO:-23.545250;-46.474278
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Arena de São Paulo, São 
  Paulo";X-APPLE-RADIUS=100;X-TITLE="Arena de São Paulo, São Paulo":geo:-2
- 2.738611,-47.331111
+ 3.545250,-46.474278
 DESCRIPTION:Group B | Matchday 12 | 2014 FIFA World Cup - Brazil\nNetherlan
  ds 2-0 Chile\nGoals:\nNED 🇳🇱: Leroy Fer 77'\, Memphis Depay 90'
 URL:https://en.wikipedia.org/wiki/2014_FIFA_World_Cup
@@ -690,10 +690,10 @@ DTSTART:20140624T200000Z
 DTEND:20140624T220000Z
 SUMMARY:[C3] 🇯🇵 JPN 1-4 COL 🇨🇴 [037]
 LOCATION:Arena Pantanal\, Cuiabá
-GEO:-15.595833;-56.096944
+GEO:-15.603056;-56.120556
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Arena Pantanal, Cuiabá";X
- -APPLE-RADIUS=100;X-TITLE="Arena Pantanal, Cuiabá":geo:-15.595833,-56.096
- 944
+ -APPLE-RADIUS=100;X-TITLE="Arena Pantanal, Cuiabá":geo:-15.603056,-56.120
+ 556
 DESCRIPTION:Group C | Matchday 13 | 2014 FIFA World Cup - Brazil\nJapan 1-4
   Colombia\nGoals:\nJPN 🇯🇵: Shinji Okazaki 45'\nCOL 🇨🇴: Juan Cu
  adrado 17' pen\, Jackson Martínez 55'\, Jackson Martínez 82'\, James Rod
@@ -780,25 +780,6 @@ END:VEVENT
 BEGIN:VEVENT
 UID:wc2014-match-042@world-cup-ics
 DTSTAMP:20140713T190000Z
-DTSTART:20140625T160000Z
-DTEND:20140625T180000Z
-SUMMARY:[F3] 🇧🇦 BIH 3-1 IRN 🇮🇷 [041]
-LOCATION:Arena Fonte Nova\, Salvador
-GEO:-12.978611;-38.504167
-X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Arena Fonte Nova, Salvador
- ";X-APPLE-RADIUS=100;X-TITLE="Arena Fonte Nova, Salvador":geo:-12.978611,-
- 38.504167
-DESCRIPTION:Group F | Matchday 14 | 2014 FIFA World Cup - Brazil\nBosnia & 
- Herzegovina 3-1 Iran\nGoals:\nBIH 🇧🇦: Edin Džeko 23'\, Miralem Pjan
- ić 59'\, Avdija Vršajević 83'\nIRN 🇮🇷: Reza Ghoochannejhad 82'
-URL:https://en.wikipedia.org/wiki/2014_FIFA_World_Cup
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-CATEGORIES:FIFA World Cup 2014
-END:VEVENT
-BEGIN:VEVENT
-UID:wc2014-match-043@world-cup-ics
-DTSTAMP:20140713T190000Z
 DTSTART:20140625T200000Z
 DTEND:20140625T220000Z
 SUMMARY:[E3] 🇪🇨 ECU 0-0 FRA 🇫🇷 [042]
@@ -815,7 +796,7 @@ TRANSP:TRANSPARENT
 CATEGORIES:FIFA World Cup 2014
 END:VEVENT
 BEGIN:VEVENT
-UID:wc2014-match-044@world-cup-ics
+UID:wc2014-match-043@world-cup-ics
 DTSTAMP:20140713T190000Z
 DTSTART:20140625T160000Z
 DTEND:20140625T180000Z
@@ -828,6 +809,25 @@ X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estádio Beira-Rio, Porto
 DESCRIPTION:Group F | Matchday 14 | 2014 FIFA World Cup - Brazil\nNigeria 2
  -3 Argentina\nGoals:\nNGA 🇳🇬: Ahmed Musa 4'\, Ahmed Musa 47'\nARG 
  🇦🇷: Lionel Messi 3'\, Lionel Messi 45'\, Marcos Rojo 50'
+URL:https://en.wikipedia.org/wiki/2014_FIFA_World_Cup
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+CATEGORIES:FIFA World Cup 2014
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2014-match-044@world-cup-ics
+DTSTAMP:20140713T190000Z
+DTSTART:20140625T160000Z
+DTEND:20140625T180000Z
+SUMMARY:[F3] 🇧🇦 BIH 3-1 IRN 🇮🇷 [044]
+LOCATION:Arena Fonte Nova\, Salvador
+GEO:-12.978611;-38.504167
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Arena Fonte Nova, Salvador
+ ";X-APPLE-RADIUS=100;X-TITLE="Arena Fonte Nova, Salvador":geo:-12.978611,-
+ 38.504167
+DESCRIPTION:Group F | Matchday 14 | 2014 FIFA World Cup - Brazil\nBosnia & 
+ Herzegovina 3-1 Iran\nGoals:\nBIH 🇧🇦: Edin Džeko 23'\, Miralem Pjan
+ ić 59'\, Avdija Vršajević 83'\nIRN 🇮🇷: Reza Ghoochannejhad 82'
 URL:https://en.wikipedia.org/wiki/2014_FIFA_World_Cup
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -877,10 +877,10 @@ DTSTART:20140626T200000Z
 DTEND:20140626T220000Z
 SUMMARY:[H3] 🇰🇷 KOR 0-1 BEL 🇧🇪 [047]
 LOCATION:Arena de São Paulo\, São Paulo
-GEO:-22.738611;-47.331111
+GEO:-23.545250;-46.474278
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Arena de São Paulo, São 
  Paulo";X-APPLE-RADIUS=100;X-TITLE="Arena de São Paulo, São Paulo":geo:-2
- 2.738611,-47.331111
+ 3.545250,-46.474278
 DESCRIPTION:Group H | Matchday 15 | 2014 FIFA World Cup - Brazil\nSouth Kor
  ea 0-1 Belgium\nGoals:\nBEL 🇧🇪: Jan Vertonghen 78'
 URL:https://en.wikipedia.org/wiki/2014_FIFA_World_Cup
@@ -1027,10 +1027,10 @@ DTSTART:20140701T160000Z
 DTEND:20140701T190000Z
 SUMMARY:[R16] 🇦🇷 ARG 1-0 (aet) SUI 🇨🇭 [055]
 LOCATION:Arena de São Paulo\, São Paulo
-GEO:-22.738611;-47.331111
+GEO:-23.545250;-46.474278
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Arena de São Paulo, São 
  Paulo";X-APPLE-RADIUS=100;X-TITLE="Arena de São Paulo, São Paulo":geo:-2
- 2.738611,-47.331111
+ 3.545250,-46.474278
 DESCRIPTION:Round of 16 | 2014 FIFA World Cup - Brazil\nArgentina 1-0 Switz
  erland\nHT: 0-0\nFT: 0-0\nAET: 1-0\nGoals:\nARG 🇦🇷: Ángel di María
   118'
@@ -1158,10 +1158,10 @@ DTSTART:20140709T200000Z
 DTEND:20140709T230000Z
 SUMMARY:[SF2] 🇳🇱 NED 0-0 (aet) (p) ARG 🇦🇷 [062]
 LOCATION:Arena de São Paulo\, São Paulo
-GEO:-22.738611;-47.331111
+GEO:-23.545250;-46.474278
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Arena de São Paulo, São 
  Paulo";X-APPLE-RADIUS=100;X-TITLE="Arena de São Paulo, São Paulo":geo:-2
- 2.738611,-47.331111
+ 3.545250,-46.474278
 DESCRIPTION:Semi-finals | 2014 FIFA World Cup - Brazil\nNetherlands 0-0 Arg
  entina\nHT: 0-0\nFT: 0-0\nAET: 0-0\nPenalties: 2-4
 URL:https://en.wikipedia.org/wiki/2014_FIFA_World_Cup

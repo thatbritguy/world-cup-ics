@@ -6,11 +6,11 @@
       "ground_aliases": [
         "AOL Arena, Hamburg"
       ],
-      "latitude": 53.5433683,
-      "longitude": 9.9917981,
-      "coordinate_source": "https://www.openstreetmap.org/n/7046500615",
-      "coordinate_source_title": "Tower Tag Arena Hamburg",
-      "match_score": 20
+      "latitude": 53.587222,
+      "longitude": 9.898611,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Volksparkstadion",
+      "coordinate_source_title": "Volksparkstadion",
+      "coordinate_status": "verified"
     },
     {
       "name": "AWD-Arena",
@@ -18,11 +18,11 @@
       "ground_aliases": [
         "AWD-Arena, Hannover"
       ],
-      "latitude": 52.360026,
-      "longitude": 9.7310161,
-      "coordinate_source": "https://www.openstreetmap.org/w/9923195",
-      "coordinate_source_title": "Heinz-von-Heiden-Arena",
-      "match_score": 10
+      "latitude": 52.36,
+      "longitude": 9.731111,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Heinz_von_Heiden_Arena",
+      "coordinate_source_title": "Heinz von Heiden Arena",
+      "coordinate_status": "verified"
     },
     {
       "name": "Allianz Arena",
@@ -34,7 +34,9 @@
       "longitude": 11.62475278,
       "coordinate_source": "https://en.wikipedia.org/wiki/Allianz_Arena",
       "coordinate_source_title": "Allianz Arena",
-      "match_score": 25
+      "match_score": 25,
+      "coordinate_status": "verified",
+      "coordinate_review": "Manual source-title and location review"
     },
     {
       "name": "Commerzbank-Arena",
@@ -42,11 +44,13 @@
       "ground_aliases": [
         "Commerzbank-Arena, Frankfurt"
       ],
-      "latitude": 50.1381509,
-      "longitude": 8.5815346,
-      "coordinate_source": "https://www.openstreetmap.org/n/8952859487",
-      "coordinate_source_title": "Commerzbank Frankfurt",
-      "match_score": 20
+      "latitude": 50.068056,
+      "longitude": 8.645806,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Waldstadion_(Frankfurt)",
+      "coordinate_source_title": "Waldstadion (Frankfurt)",
+      "match_score": 10,
+      "coordinate_status": "verified",
+      "coordinate_review": "Manual source-title and location review"
     },
     {
       "name": "Frankenstadion",
@@ -54,11 +58,13 @@
       "ground_aliases": [
         "Frankenstadion, Nürnberg"
       ],
-      "latitude": 49.4309138,
-      "longitude": 11.129835,
-      "coordinate_source": "https://www.openstreetmap.org/n/2975445573",
-      "coordinate_source_title": "Nürnberg Frankenstadion",
-      "match_score": 20
+      "latitude": 49.42611111,
+      "longitude": 11.12583333,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Max-Morlock-Stadion",
+      "coordinate_source_title": "Max-Morlock-Stadion",
+      "match_score": 0,
+      "coordinate_status": "verified",
+      "coordinate_review": "Manual source-title and location review"
     },
     {
       "name": "Fritz-Walter-Stadion",
@@ -66,11 +72,11 @@
       "ground_aliases": [
         "Fritz-Walter-Stadion, Kaiserslautern"
       ],
-      "latitude": 49.44472222,
-      "longitude": 7.76888889,
-      "coordinate_source": "https://en.wikipedia.org/wiki/Kaiserslautern",
-      "coordinate_source_title": "Kaiserslautern",
-      "match_score": 15
+      "latitude": 49.434722,
+      "longitude": 7.776667,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Fritz-Walter-Stadion",
+      "coordinate_source_title": "Fritz-Walter-Stadion",
+      "coordinate_status": "verified"
     },
     {
       "name": "Gottlieb-Daimler-Stadion",
@@ -78,11 +84,13 @@
       "ground_aliases": [
         "Gottlieb-Daimler-Stadion, Stuttgart"
       ],
-      "latitude": 48.7918161,
-      "longitude": 9.2411731,
-      "coordinate_source": "https://www.openstreetmap.org/n/3068189388",
-      "coordinate_source_title": "Stuttgart Neckarpark",
-      "match_score": 10
+      "latitude": 48.79222222,
+      "longitude": 9.23194444,
+      "coordinate_source": "https://en.wikipedia.org/wiki/MHPArena",
+      "coordinate_source_title": "MHPArena",
+      "match_score": 0,
+      "coordinate_status": "verified",
+      "coordinate_review": "Manual source-title and location review"
     },
     {
       "name": "Olympiastadion",
@@ -90,11 +98,13 @@
       "ground_aliases": [
         "Olympiastadion, Berlin"
       ],
-      "latitude": 52.5145846,
-      "longitude": 13.2398144,
-      "coordinate_source": "https://www.openstreetmap.org/w/38862723",
-      "coordinate_source_title": "Olympiastadion Berlin",
-      "match_score": 25
+      "latitude": 52.51472222,
+      "longitude": 13.23944444,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Olympiastadion_(Berlin)",
+      "coordinate_source_title": "Olympiastadion (Berlin)",
+      "match_score": 25,
+      "coordinate_status": "verified",
+      "coordinate_review": "Manual source-title and location review"
     },
     {
       "name": "RheinEnergieStadion",
@@ -106,7 +116,9 @@
       "longitude": 6.875,
       "coordinate_source": "https://en.wikipedia.org/wiki/RheinEnergieStadion",
       "coordinate_source_title": "RheinEnergieStadion",
-      "match_score": 15
+      "match_score": 15,
+      "coordinate_status": "verified",
+      "coordinate_review": "Manual source-title and location review"
     },
     {
       "name": "Signal Iduna Park",
@@ -114,11 +126,11 @@
       "ground_aliases": [
         "Signal Iduna Park, Dortmund"
       ],
-      "latitude": 51.49055556,
-      "longitude": 7.4575,
-      "coordinate_source": "https://en.wikipedia.org/wiki/Dortmund_Signal-Iduna-Park_station",
-      "coordinate_source_title": "Dortmund Signal-Iduna-Park station",
-      "match_score": 20
+      "latitude": 51.4925,
+      "longitude": 7.451667,
+      "coordinate_source": "https://en.wikipedia.org/wiki/Westfalenstadion",
+      "coordinate_source_title": "Westfalenstadion",
+      "coordinate_status": "verified"
     },
     {
       "name": "Veltins-Arena",
@@ -130,7 +142,9 @@
       "longitude": 7.0675,
       "coordinate_source": "https://en.wikipedia.org/wiki/Arena_AufSchalke",
       "coordinate_source_title": "Arena AufSchalke",
-      "match_score": 10
+      "match_score": 10,
+      "coordinate_status": "verified",
+      "coordinate_review": "Manual source-title and location review"
     },
     {
       "name": "Zentralstadion",
@@ -142,7 +156,9 @@
       "longitude": 12.34833333,
       "coordinate_source": "https://en.wikipedia.org/wiki/Red_Bull_Arena_(Leipzig)",
       "coordinate_source_title": "Red Bull Arena (Leipzig)",
-      "match_score": 10
+      "match_score": 10,
+      "coordinate_status": "verified",
+      "coordinate_review": "Manual source-title and location review"
     }
   ]
 }

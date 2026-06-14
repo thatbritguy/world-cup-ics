@@ -57,13 +57,18 @@ def prepare(year: int) -> None:
         fifa_item = fifa.get(key)
         utc = kickoff_utc(year, item, fifa_item)
         provisional.append((utc, item, str(fifa_item["match_number"]) if fifa_item else ""))
-    chronology = {
-        identity(item["date"], item["team1"], item["team2"]): index
-        for index, (_, item, _) in enumerate(sorted(provisional, key=lambda row: (row[0], row[1]["team1"])), start=1)
+    used_numbers = {int(number) for _, _, number in provisional if number}
+    available_numbers = iter(
+        number for number in range(1, len(provisional) + 1) if number not in used_numbers
+    )
+    fallback_numbers = {
+        identity(item["date"], item["team1"], item["team2"]): next(available_numbers)
+        for _, item, number in sorted(provisional, key=lambda row: (row[0], row[1]["team1"]))
+        if not number
     }
     for utc, item, fifa_number in provisional:
         key = identity(item["date"], item["team1"], item["team2"])
-        number = int(fifa_number) if fifa_number else chronology[key]
+        number = int(fifa_number) if fifa_number else fallback_numbers[key]
         match_id = item.get("fifa_match_id")
         enriched.append(
             {
@@ -98,7 +103,7 @@ def prepare(year: int) -> None:
             "numbering": (
                 "FIFA official match numbers"
                 if all(item.get("fifa_match_number") for item in report["matches"])
-                else "Chronological match numbers where FIFA archive numbering is unavailable"
+                else "FIFA official match numbers with deterministic fallback numbers where archive records are unavailable"
             ),
             "matches": enriched,
         },

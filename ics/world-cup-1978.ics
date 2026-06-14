@@ -84,10 +84,10 @@ DTSTART:19780603T164500Z
 DTEND:19780603T184500Z
 SUMMARY:[G3-1] 🇦🇹 AUT 2-1 ESP 🇪🇸 [005]
 LOCATION:Estadio José Amalfitani\, Buenos Aires
-GEO:-34.562500;-58.458333
+GEO:-34.635278;-58.520556
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio José Amalfitani, 
  Buenos Aires";X-APPLE-RADIUS=100;X-TITLE="Estadio José Amalfitani, Buenos
-  Aires":geo:-34.562500,-58.458333
+  Aires":geo:-34.635278,-58.520556
 DESCRIPTION:Group 3 | Matchday 1 | 1978 FIFA World Cup - Argentina\nAustria
   2-1 Spain
 URL:https://en.wikipedia.org/wiki/1978_FIFA_World_Cup
@@ -228,10 +228,10 @@ DTSTART:19780607T164500Z
 DTEND:19780607T184500Z
 SUMMARY:[G3-2] 🇦🇹 AUT 1-0 SWE 🇸🇪 [013]
 LOCATION:Estadio José Amalfitani\, Buenos Aires
-GEO:-34.562500;-58.458333
+GEO:-34.635278;-58.520556
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio José Amalfitani, 
  Buenos Aires";X-APPLE-RADIUS=100;X-TITLE="Estadio José Amalfitani, Buenos
-  Aires":geo:-34.562500,-58.458333
+  Aires":geo:-34.635278,-58.520556
 DESCRIPTION:Group 3 | Matchday 2 | 1978 FIFA World Cup - Argentina\nAustria
   1-0 Sweden
 URL:https://en.wikipedia.org/wiki/1978_FIFA_World_Cup
@@ -372,10 +372,10 @@ DTSTART:19780611T164500Z
 DTEND:19780611T184500Z
 SUMMARY:[G3-3] 🇪🇸 ESP 1-0 SWE 🇸🇪 [021]
 LOCATION:Estadio José Amalfitani\, Buenos Aires
-GEO:-34.562500;-58.458333
+GEO:-34.635278;-58.520556
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio José Amalfitani, 
  Buenos Aires";X-APPLE-RADIUS=100;X-TITLE="Estadio José Amalfitani, Buenos
-  Aires":geo:-34.562500,-58.458333
+  Aires":geo:-34.635278,-58.520556
 DESCRIPTION:Group 3 | Matchday 3 | 1978 FIFA World Cup - Argentina\nSpain 1
  -0 Sweden
 URL:https://en.wikipedia.org/wiki/1978_FIFA_World_Cup
