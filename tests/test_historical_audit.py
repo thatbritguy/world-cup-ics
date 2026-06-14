@@ -88,6 +88,14 @@ class HistoricalAuditTests(unittest.TestCase):
             identity("1990-07-07", "Italy", "England"), DATE_RESOLUTIONS
         )
 
+    def test_1974_resolutions_use_scheduled_kickoffs(self) -> None:
+        resolved = [
+            value["time"]
+            for key, value in AUDIT_RESOLUTIONS.items()
+            if key[0].startswith("1974-")
+        ]
+        self.assertEqual(resolved, ["16:00"] * 9)
+
 
 if __name__ == "__main__":
     unittest.main()

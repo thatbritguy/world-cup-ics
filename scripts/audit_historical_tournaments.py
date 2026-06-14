@@ -149,6 +149,91 @@ def identity(date: str, team1: str, team2: str) -> tuple[str, frozenset[str]]:
 
 
 AUDIT_RESOLUTIONS = {
+    identity("1974-06-14", "West Germany", "Chile"): {
+        "time": "16:00",
+        "selected_source": "Contemporary The Times fixture listing",
+        "evidence": (
+            "The Times, 14 June 1974, lists West Germany-Chile in Berlin at "
+            "16:00. Britain and West Germany were both UTC+1 on the match date."
+        ),
+        "rejected_value": "RSSSF reports 16:30 rather than the scheduled kickoff.",
+    },
+    identity("1974-06-15", "Uruguay", "Netherlands"): {
+        "time": "16:00",
+        "selected_source": "Contemporary The Times fixture listing",
+        "evidence": (
+            "The Times, 15 June 1974, lists Uruguay-Netherlands in Hanover at "
+            "16:00. Britain and West Germany were both UTC+1 on the match date."
+        ),
+        "rejected_value": "RSSSF reports 18:00 rather than the scheduled kickoff.",
+    },
+    identity("1974-06-22", "Scotland", "Yugoslavia"): {
+        "time": "16:00",
+        "selected_source": "Contemporary The Times fixture listing",
+        "evidence": (
+            "The Times, 22 June 1974, lists Scotland-Yugoslavia in Frankfurt "
+            "at 16:00."
+        ),
+        "rejected_value": "RSSSF reports 18:00 rather than the scheduled kickoff.",
+    },
+    identity("1974-06-22", "Zaire", "Brazil"): {
+        "time": "16:00",
+        "selected_source": "Contemporary The Times fixture listing",
+        "evidence": (
+            "The Times, 22 June 1974, lists Brazil-Zaire in Gelsenkirchen at "
+            "16:00."
+        ),
+        "rejected_value": "RSSSF reports 18:00 rather than the scheduled kickoff.",
+    },
+    identity("1974-06-26", "Yugoslavia", "West Germany"): {
+        "time": "16:00",
+        "selected_source": "Contemporary The Times fixture listing",
+        "evidence": (
+            "The Times, 26 June 1974, lists West Germany-Yugoslavia in "
+            "Dusseldorf at 16:00."
+        ),
+        "rejected_value": "RSSSF reports 18:00 rather than the scheduled kickoff.",
+    },
+    identity("1974-06-30", "Poland", "Yugoslavia"): {
+        "time": "16:00",
+        "selected_source": "Contemporary The Times fixture listing",
+        "evidence": (
+            "The Times, 29 June 1974, lists Yugoslavia-Poland in Frankfurt at "
+            "16:00 the following day."
+        ),
+        "rejected_value": "RSSSF reports 18:00 rather than the scheduled kickoff.",
+    },
+    identity("1974-06-30", "Argentina", "Brazil"): {
+        "time": "16:00",
+        "selected_source": "Contemporary fixture schedule and FIFA/Wikipedia",
+        "evidence": (
+            "Contemporary The Times fixture listings use a 16:00 scheduled "
+            "kickoff, agreeing with FIFA and Wikipedia."
+        ),
+        "rejected_value": "RSSSF records the fixture but omits its kickoff time.",
+    },
+    identity("1974-07-03", "Poland", "West Germany"): {
+        "time": "16:00",
+        "selected_source": "Originally scheduled kickoff",
+        "evidence": (
+            "FIFA's archived match report and Wikipedia record a scheduled "
+            "16:00 kickoff delayed by 35 minutes because the pitch was "
+            "waterlogged. Calendar events use the scheduled time."
+        ),
+        "rejected_value": (
+            "RSSSF reports the delayed 16:30 start and FIFA archive data reports "
+            "17:00; neither is the originally scheduled kickoff."
+        ),
+    },
+    identity("1974-07-06", "Brazil", "Poland"): {
+        "time": "16:00",
+        "selected_source": "Contemporary fixture schedule and FIFA/Wikipedia",
+        "evidence": (
+            "Contemporary The Times fixture listings use a 16:00 scheduled "
+            "kickoff for the third-place match, agreeing with FIFA and Wikipedia."
+        ),
+        "rejected_value": "RSSSF omits this fixture's kickoff time.",
+    },
     identity("1990-06-16", "England", "Netherlands"): {
         "time": "21:00",
         "selected_source": "FIFA/Wikipedia scheduled kickoff",

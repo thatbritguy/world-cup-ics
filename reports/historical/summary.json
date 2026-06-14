@@ -28,10 +28,10 @@
   ],
   "status_totals": {
     "accepted-modern-source": 259,
-    "conflict": 134,
+    "conflict": 127,
     "corroborated": 548,
-    "resolved": 2,
-    "single-source": 21
+    "resolved": 11,
+    "single-source": 19
   },
   "tournaments": [
     {
@@ -132,11 +132,10 @@
       "year": 1974,
       "match_count": 38,
       "status_counts": {
-        "conflict": 7,
         "corroborated": 29,
-        "single-source": 2
+        "resolved": 9
       },
-      "requires_review": true,
+      "requires_review": false,
       "error": null
     },
     {
