@@ -5,16 +5,16 @@
   "source_availability": {
     "openfootball": true,
     "rsssf_full": true,
-    "fifa_archive": true
+    "fifa_archive": true,
+    "wikipedia_schedule": true
   },
   "match_count": 64,
   "status_counts": {
-    "conflict": 61,
-    "corroborated": 3
+    "resolved": 64
   },
   "existing_calendar_status": null,
   "source_issues_resolved_in_enrichment": false,
-  "requires_review": true,
+  "requires_review": false,
   "matches": [
     {
       "date": "1998-06-10",
@@ -27,10 +27,18 @@
         "fifa_archive": "17:30",
         "fifa_archive_date": "1998-06-10",
         "openfootball": null,
-        "openfootball_utc_offset": null
+        "openfootball_utc_offset": null,
+        "wikipedia": "17:30",
+        "wikipedia_date": "1998-06-10"
       },
-      "selected_local_time": "16:30",
-      "status": "conflict",
+      "selected_local_time": "17:30",
+      "status": "resolved",
+      "resolution": {
+        "time": "17:30",
+        "selected_source": "FIFA/Wikipedia scheduled kickoff",
+        "evidence": "France observed CEST (UTC+2); the scheduled French local time is used rather than RSSSF's mostly UK-time values.",
+        "rejected_value": "RSSSF reports 16:30."
+      },
       "date_mismatch": false,
       "fifa_match_id": "4000",
       "fifa_match_number": 1
@@ -46,10 +54,18 @@
         "fifa_archive": "21:00",
         "fifa_archive_date": "1998-06-10",
         "openfootball": null,
-        "openfootball_utc_offset": null
+        "openfootball_utc_offset": null,
+        "wikipedia": "21:00",
+        "wikipedia_date": "1998-06-10"
       },
-      "selected_local_time": "20:00",
-      "status": "conflict",
+      "selected_local_time": "21:00",
+      "status": "resolved",
+      "resolution": {
+        "time": "21:00",
+        "selected_source": "FIFA/Wikipedia scheduled kickoff",
+        "evidence": "France observed CEST (UTC+2); the scheduled French local time is used rather than RSSSF's mostly UK-time values.",
+        "rejected_value": "RSSSF reports 20:00."
+      },
       "date_mismatch": false,
       "fifa_match_id": "8725",
       "fifa_match_number": 2
@@ -65,10 +81,18 @@
         "fifa_archive": "17:30",
         "fifa_archive_date": "1998-06-16",
         "openfootball": null,
-        "openfootball_utc_offset": null
+        "openfootball_utc_offset": null,
+        "wikipedia": "17:30",
+        "wikipedia_date": "1998-06-16"
       },
-      "selected_local_time": "16:30",
-      "status": "conflict",
+      "selected_local_time": "17:30",
+      "status": "resolved",
+      "resolution": {
+        "time": "17:30",
+        "selected_source": "FIFA/Wikipedia scheduled kickoff",
+        "evidence": "France observed CEST (UTC+2); the scheduled French local time is used rather than RSSSF's mostly UK-time values.",
+        "rejected_value": "RSSSF reports 16:30."
+      },
       "date_mismatch": false,
       "fifa_match_id": "8741",
       "fifa_match_number": 17
@@ -84,10 +108,18 @@
         "fifa_archive": "21:00",
         "fifa_archive_date": "1998-06-16",
         "openfootball": null,
-        "openfootball_utc_offset": null
+        "openfootball_utc_offset": null,
+        "wikipedia": "21:00",
+        "wikipedia_date": "1998-06-16"
       },
-      "selected_local_time": "20:00",
-      "status": "conflict",
+      "selected_local_time": "21:00",
+      "status": "resolved",
+      "resolution": {
+        "time": "21:00",
+        "selected_source": "FIFA/Wikipedia scheduled kickoff",
+        "evidence": "France observed CEST (UTC+2); the scheduled French local time is used rather than RSSSF's mostly UK-time values.",
+        "rejected_value": "RSSSF reports 20:00."
+      },
       "date_mismatch": false,
       "fifa_match_id": "8742",
       "fifa_match_number": 18
@@ -103,10 +135,18 @@
         "fifa_archive": "21:00",
         "fifa_archive_date": "1998-06-23",
         "openfootball": null,
-        "openfootball_utc_offset": null
+        "openfootball_utc_offset": null,
+        "wikipedia": "21:00",
+        "wikipedia_date": "1998-06-23"
       },
       "selected_local_time": "21:00",
-      "status": "corroborated",
+      "status": "resolved",
+      "resolution": {
+        "time": "21:00",
+        "selected_source": "FIFA/Wikipedia scheduled kickoff",
+        "evidence": "France observed CEST (UTC+2); the scheduled French local time is used rather than RSSSF's mostly UK-time values.",
+        "rejected_value": "RSSSF reports 21:00."
+      },
       "date_mismatch": false,
       "fifa_match_id": "8758",
       "fifa_match_number": 34
@@ -122,10 +162,18 @@
         "fifa_archive": "21:00",
         "fifa_archive_date": "1998-06-23",
         "openfootball": null,
-        "openfootball_utc_offset": null
+        "openfootball_utc_offset": null,
+        "wikipedia": "21:00",
+        "wikipedia_date": "1998-06-23"
       },
       "selected_local_time": "21:00",
-      "status": "corroborated",
+      "status": "resolved",
+      "resolution": {
+        "time": "21:00",
+        "selected_source": "FIFA/Wikipedia scheduled kickoff",
+        "evidence": "France observed CEST (UTC+2); the scheduled French local time is used rather than RSSSF's mostly UK-time values.",
+        "rejected_value": "RSSSF reports 21:00."
+      },
       "date_mismatch": false,
       "fifa_match_id": "8759",
       "fifa_match_number": 35
@@ -141,10 +189,18 @@
         "fifa_archive": "21:00",
         "fifa_archive_date": "1998-06-11",
         "openfootball": null,
-        "openfootball_utc_offset": null
+        "openfootball_utc_offset": null,
+        "wikipedia": "21:00",
+        "wikipedia_date": "1998-06-11"
       },
-      "selected_local_time": "20:00",
-      "status": "conflict",
+      "selected_local_time": "21:00",
+      "status": "resolved",
+      "resolution": {
+        "time": "21:00",
+        "selected_source": "FIFA/Wikipedia scheduled kickoff",
+        "evidence": "France observed CEST (UTC+2); the scheduled French local time is used rather than RSSSF's mostly UK-time values.",
+        "rejected_value": "RSSSF reports 20:00."
+      },
       "date_mismatch": false,
       "fifa_match_id": "8727",
       "fifa_match_number": 3
@@ -160,10 +216,18 @@
         "fifa_archive": "17:30",
         "fifa_archive_date": "1998-06-11",
         "openfootball": null,
-        "openfootball_utc_offset": null
+        "openfootball_utc_offset": null,
+        "wikipedia": "17:30",
+        "wikipedia_date": "1998-06-11"
       },
-      "selected_local_time": "16:30",
-      "status": "conflict",
+      "selected_local_time": "17:30",
+      "status": "resolved",
+      "resolution": {
+        "time": "17:30",
+        "selected_source": "FIFA/Wikipedia scheduled kickoff",
+        "evidence": "France observed CEST (UTC+2); the scheduled French local time is used rather than RSSSF's mostly UK-time values.",
+        "rejected_value": "RSSSF reports 16:30."
+      },
       "date_mismatch": false,
       "fifa_match_id": "8726",
       "fifa_match_number": 4
@@ -179,10 +243,18 @@
         "fifa_archive": "17:30",
         "fifa_archive_date": "1998-06-17",
         "openfootball": null,
-        "openfootball_utc_offset": null
+        "openfootball_utc_offset": null,
+        "wikipedia": "17:30",
+        "wikipedia_date": "1998-06-17"
       },
-      "selected_local_time": "16:30",
-      "status": "conflict",
+      "selected_local_time": "17:30",
+      "status": "resolved",
+      "resolution": {
+        "time": "17:30",
+        "selected_source": "FIFA/Wikipedia scheduled kickoff",
+        "evidence": "France observed CEST (UTC+2); the scheduled French local time is used rather than RSSSF's mostly UK-time values.",
+        "rejected_value": "RSSSF reports 16:30."
+      },
       "date_mismatch": false,
       "fifa_match_id": "8743",
       "fifa_match_number": 19
@@ -198,10 +270,18 @@
         "fifa_archive": "21:00",
         "fifa_archive_date": "1998-06-17",
         "openfootball": null,
-        "openfootball_utc_offset": null
+        "openfootball_utc_offset": null,
+        "wikipedia": "21:00",
+        "wikipedia_date": "1998-06-17"
       },
-      "selected_local_time": "20:00",
-      "status": "conflict",
+      "selected_local_time": "21:00",
+      "status": "resolved",
+      "resolution": {
+        "time": "21:00",
+        "selected_source": "FIFA/Wikipedia scheduled kickoff",
+        "evidence": "France observed CEST (UTC+2); the scheduled French local time is used rather than RSSSF's mostly UK-time values.",
+        "rejected_value": "RSSSF reports 20:00."
+      },
       "date_mismatch": false,
       "fifa_match_id": "8744",
       "fifa_match_number": 20
@@ -217,10 +297,18 @@
         "fifa_archive": "16:00",
         "fifa_archive_date": "1998-06-23",
         "openfootball": null,
-        "openfootball_utc_offset": null
+        "openfootball_utc_offset": null,
+        "wikipedia": "16:00",
+        "wikipedia_date": "1998-06-23"
       },
-      "selected_local_time": "15:00",
-      "status": "conflict",
+      "selected_local_time": "16:00",
+      "status": "resolved",
+      "resolution": {
+        "time": "16:00",
+        "selected_source": "FIFA/Wikipedia scheduled kickoff",
+        "evidence": "France observed CEST (UTC+2); the scheduled French local time is used rather than RSSSF's mostly UK-time values.",
+        "rejected_value": "RSSSF reports 15:00."
+      },
       "date_mismatch": false,
       "fifa_match_id": "8757",
       "fifa_match_number": 33
@@ -236,10 +324,18 @@
         "fifa_archive": "16:00",
         "fifa_archive_date": "1998-06-23",
         "openfootball": null,
-        "openfootball_utc_offset": null
+        "openfootball_utc_offset": null,
+        "wikipedia": "16:00",
+        "wikipedia_date": "1998-06-23"
       },
-      "selected_local_time": "15:00",
-      "status": "conflict",
+      "selected_local_time": "16:00",
+      "status": "resolved",
+      "resolution": {
+        "time": "16:00",
+        "selected_source": "FIFA/Wikipedia scheduled kickoff",
+        "evidence": "France observed CEST (UTC+2); the scheduled French local time is used rather than RSSSF's mostly UK-time values.",
+        "rejected_value": "RSSSF reports 15:00."
+      },
       "date_mismatch": false,
       "fifa_match_id": "8760",
       "fifa_match_number": 36
@@ -255,10 +351,18 @@
         "fifa_archive": "17:30",
         "fifa_archive_date": "1998-06-12",
         "openfootball": null,
-        "openfootball_utc_offset": null
+        "openfootball_utc_offset": null,
+        "wikipedia": "17:30",
+        "wikipedia_date": "1998-06-12"
       },
-      "selected_local_time": "16:30",
-      "status": "conflict",
+      "selected_local_time": "17:30",
+      "status": "resolved",
+      "resolution": {
+        "time": "17:30",
+        "selected_source": "FIFA/Wikipedia scheduled kickoff",
+        "evidence": "France observed CEST (UTC+2); the scheduled French local time is used rather than RSSSF's mostly UK-time values.",
+        "rejected_value": "RSSSF reports 16:30."
+      },
       "date_mismatch": false,
       "fifa_match_id": "8729",
       "fifa_match_number": 5
@@ -274,10 +378,18 @@
         "fifa_archive": "21:00",
         "fifa_archive_date": "1998-06-12",
         "openfootball": null,
-        "openfootball_utc_offset": null
+        "openfootball_utc_offset": null,
+        "wikipedia": "21:00",
+        "wikipedia_date": "1998-06-12"
       },
-      "selected_local_time": "20:00",
-      "status": "conflict",
+      "selected_local_time": "21:00",
+      "status": "resolved",
+      "resolution": {
+        "time": "21:00",
+        "selected_source": "FIFA/Wikipedia scheduled kickoff",
+        "evidence": "France observed CEST (UTC+2); the scheduled French local time is used rather than RSSSF's mostly UK-time values.",
+        "rejected_value": "RSSSF reports 20:00."
+      },
       "date_mismatch": false,
       "fifa_match_id": "8730",
       "fifa_match_number": 6
@@ -293,10 +405,18 @@
         "fifa_archive": "21:00",
         "fifa_archive_date": "1998-06-18",
         "openfootball": null,
-        "openfootball_utc_offset": null
+        "openfootball_utc_offset": null,
+        "wikipedia": "21:00",
+        "wikipedia_date": "1998-06-18"
       },
-      "selected_local_time": "20:00",
-      "status": "conflict",
+      "selected_local_time": "21:00",
+      "status": "resolved",
+      "resolution": {
+        "time": "21:00",
+        "selected_source": "FIFA/Wikipedia scheduled kickoff",
+        "evidence": "France observed CEST (UTC+2); the scheduled French local time is used rather than RSSSF's mostly UK-time values.",
+        "rejected_value": "RSSSF reports 20:00."
+      },
       "date_mismatch": false,
       "fifa_match_id": "8745",
       "fifa_match_number": 21
@@ -312,10 +432,18 @@
         "fifa_archive": "17:30",
         "fifa_archive_date": "1998-06-18",
         "openfootball": null,
-        "openfootball_utc_offset": null
+        "openfootball_utc_offset": null,
+        "wikipedia": "17:30",
+        "wikipedia_date": "1998-06-18"
       },
-      "selected_local_time": "16:30",
-      "status": "conflict",
+      "selected_local_time": "17:30",
+      "status": "resolved",
+      "resolution": {
+        "time": "17:30",
+        "selected_source": "FIFA/Wikipedia scheduled kickoff",
+        "evidence": "France observed CEST (UTC+2); the scheduled French local time is used rather than RSSSF's mostly UK-time values.",
+        "rejected_value": "RSSSF reports 16:30."
+      },
       "date_mismatch": false,
       "fifa_match_id": "8746",
       "fifa_match_number": 22
@@ -331,10 +459,18 @@
         "fifa_archive": "16:00",
         "fifa_archive_date": "1998-06-24",
         "openfootball": null,
-        "openfootball_utc_offset": null
+        "openfootball_utc_offset": null,
+        "wikipedia": "16:00",
+        "wikipedia_date": "1998-06-24"
       },
-      "selected_local_time": "15:00",
-      "status": "conflict",
+      "selected_local_time": "16:00",
+      "status": "resolved",
+      "resolution": {
+        "time": "16:00",
+        "selected_source": "FIFA/Wikipedia scheduled kickoff",
+        "evidence": "France observed CEST (UTC+2); the scheduled French local time is used rather than RSSSF's mostly UK-time values.",
+        "rejected_value": "RSSSF reports 15:00."
+      },
       "date_mismatch": false,
       "fifa_match_id": "8762",
       "fifa_match_number": 38
@@ -350,10 +486,18 @@
         "fifa_archive": "16:00",
         "fifa_archive_date": "1998-06-24",
         "openfootball": null,
-        "openfootball_utc_offset": null
+        "openfootball_utc_offset": null,
+        "wikipedia": "16:00",
+        "wikipedia_date": "1998-06-24"
       },
-      "selected_local_time": "15:00",
-      "status": "conflict",
+      "selected_local_time": "16:00",
+      "status": "resolved",
+      "resolution": {
+        "time": "16:00",
+        "selected_source": "FIFA/Wikipedia scheduled kickoff",
+        "evidence": "France observed CEST (UTC+2); the scheduled French local time is used rather than RSSSF's mostly UK-time values.",
+        "rejected_value": "RSSSF reports 15:00."
+      },
       "date_mismatch": false,
       "fifa_match_id": "8764",
       "fifa_match_number": 40
@@ -369,10 +513,18 @@
         "fifa_archive": "14:30",
         "fifa_archive_date": "1998-06-12",
         "openfootball": null,
-        "openfootball_utc_offset": null
+        "openfootball_utc_offset": null,
+        "wikipedia": "14:30",
+        "wikipedia_date": "1998-06-12"
       },
-      "selected_local_time": "13:00",
-      "status": "conflict",
+      "selected_local_time": "14:30",
+      "status": "resolved",
+      "resolution": {
+        "time": "14:30",
+        "selected_source": "FIFA/Wikipedia scheduled kickoff",
+        "evidence": "France observed CEST (UTC+2); the scheduled French local time is used rather than RSSSF's mostly UK-time values.",
+        "rejected_value": "RSSSF reports 13:00."
+      },
       "date_mismatch": false,
       "fifa_match_id": "8728",
       "fifa_match_number": 7
@@ -388,10 +540,18 @@
         "fifa_archive": "14:30",
         "fifa_archive_date": "1998-06-13",
         "openfootball": null,
-        "openfootball_utc_offset": null
+        "openfootball_utc_offset": null,
+        "wikipedia": "14:30",
+        "wikipedia_date": "1998-06-13"
       },
-      "selected_local_time": "13:30",
-      "status": "conflict",
+      "selected_local_time": "14:30",
+      "status": "resolved",
+      "resolution": {
+        "time": "14:30",
+        "selected_source": "FIFA/Wikipedia scheduled kickoff",
+        "evidence": "France observed CEST (UTC+2); the scheduled French local time is used rather than RSSSF's mostly UK-time values.",
+        "rejected_value": "RSSSF reports 13:30."
+      },
       "date_mismatch": false,
       "fifa_match_id": "8731",
       "fifa_match_number": 10
@@ -407,10 +567,18 @@
         "fifa_archive": "17:30",
         "fifa_archive_date": "1998-06-19",
         "openfootball": null,
-        "openfootball_utc_offset": null
+        "openfootball_utc_offset": null,
+        "wikipedia": "17:30",
+        "wikipedia_date": "1998-06-19"
       },
-      "selected_local_time": "16:30",
-      "status": "conflict",
+      "selected_local_time": "17:30",
+      "status": "resolved",
+      "resolution": {
+        "time": "17:30",
+        "selected_source": "FIFA/Wikipedia scheduled kickoff",
+        "evidence": "France observed CEST (UTC+2); the scheduled French local time is used rather than RSSSF's mostly UK-time values.",
+        "rejected_value": "RSSSF reports 16:30."
+      },
       "date_mismatch": false,
       "fifa_match_id": "8747",
       "fifa_match_number": 23
@@ -426,10 +594,18 @@
         "fifa_archive": "21:00",
         "fifa_archive_date": "1998-06-19",
         "openfootball": null,
-        "openfootball_utc_offset": null
+        "openfootball_utc_offset": null,
+        "wikipedia": "21:00",
+        "wikipedia_date": "1998-06-19"
       },
-      "selected_local_time": "20:00",
-      "status": "conflict",
+      "selected_local_time": "21:00",
+      "status": "resolved",
+      "resolution": {
+        "time": "21:00",
+        "selected_source": "FIFA/Wikipedia scheduled kickoff",
+        "evidence": "France observed CEST (UTC+2); the scheduled French local time is used rather than RSSSF's mostly UK-time values.",
+        "rejected_value": "RSSSF reports 20:00."
+      },
       "date_mismatch": false,
       "fifa_match_id": "8748",
       "fifa_match_number": 24
@@ -445,10 +621,18 @@
         "fifa_archive": "21:00",
         "fifa_archive_date": "1998-06-24",
         "openfootball": null,
-        "openfootball_utc_offset": null
+        "openfootball_utc_offset": null,
+        "wikipedia": "21:00",
+        "wikipedia_date": "1998-06-24"
       },
-      "selected_local_time": "20:00",
-      "status": "conflict",
+      "selected_local_time": "21:00",
+      "status": "resolved",
+      "resolution": {
+        "time": "21:00",
+        "selected_source": "FIFA/Wikipedia scheduled kickoff",
+        "evidence": "France observed CEST (UTC+2); the scheduled French local time is used rather than RSSSF's mostly UK-time values.",
+        "rejected_value": "RSSSF reports 20:00."
+      },
       "date_mismatch": false,
       "fifa_match_id": "8761",
       "fifa_match_number": 37
@@ -464,10 +648,18 @@
         "fifa_archive": "21:00",
         "fifa_archive_date": "1998-06-24",
         "openfootball": null,
-        "openfootball_utc_offset": null
+        "openfootball_utc_offset": null,
+        "wikipedia": "21:00",
+        "wikipedia_date": "1998-06-24"
       },
-      "selected_local_time": "20:00",
-      "status": "conflict",
+      "selected_local_time": "21:00",
+      "status": "resolved",
+      "resolution": {
+        "time": "21:00",
+        "selected_source": "FIFA/Wikipedia scheduled kickoff",
+        "evidence": "France observed CEST (UTC+2); the scheduled French local time is used rather than RSSSF's mostly UK-time values.",
+        "rejected_value": "RSSSF reports 20:00."
+      },
       "date_mismatch": false,
       "fifa_match_id": "8763",
       "fifa_match_number": 39
@@ -483,10 +675,18 @@
         "fifa_archive": "21:00",
         "fifa_archive_date": "1998-06-13",
         "openfootball": null,
-        "openfootball_utc_offset": null
+        "openfootball_utc_offset": null,
+        "wikipedia": "21:00",
+        "wikipedia_date": "1998-06-13"
       },
-      "selected_local_time": "20:30",
-      "status": "conflict",
+      "selected_local_time": "21:00",
+      "status": "resolved",
+      "resolution": {
+        "time": "21:00",
+        "selected_source": "FIFA/Wikipedia scheduled kickoff",
+        "evidence": "France observed CEST (UTC+2); the scheduled French local time is used rather than RSSSF's mostly UK-time values.",
+        "rejected_value": "RSSSF reports 20:30."
+      },
       "date_mismatch": false,
       "fifa_match_id": "8733",
       "fifa_match_number": 8
@@ -502,10 +702,18 @@
         "fifa_archive": "17:30",
         "fifa_archive_date": "1998-06-13",
         "openfootball": null,
-        "openfootball_utc_offset": null
+        "openfootball_utc_offset": null,
+        "wikipedia": "17:30",
+        "wikipedia_date": "1998-06-13"
       },
-      "selected_local_time": "16:30",
-      "status": "conflict",
+      "selected_local_time": "17:30",
+      "status": "resolved",
+      "resolution": {
+        "time": "17:30",
+        "selected_source": "FIFA/Wikipedia scheduled kickoff",
+        "evidence": "France observed CEST (UTC+2); the scheduled French local time is used rather than RSSSF's mostly UK-time values.",
+        "rejected_value": "RSSSF reports 16:30."
+      },
       "date_mismatch": false,
       "fifa_match_id": "8732",
       "fifa_match_number": 9
@@ -521,10 +729,18 @@
         "fifa_archive": "21:00",
         "fifa_archive_date": "1998-06-20",
         "openfootball": null,
-        "openfootball_utc_offset": null
+        "openfootball_utc_offset": null,
+        "wikipedia": "21:00",
+        "wikipedia_date": "1998-06-20"
       },
-      "selected_local_time": "20:00",
-      "status": "conflict",
+      "selected_local_time": "21:00",
+      "status": "resolved",
+      "resolution": {
+        "time": "21:00",
+        "selected_source": "FIFA/Wikipedia scheduled kickoff",
+        "evidence": "France observed CEST (UTC+2); the scheduled French local time is used rather than RSSSF's mostly UK-time values.",
+        "rejected_value": "RSSSF reports 20:00."
+      },
       "date_mismatch": false,
       "fifa_match_id": "8749",
       "fifa_match_number": 25
@@ -540,10 +756,18 @@
         "fifa_archive": "17:30",
         "fifa_archive_date": "1998-06-20",
         "openfootball": null,
-        "openfootball_utc_offset": null
+        "openfootball_utc_offset": null,
+        "wikipedia": "17:30",
+        "wikipedia_date": "1998-06-20"
       },
-      "selected_local_time": "16:30",
-      "status": "conflict",
+      "selected_local_time": "17:30",
+      "status": "resolved",
+      "resolution": {
+        "time": "17:30",
+        "selected_source": "FIFA/Wikipedia scheduled kickoff",
+        "evidence": "France observed CEST (UTC+2); the scheduled French local time is used rather than RSSSF's mostly UK-time values.",
+        "rejected_value": "RSSSF reports 16:30."
+      },
       "date_mismatch": false,
       "fifa_match_id": "8750",
       "fifa_match_number": 26
@@ -559,10 +783,18 @@
         "fifa_archive": "16:00",
         "fifa_archive_date": "1998-06-25",
         "openfootball": null,
-        "openfootball_utc_offset": null
+        "openfootball_utc_offset": null,
+        "wikipedia": "16:00",
+        "wikipedia_date": "1998-06-25"
       },
-      "selected_local_time": "15:00",
-      "status": "conflict",
+      "selected_local_time": "16:00",
+      "status": "resolved",
+      "resolution": {
+        "time": "16:00",
+        "selected_source": "FIFA/Wikipedia scheduled kickoff",
+        "evidence": "France observed CEST (UTC+2); the scheduled French local time is used rather than RSSSF's mostly UK-time values.",
+        "rejected_value": "RSSSF reports 15:00."
+      },
       "date_mismatch": false,
       "fifa_match_id": "8765",
       "fifa_match_number": 41
@@ -578,10 +810,18 @@
         "fifa_archive": "16:00",
         "fifa_archive_date": "1998-06-25",
         "openfootball": null,
-        "openfootball_utc_offset": null
+        "openfootball_utc_offset": null,
+        "wikipedia": "16:00",
+        "wikipedia_date": "1998-06-25"
       },
-      "selected_local_time": "15:00",
-      "status": "conflict",
+      "selected_local_time": "16:00",
+      "status": "resolved",
+      "resolution": {
+        "time": "16:00",
+        "selected_source": "FIFA/Wikipedia scheduled kickoff",
+        "evidence": "France observed CEST (UTC+2); the scheduled French local time is used rather than RSSSF's mostly UK-time values.",
+        "rejected_value": "RSSSF reports 15:00."
+      },
       "date_mismatch": false,
       "fifa_match_id": "8766",
       "fifa_match_number": 42
@@ -597,10 +837,18 @@
         "fifa_archive": "17:30",
         "fifa_archive_date": "1998-06-14",
         "openfootball": null,
-        "openfootball_utc_offset": null
+        "openfootball_utc_offset": null,
+        "wikipedia": "17:30",
+        "wikipedia_date": "1998-06-14"
       },
-      "selected_local_time": "13:30",
-      "status": "conflict",
+      "selected_local_time": "17:30",
+      "status": "resolved",
+      "resolution": {
+        "time": "17:30",
+        "selected_source": "FIFA/Wikipedia scheduled kickoff",
+        "evidence": "France observed CEST (UTC+2); the scheduled French local time is used rather than RSSSF's mostly UK-time values.",
+        "rejected_value": "RSSSF reports 13:30."
+      },
       "date_mismatch": false,
       "fifa_match_id": "8735",
       "fifa_match_number": 12
@@ -616,10 +864,18 @@
         "fifa_archive": "21:00",
         "fifa_archive_date": "1998-06-15",
         "openfootball": null,
-        "openfootball_utc_offset": null
+        "openfootball_utc_offset": null,
+        "wikipedia": "21:00",
+        "wikipedia_date": "1998-06-15"
       },
-      "selected_local_time": "20:00",
-      "status": "conflict",
+      "selected_local_time": "21:00",
+      "status": "resolved",
+      "resolution": {
+        "time": "21:00",
+        "selected_source": "FIFA/Wikipedia scheduled kickoff",
+        "evidence": "France observed CEST (UTC+2); the scheduled French local time is used rather than RSSSF's mostly UK-time values.",
+        "rejected_value": "RSSSF reports 20:00."
+      },
       "date_mismatch": false,
       "fifa_match_id": "8738",
       "fifa_match_number": 14
@@ -635,10 +891,18 @@
         "fifa_archive": "14:30",
         "fifa_archive_date": "1998-06-21",
         "openfootball": null,
-        "openfootball_utc_offset": null
+        "openfootball_utc_offset": null,
+        "wikipedia": "14:30",
+        "wikipedia_date": "1998-06-21"
       },
-      "selected_local_time": "13:30",
-      "status": "conflict",
+      "selected_local_time": "14:30",
+      "status": "resolved",
+      "resolution": {
+        "time": "14:30",
+        "selected_source": "FIFA/Wikipedia scheduled kickoff",
+        "evidence": "France observed CEST (UTC+2); the scheduled French local time is used rather than RSSSF's mostly UK-time values.",
+        "rejected_value": "RSSSF reports 13:30."
+      },
       "date_mismatch": false,
       "fifa_match_id": "8753",
       "fifa_match_number": 29
@@ -654,10 +918,18 @@
         "fifa_archive": "21:00",
         "fifa_archive_date": "1998-06-21",
         "openfootball": null,
-        "openfootball_utc_offset": null
+        "openfootball_utc_offset": null,
+        "wikipedia": "21:00",
+        "wikipedia_date": "1998-06-21"
       },
-      "selected_local_time": "20:00",
-      "status": "conflict",
+      "selected_local_time": "21:00",
+      "status": "resolved",
+      "resolution": {
+        "time": "21:00",
+        "selected_source": "FIFA/Wikipedia scheduled kickoff",
+        "evidence": "France observed CEST (UTC+2); the scheduled French local time is used rather than RSSSF's mostly UK-time values.",
+        "rejected_value": "RSSSF reports 20:00."
+      },
       "date_mismatch": false,
       "fifa_match_id": "8754",
       "fifa_match_number": 30
@@ -673,10 +945,18 @@
         "fifa_archive": "21:00",
         "fifa_archive_date": "1998-06-25",
         "openfootball": null,
-        "openfootball_utc_offset": null
+        "openfootball_utc_offset": null,
+        "wikipedia": "21:00",
+        "wikipedia_date": "1998-06-25"
       },
-      "selected_local_time": "20:00",
-      "status": "conflict",
+      "selected_local_time": "21:00",
+      "status": "resolved",
+      "resolution": {
+        "time": "21:00",
+        "selected_source": "FIFA/Wikipedia scheduled kickoff",
+        "evidence": "France observed CEST (UTC+2); the scheduled French local time is used rather than RSSSF's mostly UK-time values.",
+        "rejected_value": "RSSSF reports 20:00."
+      },
       "date_mismatch": false,
       "fifa_match_id": "8767",
       "fifa_match_number": 43
@@ -692,10 +972,18 @@
         "fifa_archive": "21:00",
         "fifa_archive_date": "1998-06-25",
         "openfootball": null,
-        "openfootball_utc_offset": null
+        "openfootball_utc_offset": null,
+        "wikipedia": "21:00",
+        "wikipedia_date": "1998-06-25"
       },
-      "selected_local_time": "20:00",
-      "status": "conflict",
+      "selected_local_time": "21:00",
+      "status": "resolved",
+      "resolution": {
+        "time": "21:00",
+        "selected_source": "FIFA/Wikipedia scheduled kickoff",
+        "evidence": "France observed CEST (UTC+2); the scheduled French local time is used rather than RSSSF's mostly UK-time values.",
+        "rejected_value": "RSSSF reports 20:00."
+      },
       "date_mismatch": false,
       "fifa_match_id": "8768",
       "fifa_match_number": 44
@@ -711,10 +999,18 @@
         "fifa_archive": "17:30",
         "fifa_archive_date": "1998-06-15",
         "openfootball": null,
-        "openfootball_utc_offset": null
+        "openfootball_utc_offset": null,
+        "wikipedia": "17:30",
+        "wikipedia_date": "1998-06-15"
       },
-      "selected_local_time": "16:30",
-      "status": "conflict",
+      "selected_local_time": "17:30",
+      "status": "resolved",
+      "resolution": {
+        "time": "17:30",
+        "selected_source": "FIFA/Wikipedia scheduled kickoff",
+        "evidence": "France observed CEST (UTC+2); the scheduled French local time is used rather than RSSSF's mostly UK-time values.",
+        "rejected_value": "RSSSF reports 16:30."
+      },
       "date_mismatch": false,
       "fifa_match_id": "8739",
       "fifa_match_number": 15
@@ -730,10 +1026,18 @@
         "fifa_archive": "14:30",
         "fifa_archive_date": "1998-06-15",
         "openfootball": null,
-        "openfootball_utc_offset": null
+        "openfootball_utc_offset": null,
+        "wikipedia": "14:30",
+        "wikipedia_date": "1998-06-15"
       },
-      "selected_local_time": "13:30",
-      "status": "conflict",
+      "selected_local_time": "14:30",
+      "status": "resolved",
+      "resolution": {
+        "time": "14:30",
+        "selected_source": "FIFA/Wikipedia scheduled kickoff",
+        "evidence": "France observed CEST (UTC+2); the scheduled French local time is used rather than RSSSF's mostly UK-time values.",
+        "rejected_value": "RSSSF reports 13:30."
+      },
       "date_mismatch": false,
       "fifa_match_id": "8740",
       "fifa_match_number": 16
@@ -749,10 +1053,18 @@
         "fifa_archive": "17:30",
         "fifa_archive_date": "1998-06-22",
         "openfootball": null,
-        "openfootball_utc_offset": null
+        "openfootball_utc_offset": null,
+        "wikipedia": "17:30",
+        "wikipedia_date": "1998-06-22"
       },
-      "selected_local_time": "16:30",
-      "status": "conflict",
+      "selected_local_time": "17:30",
+      "status": "resolved",
+      "resolution": {
+        "time": "17:30",
+        "selected_source": "FIFA/Wikipedia scheduled kickoff",
+        "evidence": "France observed CEST (UTC+2); the scheduled French local time is used rather than RSSSF's mostly UK-time values.",
+        "rejected_value": "RSSSF reports 16:30."
+      },
       "date_mismatch": false,
       "fifa_match_id": "8755",
       "fifa_match_number": 31
@@ -768,10 +1080,18 @@
         "fifa_archive": "21:00",
         "fifa_archive_date": "1998-06-22",
         "openfootball": null,
-        "openfootball_utc_offset": null
+        "openfootball_utc_offset": null,
+        "wikipedia": "21:00",
+        "wikipedia_date": "1998-06-22"
       },
-      "selected_local_time": "20:00",
-      "status": "conflict",
+      "selected_local_time": "21:00",
+      "status": "resolved",
+      "resolution": {
+        "time": "21:00",
+        "selected_source": "FIFA/Wikipedia scheduled kickoff",
+        "evidence": "France observed CEST (UTC+2); the scheduled French local time is used rather than RSSSF's mostly UK-time values.",
+        "rejected_value": "RSSSF reports 20:00."
+      },
       "date_mismatch": false,
       "fifa_match_id": "8756",
       "fifa_match_number": 32
@@ -787,10 +1107,18 @@
         "fifa_archive": "21:00",
         "fifa_archive_date": "1998-06-26",
         "openfootball": null,
-        "openfootball_utc_offset": null
+        "openfootball_utc_offset": null,
+        "wikipedia": "21:00",
+        "wikipedia_date": "1998-06-26"
       },
-      "selected_local_time": "20:00",
-      "status": "conflict",
+      "selected_local_time": "21:00",
+      "status": "resolved",
+      "resolution": {
+        "time": "21:00",
+        "selected_source": "FIFA/Wikipedia scheduled kickoff",
+        "evidence": "France observed CEST (UTC+2); the scheduled French local time is used rather than RSSSF's mostly UK-time values.",
+        "rejected_value": "RSSSF reports 20:00."
+      },
       "date_mismatch": false,
       "fifa_match_id": "8769",
       "fifa_match_number": 45
@@ -806,10 +1134,18 @@
         "fifa_archive": "21:00",
         "fifa_archive_date": "1998-06-26",
         "openfootball": null,
-        "openfootball_utc_offset": null
+        "openfootball_utc_offset": null,
+        "wikipedia": "21:00",
+        "wikipedia_date": "1998-06-26"
       },
-      "selected_local_time": "20:00",
-      "status": "conflict",
+      "selected_local_time": "21:00",
+      "status": "resolved",
+      "resolution": {
+        "time": "21:00",
+        "selected_source": "FIFA/Wikipedia scheduled kickoff",
+        "evidence": "France observed CEST (UTC+2); the scheduled French local time is used rather than RSSSF's mostly UK-time values.",
+        "rejected_value": "RSSSF reports 20:00."
+      },
       "date_mismatch": false,
       "fifa_match_id": "8770",
       "fifa_match_number": 46
@@ -825,10 +1161,18 @@
         "fifa_archive": "21:00",
         "fifa_archive_date": "1998-06-14",
         "openfootball": null,
-        "openfootball_utc_offset": null
+        "openfootball_utc_offset": null,
+        "wikipedia": "21:00",
+        "wikipedia_date": "1998-06-14"
       },
-      "selected_local_time": "20:00",
-      "status": "conflict",
+      "selected_local_time": "21:00",
+      "status": "resolved",
+      "resolution": {
+        "time": "21:00",
+        "selected_source": "FIFA/Wikipedia scheduled kickoff",
+        "evidence": "France observed CEST (UTC+2); the scheduled French local time is used rather than RSSSF's mostly UK-time values.",
+        "rejected_value": "RSSSF reports 20:00."
+      },
       "date_mismatch": false,
       "fifa_match_id": "8736",
       "fifa_match_number": 11
@@ -844,10 +1188,18 @@
         "fifa_archive": "14:30",
         "fifa_archive_date": "1998-06-14",
         "openfootball": null,
-        "openfootball_utc_offset": null
+        "openfootball_utc_offset": null,
+        "wikipedia": "14:30",
+        "wikipedia_date": "1998-06-14"
       },
-      "selected_local_time": "13:30",
-      "status": "conflict",
+      "selected_local_time": "14:30",
+      "status": "resolved",
+      "resolution": {
+        "time": "14:30",
+        "selected_source": "FIFA/Wikipedia scheduled kickoff",
+        "evidence": "France observed CEST (UTC+2); the scheduled French local time is used rather than RSSSF's mostly UK-time values.",
+        "rejected_value": "RSSSF reports 13:30."
+      },
       "date_mismatch": false,
       "fifa_match_id": "8734",
       "fifa_match_number": 13
@@ -863,10 +1215,18 @@
         "fifa_archive": "14:30",
         "fifa_archive_date": "1998-06-20",
         "openfootball": null,
-        "openfootball_utc_offset": null
+        "openfootball_utc_offset": null,
+        "wikipedia": "14:30",
+        "wikipedia_date": "1998-06-20"
       },
-      "selected_local_time": "13:30",
-      "status": "conflict",
+      "selected_local_time": "14:30",
+      "status": "resolved",
+      "resolution": {
+        "time": "14:30",
+        "selected_source": "FIFA/Wikipedia scheduled kickoff",
+        "evidence": "France observed CEST (UTC+2); the scheduled French local time is used rather than RSSSF's mostly UK-time values.",
+        "rejected_value": "RSSSF reports 13:30."
+      },
       "date_mismatch": false,
       "fifa_match_id": "8751",
       "fifa_match_number": 27
@@ -882,10 +1242,18 @@
         "fifa_archive": "17:30",
         "fifa_archive_date": "1998-06-21",
         "openfootball": null,
-        "openfootball_utc_offset": null
+        "openfootball_utc_offset": null,
+        "wikipedia": "17:30",
+        "wikipedia_date": "1998-06-21"
       },
-      "selected_local_time": "16:30",
-      "status": "conflict",
+      "selected_local_time": "17:30",
+      "status": "resolved",
+      "resolution": {
+        "time": "17:30",
+        "selected_source": "FIFA/Wikipedia scheduled kickoff",
+        "evidence": "France observed CEST (UTC+2); the scheduled French local time is used rather than RSSSF's mostly UK-time values.",
+        "rejected_value": "RSSSF reports 16:30."
+      },
       "date_mismatch": false,
       "fifa_match_id": "8752",
       "fifa_match_number": 28
@@ -901,10 +1269,18 @@
         "fifa_archive": "16:00",
         "fifa_archive_date": "1998-06-26",
         "openfootball": null,
-        "openfootball_utc_offset": null
+        "openfootball_utc_offset": null,
+        "wikipedia": "16:00",
+        "wikipedia_date": "1998-06-26"
       },
-      "selected_local_time": "15:00",
-      "status": "conflict",
+      "selected_local_time": "16:00",
+      "status": "resolved",
+      "resolution": {
+        "time": "16:00",
+        "selected_source": "FIFA/Wikipedia scheduled kickoff",
+        "evidence": "France observed CEST (UTC+2); the scheduled French local time is used rather than RSSSF's mostly UK-time values.",
+        "rejected_value": "RSSSF reports 15:00."
+      },
       "date_mismatch": false,
       "fifa_match_id": "8771",
       "fifa_match_number": 47
@@ -920,10 +1296,18 @@
         "fifa_archive": "16:00",
         "fifa_archive_date": "1998-06-26",
         "openfootball": null,
-        "openfootball_utc_offset": null
+        "openfootball_utc_offset": null,
+        "wikipedia": "16:00",
+        "wikipedia_date": "1998-06-26"
       },
       "selected_local_time": "16:00",
-      "status": "corroborated",
+      "status": "resolved",
+      "resolution": {
+        "time": "16:00",
+        "selected_source": "FIFA/Wikipedia scheduled kickoff",
+        "evidence": "France observed CEST (UTC+2); the scheduled French local time is used rather than RSSSF's mostly UK-time values.",
+        "rejected_value": "RSSSF reports 16:00."
+      },
       "date_mismatch": false,
       "fifa_match_id": "8772",
       "fifa_match_number": 48
@@ -939,10 +1323,18 @@
         "fifa_archive": "21:00",
         "fifa_archive_date": "1998-06-27",
         "openfootball": null,
-        "openfootball_utc_offset": null
+        "openfootball_utc_offset": null,
+        "wikipedia": "21:00",
+        "wikipedia_date": "1998-06-27"
       },
-      "selected_local_time": "20:00",
-      "status": "conflict",
+      "selected_local_time": "21:00",
+      "status": "resolved",
+      "resolution": {
+        "time": "21:00",
+        "selected_source": "FIFA/Wikipedia scheduled kickoff",
+        "evidence": "France observed CEST (UTC+2); the scheduled French local time is used rather than RSSSF's mostly UK-time values.",
+        "rejected_value": "RSSSF reports 20:00."
+      },
       "date_mismatch": false,
       "fifa_match_id": "8773",
       "fifa_match_number": 49
@@ -958,10 +1350,18 @@
         "fifa_archive": "16:30",
         "fifa_archive_date": "1998-06-27",
         "openfootball": null,
-        "openfootball_utc_offset": null
+        "openfootball_utc_offset": null,
+        "wikipedia": "16:30",
+        "wikipedia_date": "1998-06-27"
       },
-      "selected_local_time": "15:30",
-      "status": "conflict",
+      "selected_local_time": "16:30",
+      "status": "resolved",
+      "resolution": {
+        "time": "16:30",
+        "selected_source": "FIFA/Wikipedia scheduled kickoff",
+        "evidence": "France observed CEST (UTC+2); the scheduled French local time is used rather than RSSSF's mostly UK-time values.",
+        "rejected_value": "RSSSF reports 15:30."
+      },
       "date_mismatch": false,
       "fifa_match_id": "8774",
       "fifa_match_number": 50
@@ -977,10 +1377,18 @@
         "fifa_archive": "21:00",
         "fifa_archive_date": "1998-06-28",
         "openfootball": null,
-        "openfootball_utc_offset": null
+        "openfootball_utc_offset": null,
+        "wikipedia": "21:00",
+        "wikipedia_date": "1998-06-28"
       },
-      "selected_local_time": "20:00",
-      "status": "conflict",
+      "selected_local_time": "21:00",
+      "status": "resolved",
+      "resolution": {
+        "time": "21:00",
+        "selected_source": "FIFA/Wikipedia scheduled kickoff",
+        "evidence": "France observed CEST (UTC+2); the scheduled French local time is used rather than RSSSF's mostly UK-time values.",
+        "rejected_value": "RSSSF reports 20:00."
+      },
       "date_mismatch": false,
       "fifa_match_id": "8775",
       "fifa_match_number": 51
@@ -996,10 +1404,18 @@
         "fifa_archive": "16:30",
         "fifa_archive_date": "1998-06-28",
         "openfootball": null,
-        "openfootball_utc_offset": null
+        "openfootball_utc_offset": null,
+        "wikipedia": "16:30",
+        "wikipedia_date": "1998-06-28"
       },
-      "selected_local_time": "15:30",
-      "status": "conflict",
+      "selected_local_time": "16:30",
+      "status": "resolved",
+      "resolution": {
+        "time": "16:30",
+        "selected_source": "FIFA/Wikipedia scheduled kickoff",
+        "evidence": "France observed CEST (UTC+2); the scheduled French local time is used rather than RSSSF's mostly UK-time values.",
+        "rejected_value": "RSSSF reports 15:30."
+      },
       "date_mismatch": false,
       "fifa_match_id": "8776",
       "fifa_match_number": 52
@@ -1015,10 +1431,18 @@
         "fifa_archive": "16:30",
         "fifa_archive_date": "1998-06-29",
         "openfootball": null,
-        "openfootball_utc_offset": null
+        "openfootball_utc_offset": null,
+        "wikipedia": "16:30",
+        "wikipedia_date": "1998-06-29"
       },
-      "selected_local_time": "15:30",
-      "status": "conflict",
+      "selected_local_time": "16:30",
+      "status": "resolved",
+      "resolution": {
+        "time": "16:30",
+        "selected_source": "FIFA/Wikipedia scheduled kickoff",
+        "evidence": "France observed CEST (UTC+2); the scheduled French local time is used rather than RSSSF's mostly UK-time values.",
+        "rejected_value": "RSSSF reports 15:30."
+      },
       "date_mismatch": false,
       "fifa_match_id": "8777",
       "fifa_match_number": 53
@@ -1034,10 +1458,18 @@
         "fifa_archive": "21:00",
         "fifa_archive_date": "1998-06-29",
         "openfootball": null,
-        "openfootball_utc_offset": null
+        "openfootball_utc_offset": null,
+        "wikipedia": "21:00",
+        "wikipedia_date": "1998-06-29"
       },
-      "selected_local_time": "20:00",
-      "status": "conflict",
+      "selected_local_time": "21:00",
+      "status": "resolved",
+      "resolution": {
+        "time": "21:00",
+        "selected_source": "FIFA/Wikipedia scheduled kickoff",
+        "evidence": "France observed CEST (UTC+2); the scheduled French local time is used rather than RSSSF's mostly UK-time values.",
+        "rejected_value": "RSSSF reports 20:00."
+      },
       "date_mismatch": false,
       "fifa_match_id": "8778",
       "fifa_match_number": 54
@@ -1053,10 +1485,18 @@
         "fifa_archive": "21:00",
         "fifa_archive_date": "1998-06-30",
         "openfootball": null,
-        "openfootball_utc_offset": null
+        "openfootball_utc_offset": null,
+        "wikipedia": "21:00",
+        "wikipedia_date": "1998-06-30"
       },
-      "selected_local_time": "20:00",
-      "status": "conflict",
+      "selected_local_time": "21:00",
+      "status": "resolved",
+      "resolution": {
+        "time": "21:00",
+        "selected_source": "FIFA/Wikipedia scheduled kickoff",
+        "evidence": "France observed CEST (UTC+2); the scheduled French local time is used rather than RSSSF's mostly UK-time values.",
+        "rejected_value": "RSSSF reports 20:00."
+      },
       "date_mismatch": false,
       "fifa_match_id": "8779",
       "fifa_match_number": 55
@@ -1072,10 +1512,18 @@
         "fifa_archive": "16:30",
         "fifa_archive_date": "1998-06-30",
         "openfootball": null,
-        "openfootball_utc_offset": null
+        "openfootball_utc_offset": null,
+        "wikipedia": "16:30",
+        "wikipedia_date": "1998-06-30"
       },
-      "selected_local_time": "15:30",
-      "status": "conflict",
+      "selected_local_time": "16:30",
+      "status": "resolved",
+      "resolution": {
+        "time": "16:30",
+        "selected_source": "FIFA/Wikipedia scheduled kickoff",
+        "evidence": "France observed CEST (UTC+2); the scheduled French local time is used rather than RSSSF's mostly UK-time values.",
+        "rejected_value": "RSSSF reports 15:30."
+      },
       "date_mismatch": false,
       "fifa_match_id": "8780",
       "fifa_match_number": 56
@@ -1091,10 +1539,18 @@
         "fifa_archive": "16:30",
         "fifa_archive_date": "1998-07-03",
         "openfootball": null,
-        "openfootball_utc_offset": null
+        "openfootball_utc_offset": null,
+        "wikipedia": "16:30",
+        "wikipedia_date": "1998-07-03"
       },
-      "selected_local_time": "15:30",
-      "status": "conflict",
+      "selected_local_time": "16:30",
+      "status": "resolved",
+      "resolution": {
+        "time": "16:30",
+        "selected_source": "FIFA/Wikipedia scheduled kickoff",
+        "evidence": "France observed CEST (UTC+2); the scheduled French local time is used rather than RSSSF's mostly UK-time values.",
+        "rejected_value": "RSSSF reports 15:30."
+      },
       "date_mismatch": false,
       "fifa_match_id": "8781",
       "fifa_match_number": 57
@@ -1110,10 +1566,18 @@
         "fifa_archive": "21:00",
         "fifa_archive_date": "1998-07-03",
         "openfootball": null,
-        "openfootball_utc_offset": null
+        "openfootball_utc_offset": null,
+        "wikipedia": "21:00",
+        "wikipedia_date": "1998-07-03"
       },
-      "selected_local_time": "20:00",
-      "status": "conflict",
+      "selected_local_time": "21:00",
+      "status": "resolved",
+      "resolution": {
+        "time": "21:00",
+        "selected_source": "FIFA/Wikipedia scheduled kickoff",
+        "evidence": "France observed CEST (UTC+2); the scheduled French local time is used rather than RSSSF's mostly UK-time values.",
+        "rejected_value": "RSSSF reports 20:00."
+      },
       "date_mismatch": false,
       "fifa_match_id": "8782",
       "fifa_match_number": 58
@@ -1129,10 +1593,18 @@
         "fifa_archive": "21:00",
         "fifa_archive_date": "1998-07-04",
         "openfootball": null,
-        "openfootball_utc_offset": null
+        "openfootball_utc_offset": null,
+        "wikipedia": "21:00",
+        "wikipedia_date": "1998-07-04"
       },
-      "selected_local_time": "20:00",
-      "status": "conflict",
+      "selected_local_time": "21:00",
+      "status": "resolved",
+      "resolution": {
+        "time": "21:00",
+        "selected_source": "FIFA/Wikipedia scheduled kickoff",
+        "evidence": "France observed CEST (UTC+2); the scheduled French local time is used rather than RSSSF's mostly UK-time values.",
+        "rejected_value": "RSSSF reports 20:00."
+      },
       "date_mismatch": false,
       "fifa_match_id": "8783",
       "fifa_match_number": 59
@@ -1148,10 +1620,18 @@
         "fifa_archive": "16:30",
         "fifa_archive_date": "1998-07-04",
         "openfootball": null,
-        "openfootball_utc_offset": null
+        "openfootball_utc_offset": null,
+        "wikipedia": "16:30",
+        "wikipedia_date": "1998-07-04"
       },
-      "selected_local_time": "20:00",
-      "status": "conflict",
+      "selected_local_time": "16:30",
+      "status": "resolved",
+      "resolution": {
+        "time": "16:30",
+        "selected_source": "FIFA/Wikipedia scheduled kickoff",
+        "evidence": "France observed CEST (UTC+2); the scheduled French local time is used rather than RSSSF's mostly UK-time values.",
+        "rejected_value": "RSSSF reports 20:00."
+      },
       "date_mismatch": false,
       "fifa_match_id": "8784",
       "fifa_match_number": 60
@@ -1167,10 +1647,18 @@
         "fifa_archive": "21:00",
         "fifa_archive_date": "1998-07-07",
         "openfootball": null,
-        "openfootball_utc_offset": null
+        "openfootball_utc_offset": null,
+        "wikipedia": "21:00",
+        "wikipedia_date": "1998-07-07"
       },
-      "selected_local_time": "20:00",
-      "status": "conflict",
+      "selected_local_time": "21:00",
+      "status": "resolved",
+      "resolution": {
+        "time": "21:00",
+        "selected_source": "FIFA/Wikipedia scheduled kickoff",
+        "evidence": "France observed CEST (UTC+2); the scheduled French local time is used rather than RSSSF's mostly UK-time values.",
+        "rejected_value": "RSSSF reports 20:00."
+      },
       "date_mismatch": false,
       "fifa_match_id": "8785",
       "fifa_match_number": 61
@@ -1186,10 +1674,18 @@
         "fifa_archive": "21:00",
         "fifa_archive_date": "1998-07-08",
         "openfootball": null,
-        "openfootball_utc_offset": null
+        "openfootball_utc_offset": null,
+        "wikipedia": "21:00",
+        "wikipedia_date": "1998-07-08"
       },
-      "selected_local_time": "20:00",
-      "status": "conflict",
+      "selected_local_time": "21:00",
+      "status": "resolved",
+      "resolution": {
+        "time": "21:00",
+        "selected_source": "FIFA/Wikipedia scheduled kickoff",
+        "evidence": "France observed CEST (UTC+2); the scheduled French local time is used rather than RSSSF's mostly UK-time values.",
+        "rejected_value": "RSSSF reports 20:00."
+      },
       "date_mismatch": false,
       "fifa_match_id": "8786",
       "fifa_match_number": 62
@@ -1205,10 +1701,18 @@
         "fifa_archive": "21:00",
         "fifa_archive_date": "1998-07-11",
         "openfootball": null,
-        "openfootball_utc_offset": null
+        "openfootball_utc_offset": null,
+        "wikipedia": "21:00",
+        "wikipedia_date": "1998-07-11"
       },
-      "selected_local_time": "20:00",
-      "status": "conflict",
+      "selected_local_time": "21:00",
+      "status": "resolved",
+      "resolution": {
+        "time": "21:00",
+        "selected_source": "FIFA/Wikipedia scheduled kickoff",
+        "evidence": "France observed CEST (UTC+2); the scheduled French local time is used rather than RSSSF's mostly UK-time values.",
+        "rejected_value": "RSSSF reports 20:00."
+      },
       "date_mismatch": false,
       "fifa_match_id": "8787",
       "fifa_match_number": 63
@@ -1224,10 +1728,18 @@
         "fifa_archive": "21:00",
         "fifa_archive_date": "1998-07-12",
         "openfootball": null,
-        "openfootball_utc_offset": null
+        "openfootball_utc_offset": null,
+        "wikipedia": "21:00",
+        "wikipedia_date": "1998-07-12"
       },
-      "selected_local_time": "20:00",
-      "status": "conflict",
+      "selected_local_time": "21:00",
+      "status": "resolved",
+      "resolution": {
+        "time": "21:00",
+        "selected_source": "FIFA/Wikipedia scheduled kickoff",
+        "evidence": "France observed CEST (UTC+2); the scheduled French local time is used rather than RSSSF's mostly UK-time values.",
+        "rejected_value": "RSSSF reports 20:00."
+      },
       "date_mismatch": false,
       "fifa_match_id": "8788",
       "fifa_match_number": 64

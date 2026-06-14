@@ -8,6 +8,7 @@ import time
 from collections import Counter
 from pathlib import Path
 from urllib.error import HTTPError
+from urllib.parse import urlencode
 from urllib.request import Request, urlopen
 
 from common import ROOT, load_json, normalize_name, write_json
@@ -32,6 +33,20 @@ FIFA_ARCHIVE_URL = (
     "https://web.archive.org/web/20221003182345id_/"
     "https://www.fifa.com/en/tournaments/mens/worldcup/{slug}/match-center"
 )
+WIKIPEDIA_API = "https://en.wikipedia.org/w/api.php"
+WIKIPEDIA_SCHEDULE_PAGES = {
+    1994: [
+        *(f"1994 FIFA World Cup Group {group}" for group in "ABCDEF"),
+        "1994 FIFA World Cup knockout stage",
+        "1994 FIFA World Cup final",
+    ],
+    1998: [
+        *(f"1998 FIFA World Cup Group {group}" for group in "ABCDEFGH"),
+        "1998 FIFA World Cup knockout stage",
+        "United States v Iran (1998 FIFA World Cup)",
+        "1998 FIFA World Cup final",
+    ],
+}
 
 
 def fetch_text(url: str) -> str:
@@ -136,6 +151,8 @@ TEAM_IDENTITY_ALIASES = {
     normalize_name("Cote d'Ivoire"): normalize_name("Ivory Coast"),
     normalize_name("Czechia"): normalize_name("Czech Republic"),
     normalize_name("Korea Republic"): normalize_name("South Korea"),
+    normalize_name("FR Yugoslavia"): normalize_name("Yugoslavia"),
+    normalize_name("IR Iran"): normalize_name("Iran"),
 }
 
 
@@ -149,6 +166,18 @@ def identity(date: str, team1: str, team2: str) -> tuple[str, frozenset[str]]:
 
 
 AUDIT_RESOLUTIONS = {
+    identity("1954-06-23", "Switzerland", "Italy"): {
+        "time": "18:00",
+        "selected_source": "RSSSF scheduled kickoff",
+        "evidence": "RSSSF records 18:00 and Wikipedia's tournament schedule agrees.",
+        "rejected_value": "The archived FIFA dataset omits this playoff fixture.",
+    },
+    identity("1954-06-26", "Austria", "Switzerland"): {
+        "time": "17:00",
+        "selected_source": "RSSSF scheduled kickoff",
+        "evidence": "RSSSF records 17:00 and Wikipedia's tournament schedule agrees.",
+        "rejected_value": "The archived FIFA dataset omits this quarter-final fixture.",
+    },
     identity("1958-06-11", "Yugoslavia", "France"): {
         "time": "19:00",
         "selected_source": "FIFA/Wikipedia scheduled kickoff",
@@ -275,6 +304,15 @@ AUDIT_RESOLUTIONS = {
             "16:00. Britain and West Germany were both UTC+1 on the match date."
         ),
         "rejected_value": "RSSSF reports 16:30 rather than the scheduled kickoff.",
+    },
+    identity("1970-06-02", "Uruguay", "Israel"): {
+        "time": "16:00",
+        "selected_source": "Scheduled kickoff",
+        "evidence": (
+            "FIFA and Wikipedia record the scheduled 16:00 kickoff. Calendar "
+            "events use scheduled times rather than the exact whistle time."
+        ),
+        "rejected_value": "RSSSF's 16:09 appears to record the actual start.",
     },
     identity("1974-06-15", "Uruguay", "Netherlands"): {
         "time": "16:00",
@@ -406,6 +444,15 @@ AUDIT_RESOLUTIONS = {
         "selected_source": "Official contemporary FIFA tournament guide",
         "evidence": "FIFA's official 1982 match calendar lists the final at 20:00.",
         "rejected_value": "RSSSF omits the kickoff time.",
+    },
+    identity("1986-06-11", "Paraguay", "Belgium"): {
+        "time": "12:00",
+        "selected_source": "FIFA/Wikipedia scheduled kickoff",
+        "evidence": (
+            "FIFA and Wikipedia record 12:00. It matches Mexico-Iraq, the "
+            "simultaneous final Group B fixture played the same day."
+        ),
+        "rejected_value": "RSSSF records the fixture but omits its kickoff time.",
     },
     identity("1990-06-16", "England", "Netherlands"): {
         "time": "21:00",
@@ -550,6 +597,67 @@ def parse_fifa_records(html: str, codes: dict[str, str]) -> dict[tuple[str, froz
     return records
 
 
+def parse_wikipedia_schedule(wikitext: str) -> dict[tuple[str, frozenset[str]], str]:
+    records: dict[tuple[str, frozenset[str]], str] = {}
+    current: dict[str, str] = {}
+    for line in wikitext.splitlines():
+        if line.startswith("|date="):
+            current = {"date": line.removeprefix("|date=")}
+        elif current and line.startswith("|time="):
+            current["time"] = line.removeprefix("|time=")
+        elif current and line.startswith("|report="):
+            report = line.removeprefix("|report=")
+            date_match = re.search(
+                r"\{\{Start date\|(\d{4})\|(\d{1,2})\|(\d{1,2})", current["date"]
+            )
+            time_match = re.search(
+                r"(\d{1,2}):(\d{2})(?:&nbsp;|\s)*(a\.m\.|p\.m\.)?",
+                current.get("time", ""),
+            )
+            title_match = re.search(r"\|title=([^|]+?)\s*\{\{!\}\}", report)
+            if date_match and time_match and title_match:
+                teams = re.split(
+                    r"\s+(?:vs|v)\s+", title_match.group(1).strip(), maxsplit=1
+                )
+                if len(teams) == 2:
+                    hour = int(time_match.group(1))
+                    period = time_match.group(3)
+                    if period == "p.m." and hour < 12:
+                        hour += 12
+                    elif period == "a.m." and hour == 12:
+                        hour = 0
+                    year, month, day = map(int, date_match.groups())
+                    records[
+                        identity(
+                            f"{year:04d}-{month:02d}-{day:02d}", teams[0], teams[1]
+                        )
+                    ] = f"{hour:02d}:{time_match.group(2)}"
+            current = {}
+    return records
+
+
+def wikipedia_schedule(year: int, cache_dir: Path) -> dict[tuple[str, frozenset[str]], str]:
+    records: dict[tuple[str, frozenset[str]], str] = {}
+    for index, title in enumerate(WIKIPEDIA_SCHEDULE_PAGES.get(year, []), start=1):
+        path = cache_dir / f"wikipedia-{index}.txt"
+        if path.exists():
+            text = path.read_text(encoding="utf-8")
+        else:
+            query = urlencode(
+                {
+                    "action": "parse",
+                    "format": "json",
+                    "page": title,
+                    "prop": "wikitext",
+                    "formatversion": 2,
+                }
+            )
+            text = json.loads(fetch_text(f"{WIKIPEDIA_API}?{query}"))["parse"]["wikitext"]
+            path.write_text(text, encoding="utf-8")
+        records.update(parse_wikipedia_schedule(text))
+    return records
+
+
 def source_value(
     records: dict[tuple[str, frozenset[str]], object],
     key: tuple[str, frozenset[str]],
@@ -619,6 +727,8 @@ def audit_year(year: int, cache_dir: Path) -> dict[str, object]:
         fifa_path.write_text(text, encoding="utf-8")
         fifa = parse_fifa_records(text, fifa_team_codes())
 
+    wikipedia = wikipedia_schedule(year, cache_dir)
+
     matches: list[dict[str, object]] = []
     pair_occurrences = Counter(
         identity(match["date"], match["team1"], match["team2"])[1]
@@ -632,6 +742,9 @@ def audit_year(year: int, cache_dir: Path) -> dict[str, object]:
         openfootball_time, openfootball_offset = parse_openfootball_time(match.get("time"))
         rsssf_time, rsssf_date = source_value(rsssf, key, pair_occurrences)
         fifa_item, fifa_date = source_value(fifa, key, pair_occurrences)
+        wikipedia_time, wikipedia_date = source_value(
+            wikipedia, key, pair_occurrences
+        )
         fifa_time = fifa_item.get("time") if isinstance(fifa_item, dict) else None
         status, selected = classify(
             year,
@@ -639,9 +752,31 @@ def audit_year(year: int, cache_dir: Path) -> dict[str, object]:
                 "rsssf": rsssf_time if isinstance(rsssf_time, str) else None,
                 "fifa_archive": fifa_time if isinstance(fifa_time, str) else None,
                 "openfootball": openfootball_time,
+                "wikipedia": (
+                    wikipedia_time if isinstance(wikipedia_time, str) else None
+                ),
             }
         )
         resolution = AUDIT_RESOLUTIONS.get(key)
+        if year in WIKIPEDIA_SCHEDULE_PAGES and isinstance(wikipedia_time, str):
+            resolution = {
+                "time": wikipedia_time,
+                "selected_source": (
+                    "Contemporary LA Times schedule corroborated by Wikipedia"
+                    if year == 1994
+                    else "FIFA/Wikipedia scheduled kickoff"
+                ),
+                "evidence": (
+                    "The venue-local scheduled kickoff is used. RSSSF's 1994 "
+                    "values often record actual starts or inconsistent zones."
+                    if year == 1994
+                    else "France observed CEST (UTC+2); the scheduled French "
+                    "local time is used rather than RSSSF's mostly UK-time values."
+                ),
+                "rejected_value": (
+                    f"RSSSF reports {rsssf_time}." if rsssf_time else "RSSSF omits the time."
+                ),
+            }
         date_resolution = DATE_RESOLUTIONS.get(key)
         if resolution:
             status = "resolved"
@@ -659,6 +794,14 @@ def audit_year(year: int, cache_dir: Path) -> dict[str, object]:
                     "fifa_archive_date": fifa_date,
                     "openfootball": openfootball_time,
                     "openfootball_utc_offset": openfootball_offset,
+                    **(
+                        {
+                            "wikipedia": wikipedia_time,
+                            "wikipedia_date": wikipedia_date,
+                        }
+                        if year in WIKIPEDIA_SCHEDULE_PAGES
+                        else {}
+                    ),
                 },
                 "selected_local_time": selected,
                 "status": status,
@@ -693,6 +836,11 @@ def audit_year(year: int, cache_dir: Path) -> dict[str, object]:
             "openfootball": True,
             "rsssf_full": bool(rsssf),
             "fifa_archive": bool(fifa),
+            **(
+                {"wikipedia_schedule": bool(wikipedia)}
+                if year in WIKIPEDIA_SCHEDULE_PAGES
+                else {}
+            ),
         },
         "match_count": len(matches),
         "status_counts": dict(sorted(counts.items())),

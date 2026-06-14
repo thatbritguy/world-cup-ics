@@ -10,11 +10,11 @@
   "match_count": 52,
   "status_counts": {
     "corroborated": 51,
-    "single-source": 1
+    "resolved": 1
   },
   "existing_calendar_status": null,
   "source_issues_resolved_in_enrichment": false,
-  "requires_review": true,
+  "requires_review": false,
   "matches": [
     {
       "date": "1986-05-31",
@@ -239,7 +239,13 @@
         "openfootball_utc_offset": null
       },
       "selected_local_time": "12:00",
-      "status": "single-source",
+      "status": "resolved",
+      "resolution": {
+        "time": "12:00",
+        "selected_source": "FIFA/Wikipedia scheduled kickoff",
+        "evidence": "FIFA and Wikipedia record 12:00. It matches Mexico-Iraq, the simultaneous final Group B fixture played the same day.",
+        "rejected_value": "RSSSF records the fixture but omits its kickoff time."
+      },
       "date_mismatch": false,
       "fifa_match_id": "429",
       "fifa_match_number": 30

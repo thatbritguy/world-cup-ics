@@ -9,12 +9,12 @@
   },
   "match_count": 32,
   "status_counts": {
-    "conflict": 1,
-    "corroborated": 31
+    "corroborated": 31,
+    "resolved": 1
   },
   "existing_calendar_status": null,
   "source_issues_resolved_in_enrichment": false,
-  "requires_review": true,
+  "requires_review": false,
   "matches": [
     {
       "date": "1970-05-31",
@@ -143,8 +143,14 @@
         "openfootball": null,
         "openfootball_utc_offset": null
       },
-      "selected_local_time": "16:09",
-      "status": "conflict",
+      "selected_local_time": "16:00",
+      "status": "resolved",
+      "resolution": {
+        "time": "16:00",
+        "selected_source": "Scheduled kickoff",
+        "evidence": "FIFA and Wikipedia record the scheduled 16:00 kickoff. Calendar events use scheduled times rather than the exact whistle time.",
+        "rejected_value": "RSSSF's 16:09 appears to record the actual start."
+      },
       "date_mismatch": false,
       "fifa_match_id": "1881",
       "fifa_match_number": 2

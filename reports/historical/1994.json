@@ -5,17 +5,16 @@
   "source_availability": {
     "openfootball": true,
     "rsssf_full": true,
-    "fifa_archive": true
+    "fifa_archive": true,
+    "wikipedia_schedule": true
   },
   "match_count": 52,
   "status_counts": {
-    "conflict": 49,
-    "corroborated": 1,
-    "single-source": 2
+    "resolved": 52
   },
   "existing_calendar_status": null,
   "source_issues_resolved_in_enrichment": false,
-  "requires_review": true,
+  "requires_review": false,
   "matches": [
     {
       "date": "1994-06-18",
@@ -28,10 +27,18 @@
         "fifa_archive": "11:30",
         "fifa_archive_date": "1994-06-18",
         "openfootball": null,
-        "openfootball_utc_offset": null
+        "openfootball_utc_offset": null,
+        "wikipedia": "11:30",
+        "wikipedia_date": "1994-06-18"
       },
-      "selected_local_time": "17:35",
-      "status": "conflict",
+      "selected_local_time": "11:30",
+      "status": "resolved",
+      "resolution": {
+        "time": "11:30",
+        "selected_source": "Contemporary LA Times schedule corroborated by Wikipedia",
+        "evidence": "The venue-local scheduled kickoff is used. RSSSF's 1994 values often record actual starts or inconsistent zones.",
+        "rejected_value": "RSSSF reports 17:35."
+      },
       "date_mismatch": false,
       "fifa_match_id": "3051",
       "fifa_match_number": 3
@@ -47,10 +54,18 @@
         "fifa_archive": "19:30",
         "fifa_archive_date": "1994-06-18",
         "openfootball": null,
-        "openfootball_utc_offset": null
+        "openfootball_utc_offset": null,
+        "wikipedia": "16:30",
+        "wikipedia_date": "1994-06-18"
       },
-      "selected_local_time": "16:35",
-      "status": "conflict",
+      "selected_local_time": "16:30",
+      "status": "resolved",
+      "resolution": {
+        "time": "16:30",
+        "selected_source": "Contemporary LA Times schedule corroborated by Wikipedia",
+        "evidence": "The venue-local scheduled kickoff is used. RSSSF's 1994 values often record actual starts or inconsistent zones.",
+        "rejected_value": "RSSSF reports 16:35."
+      },
       "date_mismatch": false,
       "fifa_match_id": "3053",
       "fifa_match_number": 5
@@ -66,10 +81,18 @@
         "fifa_archive": "16:00",
         "fifa_archive_date": "1994-06-22",
         "openfootball": null,
-        "openfootball_utc_offset": null
+        "openfootball_utc_offset": null,
+        "wikipedia": "16:00",
+        "wikipedia_date": "1994-06-22"
       },
-      "selected_local_time": "16:05",
-      "status": "conflict",
+      "selected_local_time": "16:00",
+      "status": "resolved",
+      "resolution": {
+        "time": "16:00",
+        "selected_source": "Contemporary LA Times schedule corroborated by Wikipedia",
+        "evidence": "The venue-local scheduled kickoff is used. RSSSF's 1994 values often record actual starts or inconsistent zones.",
+        "rejected_value": "RSSSF reports 16:05."
+      },
       "date_mismatch": false,
       "fifa_match_id": "3062",
       "fifa_match_number": 14
@@ -85,10 +108,18 @@
         "fifa_archive": "19:30",
         "fifa_archive_date": "1994-06-22",
         "openfootball": null,
-        "openfootball_utc_offset": null
+        "openfootball_utc_offset": null,
+        "wikipedia": "16:30",
+        "wikipedia_date": "1994-06-22"
       },
-      "selected_local_time": "16:35",
-      "status": "conflict",
+      "selected_local_time": "16:30",
+      "status": "resolved",
+      "resolution": {
+        "time": "16:30",
+        "selected_source": "Contemporary LA Times schedule corroborated by Wikipedia",
+        "evidence": "The venue-local scheduled kickoff is used. RSSSF's 1994 values often record actual starts or inconsistent zones.",
+        "rejected_value": "RSSSF reports 16:35."
+      },
       "date_mismatch": false,
       "fifa_match_id": "3063",
       "fifa_match_number": 15
@@ -104,10 +135,18 @@
         "fifa_archive": "16:00",
         "fifa_archive_date": "1994-06-26",
         "openfootball": null,
-        "openfootball_utc_offset": null
+        "openfootball_utc_offset": null,
+        "wikipedia": "13:00",
+        "wikipedia_date": "1994-06-26"
       },
-      "selected_local_time": "13:05",
-      "status": "conflict",
+      "selected_local_time": "13:00",
+      "status": "resolved",
+      "resolution": {
+        "time": "13:00",
+        "selected_source": "Contemporary LA Times schedule corroborated by Wikipedia",
+        "evidence": "The venue-local scheduled kickoff is used. RSSSF's 1994 values often record actual starts or inconsistent zones.",
+        "rejected_value": "RSSSF reports 13:05."
+      },
       "date_mismatch": false,
       "fifa_match_id": "3073",
       "fifa_match_number": 25
@@ -123,10 +162,18 @@
         "fifa_archive": "16:00",
         "fifa_archive_date": "1994-06-26",
         "openfootball": null,
-        "openfootball_utc_offset": null
+        "openfootball_utc_offset": null,
+        "wikipedia": "13:00",
+        "wikipedia_date": "1994-06-26"
       },
-      "selected_local_time": "13:05",
-      "status": "conflict",
+      "selected_local_time": "13:00",
+      "status": "resolved",
+      "resolution": {
+        "time": "13:00",
+        "selected_source": "Contemporary LA Times schedule corroborated by Wikipedia",
+        "evidence": "The venue-local scheduled kickoff is used. RSSSF's 1994 values often record actual starts or inconsistent zones.",
+        "rejected_value": "RSSSF reports 13:05."
+      },
       "date_mismatch": false,
       "fifa_match_id": "3074",
       "fifa_match_number": 26
@@ -142,10 +189,18 @@
         "fifa_archive": "19:30",
         "fifa_archive_date": "1994-06-19",
         "openfootball": null,
-        "openfootball_utc_offset": null
+        "openfootball_utc_offset": null,
+        "wikipedia": "16:30",
+        "wikipedia_date": "1994-06-19"
       },
-      "selected_local_time": "16:35",
-      "status": "conflict",
+      "selected_local_time": "16:30",
+      "status": "resolved",
+      "resolution": {
+        "time": "16:30",
+        "selected_source": "Contemporary LA Times schedule corroborated by Wikipedia",
+        "evidence": "The venue-local scheduled kickoff is used. RSSSF's 1994 values often record actual starts or inconsistent zones.",
+        "rejected_value": "RSSSF reports 16:35."
+      },
       "date_mismatch": false,
       "fifa_match_id": "3056",
       "fifa_match_number": 8
@@ -161,10 +216,18 @@
         "fifa_archive": "16:00",
         "fifa_archive_date": "1994-06-20",
         "openfootball": null,
-        "openfootball_utc_offset": null
+        "openfootball_utc_offset": null,
+        "wikipedia": "13:00",
+        "wikipedia_date": "1994-06-20"
       },
-      "selected_local_time": "13:05",
-      "status": "conflict",
+      "selected_local_time": "13:00",
+      "status": "resolved",
+      "resolution": {
+        "time": "13:00",
+        "selected_source": "Contemporary LA Times schedule corroborated by Wikipedia",
+        "evidence": "The venue-local scheduled kickoff is used. RSSSF's 1994 values often record actual starts or inconsistent zones.",
+        "rejected_value": "RSSSF reports 13:05."
+      },
       "date_mismatch": false,
       "fifa_match_id": "3057",
       "fifa_match_number": 9
@@ -180,10 +243,18 @@
         "fifa_archive": "16:00",
         "fifa_archive_date": "1994-06-24",
         "openfootball": null,
-        "openfootball_utc_offset": null
+        "openfootball_utc_offset": null,
+        "wikipedia": "13:00",
+        "wikipedia_date": "1994-06-24"
       },
-      "selected_local_time": "13:05",
-      "status": "conflict",
+      "selected_local_time": "13:00",
+      "status": "resolved",
+      "resolution": {
+        "time": "13:00",
+        "selected_source": "Contemporary LA Times schedule corroborated by Wikipedia",
+        "evidence": "The venue-local scheduled kickoff is used. RSSSF's 1994 values often record actual starts or inconsistent zones.",
+        "rejected_value": "RSSSF reports 13:05."
+      },
       "date_mismatch": false,
       "fifa_match_id": "3067",
       "fifa_match_number": 19
@@ -199,10 +270,18 @@
         "fifa_archive": "19:30",
         "fifa_archive_date": "1994-06-24",
         "openfootball": null,
-        "openfootball_utc_offset": null
+        "openfootball_utc_offset": null,
+        "wikipedia": "19:30",
+        "wikipedia_date": "1994-06-24"
       },
-      "selected_local_time": "19:35",
-      "status": "conflict",
+      "selected_local_time": "19:30",
+      "status": "resolved",
+      "resolution": {
+        "time": "19:30",
+        "selected_source": "Contemporary LA Times schedule corroborated by Wikipedia",
+        "evidence": "The venue-local scheduled kickoff is used. RSSSF's 1994 values often record actual starts or inconsistent zones.",
+        "rejected_value": "RSSSF reports 19:35."
+      },
       "date_mismatch": false,
       "fifa_match_id": "3068",
       "fifa_match_number": 20
@@ -218,10 +297,18 @@
         "fifa_archive": "16:00",
         "fifa_archive_date": "1994-06-28",
         "openfootball": null,
-        "openfootball_utc_offset": null
+        "openfootball_utc_offset": null,
+        "wikipedia": "13:00",
+        "wikipedia_date": "1994-06-28"
       },
-      "selected_local_time": "13:05",
-      "status": "conflict",
+      "selected_local_time": "13:00",
+      "status": "resolved",
+      "resolution": {
+        "time": "13:00",
+        "selected_source": "Contemporary LA Times schedule corroborated by Wikipedia",
+        "evidence": "The venue-local scheduled kickoff is used. RSSSF's 1994 values often record actual starts or inconsistent zones.",
+        "rejected_value": "RSSSF reports 13:05."
+      },
       "date_mismatch": false,
       "fifa_match_id": "3079",
       "fifa_match_number": 31
@@ -237,10 +324,18 @@
         "fifa_archive": "16:00",
         "fifa_archive_date": "1994-06-28",
         "openfootball": null,
-        "openfootball_utc_offset": null
+        "openfootball_utc_offset": null,
+        "wikipedia": "16:00",
+        "wikipedia_date": "1994-06-28"
       },
-      "selected_local_time": "16:05",
-      "status": "conflict",
+      "selected_local_time": "16:00",
+      "status": "resolved",
+      "resolution": {
+        "time": "16:00",
+        "selected_source": "Contemporary LA Times schedule corroborated by Wikipedia",
+        "evidence": "The venue-local scheduled kickoff is used. RSSSF's 1994 values often record actual starts or inconsistent zones.",
+        "rejected_value": "RSSSF reports 16:05."
+      },
       "date_mismatch": false,
       "fifa_match_id": "3080",
       "fifa_match_number": 32
@@ -256,10 +351,18 @@
         "fifa_archive": "15:00",
         "fifa_archive_date": "1994-06-17",
         "openfootball": null,
-        "openfootball_utc_offset": null
+        "openfootball_utc_offset": null,
+        "wikipedia": "14:00",
+        "wikipedia_date": "1994-06-17"
       },
-      "selected_local_time": "14:05",
-      "status": "conflict",
+      "selected_local_time": "14:00",
+      "status": "resolved",
+      "resolution": {
+        "time": "14:00",
+        "selected_source": "Contemporary LA Times schedule corroborated by Wikipedia",
+        "evidence": "The venue-local scheduled kickoff is used. RSSSF's 1994 values often record actual starts or inconsistent zones.",
+        "rejected_value": "RSSSF reports 14:05."
+      },
       "date_mismatch": false,
       "fifa_match_id": "3049",
       "fifa_match_number": 1
@@ -275,10 +378,18 @@
         "fifa_archive": "19:30",
         "fifa_archive_date": "1994-06-17",
         "openfootball": null,
-        "openfootball_utc_offset": null
+        "openfootball_utc_offset": null,
+        "wikipedia": "18:30",
+        "wikipedia_date": "1994-06-17"
       },
-      "selected_local_time": "18:35",
-      "status": "conflict",
+      "selected_local_time": "18:30",
+      "status": "resolved",
+      "resolution": {
+        "time": "18:30",
+        "selected_source": "Contemporary LA Times schedule corroborated by Wikipedia",
+        "evidence": "The venue-local scheduled kickoff is used. RSSSF's 1994 values often record actual starts or inconsistent zones.",
+        "rejected_value": "RSSSF reports 18:35."
+      },
       "date_mismatch": false,
       "fifa_match_id": "3050",
       "fifa_match_number": 2
@@ -294,10 +405,18 @@
         "fifa_archive": "16:00",
         "fifa_archive_date": "1994-06-21",
         "openfootball": null,
-        "openfootball_utc_offset": null
+        "openfootball_utc_offset": null,
+        "wikipedia": "15:00",
+        "wikipedia_date": "1994-06-21"
       },
-      "selected_local_time": "15:05",
-      "status": "conflict",
+      "selected_local_time": "15:00",
+      "status": "resolved",
+      "resolution": {
+        "time": "15:00",
+        "selected_source": "Contemporary LA Times schedule corroborated by Wikipedia",
+        "evidence": "The venue-local scheduled kickoff is used. RSSSF's 1994 values often record actual starts or inconsistent zones.",
+        "rejected_value": "RSSSF reports 15:05."
+      },
       "date_mismatch": false,
       "fifa_match_id": "3060",
       "fifa_match_number": 12
@@ -313,10 +432,18 @@
         "fifa_archive": "19:30",
         "fifa_archive_date": "1994-06-23",
         "openfootball": null,
-        "openfootball_utc_offset": null
+        "openfootball_utc_offset": null,
+        "wikipedia": "19:30",
+        "wikipedia_date": "1994-06-23"
       },
-      "selected_local_time": "19:35",
-      "status": "conflict",
+      "selected_local_time": "19:30",
+      "status": "resolved",
+      "resolution": {
+        "time": "19:30",
+        "selected_source": "Contemporary LA Times schedule corroborated by Wikipedia",
+        "evidence": "The venue-local scheduled kickoff is used. RSSSF's 1994 values often record actual starts or inconsistent zones.",
+        "rejected_value": "RSSSF reports 19:35."
+      },
       "date_mismatch": false,
       "fifa_match_id": "3065",
       "fifa_match_number": 17
@@ -332,10 +459,18 @@
         "fifa_archive": "16:00",
         "fifa_archive_date": "1994-06-27",
         "openfootball": null,
-        "openfootball_utc_offset": null
+        "openfootball_utc_offset": null,
+        "wikipedia": "15:00",
+        "wikipedia_date": "1994-06-27"
       },
-      "selected_local_time": "15:05",
-      "status": "conflict",
+      "selected_local_time": "15:00",
+      "status": "resolved",
+      "resolution": {
+        "time": "15:00",
+        "selected_source": "Contemporary LA Times schedule corroborated by Wikipedia",
+        "evidence": "The venue-local scheduled kickoff is used. RSSSF's 1994 values often record actual starts or inconsistent zones.",
+        "rejected_value": "RSSSF reports 15:05."
+      },
       "date_mismatch": false,
       "fifa_match_id": "3075",
       "fifa_match_number": 27
@@ -351,10 +486,18 @@
         "fifa_archive": "16:00",
         "fifa_archive_date": "1994-06-27",
         "openfootball": null,
-        "openfootball_utc_offset": null
+        "openfootball_utc_offset": null,
+        "wikipedia": "15:00",
+        "wikipedia_date": "1994-06-27"
       },
-      "selected_local_time": "16:05",
-      "status": "conflict",
+      "selected_local_time": "15:00",
+      "status": "resolved",
+      "resolution": {
+        "time": "15:00",
+        "selected_source": "Contemporary LA Times schedule corroborated by Wikipedia",
+        "evidence": "The venue-local scheduled kickoff is used. RSSSF's 1994 values often record actual starts or inconsistent zones.",
+        "rejected_value": "RSSSF reports 16:05."
+      },
       "date_mismatch": false,
       "fifa_match_id": "3076",
       "fifa_match_number": 28
@@ -370,10 +513,18 @@
         "fifa_archive": "12:30",
         "fifa_archive_date": "1994-06-21",
         "openfootball": null,
-        "openfootball_utc_offset": null
+        "openfootball_utc_offset": null,
+        "wikipedia": "12:30",
+        "wikipedia_date": "1994-06-21"
       },
-      "selected_local_time": "12:05",
-      "status": "conflict",
+      "selected_local_time": "12:30",
+      "status": "resolved",
+      "resolution": {
+        "time": "12:30",
+        "selected_source": "Contemporary LA Times schedule corroborated by Wikipedia",
+        "evidence": "The venue-local scheduled kickoff is used. RSSSF's 1994 values often record actual starts or inconsistent zones.",
+        "rejected_value": "RSSSF reports 12:05."
+      },
       "date_mismatch": false,
       "fifa_match_id": "3059",
       "fifa_match_number": 11
@@ -389,10 +540,18 @@
         "fifa_archive": "19:30",
         "fifa_archive_date": "1994-06-21",
         "openfootball": null,
-        "openfootball_utc_offset": null
+        "openfootball_utc_offset": null,
+        "wikipedia": "18:30",
+        "wikipedia_date": "1994-06-21"
       },
-      "selected_local_time": "18:35",
-      "status": "conflict",
+      "selected_local_time": "18:30",
+      "status": "resolved",
+      "resolution": {
+        "time": "18:30",
+        "selected_source": "Contemporary LA Times schedule corroborated by Wikipedia",
+        "evidence": "The venue-local scheduled kickoff is used. RSSSF's 1994 values often record actual starts or inconsistent zones.",
+        "rejected_value": "RSSSF reports 18:35."
+      },
       "date_mismatch": false,
       "fifa_match_id": "3061",
       "fifa_match_number": 13
@@ -408,10 +567,18 @@
         "fifa_archive": "16:00",
         "fifa_archive_date": "1994-06-25",
         "openfootball": null,
-        "openfootball_utc_offset": null
+        "openfootball_utc_offset": null,
+        "wikipedia": "16:00",
+        "wikipedia_date": "1994-06-25"
       },
-      "selected_local_time": "16:05",
-      "status": "conflict",
+      "selected_local_time": "16:00",
+      "status": "resolved",
+      "resolution": {
+        "time": "16:00",
+        "selected_source": "Contemporary LA Times schedule corroborated by Wikipedia",
+        "evidence": "The venue-local scheduled kickoff is used. RSSSF's 1994 values often record actual starts or inconsistent zones.",
+        "rejected_value": "RSSSF reports 16:05."
+      },
       "date_mismatch": false,
       "fifa_match_id": "3071",
       "fifa_match_number": 23
@@ -427,10 +594,18 @@
         "fifa_archive": "12:30",
         "fifa_archive_date": "1994-06-26",
         "openfootball": null,
-        "openfootball_utc_offset": null
+        "openfootball_utc_offset": null,
+        "wikipedia": "11:30",
+        "wikipedia_date": "1994-06-26"
       },
-      "selected_local_time": "11:35",
-      "status": "conflict",
+      "selected_local_time": "11:30",
+      "status": "resolved",
+      "resolution": {
+        "time": "11:30",
+        "selected_source": "Contemporary LA Times schedule corroborated by Wikipedia",
+        "evidence": "The venue-local scheduled kickoff is used. RSSSF's 1994 values often record actual starts or inconsistent zones.",
+        "rejected_value": "RSSSF reports 11:35."
+      },
       "date_mismatch": false,
       "fifa_match_id": "3072",
       "fifa_match_number": 24
@@ -446,10 +621,18 @@
         "fifa_archive": "19:30",
         "fifa_archive_date": "1994-06-30",
         "openfootball": null,
-        "openfootball_utc_offset": null
+        "openfootball_utc_offset": null,
+        "wikipedia": "19:30",
+        "wikipedia_date": "1994-06-30"
       },
       "selected_local_time": "19:30",
-      "status": "single-source",
+      "status": "resolved",
+      "resolution": {
+        "time": "19:30",
+        "selected_source": "Contemporary LA Times schedule corroborated by Wikipedia",
+        "evidence": "The venue-local scheduled kickoff is used. RSSSF's 1994 values often record actual starts or inconsistent zones.",
+        "rejected_value": "RSSSF omits the time."
+      },
       "date_mismatch": false,
       "fifa_match_id": "3083",
       "fifa_match_number": 35
@@ -465,10 +648,18 @@
         "fifa_archive": "19:30",
         "fifa_archive_date": "1994-06-30",
         "openfootball": null,
-        "openfootball_utc_offset": null
+        "openfootball_utc_offset": null,
+        "wikipedia": "18:30",
+        "wikipedia_date": "1994-06-30"
       },
-      "selected_local_time": "18:35",
-      "status": "conflict",
+      "selected_local_time": "18:30",
+      "status": "resolved",
+      "resolution": {
+        "time": "18:30",
+        "selected_source": "Contemporary LA Times schedule corroborated by Wikipedia",
+        "evidence": "The venue-local scheduled kickoff is used. RSSSF's 1994 values often record actual starts or inconsistent zones.",
+        "rejected_value": "RSSSF reports 18:35."
+      },
       "date_mismatch": false,
       "fifa_match_id": "3084",
       "fifa_match_number": 36
@@ -484,10 +675,18 @@
         "fifa_archive": "16:00",
         "fifa_archive_date": "1994-06-18",
         "openfootball": null,
-        "openfootball_utc_offset": null
+        "openfootball_utc_offset": null,
+        "wikipedia": "16:00",
+        "wikipedia_date": "1994-06-18"
       },
-      "selected_local_time": "16:05",
-      "status": "conflict",
+      "selected_local_time": "16:00",
+      "status": "resolved",
+      "resolution": {
+        "time": "16:00",
+        "selected_source": "Contemporary LA Times schedule corroborated by Wikipedia",
+        "evidence": "The venue-local scheduled kickoff is used. RSSSF's 1994 values often record actual starts or inconsistent zones.",
+        "rejected_value": "RSSSF reports 16:05."
+      },
       "date_mismatch": false,
       "fifa_match_id": "3052",
       "fifa_match_number": 4
@@ -503,10 +702,18 @@
         "fifa_archive": "16:00",
         "fifa_archive_date": "1994-06-19",
         "openfootball": null,
-        "openfootball_utc_offset": null
+        "openfootball_utc_offset": null,
+        "wikipedia": "16:00",
+        "wikipedia_date": "1994-06-19"
       },
-      "selected_local_time": "16:05",
-      "status": "conflict",
+      "selected_local_time": "16:00",
+      "status": "resolved",
+      "resolution": {
+        "time": "16:00",
+        "selected_source": "Contemporary LA Times schedule corroborated by Wikipedia",
+        "evidence": "The venue-local scheduled kickoff is used. RSSSF's 1994 values often record actual starts or inconsistent zones.",
+        "rejected_value": "RSSSF reports 16:05."
+      },
       "date_mismatch": false,
       "fifa_match_id": "3055",
       "fifa_match_number": 7
@@ -522,10 +729,18 @@
         "fifa_archive": "16:00",
         "fifa_archive_date": "1994-06-23",
         "openfootball": null,
-        "openfootball_utc_offset": null
+        "openfootball_utc_offset": null,
+        "wikipedia": "16:00",
+        "wikipedia_date": "1994-06-23"
       },
-      "selected_local_time": "16:05",
-      "status": "conflict",
+      "selected_local_time": "16:00",
+      "status": "resolved",
+      "resolution": {
+        "time": "16:00",
+        "selected_source": "Contemporary LA Times schedule corroborated by Wikipedia",
+        "evidence": "The venue-local scheduled kickoff is used. RSSSF's 1994 values often record actual starts or inconsistent zones.",
+        "rejected_value": "RSSSF reports 16:05."
+      },
       "date_mismatch": false,
       "fifa_match_id": "3064",
       "fifa_match_number": 16
@@ -541,10 +756,18 @@
         "fifa_archive": "12:30",
         "fifa_archive_date": "1994-06-24",
         "openfootball": null,
-        "openfootball_utc_offset": null
+        "openfootball_utc_offset": null,
+        "wikipedia": "12:30",
+        "wikipedia_date": "1994-06-24"
       },
-      "selected_local_time": "12:35",
-      "status": "conflict",
+      "selected_local_time": "12:30",
+      "status": "resolved",
+      "resolution": {
+        "time": "12:30",
+        "selected_source": "Contemporary LA Times schedule corroborated by Wikipedia",
+        "evidence": "The venue-local scheduled kickoff is used. RSSSF's 1994 values often record actual starts or inconsistent zones.",
+        "rejected_value": "RSSSF reports 12:35."
+      },
       "date_mismatch": false,
       "fifa_match_id": "3066",
       "fifa_match_number": 18
@@ -560,10 +783,18 @@
         "fifa_archive": "12:30",
         "fifa_archive_date": "1994-06-28",
         "openfootball": null,
-        "openfootball_utc_offset": null
+        "openfootball_utc_offset": null,
+        "wikipedia": "12:30",
+        "wikipedia_date": "1994-06-28"
       },
-      "selected_local_time": "12:35",
-      "status": "conflict",
+      "selected_local_time": "12:30",
+      "status": "resolved",
+      "resolution": {
+        "time": "12:30",
+        "selected_source": "Contemporary LA Times schedule corroborated by Wikipedia",
+        "evidence": "The venue-local scheduled kickoff is used. RSSSF's 1994 values often record actual starts or inconsistent zones.",
+        "rejected_value": "RSSSF reports 12:35."
+      },
       "date_mismatch": false,
       "fifa_match_id": "3077",
       "fifa_match_number": 29
@@ -579,10 +810,18 @@
         "fifa_archive": "12:30",
         "fifa_archive_date": "1994-06-28",
         "openfootball": null,
-        "openfootball_utc_offset": null
+        "openfootball_utc_offset": null,
+        "wikipedia": "12:30",
+        "wikipedia_date": "1994-06-28"
       },
-      "selected_local_time": "12:35",
-      "status": "conflict",
+      "selected_local_time": "12:30",
+      "status": "resolved",
+      "resolution": {
+        "time": "12:30",
+        "selected_source": "Contemporary LA Times schedule corroborated by Wikipedia",
+        "evidence": "The venue-local scheduled kickoff is used. RSSSF's 1994 values often record actual starts or inconsistent zones.",
+        "rejected_value": "RSSSF reports 12:35."
+      },
       "date_mismatch": false,
       "fifa_match_id": "3078",
       "fifa_match_number": 30
@@ -598,10 +837,18 @@
         "fifa_archive": "12:30",
         "fifa_archive_date": "1994-06-19",
         "openfootball": null,
-        "openfootball_utc_offset": null
+        "openfootball_utc_offset": null,
+        "wikipedia": "12:30",
+        "wikipedia_date": "1994-06-19"
       },
-      "selected_local_time": "12:35",
-      "status": "conflict",
+      "selected_local_time": "12:30",
+      "status": "resolved",
+      "resolution": {
+        "time": "12:30",
+        "selected_source": "Contemporary LA Times schedule corroborated by Wikipedia",
+        "evidence": "The venue-local scheduled kickoff is used. RSSSF's 1994 values often record actual starts or inconsistent zones.",
+        "rejected_value": "RSSSF reports 12:35."
+      },
       "date_mismatch": false,
       "fifa_match_id": "3054",
       "fifa_match_number": 6
@@ -617,10 +864,18 @@
         "fifa_archive": "19:30",
         "fifa_archive_date": "1994-06-20",
         "openfootball": null,
-        "openfootball_utc_offset": null
+        "openfootball_utc_offset": null,
+        "wikipedia": "19:30",
+        "wikipedia_date": "1994-06-20"
       },
-      "selected_local_time": "12:35",
-      "status": "conflict",
+      "selected_local_time": "19:30",
+      "status": "resolved",
+      "resolution": {
+        "time": "19:30",
+        "selected_source": "Contemporary LA Times schedule corroborated by Wikipedia",
+        "evidence": "The venue-local scheduled kickoff is used. RSSSF's 1994 values often record actual starts or inconsistent zones.",
+        "rejected_value": "RSSSF reports 12:35."
+      },
       "date_mismatch": false,
       "fifa_match_id": "3058",
       "fifa_match_number": 10
@@ -636,10 +891,18 @@
         "fifa_archive": "12:30",
         "fifa_archive_date": "1994-06-25",
         "openfootball": null,
-        "openfootball_utc_offset": null
+        "openfootball_utc_offset": null,
+        "wikipedia": "12:30",
+        "wikipedia_date": "1994-06-25"
       },
-      "selected_local_time": "12:35",
-      "status": "conflict",
+      "selected_local_time": "12:30",
+      "status": "resolved",
+      "resolution": {
+        "time": "12:30",
+        "selected_source": "Contemporary LA Times schedule corroborated by Wikipedia",
+        "evidence": "The venue-local scheduled kickoff is used. RSSSF's 1994 values often record actual starts or inconsistent zones.",
+        "rejected_value": "RSSSF reports 12:35."
+      },
       "date_mismatch": false,
       "fifa_match_id": "3069",
       "fifa_match_number": 21
@@ -655,10 +918,18 @@
         "fifa_archive": "12:30",
         "fifa_archive_date": "1994-06-25",
         "openfootball": null,
-        "openfootball_utc_offset": null
+        "openfootball_utc_offset": null,
+        "wikipedia": "12:30",
+        "wikipedia_date": "1994-06-25"
       },
-      "selected_local_time": "12:35",
-      "status": "conflict",
+      "selected_local_time": "12:30",
+      "status": "resolved",
+      "resolution": {
+        "time": "12:30",
+        "selected_source": "Contemporary LA Times schedule corroborated by Wikipedia",
+        "evidence": "The venue-local scheduled kickoff is used. RSSSF's 1994 values often record actual starts or inconsistent zones.",
+        "rejected_value": "RSSSF reports 12:35."
+      },
       "date_mismatch": false,
       "fifa_match_id": "3070",
       "fifa_match_number": 22
@@ -674,10 +945,18 @@
         "fifa_archive": "12:30",
         "fifa_archive_date": "1994-06-29",
         "openfootball": null,
-        "openfootball_utc_offset": null
+        "openfootball_utc_offset": null,
+        "wikipedia": "12:30",
+        "wikipedia_date": "1994-06-29"
       },
-      "selected_local_time": "12:35",
-      "status": "conflict",
+      "selected_local_time": "12:30",
+      "status": "resolved",
+      "resolution": {
+        "time": "12:30",
+        "selected_source": "Contemporary LA Times schedule corroborated by Wikipedia",
+        "evidence": "The venue-local scheduled kickoff is used. RSSSF's 1994 values often record actual starts or inconsistent zones.",
+        "rejected_value": "RSSSF reports 12:35."
+      },
       "date_mismatch": false,
       "fifa_match_id": "3081",
       "fifa_match_number": 33
@@ -693,10 +972,18 @@
         "fifa_archive": "12:30",
         "fifa_archive_date": "1994-06-29",
         "openfootball": null,
-        "openfootball_utc_offset": null
+        "openfootball_utc_offset": null,
+        "wikipedia": "12:30",
+        "wikipedia_date": "1994-06-29"
       },
-      "selected_local_time": "12:35",
-      "status": "conflict",
+      "selected_local_time": "12:30",
+      "status": "resolved",
+      "resolution": {
+        "time": "12:30",
+        "selected_source": "Contemporary LA Times schedule corroborated by Wikipedia",
+        "evidence": "The venue-local scheduled kickoff is used. RSSSF's 1994 values often record actual starts or inconsistent zones.",
+        "rejected_value": "RSSSF reports 12:35."
+      },
       "date_mismatch": false,
       "fifa_match_id": "3082",
       "fifa_match_number": 34
@@ -712,10 +999,18 @@
         "fifa_archive": "12:00",
         "fifa_archive_date": "1994-07-02",
         "openfootball": null,
-        "openfootball_utc_offset": null
+        "openfootball_utc_offset": null,
+        "wikipedia": "12:00",
+        "wikipedia_date": "1994-07-02"
       },
       "selected_local_time": "12:00",
-      "status": "corroborated",
+      "status": "resolved",
+      "resolution": {
+        "time": "12:00",
+        "selected_source": "Contemporary LA Times schedule corroborated by Wikipedia",
+        "evidence": "The venue-local scheduled kickoff is used. RSSSF's 1994 values often record actual starts or inconsistent zones.",
+        "rejected_value": "RSSSF reports 12:00."
+      },
       "date_mismatch": false,
       "fifa_match_id": "3085",
       "fifa_match_number": 37
@@ -731,10 +1026,18 @@
         "fifa_archive": "16:30",
         "fifa_archive_date": "1994-07-02",
         "openfootball": null,
-        "openfootball_utc_offset": null
+        "openfootball_utc_offset": null,
+        "wikipedia": "16:30",
+        "wikipedia_date": "1994-07-02"
       },
-      "selected_local_time": "16:35",
-      "status": "conflict",
+      "selected_local_time": "16:30",
+      "status": "resolved",
+      "resolution": {
+        "time": "16:30",
+        "selected_source": "Contemporary LA Times schedule corroborated by Wikipedia",
+        "evidence": "The venue-local scheduled kickoff is used. RSSSF's 1994 values often record actual starts or inconsistent zones.",
+        "rejected_value": "RSSSF reports 16:35."
+      },
       "date_mismatch": false,
       "fifa_match_id": "3086",
       "fifa_match_number": 38
@@ -750,10 +1053,18 @@
         "fifa_archive": "12:00",
         "fifa_archive_date": "1994-07-03",
         "openfootball": null,
-        "openfootball_utc_offset": null
+        "openfootball_utc_offset": null,
+        "wikipedia": "12:00",
+        "wikipedia_date": "1994-07-03"
       },
-      "selected_local_time": "12:05",
-      "status": "conflict",
+      "selected_local_time": "12:00",
+      "status": "resolved",
+      "resolution": {
+        "time": "12:00",
+        "selected_source": "Contemporary LA Times schedule corroborated by Wikipedia",
+        "evidence": "The venue-local scheduled kickoff is used. RSSSF's 1994 values often record actual starts or inconsistent zones.",
+        "rejected_value": "RSSSF reports 12:05."
+      },
       "date_mismatch": false,
       "fifa_match_id": "3087",
       "fifa_match_number": 39
@@ -769,10 +1080,18 @@
         "fifa_archive": "13:30",
         "fifa_archive_date": "1994-07-03",
         "openfootball": null,
-        "openfootball_utc_offset": null
+        "openfootball_utc_offset": null,
+        "wikipedia": "13:30",
+        "wikipedia_date": "1994-07-03"
       },
-      "selected_local_time": "16:35",
-      "status": "conflict",
+      "selected_local_time": "13:30",
+      "status": "resolved",
+      "resolution": {
+        "time": "13:30",
+        "selected_source": "Contemporary LA Times schedule corroborated by Wikipedia",
+        "evidence": "The venue-local scheduled kickoff is used. RSSSF's 1994 values often record actual starts or inconsistent zones.",
+        "rejected_value": "RSSSF reports 16:35."
+      },
       "date_mismatch": false,
       "fifa_match_id": "3088",
       "fifa_match_number": 40
@@ -788,10 +1107,18 @@
         "fifa_archive": "12:00",
         "fifa_archive_date": "1994-07-04",
         "openfootball": null,
-        "openfootball_utc_offset": null
+        "openfootball_utc_offset": null,
+        "wikipedia": "12:00",
+        "wikipedia_date": "1994-07-04"
       },
-      "selected_local_time": "12:05",
-      "status": "conflict",
+      "selected_local_time": "12:00",
+      "status": "resolved",
+      "resolution": {
+        "time": "12:00",
+        "selected_source": "Contemporary LA Times schedule corroborated by Wikipedia",
+        "evidence": "The venue-local scheduled kickoff is used. RSSSF's 1994 values often record actual starts or inconsistent zones.",
+        "rejected_value": "RSSSF reports 12:05."
+      },
       "date_mismatch": false,
       "fifa_match_id": "3089",
       "fifa_match_number": 41
@@ -807,10 +1134,18 @@
         "fifa_archive": "12:30",
         "fifa_archive_date": "1994-07-04",
         "openfootball": null,
-        "openfootball_utc_offset": null
+        "openfootball_utc_offset": null,
+        "wikipedia": "12:30",
+        "wikipedia_date": "1994-07-04"
       },
-      "selected_local_time": "16:35",
-      "status": "conflict",
+      "selected_local_time": "12:30",
+      "status": "resolved",
+      "resolution": {
+        "time": "12:30",
+        "selected_source": "Contemporary LA Times schedule corroborated by Wikipedia",
+        "evidence": "The venue-local scheduled kickoff is used. RSSSF's 1994 values often record actual starts or inconsistent zones.",
+        "rejected_value": "RSSSF reports 16:35."
+      },
       "date_mismatch": false,
       "fifa_match_id": "3090",
       "fifa_match_number": 42
@@ -826,10 +1161,18 @@
         "fifa_archive": "13:00",
         "fifa_archive_date": "1994-07-05",
         "openfootball": null,
-        "openfootball_utc_offset": null
+        "openfootball_utc_offset": null,
+        "wikipedia": "13:00",
+        "wikipedia_date": "1994-07-05"
       },
-      "selected_local_time": "12:05",
-      "status": "conflict",
+      "selected_local_time": "13:00",
+      "status": "resolved",
+      "resolution": {
+        "time": "13:00",
+        "selected_source": "Contemporary LA Times schedule corroborated by Wikipedia",
+        "evidence": "The venue-local scheduled kickoff is used. RSSSF's 1994 values often record actual starts or inconsistent zones.",
+        "rejected_value": "RSSSF reports 12:05."
+      },
       "date_mismatch": false,
       "fifa_match_id": "3091",
       "fifa_match_number": 43
@@ -845,10 +1188,18 @@
         "fifa_archive": "16:30",
         "fifa_archive_date": "1994-07-05",
         "openfootball": null,
-        "openfootball_utc_offset": null
+        "openfootball_utc_offset": null,
+        "wikipedia": "16:30",
+        "wikipedia_date": "1994-07-05"
       },
-      "selected_local_time": "16:35",
-      "status": "conflict",
+      "selected_local_time": "16:30",
+      "status": "resolved",
+      "resolution": {
+        "time": "16:30",
+        "selected_source": "Contemporary LA Times schedule corroborated by Wikipedia",
+        "evidence": "The venue-local scheduled kickoff is used. RSSSF's 1994 values often record actual starts or inconsistent zones.",
+        "rejected_value": "RSSSF reports 16:35."
+      },
       "date_mismatch": false,
       "fifa_match_id": "3092",
       "fifa_match_number": 44
@@ -864,10 +1215,18 @@
         "fifa_archive": "12:00",
         "fifa_archive_date": "1994-07-09",
         "openfootball": null,
-        "openfootball_utc_offset": null
+        "openfootball_utc_offset": null,
+        "wikipedia": "12:00",
+        "wikipedia_date": "1994-07-09"
       },
-      "selected_local_time": "12:05",
-      "status": "conflict",
+      "selected_local_time": "12:00",
+      "status": "resolved",
+      "resolution": {
+        "time": "12:00",
+        "selected_source": "Contemporary LA Times schedule corroborated by Wikipedia",
+        "evidence": "The venue-local scheduled kickoff is used. RSSSF's 1994 values often record actual starts or inconsistent zones.",
+        "rejected_value": "RSSSF reports 12:05."
+      },
       "date_mismatch": false,
       "fifa_match_id": "3097",
       "fifa_match_number": 45
@@ -883,10 +1242,18 @@
         "fifa_archive": "14:30",
         "fifa_archive_date": "1994-07-09",
         "openfootball": null,
-        "openfootball_utc_offset": null
+        "openfootball_utc_offset": null,
+        "wikipedia": "14:30",
+        "wikipedia_date": "1994-07-09"
       },
-      "selected_local_time": "14:35",
-      "status": "conflict",
+      "selected_local_time": "14:30",
+      "status": "resolved",
+      "resolution": {
+        "time": "14:30",
+        "selected_source": "Contemporary LA Times schedule corroborated by Wikipedia",
+        "evidence": "The venue-local scheduled kickoff is used. RSSSF's 1994 values often record actual starts or inconsistent zones.",
+        "rejected_value": "RSSSF reports 14:35."
+      },
       "date_mismatch": false,
       "fifa_match_id": "3098",
       "fifa_match_number": 46
@@ -902,10 +1269,18 @@
         "fifa_archive": "12:00",
         "fifa_archive_date": "1994-07-10",
         "openfootball": null,
-        "openfootball_utc_offset": null
+        "openfootball_utc_offset": null,
+        "wikipedia": "12:00",
+        "wikipedia_date": "1994-07-10"
       },
-      "selected_local_time": "12:05",
-      "status": "conflict",
+      "selected_local_time": "12:00",
+      "status": "resolved",
+      "resolution": {
+        "time": "12:00",
+        "selected_source": "Contemporary LA Times schedule corroborated by Wikipedia",
+        "evidence": "The venue-local scheduled kickoff is used. RSSSF's 1994 values often record actual starts or inconsistent zones.",
+        "rejected_value": "RSSSF reports 12:05."
+      },
       "date_mismatch": false,
       "fifa_match_id": "3096",
       "fifa_match_number": 47
@@ -921,10 +1296,18 @@
         "fifa_archive": "12:30",
         "fifa_archive_date": "1994-07-10",
         "openfootball": null,
-        "openfootball_utc_offset": null
+        "openfootball_utc_offset": null,
+        "wikipedia": "12:30",
+        "wikipedia_date": "1994-07-10"
       },
-      "selected_local_time": "16:35",
-      "status": "conflict",
+      "selected_local_time": "12:30",
+      "status": "resolved",
+      "resolution": {
+        "time": "12:30",
+        "selected_source": "Contemporary LA Times schedule corroborated by Wikipedia",
+        "evidence": "The venue-local scheduled kickoff is used. RSSSF's 1994 values often record actual starts or inconsistent zones.",
+        "rejected_value": "RSSSF reports 16:35."
+      },
       "date_mismatch": false,
       "fifa_match_id": "3095",
       "fifa_match_number": 48
@@ -940,10 +1323,18 @@
         "fifa_archive": "16:00",
         "fifa_archive_date": "1994-07-13",
         "openfootball": null,
-        "openfootball_utc_offset": null
+        "openfootball_utc_offset": null,
+        "wikipedia": "16:00",
+        "wikipedia_date": "1994-07-13"
       },
-      "selected_local_time": "16:05",
-      "status": "conflict",
+      "selected_local_time": "16:00",
+      "status": "resolved",
+      "resolution": {
+        "time": "16:00",
+        "selected_source": "Contemporary LA Times schedule corroborated by Wikipedia",
+        "evidence": "The venue-local scheduled kickoff is used. RSSSF's 1994 values often record actual starts or inconsistent zones.",
+        "rejected_value": "RSSSF reports 16:05."
+      },
       "date_mismatch": false,
       "fifa_match_id": "3100",
       "fifa_match_number": 49
@@ -959,10 +1350,18 @@
         "fifa_archive": "16:30",
         "fifa_archive_date": "1994-07-13",
         "openfootball": null,
-        "openfootball_utc_offset": null
+        "openfootball_utc_offset": null,
+        "wikipedia": "16:30",
+        "wikipedia_date": "1994-07-13"
       },
-      "selected_local_time": "16:35",
-      "status": "conflict",
+      "selected_local_time": "16:30",
+      "status": "resolved",
+      "resolution": {
+        "time": "16:30",
+        "selected_source": "Contemporary LA Times schedule corroborated by Wikipedia",
+        "evidence": "The venue-local scheduled kickoff is used. RSSSF's 1994 values often record actual starts or inconsistent zones.",
+        "rejected_value": "RSSSF reports 16:35."
+      },
       "date_mismatch": false,
       "fifa_match_id": "3099",
       "fifa_match_number": 50
@@ -978,10 +1377,18 @@
         "fifa_archive": "12:30",
         "fifa_archive_date": "1994-07-16",
         "openfootball": null,
-        "openfootball_utc_offset": null
+        "openfootball_utc_offset": null,
+        "wikipedia": "12:30",
+        "wikipedia_date": "1994-07-16"
       },
-      "selected_local_time": "12:35",
-      "status": "conflict",
+      "selected_local_time": "12:30",
+      "status": "resolved",
+      "resolution": {
+        "time": "12:30",
+        "selected_source": "Contemporary LA Times schedule corroborated by Wikipedia",
+        "evidence": "The venue-local scheduled kickoff is used. RSSSF's 1994 values often record actual starts or inconsistent zones.",
+        "rejected_value": "RSSSF reports 12:35."
+      },
       "date_mismatch": false,
       "fifa_match_id": "3103",
       "fifa_match_number": 51
@@ -997,10 +1404,18 @@
         "fifa_archive": "12:30",
         "fifa_archive_date": "1994-07-17",
         "openfootball": null,
-        "openfootball_utc_offset": null
+        "openfootball_utc_offset": null,
+        "wikipedia": "12:30",
+        "wikipedia_date": "1994-07-17"
       },
       "selected_local_time": "12:30",
-      "status": "single-source",
+      "status": "resolved",
+      "resolution": {
+        "time": "12:30",
+        "selected_source": "Contemporary LA Times schedule corroborated by Wikipedia",
+        "evidence": "The venue-local scheduled kickoff is used. RSSSF's 1994 values often record actual starts or inconsistent zones.",
+        "rejected_value": "RSSSF omits the time."
+      },
       "date_mismatch": false,
       "fifa_match_id": "3104",
       "fifa_match_number": 52

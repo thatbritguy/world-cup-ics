@@ -20,6 +20,7 @@ from audit_historical_tournaments import (  # noqa: E402
 )
 from historical_config import WORLD_CUP_YEARS, historical_years  # noqa: E402
 from common import normalize_name  # noqa: E402
+from common import load_json  # noqa: E402
 
 
 class HistoricalAuditTests(unittest.TestCase):
@@ -126,6 +127,16 @@ class HistoricalAuditTests(unittest.TestCase):
         }
         self.assertEqual(
             {key: AUDIT_RESOLUTIONS[key]["time"] for key in expected}, expected
+        )
+
+    def test_complete_historical_audit_has_no_blocked_tournaments(self) -> None:
+        summary = load_json(ROOT / "reports" / "historical" / "summary.json")
+        self.assertEqual(len(summary["tournaments"]), 22)
+        self.assertTrue(
+            all(
+                not item["requires_review"] and item["error"] is None
+                for item in summary["tournaments"]
+            )
         )
 
 

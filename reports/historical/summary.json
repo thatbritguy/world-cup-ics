@@ -28,10 +28,10 @@
   ],
   "status_totals": {
     "accepted-modern-source": 259,
-    "conflict": 120,
-    "corroborated": 548,
-    "resolved": 29,
-    "single-source": 8
+    "conflict": 9,
+    "corroborated": 544,
+    "resolved": 149,
+    "single-source": 3
   },
   "tournaments": [
     {
@@ -80,9 +80,9 @@
       "match_count": 26,
       "status_counts": {
         "corroborated": 24,
-        "single-source": 2
+        "resolved": 2
       },
-      "requires_review": true,
+      "requires_review": false,
       "error": null
     },
     {
@@ -119,10 +119,10 @@
       "year": 1970,
       "match_count": 32,
       "status_counts": {
-        "conflict": 1,
-        "corroborated": 31
+        "corroborated": 31,
+        "resolved": 1
       },
-      "requires_review": true,
+      "requires_review": false,
       "error": null
     },
     {
@@ -160,9 +160,9 @@
       "match_count": 52,
       "status_counts": {
         "corroborated": 51,
-        "single-source": 1
+        "resolved": 1
       },
-      "requires_review": true,
+      "requires_review": false,
       "error": null
     },
     {
@@ -179,21 +179,18 @@
       "year": 1994,
       "match_count": 52,
       "status_counts": {
-        "conflict": 49,
-        "corroborated": 1,
-        "single-source": 2
+        "resolved": 52
       },
-      "requires_review": true,
+      "requires_review": false,
       "error": null
     },
     {
       "year": 1998,
       "match_count": 64,
       "status_counts": {
-        "conflict": 61,
-        "corroborated": 3
+        "resolved": 64
       },
-      "requires_review": true,
+      "requires_review": false,
       "error": null
     },
     {

@@ -10,11 +10,11 @@
   "match_count": 26,
   "status_counts": {
     "corroborated": 24,
-    "single-source": 2
+    "resolved": 2
   },
   "existing_calendar_status": null,
   "source_issues_resolved_in_enrichment": false,
-  "requires_review": true,
+  "requires_review": false,
   "matches": [
     {
       "date": "1954-06-16",
@@ -353,7 +353,13 @@
         "openfootball_utc_offset": null
       },
       "selected_local_time": "18:00",
-      "status": "single-source",
+      "status": "resolved",
+      "resolution": {
+        "time": "18:00",
+        "selected_source": "RSSSF scheduled kickoff",
+        "evidence": "RSSSF records 18:00 and Wikipedia's tournament schedule agrees.",
+        "rejected_value": "The archived FIFA dataset omits this playoff fixture."
+      },
       "date_mismatch": false,
       "fifa_match_id": null,
       "fifa_match_number": null
@@ -372,7 +378,13 @@
         "openfootball_utc_offset": null
       },
       "selected_local_time": "17:00",
-      "status": "single-source",
+      "status": "resolved",
+      "resolution": {
+        "time": "17:00",
+        "selected_source": "RSSSF scheduled kickoff",
+        "evidence": "RSSSF records 17:00 and Wikipedia's tournament schedule agrees.",
+        "rejected_value": "The archived FIFA dataset omits this quarter-final fixture."
+      },
       "date_mismatch": false,
       "fifa_match_id": null,
       "fifa_match_number": null
