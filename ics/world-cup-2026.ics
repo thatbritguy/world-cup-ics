@@ -1908,17 +1908,20 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-067@world-cup-ics
-DTSTAMP:20260611T121814Z
-LAST-MODIFIED:20260611T121814Z
-SEQUENCE:3
+DTSTAMP:20260617T225126Z
+LAST-MODIFIED:20260617T225126Z
+SEQUENCE:4
 DTSTART:20260617T200000Z
 DTEND:20260617T220000Z
-SUMMARY:[L1] 🏴󠁧󠁢󠁥󠁮󠁧󠁿 ENG vs CRO 🇭🇷 [022]
+SUMMARY:[L1] 🏴󠁧󠁢󠁥󠁮󠁧󠁿 ENG 4-2 CRO 🇭🇷 [022]
 LOCATION:AT&T Stadium\, Arlington
 GEO:32.747778;-97.092778
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="AT&T Stadium, Arlington";X
  -APPLE-RADIUS=100;X-TITLE="AT&T Stadium":geo:32.747778,-97.092778
-DESCRIPTION:Matchday 7 | ITV1
+DESCRIPTION:Matchday 7 | ITV1\nEngland 4-2 Croatia\nHT: 2-2\nGoals:\nENG 
+ 🏴󠁧󠁢󠁥󠁮󠁧󠁿: Harry Kane 12' pen\, Harry Kane 42'\, Jude B
+ ellingham 47'\, Marcus Rashford 85'\nCRO 🇭🇷: Martin Baturina 36'\, P
+ etar Musa 45+5'
 URL:https://forzafootball.com/match/1219435621
 STATUS:CONFIRMED
 TRANSP:OPAQUE
