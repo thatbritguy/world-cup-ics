@@ -1708,6 +1708,40 @@
       "time": "15:00 UTC-4",
       "team1": "Norway",
       "team2": "France",
+      "score": {
+        "ft": [
+          1,
+          4
+        ],
+        "ht": [
+          1,
+          3
+        ]
+      },
+      "goals1": [
+        {
+          "name": "Thelo Aasgaard",
+          "minute": "21"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Ousmane Dembélé",
+          "minute": "7"
+        },
+        {
+          "name": "Ousmane Dembélé",
+          "minute": "20"
+        },
+        {
+          "name": "Ousmane Dembélé",
+          "minute": "32"
+        },
+        {
+          "name": "Désiré Doué",
+          "minute": "90+4"
+        }
+      ],
       "group": "Group I",
       "ground": "Boston (Foxborough)"
     },
@@ -1717,6 +1751,39 @@
       "time": "15:00 UTC-4",
       "team1": "Senegal",
       "team2": "Iraq",
+      "score": {
+        "ft": [
+          5,
+          0
+        ],
+        "ht": [
+          1,
+          0
+        ]
+      },
+      "goals1": [
+        {
+          "name": "Habib Diarra",
+          "minute": "4"
+        },
+        {
+          "name": "Ismaïla Sarr",
+          "minute": "56"
+        },
+        {
+          "name": "Pape Gueye",
+          "minute": "59"
+        },
+        {
+          "name": "Pape Gueye",
+          "minute": "71"
+        },
+        {
+          "name": "Iliman Ndiaye",
+          "minute": "82"
+        }
+      ],
+      "goals2": [],
       "group": "Group I",
       "ground": "Toronto"
     },
