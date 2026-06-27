@@ -1530,6 +1530,16 @@
       "time": "19:00 UTC-5",
       "team1": "Cape Verde",
       "team2": "Saudi Arabia",
+      "score": {
+        "ft": [
+          0,
+          0
+        ],
+        "ht": [
+          0,
+          0
+        ]
+      },
       "group": "Group H",
       "ground": "Houston"
     },
@@ -1539,6 +1549,23 @@
       "time": "18:00 UTC-6",
       "team1": "Uruguay",
       "team2": "Spain",
+      "score": {
+        "ft": [
+          0,
+          1
+        ],
+        "ht": [
+          0,
+          1
+        ]
+      },
+      "goals1": [],
+      "goals2": [
+        {
+          "name": "Álex Baena",
+          "minute": "42"
+        }
+      ],
       "group": "Group H",
       "ground": "Guadalajara (Zapopan)"
     },
