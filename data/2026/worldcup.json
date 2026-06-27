@@ -1384,6 +1384,28 @@
       "time": "20:00 UTC-7",
       "team1": "Egypt",
       "team2": "Iran",
+      "score": {
+        "ft": [
+          1,
+          1
+        ],
+        "ht": [
+          1,
+          1
+        ]
+      },
+      "goals1": [
+        {
+          "name": "Mahmoud Saber",
+          "minute": "5"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Ramin Rezaeian",
+          "minute": "14"
+        }
+      ],
       "group": "Group G",
       "ground": "Seattle"
     },
@@ -1393,6 +1415,44 @@
       "time": "20:00 UTC-7",
       "team1": "New Zealand",
       "team2": "Belgium",
+      "score": {
+        "ft": [
+          1,
+          5
+        ],
+        "ht": [
+          0,
+          1
+        ]
+      },
+      "goals1": [
+        {
+          "name": "Elijah Just",
+          "minute": "84"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Leandro Trossard",
+          "minute": "28"
+        },
+        {
+          "name": "Leandro Trossard",
+          "minute": "50"
+        },
+        {
+          "name": "Kevin De Bruyne",
+          "minute": "66"
+        },
+        {
+          "name": "Romelu Lukaku",
+          "minute": "86"
+        },
+        {
+          "name": "Alexis Saelemaekers",
+          "minute": "90+4"
+        }
+      ],
       "group": "Group G",
       "ground": "Vancouver"
     },
