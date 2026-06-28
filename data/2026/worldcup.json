@@ -2177,6 +2177,16 @@
       "time": "19:30 UTC-4",
       "team1": "Colombia",
       "team2": "Portugal",
+      "score": {
+        "ft": [
+          0,
+          0
+        ],
+        "ht": [
+          0,
+          0
+        ]
+      },
       "group": "Group K",
       "ground": "Miami (Miami Gardens)"
     },
@@ -2186,6 +2196,37 @@
       "time": "19:30 UTC-4",
       "team1": "DR Congo",
       "team2": "Uzbekistan",
+      "score": {
+        "ft": [
+          3,
+          1
+        ],
+        "ht": [
+          0,
+          1
+        ]
+      },
+      "goals1": [
+        {
+          "name": "Yoane Wissa",
+          "minute": "68",
+          "penalty": true
+        },
+        {
+          "name": "Fiston Mayele",
+          "minute": "78"
+        },
+        {
+          "name": "Yoane Wissa",
+          "minute": "90+1"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Eldor Shomurodov",
+          "minute": "10"
+        }
+      ],
       "group": "Group K",
       "ground": "Atlanta"
     },
