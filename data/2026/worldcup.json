@@ -2698,6 +2698,27 @@
       "time": "19:00 UTC-6",
       "team1": "Mexico",
       "team2": "Ecuador",
+      "score": {
+        "ft": [
+          2,
+          0
+        ],
+        "ht": [
+          1,
+          0
+        ]
+      },
+      "goals1": [
+        {
+          "name": "Julián Quiñones",
+          "minute": "31"
+        },
+        {
+          "name": "Raúl Jiménez",
+          "minute": "45+1"
+        }
+      ],
+      "goals2": [],
       "ground": "Mexico City"
     },
     {
@@ -2786,8 +2807,8 @@
       "num": 89,
       "date": "2026-07-04",
       "time": "17:00 UTC-4",
-      "team1": "W74",
-      "team2": "W77",
+      "team1": "Paraguay",
+      "team2": "France",
       "ground": "Philadelphia"
     },
     {
@@ -2796,7 +2817,7 @@
       "date": "2026-07-04",
       "time": "12:00 UTC-5",
       "team1": "Canada",
-      "team2": "W75",
+      "team2": "Morocco",
       "ground": "Houston"
     },
     {
@@ -2804,8 +2825,8 @@
       "num": 91,
       "date": "2026-07-05",
       "time": "16:00 UTC-4",
-      "team1": "W76",
-      "team2": "W78",
+      "team1": "Brazil",
+      "team2": "Norway",
       "ground": "New York/New Jersey (East Rutherford)"
     },
     {
