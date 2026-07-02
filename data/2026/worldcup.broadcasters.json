@@ -440,17 +440,17 @@
     "matched_by": "teams"
   },
   "wc2026-match-089": {
-    "channel": null,
+    "channel": "BBC One",
     "source": "live-footballontv",
     "matched_by": "teams"
   },
   "wc2026-match-090": {
-    "channel": null,
+    "channel": "ITV1",
     "source": "live-footballontv",
     "matched_by": "teams"
   },
   "wc2026-match-091": {
-    "channel": null,
+    "channel": "ITV1",
     "source": "live-footballontv",
     "matched_by": "teams"
   },
@@ -460,22 +460,22 @@
     "matched_by": "teams"
   },
   "wc2026-match-093": {
-    "channel": null,
+    "channel": "BBC One",
     "source": "live-footballontv",
     "matched_by": "stage_uk_kickoff"
   },
   "wc2026-match-094": {
-    "channel": null,
+    "channel": "BBC One",
     "source": "live-footballontv",
     "matched_by": "teams"
   },
   "wc2026-match-095": {
-    "channel": null,
+    "channel": "ITV1",
     "source": "live-footballontv",
     "matched_by": "stage_uk_kickoff"
   },
   "wc2026-match-096": {
-    "channel": null,
+    "channel": "ITV1",
     "source": "live-footballontv",
     "matched_by": "stage_uk_kickoff"
   },
