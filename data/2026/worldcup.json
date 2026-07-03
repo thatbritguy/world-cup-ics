@@ -2645,12 +2645,12 @@
           "minute": "45"
         },
         {
-          "name": "Bradley Barcola",
-          "minute": "53"
-        },
-        {
           "name": "Kylian Mbappé",
           "minute": "74"
+        },
+        {
+          "name": "Bradley Barcola",
+          "minute": "53"
         }
       ],
       "goals2": [],
@@ -2893,12 +2893,12 @@
           "minute": "36"
         },
         {
-          "name": "Pedro Porro",
-          "minute": "66"
-        },
-        {
           "name": "Mikel Oyarzabal",
           "minute": "89"
+        },
+        {
+          "name": "Pedro Porro",
+          "minute": "66"
         }
       ],
       "goals2": [],
@@ -3002,8 +3002,8 @@
       "num": 93,
       "date": "2026-07-06",
       "time": "14:00 UTC-5",
-      "team1": "W83",
-      "team2": "W84",
+      "team1": "Portugal",
+      "team2": "Spain",
       "ground": "Dallas (Arlington)"
     },
     {
@@ -3029,7 +3029,7 @@
       "num": 96,
       "date": "2026-07-07",
       "time": "13:00 UTC-7",
-      "team1": "W85",
+      "team1": "Switzerland",
       "team2": "W87",
       "ground": "Vancouver"
     },
