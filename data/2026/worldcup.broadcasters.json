@@ -480,12 +480,12 @@
     "matched_by": "teams"
   },
   "wc2026-match-097": {
-    "channel": null,
+    "channel": "ITV1",
     "source": "live-footballontv",
     "matched_by": "teams"
   },
   "wc2026-match-098": {
-    "channel": null,
+    "channel": "BBC One",
     "source": "live-footballontv",
     "matched_by": "stage_uk_kickoff"
   },
@@ -495,7 +495,7 @@
     "matched_by": "teams"
   },
   "wc2026-match-100": {
-    "channel": null,
+    "channel": "ITV1",
     "source": "live-footballontv",
     "matched_by": "stage_uk_kickoff"
   },
