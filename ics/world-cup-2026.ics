@@ -2724,17 +2724,20 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-092@world-cup-ics
-DTSTAMP:20260702T074348Z
-LAST-MODIFIED:20260702T074348Z
-SEQUENCE:6
+DTSTAMP:20260706T043813Z
+LAST-MODIFIED:20260706T043813Z
+SEQUENCE:7
 DTSTART:20260706T000000Z
 DTEND:20260706T030000Z
-SUMMARY:[R16] 🇲🇽 MEX vs ENG 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [092]
+SUMMARY:[R16] 🇲🇽 MEX 2-3 ENG 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [092]
 LOCATION:Estadio Azteca\, Mexico City
 GEO:19.303056;-99.150556
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Estadio Azteca, Mexico Cit
  y";X-APPLE-RADIUS=100;X-TITLE="Estadio Azteca":geo:19.303056,-99.150556
-DESCRIPTION:Round of 16 | BBC One
+DESCRIPTION:Round of 16 | BBC One\nMexico 2-3 England\nHT: 1-2\nGoals:\nMEX
+  🇲🇽: Julián Quiñones 42'\, Raúl Jiménez 69' pen\nENG 🏴󠁧
+ 󠁢󠁥󠁮󠁧󠁿: Jude Bellingham 36'\, Jude Bellingham 38'\, Harry Ka
+ ne 60' pen
 URL:https://forzafootball.com/match/1217858431
 STATUS:CONFIRMED
 TRANSP:OPAQUE
