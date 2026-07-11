@@ -502,7 +502,7 @@
   "wc2026-match-101": {
     "channel": null,
     "source": "live-footballontv",
-    "matched_by": "stage_uk_kickoff"
+    "matched_by": "teams"
   },
   "wc2026-match-102": {
     "channel": null,
