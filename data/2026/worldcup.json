@@ -3401,6 +3401,36 @@
       "time": "17:00 UTC-4",
       "team1": "Norway",
       "team2": "England",
+      "score": {
+        "et": [
+          1,
+          2
+        ],
+        "ft": [
+          1,
+          1
+        ],
+        "ht": [
+          1,
+          1
+        ]
+      },
+      "goals1": [
+        {
+          "name": "Andreas Schjelderup",
+          "minute": "36"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Jude Bellingham",
+          "minute": "45+2"
+        },
+        {
+          "name": "Jude Bellingham",
+          "minute": "93"
+        }
+      ],
       "ground": "Miami (Miami Gardens)"
     },
     {
@@ -3410,6 +3440,40 @@
       "time": "20:00 UTC-5",
       "team1": "Argentina",
       "team2": "Switzerland",
+      "score": {
+        "et": [
+          3,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ],
+        "ht": [
+          1,
+          0
+        ]
+      },
+      "goals1": [
+        {
+          "name": "Alexis Mac Allister",
+          "minute": "10"
+        },
+        {
+          "name": "Julián Álvarez",
+          "minute": "112"
+        },
+        {
+          "name": "Lautaro Martínez",
+          "minute": "120+1"
+        }
+      ],
+      "goals2": [
+        {
+          "name": "Dan Ndoye",
+          "minute": "67"
+        }
+      ],
       "ground": "Kansas City"
     },
     {
