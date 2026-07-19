@@ -3055,18 +3055,22 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-103@world-cup-ics
-DTSTAMP:20260715T211424Z
-LAST-MODIFIED:20260715T211424Z
-SEQUENCE:6
+DTSTAMP:20260719T035232Z
+LAST-MODIFIED:20260719T035232Z
+SEQUENCE:7
 DTSTART:20260718T210000Z
 DTEND:20260719T000000Z
-SUMMARY:[3RD] 🇫🇷 FRA vs ENG 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [103]
+SUMMARY:[3RD] 🇫🇷 FRA 4-6 ENG 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [103]
 LOCATION:Hard Rock Stadium\, Miami Gardens
 GEO:25.958056;-80.238889
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Hard Rock Stadium, Miami G
  ardens";X-APPLE-RADIUS=100;X-TITLE="Hard Rock Stadium":geo:25.958056,-80.2
  38889
-DESCRIPTION:Match for third place | BBC One
+DESCRIPTION:Match for third place | BBC One\nFrance 4-6 England\nHT: 0-4\nG
+ oals:\nFRA 🇫🇷: Kylian Mbappé 48'\, Bradley Barcola 54'\, Kylian Mba
+ ppé 66'\, Ousmane Dembélé 90+6'\nENG 🏴󠁧󠁢󠁥󠁮󠁧󠁿: Decl
+ an Rice 3'\, Ezri Konsa 18'\, Bukayo Saka 37'\, Bukayo Saka 45+1'\, Bukayo
+  Saka 87' pen\, Jude Bellingham 90+8'
 URL:https://forzafootball.com/match/1217858442
 STATUS:CONFIRMED
 TRANSP:OPAQUE
